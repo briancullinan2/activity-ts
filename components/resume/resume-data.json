@@ -1,0 +1,839 @@
+{
+	"applicant_profile": {
+		"full_name": "Brian James Cullinan",
+		"headline": "Software Engineer, Network Administrator, Systems Architect, Spatial/Graphics Developer, Professional Contradictarian",
+		"contact": {
+			"phone": "(480) 466-0856",
+			"email": "bjcullinan@gmail.com",
+			"location": "Flagstaff, Arizona 86004",
+			"website": "https://briancullinan.com",
+			"github": "https://github.com/briancullinan2"
+		},
+		"federal_metadata": {
+			"citizenship": "United States",
+			"special_hiring_authority": "Person with Disability",
+			"clearance": "Level 0 (Public Internet)",
+			"objective": "To obtain a full-time position in public service with the FBI as a residential field agent, or to continue building client-side spatial compute engines until corporate HR algorithms give up."
+		},
+		"executive_summary": "Over 24 years of programming experience spanning low-level C compilation to modern browser-based spatial/3D engines. I have systematically built, scaled, and occasionally burned down digital infrastructure across medical tech, e-commerce, game development, and educational startups. Possess a master-level understanding of cognitive bias, corporate signaling, and ATS parser limitations."
+	},
+	"skills_and_technologies_matrix": {
+		"summary": "Exhaustive list of tools and concepts mastered, sorted by years of endurance.",
+		"skills": [
+			{
+				"name": "Business & Leadership",
+				"years": 22.2,
+				"category": "skill"
+			},
+			{
+				"name": "Failure Experience & Recovery",
+				"years": 16.4,
+				"category": "skill"
+			},
+			{
+				"name": "Full Stack Development",
+				"years": 15.3,
+				"category": "skill"
+			},
+			{
+				"name": "Quality Assurance / QA",
+				"years": 14.7,
+				"category": "skill"
+			},
+			{
+				"name": "Start-Up Ventures",
+				"years": 13.3,
+				"category": "skill"
+			},
+			{
+				"name": "Software Engineering",
+				"years": 12.3,
+				"category": "skill"
+			},
+			{
+				"name": "Security & Ethical Hacking",
+				"years": 11.7,
+				"category": "skill"
+			},
+			{
+				"name": "Network Administration",
+				"years": 11.2,
+				"category": "skill"
+			},
+			{
+				"name": "Software Architecture",
+				"years": 10.9,
+				"category": "skill"
+			},
+			{
+				"name": "Education Tech / EdTech",
+				"years": 10.7,
+				"category": "skill"
+			},
+			{
+				"name": "User Experience (UX/UI)",
+				"years": 7.5,
+				"category": "skill"
+			},
+			{
+				"name": "Technical Support",
+				"years": 5.5,
+				"category": "skill"
+			},
+			{
+				"name": "Marketing & Sales Tech",
+				"years": 5.0,
+				"category": "skill"
+			},
+			{
+				"name": "Test Automation",
+				"years": 4.3,
+				"category": "skill"
+			},
+			{
+				"name": "DevOps & CI/CD",
+				"years": 3.2,
+				"category": "skill"
+			},
+			{
+				"name": "Agile / Lean Startup",
+				"years": 3.2,
+				"category": "skill"
+			},
+			{
+				"name": "Parenting",
+				"years": 3.0,
+				"category": "skill"
+			},
+			{
+				"name": "General Construction",
+				"years": 3.0,
+				"category": "skill"
+			},
+			{
+				"name": "Electrical Engineering",
+				"years": 2.5,
+				"category": "skill"
+			},
+			{
+				"name": "Medical Computing",
+				"years": 2.5,
+				"category": "skill"
+			},
+			{
+				"name": "Mathematics & Algorithms",
+				"years": 2.5,
+				"category": "skill"
+			}
+		],
+		"core_languages": [
+			{
+				"name": "JavaScript / TypeScript",
+				"years": 13.3,
+				"proficiency": "Expert / Native"
+			},
+			{
+				"name": "HTML5 / CSS3",
+				"years": 13.3,
+				"proficiency": "Expert"
+			},
+			{
+				"name": "Java",
+				"years": 13.3,
+				"proficiency": "Expert"
+			},
+			{
+				"name": "PHP (4/5/7)",
+				"years": 10.8,
+				"proficiency": "Expert"
+			},
+			{
+				"name": "C# / .NET / Blazor / WPF",
+				"years": 7.7,
+				"proficiency": "Expert"
+			},
+			{
+				"name": "C / C++ / WebAssembly (WASI)",
+				"years": 6.0,
+				"proficiency": "Advanced / Engine Level"
+			},
+			{
+				"name": "Python",
+				"years": 5.4,
+				"proficiency": "Advanced"
+			},
+			{
+				"name": "Swift / iOS",
+				"years": 3.2,
+				"proficiency": "Intermediate"
+			},
+			{
+				"name": "Ruby / Ruby on Rails",
+				"years": 0.3,
+				"proficiency": "Intermediate"
+			}
+		],
+		"tools_and_infrastructure": [
+			{
+				"name": "Active Directory",
+				"years": 8.0,
+				"category": "tool"
+			},
+			{
+				"name": "Group Policy",
+				"years": 8.0,
+				"category": "tool"
+			},
+			{
+				"name": "LDAP Authentication",
+				"years": 7.7,
+				"category": "tool"
+			},
+			{
+				"name": "Hyper-V / IIS",
+				"years": 7.7,
+				"category": "tool"
+			},
+			{
+				"name": "PowerShell",
+				"years": 7.7,
+				"category": "tool"
+			},
+			{
+				"name": "Git / Version Control / GitHub / Bitbucket",
+				"years": 7.3,
+				"category": "tool"
+			},
+			{
+				"name": "Photoshop / Creative Suite",
+				"years": 7.0,
+				"category": "tool"
+			},
+			{
+				"name": "REST / JSON APIs",
+				"years": 7.0,
+				"category": "tool"
+			},
+			{
+				"name": "Docker / Containers",
+				"years": 7.0,
+				"category": "tool"
+			},
+			{
+				"name": "OWASP / Web Security",
+				"years": 6.5,
+				"category": "tool"
+			},
+			{
+				"name": "Selenium Webdriver",
+				"years": 6.0,
+				"category": "tool"
+			},
+			{
+				"name": "Samba / Linux / Unix / Parrot OS",
+				"years": 6.0,
+				"category": "tool"
+			},
+			{
+				"name": "MS SQL / SQL Server",
+				"years": 5.7,
+				"category": "tool"
+			},
+			{
+				"name": "Cisco Networking",
+				"years": 5.5,
+				"category": "tool"
+			},
+			{
+				"name": "VMWare Virtualization",
+				"years": 5.5,
+				"category": "tool"
+			},
+			{
+				"name": "Jupyter Notebooks",
+				"years": 5.4,
+				"category": "tool"
+			},
+			{
+				"name": "Dell Enterprise Hardware",
+				"years": 5.2,
+				"category": "tool"
+			},
+			{
+				"name": "Nagios Monitoring",
+				"years": 5.2,
+				"category": "tool"
+			},
+			{
+				"name": "Node.js / Express",
+				"years": 4.5,
+				"category": "tool"
+			},
+			{
+				"name": "Drupal CMS",
+				"years": 4.5,
+				"category": "tool"
+			},
+			{
+				"name": "Vue.js / Angular / Angular 2 / AngularJS",
+				"years": 4.5,
+				"category": "tool"
+			},
+			{
+				"name": "Authorize.Net API",
+				"years": 4.3,
+				"category": "tool"
+			},
+			{
+				"name": "IoT / Microcontrollers / Raspberry Pi 5",
+				"years": 4.1,
+				"category": "tool"
+			},
+			{
+				"name": "Apache Web Server / Nginx",
+				"years": 4.0,
+				"category": "tool"
+			},
+			{
+				"name": "PCI-DSS Compliance",
+				"years": 4.0,
+				"category": "tool"
+			},
+			{
+				"name": "AWS (EC2, IAM, RDS)",
+				"years": 3.9,
+				"category": "tool"
+			},
+			{
+				"name": "Google Cloud Platform",
+				"years": 3.9,
+				"category": "tool"
+			},
+			{
+				"name": "SendGrid API",
+				"years": 3.9,
+				"category": "tool"
+			},
+			{
+				"name": "Stripe Payments",
+				"years": 3.9,
+				"category": "tool"
+			},
+			{
+				"name": "AutoCAD Integration",
+				"years": 3.3,
+				"category": "tool"
+			},
+			{
+				"name": "NMAP Scanner / Nessus / Wapiti",
+				"years": 3.3,
+				"category": "tool"
+			},
+			{
+				"name": "Symfony Framework",
+				"years": 3.2,
+				"category": "tool"
+			},
+			{
+				"name": "Bootstrap",
+				"years": 3.2,
+				"category": "tool"
+			},
+			{
+				"name": "Bitbucket / Crucible / JIRA",
+				"years": 3.2,
+				"category": "tool"
+			},
+			{
+				"name": "Google Analytics / OAuth 2.0",
+				"years": 3.2,
+				"category": "tool"
+			},
+			{
+				"name": "MATLAB / Monte Carlo / Linear Regression",
+				"years": 2.5,
+				"category": "tool"
+			},
+			{
+				"name": "HIPAA / CFR 21 Part 11 Compliance",
+				"years": 2.5,
+				"category": "tool"
+			},
+			{
+				"name": "LLBLGen / Perforce",
+				"years": 2.5,
+				"category": "tool"
+			},
+			{
+				"name": "Microsoft Exchange",
+				"years": 2.5,
+				"category": "tool"
+			},
+			{
+				"name": "Audio Consoles / Equalizers / XLR Soldering",
+				"years": 1.3,
+				"category": "tool"
+			},
+			{
+				"name": "Cosmetology / Salon Systems",
+				"years": 1.2,
+				"category": "tool"
+			},
+			{
+				"name": "PayPal API / SugarCRM",
+				"years": 1.0,
+				"category": "tool"
+			},
+			{
+				"name": "Oracle Eloqua / Zuora API",
+				"years": 0.8,
+				"category": "tool"
+			},
+			{
+				"name": "Bugzilla",
+				"years": 0.3,
+				"category": "tool"
+			},
+			{
+				"name": "Citrix Thin-Clients",
+				"years": 0.3,
+				"category": "tool"
+			},
+			{
+				"name": "Rational Unified Process (RUP)",
+				"years": 0.3,
+				"category": "tool"
+			}
+		],
+		"advanced_frameworks_and_specializations": [
+			"Three.js",
+			"WebGPU",
+			"Lumino / JupyterLab Dock Layouts",
+			"D3.js",
+			"OpenCV",
+			"Fast-ALPR",
+			"ONNX Runtime Web",
+			"WebLLM",
+			"FFmpeg.wasm",
+			"Web Workers",
+			"Origin Private File System (OPFS)",
+			"WebTorrent",
+			"SOCKS5 Protocol",
+			"WebSockets",
+			"Emscripten / LLVM",
+			"WASI-SDK",
+			"Ace Editor Workers",
+			"SDR Signal Monitoring (ADS-B/AIS/sub-GHz)",
+			"Google Sheets API",
+			"SharePoint Document Control Systems (DCS)"
+		]
+	},
+	"employment_history": [
+		{
+			"period": "2024 - 2026",
+			"role": "Systems Architect & Open Source Pioneer",
+			"company": "Self-Directed / GitHub Architecture (briancullinan2)",
+			"location": "Flagstaff, AZ / Remote",
+			"narrative": "Refused to let legacy server architectures dictate modern UX. Engineered single-file browser IDEs, client-side WASM video transcoders, and modular Lumino layout telemetry decks without relying on bloated server compute.",
+			"related_skills": [
+				"TypeScript",
+				"WebAssembly",
+				"Lumino",
+				"Three.js",
+				"D3.js",
+				"Web Workers",
+				"OPFS",
+				"Node.js",
+				"FFmpeg.wasm",
+				"OpenCV",
+				"Fast-ALPR"
+			],
+			"highlights": [
+				"Built 'ARGUS' tactical telemetry dashboard with 12 real-time widgets, SDR signal tracking, BLE tracking, GPS, dual Ryobi 18V UPS power, and OpenCV/Fast-ALPR pipelines.",
+				"Engineered client-side media server modernization replacing monolithic PHP backends with Web Workers, OPFS, WebTorrent, and FFmpeg.wasm for client-side transcoding.",
+				"Created 'quedit' and 'illustrious' spatially intelligent browser workspaces integrating WASI-SDK C compilation, Lumino dock layouts, and Ace editor workers."
+			]
+		},
+		{
+			"period": "Aug 2019 - Present",
+			"role": "Game Engine & WASM Developer",
+			"company": "Independent / Self-employed",
+			"location": "Flagstaff, AZ / Remote",
+			"narrative": "Took the legendary id Tech 3 engine (Quake III Arena) and dragged it into the 21st century web ecosystem despite legal threats and open-source licensing purists.",
+			"related_skills": [
+				"C",
+				"C++",
+				"WebAssembly",
+				"Emscripten",
+				"LLVM",
+				"SOCKS5",
+				"WebSockets",
+				"SDL2",
+				"Linear Algebra",
+				"Vector Graphics",
+				"C#",
+				"Unity",
+				"WebGPU"
+			],
+			"highlights": [
+				"Bypassed native desktop installations by implementing SOCKS5 protocol and WebSockets, enabling direct browser connectivity to any native Quake 3 server.",
+				"Extracted system APIs out of Emscripten to eliminate GL emulation leaks and audio spatialization issues, doubling engine framerates from 30 FPS to 200+ FPS in-browser.",
+				"Integrated drop-in Portal geometry, cross-integrated C#/Unity/WebGPU modules into spatial pipelines, and rendered 3D map exploration tools for community platforms."
+			]
+		},
+		{
+			"period": "Jan 2019 - Jul 2019",
+			"role": "Software Architect",
+			"company": "Shop Illuminati",
+			"location": "Scottsdale, AZ",
+			"narrative": "Constructed an entire cosmetics e-commerce architecture and automated product pipeline so non-technical founders could manage live inventory using Google Sheets.",
+			"related_skills": [
+				"Node.js",
+				"JavaScript",
+				"Google Sheets API",
+				"E-Commerce",
+				"Stripe API",
+				"Google Cloud Platform",
+				"Vue.js",
+				"Angular",
+				"TypeScript"
+			],
+			"highlights": [
+				"Streamlined live product delivery pipelines to update storefront inventory automatically from spreadsheet modifications.",
+				"Designed high-converting UI/UX storefront layouts optimized for beauty product merchandising."
+			]
+		},
+		{
+			"period": "Mar 2018 - Jan 2019",
+			"role": "Software Architect & Prototype Engineer",
+			"company": "Independent Consulting",
+			"location": "Scottsdale, AZ",
+			"narrative": "Built rapid-prototype web applications across modern JavaScript frameworks for startups trying to figure out what they were actually selling.",
+			"related_skills": [
+				"Vue.js",
+				"Angular",
+				"JavaScript",
+				"Node.js",
+				"Python",
+				"Jupyter",
+				"Firebase",
+				"OData"
+			],
+			"highlights": [
+				"Created an ingredient-based cocktail recommendation discovery engine for Drinks.com.",
+				"Developed a dynamic localized happy-hour promotion tracker for small-town restaurant engagement.",
+				"Architected educational prototype platforms for higher education initiatives."
+			]
+		},
+		{
+			"period": "Apr 2018",
+			"role": "Software Architect",
+			"company": "Mindspree",
+			"location": "Scottsdale, AZ",
+			"narrative": "Architected an online matching engine connecting tutors with students across educational institutions.",
+			"related_skills": [
+				"Software Architecture",
+				"Business & Leadership",
+				"Education Tech / EdTech"
+			],
+			"highlights": [
+				"Designed matching system architecture and user workflows for educational support platforms."
+			]
+		},
+		{
+			"period": "Mar 2017 - Feb 2018",
+			"role": "Software Engineer",
+			"company": "Act! (Swiftpage)",
+			"location": "Scottsdale, AZ",
+			"narrative": "Worked 3,500 hours in a single year without taking paid time off while navigating an antiquated monolith, passive-aggressive corporate reviews, and 'unlimited PTO' psychological traps.",
+			"related_skills": [
+				"Node.js",
+				"C#",
+				"AngularJS",
+				"AWS",
+				"Zuora API",
+				"Oracle Eloqua",
+				"Git",
+				"ADP"
+			],
+			"highlights": [
+				"Built customer management buy funnels and billing storefronts integrated with Zuora and Oracle Eloqua.",
+				"Automated a manual billing validation process that saved the company $10,000+ annually, only to be told by management that the effort was 'a waste'.",
+				"Switched platform architecture from heavy C# to Node.js serverless microservices on AWS to ensure true continuous integration."
+			]
+		},
+		{
+			"period": "Sep 2016 - Nov 2017",
+			"role": "Software Architect",
+			"company": "CityScapes Architectural Innovations",
+			"location": "Columbus, OH / Remote",
+			"narrative": "Constructed a 3D architectural product marketplace that allowed clients to manipulate materials and AutoCAD objects live in the browser.",
+			"related_skills": [
+				"Vue.js",
+				"Three.js",
+				"Node.js",
+				"AutoCAD",
+				"Google Material Design",
+				"Firebase"
+			],
+			"highlights": [
+				"Engineered automated pipelines to transform CAD files into real-time interactive 3D web assets.",
+				"Implemented live customizer tools for architectural screening, directly driving new digital sales revenue."
+			]
+		},
+		{
+			"period": "Oct 2016 - Jun 2017",
+			"role": "Full Stack Developer & Marketing Technologist",
+			"company": "The SOS Method",
+			"location": "Scottsdale, AZ",
+			"narrative": "Developed employee wellness web platforms centered on daily meditation and mental health logging.",
+			"related_skills": [
+				"Angular 2",
+				"Node.js",
+				"TypeScript",
+				"AWS (EC2, RDS)",
+				"SendGrid",
+				"Stripe"
+			],
+			"highlights": [
+				"Implemented user interaction journals and corporate wellness subscription portals."
+			]
+		},
+		{
+			"period": "Nov 2016 - Mar 2017",
+			"role": "Business Analyst / Database Architect",
+			"company": "Charles Schwab",
+			"location": "Gilbert, AZ",
+			"narrative": "Assigned to a windowless basement with anti-social contractors to remove secondary database access via request tools. Learned that corporate IBM Rational Unified Process (RUP) is where agility goes to die.",
+			"related_skills": [
+				"IBM Rational Tools",
+				"RUP",
+				"SharePoint",
+				"SQL Server",
+				"ITSM",
+				"Database Security"
+			],
+			"highlights": [
+				"Led a team of database engineers to identify and resolve critical data access security vulnerabilities.",
+				"Exemplified corporate security failures while attempting to retrain management to approach RUP documentation holistically rather than sequentially.",
+				"Configured SharePoint Document Control Systems (DCS) linked to project artifacts."
+			]
+		},
+		{
+			"period": "2015 - 2020",
+			"role": "Product Manager & E-Commerce Architect",
+			"company": "Spa Ha Ha / Yellow Rose Spa / Illuminati Skin Care",
+			"location": "Scottsdale, AZ / Remote",
+			"narrative": "Managed salon setups, developed ERP/CRM logistics for international shipping, and deployed AMP-optimized e-commerce sites.",
+			"related_skills": [
+				"Google AMP",
+				"Google Merchant",
+				"Google Sites",
+				"Jupyter",
+				"Cosmetology Systems",
+				"E-Commerce"
+			],
+			"highlights": [
+				"Architected international shipping logistics and ERP/CRM pipelines for specialty skincare distribution.",
+				"Built AMP-optimized e-commerce interfaces driving low-latency mobile conversions."
+			]
+		},
+		{
+			"period": "Aug 2013 - Oct 2016",
+			"role": "Principal Software Architect",
+			"company": "The Study Institute (Study Sauce)",
+			"location": "Scottsdale, AZ",
+			"narrative": "Partnered with a former Marine over 3 years to design 3 distinct educational applications centered on spaced repetition, interleaving study methods, and cognitive science.",
+			"related_skills": [
+				"PHP",
+				"Symfony",
+				"Drupal",
+				"REST APIs",
+				"AWS (EC2, IAM, RDS)",
+				"Swift / iOS",
+				"Authorize.Net",
+				"PCI-DSS",
+				"Selenium"
+			],
+			"highlights": [
+				"Built an online study course platform with 15 gamified lessons, A/B marketing funnels, and 24/7 engineering support.",
+				"Architected a native iOS and web spaced-repetition flashcard application implementing the Forgetting Curve algorithm.",
+				"Configured end-to-end server architecture to strictly adhere to PCI-DSS standards for transactional processing."
+			]
+		},
+		{
+			"period": "Apr 2013 - Aug 2013",
+			"role": "Full Stack Engineer",
+			"company": "Dynamynd Inc.",
+			"location": "Scottsdale, AZ",
+			"narrative": "Built automated testing frameworks and interactive career-focused personality testing tools for students in Ruby on Rails.",
+			"related_skills": [
+				"Ruby on Rails",
+				"Authorize.Net",
+				"Bugzilla",
+				"Selenium",
+				"GitHub"
+			],
+			"highlights": [
+				"Constructed automated testing frameworks separating staging and production deployment environments.",
+				"Integrated transactional billing using Authorize.Net in Ruby on Rails."
+			]
+		},
+		{
+			"period": "Feb 2011 - Aug 2013",
+			"role": "Software Engineer & Network Administrator",
+			"company": "EPIC Research & Diagnostics",
+			"location": "Scottsdale, AZ",
+			"narrative": "Re-engineered a medical device software platform analyzing mitochondrial stress via Kirlian imaging. Reduced image processing time by 6,000%, moving calculation speeds from 10 minutes to 10 milliseconds.",
+			"related_skills": [
+				"C#",
+				"WPF",
+				"MATLAB COM",
+				"Linear Regression",
+				"Monte Carlo",
+				"Hyper-V",
+				"Active Directory",
+				"Group Policy",
+				"IIS",
+				"HIPAA",
+				"CFR 21 Part 11"
+			],
+			"highlights": [
+				"Rewrote matrix calculation logic using native MATLAB compilation and linear regression, enabling real-time video snapshot diagnostics.",
+				"Constructed an isolated Windows Desktop Kiosk shell to restrict workstation access and eliminate network tampering during hospital clinical trials.",
+				"Architected an on-premise cloud server using ASP.NET MVC for remote doctors to securely view patient data across hospital locations."
+			]
+		},
+		{
+			"period": "Aug 2011 - Jun 2012",
+			"role": "Web Developer & Security Researcher",
+			"company": "Sitewatch, LLC",
+			"location": "Flagstaff, AZ",
+			"narrative": "Built vibrant user interfaces for an automated vulnerability scanner. Discovered zero-days and contributed to security research.",
+			"related_skills": [
+				"PHP",
+				"Python",
+				"Java",
+				"OWASP",
+				"NMAP",
+				"Nessus",
+				"Wapiti",
+				"PCI-DSS",
+				"Linux"
+			],
+			"highlights": [
+				"Featured on the Google Security Hall of Fame (Q2 2011) for web application vulnerability disclosures.",
+				"Participated in DEFCON vulnerability presentation showcasing automated scanning engines.",
+				"Implemented strict OWASP sink-escaping to prevent XSS and XSRF attacks."
+			]
+		},
+		{
+			"period": "Aug 2007 - Dec 2010",
+			"role": "Senior Web Developer & Call Center Manager",
+			"company": "Northern Arizona University (CEFNS)",
+			"location": "Flagstaff, AZ",
+			"narrative": "Managed a university technical support call center, drastically reducing departmental overhead while writing custom automation scripts.",
+			"related_skills": [
+				"PHP",
+				"LDAP",
+				"Active Directory",
+				"PowerShell",
+				"Cisco",
+				"Nagios",
+				"VMWare",
+				"Hyper-V"
+			],
+			"highlights": [
+				"Integrated university LDAP with PHP web applications to auto-fill student enrollment forms.",
+				"Repaired physical hardware, power supplies, and audio/visual server systems across engineering departments."
+			]
+		},
+		{
+			"period": "Aug 2008 - Dec 2009",
+			"role": "Radio Engineer & Web Developer",
+			"company": "KJAK Radio",
+			"location": "Flagstaff, AZ",
+			"narrative": "Maintained radio recording studio hardware and designed campus radio web portals.",
+			"related_skills": [
+				"PHP",
+				"Drupal",
+				"Equalizers",
+				"Audio Consoles",
+				"Soldering",
+				"XLR",
+				"REST"
+			],
+			"highlights": [
+				"Maintained voice processors, equalizers, and digital audio consoles for sporting event broadcasts.",
+				"Built the KJACK radio portal on Drupal displaying live playlist feeds."
+			]
+		},
+		{
+			"period": "Feb 2006 - Feb 2007",
+			"role": "Co-Owner & Developer",
+			"company": "Red Pepper Solutions (RP-S)",
+			"location": "Scottsdale, AZ",
+			"narrative": "Co-founded web development firm building custom CMS backends and CRM tools.",
+			"related_skills": [
+				"PHP",
+				"PayPal API",
+				"SugarCRM",
+				"CSS",
+				"Full Stack"
+			],
+			"highlights": [
+				"Created payment authentication libraries for PayPal API integration.",
+				"Customized SugarCRM user modules for small business clients."
+			]
+		},
+		{
+			"period": "May 2006 - Sep 2006",
+			"role": "Assistant IT & Web Developer",
+			"company": "National Sign Systems",
+			"location": "Hilliard, OH",
+			"narrative": "Sourced microcontroller hardware for wireless menu boards and set up Citrix thin-client environments for family manufacturing business.",
+			"related_skills": [
+				"PHP",
+				"JavaScript",
+				"Citrix",
+				"AutoCAD",
+				"Microcontrollers",
+				"Active Directory"
+			],
+			"highlights": [
+				"Configured thin-client networks to reduce workstation hardware costs.",
+				"Built initial web marketing interfaces showcasing 3D architectural products."
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "Northern Arizona University",
+			"degree": "Bachelor of Science in Computer Science",
+			"graduation_year": 2010,
+			"gpa": "2.5 (Less than impressive trek, but got the paper)",
+			"relevant_coursework": [
+				"Distributed Systems",
+				"Enterprise Web Computing",
+				"Advanced User Interfaces",
+				"Computer Security",
+				"Embedded Systems",
+				"Compilers",
+				"Virtual Worlds",
+				"Data Mining"
+			]
+		}
+	],
+	"extracurricular_and_sabbaticals": [
+		{
+			"title": "International Fatherhood & Philosophical Sabbatical",
+			"duration": "2018 - 2020",
+			"details": "Lived in Poland, navigated European healthcare vs. American medical bureaucracy, gained dual citizenship for son, studied 200+ cognitive biases, world religions, and municipal property law."
+		},
+		{
+			"title": "General Contracting & Desert Horticulture",
+			"duration": "7 Year Ongoing Project",
+			"details": "Transformed barren Arizona sand substrate into fertile fruit-bearing soil through composting. Mastered flat-top griddle polymerization, carpentry, and home improvement."
+		}
+	]
+}
