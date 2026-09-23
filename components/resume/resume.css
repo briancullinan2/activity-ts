@@ -6,7 +6,7 @@
 	border: 1px solid rgba(255, 255, 255, 0.08) !important;
 	border-radius: 8px !important;
 	box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37) !important;
-	transition: transform 0.2s ease, border-color 0.2s ease, opacity 0.2s ease !important;
+	transition: margin 0.2s ease, transform 0.2s ease, border-color 0.2s ease, opacity 0.2s ease !important;
 }
 
 .glass-card:hover {

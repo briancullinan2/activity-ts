@@ -94,7 +94,7 @@ export class ResumeWidget extends Widget
 	private static _resumeDataPromise: Promise<IFullResumeData | undefined> | null = null;
 	private static _cachedResumeData?: IFullResumeData;
 
-	private _activeFilter: string | null = null;
+	public _activeFilter: string | null = null;
 	private _gitEvents: ICommitEvent[] = [];
 	private _activeSection: 'all' | 'profile' | 'skills' | 'experience' | 'education' | 'sabbaticals' = 'all';
 
@@ -105,11 +105,15 @@ export class ResumeWidget extends Widget
 	private _skillsBarChartEl!: HTMLDivElement;
 	private _heatmapSvgEl!: SVGSVGElement;
 	private _cardsContainerEl!: HTMLDivElement;
-	private _filterBadgeEl!: HTMLDivElement;
+	public _filterBadgeEl!: HTMLDivElement;
 	private _navTabsContainerEl!: HTMLDivElement;
 
 	constructor()
 	{
+		if(ResumeWidget.instance)
+		{
+			return ResumeWidget.instance;
+		}
 		super();
 		this.addClass('lm-ResumeWidget');
 		this.id = 'resume-anthology-widget';
@@ -124,9 +128,10 @@ export class ResumeWidget extends Widget
 		this.node.style.fontFamily = 'Consolas, "Courier New", monospace';
 
 		this.title.label = 'Resume';
-		this.title.iconClass = 'fa fa-graduation-cap';
+		this.title.iconClass = 'bx bx-education';
 		this.title.closable = true;
 
+		ResumeWidget.instance = this;
 	}
 
 	/**
@@ -224,7 +229,6 @@ export class ResumeWidget extends Widget
 	{
 		super.onResize(msg);
 		this._renderD3Heatmap();
-		this._renderSkillsChart();
 	}
 
 	public dispose(): void
@@ -233,6 +237,14 @@ export class ResumeWidget extends Widget
 		super.dispose();
 	}
 
+	public processMessage(msg: Message): void
+	{
+		if(msg.type === 'close-request')
+		{
+			widgetSelf.SkillsWidget?.getInstance().close();
+		}
+		super.processMessage(msg);
+	}
 
 	private _buildUI(): void
 	{
@@ -251,11 +263,17 @@ export class ResumeWidget extends Widget
 
 		console.log(this._resumeData);
 		const profile = this._resumeData?.applicant_profile;
+
+		if(profile?.full_name)
+		{
+			this.title.label = profile?.full_name;
+			this.update();
+		}
+
 		const titleBox = document.createElement('div');
-		titleBox.style.flexBasis = '90%';
+		titleBox.style.flexBasis = '80%';
 		titleBox.innerHTML = `
             <div style="display:flex; align-items:center; gap:12px;">
-                <span style="font-weight:bold; font-size:16px; color:#4ec9b0;">${profile?.full_name}</span>
                 <span style="font-size:11px; color:#888;">${profile?.contact.location} | ${profile?.contact.phone} | ${profile?.contact.email}</span>
             </div>
             <div style="font-size:11px; color:#569cd6; margin-top:2px;">${profile?.headline}</div>
@@ -275,8 +293,9 @@ export class ResumeWidget extends Widget
 		this._filterBadgeEl.style.display = 'none';
 
 		const printBtn = document.createElement('button');
+		printBtn.style.flexBasis = '20%';
 		printBtn.className = 'tab-btn';
-		printBtn.innerHTML = '<i class="fa fa-print"></i> Print Anthology (Ctrl+P)';
+		printBtn.innerHTML = '<i class="bx bx-printer"></i> Print Anthology (Ctrl+P)';
 		printBtn.onclick = () => window.print();
 
 		header.appendChild(titleBox);
@@ -344,20 +363,26 @@ export class ResumeWidget extends Widget
 
 
 	/**
-		 * Updates header text, skills matrix, and flash cards when resume data resolves
-		 */
+	 * Updates header text, skills matrix, and flash cards when resume data resolves
+	 */
 	private _updateUI(): void
 	{
 		if(!this._resumeData) return;
 
 		// Update Header Profile Info
 		const profile = this._resumeData.applicant_profile;
+
+		if(profile?.full_name)
+		{
+			this.title.label = profile?.full_name;
+			this.update();
+		}
+
 		const headerTitleEl = this.node.querySelector('.no-print > div:first-child') as HTMLElement | null;
 		if(headerTitleEl && profile)
 		{
 			headerTitleEl.innerHTML = `
                 <div style="display:flex; align-items:center; gap:12px;">
-                    <span style="font-weight:bold; font-size:16px; color:#4ec9b0;">${profile.full_name}</span>
                     <span style="font-size:11px; color:#888;">${profile.contact.location} | ${profile.contact.phone} | ${profile.contact.email}</span>
                 </div>
                 <div style="font-size:11px; color:#569cd6; margin-top:2px;">${profile.headline}</div>
@@ -365,33 +390,36 @@ export class ResumeWidget extends Widget
 		}
 
 		// Re-render dependent sections
-		this._renderSkillsChart();
 		this._renderCards();
 	}
 
 
 
-	private _createGlassCard(title: string, iconClass: string): { wrapper: HTMLElement; content: HTMLElement; }
+	private _createGlassCard(title: string | null | undefined, iconClass: string): { wrapper: HTMLElement; content: HTMLElement; }
 	{
 		const wrapper = document.createElement('div');
 		wrapper.className = 'glass-card';
 		wrapper.style.padding = '14px';
-
-		const head = document.createElement('div');
-		head.style.fontWeight = 'bold';
-		head.style.fontSize = '13px';
-		head.style.color = '#569cd6';
-		head.style.display = 'flex';
-		head.style.alignItems = 'center';
-		head.style.gap = '8px';
-		head.style.marginBottom = '10px';
-		head.style.borderBottom = '1px solid rgba(255, 255, 255, 0.05)';
-		head.style.paddingBottom = '6px';
-		head.innerHTML = `<i class="${iconClass}"></i> <span class="print-text-dark">${title}</span>`;
-
 		const content = document.createElement('div');
 
-		wrapper.appendChild(head);
+		if(title)
+		{
+			const head = document.createElement('div');
+			head.style.fontWeight = 'bold';
+			head.style.fontSize = '13px';
+			head.style.color = '#569cd6';
+			head.style.display = 'flex';
+			head.style.alignItems = 'center';
+			head.style.gap = '8px';
+			head.style.marginBottom = '10px';
+			head.style.borderBottom = '1px solid rgba(255, 255, 255, 0.05)';
+			head.style.paddingBottom = '6px';
+			head.innerHTML = `<i class="${iconClass}"></i> <span class="print-text-dark">${title}</span>`;
+
+
+			wrapper.appendChild(head);
+		}
+
 		wrapper.appendChild(content);
 
 		return { wrapper, content };
@@ -484,133 +512,6 @@ export class ResumeWidget extends Widget
 		});
 	}
 
-	private _renderSkillsChart(): void
-	{
-		if(!this._skillsBarChartEl) return;
-		this._skillsBarChartEl.replaceChildren();
-
-		const matrix = this._resumeData?.skills_and_technologies_matrix;
-
-		// Languages Header
-		const langHead = document.createElement('div');
-		langHead.style.fontSize = '11px';
-		langHead.style.fontWeight = 'bold';
-		langHead.style.color = '#ce9178';
-		langHead.style.margin = '6px 0 4px 0';
-		langHead.textContent = 'Core Languages & Proficiencies';
-		this._skillsBarChartEl.appendChild(langHead);
-
-		const langGrid = document.createElement('div');
-		langGrid.style.display = 'grid';
-		langGrid.style.gridTemplateColumns = 'repeat(auto-fill, minmax(260px, 1fr))';
-		langGrid.style.gap = '8px';
-		langGrid.style.marginBottom = '12px';
-
-		for(const item of matrix?.core_languages ?? [])
-		{
-			langGrid.appendChild(this._createSkillBar(item));
-		}
-		this._skillsBarChartEl.appendChild(langGrid);
-
-		// Core Skills
-		const skillsHead = document.createElement('div');
-		skillsHead.style.fontSize = '11px';
-		skillsHead.style.fontWeight = 'bold';
-		skillsHead.style.color = '#4ec9b0';
-		skillsHead.style.margin = '6px 0 4px 0';
-		skillsHead.textContent = 'High-Level Engineering & Business Competencies (Years Endurance)';
-		this._skillsBarChartEl.appendChild(skillsHead);
-
-		const skillGrid = document.createElement('div');
-		skillGrid.style.display = 'grid';
-		skillGrid.style.gridTemplateColumns = 'repeat(auto-fill, minmax(260px, 1fr))';
-		skillGrid.style.gap = '8px';
-		skillGrid.style.marginBottom = '12px';
-
-		for(const item of matrix?.skills ?? [])
-		{
-			skillGrid.appendChild(this._createSkillBar(item));
-		}
-		this._skillsBarChartEl.appendChild(skillGrid);
-
-		// Advanced Specializations Tags
-		const specHead = document.createElement('div');
-		specHead.style.fontSize = '11px';
-		specHead.style.fontWeight = 'bold';
-		specHead.style.color = '#569cd6';
-		specHead.style.margin = '6px 0 4px 0';
-		specHead.textContent = 'Advanced Frameworks & Specializations';
-		this._skillsBarChartEl.appendChild(specHead);
-
-		const specBox = document.createElement('div');
-		specBox.style.display = 'flex';
-		specBox.style.flexWrap = 'wrap';
-		specBox.style.gap = '4px';
-
-		matrix?.advanced_frameworks_and_specializations.forEach(spec =>
-		{
-			const tag = document.createElement('span');
-			tag.className = 'print-badge';
-			tag.style.fontSize = '10px';
-			tag.style.padding = '2px 6px';
-			tag.style.borderRadius = '3px';
-			tag.style.backgroundColor = '#252526';
-			tag.style.color = '#dcdcaa';
-			tag.style.border = '1px solid #3c3c3c';
-			tag.textContent = spec;
-			specBox.appendChild(tag);
-		});
-		this._skillsBarChartEl.appendChild(specBox);
-	}
-
-	private _createSkillBar(item: ISkillMetric): HTMLElement
-	{
-		const barBox = document.createElement('div');
-		barBox.style.padding = '5px 8px';
-		barBox.style.backgroundColor = 'rgba(20, 20, 22, 0.6)';
-		barBox.style.border = '1px solid rgba(255, 255, 255, 0.05)';
-		barBox.style.borderRadius = '4px';
-		barBox.style.cursor = 'pointer';
-
-		const labelRow = document.createElement('div');
-		labelRow.style.display = 'flex';
-		labelRow.style.justifyContent = 'space-between';
-		labelRow.style.fontSize = '10px';
-		labelRow.style.marginBottom = '3px';
-
-		const nameSpan = document.createElement('span');
-		nameSpan.style.color = item.category === 'skill' ? '#4ec9b0' : item.category === 'core_language' ? '#ce9178' : '#569cd6';
-		nameSpan.style.fontWeight = 'bold';
-		nameSpan.textContent = item.name;
-
-		const yearsSpan = document.createElement('span');
-		yearsSpan.style.color = '#888';
-		yearsSpan.textContent = item.proficiency ? `${item.proficiency} (${item.years}y)` : `${item.years} yrs`;
-
-		labelRow.appendChild(nameSpan);
-		labelRow.appendChild(yearsSpan);
-
-		const track = document.createElement('div');
-		track.style.height = '4px';
-		track.style.backgroundColor = '#252526';
-		track.style.borderRadius = '2px';
-		track.style.overflow = 'hidden';
-
-		const fill = document.createElement('div');
-		fill.style.height = '100%';
-		fill.style.width = `${Math.min(100, (item.years / 23) * 100)}%`;
-		fill.style.backgroundColor = item.category === 'skill' ? '#4ec9b0' : item.category === 'core_language' ? '#ce9178' : '#007acc';
-
-		track.appendChild(fill);
-		barBox.appendChild(labelRow);
-		barBox.appendChild(track);
-
-		barBox.addEventListener('mouseenter', () => this._filterTimelineBySkill(item.name));
-		barBox.addEventListener('mouseleave', () => this._clearTimelineFilter());
-
-		return barBox;
-	}
-
 	private _renderCards(): void
 	{
 		if(!this._cardsContainerEl) return;
@@ -620,7 +521,7 @@ export class ResumeWidget extends Widget
 		if(this._activeSection === 'all')
 		{
 			// Section 1: Client-Side D3 Git Commit Heatmap
-			const heatmapCard = this._createGlassCard('Engineering Activity & Commit Visualizer (Client-Side D3)', 'fa fa-calendar');
+			const heatmapCard = this._createGlassCard('Engineering Activity & Commit Visualizer (Client-Side D3)', 'bx bx-calendar');
 			heatmapCard.wrapper.classList.add('no-print');
 			this._heatmapSvgEl = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
 			this._heatmapSvgEl.style.width = '100%';
@@ -631,28 +532,15 @@ export class ResumeWidget extends Widget
 			this._renderD3Heatmap();
 		}
 
-		if(this._activeSection === 'all' || this._activeSection === 'skills')
-		{
-
-			// Section 2: Interactive Skill Matrix
-			const skillsCard = this._createGlassCard('Exhaustive Skill & Tool Matrix (Hover bar to filter experience history)', 'fa fa-bar-chart');
-			skillsCard.wrapper.id = 'section-skills';
-			this._skillsBarChartEl = document.createElement('div');
-			this._skillsBarChartEl.style.width = '100%';
-			skillsCard.content.appendChild(this._skillsBarChartEl);
-			this._renderSkillsChart();
-
-			this._cardsContainerEl.appendChild(skillsCard.wrapper);
-		}
-
 		// 1. Executive Profile & Federal Metadata Card
 		if(this._activeSection === 'all' || this._activeSection === 'profile')
 		{
 			const prof = this._resumeData?.applicant_profile;
-			const profCard = this._createGlassCard('Executive Profile & Federal Civil Service Metadata', 'fa fa-user-secret');
-			profCard.content.innerHTML = `
+			const profCard = this._createGlassCard(null, 'bx bx-user');
+			profCard.wrapper.className += ' resume-entry-card';
+			profCard.content.innerHTML += `
                 <div style="font-size:12px; line-height:1.5; color:#ccc; margin-bottom:10px;" class="print-text-dark">
-                    ${prof?.executive_summary}
+                    <i class="bx bx-user"></i> ${prof?.executive_summary}
                 </div>
                 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:8px; font-size:11px; background:rgba(0,0,0,0.2); padding:8px; border-radius:4px;" class="glass-card">
                     <div><strong style="color:#569cd6;">Citizenship:</strong> ${prof?.federal_metadata.citizenship}</div>
@@ -669,7 +557,7 @@ export class ResumeWidget extends Widget
 		{
 			this._resumeData?.employment_history.forEach(emp =>
 			{
-				const card = this._createGlassCard(`${emp.role} — ${emp.company}`, 'fa fa-briefcase');
+				const card = this._createGlassCard(`${emp.role} — ${emp.company}`, 'bx bx-briefcase');
 				card.wrapper.className += ' resume-entry-card';
 				card.wrapper.setAttribute('data-tags', JSON.stringify(emp.related_skills));
 
@@ -737,7 +625,8 @@ export class ResumeWidget extends Widget
 		{
 			this._resumeData?.education.forEach(edu =>
 			{
-				const eduCard = this._createGlassCard(`${edu.degree} — ${edu.institution}`, 'fa fa-university');
+				const eduCard = this._createGlassCard(`${edu.degree} — ${edu.institution}`, 'bx bx-education');
+				eduCard.wrapper.className += ' resume-entry-card';
 				eduCard.content.innerHTML = `
                     <div style="font-size:11px; color:#888; margin-bottom:6px;">Graduated: ${edu.graduation_year} | GPA: ${edu.gpa}</div>
                     <div style="font-size:11px; font-weight:bold; color:#569cd6; margin-bottom:4px;">Relevant Coursework:</div>
@@ -754,7 +643,8 @@ export class ResumeWidget extends Widget
 		{
 			this._resumeData?.extracurricular_and_sabbaticals.forEach(sab =>
 			{
-				const sabCard = this._createGlassCard(`${sab.title} (${sab.duration})`, 'fa fa-globe');
+				const sabCard = this._createGlassCard(`${sab.title} (${sab.duration})`, 'bx bx-globe');
+				sabCard.wrapper.className += ' resume-entry-card';
 				sabCard.content.innerHTML = `
                     <div style="font-size:11px; line-height:1.4; color:#ccc;" class="print-text-dark">${sab.details}</div>
                 `;
@@ -763,51 +653,6 @@ export class ResumeWidget extends Widget
 		}
 	}
 
-	private _filterTimelineBySkill(skillName: string): void
-	{
-		this._activeFilter = skillName;
-		if(this._filterBadgeEl)
-		{
-			this._filterBadgeEl.style.display = 'block';
-			this._filterBadgeEl.textContent = `Filtering Timeline: ${skillName}`;
-		}
-
-		const cards = Array.from(this.node.querySelectorAll('.resume-entry-card')) as HTMLElement[];
-		for(const card of cards)
-		{
-			const tags: string[] = JSON.parse(card.getAttribute('data-tags') || '[]');
-			const matches = tags.some(t => t.toLowerCase().includes(skillName.toLowerCase()) || skillName.toLowerCase().includes(t.toLowerCase()));
-
-			if(matches)
-			{
-				card.style.opacity = '1';
-				card.style.transform = 'scale(1.01)';
-				card.style.borderColor = '#4ec9b0';
-			} else
-			{
-				card.style.opacity = '0.2';
-				card.style.transform = 'scale(1)';
-				card.style.borderColor = 'rgba(255, 255, 255, 0.08)';
-			}
-		}
-	}
-
-	private _clearTimelineFilter(): void
-	{
-		this._activeFilter = null;
-		if(this._filterBadgeEl)
-		{
-			this._filterBadgeEl.style.display = 'none';
-		}
-
-		const cards = Array.from(this.node.querySelectorAll('.resume-entry-card')) as HTMLElement[];
-		for(const card of cards)
-		{
-			card.style.opacity = '1';
-			card.style.transform = 'scale(1)';
-			card.style.borderColor = 'rgba(255, 255, 255, 0.08)';
-		}
-	}
 }
 
 widgetSelf.ResumeWidget = ResumeWidget;

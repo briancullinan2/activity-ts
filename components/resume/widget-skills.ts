@@ -1,8 +1,9 @@
 import { Widget } from '@lumino/widgets';
-import { Message } from '@lumino/messaging';
-import type { ISkillMetric, IFullResumeData } from './widget';
+import { Message, MessageLoop } from '@lumino/messaging';
+import type { ISkillMetric, IFullResumeData, ResumeWidget } from './widget';
 
 const widgetSelf = self as unknown as & {
+	ResumeWidget?: typeof ResumeWidget;
 	SkillsWidget?: typeof SkillsWidget;
 };
 
@@ -14,6 +15,11 @@ export class SkillsWidget extends Widget
 
 	constructor()
 	{
+		if(SkillsWidget.instance)
+		{
+			return SkillsWidget.instance;
+		}
+
 		super();
 		this.addClass('lm-SkillsWidget');
 		this.id = 'exhaustive-skills-widget';
@@ -29,12 +35,34 @@ export class SkillsWidget extends Widget
 		this.node.style.boxSizing = 'border-box';
 		this.node.style.fontFamily = 'Consolas, "Courier New", monospace';
 
-		this.title.label = 'Skills Matrix';
+		this.title.label = 'Skills';
 		this.title.iconClass = 'fa fa-bar-chart';
 		this.title.closable = true;
 
-		this._buildUI();
+		SkillsWidget.instance = this;
 	}
+
+	public processMessage(msg: Message): void
+	{
+		if(msg.type === 'close-request')
+		{
+			console.log('Intercepted close request, hiding instead: ' + this.title.label);
+			// Hijack the close! Instead of destroying, hide the panel
+			this.hide();
+			this.parent = null;
+
+			// Notify the parent DockPanel to recalculate layout paths immediately
+			if(this.parent)
+			{
+				// Forcing an internal update pass so layout sizes collapse seamlessly
+				MessageLoop.sendMessage(this.parent, new Message('layout-request'));
+			}
+			return; // BAIL OUT: Avoid calling super.processMessage() to prevent disposal
+		}
+
+		super.processMessage(msg);
+	}
+
 
 	public static getInstance(): SkillsWidget
 	{
@@ -48,6 +76,8 @@ export class SkillsWidget extends Widget
 	protected onAfterAttach(msg: Message): void
 	{
 		super.onAfterAttach(msg);
+
+		this._buildUI();
 		this._loadResumeData();
 	}
 
@@ -158,7 +188,12 @@ export class SkillsWidget extends Widget
 			tag.style.backgroundColor = '#252526';
 			tag.style.color = '#dcdcaa';
 			tag.style.border = '1px solid #3c3c3c';
+			tag.style.cursor = 'pointer';
 			tag.textContent = spec;
+
+			tag.addEventListener('mouseenter', () => this._filterTimelineBySkill(spec));
+			tag.addEventListener('mouseleave', () => this._clearTimelineFilter());
+
 			specBox.appendChild(tag);
 		});
 		this._skillsContainerEl.appendChild(specBox);
@@ -171,6 +206,7 @@ export class SkillsWidget extends Widget
 		barBox.style.backgroundColor = 'rgba(20, 20, 22, 0.6)';
 		barBox.style.border = '1px solid rgba(255, 255, 255, 0.05)';
 		barBox.style.borderRadius = '4px';
+		barBox.style.cursor = 'pointer';
 
 		const labelRow = document.createElement('div');
 		labelRow.style.display = 'flex';
@@ -205,6 +241,9 @@ export class SkillsWidget extends Widget
 		barBox.appendChild(labelRow);
 		barBox.appendChild(track);
 
+		barBox.addEventListener('mouseenter', () => this._filterTimelineBySkill(item.name));
+		barBox.addEventListener('mouseleave', () => this._clearTimelineFilter());
+
 		return barBox;
 	}
 
@@ -212,6 +251,64 @@ export class SkillsWidget extends Widget
 	{
 		SkillsWidget.instance = null;
 		super.dispose();
+	}
+
+
+	private _filterTimelineBySkill(skillName: string): void
+	{
+		const that = widgetSelf.ResumeWidget?.getInstance();
+		if(that)
+		{
+			that._activeFilter = skillName;
+		}
+		if(that?._filterBadgeEl)
+		{
+			that._filterBadgeEl.style.display = 'block';
+			that._filterBadgeEl.textContent = `Filtering Timeline: ${skillName}`;
+		}
+
+		const cards = Array.from(that?.node.querySelectorAll('.resume-entry-card') ?? []) as HTMLElement[];
+		for(const card of cards)
+		{
+			const tags: string[] = JSON.parse(card.getAttribute('data-tags') || '[]');
+			const matches = tags.some(t => t.toLowerCase().includes(skillName.toLowerCase()) || skillName.toLowerCase().includes(t.toLowerCase()));
+
+			if(matches)
+			{
+				card.style.opacity = '1';
+				card.style.transform = 'scale(1.01)';
+				card.style.margin = '0';
+				card.style.borderColor = '#4ec9b0';
+			} else
+			{
+				card.style.opacity = '0.2';
+				card.style.transform = 'scaleX(0.9) scaleY(0.5)';
+				card.style.margin = '-12.5% 0 -12.5% 0';
+				card.style.borderColor = 'rgba(255, 255, 255, 0.08)';
+			}
+		}
+	}
+
+	private _clearTimelineFilter(): void
+	{
+		const that = widgetSelf.ResumeWidget?.getInstance();
+		if(that)
+		{
+			that._activeFilter = null;
+		}
+		if(that?._filterBadgeEl)
+		{
+			that._filterBadgeEl.style.display = 'none';
+		}
+
+		const cards = Array.from(that?.node.querySelectorAll('.resume-entry-card') ?? []) as HTMLElement[];
+		for(const card of cards)
+		{
+			card.style.opacity = '1';
+			card.style.transform = 'scale(1)';
+			card.style.margin = '0';
+			card.style.borderColor = 'rgba(255, 255, 255, 0.08)';
+		}
 	}
 }
 
