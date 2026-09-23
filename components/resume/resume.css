@@ -1,0 +1,86 @@
+/* Glassmorphism Floating Cards */
+.glass-card {
+	background: rgba(26, 26, 30, 0.65) !important;
+	backdrop-filter: blur(12px) saturate(180%) !important;
+	-webkit-backdrop-filter: blur(12px) saturate(180%) !important;
+	border: 1px solid rgba(255, 255, 255, 0.08) !important;
+	border-radius: 8px !important;
+	box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37) !important;
+	transition: transform 0.2s ease, border-color 0.2s ease, opacity 0.2s ease !important;
+}
+
+.glass-card:hover {
+	border-color: rgba(78, 201, 176, 0.4) !important;
+	/*transform: translateY(-2px) !important;*/
+}
+
+.tab-btn {
+	background: transparent;
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	color: #a0a0a8;
+	padding: 4px 10px;
+	font-size: 11px;
+	border-radius: 4px;
+	cursor: pointer;
+	transition: all 0.15s ease;
+	font-family: inherit;
+}
+
+.tab-btn:hover,
+.tab-btn.active {
+	background: rgba(0, 122, 204, 0.25);
+	border-color: #007acc;
+	color: #4ec9b0;
+}
+
+/* PURE CSS PRINT STYLES (Triggered on Ctrl+P) */
+@media print {
+	body * {
+		visibility: hidden !important;
+	}
+
+	.lm-ResumeWidget,
+	.lm-ResumeWidget * {
+		visibility: visible !important;
+	}
+
+	.lm-ResumeWidget {
+		position: absolute !important;
+		left: 0 !important;
+		top: 0 !important;
+		width: 100% !important;
+		height: auto !important;
+		background: #ffffff !important;
+		color: #111111 !important;
+		font-family: Arial, Helvetica, sans-serif !important;
+	}
+
+	.no-print {
+		display: none !important;
+	}
+
+
+	.glass-card {
+		background: #ffffff !important;
+		backdrop-filter: none !important;
+		border: 1px solid #dddddd !important;
+		box-shadow: none !important;
+		color: #111111 !important;
+		page-break-inside: avoid !important;
+		margin-bottom: 12px !important;
+	}
+
+	.print-only {
+		display: block !important;
+	}
+
+	.print-text-dark {
+		color: #111111 !important;
+	}
+
+	.print-badge {
+		border: 1px solid #666 !important;
+		color: #333 !important;
+		background: #f0f0f0 !important;
+	}
+}

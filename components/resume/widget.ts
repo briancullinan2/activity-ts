@@ -122,7 +122,6 @@ export class ResumeWidget extends Widget
 		this.title.iconClass = 'fa fa-graduation-cap';
 		this.title.closable = true;
 
-		this._injectPrintAndGlassmorphismStyles();
 	}
 
 	public static getInstance(): ResumeWidget
@@ -185,94 +184,6 @@ export class ResumeWidget extends Widget
 		super.dispose();
 	}
 
-	/**
-	 * Injects custom CSS rules for print (@media print) and glassmorphism styling
-	 */
-	private _injectPrintAndGlassmorphismStyles(): void
-	{
-		const styleId = 'resume-anthology-custom-styles';
-		if(document.getElementById(styleId)) return;
-
-		const style = document.createElement('style');
-		style.id = styleId;
-		style.textContent = `
-            /* Glassmorphism Floating Cards */
-            .glass-card {
-                background: rgba(26, 26, 30, 0.65) !important;
-                backdrop-filter: blur(12px) saturate(180%) !important;
-                -webkit-backdrop-filter: blur(12px) saturate(180%) !important;
-                border: 1px solid rgba(255, 255, 255, 0.08) !important;
-                border-radius: 8px !important;
-                box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37) !important;
-                transition: transform 0.2s ease, border-color 0.2s ease, opacity 0.2s ease !important;
-            }
-            .glass-card:hover {
-                border-color: rgba(78, 201, 176, 0.4) !important;
-                transform: translateY(-2px) !important;
-            }
-
-            .tab-btn {
-                background: transparent;
-                border: 1px solid rgba(255, 255, 255, 0.1);
-                color: #a0a0a8;
-                padding: 4px 10px;
-                font-size: 11px;
-                border-radius: 4px;
-                cursor: pointer;
-                transition: all 0.15s ease;
-                font-family: inherit;
-            }
-            .tab-btn:hover, .tab-btn.active {
-                background: rgba(0, 122, 204, 0.25);
-                border-color: #007acc;
-                color: #4ec9b0;
-            }
-
-            /* PURE CSS PRINT STYLES (Triggered on Ctrl+P) */
-            @media print {
-                body * {
-                    visibility: hidden !important;
-                }
-                .lm-ResumeWidget, .lm-ResumeWidget * {
-                    visibility: visible !important;
-                }
-                .lm-ResumeWidget {
-                    position: absolute !important;
-                    left: 0 !important;
-                    top: 0 !important;
-                    width: 100% !important;
-                    height: auto !important;
-                    background: #ffffff !important;
-                    color: #111111 !important;
-                    font-family: Arial, Helvetica, sans-serif !important;
-                }
-                .no-print {
-                    display: none !important;
-                }
-                .glass-card {
-                    background: #ffffff !important;
-                    backdrop-filter: none !important;
-                    border: 1px solid #dddddd !important;
-                    box-shadow: none !important;
-                    color: #111111 !important;
-                    page-break-inside: avoid !important;
-                    margin-bottom: 12px !important;
-                }
-                .print-only {
-                    display: block !important;
-                }
-                .print-text-dark {
-                    color: #111111 !important;
-                }
-                .print-badge {
-                    border: 1px solid #666 !important;
-                    color: #333 !important;
-                    background: #f0f0f0 !important;
-                }
-            }
-        `;
-		document.head.appendChild(style);
-	}
 
 	private _buildUI(): void
 	{
@@ -282,6 +193,7 @@ export class ResumeWidget extends Widget
 		const header = document.createElement('div');
 		header.className = 'no-print';
 		header.style.display = 'flex';
+		header.style.flexWrap = 'wrap';
 		header.style.justifyContent = 'space-between';
 		header.style.alignItems = 'center';
 		header.style.padding = '12px 18px';
@@ -291,6 +203,7 @@ export class ResumeWidget extends Widget
 		console.log(this._resumeData);
 		const profile = this._resumeData?.applicant_profile;
 		const titleBox = document.createElement('div');
+		titleBox.style.flexBasis = '90%';
 		titleBox.innerHTML = `
             <div style="display:flex; align-items:center; gap:12px;">
                 <span style="font-weight:bold; font-size:16px; color:#4ec9b0;">${profile?.full_name}</span>
@@ -299,10 +212,10 @@ export class ResumeWidget extends Widget
             <div style="font-size:11px; color:#569cd6; margin-top:2px;">${profile?.headline}</div>
         `;
 
-		const controlsBox = document.createElement('div');
-		controlsBox.style.display = 'flex';
-		controlsBox.style.alignItems = 'center';
-		controlsBox.style.gap = '10px';
+		//const controlsBox = document.createElement('div');
+		//controlsBox.style.display = 'flex';
+		//controlsBox.style.alignItems = 'center';
+		//controlsBox.style.gap = '10px';
 
 		this._filterBadgeEl = document.createElement('div');
 		this._filterBadgeEl.style.fontSize = '11px';
@@ -317,11 +230,11 @@ export class ResumeWidget extends Widget
 		printBtn.innerHTML = '<i class="fa fa-print"></i> Print Anthology (Ctrl+P)';
 		printBtn.onclick = () => window.print();
 
-		controlsBox.appendChild(this._filterBadgeEl);
-		controlsBox.appendChild(printBtn);
-
 		header.appendChild(titleBox);
-		header.appendChild(controlsBox);
+		header.appendChild(printBtn);
+		header.appendChild(this._filterBadgeEl);
+
+		//header.appendChild(controlsBox);
 
 		// Section Tabs Filter Bar
 		this._navTabsContainerEl = document.createElement('div');
@@ -365,29 +278,14 @@ export class ResumeWidget extends Widget
 		bodyScroll.style.flexDirection = 'column';
 		bodyScroll.style.gap = '16px';
 
-		// Section 1: Client-Side D3 Git Commit Heatmap
-		const heatmapCard = this._createGlassCard('Engineering Activity & Commit Visualizer (Client-Side D3)', 'fa fa-calendar');
-		heatmapCard.wrapper.classList.add('no-print');
-		this._heatmapSvgEl = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-		this._heatmapSvgEl.style.width = '100%';
-		this._heatmapSvgEl.style.height = '140px';
-		heatmapCard.content.appendChild(this._heatmapSvgEl);
-
-		// Section 2: Interactive Skill Matrix
-		const skillsCard = this._createGlassCard('Exhaustive Skill & Tool Matrix (Hover bar to filter experience history)', 'fa fa-bar-chart');
-		skillsCard.wrapper.id = 'section-skills';
-		this._skillsBarChartEl = document.createElement('div');
-		this._skillsBarChartEl.style.width = '100%';
-		skillsCard.content.appendChild(this._skillsBarChartEl);
-
 		// Section 3: Floating Flash Cards Container
 		this._cardsContainerEl = document.createElement('div');
 		this._cardsContainerEl.style.display = 'flex';
 		this._cardsContainerEl.style.flexDirection = 'column';
 		this._cardsContainerEl.style.gap = '14px';
 
-		bodyScroll.appendChild(heatmapCard.wrapper);
-		bodyScroll.appendChild(skillsCard.wrapper);
+		//bodyScroll.appendChild(heatmapCard.wrapper);
+		//bodyScroll.appendChild(skillsCard.wrapper);
 		bodyScroll.appendChild(this._cardsContainerEl);
 
 		this.node.appendChild(header);
@@ -668,6 +566,35 @@ export class ResumeWidget extends Widget
 	{
 		if(!this._cardsContainerEl) return;
 		this._cardsContainerEl.replaceChildren();
+
+
+		if(this._activeSection === 'all')
+		{
+			// Section 1: Client-Side D3 Git Commit Heatmap
+			const heatmapCard = this._createGlassCard('Engineering Activity & Commit Visualizer (Client-Side D3)', 'fa fa-calendar');
+			heatmapCard.wrapper.classList.add('no-print');
+			this._heatmapSvgEl = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+			this._heatmapSvgEl.style.width = '100%';
+			this._heatmapSvgEl.style.height = '140px';
+			heatmapCard.content.appendChild(this._heatmapSvgEl);
+			this._cardsContainerEl.appendChild(heatmapCard.wrapper);
+			this._generateSyntheticGitHistory();
+			this._renderD3Heatmap();
+		}
+
+		if(this._activeSection === 'all' || this._activeSection === 'skills')
+		{
+
+			// Section 2: Interactive Skill Matrix
+			const skillsCard = this._createGlassCard('Exhaustive Skill & Tool Matrix (Hover bar to filter experience history)', 'fa fa-bar-chart');
+			skillsCard.wrapper.id = 'section-skills';
+			this._skillsBarChartEl = document.createElement('div');
+			this._skillsBarChartEl.style.width = '100%';
+			skillsCard.content.appendChild(this._skillsBarChartEl);
+			this._renderSkillsChart();
+
+			this._cardsContainerEl.appendChild(skillsCard.wrapper);
+		}
 
 		// 1. Executive Profile & Federal Metadata Card
 		if(this._activeSection === 'all' || this._activeSection === 'profile')
