@@ -38,7 +38,8 @@ export type ToolbarKey = 'repositoryToolbar' | 'scriptToolbar' | 'appToolbar' | 
 export const OUTLINE_WIDGET_TYPES = [
 	'FileListWidget', 'GameListWidget',
 	'DatabaseListWidget', 'AssetListWidget',
-	'GithubListWidget', 'SearchListWidget'
+	'GithubListWidget', 'SearchListWidget',
+	'SkillsWidget'
 ];
 
 

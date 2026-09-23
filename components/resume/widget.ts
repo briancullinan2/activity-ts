@@ -1,12 +1,15 @@
 import { Widget } from '@lumino/widgets';
 import { Message } from '@lumino/messaging';
+import { SkillsWidget } from './widget-skills';
 import type { LuminoLayoutWindow } from '../bundle/lumino.d';
+import type { GlobalToolbarsWindow } from '../bundle/menu.d';
 
 import 'd3';
 declare const d3: typeof import('d3');
 
-const widgetSelf = self as unknown as LuminoLayoutWindow & {
+const widgetSelf = self as unknown as LuminoLayoutWindow & GlobalToolbarsWindow & {
 	ResumeWidget?: typeof ResumeWidget;
+	SkillsWidget?: typeof SkillsWidget;
 };
 
 export interface ICommitEvent
@@ -88,6 +91,8 @@ export interface IFullResumeData
 export class ResumeWidget extends Widget
 {
 	public static instance: ResumeWidget | null = null;
+	private static _resumeDataPromise: Promise<IFullResumeData | undefined> | null = null;
+	private static _cachedResumeData?: IFullResumeData;
 
 	private _activeFilter: string | null = null;
 	private _gitEvents: ICommitEvent[] = [];
@@ -124,6 +129,50 @@ export class ResumeWidget extends Widget
 
 	}
 
+	/**
+	 * Deduplicated static data accessor. Shared between ResumeWidget and ExhaustiveSkillsWidget.
+	 */
+	public static async getSharedResumeData(): Promise<IFullResumeData | undefined>
+	{
+		if(ResumeWidget._cachedResumeData)
+		{
+			return ResumeWidget._cachedResumeData;
+		}
+
+		if(!ResumeWidget._resumeDataPromise)
+		{
+			ResumeWidget._resumeDataPromise = (async () =>
+			{
+				try
+				{
+					const controller = new AbortController();
+					const timeoutId = setTimeout(() => controller.abort(), 15000);
+
+					const response = await fetch('/components/resume/resume-data.json', { signal: controller.signal });
+					clearTimeout(timeoutId);
+
+					if(!response.ok)
+					{
+						throw new Error(`Failed to load resume dataset: ${response.statusText}`);
+					}
+
+					ResumeWidget._cachedResumeData = await response.json();
+					return ResumeWidget._cachedResumeData;
+				} catch(error)
+				{
+					console.warn('ResumeWidget: Server fetch failed or timed out.', error);
+					return undefined;
+				} finally
+				{
+					ResumeWidget._resumeDataPromise = null;
+				}
+			})();
+		}
+
+		return ResumeWidget._resumeDataPromise;
+	}
+
+
 	public static getInstance(): ResumeWidget
 	{
 		if(!ResumeWidget.instance || ResumeWidget.instance.isDisposed)
@@ -139,7 +188,26 @@ export class ResumeWidget extends Widget
 		this._buildUI();
 		this._generateSyntheticGitHistory();
 		this._renderD3Heatmap();
+		this._openSkillsSidebar();
 		this._fetchResumeData();
+	}
+
+	/**
+	 * Spawns the ExhaustiveSkillsWidget as a sidebar panel inside the main DockPanel layout
+	 */
+	private _openSkillsSidebar(): void
+	{
+		const skillsWidget = widgetSelf.SkillsWidget?.getInstance();
+
+		// Check if layout adjuster and main dock panel exist globally
+		const globalSelf = self as unknown as { mainDock?: any; };
+		if(globalSelf.mainDock && skillsWidget && !skillsWidget.isAttached)
+		{
+			widgetSelf.LayoutAdjuster?.addOptimalWidgetLayout(globalSelf.mainDock, skillsWidget, {
+				type: 'outline',
+				projectId: skillsWidget.constructor.name
+			});
+		}
 	}
 
 	/**
@@ -147,27 +215,8 @@ export class ResumeWidget extends Widget
 	 */
 	private async _fetchResumeData(): Promise<void>
 	{
-		try
-		{
-			const controller = new AbortController();
-			const timeoutId = setTimeout(() => controller.abort(), 15000);
-
-			const response = await fetch('/components/resume/resume-data.json', { signal: controller.signal });
-			clearTimeout(timeoutId);
-
-			if(!response.ok)
-			{
-				throw new Error(`Failed to load resume dataset: ${response.statusText}`);
-			}
-
-			this._resumeData = await response.json();
-		} catch(error)
-		{
-			console.warn('ResumeWidget: Server fetch failed or timed out. Falling back to local dataset.', error);
-		} finally
-		{
-			this._updateUI();
-		}
+		this._resumeData = await ResumeWidget.getSharedResumeData();
+		this._updateUI();
 	}
 
 
