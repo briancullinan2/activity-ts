@@ -2,7 +2,7 @@
   "projectName": "three.js",
   "localPath": "C:\\Users\\megam\\three.js",
   "remoteUrl": "git@github.com:mrdoob/three.js.git",
-  "lastUpdated": "2026-09-24T03:04:16.232Z",
+  "lastUpdated": "2026-09-24T17:52:53.389Z",
   "screenshots": [
     {
       "filename": "screenshot.jpg",
@@ -82,10 +82,12 @@
     },
     "2018-06-26": {
       "date": "2018-06-26",
-      "heatScore": 10,
-      "linesChanged": 0,
-      "commitCount": 1,
-      "filesEdited": [],
+      "heatScore": 30,
+      "linesChanged": 11,
+      "commitCount": 3,
+      "filesEdited": [
+        "examples/js/controls/EditorControls.js"
+      ],
       "commits": [
         {
           "hash": "3ac4c045ab22a30961dde1f518f881349eae4f2c",
@@ -95,14 +97,36 @@
           "linesAdded": 0,
           "linesDeleted": 0,
           "filesChanged": []
+        },
+        {
+          "hash": "98f84c1b26a1d0506859b3aff3bf937ceb69478a",
+          "author": "Brian Peiris",
+          "date": "2018-06-26T21:04:01.000Z",
+          "message": "Normalize scroll wheel",
+          "linesAdded": 3,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "examples/js/controls/EditorControls.js"
+          ]
+        },
+        {
+          "hash": "5067e5df79656cc8f101c3842552a29a2df50efd",
+          "author": "Brian Peiris",
+          "date": "2018-06-26T21:04:01.000Z",
+          "message": "Normalize scroll wheel",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "examples/js/controls/EditorControls.js"
+          ]
         }
       ]
     },
     "2018-02-23": {
       "date": "2018-02-23",
-      "heatScore": 10,
-      "linesChanged": 7,
-      "commitCount": 1,
+      "heatScore": 33,
+      "linesChanged": 48,
+      "commitCount": 3,
       "filesEdited": [
         "src/renderers/webvr/WebVRManager.js"
       ],
@@ -114,6 +138,28 @@
           "message": "formatting",
           "linesAdded": 3,
           "linesDeleted": 4,
+          "filesChanged": [
+            "src/renderers/webvr/WebVRManager.js"
+          ]
+        },
+        {
+          "hash": "a6703b2e7444638902f6355f0bd9e48c8c7e1e00",
+          "author": "Brian Peiris",
+          "date": "2018-02-23T20:22:50.000Z",
+          "message": "avoid resetting poseObject if pose position isnt available",
+          "linesAdded": 0,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "src/renderers/webvr/WebVRManager.js"
+          ]
+        },
+        {
+          "hash": "0f452ef128e10209860af424da3220baf49aa326",
+          "author": "Brian Peiris",
+          "date": "2018-02-23T18:01:51.000Z",
+          "message": "Fix pose transforms",
+          "linesAdded": 25,
+          "linesDeleted": 12,
           "filesChanged": [
             "src/renderers/webvr/WebVRManager.js"
           ]
@@ -166,13 +212,24 @@
         }
       ]
     },
-    "2017-03-30": {
-      "date": "2017-03-30",
-      "heatScore": 10,
-      "linesChanged": 4,
-      "commitCount": 1,
+    "2017-03-29": {
+      "date": "2017-03-29",
+      "heatScore": 33,
+      "linesChanged": 50,
+      "commitCount": 3,
       "filesEdited": [
-        "src/materials/Material.js"
+        "src/materials/Material.js",
+        "src/renderers/shaders/ShaderChunk/dithering_fragment.glsl",
+        "src/renderers/webgl/WebGLProgram.js",
+        "docs/api/materials/Material.html",
+        "examples/webgl_lights_spotlight.html",
+        "src/renderers/shaders/ShaderChunk.js",
+        "src/renderers/shaders/ShaderChunk/{removebanding_pars_fragment.glsl => dithering_pars_fragment.glsl}",
+        "src/renderers/shaders/ShaderChunk/removebanding_fragment.glsl",
+        "src/renderers/shaders/ShaderLib/meshlambert_frag.glsl",
+        "src/renderers/shaders/ShaderLib/meshphong_frag.glsl",
+        "src/renderers/shaders/ShaderLib/meshphysical_frag.glsl",
+        "src/renderers/webgl/WebGLPrograms.js"
       ],
       "commits": [
         {
@@ -185,29 +242,19 @@
           "filesChanged": [
             "src/materials/Material.js"
           ]
-        }
-      ]
-    },
-    "2017-03-29": {
-      "date": "2017-03-29",
-      "heatScore": 12,
-      "linesChanged": 42,
-      "commitCount": 1,
-      "filesEdited": [
-        "docs/api/materials/Material.html",
-        "examples/webgl_lights_spotlight.html",
-        "src/materials/Material.js",
-        "src/renderers/shaders/ShaderChunk.js",
-        "src/renderers/shaders/ShaderChunk/dithering_fragment.glsl",
-        "src/renderers/shaders/ShaderChunk/{removebanding_pars_fragment.glsl => dithering_pars_fragment.glsl}",
-        "src/renderers/shaders/ShaderChunk/removebanding_fragment.glsl",
-        "src/renderers/shaders/ShaderLib/meshlambert_frag.glsl",
-        "src/renderers/shaders/ShaderLib/meshphong_frag.glsl",
-        "src/renderers/shaders/ShaderLib/meshphysical_frag.glsl",
-        "src/renderers/webgl/WebGLProgram.js",
-        "src/renderers/webgl/WebGLPrograms.js"
-      ],
-      "commits": [
+        },
+        {
+          "hash": "88b397eede05af1c87467ad26616e51b28c187cc",
+          "author": "Brian Chirls",
+          "date": "2017-03-30T04:51:50.000Z",
+          "message": "Renamed DITHERING defines in shaders",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "src/renderers/shaders/ShaderChunk/dithering_fragment.glsl",
+            "src/renderers/webgl/WebGLProgram.js"
+          ]
+        },
         {
           "hash": "e1f2773178d057bd6e8d40bcbc06a7756c150377",
           "author": "Brian Chirls",
@@ -274,11 +321,11 @@
         }
       ]
     },
-    "2017-03-27": {
-      "date": "2017-03-27",
-      "heatScore": 10,
-      "linesChanged": 14,
-      "commitCount": 1,
+    "2017-03-26": {
+      "date": "2017-03-26",
+      "heatScore": 70,
+      "linesChanged": 160,
+      "commitCount": 6,
       "filesEdited": [
         "docs/api/math/Color.html"
       ],
@@ -293,18 +340,51 @@
           "filesChanged": [
             "docs/api/math/Color.html"
           ]
-        }
-      ]
-    },
-    "2017-03-26": {
-      "date": "2017-03-26",
-      "heatScore": 14,
-      "linesChanged": 66,
-      "commitCount": 1,
-      "filesEdited": [
-        "docs/api/math/Color.html"
-      ],
-      "commits": [
+        },
+        {
+          "hash": "1318a312ebf2dd30c45cc638602b55fe93e690c7",
+          "author": "Brian A MacIntosh",
+          "date": "2017-03-27T01:46:28.000Z",
+          "message": "fixed bad merge",
+          "linesAdded": 4,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "docs/api/math/Color.html"
+          ]
+        },
+        {
+          "hash": "aab8f14c30fc91c886a121457c0f25f8d64f3327",
+          "author": "Brian A MacIntosh",
+          "date": "2017-03-27T01:42:02.000Z",
+          "message": "in 'set', replace Multi with more specific type",
+          "linesAdded": 5,
+          "linesDeleted": 5,
+          "filesChanged": [
+            "docs/api/math/Color.html"
+          ]
+        },
+        {
+          "hash": "4d1f66474bdd3370c2a3b500532fa40be3ad9bca",
+          "author": "Brian A MacIntosh",
+          "date": "2017-03-27T01:36:31.000Z",
+          "message": "Merge branch 'patch-1' into dev",
+          "linesAdded": 29,
+          "linesDeleted": 29,
+          "filesChanged": [
+            "docs/api/math/Color.html"
+          ]
+        },
+        {
+          "hash": "43a268b91d33c205cfa912b0a11c2cba8457529c",
+          "author": "Brian A MacIntosh",
+          "date": "2017-03-27T01:33:16.000Z",
+          "message": "clarified type of first param to constructor",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "docs/api/math/Color.html"
+          ]
+        },
         {
           "hash": "2514bd3f437fc25a071caa760863dfc9c7c62434",
           "author": "Brian A MacIntosh",
@@ -364,14 +444,28 @@
     },
     "2017-01-18": {
       "date": "2017-01-18",
-      "heatScore": 10,
-      "linesChanged": 8,
-      "commitCount": 1,
+      "heatScore": 34,
+      "linesChanged": 68,
+      "commitCount": 3,
       "filesEdited": [
         "examples/js/loaders/FBXLoader.js",
         "src/geometries/PlaneGeometry.js",
         "src/geometries/TubeGeometry.js",
-        "src/renderers/webgl/WebGLObjects.js"
+        "src/renderers/webgl/WebGLObjects.js",
+        "examples/js/loaders/AssimpJSONLoader.js",
+        "examples/js/loaders/MMDLoader.js",
+        "examples/js/loaders/PLYLoader.js",
+        "src/core/BufferGeometry.js",
+        "src/geometries/BoxGeometry.js",
+        "src/geometries/CircleGeometry.js",
+        "src/geometries/CylinderGeometry.js",
+        "src/geometries/LatheGeometry.js",
+        "src/geometries/ParametricGeometry.js",
+        "src/geometries/RingGeometry.js",
+        "src/geometries/ShapeGeometry.js",
+        "src/geometries/SphereGeometry.js",
+        "src/geometries/TorusGeometry.js",
+        "src/geometries/TorusKnotGeometry.js"
       ],
       "commits": [
         {
@@ -387,11 +481,61 @@
             "src/geometries/TubeGeometry.js",
             "src/renderers/webgl/WebGLObjects.js"
           ]
+        },
+        {
+          "hash": "64bf06d6636c894b8ef2c2cb9b530e3c0195d0e0",
+          "author": "Brian Burke",
+          "date": "2017-01-18T22:05:45.000Z",
+          "message": "Correct detection of Uint32BufferAttribute for length of verticies",
+          "linesAdded": 15,
+          "linesDeleted": 15,
+          "filesChanged": [
+            "examples/js/loaders/AssimpJSONLoader.js",
+            "examples/js/loaders/MMDLoader.js",
+            "examples/js/loaders/PLYLoader.js",
+            "src/core/BufferGeometry.js",
+            "src/geometries/BoxGeometry.js",
+            "src/geometries/CircleGeometry.js",
+            "src/geometries/CylinderGeometry.js",
+            "src/geometries/LatheGeometry.js",
+            "src/geometries/ParametricGeometry.js",
+            "src/geometries/PlaneGeometry.js",
+            "src/geometries/RingGeometry.js",
+            "src/geometries/ShapeGeometry.js",
+            "src/geometries/SphereGeometry.js",
+            "src/geometries/TorusGeometry.js",
+            "src/geometries/TorusKnotGeometry.js"
+          ]
+        },
+        {
+          "hash": "82f3310e3fc10c931483a0d8a634cfbfa09417ca",
+          "author": "Brian Burke",
+          "date": "2017-01-18T17:42:04.000Z",
+          "message": "Correct detection of Uint32BufferAttribute for length of verticies",
+          "linesAdded": 15,
+          "linesDeleted": 15,
+          "filesChanged": [
+            "examples/js/loaders/AssimpJSONLoader.js",
+            "examples/js/loaders/MMDLoader.js",
+            "examples/js/loaders/PLYLoader.js",
+            "src/geometries/BoxGeometry.js",
+            "src/geometries/CircleGeometry.js",
+            "src/geometries/CylinderGeometry.js",
+            "src/geometries/LatheGeometry.js",
+            "src/geometries/ParametricGeometry.js",
+            "src/geometries/PlaneGeometry.js",
+            "src/geometries/RingGeometry.js",
+            "src/geometries/ShapeGeometry.js",
+            "src/geometries/SphereGeometry.js",
+            "src/geometries/TorusGeometry.js",
+            "src/geometries/TorusKnotGeometry.js",
+            "src/geometries/TubeGeometry.js"
+          ]
         }
       ]
     },
-    "2016-10-07": {
-      "date": "2016-10-07",
+    "2016-10-06": {
+      "date": "2016-10-06",
       "heatScore": 10,
       "linesChanged": 12,
       "commitCount": 1,
@@ -438,12 +582,13 @@
     },
     "2016-09-22": {
       "date": "2016-09-22",
-      "heatScore": 25,
-      "linesChanged": 237,
-      "commitCount": 1,
+      "heatScore": 56,
+      "linesChanged": 249,
+      "commitCount": 4,
       "filesEdited": [
         "examples/js/SkyShader.js",
-        "examples/webgl_shaders_sky.html"
+        "examples/webgl_shaders_sky.html",
+        "examples/js/effects/VREffect.js"
       ],
       "commits": [
         {
@@ -457,20 +602,64 @@
             "examples/js/SkyShader.js",
             "examples/webgl_shaders_sky.html"
           ]
+        },
+        {
+          "hash": "3a4dc30b4f840514cc147db7dda510f47c57ca8f",
+          "author": "Brian Chirls",
+          "date": "2016-09-22T16:33:50.000Z",
+          "message": "Correctly set display bounds (see #9732) (#9743)",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "examples/js/effects/VREffect.js"
+          ]
+        },
+        {
+          "hash": "158ba8afd69e493397566fab6a0c161615b9bf29",
+          "author": "Brian Chirls",
+          "date": "2016-09-22T16:33:50.000Z",
+          "message": "Correctly set display bounds (see #9732) (#9743)",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "examples/js/effects/VREffect.js"
+          ]
+        },
+        {
+          "hash": "702a8b999a8c2d490556a853306132377f14322f",
+          "author": "Brian Chirls",
+          "date": "2016-09-22T16:33:50.000Z",
+          "message": "Correctly set display bounds (see #9732) (#9743)",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "examples/js/effects/VREffect.js"
+          ]
         }
       ]
     },
     "2016-09-21": {
       "date": "2016-09-21",
-      "heatScore": 10,
-      "linesChanged": 6,
-      "commitCount": 1,
+      "heatScore": 20,
+      "linesChanged": 12,
+      "commitCount": 2,
       "filesEdited": [
         "examples/js/effects/VREffect.js"
       ],
       "commits": [
         {
           "hash": "7979ea61a5dc82fda42ef7773052f2f85b344a2d",
+          "author": "Brian Chirls",
+          "date": "2016-09-21T22:57:57.000Z",
+          "message": "VREffect: handle empty arrays for display bounds (#9732)",
+          "linesAdded": 4,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "examples/js/effects/VREffect.js"
+          ]
+        },
+        {
+          "hash": "8c26cfcf71672fc8d72071205a17604d609c76d4",
           "author": "Brian Chirls",
           "date": "2016-09-21T22:57:57.000Z",
           "message": "VREffect: handle empty arrays for display bounds (#9732)",
@@ -622,8 +811,8 @@
         }
       ]
     },
-    "2016-05-25": {
-      "date": "2016-05-25",
+    "2016-05-24": {
+      "date": "2016-05-24",
       "heatScore": 15,
       "linesChanged": 82,
       "commitCount": 1,
@@ -644,8 +833,8 @@
         }
       ]
     },
-    "2016-05-03": {
-      "date": "2016-05-03",
+    "2016-05-02": {
+      "date": "2016-05-02",
       "heatScore": 13,
       "linesChanged": 53,
       "commitCount": 1,
@@ -666,8 +855,8 @@
         }
       ]
     },
-    "2016-04-27": {
-      "date": "2016-04-27",
+    "2016-04-26": {
+      "date": "2016-04-26",
       "heatScore": 11,
       "linesChanged": 18,
       "commitCount": 1,
@@ -710,13 +899,36 @@
         }
       ]
     },
-    "2015-04-06": {
-      "date": "2015-04-06",
+    "2015-04-10": {
+      "date": "2015-04-10",
       "heatScore": 10,
-      "linesChanged": 2,
+      "linesChanged": 10,
       "commitCount": 1,
       "filesEdited": [
-        "examples/vr_cubes.html"
+        "examples/js/controls/VRControls.js"
+      ],
+      "commits": [
+        {
+          "hash": "c9fd6070edd0ce9e4156d23d7e954eb7bb43c3d0",
+          "author": "Brian Peiris",
+          "date": "2015-04-11T01:22:15.000Z",
+          "message": "Fix for Firefox WebVR (again)",
+          "linesAdded": 3,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "examples/js/controls/VRControls.js"
+          ]
+        }
+      ]
+    },
+    "2015-04-06": {
+      "date": "2015-04-06",
+      "heatScore": 33,
+      "linesChanged": 48,
+      "commitCount": 3,
+      "filesEdited": [
+        "examples/vr_cubes.html",
+        "examples/js/controls/VRControls.js"
       ],
       "commits": [
         {
@@ -729,16 +941,39 @@
           "filesChanged": [
             "examples/vr_cubes.html"
           ]
+        },
+        {
+          "hash": "4352f064facd887f7d279add1351bd311a96fc8d",
+          "author": "Brian Peiris",
+          "date": "2015-04-06T16:39:47.000Z",
+          "message": "DeviceId is not constant. Use deviceName instead.",
+          "linesAdded": 4,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "examples/js/controls/VRControls.js"
+          ]
+        },
+        {
+          "hash": "6a9b1ec65745d1bc10f9b89b5b4612fae92561b2",
+          "author": "Brian Peiris",
+          "date": "2015-04-06T08:14:18.000Z",
+          "message": "Allow multiple sensors, exclude phantom Carboard",
+          "linesAdded": 33,
+          "linesDeleted": 5,
+          "filesChanged": [
+            "examples/js/controls/VRControls.js"
+          ]
         }
       ]
     },
     "2015-04-05": {
       "date": "2015-04-05",
-      "heatScore": 10,
-      "linesChanged": 3,
-      "commitCount": 1,
+      "heatScore": 34,
+      "linesChanged": 63,
+      "commitCount": 3,
       "filesEdited": [
-        "examples/vr_cubes.html"
+        "examples/vr_cubes.html",
+        "examples/js/controls/VRControls.js"
       ],
       "commits": [
         {
@@ -750,6 +985,28 @@
           "linesDeleted": 0,
           "filesChanged": [
             "examples/vr_cubes.html"
+          ]
+        },
+        {
+          "hash": "f29b72f0e8775d676b2788a28e2530076e4b94e1",
+          "author": "Brian Peiris",
+          "date": "2015-04-05T21:53:38.000Z",
+          "message": "Fix camera orientation glitch and improve VR Cubes",
+          "linesAdded": 30,
+          "linesDeleted": 22,
+          "filesChanged": [
+            "examples/vr_cubes.html"
+          ]
+        },
+        {
+          "hash": "329082c70dec5d190e2bde89458fe66c8422df0b",
+          "author": "Brian Peiris",
+          "date": "2015-04-05T21:51:10.000Z",
+          "message": "Use the first VR position sensor we see.",
+          "linesAdded": 5,
+          "linesDeleted": 3,
+          "filesChanged": [
+            "examples/js/controls/VRControls.js"
           ]
         }
       ]
@@ -822,11 +1079,13 @@
     },
     "2012-12-30": {
       "date": "2012-12-30",
-      "heatScore": 10,
-      "linesChanged": 6,
-      "commitCount": 1,
+      "heatScore": 22,
+      "linesChanged": 40,
+      "commitCount": 2,
       "filesEdited": [
-        "test/unit/math/Color.js~"
+        "test/unit/math/Color.js~",
+        "test/unit/math/Color.js",
+        "test/unit/unittests_sources.html"
       ],
       "commits": [
         {
@@ -838,6 +1097,19 @@
           "linesDeleted": 6,
           "filesChanged": [
             "test/unit/math/Color.js~"
+          ]
+        },
+        {
+          "hash": "9f23d866afab063ae1f1cfbfadf802ff329c8622",
+          "author": "Brian Cajes",
+          "date": "2012-12-30T22:29:50.000Z",
+          "message": "started adding Color unit tests",
+          "linesAdded": 33,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "test/unit/math/Color.js",
+            "test/unit/math/Color.js~",
+            "test/unit/unittests_sources.html"
           ]
         }
       ]

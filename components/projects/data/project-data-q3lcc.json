@@ -2,16 +2,19 @@
   "projectName": "q3lcc",
   "localPath": "C:\\Users\\megam\\q3lcc",
   "remoteUrl": "git@github.com:briancullinan2/q3lcc.git",
-  "lastUpdated": "2026-09-24T03:04:13.281Z",
+  "lastUpdated": "2026-09-24T17:52:40.571Z",
   "screenshots": [],
   "dailyHeat": {
     "2026-05-27": {
       "date": "2026-05-27",
-      "heatScore": 10,
-      "linesChanged": 1,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 203,
+      "commitCount": 15,
       "filesEdited": [
-        "src/main.c"
+        "src/main.c",
+        "src/c.h",
+        "cpp/unix.c",
+        "cpp/cpp.h"
       ],
       "commits": [
         {
@@ -23,6 +26,160 @@
           "linesDeleted": 0,
           "filesChanged": [
             "src/main.c"
+          ]
+        },
+        {
+          "hash": "4744dc77f60f4f2c3e6e827f9ed77880aac4775e",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T19:41:54.000Z",
+          "message": "Refactor file stream handling in c.h",
+          "linesAdded": 25,
+          "linesDeleted": 6,
+          "filesChanged": [
+            "src/c.h"
+          ]
+        },
+        {
+          "hash": "08c07956369f4f3c3c0aaddafd099de83585d787",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T19:39:34.000Z",
+          "message": "Update c.h",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "src/c.h"
+          ]
+        },
+        {
+          "hash": "9bb5a5da916b9b287fed57040ffef31ac4c466d7",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T19:39:15.000Z",
+          "message": "Add custom error file descriptor and improve comments",
+          "linesAdded": 10,
+          "linesDeleted": 11,
+          "filesChanged": [
+            "src/main.c"
+          ]
+        },
+        {
+          "hash": "e56adebd2a71727be88e2f17c2cab11c844354cd",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T19:35:00.000Z",
+          "message": "Add macros for custom file descriptor I/O",
+          "linesAdded": 11,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "src/c.h"
+          ]
+        },
+        {
+          "hash": "1c0952a4ab2eff1f3f988960f5e2029def770216",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T19:34:28.000Z",
+          "message": "trying to get compiler to work in wasm",
+          "linesAdded": 27,
+          "linesDeleted": 11,
+          "filesChanged": [
+            "src/main.c"
+          ]
+        },
+        {
+          "hash": "93f24f72fb875e3f9589dbb6e2c7978c420d99c2",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T19:10:07.000Z",
+          "message": "Add visibility attribute to out_fd variable",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "cpp/unix.c"
+          ]
+        },
+        {
+          "hash": "1adca11ec2738e4aa3bbcea66a29954e949cfda5",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T19:03:00.000Z",
+          "message": "Remove WASI specific output redirection",
+          "linesAdded": 2,
+          "linesDeleted": 6,
+          "filesChanged": [
+            "cpp/unix.c"
+          ]
+        },
+        {
+          "hash": "7440c2545e3bc03a433b09dc546880c82ce846fb",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T19:02:53.000Z",
+          "message": "Add WASI support for output functions in cpp.h",
+          "linesAdded": 8,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "cpp/cpp.h"
+          ]
+        },
+        {
+          "hash": "592c9d7a349906a262a6e6f2d21273630e8f26b0",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T18:56:26.000Z",
+          "message": "Add WASI support for output redirection",
+          "linesAdded": 16,
+          "linesDeleted": 15,
+          "filesChanged": [
+            "cpp/unix.c"
+          ]
+        },
+        {
+          "hash": "1931ceefdceed2b9a84ac3df2343047142ad2085",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T18:51:57.000Z",
+          "message": "Fix typo in argument index for newstring function",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "cpp/unix.c"
+          ]
+        },
+        {
+          "hash": "fbd7392965a42efedc4323ef3c9244bba8a9d82f",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T18:49:40.000Z",
+          "message": "Correct argv index and improve stdout handling",
+          "linesAdded": 15,
+          "linesDeleted": 10,
+          "filesChanged": [
+            "cpp/unix.c"
+          ]
+        },
+        {
+          "hash": "72ad857bc448180038b235d4bbf765945a251cbe",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T18:37:05.000Z",
+          "message": "Declare extern for dup2 function",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "cpp/unix.c"
+          ]
+        },
+        {
+          "hash": "2e95395ddaf0e6a6834b26a0a6e7ee6bb0b5289a",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T18:34:55.000Z",
+          "message": "Modernize stdout redirection using dup2",
+          "linesAdded": 5,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "cpp/unix.c"
+          ]
+        },
+        {
+          "hash": "163697af18ffc88f0ac47d0b66630b9122842f9e",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T18:20:57.000Z",
+          "message": "Modernize file output handling in unix.c",
+          "linesAdded": 12,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "cpp/unix.c"
           ]
         }
       ]
@@ -51,9 +208,9 @@
     },
     "2026-05-15": {
       "date": "2026-05-15",
-      "heatScore": 10,
-      "linesChanged": 6,
-      "commitCount": 1,
+      "heatScore": 41,
+      "linesChanged": 25,
+      "commitCount": 4,
       "filesEdited": [
         "etc/lcc.c"
       ],
@@ -68,11 +225,44 @@
           "filesChanged": [
             "etc/lcc.c"
           ]
+        },
+        {
+          "hash": "41a28bdc75449e0a6dc26f66423ec25ac3f7e535",
+          "author": "Brian Cullinan",
+          "date": "2026-05-15T22:39:11.000Z",
+          "message": "Update lcc.c",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "etc/lcc.c"
+          ]
+        },
+        {
+          "hash": "0127c1a9c188e2e7c79b0cbe23926445f7321769",
+          "author": "Brian Cullinan",
+          "date": "2026-05-15T22:36:58.000Z",
+          "message": "Update lcc.c",
+          "linesAdded": 5,
+          "linesDeleted": 6,
+          "filesChanged": [
+            "etc/lcc.c"
+          ]
+        },
+        {
+          "hash": "f2e273fd93e84ee436dacacf89250559d3ab08ec",
+          "author": "Brian Cullinan",
+          "date": "2026-05-15T22:08:25.000Z",
+          "message": "Update lcc.c",
+          "linesAdded": 6,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "etc/lcc.c"
+          ]
         }
       ]
     },
-    "2026-05-12": {
-      "date": "2026-05-12",
+    "2026-05-11": {
+      "date": "2026-05-11",
       "heatScore": 11,
       "linesChanged": 15,
       "commitCount": 1,
@@ -95,11 +285,11 @@
         }
       ]
     },
-    "2023-12-11": {
-      "date": "2023-12-11",
-      "heatScore": 10,
-      "linesChanged": 10,
-      "commitCount": 1,
+    "2023-12-10": {
+      "date": "2023-12-10",
+      "heatScore": 100,
+      "linesChanged": 1524,
+      "commitCount": 4,
       "filesEdited": [
         ".gitignore",
         "CPYRIGHT",
@@ -165,7 +355,13 @@
         "src/token.h",
         "src/trace.c",
         "src/tree.c",
-        "src/types.c"
+        "src/types.c",
+        "Makefile",
+        "msvc2017/cpp.vcxproj",
+        "msvc2017/lburg.vcxproj",
+        "msvc2017/lcc.vcxproj",
+        "msvc2017/rcc.vcxproj",
+        ".github/workflows/build.yml"
       ],
       "commits": [
         {
@@ -241,6 +437,43 @@
             "src/trace.c",
             "src/tree.c",
             "src/types.c"
+          ]
+        },
+        {
+          "hash": "d276785b766ea38a7ac67f01ca72e6f84beec0ad",
+          "author": "Brian Cullinan",
+          "date": "2023-12-11T00:54:54.000Z",
+          "message": "make fix",
+          "linesAdded": 8,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "Makefile"
+          ]
+        },
+        {
+          "hash": "1fe5c384bd2d89836a9b59e8de09edebbc204e27",
+          "author": "Brian Cullinan",
+          "date": "2023-12-11T00:50:37.000Z",
+          "message": "build files",
+          "linesAdded": 1156,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".gitignore",
+            "msvc2017/cpp.vcxproj",
+            "msvc2017/lburg.vcxproj",
+            "msvc2017/lcc.vcxproj",
+            "msvc2017/rcc.vcxproj"
+          ]
+        },
+        {
+          "hash": "4647f2f982a58b3d3fd0396f3eef53dc4e7f7387",
+          "author": "Brian Cullinan",
+          "date": "2023-12-11T00:37:27.000Z",
+          "message": "auto-build",
+          "linesAdded": 343,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".github/workflows/build.yml"
           ]
         }
       ]

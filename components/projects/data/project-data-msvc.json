@@ -2,14 +2,14 @@
   "projectName": "msvc",
   "localPath": "C:\\Users\\megam\\q3lcc2\\msvc",
   "remoteUrl": "git@github.com:briancullinan2/q3lcc.git",
-  "lastUpdated": "2026-09-24T03:04:13.407Z",
+  "lastUpdated": "2026-09-24T17:52:40.701Z",
   "screenshots": [],
   "dailyHeat": {
-    "2023-12-11": {
-      "date": "2023-12-11",
-      "heatScore": 10,
-      "linesChanged": 10,
-      "commitCount": 1,
+    "2023-12-10": {
+      "date": "2023-12-10",
+      "heatScore": 100,
+      "linesChanged": 1524,
+      "commitCount": 4,
       "filesEdited": [
         ".gitignore",
         "CPYRIGHT",
@@ -75,7 +75,13 @@
         "src/token.h",
         "src/trace.c",
         "src/tree.c",
-        "src/types.c"
+        "src/types.c",
+        "Makefile",
+        "msvc2017/cpp.vcxproj",
+        "msvc2017/lburg.vcxproj",
+        "msvc2017/lcc.vcxproj",
+        "msvc2017/rcc.vcxproj",
+        ".github/workflows/build.yml"
       ],
       "commits": [
         {
@@ -151,6 +157,43 @@
             "src/trace.c",
             "src/tree.c",
             "src/types.c"
+          ]
+        },
+        {
+          "hash": "d276785b766ea38a7ac67f01ca72e6f84beec0ad",
+          "author": "Brian Cullinan",
+          "date": "2023-12-11T00:54:54.000Z",
+          "message": "make fix",
+          "linesAdded": 8,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "Makefile"
+          ]
+        },
+        {
+          "hash": "1fe5c384bd2d89836a9b59e8de09edebbc204e27",
+          "author": "Brian Cullinan",
+          "date": "2023-12-11T00:50:37.000Z",
+          "message": "build files",
+          "linesAdded": 1156,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".gitignore",
+            "msvc2017/cpp.vcxproj",
+            "msvc2017/lburg.vcxproj",
+            "msvc2017/lcc.vcxproj",
+            "msvc2017/rcc.vcxproj"
+          ]
+        },
+        {
+          "hash": "4647f2f982a58b3d3fd0396f3eef53dc4e7f7387",
+          "author": "Brian Cullinan",
+          "date": "2023-12-11T00:37:27.000Z",
+          "message": "auto-build",
+          "linesAdded": 343,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".github/workflows/build.yml"
           ]
         }
       ]

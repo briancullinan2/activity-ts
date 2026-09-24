@@ -1,0 +1,238 @@
+/* Container & Widget Shell */
+.clipart-drive-widget {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	height: 100%;
+	background-color: #12131c;
+	color: #e2e8f0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+	overflow-y: auto;
+	box-sizing: border-box;
+	padding: 20px;
+}
+
+/* Category & Subject Pill Navigation */
+.art-nav-section {
+	margin-bottom: 20px;
+}
+
+.art-nav-title {
+	font-size: 1.4rem;
+	font-weight: 700;
+	margin: 0 0 12px 0;
+	color: #ffffff;
+}
+
+.art-pill-grid {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.art-pill {
+	background: #1e2035;
+	border: 1px solid #313552;
+	color: #a0a6cc;
+	padding: 8px 18px;
+	border-radius: 8px;
+	font-size: 0.9rem;
+	font-weight: 600;
+	cursor: pointer;
+	transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+	user-select: none;
+}
+
+.art-pill:hover {
+	background: #2a2d4a;
+	color: #ffffff;
+	border-color: #4f568a;
+	transform: translateY(-1px);
+}
+
+.art-pill.active {
+	background: #2a2d4a;
+	color: #ffffff;
+	border: 2px solid transparent;
+	background-image: linear-gradient(#1e2035, #1e2035), linear-gradient(135deg, #ff007f, #7928ca, #00dfd8);
+	background-origin: border-box;
+	background-clip: padding-box, border-box;
+	box-shadow: 0 4px 15px rgba(121, 40, 202, 0.35);
+}
+
+/* Sub-Style / Prompt Filter Tags */
+.art-style-grid {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 8px;
+	margin-top: 10px;
+}
+
+.art-style-tag {
+	background: #17192a;
+	border: 1px solid #2a2d48;
+	color: #8b92be;
+	padding: 6px 14px;
+	border-radius: 6px;
+	font-size: 0.8rem;
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+
+.art-style-tag:hover {
+	background: #252846;
+	color: #ffffff;
+}
+
+.art-style-tag.active {
+	background: #3b82f6;
+	color: #ffffff;
+	border-color: #60a5fa;
+	box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+}
+
+/* iTunes / Cover Flow Carousel Display */
+.coverflow-stage {
+	perspective: 1000px;
+	width: 100%;
+	height: 380px;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 30px 0;
+	overflow: hidden;
+}
+
+.coverflow-container {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transform-style: preserve-3d;
+}
+
+.coverflow-card {
+	position: absolute;
+	width: 240px;
+	height: 240px;
+	border-radius: 12px;
+	background-size: cover;
+	background-position: center;
+	border: 2px solid #333854;
+	box-shadow: 0 15px 35px rgba(0, 0, 0, 0.6);
+	transition: transform 0.45s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.45s ease, filter 0.45s ease;
+	cursor: pointer;
+	background-color: #1a1c2e;
+}
+
+/* Cover Flow 3D Perspective Offsets */
+.coverflow-card.active {
+	transform: translate3d(0, 0, 150px) rotateY(0deg);
+	opacity: 1;
+	z-index: 100;
+	border-color: #00dfd8;
+	box-shadow: 0 20px 40px rgba(0, 223, 216, 0.3);
+}
+
+.coverflow-card.left-1 {
+	transform: translate3d(-180px, 0, 0px) rotateY(35deg);
+	opacity: 0.85;
+	z-index: 50;
+}
+
+.coverflow-card.right-1 {
+	transform: translate3d(180px, 0, 0px) rotateY(-35deg);
+	opacity: 0.85;
+	z-index: 50;
+}
+
+.coverflow-card.left-2 {
+	transform: translate3d(-320px, 0, -120px) rotateY(50deg);
+	opacity: 0.5;
+	z-index: 20;
+}
+
+.coverflow-card.right-2 {
+	transform: translate3d(320px, 0, -120px) rotateY(-50deg);
+	opacity: 0.5;
+	z-index: 20;
+}
+
+.coverflow-card.hidden {
+	opacity: 0;
+	transform: translate3d(0, 0, -300px);
+	pointer-events: none;
+}
+
+/* Card Reflection / Label Overlay */
+.coverflow-card-label {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: rgba(18, 19, 28, 0.85);
+	backdrop-filter: blur(4px);
+	padding: 8px;
+	font-size: 0.75rem;
+	text-align: center;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	color: #d1d5db;
+}
+
+/* Coverflow Navigation Arrows */
+.coverflow-btn {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	background: rgba(30, 32, 53, 0.8);
+	border: 1px solid #313552;
+	color: #fff;
+	width: 44px;
+	height: 44px;
+	border-radius: 50%;
+	font-size: 1.2rem;
+	cursor: pointer;
+	z-index: 150;
+	transition: all 0.2s ease;
+}
+
+.coverflow-btn:hover {
+	background: #3b82f6;
+	border-color: #60a5fa;
+}
+
+.coverflow-btn.prev {
+	left: 20px;
+}
+
+.coverflow-btn.next {
+	right: 20px;
+}
+
+/* Dynamic Tag Cloud Bar */
+.art-tags-container {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+	justify-content: center;
+	padding: 12px;
+	background: #17192a;
+	border-radius: 8px;
+	border: 1px solid #232742;
+}
+
+.art-tag-chip {
+	font-size: 0.75rem;
+	padding: 3px 10px;
+	background: #20243f;
+	color: #7e87b8;
+	border-radius: 12px;
+}

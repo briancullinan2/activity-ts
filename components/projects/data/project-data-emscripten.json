@@ -2,7 +2,7 @@
   "projectName": "emscripten",
   "localPath": "C:\\Users\\megam\\emscripten",
   "remoteUrl": "git@github.com:emscripten-core/emscripten.git",
-  "lastUpdated": "2026-09-24T03:03:57.470Z",
+  "lastUpdated": "2026-09-24T17:52:26.259Z",
   "screenshots": [
     {
       "filename": "screenshot.png",
@@ -118,8 +118,8 @@
         }
       ]
     },
-    "2016-01-14": {
-      "date": "2016-01-14",
+    "2016-01-13": {
+      "date": "2016-01-13",
       "heatScore": 13,
       "linesChanged": 45,
       "commitCount": 1,
@@ -142,13 +142,15 @@
         }
       ]
     },
-    "2016-01-13": {
-      "date": "2016-01-13",
-      "heatScore": 10,
-      "linesChanged": 10,
-      "commitCount": 1,
+    "2016-01-12": {
+      "date": "2016-01-12",
+      "heatScore": 30,
+      "linesChanged": 13,
+      "commitCount": 3,
       "filesEdited": [
-        "tests/test_core.py"
+        "tests/test_core.py",
+        "tools/system_libs.py",
+        "tools/shared.py"
       ],
       "commits": [
         {
@@ -161,14 +163,36 @@
           "filesChanged": [
             "tests/test_core.py"
           ]
+        },
+        {
+          "hash": "ab855d0657a37530edbd8349bdb64a245874ceb8",
+          "author": "Brian Armstrong",
+          "date": "2016-01-13T00:24:27.000Z",
+          "message": "build compiler-rt with -O2",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "tools/system_libs.py"
+          ]
+        },
+        {
+          "hash": "3316e748fc1f32d572941ef0faf349137f08692d",
+          "author": "Brian Armstrong",
+          "date": "2016-01-13T00:09:43.000Z",
+          "message": "provide $NM via emconfigure",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "tools/shared.py"
+          ]
         }
       ]
     },
-    "2015-12-19": {
-      "date": "2015-12-19",
-      "heatScore": 30,
-      "linesChanged": 306,
-      "commitCount": 1,
+    "2015-12-18": {
+      "date": "2015-12-18",
+      "heatScore": 40,
+      "linesChanged": 307,
+      "commitCount": 2,
       "filesEdited": [
         "system/lib/compiler-rt.symbols",
         "system/lib/compiler-rt/divdc3.c",
@@ -176,7 +200,8 @@
         "system/lib/compiler-rt/int_types.h",
         "system/lib/compiler-rt/muldc3.c",
         "system/lib/compiler-rt/mulsc3.c",
-        "tools/system_libs.py"
+        "tools/system_libs.py",
+        "AUTHORS"
       ],
       "commits": [
         {
@@ -194,6 +219,17 @@
             "system/lib/compiler-rt/muldc3.c",
             "system/lib/compiler-rt/mulsc3.c",
             "tools/system_libs.py"
+          ]
+        },
+        {
+          "hash": "0c7056364e2a3631dd00797d39a1d8ceba275f1a",
+          "author": "Brian Armstrong",
+          "date": "2015-12-19T02:31:59.000Z",
+          "message": "add brian to authors",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "AUTHORS"
           ]
         }
       ]

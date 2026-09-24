@@ -39,7 +39,7 @@ export const OUTLINE_WIDGET_TYPES = [
 	'FileListWidget', 'GameListWidget',
 	'DatabaseListWidget', 'AssetListWidget',
 	'GithubListWidget', 'SearchListWidget',
-	'SkillsWidget'
+	'SkillsWidget', 'GoogleDriveWidget'
 ];
 
 
@@ -49,11 +49,11 @@ export const OUTLINE_WIDGET_TYPES = [
 export const TOOLBAR_CONTEXT_MAP: Record<ToolbarKey, string[]> = {
 	appToolbar: [
 		'TerminalWidget', 'AceEditorWidget', 'PaintWidget', 'NunuStudioWidget',
-		'TojiWidget', 'FileListWidget', 'GameListWidget',
+		'TojiWidget', 'FileListWidget', 'GameListWidget', 'GoogleDriveWidget',
 		'AssetListWidget', 'GithubWidget', 'SettingsWidget', 'SearchWidget', 'AudioEditorWidget'
 	],
 	fileToolbar: [
-		'AceEditorWidget', 'FileListWidget', 'GameListWidget', 'AssetListWidget'
+		'AceEditorWidget', 'FileListWidget', 'GameListWidget', 'AssetListWidget', 'GoogleDriveWidget'
 	],
 	scriptToolbar: [
 		'TerminalWidget', 'AceEditorWidget'

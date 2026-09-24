@@ -213,3 +213,35 @@
 .ph-error {
 	color: #f85149;
 }
+
+.ph-color-dot {
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	display: inline-block;
+	margin-right: 6px;
+	vertical-align: middle;
+}
+
+.ph-day-title-holder {
+	display: flex;
+	align-items: center;
+}
+
+.ph-heatmap-svg-holder,
+.ph-heatmap-container {
+	position: relative;
+	padding-bottom: 15%;
+	width: 100%;
+}
+
+.ph-heatmap-svg-holder>svg,
+.ph-heatmap-container>img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+}

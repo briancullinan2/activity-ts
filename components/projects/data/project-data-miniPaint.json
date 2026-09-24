@@ -2,7 +2,7 @@
   "projectName": "miniPaint",
   "localPath": "C:\\Users\\megam\\miniPaint",
   "remoteUrl": "git@github.com:viliusle/miniPaint.git",
-  "lastUpdated": "2026-09-24T03:04:02.321Z",
+  "lastUpdated": "2026-09-24T17:52:31.460Z",
   "screenshots": [],
   "dailyHeat": {
     "2026-07-12": {
@@ -57,11 +57,164 @@
     },
     "2026-07-11": {
       "date": "2026-07-11",
-      "heatScore": 10,
-      "linesChanged": 2,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 2827,
+      "commitCount": 4,
       "filesEdited": [
-        "src/js/main.js"
+        "src/js/config.js",
+        "src/js/core/base-layers.js",
+        "src/js/global-events.js",
+        "src/js/modules/image/information.js",
+        "src/js/tools/selection.js",
+        "src/js/core/gui/gui-preview.js",
+        "src/js/core/gui/gui-tools.js",
+        "src/js/main.js",
+        "src/js/app.js",
+        "src/js/core/base-gui.js",
+        "src/js/core/base-search.js",
+        "src/js/core/base-selection.js",
+        "src/js/core/base-state.js",
+        "src/js/core/base-tools.js",
+        "src/js/core/gui/gui-information.js",
+        "src/js/core/gui/gui-menu.js",
+        "src/js/libs/clipboard.js",
+        "src/js/modules/edit/copy.js",
+        "src/js/modules/file/open.js",
+        "src/js/modules/file/quickload.js",
+        "src/js/modules/file/quicksave.js",
+        "src/js/modules/file/save.js",
+        "src/js/modules/image/auto_adjust.js",
+        "src/js/modules/image/resize.js",
+        "src/js/modules/image/rotate.js",
+        "src/js/modules/image/trim.js",
+        "src/js/modules/layer/duplicate.js",
+        "src/js/modules/layer/new.js",
+        "src/js/modules/view/grid.js",
+        "src/js/modules/view/ruler.js",
+        "src/js/tools/brush.js",
+        "src/js/tools/clone.js",
+        "src/js/tools/crop.js",
+        "src/js/tools/fill.js",
+        "src/js/tools/magic_erase.js",
+        "src/js/tools/pencil.js",
+        "src/js/tools/pick_color.js",
+        "src/js/tools/select.js",
+        "src/js/tools/shape.js",
+        "src/js/tools/shapes/bezier_curve.js",
+        "src/js/tools/shapes/polygon.js",
+        "src/js/tools/text.js",
+        "src/js/frame-rater.js",
+        "src/js/modules/tools/settings.js"
+      ],
+      "commits": [
+        {
+          "hash": "4114189f5d086eca18cdc9a35cfa9bf1cca2bf63",
+          "author": "Brian Cullinan",
+          "date": "2026-07-12T06:07:42.000Z",
+          "message": "probably working multipaint",
+          "linesAdded": 553,
+          "linesDeleted": 512,
+          "filesChanged": [
+            "src/js/config.js",
+            "src/js/core/base-layers.js",
+            "src/js/global-events.js",
+            "src/js/modules/image/information.js",
+            "src/js/tools/selection.js"
+          ]
+        },
+        {
+          "hash": "e33b45e815bdf1c63aa742de6bf5f7817851fb67",
+          "author": "Brian Cullinan",
+          "date": "2026-07-12T05:15:14.000Z",
+          "message": "less errors",
+          "linesAdded": 18,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "src/js/core/gui/gui-preview.js",
+            "src/js/core/gui/gui-tools.js",
+            "src/js/global-events.js",
+            "src/js/main.js"
+          ]
+        },
+        {
+          "hash": "f1b2e101f1f69ddb7dd436a5dc436ab7dc127e62",
+          "author": "Brian Cullinan",
+          "date": "2026-07-12T05:05:06.000Z",
+          "message": "working on multi-paint",
+          "linesAdded": 809,
+          "linesDeleted": 696,
+          "filesChanged": [
+            "src/js/app.js",
+            "src/js/core/base-gui.js",
+            "src/js/core/base-layers.js",
+            "src/js/core/base-search.js",
+            "src/js/core/base-selection.js",
+            "src/js/core/base-state.js",
+            "src/js/core/base-tools.js",
+            "src/js/core/gui/gui-information.js",
+            "src/js/core/gui/gui-menu.js",
+            "src/js/core/gui/gui-preview.js",
+            "src/js/core/gui/gui-tools.js",
+            "src/js/global-events.js",
+            "src/js/libs/clipboard.js",
+            "src/js/main.js",
+            "src/js/modules/edit/copy.js",
+            "src/js/modules/file/open.js",
+            "src/js/modules/file/quickload.js",
+            "src/js/modules/file/quicksave.js",
+            "src/js/modules/file/save.js",
+            "src/js/modules/image/auto_adjust.js",
+            "src/js/modules/image/information.js",
+            "src/js/modules/image/resize.js",
+            "src/js/modules/image/rotate.js",
+            "src/js/modules/image/trim.js",
+            "src/js/modules/layer/duplicate.js",
+            "src/js/modules/layer/new.js",
+            "src/js/modules/view/grid.js",
+            "src/js/modules/view/ruler.js",
+            "src/js/tools/brush.js",
+            "src/js/tools/clone.js",
+            "src/js/tools/crop.js",
+            "src/js/tools/fill.js",
+            "src/js/tools/magic_erase.js",
+            "src/js/tools/pencil.js",
+            "src/js/tools/pick_color.js",
+            "src/js/tools/select.js",
+            "src/js/tools/selection.js",
+            "src/js/tools/shape.js",
+            "src/js/tools/shapes/bezier_curve.js",
+            "src/js/tools/shapes/polygon.js",
+            "src/js/tools/text.js"
+          ]
+        },
+        {
+          "hash": "5d93dab1f82253f17a9904a7518a2bef11e20a6e",
+          "author": "Brian Cullinan",
+          "date": "2026-07-12T00:24:48.000Z",
+          "message": "added frame rate limiter",
+          "linesAdded": 195,
+          "linesDeleted": 37,
+          "filesChanged": [
+            "src/js/core/base-layers.js",
+            "src/js/frame-rater.js",
+            "src/js/modules/tools/settings.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-10": {
+      "date": "2026-07-10",
+      "heatScore": 62,
+      "linesChanged": 194,
+      "commitCount": 5,
+      "filesEdited": [
+        "src/js/main.js",
+        "src/js/config-menu.js",
+        "src/js/core/gui/gui-menu.js",
+        "dist/bundle.js",
+        "dist/bundle.js.map",
+        "src/js/core/base-gui.js",
+        "webpack.config.js"
       ],
       "commits": [
         {
@@ -74,18 +227,19 @@
           "filesChanged": [
             "src/js/main.js"
           ]
-        }
-      ]
-    },
-    "2026-07-10": {
-      "date": "2026-07-10",
-      "heatScore": 10,
-      "linesChanged": 1,
-      "commitCount": 1,
-      "filesEdited": [
-        "src/js/core/gui/gui-menu.js"
-      ],
-      "commits": [
+        },
+        {
+          "hash": "e5dab88be573013882be2969f2702185316b9b23",
+          "author": "Brian Cullinan",
+          "date": "2026-07-11T04:33:49.000Z",
+          "message": "expose alertify",
+          "linesAdded": 3,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "src/js/config-menu.js",
+            "src/js/main.js"
+          ]
+        },
         {
           "hash": "b0e3bf43f3f8f49d15034bbc1e8fec3d55d73a94",
           "author": "Brian Cullinan",
@@ -95,6 +249,72 @@
           "linesDeleted": 0,
           "filesChanged": [
             "src/js/core/gui/gui-menu.js"
+          ]
+        },
+        {
+          "hash": "c6b66e5d77dfad1f5684622fb6178802997cc3ed",
+          "author": "Brian Cullinan",
+          "date": "2026-07-10T16:26:32.000Z",
+          "message": "menu fixes",
+          "linesAdded": 35,
+          "linesDeleted": 27,
+          "filesChanged": [
+            "src/js/config-menu.js",
+            "src/js/core/gui/gui-menu.js",
+            "src/js/main.js"
+          ]
+        },
+        {
+          "hash": "831509a85d69a913bd70f0400038438494272e82",
+          "author": "Brian Cullinan",
+          "date": "2026-07-10T09:35:38.000Z",
+          "message": "couple of fixes for integration",
+          "linesAdded": 74,
+          "linesDeleted": 52,
+          "filesChanged": [
+            "dist/bundle.js",
+            "dist/bundle.js.map",
+            "src/js/core/base-gui.js",
+            "src/js/main.js",
+            "webpack.config.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-09": {
+      "date": "2026-07-09",
+      "heatScore": 69,
+      "linesChanged": 899,
+      "commitCount": 1,
+      "filesEdited": [
+        "boxicons.ttf",
+        "boxicons.woff",
+        "boxicons.woff2",
+        "dist/bundle.js",
+        "package-lock.json",
+        "src/css/boxicons.min.css",
+        "src/css/layout.css",
+        "src/js/config.js",
+        "src/js/main.js"
+      ],
+      "commits": [
+        {
+          "hash": "66991c92893b2e75b43fe704a91284b516ed66ea",
+          "author": "Brian Cullinan",
+          "date": "2026-07-10T04:53:01.000Z",
+          "message": "making changes, updated icons",
+          "linesAdded": 612,
+          "linesDeleted": 287,
+          "filesChanged": [
+            "boxicons.ttf",
+            "boxicons.woff",
+            "boxicons.woff2",
+            "dist/bundle.js",
+            "package-lock.json",
+            "src/css/boxicons.min.css",
+            "src/css/layout.css",
+            "src/js/config.js",
+            "src/js/main.js"
           ]
         }
       ]

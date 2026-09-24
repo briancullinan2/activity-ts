@@ -2,7 +2,7 @@
   "projectName": "OpenSfM",
   "localPath": "C:\\Users\\megam\\OpenSfM",
   "remoteUrl": "git@github.com:briancullinan2/OpenSfM.git",
-  "lastUpdated": "2026-09-24T03:04:13.009Z",
+  "lastUpdated": "2026-09-24T17:52:40.297Z",
   "screenshots": [
     {
       "filename": "trackbar_screenshot.jpg",
@@ -14,11 +14,24 @@
   "dailyHeat": {
     "2026-06-23": {
       "date": "2026-06-23",
-      "heatScore": 10,
-      "linesChanged": 4,
-      "commitCount": 1,
+      "heatScore": 64,
+      "linesChanged": 666,
+      "commitCount": 2,
       "filesEdited": [
-        "opensfm/dataset.py"
+        "opensfm/dataset.py",
+        ".gitignore",
+        "doc/source/building.rst",
+        "opensfm/src/CMakeLists.txt",
+        "opensfm/src/bundle/CMakeLists.txt",
+        "opensfm/src/geometry/CMakeLists.txt",
+        "opensfm/src/robust/CMakeLists.txt",
+        "opensfm/src/sfm/CMakeLists.txt",
+        "opensfm/src/sfm/src/tracks_helpers.cc",
+        "opensfm/src/third_party/gtest/gtest/gtest.h",
+        "opensfm/src/third_party/vlfeat/CMakeLists.txt",
+        "setup.py",
+        "viewer/package-lock.json",
+        "viewer/package.json"
       ],
       "commits": [
         {
@@ -30,6 +43,29 @@
           "linesDeleted": 0,
           "filesChanged": [
             "opensfm/dataset.py"
+          ]
+        },
+        {
+          "hash": "b7ab852a53b3918e275b2077652c616c05536eee",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T23:06:59.000Z",
+          "message": "i hate cmake",
+          "linesAdded": 641,
+          "linesDeleted": 21,
+          "filesChanged": [
+            ".gitignore",
+            "doc/source/building.rst",
+            "opensfm/src/CMakeLists.txt",
+            "opensfm/src/bundle/CMakeLists.txt",
+            "opensfm/src/geometry/CMakeLists.txt",
+            "opensfm/src/robust/CMakeLists.txt",
+            "opensfm/src/sfm/CMakeLists.txt",
+            "opensfm/src/sfm/src/tracks_helpers.cc",
+            "opensfm/src/third_party/gtest/gtest/gtest.h",
+            "opensfm/src/third_party/vlfeat/CMakeLists.txt",
+            "setup.py",
+            "viewer/package-lock.json",
+            "viewer/package.json"
           ]
         }
       ]

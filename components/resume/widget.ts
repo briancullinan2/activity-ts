@@ -267,6 +267,8 @@ export class ResumeWidget extends Widget
 		super.onAfterShow(msg);
 		this._openSkillsSidebar();
 	}
+
+
 	protected override onBeforeDetach(msg: Message): void
 	{
 		widgetSelf.SkillsWidget?.getInstance().close();

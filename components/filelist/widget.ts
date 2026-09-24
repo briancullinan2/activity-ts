@@ -33,17 +33,21 @@ export class FileListWidget extends Widget
 	handleKey?: string;
 	protected treeLoading: boolean = false;
 	protected refreshTreeTimer: ReturnType<typeof setTimeout> | undefined;
+	protected _source?: string;
 
 	protected get selector()
 	{
 		return '#' + this.treeContainerId;
 	}
 
-	constructor(titleStr: string)
+	constructor(titleStr?: string, source?: string)
 	{
 		super();
 		this.id = `filelist-panel-${filelistSelf.nextTemp?.()}`;
-		this.title.label = titleStr;
+		if(titleStr)
+		{
+			this.title.label = titleStr;
+		}
 		if(filelistSelf.fileListWidgets)
 		{
 			filelistSelf.fileListWidgets[filelistSelf.fileListWidgets.length] = this;
@@ -51,7 +55,10 @@ export class FileListWidget extends Widget
 		this.title.closable = true;
 		this.node.style.minWidth = '200px';
 		this.addClass('ide-file-tree-widget');
-
+		if(source)
+		{
+			this._source = source;
+		}
 		this.treeContainerId = `tree-${Date.now()}`;
 	}
 

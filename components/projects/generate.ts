@@ -9,7 +9,8 @@ export const AUTHOR_MATCHES = [
 	'brian',
 	'brian cullinan',
 	'megamindbrian@gmail.com',
-	'bjcullinan@gmail.com'
+	'bjcullinan@gmail.com',
+	'megamind'
 ];
 
 export interface CommitActivity
@@ -242,13 +243,33 @@ function extractScreenshots(repoPath: string): ScreenshotAsset[]
  */
 function processLocalGitHistory(repoPath: string, existingData: ProjectData | null): Record<string, DailyHeatData | undefined>
 {
-	const dailyHeatMap: Record<string, DailyHeatData | undefined> = existingData?.dailyHeat ? { ...existingData.dailyHeat } : {};
+	const dailyHeatMap: Record<string, DailyHeatData | undefined> = {};
+
+	// Build a fast commit cache lookup from existing data
+	const cachedCommitMap = new Map<string, CommitActivity>();
+	if(existingData?.dailyHeat)
+	{
+		for(const dayEntry of Object.values(existingData.dailyHeat))
+		{
+			if(dayEntry && Array.isArray(dayEntry.commits))
+			{
+				for(const commit of dayEntry.commits)
+				{
+					if(commit && commit.hash)
+					{
+						cachedCommitMap.set(commit.hash, commit);
+					}
+				}
+			}
+		}
+	}
 
 	const authorArgs = AUTHOR_MATCHES.map(a => `--author="${a}"`).join(' ');
-	const logCmd = `git log --all ${authorArgs} --pretty=format:"%H|%an|%ad|%s" --date=iso`;
+	const logCmd = `git log --all ${authorArgs} --pretty=format:"%H|%an|%ad|%s" --date=iso-strict`;
 	let rawLog = '';
 	try
 	{
+		console.log(logCmd);
 		rawLog = execSync(logCmd, { cwd: repoPath, encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 });
 	} catch(e)
 	{
@@ -258,11 +279,9 @@ function processLocalGitHistory(repoPath: string, existingData: ProjectData | nu
 	if(!rawLog.trim()) return dailyHeatMap;
 
 	const lines = rawLog.trim().split('\n');
-	const todayKey = new Date().toISOString().split('T')[0];
 
 	let commitsProcessed = 0;
-	let daysSkipped = 0;
-	let daysEvaluated = 0;
+	let cachedCommitsReused = 0;
 
 	for(const line of lines)
 	{
@@ -274,53 +293,68 @@ function processLocalGitHistory(repoPath: string, existingData: ProjectData | nu
 		const commitDate = new Date(dateStr);
 		if(isNaN(commitDate.getTime())) continue;
 
-		const dayKey = commitDate.toISOString().split('T')[0];
+		const dayKey = `${commitDate.getFullYear()}-${String(commitDate.getMonth() + 1).padStart(2, '0')}-${String(commitDate.getDate()).padStart(2, '0')}`;
 
-		// Idempotency check: Skip re-evaluation if day is already cached and not today
-		if(dailyHeatMap[dayKey] && dayKey !== todayKey)
+		let commitObj: CommitActivity;
+
+		// Check if commit exists in cache to skip git show --numstat
+		if(cachedCommitMap.has(hash))
 		{
-			daysSkipped++;
-			continue;
+			const cached = cachedCommitMap.get(hash)!;
+			commitObj = {
+				hash,
+				author,
+				date: commitDate.toISOString(),
+				message,
+				linesAdded: cached.linesAdded || 0,
+				linesDeleted: cached.linesDeleted || 0,
+				filesChanged: cached.filesChanged || []
+			};
+			cachedCommitsReused++;
 		}
-
-		daysEvaluated++;
-		const statCmd = `git show --numstat --format="" ${hash}`;
-		let numstatRaw = '';
-		try
+		else
 		{
-			numstatRaw = execSync(statCmd, { cwd: repoPath, encoding: 'utf-8' });
-		} catch(e)
-		{
-			continue;
-		}
-
-		let commitAdded = 0;
-		let commitDeleted = 0;
-		const filesChanged: string[] = [];
-
-		const statLines = numstatRaw.trim().split('\n');
-		for(const statLine of statLines)
-		{
-			const [add, del, file] = statLine.split('\t');
-			if(file)
+			// Execute numstat only for uncached/new commits
+			const statCmd = `git show --numstat --format="" ${hash}`;
+			let numstatRaw = '';
+			try
 			{
-				filesChanged.push(file);
-				const a = parseInt(add, 10);
-				const d = parseInt(del, 10);
-				if(!isNaN(a)) commitAdded += a;
-				if(!isNaN(d)) commitDeleted += d;
+				numstatRaw = execSync(statCmd, { cwd: repoPath, encoding: 'utf-8' });
+			} catch(e)
+			{
+				console.warn(e);
+				continue;
 			}
-		}
 
-		const commitObj: CommitActivity = {
-			hash,
-			author,
-			date: commitDate.toISOString(),
-			message,
-			linesAdded: commitAdded,
-			linesDeleted: commitDeleted,
-			filesChanged
-		};
+			let commitAdded = 0;
+			let commitDeleted = 0;
+			const filesChanged: string[] = [];
+
+			const statLines = numstatRaw.trim().split('\n');
+			for(const statLine of statLines)
+			{
+				const [add, del, file] = statLine.split('\t');
+				if(file)
+				{
+					filesChanged.push(file);
+					const a = parseInt(add, 10);
+					const d = parseInt(del, 10);
+					if(!isNaN(a)) commitAdded += a;
+					if(!isNaN(d)) commitDeleted += d;
+				}
+			}
+
+			commitObj = {
+				hash,
+				author,
+				date: commitDate.toISOString(),
+				message,
+				linesAdded: commitAdded,
+				linesDeleted: commitDeleted,
+				filesChanged
+			};
+			commitsProcessed++;
+		}
 
 		if(!dailyHeatMap[dayKey])
 		{
@@ -336,20 +370,40 @@ function processLocalGitHistory(repoPath: string, existingData: ProjectData | nu
 
 		const dayEntry = dailyHeatMap[dayKey]!;
 
+		// Prevent duplicates in day array
 		if(!dayEntry.commits.some(c => c.hash === hash))
 		{
 			dayEntry.commits.push(commitObj);
-			dayEntry.commitCount += 1;
-			dayEntry.linesChanged += (commitAdded + commitDeleted);
-			dayEntry.filesEdited = Array.from(new Set([...dayEntry.filesEdited, ...filesChanged]));
-			dayEntry.heatScore = Math.min(100, (dayEntry.commitCount * 10) + Math.floor(dayEntry.linesChanged / 15));
-			commitsProcessed++;
 		}
 	}
 
-	console.log(`   └─ Commit Stats: ${lines.length} total commits analyzed | ${commitsProcessed} new commits indexed | ${daysSkipped} cached days skipped`);
+	// Recalculate daily aggregate scores cleanly for every day key
+	for(const dayEntry of Object.values(dailyHeatMap))
+	{
+		if(!dayEntry) continue;
+
+		let totalLines = 0;
+		const allFiles: string[] = [];
+
+		for(const c of dayEntry.commits)
+		{
+			totalLines += (c.linesAdded + c.linesDeleted);
+			if(Array.isArray(c.filesChanged))
+			{
+				allFiles.push(...c.filesChanged);
+			}
+		}
+
+		dayEntry.commitCount = dayEntry.commits.length;
+		dayEntry.linesChanged = totalLines;
+		dayEntry.filesEdited = Array.from(new Set(allFiles));
+		dayEntry.heatScore = Math.min(100, (dayEntry.commitCount * 10) + Math.floor(totalLines / 15));
+	}
+
+	console.log(`   └─ Commit Stats: ${lines.length} total commits analyzed | ${commitsProcessed} new numstats fetched | ${cachedCommitsReused} commits reused from cache`);
 	return dailyHeatMap;
 }
+
 
 /**
  * Fallback to GitHub REST API if repo is missing locally using native fetch
@@ -629,6 +683,89 @@ export async function generate()
 	}
 
 	console.log(`📊 SVG Heatmaps generated: ${svgFilesWritten} created/updated | ${svgFilesSkipped} cached historical skipped`);
+
+	// 6. Generate standalone SVG heatmaps combining ALL projects per active year
+	console.log('\n🎨 Generating ALL-projects standalone SVG heatmaps per year...');
+
+	let globalSvgWritten = 0;
+	let globalSvgSkipped = 0;
+
+	// Collect all active years across all registered projects
+	const allActiveYears = new Set<number>();
+	for(const projData of Object.values(registry.projects))
+	{
+		for(const [dayKey, dayEntry] of Object.entries(projData.dailyHeat))
+		{
+			if(dayEntry && dayEntry.commitCount > 0)
+			{
+				const year = parseInt(dayKey.substring(0, 4), 10);
+				if(!isNaN(year))
+				{
+					allActiveYears.add(year);
+				}
+			}
+		}
+	}
+
+	const currentYearNum = new Date().getFullYear();
+
+	for(const year of allActiveYears)
+	{
+		const globalSvgFileName = `heatmap-${year}.svg`;
+		const globalSvgFilePath = path.join(CACHE_DIR, 'heat-maps', globalSvgFileName);
+
+		// Skip historical years if already generated
+		if(fs.existsSync(globalSvgFilePath) && year !== currentYearNum)
+		{
+			globalSvgSkipped++;
+			continue;
+		}
+
+		// Aggregate dailyHeat map across ALL projects for this year
+		const combinedDailyHeat: Record<string, DailyHeatData> = {};
+
+		for(const projData of Object.values(registry.projects))
+		{
+			for(const [dayKey, dayEntry] of Object.entries(projData.dailyHeat))
+			{
+				if(!dayEntry || !dayKey.startsWith(`${year}-`)) continue;
+
+				if(!combinedDailyHeat[dayKey])
+				{
+					combinedDailyHeat[dayKey] = {
+						date: dayKey,
+						heatScore: 0,
+						linesChanged: 0,
+						commitCount: 0,
+						filesEdited: [],
+						commits: []
+					};
+				}
+
+				const aggregated = combinedDailyHeat[dayKey];
+				aggregated.commitCount += dayEntry.commitCount || 0;
+				aggregated.linesChanged += dayEntry.linesChanged || 0;
+
+				if(Array.isArray(dayEntry.filesEdited))
+				{
+					aggregated.filesEdited = Array.from(new Set([...aggregated.filesEdited, ...dayEntry.filesEdited]));
+				}
+
+				if(Array.isArray(dayEntry.commits))
+				{
+					aggregated.commits.push(...dayEntry.commits);
+				}
+
+				aggregated.heatScore = Math.min(100, (aggregated.commitCount * 10) + Math.floor(aggregated.linesChanged / 15));
+			}
+		}
+
+		const globalSvgString = renderD3HeatmapForYearSVG(combinedDailyHeat, year);
+		fs.writeFileSync(globalSvgFilePath, globalSvgString, 'utf-8');
+		globalSvgWritten++;
+	}
+
+	console.log(`📊 Global ALL-Projects Heatmaps: ${globalSvgWritten} created/updated | ${globalSvgSkipped} cached historical skipped`);
 
 	// 6. Write lightweight master `projects-data.json` index manifest
 	console.log('\n📋 Building lightweight master manifest: projects-data.json...');

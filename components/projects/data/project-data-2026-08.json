@@ -1,20 +1,20 @@
 {
   "yearMonth": "2026-08",
-  "generatedAt": "2026-09-24T03:04:17.869Z",
+  "generatedAt": "2026-09-24T17:52:55.181Z",
   "username": "briancullinan2",
   "projects": {
     "activity": {
       "projectName": "activity",
       "localPath": "C:\\Users\\megam\\activity",
       "remoteUrl": "git@github.com:briancullinan2/activity.git",
-      "lastUpdated": "2026-09-24T03:03:53.199Z",
+      "lastUpdated": "2026-09-24T17:52:22.199Z",
       "screenshots": [],
       "dailyHeat": {
-        "2026-08-28": {
-          "date": "2026-08-28",
-          "heatScore": 34,
-          "linesChanged": 360,
-          "commitCount": 1,
+        "2026-08-27": {
+          "date": "2026-08-27",
+          "heatScore": 100,
+          "linesChanged": 4826,
+          "commitCount": 20,
           "filesEdited": [
             "docs/index.html",
             "docs/timeline-data.js"
@@ -31,19 +31,31 @@
                 "docs/index.html",
                 "docs/timeline-data.js"
               ]
-            }
-          ]
-        },
-        "2026-08-27": {
-          "date": "2026-08-27",
-          "heatScore": 24,
-          "linesChanged": 217,
-          "commitCount": 1,
-          "filesEdited": [
-            "docs/index.html",
-            "docs/timeline-data.js"
-          ],
-          "commits": [
+            },
+            {
+              "hash": "1e8c15c9822916d909654cea3a7d0df9c9d7c761",
+              "author": "Brian Cullinan",
+              "date": "2026-08-28T01:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 164,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "ec3d32e838c977a0989e3df2d36e63e6d1879105",
+              "author": "Brian Cullinan",
+              "date": "2026-08-28T00:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 84,
+              "linesDeleted": 318,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
             {
               "hash": "8b64133c0b243a5205444ae926a3c682a5661382",
               "author": "Brian Cullinan",
@@ -55,19 +67,295 @@
                 "docs/index.html",
                 "docs/timeline-data.js"
               ]
+            },
+            {
+              "hash": "2118adbe15517398794b2ab7a72e8297a9f36da0",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T22:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 77,
+              "linesDeleted": 185,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "208cc8c8755986b1c97166ed96e9e9e9170a2286",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T21:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 57,
+              "linesDeleted": 129,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "7f26e6cf354ec3d6b10d6e74f53365743c01890f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T20:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 82,
+              "linesDeleted": 176,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "087f9e93ca5d27277ecb4730c0b2b530ae617a5c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T19:44:42.000Z",
+              "message": "auto-update",
+              "linesAdded": 57,
+              "linesDeleted": 213,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "0e74c277c2faa2c928489962bf276bd958750bbe",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T18:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 58,
+              "linesDeleted": 148,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "82cbbcb42c55e9258e19121452837b0c745a2a89",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T17:44:49.000Z",
+              "message": "auto-update",
+              "linesAdded": 69,
+              "linesDeleted": 251,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "9eedce570f8847ce632179dabebd0e0a27825370",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T16:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 77,
+              "linesDeleted": 195,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "93f8cef4d4abd785b59ce18293d3a85c7aa85408",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T15:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 57,
+              "linesDeleted": 161,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "44b1f9c15003fa8b52ccbafcc833947eb6c2d8ac",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T14:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 60,
+              "linesDeleted": 188,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "a830b68da342130e51950346a5be5e4203419818",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T13:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 57,
+              "linesDeleted": 149,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "f29a2c57ccfb9bd08a34ddaa30daaf3059840948",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T12:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 57,
+              "linesDeleted": 129,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "3e884393881a1dbe0185e3e9021bb710ac5cbc9e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T11:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 57,
+              "linesDeleted": 133,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "e1ceb54538aeb0dc47caa63d6387734adf5b5174",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T10:44:50.000Z",
+              "message": "auto-update",
+              "linesAdded": 57,
+              "linesDeleted": 169,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "b1a8b3c92a7d8ca6067482841cbda6b5d9d6ec2a",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T09:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 57,
+              "linesDeleted": 137,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "19615e7c9da729f81b726e5dc07e231009ab07d4",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T08:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 57,
+              "linesDeleted": 137,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "5832949d3e378f6f7067fce5c2007f5d68ce6c8b",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T07:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 57,
+              "linesDeleted": 129,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
             }
           ]
         },
         "2026-08-26": {
           "date": "2026-08-26",
-          "heatScore": 24,
-          "linesChanged": 220,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 6386,
+          "commitCount": 24,
           "filesEdited": [
             "docs/index.html",
             "docs/timeline-data.js"
           ],
           "commits": [
+            {
+              "hash": "459fe9a02de99a59b2afb78d80ad9eac06ce55fb",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T06:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 57,
+              "linesDeleted": 245,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "643db594d101c42349e017b2a09fd32518c581ff",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T05:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 68,
+              "linesDeleted": 285,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "1c09a55abbd609e6e2db07513c252ae03b29c5eb",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T04:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 69,
+              "linesDeleted": 314,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "c3013771dbb1bd89118d5dba30a2aac175a3083d",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T03:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 85,
+              "linesDeleted": 394,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "73d45562fd7c7439b22db1fcdd690da45fba9ef6",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T02:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 79,
+              "linesDeleted": 171,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "50460c0156f31322a746a826c5d7d100676c4d60",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T01:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 60,
+              "linesDeleted": 304,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "062d4c1f37bad6b3121b4de6ae9b7424e90407fe",
+              "author": "Brian Cullinan",
+              "date": "2026-08-27T00:44:19.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 163,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
             {
               "hash": "b9fc7a3440713cac8ab56d11cafdc01159ccac67",
               "author": "Brian Cullinan",
@@ -79,19 +367,295 @@
                 "docs/index.html",
                 "docs/timeline-data.js"
               ]
+            },
+            {
+              "hash": "08be5fa58c18073df9cd5c0f49bf796ddfb7e92b",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T22:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 154,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "a8cdadb300bc40fdc5eb1034a9da8b0540a6ab02",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T21:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 90,
+              "linesDeleted": 148,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "45bc3bb1668787045f0098e62e9cce38f57fc193",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T20:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 65,
+              "linesDeleted": 156,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "926c38ed404c35d7bee9bbd564e6a1817fe519b7",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T19:44:41.000Z",
+              "message": "auto-update",
+              "linesAdded": 82,
+              "linesDeleted": 269,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "58857d32e23bbcddadcf872cc1881247725584bc",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T18:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 215,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "70f0ba76796eb88faeb3086859bee8ebbbd09d44",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T17:44:48.000Z",
+              "message": "auto-update",
+              "linesAdded": 69,
+              "linesDeleted": 219,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "b0c1816a3df83ac197cb81313d9bedf6cec338f3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T16:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 65,
+              "linesDeleted": 178,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "b215ee0de427de1d84cba82d8035e78428ea9d16",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T15:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 81,
+              "linesDeleted": 227,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "4e38decde9046559359a3eb5f066c90c401924f1",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T14:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 76,
+              "linesDeleted": 191,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "d7b11cfab62dd776fdf535216185b7e717fbb410",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T13:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 149,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "ccc10efc6a40c9c32840c2bfe2397736174f1402",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T12:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 137,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "e5f9283b5959355438e3fa751b70606911ff3002",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T11:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 137,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "ea810a67ea94ef619686b14be06cdf9914b21b34",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T10:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 133,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "fdc9dddd84e6ea06cbc804a6df190ef9c1f767bc",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T09:44:49.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 137,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "f242c19e53700bc8d17242797e206e87a446fc90",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T08:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 137,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "bbc7d0f426a16ea2cf36b7289a883408946cb955",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T07:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 145,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
             }
           ]
         },
         "2026-08-25": {
           "date": "2026-08-25",
-          "heatScore": 26,
-          "linesChanged": 251,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 6222,
+          "commitCount": 24,
           "filesEdited": [
             "docs/index.html",
             "docs/timeline-data.js"
           ],
           "commits": [
+            {
+              "hash": "7a5aa612e9611b1a8d4a7d336f058113c22dfdf3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T06:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 225,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "0f0d2c68b42858f2d95b40a0ddba5fa2d9fccb23",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T05:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 238,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "902f1b0fb40c4d60806b65d915cccbb39795fe0c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T04:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 79,
+              "linesDeleted": 143,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "e15fa6a7267cc8b4f24d6d3d2ed5495bcf5225ac",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T03:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 112,
+              "linesDeleted": 269,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "03ef368e7d9baa4db17e81973e219ddd9382b444",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T02:44:20.000Z",
+              "message": "auto-update",
+              "linesAdded": 104,
+              "linesDeleted": 286,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "e65988fcde1c055c2169867d6271946b54002f4c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T01:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 149,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "0a1aebc6e4558ab5a9ed7e90213e0e552ad6d4ed",
+              "author": "Brian Cullinan",
+              "date": "2026-08-26T00:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 186,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
             {
               "hash": "60384d911e28294f3b29f23ab32dff7ab4a9d10d",
               "author": "Brian Cullinan",
@@ -103,19 +667,295 @@
                 "docs/index.html",
                 "docs/timeline-data.js"
               ]
+            },
+            {
+              "hash": "80fb5235d0c11c46733ad2e9317e4d90b3a8601f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T22:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 97,
+              "linesDeleted": 137,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "b7afe5c25a0adcd837e36e0481df3b1e5d1560f0",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T21:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 225,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "9d648a1eccfc426c2a3b39d78e2ffdae949b3342",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T20:44:49.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 229,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "7835f136db9c30b09ac0512f0ed9a38750d5e672",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T19:44:38.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 153,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "25c13a804be90a0036b47ea81f2df370b563ab65",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T18:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 71,
+              "linesDeleted": 237,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "79f637f65bde3d80152ab4b095e66e4b73590bfe",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T17:44:49.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 184,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "02fbd8e75e1ec8fd3b769399b3d8045ebe3902a0",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T16:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 96,
+              "linesDeleted": 165,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "383c86d18f946f82a31a43ab235bb47e95c27186",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T15:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 256,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "562e7a69f2839bb944e217a64f43a65b31401c2c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T14:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 69,
+              "linesDeleted": 265,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "0b8166c206bc93189869f66c661b4db298bfcd28",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T13:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 153,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "b9f600edda67042b391a42708218fa2d0a171f27",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T12:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 141,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "49fb3c8105579440b29dcb4322981ea44665579e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T11:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 133,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "b36227d0c2a55fb78ce71d3dee753d1dffa5745e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T10:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 137,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "f67067012a36dda3587af4a443822a3cb240307b",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T09:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 137,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "2d291d2a2a662036e7da3c441a34b997d64cf719",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T08:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 153,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "46687278b6b11b07abbab6c598aeffdaa3c93937",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T07:44:48.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 158,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
             }
           ]
         },
         "2026-08-24": {
           "date": "2026-08-24",
-          "heatScore": 26,
-          "linesChanged": 245,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 6422,
+          "commitCount": 24,
           "filesEdited": [
             "docs/index.html",
             "docs/timeline-data.js"
           ],
           "commits": [
+            {
+              "hash": "0da17b5742922fef0c454cb9f64390057d5732b3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T06:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 225,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "9cf8e598b99e1a960d92f373a542e51902b22d2f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T05:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 153,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "c568080c348bfddb4dc48b5faadd34f56fcf2b46",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T04:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 143,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "4f6144e53b773543f3487badbff21fae7998858e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T03:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 168,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "54752892abb7b022fde8508ac5e2fb329bd49e31",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T02:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 61,
+              "linesDeleted": 285,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "12392d0698946806238a9e842cc0672a8bc6121f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T01:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 65,
+              "linesDeleted": 277,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "22dac1fe458a53c5ea760aee1d1e9c215c542586",
+              "author": "Brian Cullinan",
+              "date": "2026-08-25T00:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 97,
+              "linesDeleted": 261,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
             {
               "hash": "e1d4cf034133da3ef5593b6c56df5194951af63b",
               "author": "Brian Cullinan",
@@ -127,26 +967,318 @@
                 "docs/index.html",
                 "docs/timeline-data.js"
               ]
+            },
+            {
+              "hash": "be295ee2547941920786eb4c6716e679203f90d5",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T22:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 134,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "91978773e6e5d3319fdaddeab56932d15c256a22",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T21:44:19.000Z",
+              "message": "auto-update",
+              "linesAdded": 69,
+              "linesDeleted": 138,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "50f27d0870305c558f85e3aaa32ae247cb818324",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T20:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 62,
+              "linesDeleted": 142,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "b1eb18ff0c82fab947078cc3fe40a8609476c74d",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T19:44:50.000Z",
+              "message": "auto-update",
+              "linesAdded": 64,
+              "linesDeleted": 126,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "5d0c752240c3122261ae4691c0f01e8b7fbd0c41",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T18:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 63,
+              "linesDeleted": 410,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "831129201989e7fc28a7c7a22cc607f02733d442",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T17:44:48.000Z",
+              "message": "auto-update",
+              "linesAdded": 63,
+              "linesDeleted": 375,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "5fe05a4f8536f267b33f81e09e79c7b22dd65291",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T16:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 72,
+              "linesDeleted": 375,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "99fd8f29b5668601818e1f0e389d9c842ba83d00",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T15:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 65,
+              "linesDeleted": 217,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "3fd65179fa22b2da774b17ed36300b6c804e04c6",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T14:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 65,
+              "linesDeleted": 249,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "925ee350ee175b063c3964723d536d9417cf43ad",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T13:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 64,
+              "linesDeleted": 152,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "435e8b1b2f3777f108bc63aa85e6eae7ca808cdf",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T12:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 64,
+              "linesDeleted": 144,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "310c3586839ba4bf9d9ce8b6e69eced055c8b107",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T11:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 64,
+              "linesDeleted": 140,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "3bdaaba507f82d4ef058699ad66c24f0e2d59183",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T10:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 64,
+              "linesDeleted": 136,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "f84a026be1309e22b1849d90d6d90f97f19f02dd",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T09:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 64,
+              "linesDeleted": 140,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "33e72a888670d887c1a35437c015f9475dd55909",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T08:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 64,
+              "linesDeleted": 136,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "44407a8279876ccb7e78a3bd4491be197ff159a6",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T07:44:49.000Z",
+              "message": "auto-update",
+              "linesAdded": 64,
+              "linesDeleted": 148,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
             }
           ]
         },
         "2026-08-23": {
           "date": "2026-08-23",
           "heatScore": 100,
-          "linesChanged": 3193,
-          "commitCount": 1,
+          "linesChanged": 109067,
+          "commitCount": 16,
           "filesEdited": [
             "docs/index.html",
-            "docs/leaflet.js",
-            "docs/live.js",
+            "docs/timeline-data.js",
             "docs/resume.css",
+            ".vscode/settings.json",
+            "docs/live.js",
             "index.html",
+            "timeline.js",
             "index.js",
             "package.json",
-            "timeline.js",
+            "docs/leaflet.css",
+            "docs/leaflet.js",
             "windows.js"
           ],
           "commits": [
+            {
+              "hash": "966296f8520945890146d83f0590ffbfe70fbf82",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T06:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 64,
+              "linesDeleted": 144,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "f81342f037b7597b863b52dfe7b2e2d75c7f85fd",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T05:44:19.000Z",
+              "message": "auto-update",
+              "linesAdded": 170,
+              "linesDeleted": 226,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/resume.css",
+                "docs/timeline-data.js"
+              ]
+            },
+            {
+              "hash": "f49a9fbe472bd5278ff749e3af19bd73497cf345",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T04:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 103391,
+              "linesDeleted": 129,
+              "filesChanged": [
+                ".vscode/settings.json",
+                "docs/index.html",
+                "docs/live.js",
+                "docs/resume.css",
+                "docs/timeline-data.js",
+                "index.html",
+                "timeline.js"
+              ]
+            },
+            {
+              "hash": "a341b604aaba8938d11f5940ae4d13cdfe5c3380",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T03:46:29.000Z",
+              "message": "auto-update",
+              "linesAdded": 11,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "7d884fb847ef8820441123b8e98c6fb148f4e4e7",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T02:45:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 353,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/live.js",
+                "index.js",
+                "timeline.js"
+              ]
+            },
+            {
+              "hash": "c04850bde2872471a101c6d069f14a1fca82b14f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T01:44:19.000Z",
+              "message": "auto-update",
+              "linesAdded": 151,
+              "linesDeleted": 103,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/live.js",
+                "package.json",
+                "timeline.js"
+              ]
+            },
+            {
+              "hash": "7a6f10b502a9a5271101ff831c2b45c1edf2577b",
+              "author": "Brian Cullinan",
+              "date": "2026-08-24T00:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 821,
+              "linesDeleted": 120,
+              "filesChanged": [
+                "docs/index.html",
+                "docs/leaflet.css",
+                "docs/live.js",
+                "docs/resume.css",
+                "index.html",
+                "timeline.js"
+              ]
+            },
             {
               "hash": "b06098100fcd4990a5a25154eccb40dd89d98feb",
               "author": "Brian Cullinan",
@@ -165,18 +1297,183 @@
                 "timeline.js",
                 "windows.js"
               ]
+            },
+            {
+              "hash": "b42136fa5de75aa05e4b8e17a54e0dca9d068c04",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T22:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 44,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "7b15ec4c6b62a7d11c315fc187afc41931e8ff96",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T21:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "ef614314f5642a8406f93399af15c979c1ae95ce",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T19:44:34.000Z",
+              "message": "auto-update",
+              "linesAdded": 9,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "3b378462072647c7e406f5aeb3941f442f676c51",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T17:44:45.000Z",
+              "message": "auto-update",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "2d9a5afa3d7172c088caf76ec56eba29f4e976d1",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T16:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 15,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "39277a4d9df198d9f9f29b0836437d103c5175c0",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T15:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "83c8b431802a0cfcb7c1006cfffdb7461e2b045f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T14:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "66e02cc0f57cd719712a7ca7d5a7fc35bf5158a3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T07:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 30,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-22": {
           "date": "2026-08-22",
-          "heatScore": 10,
-          "linesChanged": 3,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 265,
+          "commitCount": 11,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "f0c6faf0f5cdc9921308b237cfee1e32d9156125",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T06:44:45.000Z",
+              "message": "auto-update",
+              "linesAdded": 40,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "9b07f4b7d8f59237e7ee261b8694e5277320ec99",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T05:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "1ab55379e6fb23a7b20ba2d9460a1d6d9c0dbc3d",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T04:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "f594b2b50706289ced6e6f6d3ecec3a979468ac8",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T03:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "0f6c7816b9b741393e60a3767bf4765554b7e8a6",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T02:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "339dc9db0a50a5af3d97a83573f50138cfb2c01c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T01:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "fa8ac13f712b94e5aac1f9b502094e9463628644",
+              "author": "Brian Cullinan",
+              "date": "2026-08-23T00:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "d25a1db5a897b4c8f5b6e8b0f973f0497157b6ce",
               "author": "Brian Cullinan",
@@ -187,14 +1484,47 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "b2bd094bc003d54d556586ee3ec738277f52eda6",
+              "author": "Brian Cullinan",
+              "date": "2026-08-22T21:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "9853c862db505b398b2cff6c8b338c20635eb71e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-22T18:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "e60fc2267d524f78922dbfd7d1dbc99775168b01",
+              "author": "Brian Cullinan",
+              "date": "2026-08-22T17:44:48.000Z",
+              "message": "auto-update",
+              "linesAdded": 109,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
-        "2026-08-21": {
-          "date": "2026-08-21",
-          "heatScore": 10,
-          "linesChanged": 8,
-          "commitCount": 1,
+        "2026-08-20": {
+          "date": "2026-08-20",
+          "heatScore": 32,
+          "linesChanged": 33,
+          "commitCount": 3,
           "filesEdited": [
             "docs/index.html"
           ],
@@ -209,18 +1539,18 @@
               "filesChanged": [
                 "docs/index.html"
               ]
-            }
-          ]
-        },
-        "2026-08-20": {
-          "date": "2026-08-20",
-          "heatScore": 10,
-          "linesChanged": 6,
-          "commitCount": 1,
-          "filesEdited": [
-            "docs/index.html"
-          ],
-          "commits": [
+            },
+            {
+              "hash": "bf805beeb13bae90fcbf93dd89479874543d57ee",
+              "author": "Brian Cullinan",
+              "date": "2026-08-21T01:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "539215fd5fa718a065e789d1d8a52da0d87e6f61",
               "author": "Brian Cullinan",
@@ -236,13 +1566,57 @@
         },
         "2026-08-19": {
           "date": "2026-08-19",
-          "heatScore": 11,
-          "linesChanged": 28,
-          "commitCount": 1,
+          "heatScore": 98,
+          "linesChanged": 124,
+          "commitCount": 9,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "34d7b25305a42cf5649eac5b8e14f2a80bfd3e47",
+              "author": "Brian Cullinan",
+              "date": "2026-08-20T05:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "3a3b5dee3c5a5de4476a469a90760772560345ff",
+              "author": "Brian Cullinan",
+              "date": "2026-08-20T04:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "f7d29f2d5bda95614ccc41a3632d459678368f9d",
+              "author": "Brian Cullinan",
+              "date": "2026-08-20T03:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "68dec3f344e056031ecd29c8bdf384a0d515db49",
+              "author": "Brian Cullinan",
+              "date": "2026-08-20T02:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 21,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "945e25990a2e1467dd4855f47c349f2fac84ef4a",
               "author": "Brian Cullinan",
@@ -253,18 +1627,95 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "cac008cea5c682a166c8ada4e6339bac95c9b521",
+              "author": "Brian Cullinan",
+              "date": "2026-08-19T20:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "4907fec62dd7bfa5679ede259e37628017b02007",
+              "author": "Brian Cullinan",
+              "date": "2026-08-19T19:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "8876c2f3fee36aabf52550f8c004c7a26a207992",
+              "author": "Brian Cullinan",
+              "date": "2026-08-19T15:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "202dc8a10807ea1eeb875145a1b614a3f64ea177",
+              "author": "Brian Cullinan",
+              "date": "2026-08-19T14:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-18": {
           "date": "2026-08-18",
-          "heatScore": 10,
-          "linesChanged": 10,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 111,
+          "commitCount": 10,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "a91a0eda1315083bbcdedf34ba28232efb39ecba",
+              "author": "Brian Cullinan",
+              "date": "2026-08-19T02:44:20.000Z",
+              "message": "auto-update",
+              "linesAdded": 11,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "6344886c3814b091a5fc38da68c14eec8a968925",
+              "author": "Brian Cullinan",
+              "date": "2026-08-19T01:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 20,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "4729a40b028dcb6d398eb66af2999fedf6d5a18e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-19T00:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "406610ad0397d24f0875437ae01b25fa4f4a70b7",
               "author": "Brian Cullinan",
@@ -275,18 +1726,150 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "24baef731e02bac3cb5b3d4ed306901b3b3660b1",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T21:44:46.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "8a0ae0495acdae324cc873b6ba315ccc70ca8355",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T20:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "1ae97917ce1e097a625ca733abd243932d2b8427",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T19:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a2ad35f96953ddbd7d27d5303e3ce732c5a2ef43",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T15:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "ed7e67fa6074f014077a4593bb0fc9e7f7050241",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T14:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "68186cd3419682d4acd4375d974198726fedec0a",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T07:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-17": {
           "date": "2026-08-17",
-          "heatScore": 11,
-          "linesChanged": 26,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 179,
+          "commitCount": 11,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "d3fa2e4ef6c1592ee58d0f61644651c99beab539",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T06:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "869bc1c14f287b2edd85921876c00031877432cb",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T05:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "4e209b03d457d5d976b3b4112542cdd59056caea",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T04:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 17,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "5e8883925d8edf4668a10e06231f39bd7cfe310b",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T03:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 11,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "c595df64b1d26a1e203ebe3026873714b38d5c2a",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T02:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 21,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "fd1016de8ce948908ac0f978603df4ede9c5daa4",
+              "author": "Brian Cullinan",
+              "date": "2026-08-18T01:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "4a99b2dbe662edb80061b771bd9d06e321a3f25f",
               "author": "Brian Cullinan",
@@ -297,18 +1880,106 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "b02597869d1664bcf8c0395f8a94f995591abc15",
+              "author": "Brian Cullinan",
+              "date": "2026-08-17T20:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 9,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "f0d7a90251ce275cf8d2b6400e25400524561445",
+              "author": "Brian Cullinan",
+              "date": "2026-08-17T19:44:45.000Z",
+              "message": "auto-update",
+              "linesAdded": 10,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "ddf1db40699967729be2114d0f7e0dbcc44d5b8a",
+              "author": "Brian Cullinan",
+              "date": "2026-08-17T18:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 17,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "984b23032cbdde4298d75041c6da23a51c75a9ca",
+              "author": "Brian Cullinan",
+              "date": "2026-08-17T07:44:45.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-16": {
           "date": "2026-08-16",
-          "heatScore": 10,
-          "linesChanged": 11,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 199,
+          "commitCount": 11,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "d969955601ee7c24d415db84237341c25aa613e3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-17T05:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "b17e096f54adca4cbd4ab86ffc1f874f8dfc91cf",
+              "author": "Brian Cullinan",
+              "date": "2026-08-17T03:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "7cd116c595f73486f9320e0c303dfd35c3125edd",
+              "author": "Brian Cullinan",
+              "date": "2026-08-17T01:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 9,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a790529c83f1764732bb14622a1ce515cd4a2a2c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-17T00:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "f59c4ad3dae9fa79bb4b9ca33ee76c72bf5be5e1",
               "author": "Brian Cullinan",
@@ -319,18 +1990,139 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "4c2a5f93cfcbad7eb16cdeb932239d6154ace06f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-16T22:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "913b078739d496defa1f44e0bcd054db27fd175f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-16T20:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 10,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "cebd9b048ebd1a580e4b6a3b55c56718db44eb9c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-16T19:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a3fefa319dce421b7985b79693c65ab82795f397",
+              "author": "Brian Cullinan",
+              "date": "2026-08-16T16:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "8bf40b1ba30d2d4b61cb5e70467b562b3432afe0",
+              "author": "Brian Cullinan",
+              "date": "2026-08-16T15:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 12,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "d2b5e75fd70c5ab0e8d51c6705f9970f02e4593e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-16T07:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 50,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-15": {
           "date": "2026-08-15",
-          "heatScore": 13,
-          "linesChanged": 59,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 180,
+          "commitCount": 11,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "5a9c901afe5f77bcb5da664e8efe6ddb3e48fa59",
+              "author": "Brian Cullinan",
+              "date": "2026-08-16T06:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 16,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "522ce90fa46e6d0383f020d7465187ce084c4672",
+              "author": "Brian Cullinan",
+              "date": "2026-08-16T05:44:49.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "9818ca24a8c9c87ae66a035b076e782a2ed6c5d3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-16T04:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "0266b173fca30bb51393b8f645549b617e12f8b6",
+              "author": "Brian Cullinan",
+              "date": "2026-08-16T02:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "305889686a67278fc8065c420ec5cc1fb92d2216",
+              "author": "Brian Cullinan",
+              "date": "2026-08-16T01:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 11,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "20beb26f6dd254db782afdb7dbdabd5b91312248",
               "author": "Brian Cullinan",
@@ -341,18 +2133,117 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "084f3ec52f3441e8cbc2ad1ffafb446c075e22cd",
+              "author": "Brian Cullinan",
+              "date": "2026-08-15T20:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 11,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "fa2713fdcd9c2c1d0d78e11b7bbb7e6116589566",
+              "author": "Brian Cullinan",
+              "date": "2026-08-15T19:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "fa71d67a8222ab71eaca841468ac8a662a16f9ee",
+              "author": "Brian Cullinan",
+              "date": "2026-08-15T18:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "ddc99788fcdcb06bc14725a91f0a56a3b3dd4574",
+              "author": "Brian Cullinan",
+              "date": "2026-08-15T16:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "4941b682f42d9a3618cc0ef131f1ab6aefddcfce",
+              "author": "Brian Cullinan",
+              "date": "2026-08-15T07:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 11,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-14": {
           "date": "2026-08-14",
-          "heatScore": 10,
-          "linesChanged": 8,
-          "commitCount": 1,
+          "heatScore": 96,
+          "linesChanged": 97,
+          "commitCount": 9,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "5ca098d4874497324a71859ed97a01122aa60bbf",
+              "author": "Brian Cullinan",
+              "date": "2026-08-15T05:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 11,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "c4c2f62e1fd6ff7e45fd0064d5e048546e385f5a",
+              "author": "Brian Cullinan",
+              "date": "2026-08-15T03:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 15,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a8b68bb1093cc747d38f0295792a691fa02c8929",
+              "author": "Brian Cullinan",
+              "date": "2026-08-15T02:44:47.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "6b4ff1f75bae894ae39b2b2bfbbaeb55935741ac",
+              "author": "Brian Cullinan",
+              "date": "2026-08-15T01:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "455ccab9fb0aec5ca4a44dc457ff89ec8d2d2109",
               "author": "Brian Cullinan",
@@ -363,18 +2254,128 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "5aa4c925b7da56803172af48a8587e68f1d8f801",
+              "author": "Brian Cullinan",
+              "date": "2026-08-14T18:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "8c6b3eab1ea7ad981993cdd110f3ef0412f4d9b8",
+              "author": "Brian Cullinan",
+              "date": "2026-08-14T16:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 14,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "54c4e4106c104188b248bdabd99524d9b6932c11",
+              "author": "Brian Cullinan",
+              "date": "2026-08-14T14:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "48c5019480f4b3b0de8c5835b64ce398395ca5d3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-14T11:44:46.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-13": {
           "date": "2026-08-13",
-          "heatScore": 10,
-          "linesChanged": 7,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 224,
+          "commitCount": 13,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "65c98bdb4cd3bac3a6407eaf649c0759f90f4fbf",
+              "author": "Brian Cullinan",
+              "date": "2026-08-14T05:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "9abcd2b21d9985d438de31f733177d0a5181396f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-14T04:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 23,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "e89cfbd8182b2325ed114ac84ff3927a6865b8fa",
+              "author": "Brian Cullinan",
+              "date": "2026-08-14T03:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "0fb93a3daae8cf10a95e0c3078ae830ab7502c35",
+              "author": "Brian Cullinan",
+              "date": "2026-08-14T02:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "551afdf2e37fa6af762820fd2ad5f1aa0563f9a3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-14T01:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 11,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "100eab7c3fb97fb4edaf543f9d8596ce1360788e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-14T00:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "6f64eff5ae60fa9dc56ffc2ea224159766500834",
               "author": "Brian Cullinan",
@@ -385,18 +2386,106 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "5912ea2ac98bb606536d463f16a2fdf518b47eaa",
+              "author": "Brian Cullinan",
+              "date": "2026-08-13T21:44:44.000Z",
+              "message": "auto-update",
+              "linesAdded": 59,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "8c2a861c49200048484cab5a0e51b46ecad450be",
+              "author": "Brian Cullinan",
+              "date": "2026-08-13T20:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "2544865667f4e9284be1c68afdb788dc6c57b0eb",
+              "author": "Brian Cullinan",
+              "date": "2026-08-13T18:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 4,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "cb3f6dc0e763c6d5c44aaecf77c886670c0349ee",
+              "author": "Brian Cullinan",
+              "date": "2026-08-13T17:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "ea0890eb0a33067d94c077b8c006eda3d73153ae",
+              "author": "Brian Cullinan",
+              "date": "2026-08-13T16:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "624485e15a1e03084ae68edb6dd017409bb3cb24",
+              "author": "Brian Cullinan",
+              "date": "2026-08-13T15:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-12": {
           "date": "2026-08-12",
-          "heatScore": 10,
-          "linesChanged": 7,
-          "commitCount": 1,
+          "heatScore": 97,
+          "linesChanged": 108,
+          "commitCount": 9,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "cd787c689a40369aa3d844e2ffdf0ca5e45be665",
+              "author": "Brian Cullinan",
+              "date": "2026-08-13T02:44:46.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "28dc50a9230abcf3d5cbdb5542653de67467fe0b",
+              "author": "Brian Cullinan",
+              "date": "2026-08-13T01:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 43,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "180007b143c6132d9656f31e8bea86c193ac788c",
               "author": "Brian Cullinan",
@@ -407,18 +2496,139 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "55c8e059f11caeada4882ff8e4de3a75568355f8",
+              "author": "Brian Cullinan",
+              "date": "2026-08-12T22:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "09dec52ff33c6d238ec4c47e70a1f0eb246880c3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-12T21:44:39.000Z",
+              "message": "auto-update",
+              "linesAdded": 10,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "40c39d1e6bdd56088c75de617881d732301af061",
+              "author": "Brian Cullinan",
+              "date": "2026-08-12T20:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "f488f35a8dab13ed6661edd364dd80948c5cb18b",
+              "author": "Brian Cullinan",
+              "date": "2026-08-12T17:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "92ff811da855e809413195e13fa244e47b5f2c5f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-12T13:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "5673dfd337a3994a4d86a1404426506abb6b60cc",
+              "author": "Brian Cullinan",
+              "date": "2026-08-12T11:44:48.000Z",
+              "message": "auto-update",
+              "linesAdded": 12,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-11": {
           "date": "2026-08-11",
-          "heatScore": 10,
-          "linesChanged": 4,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 157,
+          "commitCount": 12,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "9d80d065f2485821309a793c7e53b6e67ce458d8",
+              "author": "Brian Cullinan",
+              "date": "2026-08-12T05:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 43,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a243ae668000174731208a7ce248cd16ac8c06e7",
+              "author": "Brian Cullinan",
+              "date": "2026-08-12T03:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 4,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "f2764aea206346316535da9cd293d8d17b0368d2",
+              "author": "Brian Cullinan",
+              "date": "2026-08-12T02:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "16ce62d16e7b7ae182598e0634d1328e1ca5bf6c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-12T01:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 9,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "636839e5c602ccad66589ebebac1f5406c7b91be",
+              "author": "Brian Cullinan",
+              "date": "2026-08-12T00:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 13,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "f1beae7b5e08d51bf851f8304da82607566f4f60",
               "author": "Brian Cullinan",
@@ -429,18 +2639,95 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "6819456dc3f4cc06483fc76c7af030940f1a3397",
+              "author": "Brian Cullinan",
+              "date": "2026-08-11T21:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "ff3f67f587e67cf5b834b2126f3f08b9d20d414b",
+              "author": "Brian Cullinan",
+              "date": "2026-08-11T20:44:39.000Z",
+              "message": "auto-update",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "44700c01c4d30bdde8e1f7e3f260d9efe008ac1e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-11T19:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "cde4b5a63e7b7ca4abf94fa54a61ec0db0b9d8e6",
+              "author": "Brian Cullinan",
+              "date": "2026-08-11T18:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 16,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "934e26027bd87ca0acc43495827a8d6a1d2e0673",
+              "author": "Brian Cullinan",
+              "date": "2026-08-11T17:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "082fcf24a043fb62ca26274d349dada9efc0eafe",
+              "author": "Brian Cullinan",
+              "date": "2026-08-11T15:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 17,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-10": {
           "date": "2026-08-10",
-          "heatScore": 10,
-          "linesChanged": 6,
-          "commitCount": 1,
+          "heatScore": 72,
+          "linesChanged": 38,
+          "commitCount": 7,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "b53d6d15d5d9d929ff23a6df1fcacb4fbb0517f8",
+              "author": "Brian Cullinan",
+              "date": "2026-08-11T02:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "b1c6e2846edf1ec4924aacc1c47ee85277df5cb6",
               "author": "Brian Cullinan",
@@ -451,18 +2738,117 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "f4844303f1db2c3ceaefaf8edaac8e888a04261c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-10T22:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "46fe891f37141d5f605072d7429fd8c6ebb20290",
+              "author": "Brian Cullinan",
+              "date": "2026-08-10T21:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 5,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "35ce489549e1b50d5fc8216035636f612f018a04",
+              "author": "Brian Cullinan",
+              "date": "2026-08-10T20:44:37.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "82b9fa40380fa9b82e67ae0698db3c6f79e03468",
+              "author": "Brian Cullinan",
+              "date": "2026-08-10T16:44:48.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a3775efe081c3a1992355c0b50c3e6f8d909c77c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-10T07:44:47.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-09": {
           "date": "2026-08-09",
-          "heatScore": 10,
-          "linesChanged": 5,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 148,
+          "commitCount": 11,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "2dafb682988dc24e61adce288312e86ed71c0430",
+              "author": "Brian Cullinan",
+              "date": "2026-08-10T04:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "c5654842dffaa3c5c7ede949d006a1192b08227b",
+              "author": "Brian Cullinan",
+              "date": "2026-08-10T03:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 11,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "db7a86f0dbdc8bcd6506c9eda4399667c54b67b4",
+              "author": "Brian Cullinan",
+              "date": "2026-08-10T01:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "b427ce04a7f131346169f18bb0cee0ed5f06cd6c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-10T00:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "e29ada35986d8be0faaf9f98f487018a5ea85b72",
               "author": "Brian Cullinan",
@@ -473,18 +2859,106 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "57f4e6d3149e7754152985e2ebd865fabef9a12d",
+              "author": "Brian Cullinan",
+              "date": "2026-08-09T21:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "0605e29069db02f20f16b1a8a2aa1b67919b41c7",
+              "author": "Brian Cullinan",
+              "date": "2026-08-09T19:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "84b2d6eb3eae9c3879bbbd7268b575da92cb09a6",
+              "author": "Brian Cullinan",
+              "date": "2026-08-09T18:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "5f7aadf82d2c68c7ceb3e06d9ccb1434362d2ac7",
+              "author": "Brian Cullinan",
+              "date": "2026-08-09T17:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "bcb905e03e71ffe539090bf90ab0198585256ade",
+              "author": "Brian Cullinan",
+              "date": "2026-08-09T16:44:48.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "022b0f877a1b7138ca6cac647f34371e5440aff3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-09T15:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-08": {
           "date": "2026-08-08",
-          "heatScore": 12,
-          "linesChanged": 30,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 372,
+          "commitCount": 11,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "ea556f68bb47ccfed18162a1f8eed15824237e69",
+              "author": "Brian Cullinan",
+              "date": "2026-08-09T02:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "35008826ff18c8391b5ced9613b3b5b9aeeb221c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-09T01:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "de414926c4ecb15283c475c90b9bd654657d93e1",
               "author": "Brian Cullinan",
@@ -495,18 +2969,150 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "287f1837fdc19d7fd620057c8af046eee9e76e2e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T19:44:34.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a36eba2368f8bc005cc8db9ba63394a4e4790e47",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T18:44:48.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "4424c7ad76ae6e3633447b74480127c2b90cb328",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T17:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 26,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "8a06490d3a6a2ef17da4c34714f28696927a59a3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T16:44:47.000Z",
+              "message": "auto-update",
+              "linesAdded": 12,
+              "linesDeleted": 27,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "e71ac8bc09d87ed43841f3e1f14003378839b2fe",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T15:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 209,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "486c01f98bab9c1f9e8e95ae12b4c374a946ef88",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T14:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "53b4f26b7a85c9050ab0006ae0fbb990b065b91f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T13:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "e2517fcd54707f66e66cbf6a63d08b131d170958",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T07:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-07": {
           "date": "2026-08-07",
-          "heatScore": 10,
-          "linesChanged": 11,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 296,
+          "commitCount": 13,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "9dd9e4f22aaaafae8cce22809caf72093b435bcc",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T04:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 12,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "8260b36c71de8bf800d5aa9fd7e76cad3e54a758",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T03:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 13,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "caf7c8aba1353d9541b7a22831d0b3b8743bf402",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T02:44:19.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "efb9794977c5bfd8f9920d150b3178c8e2a9a230",
+              "author": "Brian Cullinan",
+              "date": "2026-08-08T01:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "1f0b0949867a20881caf9a30557371f6b6ef723e",
               "author": "Brian Cullinan",
@@ -517,18 +3123,161 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "f7a64df89cf2540bd74c3f0a725f740ab3d27caa",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T22:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "1ea7446cc0c38c30829f5da9cc2f92b7828efdd7",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T21:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 3,
+              "linesDeleted": 82,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a219af05447ea65a279848e2b114e5004fd9b0da",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T20:44:38.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "21e9efe10abfab6b9b52d23510014ea596068da0",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T19:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 39,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "d77b7cdba95fd13e989819e5f7d8d2ddecf0b8f3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T18:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 24,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "4423ac7e62f9eeccde0a0210d3446b5df4369cd8",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T17:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 3,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "6f0a01e8d367a8487213e5294e5c96883ff31811",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T16:44:50.000Z",
+              "message": "auto-update",
+              "linesAdded": 10,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "6c34a4a2f0a41a26662df2932bc84c1ed670bc70",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T15:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-06": {
           "date": "2026-08-06",
-          "heatScore": 12,
-          "linesChanged": 42,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 725,
+          "commitCount": 19,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "491091e62e960392817c6019c7e3e69e641b4ead",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T06:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "994e3babc8bdab80f686590951b126899473a616",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T05:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "24a3c57995d0851b0db2a964c698e042a081fec8",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T04:44:48.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "16e7b781cea4f4e9f5f004b2f5cd3a4240c144c3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T03:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "7f14af2ac5732dcb620d87e47cdf7db797a0aa68",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T01:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 6,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "8d15de9186f44dc2a1006e86782f2c13e0aa067c",
               "author": "Brian Cullinan",
@@ -539,18 +3288,238 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "6eeba9476007b10d3052b50281474ece0733eb54",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T19:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 28,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "3806fb7a2ce7512c572d287a13c1d18fab8884d9",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T18:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 14,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a530221770c96bd2b5927f3022a078a44f63eb66",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T17:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 18,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "b428f5e8b510a0d79cef3eff22fa08b7aeeb638f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T16:44:49.000Z",
+              "message": "auto-update",
+              "linesAdded": 30,
+              "linesDeleted": 28,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "87605b111d38e1763eb759c7c8cf78513b0df64d",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T15:44:19.000Z",
+              "message": "auto-update",
+              "linesAdded": 212,
+              "linesDeleted": 187,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "6448394047008e925ab1a4a43e91e162d705a461",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T14:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 9,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "75dcdcaabecd4957b77d7caec83cfd10afec11e4",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T13:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 6,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "05e3baf708f1b2f5aca55a0eac4b7cd5a938bd1a",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T12:44:19.000Z",
+              "message": "auto-update",
+              "linesAdded": 8,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "f85b5129bb4c868601b4a6a8be87e9f7e598f5fe",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T11:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 9,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "98a1a45e7c5d48a22587dbd2c22f89732e4b5cbb",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T10:44:20.000Z",
+              "message": "auto-update",
+              "linesAdded": 10,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a22a700e60f7271f26de92722936ae0f4a442b26",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T09:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 11,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "e997b962854bfd3dded67bb0c68e1195612485e5",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T08:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 12,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "b5a445472ac0612d93dc8039596e8e7bb9a4d671",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T07:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 14,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-05": {
           "date": "2026-08-05",
-          "heatScore": 11,
-          "linesChanged": 16,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 690,
+          "commitCount": 17,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "a241dfb90025c2f6431eff2525d5eba85b6d6eb8",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T06:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 18,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "2f6d7be885c27a519bac383592ccfef20d1cf03c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T05:44:20.000Z",
+              "message": "auto-update",
+              "linesAdded": 25,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "8bdd7b5879a0f652c4127fcee0bcbef85ace8af6",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T04:44:52.000Z",
+              "message": "auto-update",
+              "linesAdded": 130,
+              "linesDeleted": 101,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "576f53c389f98f32c286ccf384423145cb98f005",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T03:44:33.000Z",
+              "message": "auto-update",
+              "linesAdded": 121,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "12c8d0c7ead1992bad93da4312491fedcbc8c768",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T02:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 20,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "4246138d6b11e2e057073ffd05823ae00108cad9",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T01:44:13.000Z",
+              "message": "auto-update",
+              "linesAdded": 6,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "c4506644cdbaa6c2e92a31dc64ec730ff52ccc26",
+              "author": "Brian Cullinan",
+              "date": "2026-08-06T00:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "52153d91cb95e1957369d3c01278b29a2f1f3646",
               "author": "Brian Cullinan",
@@ -561,18 +3530,172 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "db3e4765ea59a68e65875be46475540fc71fcd29",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T22:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "4b539600ad99ab5098232b97f5aaea6c13f112dd",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T21:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 86,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "aba425d99ae09d1bbeb702de8b9d663f55255b85",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T20:44:49.000Z",
+              "message": "auto-update",
+              "linesAdded": 16,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "efd724181856a53da9a5f3a545404a3a5526612e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T19:44:13.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a3cb0f899c98fe4884d36ad33dee00acf3142f91",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T18:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 10,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "b17951291700cf97c22494c4835a53cdbaec55b7",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T17:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "abef8159efd4438f4cbcd7ae914f83b1b0207fd5",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T16:44:50.000Z",
+              "message": "auto-update",
+              "linesAdded": 9,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "33debbe0ecddadac256a009223800c7b14c8966b",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T15:44:46.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 26,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "b3d4dd6e1455b5cad0256ec2c1b4f162d8858975",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T07:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-04": {
           "date": "2026-08-04",
-          "heatScore": 10,
-          "linesChanged": 12,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 152,
+          "commitCount": 9,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "116e3d034ba808418383c06296c127dc3caf8cb3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T06:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 12,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "b6b1bef72deb55a39e2020f9f0568d8f5a26a97a",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T05:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 6,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "3ca51bc2150cbd088fecabf4d61852393a56ce1f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T03:44:46.000Z",
+              "message": "auto-update",
+              "linesAdded": 5,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "706b38b48eb3048a92f6a142d5e87b5fb8b2bfe0",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T01:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "2c100b9a61e8ee48fbf581c66b8b348ec98fd1ba",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T00:44:41.000Z",
+              "message": "auto-update",
+              "linesAdded": 5,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "9c166e7ad44778c2ecea594c712d29a01959861f",
               "author": "Brian Cullinan",
@@ -583,18 +3706,95 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "ab92d6e74db5a75a3d9e625b4b3f83b9f287f4e9",
+              "author": "Brian Cullinan",
+              "date": "2026-08-04T17:44:39.000Z",
+              "message": "auto-update",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "24c5df982cbf2646f5da7a485189a654077460db",
+              "author": "Brian Cullinan",
+              "date": "2026-08-04T16:44:24.000Z",
+              "message": "auto-update",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "5146eaa47fae7c4ce1fc2f804bf8d43f765b7e02",
+              "author": "Brian Cullinan",
+              "date": "2026-08-04T15:44:48.000Z",
+              "message": "auto-update",
+              "linesAdded": 33,
+              "linesDeleted": 45,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-03": {
           "date": "2026-08-03",
-          "heatScore": 10,
-          "linesChanged": 14,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 283,
+          "commitCount": 10,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "6b1716782186c1899437e24e0f3fca1d6000cdb6",
+              "author": "Brian Cullinan",
+              "date": "2026-08-04T03:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "89c66db552ae94ef7813a92d36fe0a2a1e8982aa",
+              "author": "Brian Cullinan",
+              "date": "2026-08-04T02:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "194dfbf3515b9998e36a39a8dc8dde15d84af030",
+              "author": "Brian Cullinan",
+              "date": "2026-08-04T01:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 5,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "c837ef6fe537108f013c6a6dcbc1f2ef4d1107cc",
+              "author": "Brian Cullinan",
+              "date": "2026-08-04T00:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "49a2a49c802d38a1ecea160eb00ccea9e105af93",
               "author": "Brian Cullinan",
@@ -605,18 +3805,106 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "e2ac51fa07d663a885c20532410c200b653f2c66",
+              "author": "Brian Cullinan",
+              "date": "2026-08-03T21:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 8,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "7da52a23b796c59f774baa46914a2b241570ce43",
+              "author": "Brian Cullinan",
+              "date": "2026-08-03T20:44:13.000Z",
+              "message": "auto-update",
+              "linesAdded": 9,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "bffeaa2025cf98f7d83095f8f2447d98ab450c9d",
+              "author": "Brian Cullinan",
+              "date": "2026-08-03T19:44:31.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "693caec104188ed1cc7edeab59f7b39c6a8f84d0",
+              "author": "Brian Cullinan",
+              "date": "2026-08-03T18:44:45.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "ef6682f569e4098c96266e9694b5f08cff875f28",
+              "author": "Brian Cullinan",
+              "date": "2026-08-03T17:44:45.000Z",
+              "message": "auto-update",
+              "linesAdded": 53,
+              "linesDeleted": 116,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-02": {
           "date": "2026-08-02",
-          "heatScore": 10,
-          "linesChanged": 3,
-          "commitCount": 1,
+          "heatScore": 71,
+          "linesChanged": 166,
+          "commitCount": 6,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "2bad8d7de1eac4483b25ce867c76d588d644896c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-03T02:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 4,
+              "linesDeleted": 34,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a41ca05eedc8421fea2e1b43e695e413a3c94483",
+              "author": "Brian Cullinan",
+              "date": "2026-08-03T01:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "cd4937dc636af38ddb28207cf5e53eb0f401de4e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-03T00:44:44.000Z",
+              "message": "auto-update",
+              "linesAdded": 5,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "f4c915977f6c253c2c9d2594f045aa56373f0871",
               "author": "Brian Cullinan",
@@ -627,18 +3915,95 @@
               "filesChanged": [
                 "docs/index.html"
               ]
+            },
+            {
+              "hash": "9c301a11172cce4a4b5006daa1bf1e24e8b3f540",
+              "author": "Brian Cullinan",
+              "date": "2026-08-02T21:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a5c09aec201d3fb0ac6491d25b78abb8ce9627b3",
+              "author": "Brian Cullinan",
+              "date": "2026-08-02T20:44:45.000Z",
+              "message": "auto-update",
+              "linesAdded": 55,
+              "linesDeleted": 49,
+              "filesChanged": [
+                "docs/index.html"
+              ]
             }
           ]
         },
         "2026-08-01": {
           "date": "2026-08-01",
-          "heatScore": 10,
-          "linesChanged": 12,
-          "commitCount": 1,
+          "heatScore": 100,
+          "linesChanged": 344,
+          "commitCount": 16,
           "filesEdited": [
             "docs/index.html"
           ],
           "commits": [
+            {
+              "hash": "75162a8bb79f517b1efaf4aa78a09b8a0c4e7185",
+              "author": "Brian Cullinan",
+              "date": "2026-08-02T04:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 12,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "dcea88d0a4b09c6cce1ee80103c44a8a20ce5376",
+              "author": "Brian Cullinan",
+              "date": "2026-08-02T03:44:13.000Z",
+              "message": "auto-update",
+              "linesAdded": 11,
+              "linesDeleted": 71,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "d4957a0a2ee78d03f1e66c72b4cf79469a69931d",
+              "author": "Brian Cullinan",
+              "date": "2026-08-02T02:44:13.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "ae5fb95017678514ea19d759563e01c1c7e69ad4",
+              "author": "Brian Cullinan",
+              "date": "2026-08-02T01:44:23.000Z",
+              "message": "auto-update",
+              "linesAdded": 17,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "660ba1c7c559264bd48e161dccd166ed8e5029b0",
+              "author": "Brian Cullinan",
+              "date": "2026-08-02T00:44:53.000Z",
+              "message": "auto-update",
+              "linesAdded": 27,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
             {
               "hash": "2f010a1a1c8dfb96da98a5af95f3e32e82ec5340",
               "author": "Brian Cullinan",
@@ -646,6 +4011,116 @@
               "message": "auto-update",
               "linesAdded": 4,
               "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "2a8373d0377f68bac099e7cf6f2db87dde11a1e9",
+              "author": "Brian Cullinan",
+              "date": "2026-08-01T22:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "996cbe399a3205df1e0cd9aabe22240468074720",
+              "author": "Brian Cullinan",
+              "date": "2026-08-01T21:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 5,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "76d8e093937f62032b88543df5535c148c102370",
+              "author": "Brian Cullinan",
+              "date": "2026-08-01T20:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 6,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "0ca2c27ac808e019d0e92d27b940ab77af1ae8d7",
+              "author": "Brian Cullinan",
+              "date": "2026-08-01T19:44:41.000Z",
+              "message": "auto-update",
+              "linesAdded": 5,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "64debe9658a7cb30b661be1b94ba649bc1d769b9",
+              "author": "Brian Cullinan",
+              "date": "2026-08-01T18:44:46.000Z",
+              "message": "auto-update",
+              "linesAdded": 10,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "248cd04111a0b2a78bed2f6d90c6b21c3d58e68e",
+              "author": "Brian Cullinan",
+              "date": "2026-08-01T17:44:19.000Z",
+              "message": "auto-update",
+              "linesAdded": 13,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "f8a2c8e4f13e58beab9c38ee231607d048963df4",
+              "author": "Brian Cullinan",
+              "date": "2026-08-01T16:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 17,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "f553d2470f2c5e8bceb385ade025c6e3baa4c080",
+              "author": "Brian Cullinan",
+              "date": "2026-08-01T15:44:20.000Z",
+              "message": "auto-update",
+              "linesAdded": 26,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "a03f879127d2eedcf1a65e4859633d968bea9914",
+              "author": "Brian Cullinan",
+              "date": "2026-08-01T14:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            },
+            {
+              "hash": "2387457bd88af14520b91af6388c434c7970f989",
+              "author": "Brian Cullinan",
+              "date": "2026-08-01T08:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 26,
               "filesChanged": [
                 "docs/index.html"
               ]
@@ -658,11 +4133,11 @@
       "projectName": "illustrious",
       "localPath": "C:\\Users\\megam\\illustrious",
       "remoteUrl": "git@github.com:briancullinan2/illustrious.git",
-      "lastUpdated": "2026-09-24T03:03:59.444Z",
+      "lastUpdated": "2026-09-24T17:52:28.577Z",
       "screenshots": [],
       "dailyHeat": {
-        "2026-08-04": {
-          "date": "2026-08-04",
+        "2026-08-03": {
+          "date": "2026-08-03",
           "heatScore": 10,
           "linesChanged": 2,
           "commitCount": 1,
@@ -687,64 +4162,27 @@
         }
       }
     },
-    "jupyter_ops": {
-      "projectName": "jupyter_ops",
-      "localPath": "C:\\Users\\megam\\jupyter_ops",
-      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
-      "lastUpdated": "2026-09-24T03:04:00.743Z",
-      "screenshots": [],
-      "dailyHeat": {
-        "2026-08-01": {
-          "date": "2026-08-01",
-          "heatScore": 100,
-          "linesChanged": 1709,
-          "commitCount": 1,
-          "filesEdited": [
-            "Resources/Parsers/build/antlr-languages.bundle.js",
-            "Resources/Parsers/creole/creole.g4",
-            "Resources/Parsers/creole/creole.interp",
-            "Resources/Parsers/creole/creoleLexer.interp",
-            "Resources/Parsers/creole/creoleLexer.js",
-            "Resources/Parsers/creole/creoleListener.js",
-            "Resources/Parsers/creole/creoleParser.js"
-          ],
-          "commits": [
-            {
-              "hash": "50cb7fd7d6d9f357f393e7465b12463f20414e0f",
-              "author": "Brian Cullinan",
-              "date": "2026-08-01T05:30:09.000Z",
-              "message": "more markdown",
-              "linesAdded": 1348,
-              "linesDeleted": 361,
-              "filesChanged": [
-                "Resources/Parsers/build/antlr-languages.bundle.js",
-                "Resources/Parsers/creole/creole.g4",
-                "Resources/Parsers/creole/creole.interp",
-                "Resources/Parsers/creole/creoleLexer.interp",
-                "Resources/Parsers/creole/creoleLexer.js",
-                "Resources/Parsers/creole/creoleListener.js",
-                "Resources/Parsers/creole/creoleParser.js"
-              ]
-            }
-          ]
-        }
-      }
-    },
     "nunuStudio": {
       "projectName": "nunuStudio",
       "localPath": "C:\\Users\\megam\\nunuStudio",
       "remoteUrl": "git@github.com:tentone/nunuStudio.git",
-      "lastUpdated": "2026-09-24T03:04:03.713Z",
+      "lastUpdated": "2026-09-24T17:52:32.780Z",
       "screenshots": [],
       "dailyHeat": {
-        "2026-08-08": {
-          "date": "2026-08-08",
-          "heatScore": 25,
-          "linesChanged": 231,
-          "commitCount": 1,
+        "2026-08-07": {
+          "date": "2026-08-07",
+          "heatScore": 100,
+          "linesChanged": 957,
+          "commitCount": 4,
           "filesEdited": [
             "docs/editor/bundle.js",
-            "source/editor/gui/tab/inspector/resources/GeometryInspector.js"
+            "source/editor/gui/tab/inspector/resources/GeometryInspector.js",
+            "source/editor/gui/Interface.js",
+            "docs/editor/styles.css",
+            "source/editor/components/tabs/TabComponent.js",
+            "source/editor/gui/tab/tree-view/TreeView.js",
+            "source/editor/locale/LocaleManager.js",
+            "source/editor/style.css"
           ],
           "commits": [
             {
@@ -758,19 +4196,7 @@
                 "docs/editor/bundle.js",
                 "source/editor/gui/tab/inspector/resources/GeometryInspector.js"
               ]
-            }
-          ]
-        },
-        "2026-08-07": {
-          "date": "2026-08-07",
-          "heatScore": 10,
-          "linesChanged": 11,
-          "commitCount": 1,
-          "filesEdited": [
-            "docs/editor/bundle.js",
-            "source/editor/gui/Interface.js"
-          ],
-          "commits": [
+            },
             {
               "hash": "f75c428c1cd9f9a09e535507d1a959d3a971bf6c",
               "author": "Brian Cullinan",
@@ -782,14 +4208,43 @@
                 "docs/editor/bundle.js",
                 "source/editor/gui/Interface.js"
               ]
+            },
+            {
+              "hash": "93d8b74022f9c1fed8ee546cc2f04224bccbf954",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T17:11:46.000Z",
+              "message": "closer on getting panel interactions restored within lumino",
+              "linesAdded": 109,
+              "linesDeleted": 36,
+              "filesChanged": [
+                "docs/editor/bundle.js",
+                "source/editor/gui/Interface.js"
+              ]
+            },
+            {
+              "hash": "96769f512709f23fb41072127c5aed1c5e816e3b",
+              "author": "Brian Cullinan",
+              "date": "2026-08-07T17:01:37.000Z",
+              "message": "working on using lumino tab layout",
+              "linesAdded": 502,
+              "linesDeleted": 68,
+              "filesChanged": [
+                "docs/editor/bundle.js",
+                "docs/editor/styles.css",
+                "source/editor/components/tabs/TabComponent.js",
+                "source/editor/gui/Interface.js",
+                "source/editor/gui/tab/tree-view/TreeView.js",
+                "source/editor/locale/LocaleManager.js",
+                "source/editor/style.css"
+              ]
             }
           ]
         },
         "2026-08-05": {
           "date": "2026-08-05",
           "heatScore": 100,
-          "linesChanged": 3124,
-          "commitCount": 1,
+          "linesChanged": 3404,
+          "commitCount": 3,
           "filesEdited": [
             "docs/editor/bundle.js",
             "docs/editor/files/icons/boxicons-brands.min.css",
@@ -802,7 +4257,19 @@
             "source/files/icons/boxicons-brands.min.css",
             "source/files/icons/boxicons-brands.ttf",
             "source/files/icons/boxicons-brands.woff",
-            "source/files/icons/boxicons-brands.woff2"
+            "source/files/icons/boxicons-brands.woff2",
+            "docs/editor/styles.css",
+            "source/editor/style.css",
+            "docs/editor/files/icons/boxicons.min.css",
+            "docs/editor/files/icons/boxicons.ttf",
+            "docs/editor/files/icons/boxicons.woff",
+            "docs/editor/files/icons/boxicons.woff2",
+            "source/editor/menu.css",
+            "source/files/icons/boxicons.min.css",
+            "source/files/icons/boxicons.ttf",
+            "source/files/icons/boxicons.woff",
+            "source/files/icons/boxicons.woff2",
+            "webpack.config.js"
           ],
           "commits": [
             {
@@ -826,11 +4293,51 @@
                 "source/files/icons/boxicons-brands.woff",
                 "source/files/icons/boxicons-brands.woff2"
               ]
+            },
+            {
+              "hash": "bd61f8258577a492345405fe717c73fd3c8eadd8",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T18:25:53.000Z",
+              "message": "working menu, needs all items added",
+              "linesAdded": 55,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/editor/bundle.js",
+                "docs/editor/styles.css",
+                "source/editor/gui/MainMenu.js",
+                "source/editor/style.css"
+              ]
+            },
+            {
+              "hash": "ceeba8ee7d5a05ccec2b0add13c73cc330b5b98c",
+              "author": "Brian Cullinan",
+              "date": "2026-08-05T16:24:11.000Z",
+              "message": "fixing up menu",
+              "linesAdded": 192,
+              "linesDeleted": 28,
+              "filesChanged": [
+                "docs/editor/bundle.js",
+                "docs/editor/files/icons/boxicons.min.css",
+                "docs/editor/files/icons/boxicons.ttf",
+                "docs/editor/files/icons/boxicons.woff",
+                "docs/editor/files/icons/boxicons.woff2",
+                "docs/editor/index.html",
+                "docs/editor/styles.css",
+                "source/editor/gui/MainMenu.js",
+                "source/editor/index.html",
+                "source/editor/menu.css",
+                "source/editor/style.css",
+                "source/files/icons/boxicons.min.css",
+                "source/files/icons/boxicons.ttf",
+                "source/files/icons/boxicons.woff",
+                "source/files/icons/boxicons.woff2",
+                "webpack.config.js"
+              ]
             }
           ]
         },
-        "2026-08-04": {
-          "date": "2026-08-04",
+        "2026-08-03": {
+          "date": "2026-08-03",
           "heatScore": 46,
           "linesChanged": 554,
           "commitCount": 1,
@@ -863,8 +4370,8 @@
             }
           ]
         },
-        "2026-08-03": {
-          "date": "2026-08-03",
+        "2026-08-02": {
+          "date": "2026-08-02",
           "heatScore": 50,
           "linesChanged": 608,
           "commitCount": 1,
@@ -921,7 +4428,7 @@
       "projectName": "quedit",
       "localPath": "C:\\Users\\megam\\quedit",
       "remoteUrl": "git@github.com:briancullinan2/quedit.git",
-      "lastUpdated": "2026-09-24T03:04:14.046Z",
+      "lastUpdated": "2026-09-24T17:52:51.751Z",
       "screenshots": [
         {
           "filename": "Screenshot 2026-08-01 174414.png",
@@ -931,11 +4438,11 @@
         }
       ],
       "dailyHeat": {
-        "2026-08-02": {
-          "date": "2026-08-02",
-          "heatScore": 21,
-          "linesChanged": 178,
-          "commitCount": 1,
+        "2026-08-01": {
+          "date": "2026-08-01",
+          "heatScore": 100,
+          "linesChanged": 2691,
+          "commitCount": 3,
           "filesEdited": [
             "Screenshot 2026-08-01 174414.png",
             "app.bundle.js",
@@ -943,7 +4450,35 @@
             "components/bundle/lumino-widget.ts",
             "components/editor/widget.ts",
             "components/graph/widget.ts",
-            "index.html"
+            "index.html",
+            "components/bundle/github-worker.ts",
+            "components/bundle/lumino-search.ts",
+            "components/bundle/lumino.ts",
+            "components/bundle/menu-history.ts",
+            "components/compiler/worker.js",
+            "components/{filelist => workers}/commit-worker.js",
+            "components/{filelist => workers}/github.js",
+            "components/workers/lg2.js",
+            "components/workers/lg2.wasm",
+            "components/workers/lg2_async.js",
+            "components/workers/lg2_async.wasm",
+            "components/workers/lg2_opfs.js",
+            "components/workers/lg2_opfs.wasm",
+            "components/workers/lg2_opfs_async.js",
+            "components/workers/lg2_opfs_async.wasm",
+            "components/workers/lg2_opfs_auto.js",
+            "components/workers/lg2_opfs_jspi.js",
+            "components/workers/lg2_opfs_jspi.wasm",
+            "components/{filelist => workers}/search-worker.js",
+            "package-lock.json",
+            "package.json",
+            "service-worker.js",
+            "3rdparty/litegraph.js-master.zip",
+            "components/bundle/babel-compile.ts",
+            "components/bundle/menu.ts",
+            "components/graph/litegraph.css",
+            "components/graph/litegraph.min.js",
+            "components/graph/widget-nodes.ts"
           ],
           "commits": [
             {
@@ -962,43 +4497,7 @@
                 "components/graph/widget.ts",
                 "index.html"
               ]
-            }
-          ]
-        },
-        "2026-08-01": {
-          "date": "2026-08-01",
-          "heatScore": 37,
-          "linesChanged": 405,
-          "commitCount": 1,
-          "filesEdited": [
-            "app.bundle.js",
-            "components/bundle/github-worker.ts",
-            "components/bundle/lumino-search.ts",
-            "components/bundle/lumino-widget.ts",
-            "components/bundle/lumino.ts",
-            "components/bundle/menu-history.ts",
-            "components/compiler/worker.js",
-            "components/editor/widget.ts",
-            "components/{filelist => workers}/commit-worker.js",
-            "components/{filelist => workers}/github.js",
-            "components/workers/lg2.js",
-            "components/workers/lg2.wasm",
-            "components/workers/lg2_async.js",
-            "components/workers/lg2_async.wasm",
-            "components/workers/lg2_opfs.js",
-            "components/workers/lg2_opfs.wasm",
-            "components/workers/lg2_opfs_async.js",
-            "components/workers/lg2_opfs_async.wasm",
-            "components/workers/lg2_opfs_auto.js",
-            "components/workers/lg2_opfs_jspi.js",
-            "components/workers/lg2_opfs_jspi.wasm",
-            "components/{filelist => workers}/search-worker.js",
-            "index.html",
-            "package-lock.json",
-            "package.json",
-            "service-worker.js"
-          ],
-          "commits": [
+            },
             {
               "hash": "7950281a01933309ea5dd1bd964bb690354f8b30",
               "author": "Brian Cullinan",
@@ -1033,6 +4532,27 @@
                 "package-lock.json",
                 "package.json",
                 "service-worker.js"
+              ]
+            },
+            {
+              "hash": "5e3c7e2854f5ec6eeeb99f6ecd97ada9521a9c7f",
+              "author": "Brian Cullinan",
+              "date": "2026-08-01T16:07:49.000Z",
+              "message": "adding litegraph",
+              "linesAdded": 2105,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "3rdparty/litegraph.js-master.zip",
+                "app.bundle.js",
+                "components/bundle/babel-compile.ts",
+                "components/bundle/menu.ts",
+                "components/graph/litegraph.css",
+                "components/graph/litegraph.min.js",
+                "components/graph/widget-nodes.ts",
+                "components/graph/widget.ts",
+                "index.html",
+                "package-lock.json",
+                "package.json"
               ]
             }
           ]

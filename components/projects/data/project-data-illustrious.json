@@ -2,7 +2,7 @@
   "projectName": "illustrious",
   "localPath": "C:\\Users\\megam\\illustrious",
   "remoteUrl": "git@github.com:briancullinan2/illustrious.git",
-  "lastUpdated": "2026-09-24T03:03:59.444Z",
+  "lastUpdated": "2026-09-24T17:52:28.577Z",
   "screenshots": [
     {
       "filename": "Screenshot 2026-06-23 124851.png",
@@ -54,8 +54,8 @@
     }
   ],
   "dailyHeat": {
-    "2026-08-04": {
-      "date": "2026-08-04",
+    "2026-08-03": {
+      "date": "2026-08-03",
       "heatScore": 10,
       "linesChanged": 2,
       "commitCount": 1,
@@ -104,13 +104,15 @@
     },
     "2026-07-04": {
       "date": "2026-07-04",
-      "heatScore": 66,
-      "linesChanged": 840,
-      "commitCount": 1,
+      "heatScore": 77,
+      "linesChanged": 856,
+      "commitCount": 2,
       "filesEdited": [
         "cloud-functions/boot-gpu/chat-agent.py",
         "cloud-functions/boot-gpu/index.html",
-        "loras/spatial_engine/objaverse-download.py"
+        "loras/spatial_engine/objaverse-download.py",
+        "components/core/workers.js",
+        "components/map-editor/addons.js"
       ],
       "commits": [
         {
@@ -125,19 +127,83 @@
             "cloud-functions/boot-gpu/index.html",
             "loras/spatial_engine/objaverse-download.py"
           ]
+        },
+        {
+          "hash": "53c46220f048c483a1719fc3542a61f24aa0cf25",
+          "author": "Brian Cullinan",
+          "date": "2026-07-04T17:54:03.000Z",
+          "message": "lora isn't working so adding dblclick event back to asset manager",
+          "linesAdded": 15,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/core/workers.js",
+            "components/map-editor/addons.js"
+          ]
         }
       ]
     },
     "2026-07-03": {
       "date": "2026-07-03",
-      "heatScore": 15,
-      "linesChanged": 83,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 2345,
+      "commitCount": 6,
       "filesEdited": [
+        "components/map-editor/bundle.js",
         "components/sfm-processor/minecraft-store.md",
-        "loras/spatial_engine/adapter_config.json"
+        "loras/spatial_engine/adapter_config.json",
+        "components/core/workers.js",
+        "components/llm-workers/wllama/worker.js",
+        "loras/spatial_engine/README.md",
+        "loras/spatial_engine/dataset/sme-altman-gimble.json",
+        "loras/spatial_engine/dataset/sme-gemini-gimble.json",
+        "server/index.js",
+        "server/server.js",
+        "cloud-functions/boot-gpu/train-lora.py",
+        "cloud-functions/cluster-manager/host-google.js",
+        "cloud-functions/oauth-gateway/index.js",
+        "components/core/cluster.js",
+        "components/core/events.js",
+        "components/core/github.js",
+        "components/llm-workers/downloader.js",
+        "components/llm-workers/media-pipe/media-worker.js",
+        "components/map-editor/SpatialLoader.js",
+        "components/map-editor/addons.js",
+        "loras/spatial_engine/chat_template.jinja"
       ],
       "commits": [
+        {
+          "hash": "a68669a134db47b519b50bd2bc0feae5f4e29880",
+          "author": "Brian Cullinan",
+          "date": "2026-07-04T03:53:49.000Z",
+          "message": "threejs to minecraft exporter",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "3750784ac410bd6e4df9cb66c718fe794fcd7b1c",
+          "author": "Brian Cullinan",
+          "date": "2026-07-04T03:28:39.000Z",
+          "message": "minecraft export still doesn't work",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "0fb086ed138ffb987f3c84a49936e7093339cefd",
+          "author": "Brian Cullinan",
+          "date": "2026-07-04T01:33:57.000Z",
+          "message": "minecraft exporter",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/bundle.js"
+          ]
+        },
         {
           "hash": "d58c8c3f1643bd3117adebb9fb8e6d6298024c39",
           "author": "Brian Cullinan",
@@ -149,14 +215,59 @@
             "components/sfm-processor/minecraft-store.md",
             "loras/spatial_engine/adapter_config.json"
           ]
+        },
+        {
+          "hash": "651058dea33bfa5e72eb68e2625ff85fbf6dd23d",
+          "author": "Brian Cullinan",
+          "date": "2026-07-03T22:27:01.000Z",
+          "message": "init bug and training model doesn't work at all anymore",
+          "linesAdded": 528,
+          "linesDeleted": 44,
+          "filesChanged": [
+            "components/core/workers.js",
+            "components/llm-workers/wllama/worker.js",
+            "loras/spatial_engine/README.md",
+            "loras/spatial_engine/adapter_config.json",
+            "loras/spatial_engine/dataset/sme-altman-gimble.json",
+            "loras/spatial_engine/dataset/sme-gemini-gimble.json",
+            "server/index.js",
+            "server/server.js"
+          ]
+        },
+        {
+          "hash": "f4ba758d44587659d9355c8b6389b26a1929fd31",
+          "author": "Brian Cullinan",
+          "date": "2026-07-03T20:45:16.000Z",
+          "message": "local model updating for dev mtime, decoupling host-google",
+          "linesAdded": 978,
+          "linesDeleted": 706,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/train-lora.py",
+            "cloud-functions/cluster-manager/host-google.js",
+            "cloud-functions/oauth-gateway/index.js",
+            "components/core/cluster.js",
+            "components/core/events.js",
+            "components/core/github.js",
+            "components/core/workers.js",
+            "components/llm-workers/downloader.js",
+            "components/llm-workers/media-pipe/media-worker.js",
+            "components/llm-workers/wllama/worker.js",
+            "components/map-editor/SpatialLoader.js",
+            "components/map-editor/addons.js",
+            "loras/spatial_engine/README.md",
+            "loras/spatial_engine/adapter_config.json",
+            "loras/spatial_engine/chat_template.jinja",
+            "server/index.js",
+            "server/server.js"
+          ]
         }
       ]
     },
     "2026-07-02": {
       "date": "2026-07-02",
-      "heatScore": 10,
-      "linesChanged": 2,
-      "commitCount": 1,
+      "heatScore": 20,
+      "linesChanged": 4,
+      "commitCount": 2,
       "filesEdited": [
         "components/map-editor/bundle.js"
       ],
@@ -171,18 +282,109 @@
           "filesChanged": [
             "components/map-editor/bundle.js"
           ]
+        },
+        {
+          "hash": "09f0e23d7fa44ba129451373556fdbf6a75878d8",
+          "author": "Brian Cullinan",
+          "date": "2026-07-02T16:01:35.000Z",
+          "message": "lightmaps still missing on submodels",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/bundle.js"
+          ]
         }
       ]
     },
     "2026-07-01": {
       "date": "2026-07-01",
-      "heatScore": 10,
-      "linesChanged": 2,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 6617,
+      "commitCount": 15,
       "filesEdited": [
-        "components/map-editor/bundle.js"
+        "components/map-editor/bundle.js",
+        "README.md",
+        "cloud-functions/cluster-manager/host-google.js",
+        "server/index.js",
+        "components/core/extensions.js",
+        "components/core/menu.css",
+        "components/theme/theme.css",
+        "index.html",
+        "main.css",
+        "components/map-editor/nunu.css",
+        "components/core/modules.js",
+        "components/core/menu.js",
+        "client.js",
+        "components/llm-workers/media-pipe/media-worker.js",
+        "components/llm-workers/media-pipe/ssd_mobilenet_v2.tflite",
+        "components/map-editor/Q3MapLoader.js",
+        "service-worker.js"
       ],
       "commits": [
+        {
+          "hash": "0048d5f2fc6a4e85f42182541fd8c3020a939b30",
+          "author": "Brian Cullinan",
+          "date": "2026-07-02T06:15:57.000Z",
+          "message": "fix for geometry inspector",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "23da8f2d30f8dc132276ea18c0133ddc21e15b12",
+          "author": "Brian Cullinan",
+          "date": "2026-07-02T05:48:49.000Z",
+          "message": "possible lightmap fix to go over in the morning",
+          "linesAdded": 172,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "d8b7fced924a8165112f56e41cdd9897dd5102e6",
+          "author": "Brian Cullinan",
+          "date": "2026-07-02T05:43:23.000Z",
+          "message": "almost working lightmaps",
+          "linesAdded": 6,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "cloud-functions/cluster-manager/host-google.js",
+            "components/map-editor/bundle.js",
+            "server/index.js"
+          ]
+        },
+        {
+          "hash": "3dccce41ce91c8e820b7b593f2b808b8759fe9a7",
+          "author": "Brian Cullinan",
+          "date": "2026-07-02T02:23:09.000Z",
+          "message": "style sheet causing nunu thrashing",
+          "linesAdded": 1372,
+          "linesDeleted": 1378,
+          "filesChanged": [
+            "components/core/extensions.js",
+            "components/core/menu.css",
+            "components/map-editor/bundle.js",
+            "components/theme/theme.css",
+            "index.html",
+            "main.css"
+          ]
+        },
+        {
+          "hash": "e4c5c58b83aed0ad9b2251bcd9a999619aa5329b",
+          "author": "Brian Cullinan",
+          "date": "2026-07-02T01:07:58.000Z",
+          "message": "trying to get rid of layout thrashing",
+          "linesAdded": 16,
+          "linesDeleted": 409,
+          "filesChanged": [
+            "components/map-editor/bundle.js",
+            "components/map-editor/nunu.css",
+            "main.css"
+          ]
+        },
         {
           "hash": "058e0eaf7ab9b6087540242c5c2c0f254d5c2f8a",
           "author": "Brian Cullinan",
@@ -193,23 +395,228 @@
           "filesChanged": [
             "components/map-editor/bundle.js"
           ]
+        },
+        {
+          "hash": "ca82504b5e01d201d650ab9e2be901e3d96a6e68",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T20:49:23.000Z",
+          "message": "annoying authentication bug, and nunu loading bsps again",
+          "linesAdded": 100,
+          "linesDeleted": 61,
+          "filesChanged": [
+            "cloud-functions/cluster-manager/host-google.js",
+            "components/map-editor/bundle.js",
+            "server/index.js"
+          ]
+        },
+        {
+          "hash": "bd82f81a1cdc9dbc41f7dae6f1b861a0dfb88b6c",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T19:24:34.000Z",
+          "message": "bug in shaders",
+          "linesAdded": 816,
+          "linesDeleted": 798,
+          "filesChanged": [
+            "cloud-functions/cluster-manager/host-google.js",
+            "components/core/modules.js",
+            "components/map-editor/bundle.js",
+            "server/index.js"
+          ]
+        },
+        {
+          "hash": "f1aa0cacdafe68d1e13707d0dad3a754c67c7dc1",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T18:20:23.000Z",
+          "message": "new assimp loader",
+          "linesAdded": 3,
+          "linesDeleted": 3,
+          "filesChanged": [
+            "components/core/menu.js",
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "61bf537c636defe30a7849ab667bd3b354106f2a",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T16:31:50.000Z",
+          "message": "menus fix",
+          "linesAdded": 5,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/bundle.js",
+            "components/map-editor/nunu.css"
+          ]
+        },
+        {
+          "hash": "3f92b2ba7bea6f02ad66d21dac89a6a47ed589ca",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T16:06:05.000Z",
+          "message": "gizmo fixes",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "510344ba1c69a9693f6680ef278eb70384e17d93",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T15:17:18.000Z",
+          "message": "going to add minecraft export",
+          "linesAdded": 24,
+          "linesDeleted": 22,
+          "filesChanged": [
+            "components/core/extensions.js",
+            "components/core/menu.js"
+          ]
+        },
+        {
+          "hash": "ed97ec4272e12945018fe714610e71716be670df",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T11:57:18.000Z",
+          "message": "pk3 loader",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "9220738c94c9ecda8d85509dc299de796233d3dc",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T11:49:54.000Z",
+          "message": "model loaders, needs testing",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "65af8c845b3296b8560ad16744e4e239264a629e",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T11:43:06.000Z",
+          "message": "q3 loaders built into editor",
+          "linesAdded": 715,
+          "linesDeleted": 702,
+          "filesChanged": [
+            "client.js",
+            "components/llm-workers/media-pipe/media-worker.js",
+            "components/llm-workers/media-pipe/ssd_mobilenet_v2.tflite",
+            "components/map-editor/Q3MapLoader.js",
+            "components/map-editor/bundle.js",
+            "service-worker.js"
+          ]
         }
       ]
     },
     "2026-06-30": {
       "date": "2026-06-30",
-      "heatScore": 14,
-      "linesChanged": 65,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 33705,
+      "commitCount": 6,
       "filesEdited": [
-        "client.js",
+        "components/llm-workers/media-pipe/efficientdet_lite0.tflite",
+        "components/llm-workers/media-pipe/efficientdet_lite2.tflite",
+        "components/llm-workers/media-pipe/media-worker.js",
+        "components/core/modules.js",
+        "components/core/utilities.js",
         "components/core/workers.js",
-        "components/llm-workers/downloader.js",
-        "components/llm-workers/media-pipe/{media-pipe.js => media-worker.js}",
+        "components/llm-workers/media-pipe/vision_bundle.mjs",
+        "components/llm-workers/media-pipe/vision_bundle.mjs.map",
+        "components/llm-workers/media-pipe/vision_wasm_internal.js",
         "components/map-editor/bundle.js",
-        "components/map-editor/nunu.css"
+        "index.html",
+        "main.css",
+        "client.js",
+        "components/llm-workers/convert/normalize-volume.js",
+        "components/llm-workers/downloader.js",
+        "components/llm-workers/media-pipe/{vision_wasm_module_internal.js => vision_wasm_internal.js}",
+        "components/llm-workers/media-pipe/{vision_wasm_module_internal.wasm => vision_wasm_internal.wasm}",
+        "components/map-editor/addons.js",
+        "components/llm-workers/media-pipe/{media-pipe.js => media-worker.js}",
+        "components/map-editor/nunu.css",
+        "components/llm-workers/media-pipe/deeplab_v3.tflite",
+        "components/llm-workers/media-pipe/efficientnet_lite0.tflite",
+        "components/llm-workers/media-pipe/efficientnet_lite2.tflite",
+        "components/llm-workers/media-pipe/image-classifier.worker.js",
+        "components/llm-workers/media-pipe/image-segmenter.worker.js",
+        "components/llm-workers/media-pipe/media-pipe.js",
+        "components/llm-workers/media-pipe/object-detector.worker.js",
+        "components/llm-workers/media-pipe/vision_bundle.js",
+        "components/llm-workers/media-pipe/vision_wasm_module_internal.js",
+        "components/llm-workers/media-pipe/vision_wasm_module_internal.wasm",
+        "components/map-editor/wasm/draco/draco_decoder.js",
+        "components/map-editor/wasm/draco/draco_decoder.wasm",
+        "components/map-editor/wasm/draco/draco_wasm_wrapper.js",
+        "components/map-editor/wasm/draco/gltf/draco_decoder.js",
+        "components/map-editor/wasm/draco/gltf/draco_decoder.wasm",
+        "components/map-editor/wasm/draco/gltf/draco_wasm_wrapper.js"
       ],
       "commits": [
+        {
+          "hash": "6add5df5f9aa9449ce25e48605eef74e2e9a1651",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T05:44:23.000Z",
+          "message": "such bullshit, still doesn't detect a cup",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "components/llm-workers/media-pipe/efficientdet_lite0.tflite",
+            "components/llm-workers/media-pipe/efficientdet_lite2.tflite"
+          ]
+        },
+        {
+          "hash": "dc14c5469654a6ffb1365cdb9645061f27d464da",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T05:20:43.000Z",
+          "message": "still nothing",
+          "linesAdded": 6,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/llm-workers/media-pipe/media-worker.js"
+          ]
+        },
+        {
+          "hash": "92d6d17912784b9b9cac36ed9355e36c5767fadc",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T05:12:01.000Z",
+          "message": "vision detection runs but its wrong",
+          "linesAdded": 15277,
+          "linesDeleted": 8741,
+          "filesChanged": [
+            "components/core/modules.js",
+            "components/core/utilities.js",
+            "components/core/workers.js",
+            "components/llm-workers/media-pipe/media-worker.js",
+            "components/llm-workers/media-pipe/vision_bundle.mjs",
+            "components/llm-workers/media-pipe/vision_bundle.mjs.map",
+            "components/llm-workers/media-pipe/vision_wasm_internal.js",
+            "components/map-editor/bundle.js",
+            "index.html",
+            "main.css"
+          ]
+        },
+        {
+          "hash": "79f56ef871459c9a8323c2c153d1f87cb21f7d07",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T03:26:49.000Z",
+          "message": "media pipe appears to be booting need to try object detection",
+          "linesAdded": 244,
+          "linesDeleted": 40,
+          "filesChanged": [
+            "client.js",
+            "components/core/workers.js",
+            "components/llm-workers/convert/normalize-volume.js",
+            "components/llm-workers/downloader.js",
+            "components/llm-workers/media-pipe/media-worker.js",
+            "components/llm-workers/media-pipe/vision_bundle.mjs",
+            "components/llm-workers/media-pipe/{vision_wasm_module_internal.js => vision_wasm_internal.js}",
+            "components/llm-workers/media-pipe/{vision_wasm_module_internal.wasm => vision_wasm_internal.wasm}",
+            "components/map-editor/addons.js",
+            "components/map-editor/bundle.js"
+          ]
+        },
         {
           "hash": "640d4b392517c6284addd746a5cf69af15ca5c3d",
           "author": "Brian Cullinan",
@@ -225,23 +632,146 @@
             "components/map-editor/bundle.js",
             "components/map-editor/nunu.css"
           ]
+        },
+        {
+          "hash": "a49ab3412444fd6986508a82c018dcbf6af5e07d",
+          "author": "Brian Cullinan",
+          "date": "2026-06-30T17:39:23.000Z",
+          "message": "draco loader and media pipe",
+          "linesAdded": 9316,
+          "linesDeleted": 15,
+          "filesChanged": [
+            "components/llm-workers/media-pipe/deeplab_v3.tflite",
+            "components/llm-workers/media-pipe/efficientdet_lite0.tflite",
+            "components/llm-workers/media-pipe/efficientdet_lite2.tflite",
+            "components/llm-workers/media-pipe/efficientnet_lite0.tflite",
+            "components/llm-workers/media-pipe/efficientnet_lite2.tflite",
+            "components/llm-workers/media-pipe/image-classifier.worker.js",
+            "components/llm-workers/media-pipe/image-segmenter.worker.js",
+            "components/llm-workers/media-pipe/media-pipe.js",
+            "components/llm-workers/media-pipe/object-detector.worker.js",
+            "components/llm-workers/media-pipe/vision_bundle.js",
+            "components/llm-workers/media-pipe/vision_wasm_module_internal.js",
+            "components/llm-workers/media-pipe/vision_wasm_module_internal.wasm",
+            "components/map-editor/addons.js",
+            "components/map-editor/bundle.js",
+            "components/map-editor/wasm/draco/draco_decoder.js",
+            "components/map-editor/wasm/draco/draco_decoder.wasm",
+            "components/map-editor/wasm/draco/draco_wasm_wrapper.js",
+            "components/map-editor/wasm/draco/gltf/draco_decoder.js",
+            "components/map-editor/wasm/draco/gltf/draco_decoder.wasm",
+            "components/map-editor/wasm/draco/gltf/draco_wasm_wrapper.js"
+          ]
         }
       ]
     },
     "2026-06-29": {
       "date": "2026-06-29",
-      "heatScore": 49,
-      "linesChanged": 590,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 12155,
+      "commitCount": 10,
       "filesEdited": [
-        "README.md",
+        "components/map-editor/addons.js",
+        "components/llm-workers/downloader.js",
+        "components/llm-workers/media-pipe/media-pipe.js",
+        "components/map-editor/bundle.js",
         "components/llm-workers/convert/convert-worker.js",
+        "components/map-editor/nunu.css",
+        "components/core/utilities.js",
+        "components/core/workers.js",
+        "components/llm-workers/wllama/worker.js",
+        "README.md",
         "components/llm-workers/convert/normalize-volume.js",
         "components/llm-workers/convert/three.core.min.js",
         "components/llm-workers/convert/three.module.min.js",
-        "components/llm-workers/convert/three.webgpu.min.js"
+        "components/llm-workers/convert/three.webgpu.min.js",
+        "client.js",
+        "components/core/github.js",
+        "components/map-editor/file-access.js",
+        "index.html",
+        "main.css",
+        "loras/spatial_engine/adapter_config.json",
+        "loras/spatial_engine/dataset/sme-altman-complex.json",
+        "loras/spatial_engine/dataset/sme-altman-gimble.json",
+        "loras/spatial_engine/dataset/sme-altman-positional.json",
+        "loras/spatial_engine/dataset/sme-altman-rooms.json",
+        "loras/spatial_engine/dataset/sme-altman-terrain.json",
+        "loras/spatial_engine/dataset/sme-gemini-combos.json",
+        "loras/spatial_engine/dataset/sme-gemini-complex.json",
+        "loras/spatial_engine/dataset/sme-gemini-gimble.json",
+        "loras/spatial_engine/dataset/sme-gemini-multiples.json",
+        "loras/spatial_engine/dataset/sme-gemini-negatives.json",
+        "loras/spatial_engine/dataset/sme-gemini-nouns.json",
+        "loras/spatial_engine/dataset/sme-gemini-positional.json",
+        "loras/spatial_engine/dataset/sme-gemini-rooms.json",
+        "loras/spatial_engine/dataset/sme-gemini-scenes.json",
+        "loras/spatial_engine/dataset/sme-gemini-terrain.json",
+        "loras/spatial_engine/dataset/sme-gemini-rotations.json"
       ],
       "commits": [
+        {
+          "hash": "d6c9271dce24a80e96e40bf05bc8b05227359923",
+          "author": "Brian Cullinan",
+          "date": "2026-06-30T04:58:10.000Z",
+          "message": "needs wiring to vision worker, then its ready to ask the spatial engine for scaling",
+          "linesAdded": 2,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/addons.js"
+          ]
+        },
+        {
+          "hash": "e7d7a7735680201f2665c34e6df0edd6ad9aa968",
+          "author": "Brian Cullinan",
+          "date": "2026-06-30T04:39:48.000Z",
+          "message": "starting vision ml in web gpu, so i can ask the spatial engine what size to make the inserted model",
+          "linesAdded": 463,
+          "linesDeleted": 212,
+          "filesChanged": [
+            "components/llm-workers/downloader.js",
+            "components/llm-workers/media-pipe/media-pipe.js",
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "89810444deb5012c9b0dc9525a2879767d722070",
+          "author": "Brian Cullinan",
+          "date": "2026-06-30T02:48:11.000Z",
+          "message": "adding source link to nunu inspector",
+          "linesAdded": 16,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "components/llm-workers/convert/convert-worker.js",
+            "components/map-editor/addons.js",
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "4ced1d2d4780ace1e7fa97332b66f68e821d49c5",
+          "author": "Brian Cullinan",
+          "date": "2026-06-30T01:47:03.000Z",
+          "message": "asset explorer overrides",
+          "linesAdded": 34,
+          "linesDeleted": 3,
+          "filesChanged": [
+            "components/map-editor/addons.js",
+            "components/map-editor/nunu.css"
+          ]
+        },
+        {
+          "hash": "4461f2c6f59b551e1d812312430c8831740ad6ea",
+          "author": "Brian Cullinan",
+          "date": "2026-06-30T01:23:37.000Z",
+          "message": "LLM queue",
+          "linesAdded": 53,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "components/core/utilities.js",
+            "components/core/workers.js",
+            "components/llm-workers/wllama/worker.js",
+            "components/map-editor/addons.js"
+          ]
+        },
         {
           "hash": "0ad69f51bdd1d7053630e2bbf035b3f612f6fb4a",
           "author": "Brian Cullinan",
@@ -257,18 +787,280 @@
             "components/llm-workers/convert/three.module.min.js",
             "components/llm-workers/convert/three.webgpu.min.js"
           ]
+        },
+        {
+          "hash": "0b385d530989e6a785d695c7d53319a27cd10db0",
+          "author": "Brian Cullinan",
+          "date": "2026-06-29T20:36:45.000Z",
+          "message": "pretty decent remote model loader",
+          "linesAdded": 31,
+          "linesDeleted": 22,
+          "filesChanged": [
+            "components/core/workers.js",
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "9025964d92e586c61910ed74fd6eda751167affb",
+          "author": "Brian Cullinan",
+          "date": "2026-06-29T18:40:35.000Z",
+          "message": "local file access plans and model update button",
+          "linesAdded": 2423,
+          "linesDeleted": 2038,
+          "filesChanged": [
+            "client.js",
+            "components/core/github.js",
+            "components/core/utilities.js",
+            "components/core/workers.js",
+            "components/llm-workers/wllama/worker.js",
+            "components/map-editor/bundle.js",
+            "components/map-editor/file-access.js",
+            "index.html",
+            "main.css"
+          ]
+        },
+        {
+          "hash": "e86e1c990c386ef411ca8ad45046c73b65e8acdb",
+          "author": "Brian Cullinan",
+          "date": "2026-06-29T16:05:23.000Z",
+          "message": "more training data",
+          "linesAdded": 4031,
+          "linesDeleted": 2100,
+          "filesChanged": [
+            "components/core/workers.js",
+            "components/map-editor/addons.js",
+            "components/map-editor/bundle.js",
+            "loras/spatial_engine/adapter_config.json",
+            "loras/spatial_engine/dataset/sme-altman-complex.json",
+            "loras/spatial_engine/dataset/sme-altman-gimble.json",
+            "loras/spatial_engine/dataset/sme-altman-positional.json",
+            "loras/spatial_engine/dataset/sme-altman-rooms.json",
+            "loras/spatial_engine/dataset/sme-altman-terrain.json",
+            "loras/spatial_engine/dataset/sme-gemini-combos.json",
+            "loras/spatial_engine/dataset/sme-gemini-complex.json",
+            "loras/spatial_engine/dataset/sme-gemini-gimble.json",
+            "loras/spatial_engine/dataset/sme-gemini-multiples.json",
+            "loras/spatial_engine/dataset/sme-gemini-negatives.json",
+            "loras/spatial_engine/dataset/sme-gemini-nouns.json",
+            "loras/spatial_engine/dataset/sme-gemini-positional.json",
+            "loras/spatial_engine/dataset/sme-gemini-rooms.json",
+            "loras/spatial_engine/dataset/sme-gemini-scenes.json",
+            "loras/spatial_engine/dataset/sme-gemini-terrain.json"
+          ]
+        },
+        {
+          "hash": "8473b9eb64906d2f09eb8463ff31a6524c5efbda",
+          "author": "Brian Cullinan",
+          "date": "2026-06-29T16:04:02.000Z",
+          "message": "Create sme-gemini-rotations.json with asset rotations",
+          "linesAdded": 122,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "loras/spatial_engine/dataset/sme-gemini-rotations.json"
+          ]
         }
       ]
     },
     "2026-06-28": {
       "date": "2026-06-28",
-      "heatScore": 11,
-      "linesChanged": 19,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 353689,
+      "commitCount": 6,
       "filesEdited": [
-        "cloud-functions/boot-gpu/train-lora.py"
+        "components/core/events.js",
+        "components/core/workers.js",
+        "components/map-editor/addons.js",
+        "components/map-editor/bundle.js",
+        "components/map-editor/nunu.css",
+        ".vscode/settings.json",
+        "README.md",
+        "components/core/extensions.js",
+        "components/map-editor/664.nunu.min.js",
+        "components/map-editor/794.nunu.min.js",
+        "components/map-editor/BlendLoader.js",
+        "components/map-editor/Global.js",
+        "components/map-editor/Q3BSPLoader.js",
+        "components/map-editor/Q3MapLoader.js",
+        "components/map-editor/SpatialLoader.js",
+        "components/map-editor/acorn.js",
+        "components/map-editor/bundle.js.LICENSE.txt",
+        "components/map-editor/bundle.min.js",
+        "components/map-editor/bundle.orig.js",
+        "components/map-editor/codemirror.css",
+        "components/map-editor/codemirror.js",
+        "components/map-editor/default.png",
+        "components/map-editor/default.webm",
+        "components/map-editor/equirectangular_grid.png",
+        "components/map-editor/equirectangular_test.jpg",
+        "components/map-editor/icon.ico",
+        "components/map-editor/icon.png",
+        "components/map-editor/index.html",
+        "components/map-editor/jshint.js",
+        "components/map-editor/jshint.js.LICENSE.txt",
+        "components/map-editor/lensflare/LICENSE.txt",
+        "components/map-editor/lensflare/hexangle.png",
+        "components/map-editor/lensflare/lensflare0.png",
+        "components/map-editor/lensflare/lensflare1.png",
+        "components/map-editor/lensflare/lensflare2.png",
+        "components/map-editor/lensflare/lensflare3.png",
+        "components/map-editor/logo/codemirror.png",
+        "components/map-editor/logo/js.jpg",
+        "components/map-editor/logo/jshint.png",
+        "components/map-editor/logo/nwjs.png",
+        "components/map-editor/logo/pson.png",
+        "components/map-editor/logo/threejs.png",
+        "components/map-editor/logo/webgl.png",
+        "components/map-editor/miptest.dds",
+        "components/map-editor/nunu.c4d",
+        "components/map-editor/nunu.dae",
+        "components/map-editor/nunu.min.js",
+        "components/map-editor/nunu.min.js.LICENSE.txt",
+        "components/map-editor/package.json",
+        "components/map-editor/particle.png",
+        "components/map-editor/runtime/ar.png",
+        "components/map-editor/runtime/cordova.html",
+        "components/map-editor/runtime/fullscreen.png",
+        "components/map-editor/runtime/index.html",
+        "components/map-editor/runtime/logo.png",
+        "components/map-editor/runtime/vr.png",
+        "components/map-editor/sdf/roboto-bold.json",
+        "components/map-editor/sdf/roboto-bold.png",
+        "components/map-editor/sdf/roboto-msdf.json",
+        "components/map-editor/sdf/roboto-msdf.png",
+        "components/map-editor/spritesheet.png",
+        "components/map-editor/styles.css",
+        "components/map-editor/tern.js",
+        "components/map-editor/terrain.png",
+        "components/map-editor/uv_color.jpg",
+        "components/map-editor/uv_simple.jpg",
+        "components/map-editor/wasm/basis/README.md",
+        "components/map-editor/wasm/basis/basis_transcoder.js",
+        "jsconfig.json",
+        "loras/spatial_engine/adapter_config.json",
+        "package-lock.json",
+        "package.json",
+        "webpack.prod.js",
+        "cloud-functions/boot-gpu/train-lora.py",
+        "loras/spatial_engine/dataset/sme-gemini-combos.json",
+        "loras/spatial_engine/dataset/sme-gemini-complex.json",
+        "loras/spatial_engine/dataset/sme-gemini-multiples.json",
+        "loras/spatial_engine/dataset/sme-gemini-negatives.json",
+        "loras/spatial_engine/dataset/sme-gemini-nouns.json",
+        "loras/spatial_engine/dataset/sme-gemini-positional.json",
+        "loras/spatial_engine/dataset/sme-gemini-rooms.json",
+        "loras/spatial_engine/dataset/sme-gemini-scenes.json",
+        "loras/spatial_engine/dataset/sme-gemini-terrain.json"
       ],
       "commits": [
+        {
+          "hash": "5149ccb73a52c313293431d9162c54c69cdce397",
+          "author": "Brian Cullinan",
+          "date": "2026-06-29T05:10:17.000Z",
+          "message": "fixes for object loading on new nunu version, needs overrides for loading screen and bounding box calculation has to wait until its added to scene",
+          "linesAdded": 14,
+          "linesDeleted": 34,
+          "filesChanged": [
+            "components/core/events.js",
+            "components/core/workers.js",
+            "components/map-editor/addons.js",
+            "components/map-editor/bundle.js",
+            "components/map-editor/nunu.css"
+          ]
+        },
+        {
+          "hash": "ac469a55fd2efcf32cc0b8593acb37031ccf8178",
+          "author": "Brian Cullinan",
+          "date": "2026-06-29T04:16:03.000Z",
+          "message": "shit need to fix explorer arrows",
+          "linesAdded": 251,
+          "linesDeleted": 251,
+          "filesChanged": [
+            "components/map-editor/bundle.js",
+            "components/map-editor/nunu.css"
+          ]
+        },
+        {
+          "hash": "719f11f38ce82d6aeb7253973abd1519ed0d0ce5",
+          "author": "Brian Cullinan",
+          "date": "2026-06-29T04:02:39.000Z",
+          "message": "new build of nunu loading, need to rewrite objaverse asset panel",
+          "linesAdded": 14141,
+          "linesDeleted": 337714,
+          "filesChanged": [
+            ".vscode/settings.json",
+            "README.md",
+            "components/core/events.js",
+            "components/core/extensions.js",
+            "components/core/workers.js",
+            "components/map-editor/664.nunu.min.js",
+            "components/map-editor/794.nunu.min.js",
+            "components/map-editor/BlendLoader.js",
+            "components/map-editor/Global.js",
+            "components/map-editor/Q3BSPLoader.js",
+            "components/map-editor/Q3MapLoader.js",
+            "components/map-editor/SpatialLoader.js",
+            "components/map-editor/acorn.js",
+            "components/map-editor/addons.js",
+            "components/map-editor/bundle.js",
+            "components/map-editor/bundle.js.LICENSE.txt",
+            "components/map-editor/bundle.min.js",
+            "components/map-editor/bundle.orig.js",
+            "components/map-editor/codemirror.css",
+            "components/map-editor/codemirror.js",
+            "components/map-editor/default.png",
+            "components/map-editor/default.webm",
+            "components/map-editor/equirectangular_grid.png",
+            "components/map-editor/equirectangular_test.jpg",
+            "components/map-editor/icon.ico",
+            "components/map-editor/icon.png",
+            "components/map-editor/index.html",
+            "components/map-editor/jshint.js",
+            "components/map-editor/jshint.js.LICENSE.txt",
+            "components/map-editor/lensflare/LICENSE.txt",
+            "components/map-editor/lensflare/hexangle.png",
+            "components/map-editor/lensflare/lensflare0.png",
+            "components/map-editor/lensflare/lensflare1.png",
+            "components/map-editor/lensflare/lensflare2.png",
+            "components/map-editor/lensflare/lensflare3.png",
+            "components/map-editor/logo/codemirror.png",
+            "components/map-editor/logo/js.jpg",
+            "components/map-editor/logo/jshint.png",
+            "components/map-editor/logo/nwjs.png",
+            "components/map-editor/logo/pson.png",
+            "components/map-editor/logo/threejs.png",
+            "components/map-editor/logo/webgl.png",
+            "components/map-editor/miptest.dds",
+            "components/map-editor/nunu.c4d",
+            "components/map-editor/nunu.dae",
+            "components/map-editor/nunu.min.js",
+            "components/map-editor/nunu.min.js.LICENSE.txt",
+            "components/map-editor/package.json",
+            "components/map-editor/particle.png",
+            "components/map-editor/runtime/ar.png",
+            "components/map-editor/runtime/cordova.html",
+            "components/map-editor/runtime/fullscreen.png",
+            "components/map-editor/runtime/index.html",
+            "components/map-editor/runtime/logo.png",
+            "components/map-editor/runtime/vr.png",
+            "components/map-editor/sdf/roboto-bold.json",
+            "components/map-editor/sdf/roboto-bold.png",
+            "components/map-editor/sdf/roboto-msdf.json",
+            "components/map-editor/sdf/roboto-msdf.png",
+            "components/map-editor/spritesheet.png",
+            "components/map-editor/styles.css",
+            "components/map-editor/tern.js",
+            "components/map-editor/terrain.png",
+            "components/map-editor/uv_color.jpg",
+            "components/map-editor/uv_simple.jpg",
+            "components/map-editor/wasm/basis/README.md",
+            "components/map-editor/wasm/basis/basis_transcoder.js",
+            "jsconfig.json",
+            "loras/spatial_engine/adapter_config.json",
+            "package-lock.json",
+            "package.json",
+            "webpack.prod.js"
+          ]
+        },
         {
           "hash": "4afa1659adbfb578edb3e2a51068bc14e398a657",
           "author": "Brian Cullinan",
@@ -279,17 +1071,64 @@
           "filesChanged": [
             "cloud-functions/boot-gpu/train-lora.py"
           ]
+        },
+        {
+          "hash": "f3e26873250b8cb5a31a939a3cbbb3118edd94dd",
+          "author": "Brian Cullinan",
+          "date": "2026-06-28T21:54:06.000Z",
+          "message": "better readme",
+          "linesAdded": 9,
+          "linesDeleted": 950,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "ac94cae8897e5bf522e26cbc50ede28c17da15ce",
+          "author": "Brian Cullinan",
+          "date": "2026-06-28T21:46:11.000Z",
+          "message": "better training data, added adjectives, and proper scale towards 1 meter",
+          "linesAdded": 140,
+          "linesDeleted": 166,
+          "filesChanged": [
+            "loras/spatial_engine/dataset/sme-gemini-combos.json",
+            "loras/spatial_engine/dataset/sme-gemini-complex.json",
+            "loras/spatial_engine/dataset/sme-gemini-multiples.json",
+            "loras/spatial_engine/dataset/sme-gemini-negatives.json",
+            "loras/spatial_engine/dataset/sme-gemini-nouns.json",
+            "loras/spatial_engine/dataset/sme-gemini-positional.json",
+            "loras/spatial_engine/dataset/sme-gemini-rooms.json",
+            "loras/spatial_engine/dataset/sme-gemini-scenes.json",
+            "loras/spatial_engine/dataset/sme-gemini-terrain.json"
+          ]
         }
       ]
     },
-    "2026-06-26": {
-      "date": "2026-06-26",
-      "heatScore": 11,
-      "linesChanged": 16,
-      "commitCount": 1,
+    "2026-06-25": {
+      "date": "2026-06-25",
+      "heatScore": 100,
+      "linesChanged": 2549,
+      "commitCount": 3,
       "filesEdited": [
         "components/map-editor/Q3BSPLoader.js",
-        "components/map-editor/addons.js"
+        "components/map-editor/addons.js",
+        "components/map-editor/BlendLoader.js",
+        "components/map-editor/SpatialLoader.js",
+        "components/map-editor/bundle.js",
+        "components/core/utilities.js",
+        "components/core/workers.js",
+        "components/llm-workers/convert/create-parquet.js",
+        "components/llm-workers/convert/headless-geometry.js",
+        "components/map-editor/MinecraftExporter.js",
+        "components/map-editor/loading.png",
+        "components/map-editor/nunu.css",
+        "components/map-editor/wasm/basis/basis_transcoder.js",
+        "components/map-editor/wasm/basis/basis_transcoder.wasm",
+        "components/map-editor/wasm/draco/draco_decoder.wasm",
+        "components/map-editor/wasm/draco/draco_wasm_wrapper.js",
+        "components/sfm-processor/minecraft-store.md",
+        "components/sfm-processor/pyodide-integrate.md",
+        "loras/spatial_engine/objaverse-download.py"
       ],
       "commits": [
         {
@@ -303,21 +1142,7 @@
             "components/map-editor/Q3BSPLoader.js",
             "components/map-editor/addons.js"
           ]
-        }
-      ]
-    },
-    "2026-06-25": {
-      "date": "2026-06-25",
-      "heatScore": 58,
-      "linesChanged": 721,
-      "commitCount": 1,
-      "filesEdited": [
-        "components/map-editor/BlendLoader.js",
-        "components/map-editor/SpatialLoader.js",
-        "components/map-editor/addons.js",
-        "components/map-editor/bundle.js"
-      ],
-      "commits": [
+        },
         {
           "hash": "ca1db1df94348b4d04272d980b6e0c784f230d8f",
           "author": "Brian Cullinan",
@@ -331,19 +1156,193 @@
             "components/map-editor/addons.js",
             "components/map-editor/bundle.js"
           ]
+        },
+        {
+          "hash": "21c4b3d849313f8d792e8cddbc0343538dbed7d6",
+          "author": "Brian Cullinan",
+          "date": "2026-06-25T17:49:46.000Z",
+          "message": "ok, this will work, needs UX hookup, loading into assets panel instead of into scene.",
+          "linesAdded": 1716,
+          "linesDeleted": 96,
+          "filesChanged": [
+            "components/core/utilities.js",
+            "components/core/workers.js",
+            "components/llm-workers/convert/create-parquet.js",
+            "components/llm-workers/convert/headless-geometry.js",
+            "components/map-editor/MinecraftExporter.js",
+            "components/map-editor/addons.js",
+            "components/map-editor/bundle.js",
+            "components/map-editor/loading.png",
+            "components/map-editor/nunu.css",
+            "components/map-editor/wasm/basis/basis_transcoder.js",
+            "components/map-editor/wasm/basis/basis_transcoder.wasm",
+            "components/map-editor/wasm/draco/draco_decoder.wasm",
+            "components/map-editor/wasm/draco/draco_wasm_wrapper.js",
+            "components/sfm-processor/minecraft-store.md",
+            "components/sfm-processor/pyodide-integrate.md",
+            "loras/spatial_engine/objaverse-download.py"
+          ]
         }
       ]
     },
     "2026-06-24": {
       "date": "2026-06-24",
-      "heatScore": 10,
-      "linesChanged": 11,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 102319,
+      "commitCount": 16,
       "filesEdited": [
+        "components/map-editor/MinecraftExporter.js",
+        "components/core/workers.js",
+        "components/llm-workers/convert/convert-worker.js",
+        "components/llm-workers/downloader.js",
+        "components/map-editor/bundle.js",
+        "client.js",
+        "components/core/menu.css",
+        "components/core/menu.js",
+        "components/core/modules.js",
+        "components/llm-workers/wllama/worker.js",
+        "components/map-editor/nunu.css",
+        "index.html",
+        "server/server.js",
+        "service-worker.js",
+        "components/theme/boxicons-brands.min.css",
+        "main.css",
         "components/llm-workers/objaverse/catalog-worker.js",
-        "components/llm-workers/objaverse/duckdb-browser-eh.worker.js"
+        "components/llm-workers/objaverse/duckdb-browser-eh.worker.js",
+        "components/core/cluster.js",
+        "components/core/events.js",
+        "components/core/extensions.js",
+        "components/core/settings.js",
+        "components/core/utilities.js",
+        "components/llm-workers/objaverse/duckdb-browser-eh.worker.min.js",
+        "components/llm-workers/objaverse/duckdb-browser-eh.worker.orig.js",
+        "components/map-editor/SpatialLoader.js",
+        "components/map-editor/addons.js",
+        "components/sfm-processor/convert-model.md",
+        "components/map-editor/Q3BSPLoader.js",
+        "3rdparty/duckdb-wasm-1.33.0.zip",
+        "components/llm-workers/objaverse/duckdb-browser-blocking.cjs",
+        "components/llm-workers/objaverse/duckdb-browser-blocking.cjs.map",
+        "components/llm-workers/objaverse/duckdb-browser-blocking.d.ts",
+        "components/llm-workers/objaverse/duckdb-browser-blocking.mjs",
+        "components/llm-workers/objaverse/duckdb-browser-blocking.mjs.map",
+        "components/llm-workers/objaverse/duckdb-browser-coi.pthread.worker.js",
+        "components/llm-workers/objaverse/duckdb-browser-coi.pthread.worker.js.map",
+        "components/llm-workers/objaverse/duckdb-browser-coi.worker.js",
+        "components/llm-workers/objaverse/duckdb-browser-coi.worker.js.map",
+        "components/llm-workers/objaverse/duckdb-browser-eh.worker.js.map",
+        "components/llm-workers/objaverse/duckdb-browser-mvp.worker.js",
+        "components/llm-workers/objaverse/duckdb-browser.cjs",
+        "components/llm-workers/objaverse/duckdb-browser.cjs.map",
+        "components/llm-workers/objaverse/duckdb-browser.d.ts",
+        "components/llm-workers/objaverse/duckdb-browser.mjs",
+        "components/llm-workers/objaverse/duckdb-browser.mjs.map",
+        "components/llm-workers/objaverse/duckdb-browser.orig.mjs",
+        "components/llm-workers/objaverse/duckdb-coi.wasm",
+        "components/llm-workers/objaverse/duckdb-eh.wasm",
+        "components/llm-workers/objaverse/duckdb-mvp.wasm",
+        "components/llm-workers/objaverse/v1.4.3/wasm_eh/parquet.duckdb_extension.wasm",
+        "components/llm-workers/objaverse/v1.4.3/wasm_threads/parquet.duckdb_extension.wasm",
+        "components/llm-workers/objaverse/apache-arrow.min.mjs",
+        "components/llm-workers/objaverse/apache-arrow.mjs",
+        "components/llm-workers/objaverse/apache-arrow.orig.mjs",
+        "components/llm-workers/objaverse/duckdb-browser.min.mjs",
+        "components/llm-workers/objaverse/flatbuffers.mjs",
+        "components/llm-workers/objaverse/parquet.duckdb_extension.wasm",
+        "components/llm-workers/objaverse/tslib.mjs",
+        "loras/spatial_engine/objaverse-download.py",
+        "3rdparty/assimp-cf7d36376658891c5abb0e9fb4fde8ee45be1db3.zip",
+        "3rdparty/assimpjs-main.zip",
+        "setup/setup.js",
+        "womp.LICENSE"
       ],
       "commits": [
+        {
+          "hash": "c3c98813ceb4ef319368569ec10fb96c1dd13681",
+          "author": "Brian Cullinan",
+          "date": "2026-06-25T05:19:34.000Z",
+          "message": "Add MinecraftExporter for voxelizing Three.js scenes",
+          "linesAdded": 97,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "components/map-editor/MinecraftExporter.js"
+          ]
+        },
+        {
+          "hash": "66203328e520b99c3e1afd70fd1280f96b707fc8",
+          "author": "Brian Cullinan",
+          "date": "2026-06-25T04:39:12.000Z",
+          "message": "loading models dynamically from github and objaverse into nunu",
+          "linesAdded": 26,
+          "linesDeleted": 47,
+          "filesChanged": [
+            "components/core/workers.js",
+            "components/llm-workers/convert/convert-worker.js",
+            "components/llm-workers/downloader.js",
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "8e77dfaf791b3f66d87aa71ffa14584fc008a757",
+          "author": "Brian Cullinan",
+          "date": "2026-06-25T03:40:46.000Z",
+          "message": "hax",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "components/map-editor/bundle.js"
+          ]
+        },
+        {
+          "hash": "5fdcd56f26b2ea4103ddd993af92444cac855a27",
+          "author": "Brian Cullinan",
+          "date": "2026-06-25T03:37:25.000Z",
+          "message": "almost have a bunch of models loaded",
+          "linesAdded": 463,
+          "linesDeleted": 58,
+          "filesChanged": [
+            "client.js",
+            "components/core/menu.css",
+            "components/core/menu.js",
+            "components/core/modules.js",
+            "components/core/workers.js",
+            "components/llm-workers/convert/convert-worker.js",
+            "components/llm-workers/downloader.js",
+            "components/llm-workers/wllama/worker.js",
+            "components/map-editor/nunu.css",
+            "index.html",
+            "server/server.js",
+            "service-worker.js"
+          ]
+        },
+        {
+          "hash": "189fa6f152bdb0158ff86401a589aa975d8edad6",
+          "author": "Brian Cullinan",
+          "date": "2026-06-25T00:21:13.000Z",
+          "message": "possible fix for offline mode, probably still needs a bunch of service worker dependencies added to the list",
+          "linesAdded": 2,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "service-worker.js"
+          ]
+        },
+        {
+          "hash": "8a485e2b574cc8bc4cac782da71d610fc6df1d6c",
+          "author": "Brian Cullinan",
+          "date": "2026-06-25T00:16:55.000Z",
+          "message": "menu fixes",
+          "linesAdded": 1322,
+          "linesDeleted": 50,
+          "filesChanged": [
+            "client.js",
+            "components/core/menu.css",
+            "components/core/menu.js",
+            "components/core/workers.js",
+            "components/theme/boxicons-brands.min.css",
+            "index.html",
+            "main.css"
+          ]
+        },
         {
           "hash": "e5b7ba5df2a3a97c223e0f721f8185fe52e054f9",
           "author": "Brian Cullinan",
@@ -355,28 +1354,320 @@
             "components/llm-workers/objaverse/catalog-worker.js",
             "components/llm-workers/objaverse/duckdb-browser-eh.worker.js"
           ]
+        },
+        {
+          "hash": "4e64ee826bd5beb77ab9a50bc5de1c06bf800fe0",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T22:01:48.000Z",
+          "message": "need to asyncify openFile inside duckDB so i can cancel long google cloud requests",
+          "linesAdded": 73570,
+          "linesDeleted": 1394,
+          "filesChanged": [
+            "client.js",
+            "components/core/cluster.js",
+            "components/core/events.js",
+            "components/core/extensions.js",
+            "components/core/settings.js",
+            "components/core/utilities.js",
+            "components/core/workers.js",
+            "components/llm-workers/convert/convert-worker.js",
+            "components/llm-workers/objaverse/duckdb-browser-eh.worker.js",
+            "components/llm-workers/objaverse/duckdb-browser-eh.worker.min.js",
+            "components/llm-workers/objaverse/duckdb-browser-eh.worker.orig.js",
+            "components/llm-workers/wllama/worker.js",
+            "components/map-editor/SpatialLoader.js",
+            "components/map-editor/addons.js",
+            "components/sfm-processor/convert-model.md"
+          ]
+        },
+        {
+          "hash": "1ba717cc4cb4187dec2f4199e06642d18976d42d",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T19:24:56.000Z",
+          "message": "going to need a bunch more nunu extensions",
+          "linesAdded": 305,
+          "linesDeleted": 192,
+          "filesChanged": [
+            "components/core/extensions.js",
+            "components/map-editor/Q3BSPLoader.js",
+            "components/map-editor/addons.js"
+          ]
+        },
+        {
+          "hash": "c16562520a187c722866c5de1c538ff886eddd1b",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T18:54:26.000Z",
+          "message": "working remote parquet search, needs UX",
+          "linesAdded": 93,
+          "linesDeleted": 43,
+          "filesChanged": [
+            "3rdparty/duckdb-wasm-1.33.0.zip",
+            "client.js",
+            "components/llm-workers/objaverse/catalog-worker.js",
+            "components/llm-workers/objaverse/duckdb-browser-blocking.cjs",
+            "components/llm-workers/objaverse/duckdb-browser-blocking.cjs.map",
+            "components/llm-workers/objaverse/duckdb-browser-blocking.d.ts",
+            "components/llm-workers/objaverse/duckdb-browser-blocking.mjs",
+            "components/llm-workers/objaverse/duckdb-browser-blocking.mjs.map",
+            "components/llm-workers/objaverse/duckdb-browser-coi.pthread.worker.js",
+            "components/llm-workers/objaverse/duckdb-browser-coi.pthread.worker.js.map",
+            "components/llm-workers/objaverse/duckdb-browser-coi.worker.js",
+            "components/llm-workers/objaverse/duckdb-browser-coi.worker.js.map",
+            "components/llm-workers/objaverse/duckdb-browser-eh.worker.js",
+            "components/llm-workers/objaverse/duckdb-browser-eh.worker.js.map",
+            "components/llm-workers/objaverse/duckdb-browser-mvp.worker.js",
+            "components/llm-workers/objaverse/duckdb-browser.cjs",
+            "components/llm-workers/objaverse/duckdb-browser.cjs.map",
+            "components/llm-workers/objaverse/duckdb-browser.d.ts",
+            "components/llm-workers/objaverse/duckdb-browser.mjs",
+            "components/llm-workers/objaverse/duckdb-browser.mjs.map",
+            "components/llm-workers/objaverse/duckdb-browser.orig.mjs",
+            "components/llm-workers/objaverse/duckdb-coi.wasm",
+            "components/llm-workers/objaverse/duckdb-eh.wasm",
+            "components/llm-workers/objaverse/duckdb-mvp.wasm",
+            "components/llm-workers/objaverse/v1.4.3/wasm_eh/parquet.duckdb_extension.wasm",
+            "components/llm-workers/objaverse/v1.4.3/wasm_threads/parquet.duckdb_extension.wasm"
+          ]
+        },
+        {
+          "hash": "aa4779910fe85c00a19f7a541492259c26fb360f",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T18:08:55.000Z",
+          "message": "trying to get parquet loaded in duckdb",
+          "linesAdded": 24256,
+          "linesDeleted": 32,
+          "filesChanged": [
+            "client.js",
+            "components/core/events.js",
+            "components/llm-workers/objaverse/apache-arrow.min.mjs",
+            "components/llm-workers/objaverse/apache-arrow.mjs",
+            "components/llm-workers/objaverse/apache-arrow.orig.mjs",
+            "components/llm-workers/objaverse/catalog-worker.js",
+            "components/llm-workers/objaverse/duckdb-browser-coi.worker.js",
+            "components/llm-workers/objaverse/duckdb-browser.min.mjs",
+            "components/llm-workers/objaverse/duckdb-browser.mjs",
+            "components/llm-workers/objaverse/duckdb-browser.orig.mjs",
+            "components/llm-workers/objaverse/flatbuffers.mjs",
+            "components/llm-workers/objaverse/parquet.duckdb_extension.wasm",
+            "components/llm-workers/objaverse/tslib.mjs",
+            "loras/spatial_engine/objaverse-download.py"
+          ]
+        },
+        {
+          "hash": "059bb02ecbe834050d5161de7e589c847490a2a3",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T16:52:35.000Z",
+          "message": "working on getting objaverse search working inside nunu asset panel for immediate insertion",
+          "linesAdded": 191,
+          "linesDeleted": 27,
+          "filesChanged": [
+            "client.js",
+            "components/llm-workers/downloader.js",
+            "components/llm-workers/objaverse/catalog-worker.js",
+            "components/map-editor/bundle.js",
+            "components/map-editor/nunu.css"
+          ]
+        },
+        {
+          "hash": "c0b7874e5d546034f0895687affcb2fd47f1fcf2",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T15:45:10.000Z",
+          "message": "template string fixes",
+          "linesAdded": 5,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "components/llm-workers/downloader.js"
+          ]
+        },
+        {
+          "hash": "b24953749df75853faae4a40450aafc7f16f73a3",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T15:43:30.000Z",
+          "message": "whoops, have to stop doing that, template strings calling a function is the weird js i've ever seen",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/llm-workers/downloader.js"
+          ]
+        },
+        {
+          "hash": "91fbd7453b51581c50cddc5043376d3f2eeb23f5",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T15:24:32.000Z",
+          "message": "added alternate paths for public client to get lora",
+          "linesAdded": 4,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "components/llm-workers/downloader.js"
+          ]
+        },
+        {
+          "hash": "fc7270f6ee3fa8f36f3fa340e4fd4a331348f536",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T15:10:01.000Z",
+          "message": "womp license",
+          "linesAdded": 119,
+          "linesDeleted": 5,
+          "filesChanged": [
+            "3rdparty/assimp-cf7d36376658891c5abb0e9fb4fde8ee45be1db3.zip",
+            "3rdparty/assimpjs-main.zip",
+            "loras/spatial_engine/objaverse-download.py",
+            "setup/setup.js",
+            "womp.LICENSE"
+          ]
         }
       ]
     },
     "2026-06-23": {
       "date": "2026-06-23",
       "heatScore": 100,
-      "linesChanged": 1449,
-      "commitCount": 1,
+      "linesChanged": 8222,
+      "commitCount": 7,
       "filesEdited": [
+        "{theme => components/theme}/boxicons-brands.min.css",
+        "{theme => components/theme}/boxicons-brands.ttf",
+        "{theme => components/theme}/boxicons-brands.woff",
+        "{theme => components/theme}/boxicons-brands.woff2",
+        "components/theme/boxicons.min.css",
+        "cors.json",
+        "main.css",
+        "setup/setup.css",
+        "theme/boxicons.css",
+        "theme/boxicons.min.css",
+        "theme/boxicons.ttf",
+        "theme/boxicons.woff",
+        "theme/boxicons.woff2",
+        "components/llm-workers/objaverse/catalog-worker.js",
+        "components/llm-workers/objaverse/duckdb-browser-coi.pthread.worker.js",
+        "components/llm-workers/objaverse/duckdb-browser-coi.pthread.worker.js.map",
+        "components/llm-workers/objaverse/duckdb-browser-coi.worker.js.map",
+        "components/llm-workers/objaverse/duckdb-browser-eh.worker.js",
+        "components/llm-workers/objaverse/duckdb-browser-eh.worker.js.map",
+        "components/llm-workers/objaverse/duckdb-browser-mvp.worker.js",
+        "components/llm-workers/objaverse/duckdb-browser.cjs",
+        "components/llm-workers/objaverse/duckdb-browser.cjs.map",
+        "components/llm-workers/objaverse/duckdb-browser.mjs",
+        "components/llm-workers/objaverse/duckdb-browser.mjs.map",
+        "components/llm-workers/objaverse/duckdb-coi.wasm",
+        "components/llm-workers/objaverse/duckdb-eh.wasm",
+        "components/llm-workers/objaverse/duckdb-mvp.wasm",
+        "components/llm-workers/wllama/worker.js",
+        "loras/spatial_engine/model-vision.py",
+        "README.md",
+        "components/sfm-processor/log.txt",
+        "loras/spatial_engine/dataset/sme-gemini-positional.json",
+        "Screenshot 2026-06-23 124851.png",
+        "client.js",
+        "components/sfm-processor/feature-snip.py",
+        "components/sfm-processor/reconstruct_banana.py",
         ".gitignore",
         "3rdparty/segment-anything-main.zip",
         "3rdparty/stable-diffusion-webui-rembg-master.zip",
-        "README.md",
-        "client.js",
         "components/core/events.js",
         "components/llm-workers/onnx/worker.js",
         "components/sfm-processor/decompiling.md",
-        "components/sfm-processor/feature-snip.js",
-        "components/sfm-processor/feature-snip.py",
-        "components/sfm-processor/reconstruct_banana.py"
+        "components/sfm-processor/feature-snip.js"
       ],
       "commits": [
+        {
+          "hash": "3a247f6df13998cc82d86446bac565555bf6e5b6",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T05:41:18.000Z",
+          "message": "small redundant files and cors update",
+          "linesAdded": 9,
+          "linesDeleted": 5793,
+          "filesChanged": [
+            "{theme => components/theme}/boxicons-brands.min.css",
+            "{theme => components/theme}/boxicons-brands.ttf",
+            "{theme => components/theme}/boxicons-brands.woff",
+            "{theme => components/theme}/boxicons-brands.woff2",
+            "components/theme/boxicons.min.css",
+            "cors.json",
+            "main.css",
+            "setup/setup.css",
+            "theme/boxicons.css",
+            "theme/boxicons.min.css",
+            "theme/boxicons.ttf",
+            "theme/boxicons.woff",
+            "theme/boxicons.woff2"
+          ]
+        },
+        {
+          "hash": "d6ae90134f6a1df5148ba11c06a56ff12bc8883e",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T05:27:15.000Z",
+          "message": "adding duckdb to remote search objaverse hosting",
+          "linesAdded": 134,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "components/llm-workers/objaverse/catalog-worker.js",
+            "components/llm-workers/objaverse/duckdb-browser-coi.pthread.worker.js",
+            "components/llm-workers/objaverse/duckdb-browser-coi.pthread.worker.js.map",
+            "components/llm-workers/objaverse/duckdb-browser-coi.worker.js.map",
+            "components/llm-workers/objaverse/duckdb-browser-eh.worker.js",
+            "components/llm-workers/objaverse/duckdb-browser-eh.worker.js.map",
+            "components/llm-workers/objaverse/duckdb-browser-mvp.worker.js",
+            "components/llm-workers/objaverse/duckdb-browser.cjs",
+            "components/llm-workers/objaverse/duckdb-browser.cjs.map",
+            "components/llm-workers/objaverse/duckdb-browser.mjs",
+            "components/llm-workers/objaverse/duckdb-browser.mjs.map",
+            "components/llm-workers/objaverse/duckdb-coi.wasm",
+            "components/llm-workers/objaverse/duckdb-eh.wasm",
+            "components/llm-workers/objaverse/duckdb-mvp.wasm"
+          ]
+        },
+        {
+          "hash": "807537242c646cb1ad87b84c325ea32f7e87a4e2",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T04:34:34.000Z",
+          "message": "possible vision pipe in web worker",
+          "linesAdded": 42,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/llm-workers/wllama/worker.js",
+            "main.css"
+          ]
+        },
+        {
+          "hash": "dbf8b40c73ff7f3b154c3d68d11768513c1b850a",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T04:17:57.000Z",
+          "message": "working gguf and vlm tensors model describer",
+          "linesAdded": 95,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "loras/spatial_engine/model-vision.py"
+          ]
+        },
+        {
+          "hash": "1a7159273eb06f337c303178d0ea8d1692a6d02a",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T03:28:08.000Z",
+          "message": "working smolvlm script",
+          "linesAdded": 161,
+          "linesDeleted": 79,
+          "filesChanged": [
+            "README.md",
+            "components/sfm-processor/log.txt",
+            "loras/spatial_engine/dataset/sme-gemini-positional.json",
+            "loras/spatial_engine/model-vision.py"
+          ]
+        },
+        {
+          "hash": "8a11aebc46581801870014e050d1ec9191f4f00e",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T00:45:11.000Z",
+          "message": "none of this shit works",
+          "linesAdded": 351,
+          "linesDeleted": 107,
+          "filesChanged": [
+            "Screenshot 2026-06-23 124851.png",
+            "client.js",
+            "components/sfm-processor/feature-snip.py",
+            "components/sfm-processor/log.txt",
+            "components/sfm-processor/reconstruct_banana.py"
+          ]
+        },
         {
           "hash": "3174dbd9568ff97bce3e652a61deadf6a585b4a7",
           "author": "Brian Cullinan",
@@ -403,9 +1694,19 @@
     "2026-06-22": {
       "date": "2026-06-22",
       "heatScore": 100,
-      "linesChanged": 1896,
-      "commitCount": 1,
+      "linesChanged": 29121,
+      "commitCount": 8,
       "filesEdited": [
+        "components/sfm-processor/decompiling.md",
+        "components/sfm-processor/index.js",
+        "index.html",
+        "main.css",
+        "components/map-editor/SFMLoader.js",
+        "components/sfm-processor/minecraft-store.md",
+        "components/sfm-processor/geometry_kernels.simd.wat",
+        "components/sfm-processor/piexif.js",
+        "components/sfm-processor/reverse-webpack.txt",
+        "components/sfm-processor/web-lidar.js",
         "README.md",
         "Screenshot 2026-06-22 133059.png",
         "Screenshot 2026-06-22 133929.png",
@@ -419,15 +1720,83 @@
         "components/map-editor/bundle.js",
         "components/map-editor/nunu.css",
         "components/map-editor/styles.css",
-        "index.html",
-        "main.css",
         "setup/index.html",
         "setup/setup-client.js",
         "setup/setup-local.js",
         "setup/setup.css",
-        "setup/setup.js"
+        "setup/setup.js",
+        "cloud-functions/cluster-manager/cloud-manager.js",
+        "cloud-functions/cluster-manager/host-google.js",
+        "cloud-functions/cluster-manager/host-runlocal.js",
+        "cloud-functions/cluster-manager/host-runpod.js",
+        "components/llm-workers/downloader.js"
       ],
       "commits": [
+        {
+          "hash": "427731dd92476705239792361abda190bea75d3c",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T06:29:02.000Z",
+          "message": "sfm need background threading and a dozen UI fixes",
+          "linesAdded": 302,
+          "linesDeleted": 23,
+          "filesChanged": [
+            "components/sfm-processor/decompiling.md",
+            "components/sfm-processor/index.js",
+            "index.html",
+            "main.css"
+          ]
+        },
+        {
+          "hash": "795177b9031bce019ef6e75cc1ed03e04044853b",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T05:31:37.000Z",
+          "message": "minecraft server instructions don't work on ps5 anymore, so that idea is out.",
+          "linesAdded": 617,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "components/map-editor/SFMLoader.js",
+            "components/sfm-processor/decompiling.md",
+            "components/sfm-processor/minecraft-store.md"
+          ]
+        },
+        {
+          "hash": "0bea17b5dfac38c29719765723af11313f333b69",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T00:52:11.000Z",
+          "message": "minecraft world building instructions",
+          "linesAdded": 298,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "components/sfm-processor/minecraft-store.md"
+          ]
+        },
+        {
+          "hash": "6b9082105c7826e7d50de128b33c7ec0f9b890a6",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T00:47:18.000Z",
+          "message": "minecraft instructions i have a lot of code to go through",
+          "linesAdded": 473,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "components/sfm-processor/decompiling.md",
+            "components/sfm-processor/minecraft-store.md"
+          ]
+        },
+        {
+          "hash": "e177f68acdda399c272e65d62047255ec92fbc8c",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T00:19:27.000Z",
+          "message": "trying to get sfm working",
+          "linesAdded": 24525,
+          "linesDeleted": 54,
+          "filesChanged": [
+            "components/sfm-processor/decompiling.md",
+            "components/sfm-processor/geometry_kernels.simd.wat",
+            "components/sfm-processor/piexif.js",
+            "components/sfm-processor/reverse-webpack.txt",
+            "components/sfm-processor/web-lidar.js"
+          ]
+        },
         {
           "hash": "93d39d7f0359d2fd83626a43d316e475f66ef757",
           "author": "Brian Cullinan",
@@ -457,20 +1826,586 @@
             "setup/setup.css",
             "setup/setup.js"
           ]
+        },
+        {
+          "hash": "abbdf25f46b3f92fc31bfe4ae2a67cf3482dfaab",
+          "author": "Brian Cullinan",
+          "date": "2026-06-22T17:15:36.000Z",
+          "message": "adding run local because cloud providers are bastards",
+          "linesAdded": 787,
+          "linesDeleted": 100,
+          "filesChanged": [
+            "cloud-functions/cluster-manager/cloud-manager.js",
+            "cloud-functions/cluster-manager/host-google.js",
+            "cloud-functions/cluster-manager/host-runlocal.js",
+            "cloud-functions/cluster-manager/host-runpod.js",
+            "setup/index.html",
+            "setup/setup-client.js",
+            "setup/setup-local.js",
+            "setup/setup.css",
+            "setup/setup.js"
+          ]
+        },
+        {
+          "hash": "75bea501be51adba87615813210ebf26518cbd41",
+          "author": "Brian Cullinan",
+          "date": "2026-06-22T14:05:44.000Z",
+          "message": "small bug fix, today i need nunu and cloud functions",
+          "linesAdded": 31,
+          "linesDeleted": 15,
+          "filesChanged": [
+            "client.js",
+            "components/llm-workers/downloader.js",
+            "index.html",
+            "main.css"
+          ]
         }
       ]
     },
     "2026-06-21": {
       "date": "2026-06-21",
-      "heatScore": 11,
-      "linesChanged": 17,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 429476,
+      "commitCount": 11,
       "filesEdited": [
-        "client.js",
+        "components/core/events.js",
+        "components/core/github.js",
+        "components/core/local.js",
+        "components/core/modules.js",
+        "components/llm-workers/wllama/worker.js",
+        "components/sfm-processor/geometry_kernels.simd.wasm",
+        "components/sfm-processor/index.css",
+        "components/sfm-processor/index.js",
+        "components/sfm-processor/index.orig.js",
+        "components/sfm-processor/python-app.js",
+        "components/sfm-processor/storage.worker.js",
+        "components/sfm-processor/three-webgpu.js",
+        "cors.json",
         "index.html",
-        "main.css"
+        "main.css",
+        "service-worker.js",
+        "setup/setup.css",
+        "client.js",
+        "components/core/extensions.js",
+        "local.js => components/core/local.js",
+        "components/core/settings.js",
+        "components/core/sys_fs.js",
+        "{llm-workers => components/llm-workers}/downloader.js",
+        "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.asyncify.mjs",
+        "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.asyncify.wasm",
+        "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.jsep.mjs",
+        "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.jsep.wasm",
+        "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.mjs",
+        "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.wasm",
+        "{llm-workers => components/llm-workers}/onnx/ort.webgpu.bundle.min.mjs",
+        "{llm-workers => components/llm-workers}/onnx/ort.webgpu.bundle.min.mjs.map",
+        "{llm-workers => components/llm-workers}/onnx/ort.webgpu.js",
+        "{llm-workers => components/llm-workers}/onnx/ort.webgpu.min.js",
+        "{llm-workers => components/llm-workers}/onnx/ort.webgpu.min.js.map",
+        "{llm-workers => components/llm-workers}/onnx/ort.webgpu.min.mjs",
+        "{llm-workers => components/llm-workers}/onnx/ort.webgpu.min.mjs.map",
+        "{llm-workers => components/llm-workers}/onnx/ort.webgpu.mjs",
+        "{llm-workers => components/llm-workers}/onnx/transformers.js",
+        "{llm-workers => components/llm-workers}/onnx/transformers.js.map",
+        "{llm-workers => components/llm-workers}/onnx/transformers.min.js",
+        "{llm-workers => components/llm-workers}/onnx/transformers.min.js.map",
+        "{llm-workers => components/llm-workers}/onnx/web-tokenizers.js",
+        "{llm-workers => components/llm-workers}/onnx/worker.js",
+        "{llm-workers => components/llm-workers}/wllama/index.js",
+        "{llm-workers => components/llm-workers}/wllama/index.min.js",
+        "{llm-workers => components/llm-workers}/wllama/index.min.js.map",
+        "{llm-workers => components/llm-workers}/wllama/wllama.wasm",
+        "{llm-workers => components/llm-workers}/wllama/worker.js",
+        "components/map-editor/Q3BSPLoader.js",
+        "components/map-editor/Q3BSPLoader.module.js",
+        "components/map-editor/Q3MapLoader.js",
+        "components/map-editor/acorn.js",
+        "components/map-editor/alpha.png",
+        "components/map-editor/bundle.js",
+        "components/map-editor/bundle.min.js",
+        "components/map-editor/bundle.orig.js",
+        "components/map-editor/camera/cube.psd",
+        "components/map-editor/camera/xNeg.png",
+        "components/map-editor/camera/xPos.png",
+        "components/map-editor/camera/yNeg.png",
+        "components/map-editor/camera/yPos.png",
+        "components/map-editor/camera/zNeg.png",
+        "components/map-editor/camera/zPos.png",
+        "components/map-editor/codemirror.css",
+        "components/map-editor/codemirror.js",
+        "components/map-editor/default.json",
+        "components/map-editor/default.mp3",
+        "components/map-editor/draco_encoder.js",
+        "components/map-editor/icons/camera/camera.png",
+        "components/map-editor/icons/camera/orthographic.png",
+        "components/map-editor/icons/camera/prespective.png",
+        "components/map-editor/icons/gltf.png",
+        "components/map-editor/icons/hw/hw.png",
+        "components/map-editor/icons/hw/kinect.png",
+        "components/map-editor/icons/hw/leap.png",
+        "components/map-editor/icons/hw/qr.png",
+        "components/map-editor/icons/hw/webcam.png",
+        "components/map-editor/icons/lights/ambient.png",
+        "components/map-editor/icons/lights/directional.png",
+        "components/map-editor/icons/lights/hemisphere.png",
+        "components/map-editor/icons/lights/point.png",
+        "components/map-editor/icons/lights/rectarea.png",
+        "components/map-editor/icons/lights/sky.png",
+        "components/map-editor/icons/lights/spot.png",
+        "components/map-editor/icons/math/divide.png",
+        "components/map-editor/icons/math/multiply.png",
+        "components/map-editor/icons/math/percent.png",
+        "components/map-editor/icons/math/plus.png",
+        "components/map-editor/icons/math/subtract.png",
+        "components/map-editor/icons/misc/2d.png",
+        "components/map-editor/icons/misc/3d.png",
+        "components/map-editor/icons/misc/about.png",
+        "components/map-editor/icons/misc/add.png",
+        "components/map-editor/icons/misc/animation.png",
+        "components/map-editor/icons/misc/ar.png",
+        "components/map-editor/icons/misc/arrow_down.png",
+        "components/map-editor/icons/misc/arrow_left.png",
+        "components/map-editor/icons/misc/arrow_right.png",
+        "components/map-editor/icons/misc/audio.png",
+        "components/map-editor/icons/misc/audio_positional.png",
+        "components/map-editor/icons/misc/bone.png",
+        "components/map-editor/icons/misc/canvas.png",
+        "components/map-editor/icons/misc/check.png",
+        "components/map-editor/icons/misc/close.png",
+        "components/map-editor/icons/misc/code.png",
+        "components/map-editor/icons/misc/connection.png",
+        "components/map-editor/icons/misc/console.png",
+        "components/map-editor/icons/misc/container.png",
+        "components/map-editor/icons/misc/controller.png",
+        "components/map-editor/icons/misc/copy.png",
+        "components/map-editor/icons/misc/crosshair.png",
+        "components/map-editor/icons/misc/cube.png",
+        "components/map-editor/icons/misc/cut.png",
+        "components/map-editor/icons/misc/delete.png",
+        "components/map-editor/icons/misc/exit.png",
+        "components/map-editor/icons/misc/export.png",
+        "components/map-editor/icons/misc/file.png",
+        "components/map-editor/icons/misc/flare.png",
+        "components/map-editor/icons/misc/focus.png",
+        "components/map-editor/icons/misc/folder.png",
+        "components/map-editor/icons/misc/font.png",
+        "components/map-editor/icons/misc/freemove.png",
+        "components/map-editor/icons/misc/fullscreen.png",
+        "components/map-editor/icons/misc/grid.png",
+        "components/map-editor/icons/misc/hierarchy.png",
+        "components/map-editor/icons/misc/image.png",
+        "components/map-editor/icons/misc/import.png",
+        "components/map-editor/icons/misc/interface.png",
+        "components/map-editor/icons/misc/intersect.png",
+        "components/map-editor/icons/misc/js.png",
+        "components/map-editor/icons/misc/layout.png",
+        "components/map-editor/icons/misc/load.png",
+        "components/map-editor/icons/misc/lod.png",
+        "components/map-editor/icons/misc/magnifier.png",
+        "components/map-editor/icons/misc/material.png",
+        "components/map-editor/icons/misc/menu.png",
+        "components/map-editor/icons/misc/mic.png",
+        "components/map-editor/icons/misc/mirror.png",
+        "components/map-editor/icons/misc/more.png",
+        "components/map-editor/icons/misc/new.png",
+        "components/map-editor/icons/misc/nodes.png",
+        "components/map-editor/icons/misc/orbit.png",
+        "components/map-editor/icons/misc/padlock.png",
+        "components/map-editor/icons/misc/particles.png",
+        "components/map-editor/icons/misc/paste.png",
+        "components/map-editor/icons/misc/pause.png",
+        "components/map-editor/icons/misc/physics.png",
+        "components/map-editor/icons/misc/play.png",
+        "components/map-editor/icons/misc/probe.png",
+        "components/map-editor/icons/misc/publish.png",
+        "components/map-editor/icons/misc/question.png",
+        "components/map-editor/icons/misc/redo.png",
+        "components/map-editor/icons/misc/rotate.png",
+        "components/map-editor/icons/misc/ruler.png",
+        "components/map-editor/icons/misc/save.png",
+        "components/map-editor/icons/misc/scene.png",
+        "components/map-editor/icons/misc/search.png",
+        "components/map-editor/icons/misc/settings.png",
+        "components/map-editor/icons/misc/skeleton.png",
+        "components/map-editor/icons/misc/speedometer.png",
+        "components/map-editor/icons/misc/spine.png",
+        "components/map-editor/icons/misc/sprite.png",
+        "components/map-editor/icons/misc/subdivide.png",
+        "components/map-editor/icons/misc/subtract.png",
+        "components/map-editor/icons/misc/texture.png",
+        "components/map-editor/icons/misc/tool.png",
+        "components/map-editor/icons/misc/undo.png",
+        "components/map-editor/icons/misc/union.png",
+        "components/map-editor/icons/misc/video.png",
+        "components/map-editor/icons/misc/vr.png",
+        "components/map-editor/icons/misc/waves.png",
+        "components/map-editor/icons/misc/web.png",
+        "components/map-editor/icons/models/capsule.png",
+        "components/map-editor/icons/models/circle.png",
+        "components/map-editor/icons/models/cone.png",
+        "components/map-editor/icons/models/cube.png",
+        "components/map-editor/icons/models/cubes.png",
+        "components/map-editor/icons/models/cylinder.png",
+        "components/map-editor/icons/models/dodecahedron.png",
+        "components/map-editor/icons/models/figures.png",
+        "components/map-editor/icons/models/hexagonalprism.png",
+        "components/map-editor/icons/models/icosahedron.png",
+        "components/map-editor/icons/models/models.png",
+        "components/map-editor/icons/models/octahedron.png",
+        "components/map-editor/icons/models/plane.png",
+        "components/map-editor/icons/models/point.png",
+        "components/map-editor/icons/models/points.png",
+        "components/map-editor/icons/models/pyramid.png",
+        "components/map-editor/icons/models/rectangularprism.png",
+        "components/map-editor/icons/models/ring.png",
+        "components/map-editor/icons/models/roundedcube.png",
+        "components/map-editor/icons/models/sphere.png",
+        "components/map-editor/icons/models/spherea.png",
+        "components/map-editor/icons/models/spline.png",
+        "components/map-editor/icons/models/terrain.png",
+        "components/map-editor/icons/models/torus.png",
+        "components/map-editor/icons/models/torusknot.png",
+        "components/map-editor/icons/models/triangle.png",
+        "components/map-editor/icons/models/twist.png",
+        "components/map-editor/icons/platform/android.png",
+        "components/map-editor/icons/platform/linux.png",
+        "components/map-editor/icons/platform/nunu.png",
+        "components/map-editor/icons/platform/osx.png",
+        "components/map-editor/icons/platform/web.png",
+        "components/map-editor/icons/platform/windows.png",
+        "components/map-editor/icons/script/javascript.png",
+        "components/map-editor/icons/script/python.png",
+        "components/map-editor/icons/script/script.png",
+        "components/map-editor/icons/script/workflow.png",
+        "components/map-editor/icons/text/text.png",
+        "components/map-editor/icons/text/textcanvas.png",
+        "components/map-editor/icons/text/textmesh.png",
+        "components/map-editor/icons/tools/move.png",
+        "components/map-editor/icons/tools/resize.png",
+        "components/map-editor/icons/tools/rotate.png",
+        "components/map-editor/icons/tools/select.png",
+        "components/map-editor/index.html",
+        "components/map-editor/jshint.js",
+        "components/map-editor/logo.png",
+        "components/map-editor/nunu.css",
+        "components/map-editor/styles.css",
+        "components/map-editor/tern.js",
+        "components/map-editor/tern/browser.json",
+        "components/map-editor/tern/ecmascript.json",
+        "components/map-editor/tern/threejs.json",
+        "components/theme/boxicons.css",
+        "components/theme/boxicons.min.css",
+        "components/theme/boxicons.ttf",
+        "components/theme/boxicons.woff",
+        "components/theme/boxicons.woff2",
+        "components/theme/theme.css",
+        "components/sfm-processor/web-lidar.js",
+        "3rdparty/OpenSfM-main.zip",
+        "3rdparty/gsplat-main.zip",
+        "3rdparty/nerfstudio-main.zip",
+        "3rdparty/web-sfm-master.zip",
+        "components/sfm-processor/piodide-worker.js",
+        "loras/spatial_engine/dataset/sme-gemini-negatives.json",
+        "loras/spatial_engine/dataset/sme-gemini-rooms.json",
+        "loras/spatial_engine/dataset/sme-gemini-terrain.json",
+        "llm-workers/wllama/worker.js",
+        "loras/convert_gguf.sh",
+        "loras/merge_lora.py",
+        "loras/spatial_engine/grammar.gbnf",
+        "cloud-functions/boot-gpu/chat-agent.py",
+        "cloud-functions/boot-gpu/train-lora.py",
+        "llm-workers/wllama/index.js",
+        "loras/spatial_engine/grammar.bnf",
+        "3rdparty/wllama-3.5.1.zip",
+        "loras/spatial_engine/{grammar.bnf => grammar.gbnf}",
+        "README.md",
+        "llm-workers/downloader.js"
       ],
       "commits": [
+        {
+          "hash": "11b18a3ed9139266c1076ccf45ab6b8a7fd47f2a",
+          "author": "Brian Cullinan",
+          "date": "2026-06-22T06:34:30.000Z",
+          "message": "back to nada",
+          "linesAdded": 63300,
+          "linesDeleted": 35,
+          "filesChanged": [
+            "components/core/events.js",
+            "components/core/github.js",
+            "components/core/local.js",
+            "components/core/modules.js",
+            "components/llm-workers/wllama/worker.js",
+            "components/sfm-processor/geometry_kernels.simd.wasm",
+            "components/sfm-processor/index.css",
+            "components/sfm-processor/index.js",
+            "components/sfm-processor/index.orig.js",
+            "components/sfm-processor/python-app.js",
+            "components/sfm-processor/storage.worker.js",
+            "components/sfm-processor/three-webgpu.js",
+            "cors.json",
+            "index.html",
+            "main.css",
+            "service-worker.js",
+            "setup/setup.css"
+          ]
+        },
+        {
+          "hash": "8c428270dcdbe5defa219dc197bf0ed6e2db01fb",
+          "author": "Brian Cullinan",
+          "date": "2026-06-22T04:58:34.000Z",
+          "message": "working on integrating platform",
+          "linesAdded": 361263,
+          "linesDeleted": 22,
+          "filesChanged": [
+            "client.js",
+            "components/core/events.js",
+            "components/core/extensions.js",
+            "components/core/github.js",
+            "local.js => components/core/local.js",
+            "components/core/modules.js",
+            "components/core/settings.js",
+            "components/core/sys_fs.js",
+            "{llm-workers => components/llm-workers}/downloader.js",
+            "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.asyncify.mjs",
+            "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.asyncify.wasm",
+            "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.jsep.mjs",
+            "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.jsep.wasm",
+            "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.mjs",
+            "{llm-workers => components/llm-workers}/onnx/ort-wasm-simd-threaded.wasm",
+            "{llm-workers => components/llm-workers}/onnx/ort.webgpu.bundle.min.mjs",
+            "{llm-workers => components/llm-workers}/onnx/ort.webgpu.bundle.min.mjs.map",
+            "{llm-workers => components/llm-workers}/onnx/ort.webgpu.js",
+            "{llm-workers => components/llm-workers}/onnx/ort.webgpu.min.js",
+            "{llm-workers => components/llm-workers}/onnx/ort.webgpu.min.js.map",
+            "{llm-workers => components/llm-workers}/onnx/ort.webgpu.min.mjs",
+            "{llm-workers => components/llm-workers}/onnx/ort.webgpu.min.mjs.map",
+            "{llm-workers => components/llm-workers}/onnx/ort.webgpu.mjs",
+            "{llm-workers => components/llm-workers}/onnx/transformers.js",
+            "{llm-workers => components/llm-workers}/onnx/transformers.js.map",
+            "{llm-workers => components/llm-workers}/onnx/transformers.min.js",
+            "{llm-workers => components/llm-workers}/onnx/transformers.min.js.map",
+            "{llm-workers => components/llm-workers}/onnx/web-tokenizers.js",
+            "{llm-workers => components/llm-workers}/onnx/worker.js",
+            "{llm-workers => components/llm-workers}/wllama/index.js",
+            "{llm-workers => components/llm-workers}/wllama/index.min.js",
+            "{llm-workers => components/llm-workers}/wllama/index.min.js.map",
+            "{llm-workers => components/llm-workers}/wllama/wllama.wasm",
+            "{llm-workers => components/llm-workers}/wllama/worker.js",
+            "components/map-editor/Q3BSPLoader.js",
+            "components/map-editor/Q3BSPLoader.module.js",
+            "components/map-editor/Q3MapLoader.js",
+            "components/map-editor/acorn.js",
+            "components/map-editor/alpha.png",
+            "components/map-editor/bundle.js",
+            "components/map-editor/bundle.min.js",
+            "components/map-editor/bundle.orig.js",
+            "components/map-editor/camera/cube.psd",
+            "components/map-editor/camera/xNeg.png",
+            "components/map-editor/camera/xPos.png",
+            "components/map-editor/camera/yNeg.png",
+            "components/map-editor/camera/yPos.png",
+            "components/map-editor/camera/zNeg.png",
+            "components/map-editor/camera/zPos.png",
+            "components/map-editor/codemirror.css",
+            "components/map-editor/codemirror.js",
+            "components/map-editor/default.json",
+            "components/map-editor/default.mp3",
+            "components/map-editor/draco_encoder.js",
+            "components/map-editor/icons/camera/camera.png",
+            "components/map-editor/icons/camera/orthographic.png",
+            "components/map-editor/icons/camera/prespective.png",
+            "components/map-editor/icons/gltf.png",
+            "components/map-editor/icons/hw/hw.png",
+            "components/map-editor/icons/hw/kinect.png",
+            "components/map-editor/icons/hw/leap.png",
+            "components/map-editor/icons/hw/qr.png",
+            "components/map-editor/icons/hw/webcam.png",
+            "components/map-editor/icons/lights/ambient.png",
+            "components/map-editor/icons/lights/directional.png",
+            "components/map-editor/icons/lights/hemisphere.png",
+            "components/map-editor/icons/lights/point.png",
+            "components/map-editor/icons/lights/rectarea.png",
+            "components/map-editor/icons/lights/sky.png",
+            "components/map-editor/icons/lights/spot.png",
+            "components/map-editor/icons/math/divide.png",
+            "components/map-editor/icons/math/multiply.png",
+            "components/map-editor/icons/math/percent.png",
+            "components/map-editor/icons/math/plus.png",
+            "components/map-editor/icons/math/subtract.png",
+            "components/map-editor/icons/misc/2d.png",
+            "components/map-editor/icons/misc/3d.png",
+            "components/map-editor/icons/misc/about.png",
+            "components/map-editor/icons/misc/add.png",
+            "components/map-editor/icons/misc/animation.png",
+            "components/map-editor/icons/misc/ar.png",
+            "components/map-editor/icons/misc/arrow_down.png",
+            "components/map-editor/icons/misc/arrow_left.png",
+            "components/map-editor/icons/misc/arrow_right.png",
+            "components/map-editor/icons/misc/audio.png",
+            "components/map-editor/icons/misc/audio_positional.png",
+            "components/map-editor/icons/misc/bone.png",
+            "components/map-editor/icons/misc/canvas.png",
+            "components/map-editor/icons/misc/check.png",
+            "components/map-editor/icons/misc/close.png",
+            "components/map-editor/icons/misc/code.png",
+            "components/map-editor/icons/misc/connection.png",
+            "components/map-editor/icons/misc/console.png",
+            "components/map-editor/icons/misc/container.png",
+            "components/map-editor/icons/misc/controller.png",
+            "components/map-editor/icons/misc/copy.png",
+            "components/map-editor/icons/misc/crosshair.png",
+            "components/map-editor/icons/misc/cube.png",
+            "components/map-editor/icons/misc/cut.png",
+            "components/map-editor/icons/misc/delete.png",
+            "components/map-editor/icons/misc/exit.png",
+            "components/map-editor/icons/misc/export.png",
+            "components/map-editor/icons/misc/file.png",
+            "components/map-editor/icons/misc/flare.png",
+            "components/map-editor/icons/misc/focus.png",
+            "components/map-editor/icons/misc/folder.png",
+            "components/map-editor/icons/misc/font.png",
+            "components/map-editor/icons/misc/freemove.png",
+            "components/map-editor/icons/misc/fullscreen.png",
+            "components/map-editor/icons/misc/grid.png",
+            "components/map-editor/icons/misc/hierarchy.png",
+            "components/map-editor/icons/misc/image.png",
+            "components/map-editor/icons/misc/import.png",
+            "components/map-editor/icons/misc/interface.png",
+            "components/map-editor/icons/misc/intersect.png",
+            "components/map-editor/icons/misc/js.png",
+            "components/map-editor/icons/misc/layout.png",
+            "components/map-editor/icons/misc/load.png",
+            "components/map-editor/icons/misc/lod.png",
+            "components/map-editor/icons/misc/magnifier.png",
+            "components/map-editor/icons/misc/material.png",
+            "components/map-editor/icons/misc/menu.png",
+            "components/map-editor/icons/misc/mic.png",
+            "components/map-editor/icons/misc/mirror.png",
+            "components/map-editor/icons/misc/more.png",
+            "components/map-editor/icons/misc/new.png",
+            "components/map-editor/icons/misc/nodes.png",
+            "components/map-editor/icons/misc/orbit.png",
+            "components/map-editor/icons/misc/padlock.png",
+            "components/map-editor/icons/misc/particles.png",
+            "components/map-editor/icons/misc/paste.png",
+            "components/map-editor/icons/misc/pause.png",
+            "components/map-editor/icons/misc/physics.png",
+            "components/map-editor/icons/misc/play.png",
+            "components/map-editor/icons/misc/probe.png",
+            "components/map-editor/icons/misc/publish.png",
+            "components/map-editor/icons/misc/question.png",
+            "components/map-editor/icons/misc/redo.png",
+            "components/map-editor/icons/misc/rotate.png",
+            "components/map-editor/icons/misc/ruler.png",
+            "components/map-editor/icons/misc/save.png",
+            "components/map-editor/icons/misc/scene.png",
+            "components/map-editor/icons/misc/search.png",
+            "components/map-editor/icons/misc/settings.png",
+            "components/map-editor/icons/misc/skeleton.png",
+            "components/map-editor/icons/misc/speedometer.png",
+            "components/map-editor/icons/misc/spine.png",
+            "components/map-editor/icons/misc/sprite.png",
+            "components/map-editor/icons/misc/subdivide.png",
+            "components/map-editor/icons/misc/subtract.png",
+            "components/map-editor/icons/misc/texture.png",
+            "components/map-editor/icons/misc/tool.png",
+            "components/map-editor/icons/misc/undo.png",
+            "components/map-editor/icons/misc/union.png",
+            "components/map-editor/icons/misc/video.png",
+            "components/map-editor/icons/misc/vr.png",
+            "components/map-editor/icons/misc/waves.png",
+            "components/map-editor/icons/misc/web.png",
+            "components/map-editor/icons/models/capsule.png",
+            "components/map-editor/icons/models/circle.png",
+            "components/map-editor/icons/models/cone.png",
+            "components/map-editor/icons/models/cube.png",
+            "components/map-editor/icons/models/cubes.png",
+            "components/map-editor/icons/models/cylinder.png",
+            "components/map-editor/icons/models/dodecahedron.png",
+            "components/map-editor/icons/models/figures.png",
+            "components/map-editor/icons/models/hexagonalprism.png",
+            "components/map-editor/icons/models/icosahedron.png",
+            "components/map-editor/icons/models/models.png",
+            "components/map-editor/icons/models/octahedron.png",
+            "components/map-editor/icons/models/plane.png",
+            "components/map-editor/icons/models/point.png",
+            "components/map-editor/icons/models/points.png",
+            "components/map-editor/icons/models/pyramid.png",
+            "components/map-editor/icons/models/rectangularprism.png",
+            "components/map-editor/icons/models/ring.png",
+            "components/map-editor/icons/models/roundedcube.png",
+            "components/map-editor/icons/models/sphere.png",
+            "components/map-editor/icons/models/spherea.png",
+            "components/map-editor/icons/models/spline.png",
+            "components/map-editor/icons/models/terrain.png",
+            "components/map-editor/icons/models/torus.png",
+            "components/map-editor/icons/models/torusknot.png",
+            "components/map-editor/icons/models/triangle.png",
+            "components/map-editor/icons/models/twist.png",
+            "components/map-editor/icons/platform/android.png",
+            "components/map-editor/icons/platform/linux.png",
+            "components/map-editor/icons/platform/nunu.png",
+            "components/map-editor/icons/platform/osx.png",
+            "components/map-editor/icons/platform/web.png",
+            "components/map-editor/icons/platform/windows.png",
+            "components/map-editor/icons/script/javascript.png",
+            "components/map-editor/icons/script/python.png",
+            "components/map-editor/icons/script/script.png",
+            "components/map-editor/icons/script/workflow.png",
+            "components/map-editor/icons/text/text.png",
+            "components/map-editor/icons/text/textcanvas.png",
+            "components/map-editor/icons/text/textmesh.png",
+            "components/map-editor/icons/tools/move.png",
+            "components/map-editor/icons/tools/resize.png",
+            "components/map-editor/icons/tools/rotate.png",
+            "components/map-editor/icons/tools/select.png",
+            "components/map-editor/index.html",
+            "components/map-editor/jshint.js",
+            "components/map-editor/logo.png",
+            "components/map-editor/nunu.css",
+            "components/map-editor/styles.css",
+            "components/map-editor/tern.js",
+            "components/map-editor/tern/browser.json",
+            "components/map-editor/tern/ecmascript.json",
+            "components/map-editor/tern/threejs.json",
+            "components/theme/boxicons.css",
+            "components/theme/boxicons.min.css",
+            "components/theme/boxicons.ttf",
+            "components/theme/boxicons.woff",
+            "components/theme/boxicons.woff2",
+            "components/theme/theme.css",
+            "cors.json",
+            "index.html",
+            "service-worker.js"
+          ]
+        },
+        {
+          "hash": "424857da96f44716d58f94c5bac730b50f4fcbc8",
+          "author": "Brian Cullinan",
+          "date": "2026-06-22T02:54:54.000Z",
+          "message": "photogrammetry attachment for web lidar",
+          "linesAdded": 299,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "components/sfm-processor/web-lidar.js"
+          ]
+        },
+        {
+          "hash": "af23c5d89f52d524bd0e440b134ebb2459f07001",
+          "author": "Brian Cullinan",
+          "date": "2026-06-22T00:05:52.000Z",
+          "message": "more possible libraries to use to pipeline this thing",
+          "linesAdded": 67,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "3rdparty/OpenSfM-main.zip",
+            "3rdparty/gsplat-main.zip",
+            "3rdparty/nerfstudio-main.zip",
+            "3rdparty/web-sfm-master.zip",
+            "components/sfm-processor/piodide-worker.js",
+            "components/sfm-processor/python-app.js"
+          ]
+        },
         {
           "hash": "b526730fc864a64f28afaacfc615afe591c0a74a",
           "author": "Brian Cullinan",
@@ -483,24 +2418,225 @@
             "index.html",
             "main.css"
           ]
+        },
+        {
+          "hash": "80658899c750cf6c183e88aab77b08c1772c9be8",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T20:10:34.000Z",
+          "message": "training set fixes",
+          "linesAdded": 16,
+          "linesDeleted": 16,
+          "filesChanged": [
+            "loras/spatial_engine/dataset/sme-gemini-negatives.json",
+            "loras/spatial_engine/dataset/sme-gemini-rooms.json",
+            "loras/spatial_engine/dataset/sme-gemini-terrain.json"
+          ]
+        },
+        {
+          "hash": "f5bca6b6b109a90972429666d15fad6f5e290c2e",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T19:29:58.000Z",
+          "message": "working jinja in web-worker",
+          "linesAdded": 122,
+          "linesDeleted": 20,
+          "filesChanged": [
+            "llm-workers/wllama/worker.js",
+            "loras/spatial_engine/dataset/sme-gemini-negatives.json"
+          ]
+        },
+        {
+          "hash": "609794f57f0008cdedc9fa866b66e091b1a8f835",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T19:23:39.000Z",
+          "message": "holy shit, grammar finally works",
+          "linesAdded": 81,
+          "linesDeleted": 66,
+          "filesChanged": [
+            "client.js",
+            "loras/convert_gguf.sh",
+            "loras/merge_lora.py",
+            "loras/spatial_engine/grammar.gbnf"
+          ]
+        },
+        {
+          "hash": "e4e4cc894f1a852cf385e2dfa33aea4ff3aadeb8",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T19:02:36.000Z",
+          "message": "still can't get grammars to load, need to try pre-baked and grammar fix",
+          "linesAdded": 3535,
+          "linesDeleted": 85,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "llm-workers/wllama/index.js",
+            "llm-workers/wllama/worker.js",
+            "loras/spatial_engine/grammar.bnf",
+            "loras/spatial_engine/grammar.gbnf",
+            "main.css"
+          ]
+        },
+        {
+          "hash": "65d4be9346ed807f9da7874ac11436e8d8581026",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T18:13:10.000Z",
+          "message": "can't get grammar or lora applied",
+          "linesAdded": 112,
+          "linesDeleted": 29,
+          "filesChanged": [
+            "3rdparty/wllama-3.5.1.zip",
+            "client.js",
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "index.html",
+            "llm-workers/wllama/worker.js",
+            "loras/spatial_engine/{grammar.bnf => grammar.gbnf}",
+            "main.css"
+          ]
+        },
+        {
+          "hash": "8c7d2f4a48cde992a4039af11f9c4e2cf539af25",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T16:46:44.000Z",
+          "message": "almost have jinja and gbnf loaded in the browser",
+          "linesAdded": 338,
+          "linesDeleted": 53,
+          "filesChanged": [
+            "README.md",
+            "client.js",
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "index.html",
+            "llm-workers/downloader.js",
+            "llm-workers/wllama/worker.js",
+            "main.css"
+          ]
         }
       ]
     },
     "2026-06-20": {
       "date": "2026-06-20",
-      "heatScore": 52,
-      "linesChanged": 637,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 3544,
+      "commitCount": 6,
       "filesEdited": [
         "README.md",
-        "cloud-functions/boot-gpu/chat-agent.py",
+        "loras/convert_gguf.sh",
+        "loras/download_weights.py",
+        "loras/merge_lora.py",
+        "loras/spatial_engine/dataset/sme-gemini-rooms.json",
+        "main.css",
+        "setup/setup.css",
+        "terms/terms.css",
+        "client.js",
+        "index.html",
         "cloud-functions/boot-gpu/index.html",
-        "cloud-functions/boot-gpu/train-lora.py",
+        "cloud-functions/cluster-manager/host-google.js",
+        "cloud-functions/oauth-gateway/index.js",
+        "favicon.ico",
+        "illustrious-config.json",
+        "llm-workers/downloader.js",
+        "llm-workers/onnx/worker.js",
+        "llm-workers/wllama/worker.js",
         "loras/spatial_engine/adapter_config.json",
+        "package-lock.json",
+        "package.json",
+        "privacy/index.html",
+        "server/generate-favicon.js",
+        "server/index.js",
+        "setup/index.html",
+        "setup/setup-client.js",
+        "setup/setup.js",
+        "terms/index.html",
+        "cloud-functions/boot-gpu/chat-agent.py",
+        "cloud-functions/boot-gpu/train-lora.py",
         "loras/spatial_engine/chat_template.jinja",
         "loras/spatial_engine/dataset/sme-gemini-nouns.json"
       ],
       "commits": [
+        {
+          "hash": "f2ae83096e417c9bbb34a756ed95a8216f7c71d4",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T06:44:05.000Z",
+          "message": "commands to quantize ggufs",
+          "linesAdded": 413,
+          "linesDeleted": 41,
+          "filesChanged": [
+            "README.md",
+            "loras/convert_gguf.sh",
+            "loras/download_weights.py",
+            "loras/merge_lora.py",
+            "loras/spatial_engine/dataset/sme-gemini-rooms.json"
+          ]
+        },
+        {
+          "hash": "6ce8d76b0949e6ac2a239bfc18954373aab9f0d3",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T04:32:08.000Z",
+          "message": "button size fix",
+          "linesAdded": 10,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "main.css"
+          ]
+        },
+        {
+          "hash": "dd0c9fe354903e8d24e0d5e29fb984a224564480",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T04:10:48.000Z",
+          "message": "button fix",
+          "linesAdded": 41,
+          "linesDeleted": 31,
+          "filesChanged": [
+            "main.css",
+            "setup/setup.css",
+            "terms/terms.css"
+          ]
+        },
+        {
+          "hash": "d11b62df9a5c3f5453c77233430c34cb7a7ba6ce",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T03:52:10.000Z",
+          "message": "mobile layout",
+          "linesAdded": 143,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "client.js",
+            "index.html",
+            "main.css"
+          ]
+        },
+        {
+          "hash": "f8357cf596af8e79a6af0e1e678845c229c1a565",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T03:44:35.000Z",
+          "message": "lots of path bug fixes to hopefully get the model loaded on the public url",
+          "linesAdded": 1575,
+          "linesDeleted": 650,
+          "filesChanged": [
+            "client.js",
+            "cloud-functions/boot-gpu/index.html",
+            "cloud-functions/cluster-manager/host-google.js",
+            "cloud-functions/oauth-gateway/index.js",
+            "favicon.ico",
+            "illustrious-config.json",
+            "index.html",
+            "llm-workers/downloader.js",
+            "llm-workers/onnx/worker.js",
+            "llm-workers/wllama/worker.js",
+            "loras/spatial_engine/adapter_config.json",
+            "main.css",
+            "package-lock.json",
+            "package.json",
+            "privacy/index.html",
+            "server/generate-favicon.js",
+            "server/index.js",
+            "setup/index.html",
+            "setup/setup-client.js",
+            "setup/setup.css",
+            "setup/setup.js",
+            "terms/index.html",
+            "terms/terms.css"
+          ]
+        },
         {
           "hash": "2e1712618d00bd1c2fa98bbe2a8f154f1b3b69f2",
           "author": "Brian Cullinan",
@@ -520,13 +2656,199 @@
         }
       ]
     },
+    "2026-06-19": {
+      "date": "2026-06-19",
+      "heatScore": 100,
+      "linesChanged": 2939,
+      "commitCount": 9,
+      "filesEdited": [
+        "loras/spatial_engine/model-vision.py",
+        "model_preview.png",
+        ".gitignore",
+        "Gemini_Generated_Image_b15bf0b15bf0b15b.png",
+        "README.md",
+        "blender_grid.png",
+        "cloud-functions/boot-gpu/chat-agent.py",
+        "cloud-functions/boot-gpu/train-lora.py",
+        "debug_render.png",
+        "loras/keep.txt",
+        "loras/schizophrenia/chat_template.jinja",
+        "loras/spatial_engine/adapter_config.json",
+        "loras/spatial_engine/chat_template.jinja",
+        "loras/spatial_engine/dataset/sme-gemini-combos.json",
+        "loras/spatial_engine/dataset/sme-gemini-multiples.json",
+        "model_grid.png",
+        "render.png",
+        "loras/spatial_engine/altman-vision.py",
+        "loras/spatial_engine/blender-vision.py",
+        "loras/spatial_engine/draco_glb.py",
+        "loras/spatial_engine/grok-vision.py",
+        "loras/spatial_engine/requirements.txt",
+        "loras/spatial_engine/dataset/sme-gemini-negatives.json",
+        "loras/spatial_engine/grammar.bnf",
+        "loras/schizophrenia/dataset/antihelp.json",
+        "loras/schizophrenia/dataset/colloquialism.json",
+        "loras/schizophrenia/dataset/creative.json",
+        "loras/schizophrenia/dataset/medicine.json",
+        "loras/schizophrenia/dataset/nature.json",
+        "loras/schizophrenia/dataset/sympathy.json"
+      ],
+      "commits": [
+        {
+          "hash": "97084c7a2de42a40e06725f043a95457b65c5555",
+          "author": "Brian Cullinan",
+          "date": "2026-06-20T05:47:07.000Z",
+          "message": "i hate chat bots",
+          "linesAdded": 94,
+          "linesDeleted": 23,
+          "filesChanged": [
+            "loras/spatial_engine/model-vision.py",
+            "model_preview.png"
+          ]
+        },
+        {
+          "hash": "92ba0a4fc28087d1434194cf7679836d6b7d0f27",
+          "author": "Brian Cullinan",
+          "date": "2026-06-20T05:43:52.000Z",
+          "message": "working model vision on windows, goddamn gemini can't make the right angles",
+          "linesAdded": 383,
+          "linesDeleted": 330,
+          "filesChanged": [
+            ".gitignore",
+            "Gemini_Generated_Image_b15bf0b15bf0b15b.png",
+            "README.md",
+            "blender_grid.png",
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "debug_render.png",
+            "loras/keep.txt",
+            "loras/schizophrenia/chat_template.jinja",
+            "loras/spatial_engine/adapter_config.json",
+            "loras/spatial_engine/chat_template.jinja",
+            "loras/spatial_engine/dataset/sme-gemini-combos.json",
+            "loras/spatial_engine/dataset/sme-gemini-multiples.json",
+            "loras/spatial_engine/model-vision.py",
+            "model_grid.png",
+            "model_preview.png",
+            "render.png"
+          ]
+        },
+        {
+          "hash": "6a875497277b39f1a339de823e15f6ceca6298d6",
+          "author": "Brian Cullinan",
+          "date": "2026-06-20T02:45:42.000Z",
+          "message": "Fix GLB rendering: decode Draco compression in spatial_engine vision scripts",
+          "linesAdded": 350,
+          "linesDeleted": 59,
+          "filesChanged": [
+            "loras/spatial_engine/altman-vision.py",
+            "loras/spatial_engine/blender-vision.py",
+            "loras/spatial_engine/draco_glb.py",
+            "loras/spatial_engine/grok-vision.py",
+            "loras/spatial_engine/model-vision.py",
+            "loras/spatial_engine/requirements.txt"
+          ]
+        },
+        {
+          "hash": "f01f7b372f567e5c53b6c9b7779d727ee2e82362",
+          "author": "Brian Cullinan",
+          "date": "2026-06-20T02:45:42.000Z",
+          "message": "Fix GLB rendering: decode Draco compression in spatial_engine vision scripts",
+          "linesAdded": 350,
+          "linesDeleted": 59,
+          "filesChanged": [
+            "loras/spatial_engine/altman-vision.py",
+            "loras/spatial_engine/blender-vision.py",
+            "loras/spatial_engine/draco_glb.py",
+            "loras/spatial_engine/grok-vision.py",
+            "loras/spatial_engine/model-vision.py",
+            "loras/spatial_engine/requirements.txt"
+          ]
+        },
+        {
+          "hash": "5e70273f9962ede430843847b68388399200a934",
+          "author": "Brian Cullinan",
+          "date": "2026-06-20T02:20:15.000Z",
+          "message": "none of the chat bots can render a glb out of the box",
+          "linesAdded": 241,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "loras/spatial_engine/altman-vision.py",
+            "render.png"
+          ]
+        },
+        {
+          "hash": "769b2e8dab9e8798e896c0510eff503d13f5d5a7",
+          "author": "Brian Cullinan",
+          "date": "2026-06-20T01:40:28.000Z",
+          "message": "working grammar finally",
+          "linesAdded": 37,
+          "linesDeleted": 18,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/train-lora.py",
+            "loras/spatial_engine/dataset/sme-gemini-negatives.json",
+            "loras/spatial_engine/grammar.bnf"
+          ]
+        },
+        {
+          "hash": "24bc5667f9815cfa9accbed8afde82dc474deb28",
+          "author": "Brian Cullinan",
+          "date": "2026-06-20T00:48:30.000Z",
+          "message": "woohoo dataset checker!",
+          "linesAdded": 66,
+          "linesDeleted": 58,
+          "filesChanged": [
+            "README.md",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "loras/spatial_engine/grammar.bnf"
+          ]
+        },
+        {
+          "hash": "caa7c4467c5751561f8351227c31794328337a05",
+          "author": "Brian Cullinan",
+          "date": "2026-06-20T00:29:12.000Z",
+          "message": "gpts suck",
+          "linesAdded": 36,
+          "linesDeleted": 27,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/train-lora.py"
+          ]
+        },
+        {
+          "hash": "38ba64686222713088eb987110d7013286a63538",
+          "author": "Brian Cullinan",
+          "date": "2026-06-20T00:00:55.000Z",
+          "message": "tried to fix the pre-check parser",
+          "linesAdded": 796,
+          "linesDeleted": 11,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/train-lora.py",
+            "loras/schizophrenia/chat_template.jinja",
+            "loras/schizophrenia/dataset/antihelp.json",
+            "loras/schizophrenia/dataset/colloquialism.json",
+            "loras/schizophrenia/dataset/creative.json",
+            "loras/schizophrenia/dataset/medicine.json",
+            "loras/schizophrenia/dataset/nature.json",
+            "loras/schizophrenia/dataset/sympathy.json"
+          ]
+        }
+      ]
+    },
     "2026-06-18": {
       "date": "2026-06-18",
-      "heatScore": 19,
-      "linesChanged": 136,
-      "commitCount": 1,
+      "heatScore": 91,
+      "linesChanged": 778,
+      "commitCount": 4,
       "filesEdited": [
-        "cloud-functions/boot-gpu/train-lora.py"
+        "cloud-functions/boot-gpu/train-lora.py",
+        "cloud-functions/boot-gpu/chat-agent.py",
+        "loras/spatial_engine/grammar.bnf",
+        "loras/hot_ex_girlfriend/adapter_config.json",
+        "loras/spatial_engine/README.md",
+        "loras/spatial_engine/adapter_config.json",
+        "loras/spatial_engine/tokenizer_config.json"
       ],
       "commits": [
         {
@@ -539,25 +2861,198 @@
           "filesChanged": [
             "cloud-functions/boot-gpu/train-lora.py"
           ]
+        },
+        {
+          "hash": "442c01477b2bbba934077679d68a10992aacfd23",
+          "author": "Brian Cullinan",
+          "date": "2026-06-18T16:23:15.000Z",
+          "message": "small fix",
+          "linesAdded": 9,
+          "linesDeleted": 8,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "loras/spatial_engine/grammar.bnf"
+          ]
+        },
+        {
+          "hash": "3610955766ce221ff090dc05384ee2ce5b9f9716",
+          "author": "Brian Cullinan",
+          "date": "2026-06-18T16:18:10.000Z",
+          "message": "couple more fixes, works pretty close",
+          "linesAdded": 22,
+          "linesDeleted": 15,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "loras/spatial_engine/grammar.bnf"
+          ]
+        },
+        {
+          "hash": "9348652bf54bab44ae5242e9f14f1a7d268bea20",
+          "author": "Brian Cullinan",
+          "date": "2026-06-18T16:08:54.000Z",
+          "message": "working grammars and spatial-lora, still working out grammar bugs and feedback",
+          "linesAdded": 544,
+          "linesDeleted": 44,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "loras/hot_ex_girlfriend/adapter_config.json",
+            "loras/spatial_engine/README.md",
+            "loras/spatial_engine/adapter_config.json",
+            "loras/spatial_engine/tokenizer_config.json"
+          ]
         }
       ]
     },
     "2026-06-17": {
       "date": "2026-06-17",
-      "heatScore": 40,
-      "linesChanged": 452,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 6979,
+      "commitCount": 12,
       "filesEdited": [
-        "chat_logs/parse-logs.ps1",
-        "chat_logs/parse-logs.py",
         "cloud-functions/boot-gpu/chat-agent.py",
-        "cloud-functions/boot-gpu/index.html",
         "cloud-functions/boot-gpu/train-lora.py",
         "loras/hot_ex_girlfriend/adapter_config.json",
+        "cloud-functions/boot-gpu/index.html",
+        "debug_render.png",
+        "loras/spatial_engine/grok-vision.py",
+        "loras/spatial_engine/model-vision.py",
+        "loras/spatial_engine/model-vision2.py",
+        "loras/spatial_engine/blender-vision.py",
+        "model_preview.png",
+        "README.md",
+        "chat_logs/trajectory-extraction.py",
+        "loras/spatial_engine/{dataset => }/chat_template.jinja",
+        "loras/spatial_engine/dataset/sme-gemini-combos.json",
+        "loras/spatial_engine/dataset/sme-gemini-complex.json",
+        "loras/spatial_engine/dataset/sme-gemini-negatives.json",
+        "loras/spatial_engine/dataset/sme-gemini-nouns.json",
+        "loras/spatial_engine/dataset/sme-gemini-positional.json",
+        "loras/spatial_engine/dataset/sme-gemini-rooms.json",
+        "loras/spatial_engine/dataset/sme-gemini-scenes.json",
+        "loras/spatial_engine/dataset/sme-gemini-terrain.json",
+        "loras/spatial_engine/grammar.bnf",
+        "loras/spatial_engine/model-convert.py",
+        "loras/spatial_engine/objaverse-download.py",
+        "chat_logs/parse-logs.ps1",
+        "chat_logs/parse-logs.py",
         "loras/hot_ex_girlfriend/chat_template.jinja",
-        "loras/spatial_engine/dataset/chat_template.jinja"
+        "loras/spatial_engine/dataset/chat_template.jinja",
+        ".gitignore",
+        "{cloud-functions/boot-gpu => chat_logs}/parse-logs.py",
+        "components/map-editor/spherical-harmonics.js",
+        "components/map-editor/splat-painter-fix.js",
+        "llm-workers/wllama/worker.js",
+        "loras/code_classifier_lora/README.md",
+        "loras/code_classifier_lora/adapter_config.json",
+        "loras/code_classifier_lora/chat_template.jinja",
+        "{cloud-functions/boot-gpu => loras/code_classifier_lora}/dataset.json",
+        "loras/code_classifier_lora/tokenizer_config.json",
+        "loras/hot_ex_girlfriend/README.md",
+        "loras/hot_ex_girlfriend/tokenizer_config.json",
+        "3rdparty/DreamFusion-2209.14988v1.pdf",
+        "llm-workers/onnx/worker.js",
+        "3rdparty/llama.cpp-master.zip",
+        "client.js",
+        "llm-workers/downloader.js",
+        "local.js",
+        "index.html",
+        "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.asyncify.mjs",
+        "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.asyncify.wasm",
+        "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.jsep.mjs",
+        "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.jsep.wasm",
+        "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.mjs",
+        "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.wasm",
+        "{onnx => llm-workers/onnx}/ort.webgpu.bundle.min.mjs",
+        "{onnx => llm-workers/onnx}/ort.webgpu.bundle.min.mjs.map",
+        "{onnx => llm-workers/onnx}/ort.webgpu.js",
+        "{onnx => llm-workers/onnx}/ort.webgpu.min.js",
+        "{onnx => llm-workers/onnx}/ort.webgpu.min.js.map",
+        "{onnx => llm-workers/onnx}/ort.webgpu.min.mjs",
+        "{onnx => llm-workers/onnx}/ort.webgpu.min.mjs.map",
+        "{onnx => llm-workers/onnx}/ort.webgpu.mjs",
+        "{onnx => llm-workers/onnx}/transformers.js",
+        "{onnx => llm-workers/onnx}/transformers.js.map",
+        "{onnx => llm-workers/onnx}/transformers.min.js",
+        "{onnx => llm-workers/onnx}/transformers.min.js.map",
+        "{onnx => llm-workers/onnx}/web-tokenizers.js",
+        "{onnx => llm-workers/onnx}/worker.js",
+        "llm-workers/wllama/index.min.js",
+        "llm-workers/wllama/index.min.js.map",
+        "llm-workers/wllama/wllama.wasm"
       ],
       "commits": [
+        {
+          "hash": "4bab25ae1daa8902777a8fb756330c0a0d28f408",
+          "author": "Brian Cullinan",
+          "date": "2026-06-18T06:48:04.000Z",
+          "message": "possibly working lora, got a positive result",
+          "linesAdded": 24,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "loras/hot_ex_girlfriend/adapter_config.json"
+          ]
+        },
+        {
+          "hash": "7b389e22ad013cba7db1223d27c9db826108d036",
+          "author": "Brian Cullinan",
+          "date": "2026-06-18T05:11:44.000Z",
+          "message": "chat bots suck at 3D code, guess i'll have to write a glb loader myself",
+          "linesAdded": 634,
+          "linesDeleted": 17,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/index.html",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "debug_render.png",
+            "loras/hot_ex_girlfriend/adapter_config.json",
+            "loras/spatial_engine/grok-vision.py",
+            "loras/spatial_engine/model-vision.py",
+            "loras/spatial_engine/model-vision2.py"
+          ]
+        },
+        {
+          "hash": "2425affe61529bfff6471c5f928cfa06cc1223b6",
+          "author": "Brian Cullinan",
+          "date": "2026-06-18T04:01:18.000Z",
+          "message": "trying to get model vision working",
+          "linesAdded": 395,
+          "linesDeleted": 169,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/train-lora.py",
+            "loras/spatial_engine/blender-vision.py",
+            "loras/spatial_engine/model-vision.py",
+            "model_preview.png"
+          ]
+        },
+        {
+          "hash": "adb937148cb5c1fa97d5eb730e701e359cbbef63",
+          "author": "Brian Cullinan",
+          "date": "2026-06-18T02:42:01.000Z",
+          "message": "adding model vision",
+          "linesAdded": 1621,
+          "linesDeleted": 22,
+          "filesChanged": [
+            "README.md",
+            "chat_logs/trajectory-extraction.py",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "loras/hot_ex_girlfriend/adapter_config.json",
+            "loras/spatial_engine/{dataset => }/chat_template.jinja",
+            "loras/spatial_engine/dataset/sme-gemini-combos.json",
+            "loras/spatial_engine/dataset/sme-gemini-complex.json",
+            "loras/spatial_engine/dataset/sme-gemini-negatives.json",
+            "loras/spatial_engine/dataset/sme-gemini-nouns.json",
+            "loras/spatial_engine/dataset/sme-gemini-positional.json",
+            "loras/spatial_engine/dataset/sme-gemini-rooms.json",
+            "loras/spatial_engine/dataset/sme-gemini-scenes.json",
+            "loras/spatial_engine/dataset/sme-gemini-terrain.json",
+            "loras/spatial_engine/grammar.bnf",
+            "loras/spatial_engine/model-convert.py",
+            "loras/spatial_engine/model-vision.py",
+            "loras/spatial_engine/objaverse-download.py"
+          ]
+        },
         {
           "hash": "8d4ca4a8ba9c74c710210c0eb9e39a25d42c17dd",
           "author": "Brian Cullinan",
@@ -575,20 +3070,294 @@
             "loras/hot_ex_girlfriend/chat_template.jinja",
             "loras/spatial_engine/dataset/chat_template.jinja"
           ]
+        },
+        {
+          "hash": "54fc15ac3e836d16b909279dc0e25697fa1efe44",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T20:42:32.000Z",
+          "message": "working on lora training",
+          "linesAdded": 1648,
+          "linesDeleted": 102,
+          "filesChanged": [
+            ".gitignore",
+            "README.md",
+            "{cloud-functions/boot-gpu => chat_logs}/parse-logs.py",
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/index.html",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "components/map-editor/spherical-harmonics.js",
+            "components/map-editor/splat-painter-fix.js",
+            "llm-workers/wllama/worker.js",
+            "loras/code_classifier_lora/README.md",
+            "loras/code_classifier_lora/adapter_config.json",
+            "loras/code_classifier_lora/chat_template.jinja",
+            "{cloud-functions/boot-gpu => loras/code_classifier_lora}/dataset.json",
+            "loras/code_classifier_lora/tokenizer_config.json",
+            "loras/hot_ex_girlfriend/README.md",
+            "loras/hot_ex_girlfriend/adapter_config.json",
+            "loras/hot_ex_girlfriend/chat_template.jinja",
+            "loras/hot_ex_girlfriend/tokenizer_config.json"
+          ]
+        },
+        {
+          "hash": "b9d9703df352d3becfc00b007ebff4589bfe71f1",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T18:32:02.000Z",
+          "message": "lora intentions for notes/research in script files, need to adjust code, to add a baked option",
+          "linesAdded": 222,
+          "linesDeleted": 6,
+          "filesChanged": [
+            "3rdparty/DreamFusion-2209.14988v1.pdf",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "llm-workers/onnx/worker.js",
+            "llm-workers/wllama/worker.js"
+          ]
+        },
+        {
+          "hash": "f8e112a0f8634f069c5d5f5e5f7f672c328b7e85",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T17:52:07.000Z",
+          "message": "remove system prompt per instructions not to overfit",
+          "linesAdded": 0,
+          "linesDeleted": 14,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "35615a9d3968deb0e0559971b66bacc945774a01",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T17:36:53.000Z",
+          "message": "more intent descriptions",
+          "linesAdded": 258,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "90f9902f8f7391a87e85c90cd3bfcb526d3514a7",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T17:30:13.000Z",
+          "message": "readme intentions for model training",
+          "linesAdded": 546,
+          "linesDeleted": 14,
+          "filesChanged": [
+            "3rdparty/llama.cpp-master.zip",
+            "README.md",
+            "client.js"
+          ]
+        },
+        {
+          "hash": "372a9438d12138cba14d339af077b7e7b67a0668",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T15:46:31.000Z",
+          "message": "multimodal worker/include pattern to accomodate dumbass ESM modules",
+          "linesAdded": 190,
+          "linesDeleted": 49,
+          "filesChanged": [
+            "README.md",
+            "client.js",
+            "llm-workers/downloader.js",
+            "llm-workers/onnx/worker.js",
+            "llm-workers/wllama/worker.js",
+            "local.js"
+          ]
+        },
+        {
+          "hash": "f48d532a775928a7d9f9d003cda36d4efd87736f",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T09:20:10.000Z",
+          "message": "working gguf implementation",
+          "linesAdded": 395,
+          "linesDeleted": 194,
+          "filesChanged": [
+            "client.js",
+            "index.html",
+            "llm-workers/downloader.js",
+            "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.asyncify.mjs",
+            "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.asyncify.wasm",
+            "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.jsep.mjs",
+            "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.jsep.wasm",
+            "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.mjs",
+            "{onnx => llm-workers/onnx}/ort-wasm-simd-threaded.wasm",
+            "{onnx => llm-workers/onnx}/ort.webgpu.bundle.min.mjs",
+            "{onnx => llm-workers/onnx}/ort.webgpu.bundle.min.mjs.map",
+            "{onnx => llm-workers/onnx}/ort.webgpu.js",
+            "{onnx => llm-workers/onnx}/ort.webgpu.min.js",
+            "{onnx => llm-workers/onnx}/ort.webgpu.min.js.map",
+            "{onnx => llm-workers/onnx}/ort.webgpu.min.mjs",
+            "{onnx => llm-workers/onnx}/ort.webgpu.min.mjs.map",
+            "{onnx => llm-workers/onnx}/ort.webgpu.mjs",
+            "{onnx => llm-workers/onnx}/transformers.js",
+            "{onnx => llm-workers/onnx}/transformers.js.map",
+            "{onnx => llm-workers/onnx}/transformers.min.js",
+            "{onnx => llm-workers/onnx}/transformers.min.js.map",
+            "{onnx => llm-workers/onnx}/web-tokenizers.js",
+            "{onnx => llm-workers/onnx}/worker.js",
+            "llm-workers/wllama/index.min.js",
+            "llm-workers/wllama/index.min.js.map",
+            "llm-workers/wllama/wllama.wasm",
+            "llm-workers/wllama/worker.js",
+            "local.js"
+          ]
         }
       ]
     },
     "2026-06-16": {
       "date": "2026-06-16",
-      "heatScore": 14,
-      "linesChanged": 72,
-      "commitCount": 1,
+      "heatScore": 100,
+      "linesChanged": 47624,
+      "commitCount": 10,
       "filesEdited": [
+        "onnx/worker.js",
+        "client.js",
+        "index.html",
+        "local.js",
+        "3rdparty/tokenizers-main.zip",
+        "3rdparty/transformers.js-main.zip",
+        "3rdparty/wllama-master.zip",
+        "cloud-functions/boot-gpu/modify-onnx.py",
+        "cloud-functions/cluster-manager/cloud-manager.js",
+        "cloud-functions/cluster-manager/host-google.js",
+        "cloud-functions/cluster-manager/index.js",
         "main.css",
+        "onnx/ort-wasm-simd-threaded.asyncify.mjs",
+        "onnx/ort-wasm-simd-threaded.asyncify.wasm",
+        "onnx/ort-wasm-simd-threaded.jsep.mjs",
+        "onnx/ort-wasm-simd-threaded.jsep.wasm",
+        "onnx/ort-wasm-simd-threaded.mjs",
+        "onnx/ort-wasm-simd-threaded.wasm",
+        "onnx/ort.webgpu.bundle.min.mjs",
+        "onnx/ort.webgpu.bundle.min.mjs.map",
+        "onnx/ort.webgpu.js",
+        "onnx/ort.webgpu.min.js",
+        "onnx/ort.webgpu.min.js.map",
+        "onnx/ort.webgpu.min.mjs",
+        "onnx/ort.webgpu.min.mjs.map",
+        "onnx/ort.webgpu.mjs",
+        "onnx/transformers.js",
+        "onnx/transformers.js.map",
+        "onnx/transformers.min.js",
+        "onnx/transformers.min.js.map",
+        "onnx/web-tokenizers.js",
+        "server/index.js",
+        "setup/setup-client.js",
+        "setup/setup.js",
         "setup/index.html",
-        "setup/setup-client.js"
+        "package-lock.json",
+        "package.json",
+        "3rdparty/mediapipe-master.zip",
+        "index-client.js => client.js",
+        "cloud-functions/cluster-manager/host-runpod.js",
+        "commit_dump.txt",
+        "server.js",
+        "index.js => server/index.js",
+        "server/server.js",
+        "setup-client.js => setup/setup-client.js",
+        "setup.js => setup/setup.js",
+        "theme/boxicons-brands.min.css",
+        "theme/boxicons-brands.ttf",
+        "theme/boxicons-brands.woff",
+        "theme/boxicons-brands.woff2",
+        "theme/boxicons.css",
+        "theme/boxicons.min.css",
+        "theme/boxicons.ttf",
+        "theme/boxicons.woff",
+        "theme/boxicons.woff2",
+        "3rdparty/web-llm-main.zip",
+        "3rdparty/GaussianSplats3D-main.zip",
+        "3rdparty/WebODM-master.zip",
+        "3rdparty/colmap-main.zip",
+        "3rdparty/nunuStudio-master.zip",
+        "3rdparty/objaverse-xl-main.zip",
+        "3rdparty/pixelstruct-master.zip",
+        "3rdparty/spark-main.zip",
+        "3rdparty/supersplat-main.zip",
+        "README.md",
+        "cloud-functions/oauth-gateway/index.js",
+        "index.js"
       ],
       "commits": [
+        {
+          "hash": "45b0fa9539741adb3c9ea138a400a4d26bce65a7",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T05:55:39.000Z",
+          "message": "still trying to get the model to respond like a human faster",
+          "linesAdded": 69,
+          "linesDeleted": 34,
+          "filesChanged": [
+            "onnx/worker.js"
+          ]
+        },
+        {
+          "hash": "b2b9dab76940432271f2777c2d5fc12ae27fd30c",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T05:53:07.000Z",
+          "message": "grok helping",
+          "linesAdded": 266,
+          "linesDeleted": 202,
+          "filesChanged": [
+            "onnx/worker.js"
+          ]
+        },
+        {
+          "hash": "607ab000a6ed6c6a8c05e78c46dcc0d92e7909bf",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T05:01:17.000Z",
+          "message": "working worker gpt",
+          "linesAdded": 621,
+          "linesDeleted": 33,
+          "filesChanged": [
+            "client.js",
+            "index.html",
+            "local.js",
+            "onnx/worker.js"
+          ]
+        },
+        {
+          "hash": "78c8616a2645bef76e5a00f5b5c5d8e9a53cb0e9",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T03:48:06.000Z",
+          "message": "almost have onnx loaded",
+          "linesAdded": 36914,
+          "linesDeleted": 258,
+          "filesChanged": [
+            "3rdparty/tokenizers-main.zip",
+            "3rdparty/transformers.js-main.zip",
+            "3rdparty/wllama-master.zip",
+            "client.js",
+            "cloud-functions/boot-gpu/modify-onnx.py",
+            "cloud-functions/cluster-manager/cloud-manager.js",
+            "cloud-functions/cluster-manager/host-google.js",
+            "cloud-functions/cluster-manager/index.js",
+            "index.html",
+            "main.css",
+            "onnx/ort-wasm-simd-threaded.asyncify.mjs",
+            "onnx/ort-wasm-simd-threaded.asyncify.wasm",
+            "onnx/ort-wasm-simd-threaded.jsep.mjs",
+            "onnx/ort-wasm-simd-threaded.jsep.wasm",
+            "onnx/ort-wasm-simd-threaded.mjs",
+            "onnx/ort-wasm-simd-threaded.wasm",
+            "onnx/ort.webgpu.bundle.min.mjs",
+            "onnx/ort.webgpu.bundle.min.mjs.map",
+            "onnx/ort.webgpu.js",
+            "onnx/ort.webgpu.min.js",
+            "onnx/ort.webgpu.min.js.map",
+            "onnx/ort.webgpu.min.mjs",
+            "onnx/ort.webgpu.min.mjs.map",
+            "onnx/ort.webgpu.mjs",
+            "onnx/transformers.js",
+            "onnx/transformers.js.map",
+            "onnx/transformers.min.js",
+            "onnx/transformers.min.js.map",
+            "onnx/web-tokenizers.js",
+            "onnx/worker.js",
+            "server/index.js",
+            "setup/setup-client.js",
+            "setup/setup.js"
+          ]
+        },
         {
           "hash": "8ec437af63065be5d17785a5109d6fa42bb10a46",
           "author": "Brian Cullinan",
@@ -601,29 +3370,262 @@
             "setup/index.html",
             "setup/setup-client.js"
           ]
+        },
+        {
+          "hash": "b79e21182e9183a88f9538fb2f5ace36bdf4c653",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T21:54:45.000Z",
+          "message": "fix for local session and restyling",
+          "linesAdded": 434,
+          "linesDeleted": 58,
+          "filesChanged": [
+            "cloud-functions/cluster-manager/cloud-manager.js",
+            "index.html",
+            "main.css",
+            "package-lock.json",
+            "package.json",
+            "server/index.js"
+          ]
+        },
+        {
+          "hash": "229bb968376a3a9a1410a738db60391f538066f8",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T20:23:54.000Z",
+          "message": "about to add llm background workers for building 3D scenes",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "3rdparty/mediapipe-master.zip"
+          ]
+        },
+        {
+          "hash": "f1049dc4173bbdda2b38ea59c1f8f9f9bd5e6429",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T20:22:57.000Z",
+          "message": "goddamnit github failing on a secrets check false positive",
+          "linesAdded": 7968,
+          "linesDeleted": 524,
+          "filesChanged": [
+            "index-client.js => client.js",
+            "cloud-functions/cluster-manager/cloud-manager.js",
+            "cloud-functions/cluster-manager/host-google.js",
+            "cloud-functions/cluster-manager/host-runpod.js",
+            "cloud-functions/cluster-manager/index.js",
+            "commit_dump.txt",
+            "index.html",
+            "main.css",
+            "onnx/worker.js",
+            "package-lock.json",
+            "package.json",
+            "server.js",
+            "index.js => server/index.js",
+            "server/server.js",
+            "setup/index.html",
+            "setup-client.js => setup/setup-client.js",
+            "setup.js => setup/setup.js",
+            "theme/boxicons-brands.min.css",
+            "theme/boxicons-brands.ttf",
+            "theme/boxicons-brands.woff",
+            "theme/boxicons-brands.woff2",
+            "theme/boxicons.css",
+            "theme/boxicons.min.css",
+            "theme/boxicons.ttf",
+            "theme/boxicons.woff",
+            "theme/boxicons.woff2"
+          ]
+        },
+        {
+          "hash": "3119863c4d9599021f54f7cfc559cba175f79b0a",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T09:20:52.000Z",
+          "message": "whoops one more",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "3rdparty/web-llm-main.zip"
+          ]
+        },
+        {
+          "hash": "5cfef82cf18623b988b5cce7269912d3cfcd603f",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T09:17:03.000Z",
+          "message": "3rd party tools and fixes to auth, still needs cloud function deploy credentials",
+          "linesAdded": 152,
+          "linesDeleted": 19,
+          "filesChanged": [
+            "3rdparty/GaussianSplats3D-main.zip",
+            "3rdparty/WebODM-master.zip",
+            "3rdparty/colmap-main.zip",
+            "3rdparty/nunuStudio-master.zip",
+            "3rdparty/objaverse-xl-main.zip",
+            "3rdparty/pixelstruct-master.zip",
+            "3rdparty/spark-main.zip",
+            "3rdparty/supersplat-main.zip",
+            "README.md",
+            "cloud-functions/cluster-manager/index.js",
+            "cloud-functions/oauth-gateway/index.js",
+            "index.js",
+            "package-lock.json",
+            "package.json",
+            "setup/index.html"
+          ]
         }
       ]
     },
     "2026-06-15": {
       "date": "2026-06-15",
       "heatScore": 100,
-      "linesChanged": 2487,
-      "commitCount": 1,
+      "linesChanged": 4609,
+      "commitCount": 9,
       "filesEdited": [
-        "cloud-functions/boot-gpu/index.js",
+        "cloud-functions/boot-gpu/chat-agent.py",
+        "cloud-functions/boot-gpu/index.html",
+        "cloud-functions/boot-gpu/train-lora.py",
+        ".gitignore",
+        "cloud-functions/boot-gpu/auto-tag.py",
+        "cloud-functions/boot-gpu/cluster-face.py",
+        "cloud-functions/boot-gpu/insert-image.py",
+        "cloud-functions/boot-gpu/parse-logs.py",
+        "README.md",
         "cloud-functions/boot-gpu/start-gpu.sh",
+        "hf_cache/CACHEDIR.TAG",
+        "{cloud-functions/boot-gpu/loras => hf_cache}/keep.txt",
+        "index.js",
+        "loras/keep.txt",
+        "package.json",
+        "server.js",
+        "setup.js",
+        "training_outputs/keep.txt",
+        "cloud-functions/boot-gpu/dataset.json",
+        "cloud-functions/boot-gpu/loras/keep.txt",
         "cloud-functions/boot-gpu/worker-agent.py",
+        "cloud-functions/boot-gpu/index.js",
         "cloud-functions/cluster-manager/index.js",
         "cpu.svg",
         "index-client.js",
         "index.html",
-        "index.js",
         "main.css",
         "setup-client.js",
         "setup/index.html",
         "terms/index.html"
       ],
       "commits": [
+        {
+          "hash": "ca9d2827214f2e262ee6cf01a232c6f12003eaca",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T06:26:00.000Z",
+          "message": "trying again",
+          "linesAdded": 12,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/index.html",
+            "cloud-functions/boot-gpu/train-lora.py"
+          ]
+        },
+        {
+          "hash": "d9b002d5e7212d6bd855c89e7295728bab096367",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T05:54:07.000Z",
+          "message": "trying to train a chat bot with a personality, its not working",
+          "linesAdded": 442,
+          "linesDeleted": 23,
+          "filesChanged": [
+            ".gitignore",
+            "cloud-functions/boot-gpu/auto-tag.py",
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/cluster-face.py",
+            "cloud-functions/boot-gpu/insert-image.py",
+            "cloud-functions/boot-gpu/parse-logs.py",
+            "cloud-functions/boot-gpu/train-lora.py"
+          ]
+        },
+        {
+          "hash": "76ffb2d2c0593756904bc17903a6326015c2885a",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T03:06:55.000Z",
+          "message": "lora gguf loader",
+          "linesAdded": 16,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/chat-agent.py"
+          ]
+        },
+        {
+          "hash": "cc22d3a1a4d02c1001b36a563f74b725d194c497",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T02:50:18.000Z",
+          "message": "future goal",
+          "linesAdded": 59,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "1aa84012f26b7db4dab62617bfe9af57f01a2e1f",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T02:44:58.000Z",
+          "message": "working lora i think",
+          "linesAdded": 73,
+          "linesDeleted": 22,
+          "filesChanged": [
+            ".gitignore",
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/index.html"
+          ]
+        },
+        {
+          "hash": "62dfeb826b2fc77117fcc37079f3e13310c51bce",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T02:03:51.000Z",
+          "message": "stillt trying to train",
+          "linesAdded": 6,
+          "linesDeleted": 8,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/train-lora.py"
+          ]
+        },
+        {
+          "hash": "26cacf259bf36264c02c801ae0576a59ab0ebe75",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T01:55:38.000Z",
+          "message": "almost have working lora trainer",
+          "linesAdded": 546,
+          "linesDeleted": 280,
+          "filesChanged": [
+            ".gitignore",
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/index.html",
+            "cloud-functions/boot-gpu/start-gpu.sh",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "hf_cache/CACHEDIR.TAG",
+            "{cloud-functions/boot-gpu/loras => hf_cache}/keep.txt",
+            "index.js",
+            "loras/keep.txt",
+            "package.json",
+            "server.js",
+            "setup.js",
+            "training_outputs/keep.txt"
+          ]
+        },
+        {
+          "hash": "4681a05beb17bdc7c61a58cff9eaac6fa798795f",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T00:05:00.000Z",
+          "message": "learning how to llm",
+          "linesAdded": 616,
+          "linesDeleted": 13,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/dataset.json",
+            "cloud-functions/boot-gpu/loras/keep.txt",
+            "cloud-functions/boot-gpu/start-gpu.sh",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "cloud-functions/boot-gpu/worker-agent.py",
+            "setup.js"
+          ]
+        },
         {
           "hash": "2800c5a6967c9d7dd553d389d549369d046cc8b2",
           "author": "Brian Cullinan",
@@ -644,6 +3646,195 @@
             "setup-client.js",
             "setup/index.html",
             "terms/index.html"
+          ]
+        }
+      ]
+    },
+    "2026-06-14": {
+      "date": "2026-06-14",
+      "heatScore": 100,
+      "linesChanged": 7005,
+      "commitCount": 9,
+      "filesEdited": [
+        "README.md",
+        "Screenshot 2026-06-14 225931.png",
+        "Screenshot 2026-06-14 230112.png",
+        "Screenshot 2026-06-14 230126.png",
+        "Screenshot 2026-06-14 230132.png",
+        "Screenshot 2026-06-14 230144.png",
+        "index-client.js",
+        "index.js",
+        "cloud-functions/boot-gpu/index.js",
+        "cloud-functions/spatial-relay/index.js",
+        "illustrious-config.json",
+        "server.js",
+        "setup.js",
+        "cloud-functions/boot-gpu/worker-agent.py",
+        "cloud-functions/cluster-manager/index.js",
+        "cloud-functions/boot-gpu/package.json",
+        "cloud-functions/cluster-manager/package.json",
+        "package-lock.json",
+        "package.json",
+        "cloud-functions/oauth-gateway/index.js",
+        "cloud-functions/oauth-gateway/package.json",
+        "index.html",
+        "main.css",
+        "privacy/index.html",
+        "setup-client.js",
+        "setup.html => setup/index.html",
+        "terms/index.html",
+        "CNAME",
+        ".gitignore",
+        "setup.html"
+      ],
+      "commits": [
+        {
+          "hash": "637c437482061cd3d9529fbd05e14acd4805eaec",
+          "author": "Brian Cullinan",
+          "date": "2026-06-15T06:03:44.000Z",
+          "message": "pictures",
+          "linesAdded": 7,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md",
+            "Screenshot 2026-06-14 225931.png",
+            "Screenshot 2026-06-14 230112.png",
+            "Screenshot 2026-06-14 230126.png",
+            "Screenshot 2026-06-14 230132.png",
+            "Screenshot 2026-06-14 230144.png"
+          ]
+        },
+        {
+          "hash": "9ff922cf1601a7719732eebcb7ebc1bcb081e0e7",
+          "author": "Brian Cullinan",
+          "date": "2026-06-15T05:58:51.000Z",
+          "message": "better urls",
+          "linesAdded": 73,
+          "linesDeleted": 9,
+          "filesChanged": [
+            "README.md",
+            "index-client.js",
+            "index.js"
+          ]
+        },
+        {
+          "hash": "57c94883fe4cae252f7058e2a621059616ddfe63",
+          "author": "Brian Cullinan",
+          "date": "2026-06-15T05:50:40.000Z",
+          "message": "better variable handling",
+          "linesAdded": 135,
+          "linesDeleted": 24,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/index.js",
+            "cloud-functions/spatial-relay/index.js",
+            "illustrious-config.json",
+            "index-client.js",
+            "index.js",
+            "server.js",
+            "setup.js"
+          ]
+        },
+        {
+          "hash": "63fbddd90e824b616c08b019b8697f0a24757a38",
+          "author": "Brian Cullinan",
+          "date": "2026-06-15T05:06:30.000Z",
+          "message": "still trying to figure out spot provisioning",
+          "linesAdded": 401,
+          "linesDeleted": 310,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/index.js",
+            "cloud-functions/boot-gpu/worker-agent.py",
+            "cloud-functions/cluster-manager/index.js"
+          ]
+        },
+        {
+          "hash": "dc6043322d7e4f2248bba07f41ed53e57a7dd7ed",
+          "author": "Brian Cullinan",
+          "date": "2026-06-15T04:30:25.000Z",
+          "message": "google is out of gpus",
+          "linesAdded": 325,
+          "linesDeleted": 105,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/index.js",
+            "cloud-functions/cluster-manager/index.js",
+            "index-client.js",
+            "index.js"
+          ]
+        },
+        {
+          "hash": "669efcbe74feaf933606952c1094c1b583519041",
+          "author": "Brian Cullinan",
+          "date": "2026-06-15T03:56:05.000Z",
+          "message": "working on cloud functions to support infrastructure",
+          "linesAdded": 1273,
+          "linesDeleted": 133,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/index.js",
+            "cloud-functions/boot-gpu/package.json",
+            "cloud-functions/boot-gpu/worker-agent.py",
+            "cloud-functions/cluster-manager/index.js",
+            "cloud-functions/cluster-manager/package.json",
+            "index-client.js",
+            "index.js",
+            "package-lock.json",
+            "package.json",
+            "setup.js"
+          ]
+        },
+        {
+          "hash": "0fc869cdd26734533a8f43adff30a63300fae72d",
+          "author": "Brian Cullinan",
+          "date": "2026-06-15T02:41:28.000Z",
+          "message": "woohooo! second commit",
+          "linesAdded": 1854,
+          "linesDeleted": 153,
+          "filesChanged": [
+            "cloud-functions/oauth-gateway/index.js",
+            "cloud-functions/oauth-gateway/package.json",
+            "index-client.js",
+            "index.html",
+            "index.js",
+            "main.css",
+            "package-lock.json",
+            "package.json",
+            "privacy/index.html",
+            "server.js",
+            "setup-client.js",
+            "setup.js",
+            "setup.html => setup/index.html",
+            "terms/index.html"
+          ]
+        },
+        {
+          "hash": "edc597e27665d61d691ff0589851978d181fb255",
+          "author": "Brian Cullinan",
+          "date": "2026-06-15T01:02:09.000Z",
+          "message": "Create CNAME",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "CNAME"
+          ]
+        },
+        {
+          "hash": "e0e376115c6be96f381c68a3296426cb71d612b3",
+          "author": "Brian Cullinan",
+          "date": "2026-06-15T00:32:17.000Z",
+          "message": "initial commit",
+          "linesAdded": 2202,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".gitignore",
+            "cloud-functions/boot-gpu/index.js",
+            "cloud-functions/boot-gpu/package.json",
+            "index.html",
+            "index.js",
+            "main.css",
+            "package-lock.json",
+            "package.json",
+            "setup-client.js",
+            "setup.html",
+            "setup.js"
           ]
         }
       ]
