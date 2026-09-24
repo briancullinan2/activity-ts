@@ -220,8 +220,9 @@ export class ArtWidget extends Widget
 		return data.files || [];
 	}
 
+
 	/**
-	 * Fetches high-res CDN thumbnail binary via CORS fetch and generates local Blob URL
+	 * Fetches high-res Google CDN thumbnail binary via CORS fetch with no-referrer fallback
 	 */
 	private async getDriveImageBlobUrl(file: DriveFile): Promise<string>
 	{
@@ -230,25 +231,88 @@ export class ArtWidget extends Widget
 			return this.blobUrlCache[file.id];
 		}
 
-		// Fallback: If thumbnailLink is missing, use Google's direct public thumbnail URL format
-		let rawThumbnail = file.thumbnailLink || `https://lh3.googleusercontent.com/d/${file.id}`;
+		// Direct Googleusercontent CDN link format with high-res scale parameter
+		let rawUrl = file.thumbnailLink
+			? file.thumbnailLink.replace(/=s\d+$/, '=s1200')
+			: `https://lh3.googleusercontent.com/d/${file.id}=s1200`;
 
-		// Replace default size parameter (=s220) with high resolution (=s1200)
-		const highResUrl = rawThumbnail.replace(/=s\d+$/, '=s1200');
+		try
+		{
+			const response = await fetch(rawUrl, {
+				method: 'GET',
+				mode: 'cors',
+				credentials: 'omit',
+				referrerPolicy: 'no-referrer'
+			});
 
-		const response = await fetch(highResUrl, {
-			method: 'GET',
-			mode: 'cors',
-			credentials: 'omit'
+			if(!response.ok) throw new Error(`HTTP ${response.status}`);
+
+			const blob = await response.blob();
+			const objectUrl = URL.createObjectURL(blob);
+			this.blobUrlCache[file.id] = objectUrl;
+			return objectUrl;
+		}
+		catch(err)
+		{
+			// Fallback directly to the CDN URL if blob fetch fails
+			return rawUrl;
+		}
+	}
+
+	private renderCoverflow(images: DriveFile[]): void
+	{
+		const container = this.node.querySelector('#coverflow-container');
+		if(!container) return;
+
+		if(images.length === 0)
+		{
+			container.innerHTML = `<div class="empty-state">No images in selected style</div>`;
+			this.updateTags([]);
+			return;
+		}
+
+		container.innerHTML = images
+			.map((img, idx) => `
+                <div class="coverflow-card" data-idx="${idx}" id="cf-card-${idx}">
+                    <div class="coverflow-card-label">${img.name}</div>
+                </div>
+            `)
+			.join('');
+
+		container.querySelectorAll('.coverflow-card').forEach(card =>
+		{
+			card.addEventListener('click', e =>
+			{
+				const idx = parseInt((e.currentTarget as HTMLElement).dataset.idx || '0', 10);
+				this.activeImageIdx = idx;
+				this.applyCoverflowTransforms();
+			});
 		});
 
-		if(!response.ok) throw new Error(`HTTP ${response.status}`);
+		this.applyCoverflowTransforms();
 
-		const blob = await response.blob();
-		const objectUrl = URL.createObjectURL(blob);
-		this.blobUrlCache[file.id] = objectUrl;
-		return objectUrl;
+		// Populate card background images asynchronously with pre-fetched Blobs or direct CDN URLs
+		images.forEach(async (img, idx) =>
+		{
+			try
+			{
+				const imageUrl = await this.getDriveImageBlobUrl(img);
+				const cardNode = this.node.querySelector(`#cf-card-${idx}`) as HTMLElement;
+				if(cardNode)
+				{
+					cardNode.style.backgroundImage = `url("${imageUrl}")`;
+					cardNode.style.backgroundSize = 'cover';
+					cardNode.style.backgroundPosition = 'center';
+				}
+			}
+			catch(err)
+			{
+				console.error(`Failed to load image for ${img.name}:`, err);
+			}
+		});
 	}
+
+
 
 	private renderWidgetFrame(): void
 	{
@@ -400,57 +464,6 @@ export class ArtWidget extends Widget
 		const folderMeta = this.categoryMap[this.activeCategory]?.[this.activeStyle];
 		if(!folderMeta) return [];
 		return this.imageCache[folderMeta.id] || [];
-	}
-
-	private renderCoverflow(images: DriveFile[]): void
-	{
-		const container = this.node.querySelector('#coverflow-container');
-		if(!container) return;
-
-		if(images.length === 0)
-		{
-			container.innerHTML = `<div class="empty-state">No images in selected style</div>`;
-			this.updateTags([]);
-			return;
-		}
-
-		container.innerHTML = images
-			.map((img, idx) => `
-                <div class="coverflow-card" data-idx="${idx}" id="cf-card-${idx}">
-                    <div class="coverflow-card-label">${img.name}</div>
-                </div>
-            `)
-			.join('');
-
-		container.querySelectorAll('.coverflow-card').forEach(card =>
-		{
-			card.addEventListener('click', e =>
-			{
-				const idx = parseInt((e.currentTarget as HTMLElement).dataset.idx || '0', 10);
-				this.activeImageIdx = idx;
-				this.applyCoverflowTransforms();
-			});
-		});
-
-		this.applyCoverflowTransforms();
-
-		// Fetch binary image blobs asynchronously using CDN thumbnails
-		images.forEach(async (img, idx) =>
-		{
-			try
-			{
-				const blobUrl = await this.getDriveImageBlobUrl(img);
-				const cardNode = this.node.querySelector(`#cf-card-${idx}`) as HTMLElement;
-				if(cardNode)
-				{
-					cardNode.style.backgroundImage = `url('${blobUrl}')`;
-				}
-			}
-			catch(err)
-			{
-				console.error(`Failed to load image blob for ${img.name}:`, err);
-			}
-		});
 	}
 
 	private rotateCoverflow(direction: number): void
