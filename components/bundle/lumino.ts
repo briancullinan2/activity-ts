@@ -104,7 +104,7 @@ function main(): void
 	messaging.MessageLoop.installMessageHook(mainDock, (handler, msg: messaging.Message) =>
 	{
 		//console.log(msg);
-		if(msg.type === 'child-shown')
+		if(msg.type === 'child-shown' && (msg as any).child)
 		{
 			const shownWidget = (msg as any).child as Widget;
 			const newType = shownWidget?.constructor.name;
@@ -126,7 +126,7 @@ function main(): void
 		}
 
 
-		if(msg.type === 'child-added')
+		if(msg.type === 'child-added' && (msg as any).child)
 		{
 			const addingWidget = (msg as any).child as Widget;
 			const newType = addingWidget?.constructor.name;
@@ -147,7 +147,7 @@ function main(): void
 		}
 
 
-		if(msg.type === 'child-removed')
+		if(msg.type === 'child-removed' && (msg as any).child)
 		{
 			// The handler in this context is the widget receiving the close command
 			const closingWidget = (msg as any).child as Widget;
@@ -172,15 +172,15 @@ function main(): void
 			if(fallbackWidget)
 			{
 				const target = fallbackWidget;
-				requestAnimationFrame(() =>
+				setTimeout(() =>
 				{
-					if(!target.isDisposed && !target.isHidden)
+					if(!target.isDisposed && !target.isHidden && target.isAttached)
 					{
 						luminoSelf.lastInteractedWidget = target;
 						mainDock.activateWidget(target);
 						luminoSelf.resizeHandler?.();
 					}
-				});
+				}, 100);
 			}
 		}
 

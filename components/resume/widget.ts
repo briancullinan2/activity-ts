@@ -44,6 +44,9 @@ export interface IEducationEntry
 	graduation_year: number;
 	gpa: string;
 	relevant_coursework: string[];
+	related_skills: string[];
+	details: string;
+
 }
 
 export interface IExtracurricularEntry
@@ -51,6 +54,7 @@ export interface IExtracurricularEntry
 	title: string;
 	duration: string;
 	details: string;
+	related_skills: string[];
 }
 
 export interface IFullResumeData
@@ -203,15 +207,21 @@ export class ResumeWidget extends Widget
 	private _openSkillsSidebar(): void
 	{
 		const skillsWidget = widgetSelf.SkillsWidget?.getInstance();
-
-		// Check if layout adjuster and main dock panel exist globally
-		const globalSelf = self as unknown as { mainDock?: any; };
-		if(globalSelf.mainDock && skillsWidget && !skillsWidget.isAttached)
+		if(!widgetSelf.mainDock || !skillsWidget)
 		{
-			widgetSelf.LayoutAdjuster?.addOptimalWidgetLayout(globalSelf.mainDock, skillsWidget, {
+			return;
+		}
+		// Check if layout adjuster and main dock panel exist globally
+
+		if(!skillsWidget.isAttached)
+		{
+			widgetSelf.LayoutAdjuster?.addOptimalWidgetLayout(widgetSelf.mainDock, skillsWidget, {
 				type: 'outline',
 				projectId: skillsWidget.constructor.name
 			});
+		} else
+		{
+			skillsWidget.show();
 		}
 	}
 
@@ -244,6 +254,29 @@ export class ResumeWidget extends Widget
 			widgetSelf.SkillsWidget?.getInstance().close();
 		}
 		super.processMessage(msg);
+	}
+
+	protected onActivateRequest(msg: Message): void
+	{
+		super.onActivateRequest(msg);
+		this._openSkillsSidebar();
+	}
+
+	protected onAfterShow(msg: Message): void
+	{
+		super.onAfterShow(msg);
+		this._openSkillsSidebar();
+	}
+	protected override onBeforeDetach(msg: Message): void
+	{
+		widgetSelf.SkillsWidget?.getInstance().close();
+		super.onBeforeDetach(msg);
+	}
+
+	protected onBeforeHide(msg: Message): void
+	{
+		widgetSelf.SkillsWidget?.getInstance().close();
+		super.onBeforeHide(msg);
 	}
 
 	private _buildUI(): void
@@ -319,7 +352,7 @@ export class ResumeWidget extends Widget
 			{ id: 'skills', label: 'Skills & Tools Matrix' },
 			{ id: 'experience', label: 'Employment History' },
 			{ id: 'education', label: 'Education' },
-			{ id: 'sabbaticals', label: 'Sabbaticals & Construction' }
+			{ id: 'sabbaticals', label: 'Sabbaticals & Interests' }
 		];
 
 		sections.forEach(s =>
@@ -348,6 +381,7 @@ export class ResumeWidget extends Widget
 
 		// Section 3: Floating Flash Cards Container
 		this._cardsContainerEl = document.createElement('div');
+		this._cardsContainerEl.id = 'cards-container';
 		this._cardsContainerEl.style.display = 'flex';
 		this._cardsContainerEl.style.flexDirection = 'column';
 		this._cardsContainerEl.style.gap = '14px';
@@ -448,28 +482,59 @@ export class ResumeWidget extends Widget
 		}
 	}
 
-	private _renderD3Heatmap(): void
-	{
-		if(typeof d3 === 'undefined' || !this._heatmapSvgEl) return;
 
-		const svg = d3.select(this._heatmapSvgEl);
+
+	/**
+		 * Parses a period string (e.g. "2021 - Present", "May 2018 - Dec 2020", "2016")
+		 * to extract structured start/end years and 'isPresent' state for sorting.
+		 */
+	private _parsePeriod(periodStr?: string): { startYear: number; endYear: number; isPresent: boolean; }
+	{
+		if(!periodStr) return { startYear: 0, endYear: 0, isPresent: false };
+
+		const isPresent = /present/i.test(periodStr);
+		const currentYear = new Date().getFullYear();
+		const years = periodStr.match(/\b(19|20)\d{2}\b/g)?.map(Number) || [];
+
+		let startYear = 0;
+		let endYear = 0;
+
+		if(years.length >= 2)
+		{
+			startYear = years[0];
+			endYear = isPresent ? currentYear : years[1];
+		} else if(years.length === 1)
+		{
+			startYear = years[0];
+			endYear = isPresent ? currentYear : years[0];
+		}
+
+		return { startYear, endYear, isPresent };
+	}
+
+	/**
+	 * Renders a single-year D3 Git Heatmap into a target SVG element
+	 */
+	private _renderD3HeatmapForYear(svgEl: SVGSVGElement, year: number): void
+	{
+		if(typeof d3 === 'undefined' || !svgEl) return;
+
+		const svg = d3.select(svgEl);
 		svg.selectAll('*').remove();
 
-		const width = this._heatmapSvgEl.clientWidth || 900;
+		const width = svgEl.clientWidth || 900;
 		const margin = { top: 15, right: 20, bottom: 15, left: 35 };
-
-		const endYear = new Date().getFullYear();
-		const startYear = endYear - 1;
-		const years = [endYear, startYear];
-
 		const dayLength = 60 * 60 * 24;
 		const sizeByDay = Math.min(12, (width - margin.left - margin.right) / 54);
 
 		const dayCounts: Record<number, number> = {};
 		for(const ev of this._gitEvents)
 		{
-			const dayKey = Math.floor(ev.start.getTime() / (1000 * dayLength)) * dayLength;
-			dayCounts[dayKey] = (dayCounts[dayKey] || 0) + (ev.end.getTime() - ev.start.getTime());
+			if(ev.start.getFullYear() === year)
+			{
+				const dayKey = Math.floor(ev.start.getTime() / (1000 * dayLength)) * dayLength;
+				dayCounts[dayKey] = (dayCounts[dayKey] || 0) + (ev.end.getTime() - ev.start.getTime());
+			}
 		}
 
 		const colorScale = d3.scaleLinear<string>()
@@ -477,39 +542,82 @@ export class ResumeWidget extends Widget
 			.domain([0, 5000000, 10000000]);
 
 		const rootG = svg.append('g').attr('transform', `translate(${margin.left},${margin.top})`);
+		const yearG = rootG.append('g').attr('transform', `translate(20, 0)`);
 
-		years.forEach((y, i) =>
+		yearG.append('text')
+			.text(year)
+			.attr('fill', '#888')
+			.attr('font-size', '10px')
+			.attr('transform', `translate(-25, ${sizeByDay * 3.5}) rotate(-90)`)
+			.attr('text-anchor', 'middle');
+
+		const daysInYear = d3.timeDays(new Date(year, 0, 1), new Date(year + 1, 0, 1));
+
+		yearG.selectAll('.day')
+			.data(daysInYear)
+			.enter().append('rect')
+			.attr('class', 'day')
+			.attr('width', sizeByDay - 1)
+			.attr('height', sizeByDay - 1)
+			.attr('x', (d: Date) => parseInt(d3.timeFormat('%W')(d)) * sizeByDay)
+			.attr('y', (d: Date) => ((d.getDay() + 6) % 7) * sizeByDay)
+			.attr('fill', (d: Date) =>
+			{
+				const key = Math.floor(d.getTime() / (1000 * dayLength)) * dayLength;
+				const val = dayCounts[key];
+				return val ? colorScale(val) : '#222';
+			})
+			.attr('rx', 2)
+			.append('title')
+			.text((d: Date) => `${d3.timeFormat('%Y-%m-%d')(d)}: Activity Recorded`);
+	}
+
+	private _renderD3Heatmap(): void
+	{
+		// Primary single-year heatmap call wrapper (re-rendered during cards layout pass)
+		const currentYear = new Date().getFullYear();
+		if(this._heatmapSvgEl)
 		{
-			const yearG = rootG.append('g')
-				.attr('transform', `translate(20, ${i * (sizeByDay * 8 + 14)})`);
+			this._renderD3HeatmapForYear(this._heatmapSvgEl, currentYear);
+		}
+	}
 
-			yearG.append('text')
-				.text(y)
-				.attr('fill', '#888')
-				.attr('font-size', '10px')
-				.attr('transform', `translate(-25, ${sizeByDay * 3.5}) rotate(-90)`)
-				.attr('text-anchor', 'middle');
+	/**
+	 * Scans the full master resume dataset across all sections to find
+	 * the absolute earliest start year, ensuring heatmap flush loops
+	 * never terminate early when filtering section views.
+	 */
+	private _getGlobalEarliestStartYear(): number
+	{
+		const currentYear = new Date().getFullYear();
+		if(!this._resumeData) return currentYear;
 
-			const daysInYear = d3.timeDays(new Date(y, 0, 1), new Date(y + 1, 0, 1));
+		let earliestYear = currentYear;
 
-			yearG.selectAll('.day')
-				.data(daysInYear)
-				.enter().append('rect')
-				.attr('class', 'day')
-				.attr('width', sizeByDay - 1)
-				.attr('height', sizeByDay - 1)
-				.attr('x', (d: Date) => parseInt(d3.timeFormat('%W')(d)) * sizeByDay)
-				.attr('y', (d: Date) => ((d.getDay() + 6) % 7) * sizeByDay)
-				.attr('fill', (d: Date) =>
-				{
-					const key = Math.floor(d.getTime() / (1000 * dayLength)) * dayLength;
-					const val = dayCounts[key];
-					return val ? colorScale(val) : '#222';
-				})
-				.attr('rx', 2)
-				.append('title')
-				.text((d: Date) => `${d3.timeFormat('%Y-%m-%d')(d)}: Activity Recorded`);
+		// Scan Employment
+		this._resumeData.employment_history?.forEach(emp =>
+		{
+			const p = this._parsePeriod(emp.period);
+			if(p.startYear && p.startYear < earliestYear) earliestYear = p.startYear;
 		});
+
+		// Scan Education
+		this._resumeData.education?.forEach(edu =>
+		{
+			const periodStr = (edu as any).period || `${edu.graduation_year}`;
+			const p = this._parsePeriod(periodStr);
+			if(p.startYear && p.startYear < earliestYear) earliestYear = p.startYear;
+		});
+
+		// Scan Sabbaticals & Extracurriculars
+		this._resumeData.extracurricular_and_sabbaticals?.forEach(sab =>
+		{
+			const periodStr = (sab as any).period || sab.duration;
+			const p = this._parsePeriod(periodStr);
+			if(p.startYear && p.startYear < earliestYear) earliestYear = p.startYear;
+		});
+
+		return earliestYear;
 	}
 
 	private _renderCards(): void
@@ -517,27 +625,12 @@ export class ResumeWidget extends Widget
 		if(!this._cardsContainerEl) return;
 		this._cardsContainerEl.replaceChildren();
 
-
-		if(this._activeSection === 'all')
-		{
-			// Section 1: Client-Side D3 Git Commit Heatmap
-			const heatmapCard = this._createGlassCard('Engineering Activity & Commit Visualizer (Client-Side D3)', 'bx bx-calendar');
-			heatmapCard.wrapper.classList.add('no-print');
-			this._heatmapSvgEl = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-			this._heatmapSvgEl.style.width = '100%';
-			this._heatmapSvgEl.style.height = '140px';
-			heatmapCard.content.appendChild(this._heatmapSvgEl);
-			this._cardsContainerEl.appendChild(heatmapCard.wrapper);
-			this._generateSyntheticGitHistory();
-			this._renderD3Heatmap();
-		}
-
-		// 1. Executive Profile & Federal Metadata Card
+		// 1. Render Top Executive Profile Card
 		if(this._activeSection === 'all' || this._activeSection === 'profile')
 		{
 			const prof = this._resumeData?.applicant_profile;
 			const profCard = this._createGlassCard(null, 'bx bx-user');
-			profCard.wrapper.className += ' resume-entry-card';
+			profCard.wrapper.className += ' resume-entry-card resume-entry-card-profile';
 			profCard.content.innerHTML += `
                 <div style="font-size:12px; line-height:1.5; color:#ccc; margin-bottom:10px;" class="print-text-dark">
                     <i class="bx bx-user"></i> ${prof?.executive_summary}
@@ -552,38 +645,180 @@ export class ResumeWidget extends Widget
 			this._cardsContainerEl.appendChild(profCard.wrapper);
 		}
 
-		// 2. Employment Experience Cards
-		if(this._activeSection === 'all' || this._activeSection === 'experience')
+		// 2. Normalize and Pool All Timeline Entries Across Sections
+		interface IUnifiedTimelineEntry
+		{
+			type: 'experience' | 'education' | 'sabbaticals';
+			title: string;
+			iconClass: string;
+			location?: string;
+			period: string;
+			narrative?: string;
+			highlights?: string[];
+			related_skills?: string[];
+			parsedPeriod: { startYear: number; endYear: number; isPresent: boolean; };
+		}
+
+		const unifiedEntries: IUnifiedTimelineEntry[] = [];
+
+		// Ingest Employment
+		if(this._activeSection === 'all' || this._activeSection === 'experience' || this._activeSection === 'skills')
 		{
 			this._resumeData?.employment_history.forEach(emp =>
 			{
-				const card = this._createGlassCard(`${emp.role} — ${emp.company}`, 'bx bx-briefcase');
-				card.wrapper.className += ' resume-entry-card';
-				card.wrapper.setAttribute('data-tags', JSON.stringify(emp.related_skills));
+				unifiedEntries.push({
+					type: 'experience',
+					title: `${emp.role} — ${emp.company}`,
+					iconClass: 'bx bx-briefcase',
+					location: emp.location,
+					period: emp.period,
+					narrative: emp.narrative,
+					highlights: emp.highlights,
+					related_skills: emp.related_skills,
+					parsedPeriod: this._parsePeriod(emp.period)
+				});
+			});
+		}
 
-				const subHead = document.createElement('div');
-				subHead.style.display = 'flex';
-				subHead.style.justifyContent = 'space-between';
-				subHead.style.fontSize = '11px';
-				subHead.style.color = '#ce9178';
-				subHead.style.marginBottom = '6px';
-				subHead.innerHTML = `<span>${emp.location}</span><span>${emp.period}</span>`;
+		// Ingest Education
+		if(this._activeSection === 'all' || this._activeSection === 'education')
+		{
+			this._resumeData?.education.forEach(edu =>
+			{
+				const periodStr = (edu as any).period || `${edu.graduation_year}`;
+				const locationStr = (edu as any).location || 'Flagstaff, AZ';
+				const narrativeStr = (edu as any).narrative || `Graduated: ${edu.graduation_year} | GPA: ${edu.gpa}\n${edu.details}`;
+				unifiedEntries.push({
+					type: 'education',
+					title: `${edu.degree} — ${edu.institution}`,
+					iconClass: 'bx bx-education',
+					location: locationStr,
+					period: periodStr,
+					narrative: narrativeStr,
+					highlights: edu.relevant_coursework,
+					related_skills: (edu as any).related_skills || [],
+					parsedPeriod: this._parsePeriod(periodStr)
+				});
+			});
+		}
 
+		// Ingest Sabbaticals & Construction
+		if(this._activeSection === 'all' || this._activeSection === 'sabbaticals')
+		{
+			this._resumeData?.extracurricular_and_sabbaticals.forEach(sab =>
+			{
+				const periodStr = (sab as any).period || sab.duration;
+				const locationStr = (sab as any).location || 'Flagstaff, AZ';
+				const narrativeStr = (sab as any).narrative || sab.details;
+				unifiedEntries.push({
+					type: 'sabbaticals',
+					title: sab.title,
+					iconClass: 'bx bx-globe',
+					location: locationStr,
+					period: periodStr,
+					narrative: narrativeStr,
+					highlights: (sab as any).highlights || [],
+					related_skills: (sab as any).related_skills || [],
+					parsedPeriod: this._parsePeriod(periodStr)
+				});
+			});
+		}
+
+		// 3. Chronological Sort Strategy
+		unifiedEntries.sort((a, b) =>
+		{
+			const pA = a.parsedPeriod;
+			const pB = b.parsedPeriod;
+
+			if(pA.endYear !== pB.endYear)
+			{
+				return pB.endYear - pA.endYear;
+			}
+
+			if(pA.isPresent !== pB.isPresent)
+			{
+				return pA.isPresent ? 1 : -1;
+			}
+
+			return pB.startYear - pA.startYear;
+		});
+
+		// Helper to append a year-specific heatmap card
+		const appendHeatmapCardForYear = (year: number) =>
+		{
+			const heatmapCard = this._createGlassCard(`Work Activity — Year of ${year}`, 'bx bx-calendar');
+			heatmapCard.wrapper.classList.add('no-print', 'resume-entry-card', 'year-heatmap-card');
+
+			const yearSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+			yearSvg.style.width = '100%';
+			yearSvg.style.height = '120px';
+
+			heatmapCard.content.appendChild(yearSvg);
+			this._cardsContainerEl.appendChild(heatmapCard.wrapper);
+
+			this._renderD3HeatmapForYear(yearSvg, year);
+		};
+
+		// 4. Render Entries and Append Heatmap at the Bottom of Each Year Block
+		let currentYearBlock: number | null = (new Date).getFullYear();
+		const shouldShowHeatmaps = (this._activeSection === 'all' || this._activeSection === 'profile' || this._activeSection === 'experience');
+
+		unifiedEntries.forEach((entry, index) =>
+		{
+			const entryYear = entry.parsedPeriod.endYear || entry.parsedPeriod.startYear;
+
+			// Track year initialization
+			if(currentYearBlock === null)
+			{
+				currentYearBlock = entryYear;
+			}
+
+			// When stepping down to an older year, flush heatmaps for all skipped years in reverse countdown
+			if(shouldShowHeatmaps && currentYearBlock !== null && entryYear < currentYearBlock)
+			{
+				for(let y = currentYearBlock; y > entryYear; y--)
+				{
+					appendHeatmapCardForYear(y);
+				}
+				currentYearBlock = entryYear;
+			}
+
+			// Render Card
+			const card = this._createGlassCard(entry.title, entry.iconClass);
+			card.wrapper.className += ` resume-entry-card resume-entry-card-${index}`;
+			card.wrapper.setAttribute('data-tags', JSON.stringify(entry.related_skills || []));
+
+			const subHead = document.createElement('div');
+			subHead.style.display = 'flex';
+			subHead.style.justifyContent = 'space-between';
+			subHead.style.fontSize = '11px';
+			subHead.style.color = '#ce9178';
+			subHead.style.marginBottom = '6px';
+			subHead.innerHTML = `<span>${entry.location || ''}</span><span>${entry.period}</span>`;
+
+			card.content.appendChild(subHead);
+
+			if(entry.narrative)
+			{
 				const narrative = document.createElement('div');
 				narrative.className = 'print-text-dark';
 				narrative.style.fontSize = '11px';
 				narrative.style.fontStyle = 'italic';
 				narrative.style.color = '#aaa';
 				narrative.style.marginBottom = '8px';
-				narrative.textContent = emp.narrative;
+				narrative.textContent = entry.narrative;
+				card.content.appendChild(narrative);
+			}
 
+			if(entry.highlights && entry.highlights.length > 0 && this._activeSection !== 'skills')
+			{
 				const ul = document.createElement('ul');
 				ul.style.margin = '0 0 10px 18px';
 				ul.style.padding = '0';
 				ul.style.fontSize = '11px';
 				ul.style.color = '#ddd';
 
-				emp.highlights.forEach(h =>
+				entry.highlights.forEach(h =>
 				{
 					const li = document.createElement('li');
 					li.className = 'print-text-dark';
@@ -591,13 +826,17 @@ export class ResumeWidget extends Widget
 					li.textContent = h;
 					ul.appendChild(li);
 				});
+				card.content.appendChild(ul);
+			}
 
+			if(entry.related_skills && entry.related_skills.length > 0)
+			{
 				const tagsBox = document.createElement('div');
 				tagsBox.style.display = 'flex';
 				tagsBox.style.flexWrap = 'wrap';
 				tagsBox.style.gap = '4px';
 
-				emp.related_skills.forEach(skill =>
+				entry.related_skills.forEach(skill =>
 				{
 					const badge = document.createElement('span');
 					badge.className = 'print-badge';
@@ -610,49 +849,22 @@ export class ResumeWidget extends Widget
 					badge.textContent = skill;
 					tagsBox.appendChild(badge);
 				});
-
-				card.content.appendChild(subHead);
-				card.content.appendChild(narrative);
-				card.content.appendChild(ul);
 				card.content.appendChild(tagsBox);
+			}
 
-				this._cardsContainerEl.appendChild(card.wrapper);
-			});
-		}
+			this._cardsContainerEl.appendChild(card.wrapper);
+		});
 
-		// 3. Education Card
-		if(this._activeSection === 'all' || this._activeSection === 'education')
+		// 5. Tail Flush: Emit heatmaps from the oldest rendered block down to the global dataset minimum year
+		if(shouldShowHeatmaps && currentYearBlock !== null)
 		{
-			this._resumeData?.education.forEach(edu =>
+			const globalEarliestYear = this._getGlobalEarliestStartYear();
+			for(let y = currentYearBlock; y >= globalEarliestYear; y--)
 			{
-				const eduCard = this._createGlassCard(`${edu.degree} — ${edu.institution}`, 'bx bx-education');
-				eduCard.wrapper.className += ' resume-entry-card';
-				eduCard.content.innerHTML = `
-                    <div style="font-size:11px; color:#888; margin-bottom:6px;">Graduated: ${edu.graduation_year} | GPA: ${edu.gpa}</div>
-                    <div style="font-size:11px; font-weight:bold; color:#569cd6; margin-bottom:4px;">Relevant Coursework:</div>
-                    <div style="display:flex; flex-wrap:wrap; gap:4px;">
-                        ${edu.relevant_coursework.map(c => `<span class="print-badge" style="font-size:9px; padding:2px 6px; background:#252526; color:#dcdcaa; border-radius:2px;">${c}</span>`).join('')}
-                    </div>
-                `;
-				this._cardsContainerEl.appendChild(eduCard.wrapper);
-			});
-		}
-
-		// 4. Sabbaticals & General Contracting Card
-		if(this._activeSection === 'all' || this._activeSection === 'sabbaticals')
-		{
-			this._resumeData?.extracurricular_and_sabbaticals.forEach(sab =>
-			{
-				const sabCard = this._createGlassCard(`${sab.title} (${sab.duration})`, 'bx bx-globe');
-				sabCard.wrapper.className += ' resume-entry-card';
-				sabCard.content.innerHTML = `
-                    <div style="font-size:11px; line-height:1.4; color:#ccc;" class="print-text-dark">${sab.details}</div>
-                `;
-				this._cardsContainerEl.appendChild(sabCard.wrapper);
-			});
+				appendHeatmapCardForYear(y);
+			}
 		}
 	}
-
 }
 
 widgetSelf.ResumeWidget = ResumeWidget;

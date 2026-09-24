@@ -1,8 +1,9 @@
 import { Widget } from '@lumino/widgets';
 import { Message, MessageLoop } from '@lumino/messaging';
 import type { ISkillMetric, IFullResumeData, ResumeWidget } from './widget';
+import type { LuminoLayoutWindow } from '../bundle/lumino.d';
 
-const widgetSelf = self as unknown as & {
+const widgetSelf = self as unknown as LuminoLayoutWindow & {
 	ResumeWidget?: typeof ResumeWidget;
 	SkillsWidget?: typeof SkillsWidget;
 };
@@ -47,17 +48,9 @@ export class SkillsWidget extends Widget
 		if(msg.type === 'close-request')
 		{
 			console.log('Intercepted close request, hiding instead: ' + this.title.label);
-			// Hijack the close! Instead of destroying, hide the panel
 			this.hide();
-			this.parent = null;
-
-			// Notify the parent DockPanel to recalculate layout paths immediately
-			if(this.parent)
-			{
-				// Forcing an internal update pass so layout sizes collapse seamlessly
-				MessageLoop.sendMessage(this.parent, new Message('layout-request'));
-			}
-			return; // BAIL OUT: Avoid calling super.processMessage() to prevent disposal
+			widgetSelf.mainDock?.layout?.removeWidget(this);
+			return;
 		}
 
 		super.processMessage(msg);
@@ -179,8 +172,68 @@ export class SkillsWidget extends Widget
 		specBox.style.flexWrap = 'wrap';
 		specBox.style.gap = '4px';
 
-		matrix?.advanced_frameworks_and_specializations.forEach(spec =>
+		// Collect all baseline specializations
+		const allSkills = new Set(matrix?.advanced_frameworks_and_specializations || []);
+
+		// Helper function to extract skills from various data structures (arrays or objects)
+		const extractSkills = (skillsData: any) =>
 		{
+			if(!skillsData) return;
+			if(Array.isArray(skillsData))
+			{
+				skillsData.forEach(skill =>
+				{
+					if(typeof skill === 'string' && skill.trim())
+					{
+						allSkills.add(skill.trim());
+					}
+				});
+			} else if(typeof skillsData === 'object')
+			{
+				Object.values(skillsData).forEach(nestedSkills => extractSkills(nestedSkills));
+			}
+		};
+
+		// 1. Iterate over employment_history
+		if(Array.isArray(this._resumeData?.employment_history))
+		{
+			this._resumeData.employment_history.forEach(item =>
+			{
+				extractSkills(item.related_skills);
+			});
+		}
+
+		// 2. Iterate over education
+		if(Array.isArray(this._resumeData?.education))
+		{
+			this._resumeData.education.forEach(item =>
+			{
+				extractSkills(item.related_skills);
+				extractSkills(item.relevant_coursework);
+			});
+		}
+
+		// 3. Iterate over extracurricular_and_sabbaticals
+		if(Array.isArray(this._resumeData?.extracurricular_and_sabbaticals))
+		{
+			this._resumeData.extracurricular_and_sabbaticals.forEach(item =>
+			{
+				extractSkills(item.related_skills);
+			});
+		}
+
+		const existingSkills = matrix.skills.map(s => s.name.toLowerCase().split(/\s*\/\s*/gi)).flat()
+			.concat(matrix.core_languages.map(s => s.name.toLowerCase().split(/\s*\/\s*/gi)).flat());
+
+		// Render deduplicated skill tags
+		allSkills.forEach(spec =>
+		{
+
+			if(existingSkills.includes(spec.toLowerCase()))
+			{
+				return;
+			}
+
 			const tag = document.createElement('span');
 			tag.style.fontSize = '10px';
 			tag.style.padding = '2px 6px';
@@ -189,6 +242,8 @@ export class SkillsWidget extends Widget
 			tag.style.color = '#dcdcaa';
 			tag.style.border = '1px solid #3c3c3c';
 			tag.style.cursor = 'pointer';
+			tag.style.display = 'inline-block';
+			tag.style.margin = '2px';
 			tag.textContent = spec;
 
 			tag.addEventListener('mouseenter', () => this._filterTimelineBySkill(spec));
@@ -196,6 +251,7 @@ export class SkillsWidget extends Widget
 
 			specBox.appendChild(tag);
 		});
+
 		this._skillsContainerEl.appendChild(specBox);
 	}
 
@@ -271,19 +327,26 @@ export class SkillsWidget extends Widget
 		for(const card of cards)
 		{
 			const tags: string[] = JSON.parse(card.getAttribute('data-tags') || '[]');
-			const matches = tags.some(t => t.toLowerCase().includes(skillName.toLowerCase()) || skillName.toLowerCase().includes(t.toLowerCase()));
+			const matches = tags.some(t => t.toLowerCase() === skillName.toLowerCase()
+				|| skillName.split(/\s*\/\s*/gi).some(s => t.toLowerCase() === s.toLowerCase()));
 
 			if(matches)
 			{
+				card.classList.remove('excluded');
+				card.classList.add('included');
 				card.style.opacity = '1';
-				card.style.transform = 'scale(1.01)';
+				//card.style.transform = 'scale(1.01)';
+				card.style.display = 'block';
 				card.style.margin = '0';
 				card.style.borderColor = '#4ec9b0';
 			} else
 			{
+				card.classList.remove('included');
+				card.classList.add('excluded');
 				card.style.opacity = '0.2';
-				card.style.transform = 'scaleX(0.9) scaleY(0.5)';
-				card.style.margin = '-12.5% 0 -12.5% 0';
+				card.style.display = 'none';
+				//card.style.transform = 'scaleX(0.9) scaleY(0.9)';
+				//card.style.margin = '0 0 -25% 0';
 				card.style.borderColor = 'rgba(255, 255, 255, 0.08)';
 			}
 		}
@@ -304,8 +367,11 @@ export class SkillsWidget extends Widget
 		const cards = Array.from(that?.node.querySelectorAll('.resume-entry-card') ?? []) as HTMLElement[];
 		for(const card of cards)
 		{
+			card.classList.remove('excluded');
+			card.classList.add('included');
 			card.style.opacity = '1';
-			card.style.transform = 'scale(1)';
+			card.style.display = 'block';
+			//card.style.transform = 'scale(1)';
 			card.style.margin = '0';
 			card.style.borderColor = 'rgba(255, 255, 255, 0.08)';
 		}

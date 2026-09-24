@@ -6,7 +6,34 @@
 	border: 1px solid rgba(255, 255, 255, 0.08) !important;
 	border-radius: 8px !important;
 	box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37) !important;
-	transition: margin 0.2s ease, transform 0.2s ease, border-color 0.2s ease, opacity 0.2s ease !important;
+	transition: max-height 0.2s ease, min-height 0.2s ease, line-clamp 0.2s ease, margin 0.2s ease, transform 0.2s ease, border-color 0.2s ease, opacity 0.2s ease !important;
+	transform-origin: top left;
+	line-clamp: 100;
+}
+
+
+#cards-container>.glass-card.excluded {
+	min-height: 0;
+	max-height: 0;
+	overflow: hidden;
+}
+
+#cards-container>.year-heatmap-card.excluded {
+	min-height: 0;
+	max-height: 0;
+}
+
+#cards-container>div {
+	min-height: 150px;
+	max-height: 1000px;
+}
+
+.glass-card.excluded>div {
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	line-clamp: 1;
+	overflow: hidden;
 }
 
 .glass-card:hover {

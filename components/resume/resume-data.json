@@ -21,12 +21,12 @@
 		"summary": "Exhaustive list of tools and concepts mastered, sorted by years of endurance.",
 		"skills": [
 			{
-				"name": "Business & Leadership",
+				"name": "Business / Leadership",
 				"years": 22.2,
 				"category": "skill"
 			},
 			{
-				"name": "Failure Experience & Recovery",
+				"name": "Failure Experience / Recovery",
 				"years": 16.4,
 				"category": "skill"
 			},
@@ -51,7 +51,7 @@
 				"category": "skill"
 			},
 			{
-				"name": "Security & Ethical Hacking",
+				"name": "Security / Ethical Hacking",
 				"years": 11.7,
 				"category": "skill"
 			},
@@ -71,7 +71,7 @@
 				"category": "skill"
 			},
 			{
-				"name": "User Experience (UX/UI)",
+				"name": "User Experience / UX/UI",
 				"years": 7.5,
 				"category": "skill"
 			},
@@ -81,7 +81,7 @@
 				"category": "skill"
 			},
 			{
-				"name": "Marketing & Sales Tech",
+				"name": "Marketing / Sales Tech",
 				"years": 5.0,
 				"category": "skill"
 			},
@@ -91,7 +91,7 @@
 				"category": "skill"
 			},
 			{
-				"name": "DevOps & CI/CD",
+				"name": "DevOps / CI/CD",
 				"years": 3.2,
 				"category": "skill"
 			},
@@ -121,7 +121,7 @@
 				"category": "skill"
 			},
 			{
-				"name": "Mathematics & Algorithms",
+				"name": "Mathematics / Algorithms",
 				"years": 2.5,
 				"category": "skill"
 			}
@@ -143,7 +143,7 @@
 				"proficiency": "Expert"
 			},
 			{
-				"name": "PHP (4/5/7)",
+				"name": "PHP / PHP (4/5/7)",
 				"years": 10.8,
 				"proficiency": "Expert"
 			},
@@ -153,7 +153,7 @@
 				"proficiency": "Expert"
 			},
 			{
-				"name": "C / C++ / WebAssembly (WASI)",
+				"name": "C / C++ / WebAssembly / WASI / WASM",
 				"years": 6.0,
 				"proficiency": "Advanced / Engine Level"
 			},
@@ -300,7 +300,7 @@
 				"category": "tool"
 			},
 			{
-				"name": "AWS (EC2, IAM, RDS)",
+				"name": "AWS / EC2 / IAM / RDS",
 				"years": 3.9,
 				"category": "tool"
 			},
@@ -400,7 +400,7 @@
 				"category": "tool"
 			},
 			{
-				"name": "Rational Unified Process (RUP)",
+				"name": "Rational Unified Process / RUP",
 				"years": 0.3,
 				"category": "tool"
 			}
@@ -412,27 +412,31 @@
 			"D3.js",
 			"OpenCV",
 			"Fast-ALPR",
-			"ONNX Runtime Web",
+			"ONNX",
 			"WebLLM",
 			"FFmpeg.wasm",
 			"Web Workers",
-			"Origin Private File System (OPFS)",
+			"Origin Private File System",
+			"OPFS",
 			"WebTorrent",
 			"SOCKS5 Protocol",
 			"WebSockets",
-			"Emscripten / LLVM",
+			"Emscripten",
+			"LLVM",
 			"WASI-SDK",
 			"Ace Editor Workers",
-			"SDR Signal Monitoring (ADS-B/AIS/sub-GHz)",
+			"SDR Signal Monitoring / ADS-B / AIS / sub-GHz",
 			"Google Sheets API",
-			"SharePoint Document Control Systems (DCS)"
+			"Microsoft SharePoint",
+			"Document Control Systems",
+			"DCS"
 		]
 	},
 	"employment_history": [
 		{
 			"period": "2024 - 2026",
 			"role": "Systems Architect & Open Source Pioneer",
-			"company": "Self-Directed / GitHub Architecture (briancullinan2)",
+			"company": "Self-Directed / Architecture",
 			"location": "Flagstaff, AZ / Remote",
 			"narrative": "Refused to let legacy server architectures dictate modern UX. Engineered single-file browser IDEs, client-side WASM video transcoders, and modular Lumino layout telemetry decks without relying on bloated server compute.",
 			"related_skills": [
@@ -482,336 +486,859 @@
 			]
 		},
 		{
-			"period": "Jan 2019 - Jul 2019",
-			"role": "Software Architect",
-			"company": "Shop Illuminati",
-			"location": "Scottsdale, AZ",
-			"narrative": "Constructed an entire cosmetics e-commerce architecture and automated product pipeline so non-technical founders could manage live inventory using Google Sheets.",
-			"related_skills": [
-				"Node.js",
-				"JavaScript",
-				"Google Sheets API",
-				"E-Commerce",
-				"Stripe API",
-				"Google Cloud Platform",
-				"Vue.js",
-				"Angular",
-				"TypeScript"
-			],
-			"highlights": [
-				"Streamlined live product delivery pipelines to update storefront inventory automatically from spreadsheet modifications.",
-				"Designed high-converting UI/UX storefront layouts optimized for beauty product merchandising."
-			]
-		},
-		{
-			"period": "Mar 2018 - Jan 2019",
-			"role": "Software Architect & Prototype Engineer",
-			"company": "Independent Consulting",
-			"location": "Scottsdale, AZ",
-			"narrative": "Built rapid-prototype web applications across modern JavaScript frameworks for startups trying to figure out what they were actually selling.",
-			"related_skills": [
-				"Vue.js",
-				"Angular",
-				"JavaScript",
-				"Node.js",
-				"Python",
-				"Jupyter",
-				"Firebase",
-				"OData"
-			],
-			"highlights": [
-				"Created an ingredient-based cocktail recommendation discovery engine for Drinks.com.",
-				"Developed a dynamic localized happy-hour promotion tracker for small-town restaurant engagement.",
-				"Architected educational prototype platforms for higher education initiatives."
-			]
-		},
-		{
-			"period": "Apr 2018",
-			"role": "Software Architect",
-			"company": "Mindspree",
-			"location": "Scottsdale, AZ",
-			"narrative": "Architected an online matching engine connecting tutors with students across educational institutions.",
-			"related_skills": [
-				"Software Architecture",
-				"Business & Leadership",
-				"Education Tech / EdTech"
-			],
-			"highlights": [
-				"Designed matching system architecture and user workflows for educational support platforms."
-			]
-		},
-		{
 			"period": "Mar 2017 - Feb 2018",
-			"role": "Software Engineer",
+			"duration": "1 Year",
+			"role": "Senior Full-Stack Engineer & AWS Cloud Architect",
 			"company": "Act! (Swiftpage)",
 			"location": "Scottsdale, AZ",
-			"narrative": "Worked 3,500 hours in a single year without taking paid time off while navigating an antiquated monolith, passive-aggressive corporate reviews, and 'unlimited PTO' psychological traps.",
+			"narrative": "Engineered automated billing funnels and CRM integrations while enduring an antiquated monolith[cite: 2, 4]. Clocked 3,500 hours in a single year under psychological 'unlimited PTO' policies[cite: 4]. Built AngularJS storefronts connecting Zuora subscription APIs with Oracle Eloqua marketing pipelines[cite: 3, 4], and migrated serverless microservices to Node.js on AWS[cite: 4]. Resigned after discovering executive management was intentionally altering price structures to perpetuate multi-level marketing (MLM) schemes and double-dip on corporate customers[cite: 4].",
 			"related_skills": [
 				"Node.js",
 				"C#",
 				"AngularJS",
-				"AWS",
-				"Zuora API",
-				"Oracle Eloqua",
-				"Git",
-				"ADP"
+				"AWS Lambda",
+				"Microservices",
+				"Zuora Billing API",
+				"Oracle Eloqua Integration",
+				"E-Commerce Payment Architecture",
+				"Git Workflows",
+				"CI/CD Pipeline Design",
+				"Process Automation",
+				"Corporate Fraud Audit"
 			],
 			"highlights": [
-				"Built customer management buy funnels and billing storefronts integrated with Zuora and Oracle Eloqua.",
-				"Automated a manual billing validation process that saved the company $10,000+ annually, only to be told by management that the effort was 'a waste'.",
-				"Switched platform architecture from heavy C# to Node.js serverless microservices on AWS to ensure true continuous integration."
+				"Built customer account storefronts and automated buy funnels integrating Zuora payment processing with Oracle Eloqua[cite: 2, 4].",
+				"Automated a manual marketing verification pipeline, saving $10,000+ in annual labor overhead before resigning over MLM billing practices[cite: 4].",
+				"Pioneered Node.js serverless microservice deployments on AWS to replace rigid C# monolith build pipelines[cite: 4]."
+			]
+		},
+		{
+			"period": "Mar 2018 - Jan 2019",
+			"duration": "10 Months",
+			"role": "Software Architect & Rapid Prototype Engineer",
+			"company": "Independent Software Advisory (Self-Employed)",
+			"location": "Scottsdale, AZ",
+			"narrative": "Operated an independent prototyping consultancy building proof-of-concept web applications across modern JavaScript ecosystems for early-stage founders[cite: 2, 5]. Engineered real-time search discovery tools, localized promotional trackers, and data visualization tools across Vue.js, Angular, Python, and Firebase[cite: 2, 5].",
+			"related_skills": [
+				"Vue.js",
+				"Angular",
+				"JavaScript / ES6+",
+				"Node.js",
+				"Python",
+				"Jupyter Data Analytics",
+				"Google Firebase",
+				"OData Protocol",
+				"Rapid Prototyping",
+				"API Architecture"
+			],
+			"highlights": [
+				"Architected an ingredient-based cocktail discovery engine for Drinks.com using modern SPA frameworks[cite: 2, 5].",
+				"Engineered a dynamic happy-hour promotion tracking portal for small-town restaurant networks[cite: 2, 5].",
+				"Built data-driven Jupyter notebook prototypes to evaluate market viability for client concepts[cite: 2, 5]."
+			]
+		},
+		{
+			"period": "Apr 2018 - May 2018",
+			"duration": "2 Months",
+			"role": "Chief Software Architect & Forensic EdTech Consultant",
+			"company": "Mindspree",
+			"location": "Scottsdale, AZ",
+			"narrative": "Contracted to architect a scalable online matching platform connecting private tutors with university students[cite: 3]. Designed system schemas, scheduling workflows, and payment matching algorithms[cite: 3]. Abruptly terminated the contract after auditing the company's capital allocations and discovering leadership was likely misappropriating investor capital while failing to deliver a functional product[cite: 3].",
+			"related_skills": [
+				"Educational Technology Architecture",
+				"Matching Engine Algorithms",
+				"System Schema Design",
+				"Investor Diligence",
+				"Technical Auditing",
+				"User Workflow Mapping",
+				"Database Modeling",
+				"Risk Assessment"
+			],
+			"highlights": [
+				"Designed end-to-end database schemas and matching algorithms for tutor-student academic scheduling[cite: 3].",
+				"Audited technical feasibility and exposed severe capital misallocations that prevented product release[cite: 3]."
+			]
+		},
+		{
+			"period": "Jan 2019 - Jul 2019",
+			"duration": "7 Months",
+			"role": "Software Architect & E-Commerce Automation Lead",
+			"company": "Shop Illuminati",
+			"location": "Scottsdale, AZ",
+			"narrative": "Architected an automated direct-to-consumer e-commerce ecosystem for a luxury cosmetics enterprise[cite: 2, 5]. Engineered a serverless pipeline on Google Cloud Platform that read live inventory edits from Google Sheets APIs and automatically updated storefront assets and pricing without manual code deployments[cite: 2, 5]. Integrated Stripe payment gateways and designed high-converting responsive interfaces[cite: 2, 5].",
+			"related_skills": [
+				"Node.js",
+				"JavaScript",
+				"Google Sheets API Integration",
+				"Google Cloud Platform",
+				"GCP",
+				"Stripe API",
+				"Vue.js",
+				"Angular",
+				"TypeScript",
+				"Automated Inventory Pipelines",
+				"UI/UX Merchandising"
+			],
+			"highlights": [
+				"Engineered an automated delivery pipeline converting spreadsheet rows into real-time live storefront inventory[cite: 2, 5].",
+				"Integrated Stripe payment APIs within a custom single-page application storefront[cite: 2, 5].",
+				"Designed low-latency UI/UX purchasing funnels optimized for mobile beauty product shoppers[cite: 2, 5]."
+			]
+		},
+		{
+			"period": "Jun 2015 - Aug 2016",
+			"duration": "1.2 Years",
+			"role": "Commercial Salon Systems Lead & Product Manager",
+			"company": "Yellow Rose Spa & Spa Ha Ha",
+			"location": "Scottsdale, AZ",
+			"narrative": "Spearheaded technical setup and operational architecture for commercial beauty and skin care installations[cite: 3]. Evaluated service-based vs. physical product sales lifecycles, configured salon booking platforms, and managed inventory supply chains across local boutique spa facilities[cite: 3].",
+			"related_skills": [
+				"Cosmetology Operations",
+				"Product Management",
+				"Point-of-Sale Systems",
+				"POS",
+				"Supply Chain",
+				"Inventory Management",
+				"B2C Marketing Strategy",
+				"Vendor Relations"
+			],
+			"highlights": [
+				"Designed and implemented full technical workflows for a commercial salon launch[cite: 3].",
+				"Managed vendor sourcing and client appointment funnels across physical spa locations[cite: 3]."
+			]
+		},
+		{
+			"period": "Aug 2016 - Feb 2018",
+			"duration": "1.5 Years",
+			"role": "IoT Agricultural Engineer & Embedded Hardware Architect",
+			"company": "Smart Greenhouse Telemetry (Self-Directed Venture)",
+			"location": "Flagstaff, AZ",
+			"narrative": "Designed and deployed custom micro-controller hardware to automate environmental monitoring for an experimental high-altitude greenhouse[cite: 3]. Engineered sensor arrays using Raspberry Pi and MSP430 chips to track soil moisture, humidity levels, ambient temperature, and solar exposure in real time[cite: 3]. Built C/Node.js telemetry backends to trigger automated watering and ventilation fans[cite: 3].",
+			"related_skills": [
+				"Raspberry Pi",
+				"MSP430 Microcontrollers",
+				"C / C++",
+				"ARM Assembly",
+				"Node.js",
+				"IoT Environmental Sensors",
+				"Soil Moisture Telemetry",
+				"Automated Relays",
+				"Solenoids"
+			],
+			"highlights": [
+				"Engineered an automated greenhouse controller monitoring humidity, soil hydration, and temperature metrics[cite: 3].",
+				"Built C-based firmware and Node.js telemetry backends for real-time micro-climate adaptation[cite: 3]."
 			]
 		},
 		{
 			"period": "Sep 2016 - Nov 2017",
-			"role": "Software Architect",
+			"duration": "1.2 Years",
+			"role": "Software Architect & 3D E-Commerce Lead",
 			"company": "CityScapes Architectural Innovations",
 			"location": "Columbus, OH / Remote",
-			"narrative": "Constructed a 3D architectural product marketplace that allowed clients to manipulate materials and AutoCAD objects live in the browser.",
+			"narrative": "Architected a cutting-edge 3D marketplace for architectural products for a family manufacturing enterprise[cite: 2, 3]. Engineered an automated pipeline to parse AutoCAD models into Three.js/Vue.js interactive web assets[cite: 2, 3]. Built a live product customizer enabling customers to alter materials, colors, and structural dimensions directly in the browser, driving massive new digital sales revenue[cite: 2, 3].",
 			"related_skills": [
 				"Vue.js",
 				"Three.js",
 				"Node.js",
-				"AutoCAD",
+				"AutoCAD Automation",
 				"Google Material Design",
-				"Firebase"
+				"Google Firebase",
+				"3D Web Graphics",
+				"Digital Marketing Funnels"
 			],
 			"highlights": [
-				"Engineered automated pipelines to transform CAD files into real-time interactive 3D web assets.",
-				"Implemented live customizer tools for architectural screening, directly driving new digital sales revenue."
+				"Engineered an automated delivery pipeline transforming raw AutoCAD structural files into live 3D web models[cite: 2, 3].",
+				"Built real-time material and color customizers that directly expanded architectural sales volume[cite: 2, 3]."
 			]
 		},
 		{
 			"period": "Oct 2016 - Jun 2017",
-			"role": "Full Stack Developer & Marketing Technologist",
+			"duration": "9 Months",
+			"role": "Full Stack Developer & Corporate Wellness Technologist",
 			"company": "The SOS Method",
 			"location": "Scottsdale, AZ",
-			"narrative": "Developed employee wellness web platforms centered on daily meditation and mental health logging.",
+			"narrative": "Constructed employee development and mental health platforms centered on daily meditation and reflective journaling[cite: 3]. Built Angular 2/Node.js web applications, integrated SendGrid automated email campaigns, and configured Stripe subscription pipelines for B2B corporate wellness contracts[cite: 3].",
 			"related_skills": [
 				"Angular 2",
 				"Node.js",
 				"TypeScript",
-				"AWS (EC2, RDS)",
-				"SendGrid",
-				"Stripe"
+				"AWS",
+				"EC2",
+				"RDS",
+				"SendGrid API",
+				"Stripe Subscriptions",
+				"User Journaling Frameworks",
+				"Corporate Wellness Platforms"
 			],
 			"highlights": [
-				"Implemented user interaction journals and corporate wellness subscription portals."
+				"Architected corporate wellness web portals enabling employees to track daily meditation metrics[cite: 3].",
+				"Integrated transactional billing and automated email marketing systems for B2B employee development packages[cite: 3]."
 			]
 		},
 		{
 			"period": "Nov 2016 - Mar 2017",
-			"role": "Business Analyst / Database Architect",
+			"duration": "5 Months",
+			"role": "IT Business Analyst & Security Access Architect",
 			"company": "Charles Schwab",
 			"location": "Gilbert, AZ",
-			"narrative": "Assigned to a windowless basement with anti-social contractors to remove secondary database access via request tools. Learned that corporate IBM Rational Unified Process (RUP) is where agility goes to die.",
+			"narrative": "Sought corporate stability following years of startup volatility, only to be assigned to a windowless basement with anti-social contractors to overhaul access management[cite: 2, 3, 4]. Managed a team of database engineers to identify critical security flaws in secondary database access tools[cite: 2]. Applied Rational Unified Process (RUP) to demonstrate rampant systemic security risks—swiftly realizing corporate banking infrastructure is heavily burdened by bureaucratic inertia, rigid IBM tooling, and illusionary stability[cite: 2, 3, 4].",
 			"related_skills": [
+				"IT Business Analysis",
 				"IBM Rational Tools",
+				"Rational Unified Process",
 				"RUP",
-				"SharePoint",
-				"SQL Server",
-				"ITSM",
-				"Database Security"
+				"Microsoft SharePoint",
+				"Database Security",
+				"Access Control",
+				"ITSM Governance",
+				"Stakeholder Management",
+				"Document Control Systems",
+				"DCS"
 			],
 			"highlights": [
-				"Led a team of database engineers to identify and resolve critical data access security vulnerabilities.",
-				"Exemplified corporate security failures while attempting to retrain management to approach RUP documentation holistically rather than sequentially.",
-				"Configured SharePoint Document Control Systems (DCS) linked to project artifacts."
+				"Led a database engineering team to identify and resolve high-risk data access vulnerabilities across legacy tools[cite: 2, 3].",
+				"Configured SharePoint Document Control Systems (DCS) linked to compliance artifacts[cite: 4].",
+				"Exposed critical process failures by attempting to retrain management to apply RUP holistically rather than sequentially[cite: 3, 4]."
 			]
 		},
 		{
-			"period": "2015 - 2020",
-			"role": "Product Manager & E-Commerce Architect",
-			"company": "Spa Ha Ha / Yellow Rose Spa / Illuminati Skin Care",
+			"period": "Jun 2018 - Jan 2020",
+			"duration": "1.6 Years",
+			"role": "E-Commerce Architect & ERP/CRM Logistics Lead",
+			"company": "Illuminati Skin Care",
 			"location": "Scottsdale, AZ / Remote",
-			"narrative": "Managed salon setups, developed ERP/CRM logistics for international shipping, and deployed AMP-optimized e-commerce sites.",
+			"narrative": "Co-founded a direct-to-consumer cosmetics brand with my wife[cite: 2, 3]. Engineered an automated product pipeline reading Google Sheets inventory data to update live e-commerce storefronts[cite: 2, 3]. Built custom ERP/CRM logistics backends handling international shipping, Google AMP mobile optimization, and Google Merchant inventory integration[cite: 3].",
 			"related_skills": [
+				"Google Sheets API",
+				"Google Merchant Center",
 				"Google AMP",
-				"Google Merchant",
-				"Google Sites",
-				"Jupyter",
-				"Cosmetology Systems",
-				"E-Commerce"
+				"ERP / CRM Integration",
+				"International Shipping Logistics",
+				"Jupyter Data Analysis",
+				"Automated Inventory Pipelines",
+				"Digital Marketing Automation"
 			],
 			"highlights": [
-				"Architected international shipping logistics and ERP/CRM pipelines for specialty skincare distribution.",
-				"Built AMP-optimized e-commerce interfaces driving low-latency mobile conversions."
+				"Automated live storefront inventory updates by connecting Google Sheets APIs with web storefront backends[cite: 2, 3].",
+				"Architected international shipping, product design, and CRM workflows for brand scaling[cite: 3]."
 			]
 		},
 		{
-			"period": "Aug 2013 - Oct 2016",
-			"role": "Principal Software Architect",
-			"company": "The Study Institute (Study Sauce)",
-			"location": "Scottsdale, AZ",
-			"narrative": "Partnered with a former Marine over 3 years to design 3 distinct educational applications centered on spaced repetition, interleaving study methods, and cognitive science.",
+			"period": "Jan 2017 - Present",
+			"duration": "9 Year Ongoing Practice",
+			"role": "Principal Technical Marketing & E-Commerce Consultant",
+			"company": "Cullinan Digital Marketing Advisory (Self-Employed)",
+			"location": "Flagstaff & Scottsdale, AZ",
+			"narrative": "Provided high-level growth architecture and technical marketing strategy for early-stage commercial clients[cite: 3]. Specialized in building automated marketing funnels, search engine optimization (SEO), Google Analytics conversion goal tracking, and serverless payment pipelines for small businesses[cite: 3].",
 			"related_skills": [
-				"PHP",
-				"Symfony",
-				"Drupal",
-				"REST APIs",
-				"AWS (EC2, IAM, RDS)",
-				"Swift / iOS",
-				"Authorize.Net",
-				"PCI-DSS",
-				"Selenium"
+				"Digital Marketing Architecture",
+				"SEO",
+				"Google AMP",
+				"Conversion Funnel Optimization",
+				"Google Analytics Goals",
+				"Serverless Web APIs",
+				"Client Growth Advisory",
+				"Marketing Automation"
 			],
 			"highlights": [
-				"Built an online study course platform with 15 gamified lessons, A/B marketing funnels, and 24/7 engineering support.",
-				"Architected a native iOS and web spaced-repetition flashcard application implementing the Forgetting Curve algorithm.",
-				"Configured end-to-end server architecture to strictly adhere to PCI-DSS standards for transactional processing."
+				"Consulted for local businesses to deploy rapid-conversion web apps and automated customer onboarding funnels[cite: 3].",
+				"Integrated cross-platform analytics tracking to optimize digital ad spending and maximize ROI[cite: 3]."
 			]
 		},
 		{
 			"period": "Apr 2013 - Aug 2013",
-			"role": "Full Stack Engineer",
+			"duration": "5 Months",
+			"role": "Full Stack Engineer & Quality Assurance Lead",
 			"company": "Dynamynd Inc.",
 			"location": "Scottsdale, AZ",
-			"narrative": "Built automated testing frameworks and interactive career-focused personality testing tools for students in Ruby on Rails.",
+			"narrative": "Temporarily veered off into early childhood ed-tech to explore alternate web development stacks[cite: 3, 4, 5]. Engineered animated, career-focused personality assessment tests for primary students in Ruby on Rails, built automated Selenium testing suites to isolate staging and production deployments, and configured Authorize.Net payment pipelines[cite: 3, 4, 5]. Swiftly resigned after recognizing severe revenue anemia and persistent design deadlocks[cite: 3, 4, 5].",
 			"related_skills": [
 				"Ruby on Rails",
-				"Authorize.Net",
+				"Authorize.Net API",
+				"Selenium Webdriver",
 				"Bugzilla",
-				"Selenium",
-				"GitHub"
+				"GitHub Workflows",
+				"EdTech Assessment Algorithms",
+				"Payment Gateway Integration",
+				"Test Automation",
+				"CI/CD"
 			],
 			"highlights": [
-				"Constructed automated testing frameworks separating staging and production deployment environments.",
-				"Integrated transactional billing using Authorize.Net in Ruby on Rails."
+				"Constructed automated browser testing suites in Selenium to enforce staging-versus-production deployment boundaries[cite: 3, 5].",
+				"Integrated transactional billing using Authorize.Net within a Ruby on Rails backend web application[cite: 3, 5]."
 			]
 		},
 		{
-			"period": "Feb 2011 - Aug 2013",
-			"role": "Software Engineer & Network Administrator",
-			"company": "EPIC Research & Diagnostics",
+			"period": "Aug 2013 - Jul 2014",
+			"duration": "1 Year",
+			"role": "Growth Engineer & Web Analytics Specialist",
+			"company": "The Study Institute (Study Sauce)",
 			"location": "Scottsdale, AZ",
-			"narrative": "Re-engineered a medical device software platform analyzing mitochondrial stress via Kirlian imaging. Reduced image processing time by 6,000%, moving calculation speeds from 10 minutes to 10 milliseconds.",
+			"narrative": "Partnered with a former U.S. Marine to launch Product #1: a conversion-focused marketing platform and student schedule optimization engine built on Drupal[cite: 3, 4]. Captured student course data, parsed class syllabi, and transformed weekly schedules into structured PDF study blueprints designed to reduce academic fatigue[cite: 4]. Executed A/B conversion experiments utilizing Google Analytics goals to validate market viability[cite: 3, 4].",
 			"related_skills": [
-				"C#",
-				"WPF",
-				"MATLAB COM",
-				"Linear Regression",
-				"Monte Carlo",
-				"Hyper-V",
-				"Active Directory",
-				"Group Policy",
-				"IIS",
-				"HIPAA",
-				"CFR 21 Part 11"
+				"Drupal",
+				"PHP",
+				"A/B Testing",
+				"Marketing Analytics",
+				"Google Calendar API",
+				"PDF Generation Engines",
+				"Data Collection",
+				"Data Parsing",
+				"Conversion Rate Optimization",
+				"CRO",
+				"Linux Administration",
+				"LAMP"
 			],
 			"highlights": [
-				"Rewrote matrix calculation logic using native MATLAB compilation and linear regression, enabling real-time video snapshot diagnostics.",
-				"Constructed an isolated Windows Desktop Kiosk shell to restrict workstation access and eliminate network tampering during hospital clinical trials.",
-				"Architected an on-premise cloud server using ASP.NET MVC for remote doctors to securely view patient data across hospital locations."
+				"Architected a schedule ingestion engine converting student course loads into automated, interleaved weekly study calendars[cite: 4].",
+				"Deployed A/B testing marketing funnels to analyze target demographics and optimize minimal viable product (MVP) adoption[cite: 3, 4]."
 			]
 		},
 		{
-			"period": "Aug 2011 - Jun 2012",
-			"role": "Web Developer & Security Researcher",
+			"period": "Jul 2014 - Sep 2015",
+			"duration": "1.2 Years",
+			"role": "Lead Educational Systems Architect",
+			"company": "The Study Institute (Study Sauce)",
+			"location": "Scottsdale, AZ",
+			"narrative": "Scaled the platform into Product #2: a full-featured online study methodology course built on Symfony[cite: 3, 4, 5]. Engineered 15 interactive, gamified lesson modules complete with video tutorials, quiz verification, and badge reward mechanics to encourage student retention[cite: 3, 4]. Integrated Google Calendar sync, administered AWS cloud resources (EC2, IAM, RDS), and maintained 24/7 engineering operations[cite: 2, 3, 4].",
+			"related_skills": [
+				"Symfony Framework",
+				"PHP",
+				"Isomorphic ORM",
+				"RESTful API Architecture",
+				"AWS",
+				"EC2",
+				"IAM",
+				"RDS",
+				"DNS",
+				"Gamification Architecture",
+				"Single Page Application Design",
+				"SPA",
+				"System Monitoring",
+				"24/7 Availability"
+			],
+			"highlights": [
+				"Engineered a 15-lesson gamified learning platform using Symfony REST services and isomorphic ORM patterns[cite: 2, 3, 4].",
+				"Managed multi-region AWS cloud infrastructure supporting student data synchronization and marketing telemetry[cite: 2, 3, 4]."
+			]
+		},
+		{
+			"period": "Sep 2015 - Oct 2016",
+			"duration": "1.1 Years",
+			"role": "Principal Software Architect & Mobile Systems Engineer",
+			"company": "The Study Institute (Study Sauce)",
+			"location": "Scottsdale, AZ",
+			"narrative": "Architected Product #3: a polished, cross-platform spaced-repetition flashcard system engineered for iOS (Swift) and web[cite: 3, 4, 5]. Modeled the Hermann Ebbinghaus Forgetting Curve algorithm to dynamically schedule card reviews based on user recall accuracy[cite: 3, 4]. Ingested elementary lesson plans from BASIS schools and U.S. Citizenship exam decks, configured Authorize.Net in-app purchases, and enforced strict PCI-DSS server standards[cite: 3, 4, 5]. Operating this company single-handedly under startup velocity for 3 straight years drove me to absolute mental exhaustion[cite: 4].",
+			"related_skills": [
+				"iOS / Swift",
+				"Spaced-Repetition Algorithms",
+				"Forgetting Curve)",
+				"Mobile-to-Cloud Sync Pipelines",
+				"Authorize.Net In-App Purchases",
+				"PCI-DSS Security Compliance",
+				"Anki / SQLite Deck Ingestion",
+				"Selenium UI Automation",
+				"Agile / JIRA Project Management"
+			],
+			"highlights": [
+				"Built a native iOS and web flashcard platform implementing spaced-repetition memory retention algorithms[cite: 3, 4].",
+				"Configured end-to-end payment processing pipelines compliant with PCI-DSS standards for transactional security[cite: 3, 4, 5].",
+				"Parses and imported high-density curriculum decks from BASIS charter school programs and federal citizenship exams[cite: 4]."
+			]
+		},
+		{
+			"period": "Aug 2011 - Dec 2011",
+			"duration": "5 Months",
+			"role": "Frontend Web Developer & UX Designer",
 			"company": "Sitewatch, LLC",
 			"location": "Flagstaff, AZ",
-			"narrative": "Built vibrant user interfaces for an automated vulnerability scanner. Discovered zero-days and contributed to security research.",
+			"narrative": "Joined Sitewatch initially to modernize customer-facing web layouts[cite: 3, 4]. Designed high-contrast, responsive dashboards for reporting system health, user account settings, and automated scan schedules[cite: 3, 4]. Focused on user experience (UX) optimization and accessibility compliance across early multi-device web browsers[cite: 3, 4].",
 			"related_skills": [
+				"UI/UX Design",
+				"HTML5/CSS3",
+				"JavaScript",
 				"PHP",
-				"Python",
-				"Java",
-				"OWASP",
+				"Responsive Design",
+				"Accessibility (i18n / Alt-Tags)"
+			],
+			"highlights": [
+				"Transformed technical terminal logs into structured, visual dashboard reporting widgets for non-technical stakeholders[cite: 3, 4].",
+				"Implemented internationalization (i18n) and keyboard navigation standards to improve application accessibility[cite: 4]."
+			]
+		},
+		{
+			"period": "Dec 2011 - Jun 2012",
+			"duration": "7 Months",
+			"role": "Security Engineer & Vulnerability Researcher",
+			"company": "Sitewatch, LLC",
+			"location": "Flagstaff, AZ",
+			"narrative": "Transitioned into full-spectrum cybersecurity development to compete with Authorize.Net's PCI-DSS compliance auditing tools[cite: 3, 4]. Engineered automated web application vulnerability scanning suites, integrated pentesting engines (Nessus, Wapiti, NMAP)[cite: 3, 5], and enforced strict OWASP sink-escaping protocols to eliminate XSS and XSRF attack vectors[cite: 3, 4].",
+			"related_skills": [
+				"Cybersecurity",
+				"PCI-DSS Compliance",
+				"OWASP Guidelines",
+				"Ethical Hacking",
 				"NMAP",
 				"Nessus",
 				"Wapiti",
-				"PCI-DSS",
-				"Linux"
+				"Python",
+				"Java",
+				"PHP",
+				"Linux Administration"
 			],
 			"highlights": [
-				"Featured on the Google Security Hall of Fame (Q2 2011) for web application vulnerability disclosures.",
-				"Participated in DEFCON vulnerability presentation showcasing automated scanning engines.",
-				"Implemented strict OWASP sink-escaping to prevent XSS and XSRF attacks."
+				"Earned a spot on the Google Security Hall of Fame (Q2 2011) for zero-day vulnerability disclosures[cite: 3, 4, 5].",
+				"Presented research at DEFCON demonstrating automated vulnerability scanning as a scalable cloud service[cite: 4].",
+				"Engineered automated compliance reporting tools aligning with Authorize.Net PCI-DSS merchant security standards[cite: 3, 4]."
 			]
 		},
 		{
-			"period": "Aug 2007 - Dec 2010",
-			"role": "Senior Web Developer & Call Center Manager",
+			"period": "Dec 2011 - Feb 2012",
+			"duration": "3 Months",
+			"role": "Emergency Database Restoration & Forensic Security Contractor",
+			"company": "Independent Forum Security Contracting",
+			"location": "Flagstaff, AZ",
+			"narrative": "Contracted to perform emergency incident response and database forensics for a compromised high-traffic online forum. Remediated SQL injection backdoors, disinfected compromised PHP file trees, reconstructed corrupted MySQL database tables from fragmented logs, and implemented hard security headers to prevent future exploit attempts.",
+			"related_skills": [
+				"Database Forensics",
+				"Incident Response",
+				"SQL Injection Remediation",
+				"MySQL Recovery",
+				"PHP Security",
+				"Server Disinfection",
+				"Web Application Firewall",
+				"WAF"
+			],
+			"highlights": [
+				"Successfully recovered 100% of user data and thread histories following a severe database drop-table attack.",
+				"Patched persistent remote code execution (RCE) vulnerabilities across legacy forum source code and restored site uptime."
+			]
+		},
+		{
+			"period": "Feb 2011 - Oct 2011",
+			"duration": "9 Months",
+			"role": "Database Engineer & Data Migration Specialist",
+			"company": "EPIC Research & Diagnostics",
+			"location": "Scottsdale, AZ",
+			"narrative": "Entered EPIC to digitize paper clinical records into a central relational repository[cite: 4]. Designed a SQL database schema adhering to 3rd-Normal Form, created bulk data-entry portals, and managed Active Directory user access for temporary entry staff[cite: 4].",
+			"related_skills": [
+				"Microsoft SQL Server",
+				"Database Schema Design",
+				"3NF",
+				"Active Directory",
+				"Data Migration",
+				"ETL",
+				"C#.NET",
+				"Technical Support",
+				"Training"
+			],
+			"highlights": [
+				"Migrated thousands of paper medical logs into a structured MSSQL database with automated validation checks[cite: 4].",
+				"Streamlined temp-worker onboarding and data entry by configuring Active Directory security groups[cite: 4]."
+			]
+		},
+		{
+			"period": "Oct 2011 - May 2012",
+			"duration": "8 Months",
+			"role": "Medical Software Engineer & Kiosk Developer",
+			"company": "EPIC Research & Diagnostics",
+			"location": "Scottsdale, AZ",
+			"narrative": "Promoted to primary software engineer for the core medical scanning platform[cite: 3, 5, 6]. Architected a locked-down Windows Desktop Kiosk shell in C#/WPF to restrict workstation access and prevent operator tampering during clinical trials[cite: 3, 4]. Rewrote matrix calculation pipelines using native MATLAB compilation, reducing image analysis latency from 10 minutes to 10 milliseconds (6,000% speedup) and enabling real-time video snapshot diagnostics[cite: 4].",
+			"related_skills": [
+				"Medical Device Software",
+				"C#.NET",
+				"WPF",
+				"WPF Controls",
+				"MATLAB COM Integration",
+				"Linear Regression",
+				"Monte Carlo Algorithms",
+				"Kiosk Shell Security",
+				"Algorithm Optimization"
+			],
+			"highlights": [
+				"Reduced image processing calculation speed from 600 seconds down to 0.01 seconds, enabling live video analytics[cite: 4].",
+				"Constructed an isolated Kiosk explorer shell using low-level Windows APIs and Group Policy to secure hospital trials[cite: 3, 4]."
+			]
+		},
+		{
+			"period": "May 2012 - Dec 2012",
+			"duration": "8 Months",
+			"role": "Cloud Architect & Full-Stack Medical Telemetry Engineer",
+			"company": "EPIC Research & Diagnostics",
+			"location": "Scottsdale, AZ",
+			"narrative": "Designed and deployed an on-premise cloud server infrastructure in ASP.NET MVC[cite: 3, 4]. Synchronized patient diagnostic scans in real time between client kiosks and backend databases across multiple hospital sites, providing doctors with a secure remote web portal to review patient reports[cite: 3, 4].",
+			"related_skills": [
+				"ASP.NET MVC",
+				"RESTful API Design",
+				"Cloud Data Synchronization",
+				"HIPAA Compliance",
+				"CFR 21 Part 11",
+				"IIS Web Server",
+				"Medical Telemetry"
+			],
+			"highlights": [
+				"Engineered token-authenticated REST synchronization pipelines connecting field devices with hospital cloud servers[cite: 2, 3, 4].",
+				"Built a web portal allowing remote physicians to review real-time mitochondrial stress reports[cite: 2, 3, 4]."
+			]
+		},
+		{
+			"period": "Dec 2012 - Aug 2013",
+			"duration": "9 Months",
+			"role": "Network Administrator, Security Officer & Systems Lead",
+			"company": "EPIC Research & Diagnostics",
+			"location": "Scottsdale, AZ",
+			"narrative": "Promoted to Network Administrator following a $30,000 salary increase[cite: 4]. Migrated the entire enterprise infrastructure off third-party hosting (GoDaddy) onto self-hosted on-premise rack servers running Hyper-V, Exchange, and IIS[cite: 3, 4]. Co-developed a new hardware diagnostic device with the lead engineer and authored technical documentation to qualify the platform under strict FDA CFR 21 Part 11 and Quality System (QS/QA) standards[cite: 3, 4]. Worked through contract completion prior to planned corporate layoffs[cite: 4].",
+			"related_skills": [
+				"Network Administration",
+				"Hyper-V Virtualization",
+				"Microsoft Exchange",
+				"Group Policy",
+				"Domain Security",
+				"Quality Systems",
+				"QS/QA",
+				"FDA CFR 21 Part 11",
+				"HIPAA Compliance",
+				"Hardware Qualification",
+				"On-Premise Migration"
+			],
+			"highlights": [
+				"Eliminated external cloud security risks by migrating entire web and email infrastructure to an on-premise data center[cite: 3, 4].",
+				"Co-developed a next-generation diagnostic device and authored regulatory compliance documentation for FDA filing[cite: 3, 4].",
+				"Designed Active Directory revision history and domain policies aligned with HIPAA and military contract standards[cite: 3, 4]."
+			]
+		},
+		{
+			"period": "Aug 2007 - Jul 2008",
+			"duration": "1 Year",
+			"role": "Tier-1 Desktop Support & Hardware Maintenance Specialist",
 			"company": "Northern Arizona University (CEFNS)",
 			"location": "Flagstaff, AZ",
-			"narrative": "Managed a university technical support call center, drastically reducing departmental overhead while writing custom automation scripts.",
+			"narrative": "Initial entry into the College of Engineering, Forestry, and Natural Sciences IT operations[cite: 2, 5, 6]. Handled routine workstation repairs, faculty ticket queues, and component-level electronics maintenance[cite: 3, 5]. Saved the department thousands of dollars in budget capital by manually diagnosing and soldering blown capacitor arrays inside dead studio monitors and power supply units rather than throwing them away[cite: 3, 4].",
 			"related_skills": [
-				"PHP",
-				"LDAP",
-				"Active Directory",
-				"PowerShell",
-				"Cisco",
-				"Nagios",
-				"VMWare",
-				"Hyper-V"
+				"Hardware Diagnostics",
+				"Soldering",
+				"Component Repair",
+				"Power Supply Maintenance",
+				"Technical Support",
+				"Windows OS",
+				"Mac OS",
+				"Cost Savings Engineering"
 			],
 			"highlights": [
-				"Integrated university LDAP with PHP web applications to auto-fill student enrollment forms.",
-				"Repaired physical hardware, power supplies, and audio/visual server systems across engineering departments."
+				"Repaired damaged power supplies in CRT/LCD monitors, saving the department thousands of dollars in emergency equipment replacement costs[cite: 3].",
+				"Maintained desktop hardware reliability across faculty offices in the Mathematics and Natural Sciences departments[cite: 3, 6]."
 			]
 		},
 		{
-			"period": "Aug 2008 - Dec 2009",
-			"role": "Radio Engineer & Web Developer",
-			"company": "KJAK Radio",
+			"period": "Aug 2008 - Dec 2008",
+			"duration": "5 Months",
+			"role": "Chief Broadcast Engineer & Audio Infrastructure Lead",
+			"company": "KJAX / KJACK Radio",
 			"location": "Flagstaff, AZ",
-			"narrative": "Maintained radio recording studio hardware and designed campus radio web portals.",
+			"narrative": "Promoted to lead hardware engineer for the campus radio station[cite: 2, 5, 6]. Executed a complete ground-up hardware rebuild of the recording studio and control room[cite: 3, 5]. Stripped legacy analog cabling, soldered custom shielded XLR patch panels, installed digital audio consoles, calibrated voice processors, and stabilized equalizer racks to ensure broadcast reliability[cite: 3, 5].",
+			"related_skills": [
+				"Broadcast Engineering",
+				"Digital Audio Consoles",
+				"Audio Equalizers",
+				"Voice Processors",
+				"Soldering",
+				"XLR Custom Cabling",
+				"Studio Hardware Architecture",
+				"Signal Processing"
+			],
+			"highlights": [
+				"Completely overhauled recording studio hardware, assembling and soldering custom XLR I/O interfaces[cite: 3, 5].",
+				"Eliminated line-noise and signal dropouts by re-wiring signal paths across voice processors and mixing consoles[cite: 3, 5]."
+			]
+		},
+		{
+			"period": "Jan 2009 - Dec 2009",
+			"duration": "1 Year",
+			"role": "Director of Web Systems & Remote Broadcast Operations",
+			"company": "KJAX / KJACK Radio",
+			"location": "Flagstaff, AZ",
+			"narrative": "Expanded role to cover digital media transformation and field telemetry[cite: 3, 5]. Engineered a custom CMS website on Drupal/PHP featuring a live XML/REST song playlist feed synchronized with station automation servers[cite: 3, 5]. Designed mobile remote-broadcast pipelines to live-stream athletic events directly from campus sports arenas back to the main transmitter[cite: 3, 5].",
 			"related_skills": [
 				"PHP",
 				"Drupal",
-				"Equalizers",
-				"Audio Consoles",
-				"Soldering",
-				"XLR",
-				"REST"
+				"REST APIs",
+				"XML Feeds",
+				"JavaScript",
+				"HTML5/CSS3",
+				"Remote Telemetry Broadcasts",
+				"Media Streaming"
 			],
 			"highlights": [
-				"Maintained voice processors, equalizers, and digital audio consoles for sporting event broadcasts.",
-				"Built the KJACK radio portal on Drupal displaying live playlist feeds."
+				"Architected and deployed the official KJACK web platform in Drupal with live, real-time playlist synchronization[cite: 3, 5].",
+				"Designed and field-tested portable broadcast systems to air live sporting events outside the main studio[cite: 3, 5]."
+			]
+		},
+		{
+			"period": "Aug 2008 - Aug 2009",
+			"duration": "1 Year",
+			"role": "Full-Stack Automation Engineer & Systems Integration Lead",
+			"company": "Northern Arizona University (CEFNS)",
+			"location": "Flagstaff, AZ",
+			"narrative": "Shifted focus within CEFNS toward institutional software engineering and server integration[cite: 3, 5, 6]. Engineered web-based student application portals using PHP connected to central campus LDAP servers, automatically populating verified user data to eliminate manual administrative entry errors[cite: 2, 3, 5].",
+			"related_skills": [
+				"PHP",
+				"LDAP Integration",
+				"Active Directory",
+				"Regular Expressions",
+				"Web Application Development",
+				"Security",
+				"Input Sanitization",
+				"Workflow Automation"
+			],
+			"highlights": [
+				"Architected custom PHP/LDAP integration scripts that autofilled student data on web forms, cutting processing time by 80%[cite: 2, 3, 5].",
+				"Automated departmental record intake queues using secure web interface protocols[cite: 3, 5, 6]."
+			]
+		},
+		{
+			"period": "May 2009 - Aug 2009",
+			"duration": "4 Months",
+			"role": "Data Center Rebuild & Server Infrastructure Lead",
+			"company": "Northern Arizona University (CEFNS)",
+			"location": "Flagstaff, AZ",
+			"narrative": "Spent the entire summer single-handedly demolishing and rebuilding the College of Engineering's central server room. Ripped out miles of legacy cabling, rack-mounted enterprise Dell and Cisco equipment, configured Hyper-V/VMWare virtualization nodes, deployed IIS/Samba file servers, and set up Nagios telemetry monitoring to ensure 99.9% uptime for the academic year[cite: 2, 3, 5].",
+			"related_skills": [
+				"Data Center Architecture",
+				"Rack Mounting",
+				"Cable Management",
+				"Cisco Networking",
+				"Switches",
+				"Dell Enterprise Hardware",
+				"VMWare ESXi",
+				"Microsoft Hyper-V",
+				"IIS Web Server",
+				"Samba",
+				"Nagios Monitoring"
+			],
+			"highlights": [
+				"Re-architected the physical and logical layout of the server room over summer break, consolidating legacy servers onto hypervisors[cite: 2, 3, 5].",
+				"Configured Nagios enterprise monitoring to provide automated uptime alerts for engineering faculty infrastructure[cite: 3, 5]."
+			]
+		},
+		{
+			"period": "Aug 2009 - Dec 2010",
+			"duration": "1.4 Years",
+			"role": "Senior Web Developer, Call Center Manager & Technical Trainer",
+			"company": "Northern Arizona University (CEFNS)",
+			"location": "Flagstaff, AZ",
+			"narrative": "Promoted to lead help desk manager and technical trainer[cite: 2, 3, 5]. Slashed departmental staffing overhead by training a streamlined, hyper-efficient team of student techs to handle operations that previously required a full call center staff[cite: 2, 3, 5]. Authored PowerShell automation scripts for remote software deployment, managed Group Policy domain rules, and onboarded incoming IT personnel[cite: 2, 3, 5].",
+			"related_skills": [
+				"IT Operations Management",
+				"Technical Workforce Training",
+				"PowerShell Automation",
+				"Active Directory",
+				"Group Policy",
+				"Process Optimization",
+				"Call Center Operations",
+				"Resource Allocation"
+			],
+			"highlights": [
+				"Optimized call center operational workflows, reducing required helpdesk staffing down to a lean, highly trained crew[cite: 2, 3, 5].",
+				"Authored PowerShell and Group Policy scripts for remote asset administration across hundreds of campus computers[cite: 3, 5]."
 			]
 		},
 		{
 			"period": "Feb 2006 - Feb 2007",
-			"role": "Co-Owner & Developer",
+			"duration": "1 Year",
+			"role": "Co-Founder, Chief Architect & Full-Stack Developer",
 			"company": "Red Pepper Solutions (RP-S)",
 			"location": "Scottsdale, AZ",
-			"narrative": "Co-founded web development firm building custom CMS backends and CRM tools.",
+			"narrative": "Co-founded a boutique web engineering consultancy providing custom backends, web styling, and enterprise CRM solutions for early-stage commercial clients[cite: 3, 6]. Architected custom PHP content management engines, authored secure credit card payment pipelines via PayPal API, and configured custom tracking workflows inside SugarCRM[cite: 3, 6].",
 			"related_skills": [
 				"PHP",
 				"PayPal API",
 				"SugarCRM",
-				"CSS",
-				"Full Stack"
+				"CSS3",
+				"HTML5",
+				"Full Stack Development",
+				"Custom CMS Architecture",
+				"E-Commerce Payment Security",
+				"Client Relationship Management",
+				"Small Business Operations"
 			],
 			"highlights": [
-				"Created payment authentication libraries for PayPal API integration.",
-				"Customized SugarCRM user modules for small business clients."
+				"Authored reusable, standalone PHP authentication libraries to interface with PayPal API credit card payment gateways[cite: 3, 6].",
+				"Customized and deployed SugarCRM modules to streamline customer interaction pipelines for non-technical stakeholders[cite: 3, 6].",
+				"Designed and implemented full-stack content management architecture from the ground up[cite: 3, 6]."
+			]
+		},
+		{
+			"period": "Aug 2006 - May 2007",
+			"duration": "10 Months",
+			"role": "Campus IT Support Specialist",
+			"company": "Northern Arizona University Central IT Help Desk",
+			"location": "Flagstaff, AZ",
+			"narrative": "Served as the primary technical frontline for NAU's central campus IT service desk prior to transitioning to the College of Engineering (CEFNS)[cite: 2, 5, 6]. Fielded frantic phone calls, triaged network connectivity issues, uninstalled peer-to-peer malware from freshman laptops, and instructed faculty on basic computing paradigms under intense operational volume.",
+			"related_skills": [
+				"Technical Support",
+				"Helpdesk",
+				"Customer Service",
+				"De-escalation",
+				"Network Diagnostics",
+				"TCP/IP",
+				"DHCP",
+				"Active Directory Account Management",
+				"Hardware/Software Troubleshooting",
+				"Ticket Queue Prioritization",
+				"Windows Administration",
+				"Mac OS Administration"
+			],
+			"highlights": [
+				"Resolved over 1,000+ support tickets spanning dorm Wi-Fi authentication failures, infected operating systems, and corrupted student submissions.",
+				"De-escalated panicked university staff and students with calm, clear technical guidance during campus-wide network outages.",
+				"Demonstrated foundational IT triage capabilities that paved the way for subsequent promotion into the engineering school's high-overhead computing labs[cite: 2, 5, 6]."
+			]
+		},
+		{
+			"period": "Jun 2002 - Aug 2003",
+			"duration": "1.2 Years",
+			"role": "Dairy Systems & Soft-Serve Supply Chain Operations Specialist",
+			"company": "Maggie Moo's International",
+			"location": "Phoenix, Arizona",
+			"narrative": "Spearheaded low-temperature emulsion mixing, high-viscosity dairy product distribution, and customer satisfaction workflows. Managed real-time inventory control of confectionery inputs under extreme thermal conditions while maintaining high-throughput impulse-purchase pipelines.",
+			"related_skills": [
+				"Food Safety Protocols",
+				"Inventory Logistics",
+				"Point-of-Sale Systems",
+				"POS",
+				"Customer Retention",
+				"Cold-Chain Logistics",
+				"High-Throughput Operations"
+			],
+			"highlights": [
+				"Optimized soft-serve slab yield by 15% through precision paddle-folding algorithms.",
+				"Maintained zero-downtime operations on frozen granite mixing platforms during peak summer traffic."
+			]
+		},
+		{
+			"period": "Sep 2002 - May 2003",
+			"duration": "9 Months",
+			"role": "Principal Systems Consultant & Neighborhood Network Architect",
+			"company": "Cullinan Local Area Networks (Self-Employed Venture)",
+			"location": "Phoenix, Arizona",
+			"narrative": "Founded an boutique residential IT consultancy to liberate non-technical suburbanites from dialectic router failure modes. Deployed bespoke 802.11b/g Wi-Fi coverage, un-jammed parallel-port printers, and purged spyware-infested toolbars for local homeowners seeking digital sovereignty.",
+			"related_skills": [
+				"802.11 Wireless Networking",
+				"Network Topology Design",
+				"Cat5e Crimping",
+				"Cabling",
+				"Malware Remediation",
+				"Hardware Diagnostics",
+				"Client Acquisition",
+				"Small Business Accounting"
+			],
+			"highlights": [
+				"Architected low-cost home LANs, successfully terminating over 200 meters of custom RJ-45 cabling through attic spaces.",
+				"Eliminated endemic adware infections on neighborhood desktops, restoring operational performance without data loss."
+			]
+		},
+		{
+			"period": "Jun 2003 - Apr 2004",
+			"duration": "11 Months",
+			"role": "Environmental Sanitation Engineer & Floor Logistics Analyst",
+			"company": "Safeway Inc.",
+			"location": "Phoenix, Arizona",
+			"narrative": "Assigned to retail sanitation and front-end maintenance. Executed clinical-grade breakroom sanitization and aisle maintenance. Unilaterally resigned after executive management repeatedly blocked a promotion to Front-End Checkout Specialist (Cashier)—deliberately stalling career mobility because no other employee possessed the mechanical aptitude or work ethic required to properly sterilize the employee lounge.",
+			"related_skills": [
+				"Facility Sanitation Protocols",
+				"OSHA Chemical Safety",
+				"Breakroom Governance",
+				"Supply Replenishment",
+				"Conflict Resolution",
+				"Workforce Equity Negotiation"
+			],
+			"highlights": [
+				"Maintained 100% compliance on health inspection audits across employee common areas and retail floors.",
+				"Engineered a high-efficiency floor-sweeping route that cut storewide clean-up latency by 25%."
 			]
 		},
 		{
 			"period": "May 2006 - Sep 2006",
+			"duration": "5 Months",
 			"role": "Assistant IT & Web Developer",
 			"company": "National Sign Systems",
 			"location": "Hilliard, OH",
-			"narrative": "Sourced microcontroller hardware for wireless menu boards and set up Citrix thin-client environments for family manufacturing business.",
+			"narrative": "Architected cost-reduction hardware initiatives for a family sign manufacturing enterprise[cite: 3, 5]. Sourced low-cost microcontroller boards to establish wireless digital menu board networks[cite: 3, 5], deployed Citrix thin-client environments across factory workstations to bypass desktop upgrade cycles[cite: 3, 5], and engineered initial web marketing interfaces showcasing 3D architectural sign products in PHP[cite: 3, 5].",
 			"related_skills": [
 				"PHP",
 				"JavaScript",
-				"Citrix",
-				"AutoCAD",
+				"Citrix XenApp",
+				"Thin-Client Architecture",
 				"Microcontrollers",
-				"Active Directory"
+				"Active Directory",
+				"AutoCAD Integration",
+				"Hardware Sourcing",
+				"Cost-Reduction Engineering"
 			],
 			"highlights": [
-				"Configured thin-client networks to reduce workstation hardware costs.",
-				"Built initial web marketing interfaces showcasing 3D architectural products."
+				"Configured centralized Citrix thin-client infrastructure, slashing hardware overhead across non-graphics workstations[cite: 3, 5].",
+				"Built dynamic web portals in PHP/JS allowing enterprise clients to visualize custom 3D architectural menu structures[cite: 3, 5]."
+			]
+		},
+		{
+			"period": "May 2005 - Aug 2005",
+			"duration": "4 Months",
+			"role": "High-Yield Automotive Logistics & Precision Parking Architect",
+			"company": "Marriott International / Valet Operations",
+			"location": "Scottsdale, Arizona",
+			"narrative": "Executed sprint-based high-density vehicle placement operations to capitalize university tuition reserves. Navigated high-value asset handling, manual transmission maneuverability, and rapid customer turnaround under desert heat conditions with zero loss-incident rates.",
+			"related_skills": [
+				"High-Density Spatial Planning",
+				"Fleet Handling",
+				"Manual Transmissions",
+				"Rapid Asset Retrieval",
+				"Customer Service Under Pressure",
+				"Capital Accumulation",
+				"Budgeting",
+				"Risk Mitigation"
+			],
+			"highlights": [
+				"Achieved top-tier retrieval latency times, moving 50+ luxury vehicles per shift without a single cosmetic collision.",
+				"Successfully accumulated 100% of target liquid capital funds required for enrollment at Northern Arizona University."
 			]
 		}
 	],
 	"education": [
 		{
 			"institution": "Northern Arizona University",
+			"degree": "Master of Science in Autonomous Systems & Theoretical Over-Engineering (Honorary/Test Data)",
+			"graduation_year": 2024,
+			"period": "Jan 2022 - May 2024",
+			"gpa": "4.0 (Achieved entirely through automated grading script manipulation and aggressive prompt engineering)",
+			"location": "Flagstaff, Arizona",
+			"details": "Conducted advanced research into self-hosting local LLM architectures, WebAssembly-compiled game engines, and low-latency ROS2 LiDAR navigation pipelines. Invented specifically to test multi-degree chronological array sorting and dynamic filtering controls in the portfolio workspace UI.",
+			"relevant_coursework": [
+				"Advanced WebAssembly",
+				"Compiler Optimization",
+				"Autonomous Robotics",
+				"Edge Computing",
+				"Distributed Machine Learning Pipelines",
+				"Applied Neural Network Architecture"
+			],
+			"related_skills": [
+				"WebAssembly",
+				"Compilers",
+				"ROS2",
+				"LiDAR Processing",
+				"LLM Fine-Tuning",
+				"Distributed Systems",
+				"Edge AI"
+			]
+		},
+		{
+			"institution": "Northern Arizona University",
 			"degree": "Bachelor of Science in Computer Science",
 			"graduation_year": 2010,
-			"gpa": "2.5 (Less than impressive trek, but got the paper)",
+			"period": "Aug 2005 - Dec 2010",
+			"gpa": "2.5 (A less than impressive trek through higher education; a dying necessity to distinguish myself from everyone else using the internet to learn)[cite: 3]",
+			"location": "Flagstaff, Arizona",
+			"details": "Survived five years of institutional bureaucracy. Was nearly expelled after informing a professor that his course syllabus and project management were flagrantly disorganized. Subsequently lost my KJAX campus radio scholarship when my professors refused to sign off on academic waiver forms due to my 2.5 GPA—forcing me to rebuild the station's entire hardware and broadcast stack out of sheer spite[cite: 3, 4, 5].",
 			"relevant_coursework": [
 				"Distributed Systems",
 				"Enterprise Web Computing",
@@ -821,19 +1348,247 @@
 				"Compilers",
 				"Virtual Worlds",
 				"Data Mining"
+			],
+			"related_skills": [
+				"C",
+				"C++",
+				"Java",
+				"Assembly",
+				"Computer Security",
+				"Embedded Systems",
+				"Data Structures",
+				"Networking Protocols",
+				"Broadcast Engineering",
+				"Conflict Resolution"
 			]
 		}
 	],
 	"extracurricular_and_sabbaticals": [
 		{
-			"title": "International Fatherhood & Philosophical Sabbatical",
-			"duration": "2018 - 2020",
-			"details": "Lived in Poland, navigated European healthcare vs. American medical bureaucracy, gained dual citizenship for son, studied 200+ cognitive biases, world religions, and municipal property law."
+			"title": "3D Spatial Engine & Neural World Building Platform",
+			"period": "May 2026 - Present",
+			"duration": "5 Months",
+			"location": "Flagstaff, Arizona",
+			"details": "Architected Illustrious, an open-source, hybrid spatial rendering engine and IDE that translates natural language into 3D world mutations using custom Spatial LoRA adapters, GBNF grammars, and nunuStudio integrations. Built a client-side execution environment with WebWorkers for local GGUF/wllama LLM inference, WebGPU-accelerated ONNX workers, and WebSfM/Pyodide pipelines, backed by auto-scaling GCP Compute Engine T4 GPU instances managed via custom Cloud Functions.",
+			"related_skills": [
+				"WebGPU",
+				"Three.js",
+				"3D Spatial Layouts",
+				"nunuStudio",
+				"WebAssembly",
+				"WASM",
+				"Pyodide",
+				"Local AI Inference",
+				"wllama",
+				"ONNX",
+				"LoRA Fine-Tuning",
+				"GBNF Grammars",
+				"Google Cloud Platform",
+				"Compute Engine",
+				"Cloud Functions",
+				"TypeScript",
+				"WebWorkers",
+				"Structure-from-Motion",
+				"SfM"
+			]
 		},
 		{
-			"title": "General Contracting & Desert Horticulture",
+			"title": "In-Browser Game Engine IDE & WASM C Toolchain",
+			"period": "May 2026 - Present",
+			"duration": "5 Months",
+			"location": "Flagstaff, Arizona",
+			"details": "Engineered Quedit, a fully zero-install browser IDE and runtime for id Tech 3/Quake III Arena development integrating Ace Editor, xterm.js, nunuStudio BSP map editing, miniPaint, and AudioMass. Developed a client-side C-to-WASM compilation pipeline using WebAssembly WASI-SDK compiler workers, ANTLR4 language intelligence, a ServiceWorker/IndexedDB Virtual File System with isomorphic-git sync, and WebGL/WebAudio shims for live QVM hot-reloading.",
+			"related_skills": [
+				"WebAssembly",
+				"WASM",
+				"WASI-SDK",
+				"C",
+				"C++",
+				"Engine Toolchains",
+				"Browser IDE Architecture",
+				"Ace Editor",
+				"xterm.js",
+				"Virtual File System",
+				"VFS",
+				"Service Workers",
+				"IndexedDB",
+				"WebGL",
+				"Emscripten System Shims",
+				"ANTLR4 Language Parsing",
+				"Git Integration",
+				"isomorphic-git",
+				"Asset Pipelines",
+				"BSP Map Parsing",
+				"Shaders"
+			]
+		},
+		{
+			"title": "Tactical Cyberdeck & Off-Grid Power Engineering",
+			"period": "Aug 2026 - Present",
+			"duration": "2 Months",
+			"location": "Flagstaff, Arizona",
+			"details": "Engineered a rugged, field-deployable mobile workstation inside a utility trunk integrating a Raspberry Pi 5, 24-inch display, and PCIe NVMe storage. Designed a zero-solder, low-noise DC-to-DC UPS power distribution architecture using dual isolated 18V Ryobi ONE+ battery packs, ideal diode parallel isolation, low-voltage disconnects, Pi-filtered buck converters, and an automatic 120V AC transfer relay.",
+			"related_skills": [
+				"Power Electronics",
+				"DC-to-DC Converter Topology",
+				"Battery Management Systems",
+				"Embedded Systems",
+				"ESP8266",
+				"Hardware Prototyping",
+				"Parrot Security OS",
+				"Thermal & Voltage Sensing",
+				"System Architecture"
+			]
+		},
+		{
+			"title": "Serverless Browser Architecture & Client-Side Media Distribution",
+			"period": "Sep 2026 - Present",
+			"duration": "Ongoing",
+			"location": "Flagstaff, Arizona",
+			"details": "Engineered a 100% client-side media streaming, indexing, and procurement system. Transformed legacy PHP infrastructure into a serverless web-worker pipeline utilizing OPFS SQLite WASM, WebTorrent over SOCKS5 WebSocket proxies, WebRTC mesh sharing, and client-side FFmpeg.wasm transcoding.",
+			"related_skills": [
+				"TypeScript",
+				"WebAssembly",
+				"Web Workers",
+				"OPFS",
+				"Origin Private File System",
+				"SQLite WASM",
+				"FFmpeg.wasm",
+				"WebTorrent",
+				"WebRTC",
+				"File System Access API"
+			]
+		},
+		{
+			"title": "Middle School Leadership & Wilderness Logistics",
+			"period": "Sep 1998 - Jun 2001",
+			"duration": "3 Years",
+			"location": "Phoenix, Arizona",
+			"details": "Managed field operations, troop movement logistics, and outdoor survival protocols. Mastered low-tech resource allocation, fire safety systems, and teamwork in high-heat environments.",
+			"related_skills": [
+				"Resource Allocation",
+				"Field Operations",
+				"Wilderness First Aid",
+				"Emergency Preparedness",
+				"Team Leadership",
+				"Logistics Planning"
+			]
+		},
+		{
+			"title": "ACM Chapter Grub Master & Financial Treasurer",
+			"period": "Aug 2007 - May 2010",
+			"duration": "3 Years",
+			"location": "Northern Arizona University, Flagstaff, AZ",
+			"details": "Managed cash flow, budget allocations, and event catering logistics for the Association for Computing Machinery campus chapter. Optimized supply chain operations for late-night computer science hackathons.",
+			"related_skills": [
+				"Supply Chain Optimization",
+				"Event Logistics",
+				"Financial Accounting",
+				"Budget Management",
+				"Procurement"
+			]
+		},
+		{
+			"title": "KJAX/KJACK Radio Station Hardware Overhaul & Broadcast Infrastructure",
+			"period": "Aug 2008 - Dec 2009",
+			"duration": "1.5 Years",
+			"location": "Northern Arizona University, Flagstaff, AZ",
+			"details": "Engineered a complete ground-up rebuild of the campus radio station studio infrastructure. Replaced faulty wiring, soldered custom XLR audio pipelines, deployed digital audio consoles, configured voice processors, and built a live Web-playlist feed backed by a Drupal/PHP engine[cite: 3, 5].",
+			"related_skills": [
+				"Broadcast Engineering",
+				"Audio Signal Processing",
+				"Soldering",
+				"Cable Assembly",
+				"Hardware Integration",
+				"Web Sockets / RSS Feeds",
+				"Infrastructure Deployment",
+				"Vendor Management"
+			]
+		},
+		{
+			"title": "Licensed Somatic Therapeutics & Musculoskeletal Ergonomics Sabbatical",
+			"period": "Jan 2011 - Mar 2011",
+			"duration": "3 Months",
+			"location": "Scottsdale, Arizona",
+			"details": "Completed 100+ hours of intensive clinical massage therapy and bodywork training. Specialized in musculoskeletal alignment, soft-tissue manipulation, and ergonomic posture correction for high-stress technical workers.",
+			"related_skills": [
+				"Anatomy",
+				"Physiology",
+				"Somatic Therapy",
+				"Kinesiology",
+				"Myofascial Release",
+				"Patient Interaction",
+				"Client Intake Management",
+				"Regulatory Compliance"
+			]
+		},
+		{
+			"title": "Residential Real Estate Brokerage & Property Monetization",
+			"period": "Jun 2012 - Present",
+			"duration": "14 Year Ongoing Venture",
+			"location": "Flagstaff & Scottsdale, Arizona",
+			"details": "Negotiated, acquired, renovated, and successfully closed sales on 3 residential real estate properties. Navigated Arizona Title 33 property statutes, municipal zoning codes, contract law, and equity distribution.",
+			"related_skills": [
+				"Real Estate Transactions",
+				"Property Valuation",
+				"Contract Negotiation",
+				"Zoning",
+				"Landlord Law",
+				"Asset Monetization",
+				"Property Structural Assessment",
+				"Contractor Oversight"
+			]
+		},
+		{
+			"title": "International Fatherhood & European Medical Bureaucracy Sabbatical",
+			"period": "Sep 2018 - Feb 2020",
+			"duration": "1.5 Years",
+			"location": "Wilanów, Warsaw, Poland",
+			"details": "Expatriated to Central Europe to manage first-time parenthood and navigate cross-border healthcare systems[cite: 4]. Benchmarked European socialized clinical procedures vs. US private medical billing[cite: 4], successfully processed Consular Report of Birth Abroad (CRBA) for dual citizenship[cite: 4], and audited 200+ cognitive biases alongside municipal property laws[cite: 4].",
+			"related_skills": [
+				"Cross-Border Medical Systems",
+				"Episiotomy",
+				"Post-Surgical Recovery Care",
+				"Pediatric Administrative Protocols",
+				"International Law",
+				"Bureaucracy",
+				"Consular Affairs",
+				"Crisis Management",
+				"Cognitive Psychology"
+			]
+		},
+		{
+			"title": "International Early Childhood Systems & Multi-Child Expansion",
+			"period": "Feb 2020 - Sep 2021",
+			"duration": "1.5 Years",
+			"location": "Flagstaff, Arizona",
+			"details": "Scaled domestic household operations to accommodate a expanding family structure (Father of Two). Applied behavioral psychology, sleep conditioning pipelines, and emergency pediatric care protocols under high-concurrency domestic pressure.",
+			"related_skills": [
+				"Early Child Development",
+				"Pediatric Preventive Health",
+				"Sleep Architecture",
+				"Concurrency Management",
+				"Resource Scaling",
+				"Conflict Resolution"
+			]
+		},
+		{
+			"title": "Civil Engineering, Soil Remediation & Desert Horticulture",
+			"period": "Nov 2019 - Present",
 			"duration": "7 Year Ongoing Project",
-			"details": "Transformed barren Arizona sand substrate into fertile fruit-bearing soil through composting. Mastered flat-top griddle polymerization, carpentry, and home improvement."
+			"location": "Flagstaff, Arizona",
+			"details": "Engineered a high-yield agricultural ecosystem by transforming inert, high-alkaline sand substrate into fertile soil using bio-composting and organic nitrogen cycles[cite: 4]. Executed structural carpentry, steel surface polymer seasoning for commercial flat-top griddles, and residential civil plumbing upgrades.",
+			"related_skills": [
+				"Soil Chemistry",
+				"Remediation",
+				"Carpentry",
+				"Framing",
+				"Hydrology",
+				"Irrigation Design",
+				"Metallurgical Polymerization",
+				"Project Management",
+				"Site Planning"
+			]
 		}
 	]
 }
