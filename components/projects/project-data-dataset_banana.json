@@ -1,0 +1,189 @@
+{
+  "projectName": "dataset_banana",
+  "localPath": "C:\\Users\\megam\\dataset_banana",
+  "remoteUrl": "git@github.com:briancullinan2/dataset_banana.git",
+  "lastUpdated": "2026-09-24T02:20:57.653Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2026-06-23": {
+      "date": "2026-06-23",
+      "heatScore": 40,
+      "linesChanged": 452,
+      "commitCount": 1,
+      "filesEdited": [
+        "feature-snip.js",
+        "feature-snip.py",
+        "isolated_output/DSC_0423_isolated.png",
+        "isolated_output/DSC_0424_isolated.png",
+        "isolated_output/DSC_0425_isolated.png",
+        "isolated_output/DSC_0426_isolated.png",
+        "isolated_output/DSC_0427_isolated.png",
+        "isolated_output/DSC_0428_isolated.png",
+        "isolated_output/DSC_0429_isolated.png",
+        "isolated_output/DSC_0430_isolated.png",
+        "isolated_output/DSC_0431_isolated.png",
+        "isolated_output/DSC_0432_isolated.png",
+        "isolated_output/DSC_0433_isolated.png",
+        "isolated_output/DSC_0434_isolated.png",
+        "isolated_output/DSC_0435_isolated.png",
+        "isolated_output/DSC_0436_isolated.png",
+        "isolated_output/DSC_0437_isolated.png",
+        "isolated_output/DSC_0438_isolated.png"
+      ],
+      "commits": [
+        {
+          "hash": "a7a18a34616d2b9768cb99fe6e749ee1a10dae72",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T16:13:51.000Z",
+          "message": "background removed for better sfm accuracy?",
+          "linesAdded": 452,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "feature-snip.js",
+            "feature-snip.py",
+            "isolated_output/DSC_0423_isolated.png",
+            "isolated_output/DSC_0424_isolated.png",
+            "isolated_output/DSC_0425_isolated.png",
+            "isolated_output/DSC_0426_isolated.png",
+            "isolated_output/DSC_0427_isolated.png",
+            "isolated_output/DSC_0428_isolated.png",
+            "isolated_output/DSC_0429_isolated.png",
+            "isolated_output/DSC_0430_isolated.png",
+            "isolated_output/DSC_0431_isolated.png",
+            "isolated_output/DSC_0432_isolated.png",
+            "isolated_output/DSC_0433_isolated.png",
+            "isolated_output/DSC_0434_isolated.png",
+            "isolated_output/DSC_0435_isolated.png",
+            "isolated_output/DSC_0436_isolated.png",
+            "isolated_output/DSC_0437_isolated.png",
+            "isolated_output/DSC_0438_isolated.png"
+          ]
+        }
+      ]
+    },
+    "2025-09-15": {
+      "date": "2025-09-15",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md"
+      ],
+      "commits": [
+        {
+          "hash": "2778294e4a73aec8f37747e0d2edfc4cb38b23a6",
+          "author": "Piero Toffanin",
+          "date": "2025-09-15T21:26:51.000Z",
+          "message": "Add link to banana inception in README",
+          "linesAdded": 2,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        }
+      ]
+    },
+    "2021-07-19": {
+      "date": "2021-07-19",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "banana.png",
+        "DSC_0423.JPG => images/DSC_0423.JPG",
+        "DSC_0424.JPG => images/DSC_0424.JPG",
+        "DSC_0425.JPG => images/DSC_0425.JPG",
+        "DSC_0426.JPG => images/DSC_0426.JPG",
+        "DSC_0427.JPG => images/DSC_0427.JPG",
+        "DSC_0428.JPG => images/DSC_0428.JPG",
+        "DSC_0429.JPG => images/DSC_0429.JPG",
+        "DSC_0430.JPG => images/DSC_0430.JPG",
+        "DSC_0431.JPG => images/DSC_0431.JPG",
+        "DSC_0432.JPG => images/DSC_0432.JPG",
+        "DSC_0433.JPG => images/DSC_0433.JPG",
+        "DSC_0434.JPG => images/DSC_0434.JPG",
+        "DSC_0435.JPG => images/DSC_0435.JPG",
+        "DSC_0436.JPG => images/DSC_0436.JPG",
+        "DSC_0437.JPG => images/DSC_0437.JPG",
+        "DSC_0438.JPG => images/DSC_0438.JPG"
+      ],
+      "commits": [
+        {
+          "hash": "d9ae72de42da05f188e8a66a04d25154f4f3763b",
+          "author": "Piero Toffanin",
+          "date": "2021-07-19T17:11:10.000Z",
+          "message": "Merge pull request #1 from coreysnipes/master",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "README.md",
+            "banana.png",
+            "DSC_0423.JPG => images/DSC_0423.JPG",
+            "DSC_0424.JPG => images/DSC_0424.JPG",
+            "DSC_0425.JPG => images/DSC_0425.JPG",
+            "DSC_0426.JPG => images/DSC_0426.JPG",
+            "DSC_0427.JPG => images/DSC_0427.JPG",
+            "DSC_0428.JPG => images/DSC_0428.JPG",
+            "DSC_0429.JPG => images/DSC_0429.JPG",
+            "DSC_0430.JPG => images/DSC_0430.JPG",
+            "DSC_0431.JPG => images/DSC_0431.JPG",
+            "DSC_0432.JPG => images/DSC_0432.JPG",
+            "DSC_0433.JPG => images/DSC_0433.JPG",
+            "DSC_0434.JPG => images/DSC_0434.JPG",
+            "DSC_0435.JPG => images/DSC_0435.JPG",
+            "DSC_0436.JPG => images/DSC_0436.JPG",
+            "DSC_0437.JPG => images/DSC_0437.JPG",
+            "DSC_0438.JPG => images/DSC_0438.JPG"
+          ]
+        }
+      ]
+    },
+    "2020-03-31": {
+      "date": "2020-03-31",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "banana.png"
+      ],
+      "commits": [
+        {
+          "hash": "8dbc133470e778ad72572eb251eccc0458755572",
+          "author": "Corey Snipes",
+          "date": "2020-03-31T02:38:51.000Z",
+          "message": "Moved embedded banana image to repo file.",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "README.md",
+            "banana.png"
+          ]
+        }
+      ]
+    },
+    "2019-07-11": {
+      "date": "2019-07-11",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md"
+      ],
+      "commits": [
+        {
+          "hash": "c1c363669fb400bc579baff2e73885da897aaea7",
+          "author": "Piero Toffanin",
+          "date": "2019-07-11T21:15:01.000Z",
+          "message": "Update README.md",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "README.md"
+          ]
+        }
+      ]
+    }
+  }
+}

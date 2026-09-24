@@ -45,10 +45,10 @@ export interface ComponentRoute
 // 1. Unified metadata tree tracking every panel type and icon token
 export const MODULE_REGISTRY: Record<string, ComponentRoute> = {
 	'collapse': { label: 'Collapse', iconClass: 'bx bx-arrow-in-left-square-half' },
-	'resume': { label: 'My Resume', url: './components/resume/widget.ts', className: 'ResumeWidget', iconClass: 'bx bx-user' },
+	'resume': { label: 'My Resume', url: './components/resume/widget.ts', className: 'ResumeWidget', iconClass: 'bx bx-education' },
 	'gps': { label: 'GPS Location', url: './components/gps/widget.ts', className: 'GPSWidget', iconClass: 'bx bx-location' },
 	'chat': { label: 'AI Assistant', url: './components/chat/widget.ts', className: 'ChatWidget', iconClass: 'bx bx-robot' },
-	'projects': { label: 'Projects', url: './components/projects/widget.ts', className: 'ProjectsWidget', iconClass: 'bx bx-briefcase' },
+	'projects': { label: 'Projects', url: './components/projects/widget.ts', className: 'ProjectsWidget', iconClass: 'bx bx-briefcase-alt' },
 	'files': { label: 'Clip Art', url: './components/art/widget.ts', className: 'ArtWidget', iconClass: 'bx bx-image' },
 	'timeline': { label: 'Timeline', url: './components/timeline/widget.ts', className: 'TimelineWidget', iconClass: 'bx bx-history' },
 	'blog': { label: 'Blog Feed', url: './components/blog/widget.ts', className: 'BlogWidget', iconClass: 'bx bx-rss' },
@@ -58,6 +58,7 @@ export const MODULE_REGISTRY: Record<string, ComponentRoute> = {
 	//'graph': { label: 'Workflow Graph', url: './components/graph/widget.ts', className: 'LightGraphWidget', iconClass: 'bx bx-chart-stacked-rows' },
 	'games': { label: 'Play Games', url: './components/game/widget.ts', className: 'GameWidget', iconClass: 'bx bx-joystick' },
 	'status': { label: 'System Status', url: './components/status/widget.ts', className: 'StatusWidget', iconClass: 'bx bx-chip' },
+	'calendar': { label: 'Calendar', url: './components/calendar/widget.ts', className: 'CalendarWidget', iconClass: 'bx bx-calendar-alt' },
 };
 
 menuSelf.MODULE_REGISTRY = MODULE_REGISTRY;

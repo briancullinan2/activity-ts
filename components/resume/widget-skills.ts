@@ -37,7 +37,7 @@ export class SkillsWidget extends Widget
 		this.node.style.fontFamily = 'Consolas, "Courier New", monospace';
 
 		this.title.label = 'Skills';
-		this.title.iconClass = 'fa fa-bar-chart';
+		this.title.iconClass = 'bx bx-slider';
 		this.title.closable = true;
 
 		SkillsWidget.instance = this;
@@ -100,14 +100,14 @@ export class SkillsWidget extends Widget
 		titleHeader.style.marginBottom = '12px';
 		titleHeader.style.paddingBottom = '6px';
 		titleHeader.style.borderBottom = '1px solid rgba(255, 255, 255, 0.08)';
-		titleHeader.innerHTML = '<i class="fa fa-sliders"></i> Exhaustive Skills Matrix';
+		titleHeader.innerHTML = '<i class="bx bx-slider"></i> Exhaustive Skills Matrix';
 
 		this._skillsContainerEl = document.createElement('div');
 		this._skillsContainerEl.style.display = 'flex';
 		this._skillsContainerEl.style.flexDirection = 'column';
 		this._skillsContainerEl.style.gap = '10px';
 
-		this.node.appendChild(titleHeader);
+		//this.node.appendChild(titleHeader);
 		this.node.appendChild(this._skillsContainerEl);
 	}
 

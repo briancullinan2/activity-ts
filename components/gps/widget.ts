@@ -112,7 +112,7 @@ export class GPSWidget extends Widget
 		this.node.style.fontFamily = 'Consolas, "Courier New", monospace';
 
 		this.title.label = 'GPS Location';
-		this.title.iconClass = 'fa fa-map-marked-alt';
+		this.title.iconClass = 'bx bx-location';
 		this.title.closable = true;
 	}
 
@@ -172,12 +172,6 @@ export class GPSWidget extends Widget
 		titleBox.style.flexDirection = 'column';
 		titleBox.style.gap = '6px';
 
-		const mainTitle = document.createElement('div');
-		mainTitle.style.fontWeight = 'bold';
-		mainTitle.style.fontSize = '14px';
-		mainTitle.style.color = '#00f2fe';
-		mainTitle.innerHTML = `<i class="fa fa-map-marked-alt"></i> GPS Timeline Visualizer`;
-
 		const metricsRow = document.createElement('div');
 		metricsRow.style.display = 'flex';
 		metricsRow.style.gap = '8px';
@@ -193,12 +187,11 @@ export class GPSWidget extends Widget
 		this._pathwaysValEl = pathwaysPill.valueSpan;
 		metricsRow.appendChild(pathwaysPill.container);
 
-		titleBox.appendChild(mainTitle);
 		titleBox.appendChild(metricsRow);
 
 		// Right Box: Provider Select + API Key + Upload Button
 		const controlsBox = document.createElement('div');
-		controlsBox.style.display = 'flex';
+		controlsBox.style.display = 'none';
 		controlsBox.style.alignItems = 'center';
 		controlsBox.style.gap = '8px';
 
@@ -254,7 +247,7 @@ export class GPSWidget extends Widget
 		uploadBtn.style.padding = '4px 10px';
 		uploadBtn.style.fontSize = '11px';
 		uploadBtn.style.cursor = 'pointer';
-		uploadBtn.innerHTML = '<i class="fa fa-upload"></i> Load JSON';
+		uploadBtn.innerHTML = '<i class="bx bx-upload"></i> Load JSON';
 
 		const fileInput = document.createElement('input');
 		fileInput.type = 'file';

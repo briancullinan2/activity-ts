@@ -107,7 +107,7 @@ export class StatusWidget extends Widget
 		this.node.style.fontFamily = 'Consolas, "Courier New", monospace';
 
 		this.title.label = 'System Status';
-		this.title.iconClass = 'fa fa-server';
+		this.title.iconClass = 'bx bx-server';
 		this.title.closable = true;
 
 		if(endpoint && endpoint !== 'System Status')

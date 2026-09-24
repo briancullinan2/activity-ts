@@ -511,10 +511,9 @@ export class ResumeWidget extends Widget
 
 		return { startYear, endYear, isPresent };
 	}
-
 	/**
-	 * Renders a single-year D3 Git Heatmap into a target SVG element
-	 */
+		 * Renders a single-year D3 Git Heatmap into a target SVG element
+		 */
 	private _renderD3HeatmapForYear(svgEl: SVGSVGElement, year: number): void
 	{
 		if(typeof d3 === 'undefined' || !svgEl) return;
@@ -522,10 +521,22 @@ export class ResumeWidget extends Widget
 		const svg = d3.select(svgEl);
 		svg.selectAll('*').remove();
 
-		const width = svgEl.clientWidth || 900;
+		const containerWidth = svgEl.clientWidth || 900;
+		const containerHeight = svgEl.clientHeight || 120;
+
 		const margin = { top: 15, right: 20, bottom: 15, left: 35 };
+		const innerWidth = containerWidth - margin.left - margin.right;
+		const innerHeight = containerHeight - margin.top - margin.bottom;
+
+		// Configure SVG attributes for scaling
+		svg.attr('viewBox', `0 0 ${containerWidth} ${containerHeight}`)
+			.attr('preserveAspectRatio', 'none');
+
+		// Dynamic step sizing (X stretches across 54 weeks, Y stretches across 7 days)
+		const stepX = innerWidth / 54;
+		const stepY = innerHeight / 7;
+
 		const dayLength = 60 * 60 * 24;
-		const sizeByDay = Math.min(12, (width - margin.left - margin.right) / 54);
 
 		const dayCounts: Record<number, number> = {};
 		for(const ev of this._gitEvents)
@@ -548,7 +559,7 @@ export class ResumeWidget extends Widget
 			.text(year)
 			.attr('fill', '#888')
 			.attr('font-size', '10px')
-			.attr('transform', `translate(-25, ${sizeByDay * 3.5}) rotate(-90)`)
+			.attr('transform', `translate(-25, ${stepY * 3.5}) rotate(-90)`)
 			.attr('text-anchor', 'middle');
 
 		const daysInYear = d3.timeDays(new Date(year, 0, 1), new Date(year + 1, 0, 1));
@@ -557,10 +568,10 @@ export class ResumeWidget extends Widget
 			.data(daysInYear)
 			.enter().append('rect')
 			.attr('class', 'day')
-			.attr('width', sizeByDay - 1)
-			.attr('height', sizeByDay - 1)
-			.attr('x', (d: Date) => parseInt(d3.timeFormat('%W')(d)) * sizeByDay)
-			.attr('y', (d: Date) => ((d.getDay() + 6) % 7) * sizeByDay)
+			.attr('width', Math.max(1, stepX - 1))
+			.attr('height', Math.max(1, stepY - 1))
+			.attr('x', (d: Date) => parseInt(d3.timeFormat('%W')(d)) * stepX)
+			.attr('y', (d: Date) => ((d.getDay() + 6) % 7) * stepY)
 			.attr('fill', (d: Date) =>
 			{
 				const key = Math.floor(d.getTime() / (1000 * dayLength)) * dayLength;
@@ -571,6 +582,7 @@ export class ResumeWidget extends Widget
 			.append('title')
 			.text((d: Date) => `${d3.timeFormat('%Y-%m-%d')(d)}: Activity Recorded`);
 	}
+
 
 	private _renderD3Heatmap(): void
 	{
@@ -625,6 +637,32 @@ export class ResumeWidget extends Widget
 		if(!this._cardsContainerEl) return;
 		this._cardsContainerEl.replaceChildren();
 
+		let currentYearBlock: number | null = (new Date).getFullYear();
+		const shouldShowHeatmaps = (this._activeSection === 'all' || this._activeSection === 'profile' || this._activeSection === 'experience');
+
+		// Helper to append a year-specific heatmap card
+		const appendHeatmapCardForYear = (year: number) =>
+		{
+			const heatmapCard = this._createGlassCard(`Work Activity — Year of ${year}`, 'bx bx-calendar');
+			heatmapCard.wrapper.classList.add('no-print', 'resume-entry-card', 'year-heatmap-card');
+
+			const yearSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+			yearSvg.style.width = '100%';
+			yearSvg.style.height = '100%';
+			yearSvg.style.minHeight = '80px';
+
+			heatmapCard.content.appendChild(yearSvg);
+			this._cardsContainerEl.appendChild(heatmapCard.wrapper);
+
+			this._renderD3HeatmapForYear(yearSvg, year);
+		};
+
+		if(shouldShowHeatmaps)
+		{
+			appendHeatmapCardForYear(currentYearBlock);
+			currentYearBlock--;
+		}
+
 		// 1. Render Top Executive Profile Card
 		if(this._activeSection === 'all' || this._activeSection === 'profile')
 		{
@@ -669,7 +707,7 @@ export class ResumeWidget extends Widget
 				unifiedEntries.push({
 					type: 'experience',
 					title: `${emp.role} — ${emp.company}`,
-					iconClass: 'bx bx-briefcase',
+					iconClass: 'bx bx-briefcase-alt',
 					location: emp.location,
 					period: emp.period,
 					narrative: emp.narrative,
@@ -743,25 +781,7 @@ export class ResumeWidget extends Widget
 			return pB.startYear - pA.startYear;
 		});
 
-		// Helper to append a year-specific heatmap card
-		const appendHeatmapCardForYear = (year: number) =>
-		{
-			const heatmapCard = this._createGlassCard(`Work Activity — Year of ${year}`, 'bx bx-calendar');
-			heatmapCard.wrapper.classList.add('no-print', 'resume-entry-card', 'year-heatmap-card');
-
-			const yearSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-			yearSvg.style.width = '100%';
-			yearSvg.style.height = '120px';
-
-			heatmapCard.content.appendChild(yearSvg);
-			this._cardsContainerEl.appendChild(heatmapCard.wrapper);
-
-			this._renderD3HeatmapForYear(yearSvg, year);
-		};
-
 		// 4. Render Entries and Append Heatmap at the Bottom of Each Year Block
-		let currentYearBlock: number | null = (new Date).getFullYear();
-		const shouldShowHeatmaps = (this._activeSection === 'all' || this._activeSection === 'profile' || this._activeSection === 'experience');
 
 		unifiedEntries.forEach((entry, index) =>
 		{
