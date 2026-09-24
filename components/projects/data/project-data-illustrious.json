@@ -1,0 +1,652 @@
+{
+  "projectName": "illustrious",
+  "localPath": "C:\\Users\\megam\\illustrious",
+  "remoteUrl": "git@github.com:briancullinan2/illustrious.git",
+  "lastUpdated": "2026-09-24T03:03:59.444Z",
+  "screenshots": [
+    {
+      "filename": "Screenshot 2026-06-23 124851.png",
+      "relativePath": "Screenshot 2026-06-23 124851.png",
+      "date": "2026-06-23T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-22 133059.png",
+      "relativePath": "Screenshot 2026-06-22 133059.png",
+      "date": "2026-06-22T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-22 133929.png",
+      "relativePath": "Screenshot 2026-06-22 133929.png",
+      "date": "2026-06-22T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-14 225931.png",
+      "relativePath": "Screenshot 2026-06-14 225931.png",
+      "date": "2026-06-14T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-14 230112.png",
+      "relativePath": "Screenshot 2026-06-14 230112.png",
+      "date": "2026-06-14T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-14 230126.png",
+      "relativePath": "Screenshot 2026-06-14 230126.png",
+      "date": "2026-06-14T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-14 230132.png",
+      "relativePath": "Screenshot 2026-06-14 230132.png",
+      "date": "2026-06-14T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-14 230144.png",
+      "relativePath": "Screenshot 2026-06-14 230144.png",
+      "date": "2026-06-14T00:00:00.000Z",
+      "source": "filename"
+    }
+  ],
+  "dailyHeat": {
+    "2026-08-04": {
+      "date": "2026-08-04",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "package.json",
+        "webpack.prod.js => webpack.nunu.js"
+      ],
+      "commits": [
+        {
+          "hash": "11c2a752168a90b009d04246431e1142de1820be",
+          "author": "Brian Cullinan",
+          "date": "2026-08-04T01:33:21.000Z",
+          "message": "added webpack because i will also be packing lumino into illustrious",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "package.json",
+            "webpack.prod.js => webpack.nunu.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-06": {
+      "date": "2026-07-06",
+      "heatScore": 10,
+      "linesChanged": 0,
+      "commitCount": 1,
+      "filesEdited": [
+        "3rdparty/litegraph.js-master.zip",
+        "3rdparty/lumino-main.zip"
+      ],
+      "commits": [
+        {
+          "hash": "0afd9781e70c74345ad591f11a1747ef4af3577a",
+          "author": "Brian Cullinan",
+          "date": "2026-07-06T17:54:11.000Z",
+          "message": "more 3rd party plans",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "3rdparty/litegraph.js-master.zip",
+            "3rdparty/lumino-main.zip"
+          ]
+        }
+      ]
+    },
+    "2026-07-04": {
+      "date": "2026-07-04",
+      "heatScore": 66,
+      "linesChanged": 840,
+      "commitCount": 1,
+      "filesEdited": [
+        "cloud-functions/boot-gpu/chat-agent.py",
+        "cloud-functions/boot-gpu/index.html",
+        "loras/spatial_engine/objaverse-download.py"
+      ],
+      "commits": [
+        {
+          "hash": "24a052947f858164d5eef904a7d4ec12fe7f09ec",
+          "author": "Brian Cullinan",
+          "date": "2026-07-04T22:56:12.000Z",
+          "message": "tried an obj generator, not sure it works",
+          "linesAdded": 434,
+          "linesDeleted": 406,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/index.html",
+            "loras/spatial_engine/objaverse-download.py"
+          ]
+        }
+      ]
+    },
+    "2026-07-03": {
+      "date": "2026-07-03",
+      "heatScore": 15,
+      "linesChanged": 83,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/sfm-processor/minecraft-store.md",
+        "loras/spatial_engine/adapter_config.json"
+      ],
+      "commits": [
+        {
+          "hash": "d58c8c3f1643bd3117adebb9fb8e6d6298024c39",
+          "author": "Brian Cullinan",
+          "date": "2026-07-03T23:12:55.000Z",
+          "message": "mine craft server loads lan ONLY if you pay sony extra",
+          "linesAdded": 44,
+          "linesDeleted": 39,
+          "filesChanged": [
+            "components/sfm-processor/minecraft-store.md",
+            "loras/spatial_engine/adapter_config.json"
+          ]
+        }
+      ]
+    },
+    "2026-07-02": {
+      "date": "2026-07-02",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/map-editor/bundle.js"
+      ],
+      "commits": [
+        {
+          "hash": "2e7e89244c3a5041e453f8422ecd3e27ee214a1f",
+          "author": "Brian Cullinan",
+          "date": "2026-07-02T16:59:25.000Z",
+          "message": "backup urls in bsp loader",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/bundle.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-01": {
+      "date": "2026-07-01",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/map-editor/bundle.js"
+      ],
+      "commits": [
+        {
+          "hash": "058e0eaf7ab9b6087540242c5c2c0f254d5c2f8a",
+          "author": "Brian Cullinan",
+          "date": "2026-07-01T21:25:35.000Z",
+          "message": "fix for q3 shaders",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/map-editor/bundle.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-30": {
+      "date": "2026-06-30",
+      "heatScore": 14,
+      "linesChanged": 65,
+      "commitCount": 1,
+      "filesEdited": [
+        "client.js",
+        "components/core/workers.js",
+        "components/llm-workers/downloader.js",
+        "components/llm-workers/media-pipe/{media-pipe.js => media-worker.js}",
+        "components/map-editor/bundle.js",
+        "components/map-editor/nunu.css"
+      ],
+      "commits": [
+        {
+          "hash": "640d4b392517c6284addd746a5cf69af15ca5c3d",
+          "author": "Brian Cullinan",
+          "date": "2026-06-30T18:50:53.000Z",
+          "message": "nearly have media pipe connected",
+          "linesAdded": 61,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "client.js",
+            "components/core/workers.js",
+            "components/llm-workers/downloader.js",
+            "components/llm-workers/media-pipe/{media-pipe.js => media-worker.js}",
+            "components/map-editor/bundle.js",
+            "components/map-editor/nunu.css"
+          ]
+        }
+      ]
+    },
+    "2026-06-29": {
+      "date": "2026-06-29",
+      "heatScore": 49,
+      "linesChanged": 590,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "components/llm-workers/convert/convert-worker.js",
+        "components/llm-workers/convert/normalize-volume.js",
+        "components/llm-workers/convert/three.core.min.js",
+        "components/llm-workers/convert/three.module.min.js",
+        "components/llm-workers/convert/three.webgpu.min.js"
+      ],
+      "commits": [
+        {
+          "hash": "0ad69f51bdd1d7053630e2bbf035b3f612f6fb4a",
+          "author": "Brian Cullinan",
+          "date": "2026-06-29T23:37:11.000Z",
+          "message": "working on model normalization",
+          "linesAdded": 378,
+          "linesDeleted": 212,
+          "filesChanged": [
+            "README.md",
+            "components/llm-workers/convert/convert-worker.js",
+            "components/llm-workers/convert/normalize-volume.js",
+            "components/llm-workers/convert/three.core.min.js",
+            "components/llm-workers/convert/three.module.min.js",
+            "components/llm-workers/convert/three.webgpu.min.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-28": {
+      "date": "2026-06-28",
+      "heatScore": 11,
+      "linesChanged": 19,
+      "commitCount": 1,
+      "filesEdited": [
+        "cloud-functions/boot-gpu/train-lora.py"
+      ],
+      "commits": [
+        {
+          "hash": "4afa1659adbfb578edb3e2a51068bc14e398a657",
+          "author": "Brian Cullinan",
+          "date": "2026-06-28T22:04:31.000Z",
+          "message": "dumb whitespace bug",
+          "linesAdded": 12,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/train-lora.py"
+          ]
+        }
+      ]
+    },
+    "2026-06-26": {
+      "date": "2026-06-26",
+      "heatScore": 11,
+      "linesChanged": 16,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/map-editor/Q3BSPLoader.js",
+        "components/map-editor/addons.js"
+      ],
+      "commits": [
+        {
+          "hash": "370b7f52490338ed8e92da13d53a8b4c869ed25e",
+          "author": "Brian Cullinan",
+          "date": "2026-06-26T06:02:14.000Z",
+          "message": "changes i want to make to nunu getting too complicated not to build it myself",
+          "linesAdded": 0,
+          "linesDeleted": 16,
+          "filesChanged": [
+            "components/map-editor/Q3BSPLoader.js",
+            "components/map-editor/addons.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-25": {
+      "date": "2026-06-25",
+      "heatScore": 58,
+      "linesChanged": 721,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/map-editor/BlendLoader.js",
+        "components/map-editor/SpatialLoader.js",
+        "components/map-editor/addons.js",
+        "components/map-editor/bundle.js"
+      ],
+      "commits": [
+        {
+          "hash": "ca1db1df94348b4d04272d980b6e0c784f230d8f",
+          "author": "Brian Cullinan",
+          "date": "2026-06-25T20:05:44.000Z",
+          "message": "trying to overload the texture loader isn't working",
+          "linesAdded": 711,
+          "linesDeleted": 10,
+          "filesChanged": [
+            "components/map-editor/BlendLoader.js",
+            "components/map-editor/SpatialLoader.js",
+            "components/map-editor/addons.js",
+            "components/map-editor/bundle.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-24": {
+      "date": "2026-06-24",
+      "heatScore": 10,
+      "linesChanged": 11,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/llm-workers/objaverse/catalog-worker.js",
+        "components/llm-workers/objaverse/duckdb-browser-eh.worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "e5b7ba5df2a3a97c223e0f721f8185fe52e054f9",
+          "author": "Brian Cullinan",
+          "date": "2026-06-24T22:19:05.000Z",
+          "message": "partial parquet reads with ranges, 206 responses",
+          "linesAdded": 10,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/llm-workers/objaverse/catalog-worker.js",
+            "components/llm-workers/objaverse/duckdb-browser-eh.worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-23": {
+      "date": "2026-06-23",
+      "heatScore": 100,
+      "linesChanged": 1449,
+      "commitCount": 1,
+      "filesEdited": [
+        ".gitignore",
+        "3rdparty/segment-anything-main.zip",
+        "3rdparty/stable-diffusion-webui-rembg-master.zip",
+        "README.md",
+        "client.js",
+        "components/core/events.js",
+        "components/llm-workers/onnx/worker.js",
+        "components/sfm-processor/decompiling.md",
+        "components/sfm-processor/feature-snip.js",
+        "components/sfm-processor/feature-snip.py",
+        "components/sfm-processor/reconstruct_banana.py"
+      ],
+      "commits": [
+        {
+          "hash": "3174dbd9568ff97bce3e652a61deadf6a585b4a7",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T19:46:49.000Z",
+          "message": "spatial calculator",
+          "linesAdded": 1347,
+          "linesDeleted": 102,
+          "filesChanged": [
+            ".gitignore",
+            "3rdparty/segment-anything-main.zip",
+            "3rdparty/stable-diffusion-webui-rembg-master.zip",
+            "README.md",
+            "client.js",
+            "components/core/events.js",
+            "components/llm-workers/onnx/worker.js",
+            "components/sfm-processor/decompiling.md",
+            "components/sfm-processor/feature-snip.js",
+            "components/sfm-processor/feature-snip.py",
+            "components/sfm-processor/reconstruct_banana.py"
+          ]
+        }
+      ]
+    },
+    "2026-06-22": {
+      "date": "2026-06-22",
+      "heatScore": 100,
+      "linesChanged": 1896,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "Screenshot 2026-06-22 133059.png",
+        "Screenshot 2026-06-22 133929.png",
+        "client.js",
+        "components/core/events.js",
+        "components/core/extensions.js",
+        "components/core/menu.css",
+        "components/core/menu.js",
+        "components/core/settings.js",
+        "components/map-editor/Q3BSPLoader.js",
+        "components/map-editor/bundle.js",
+        "components/map-editor/nunu.css",
+        "components/map-editor/styles.css",
+        "index.html",
+        "main.css",
+        "setup/index.html",
+        "setup/setup-client.js",
+        "setup/setup-local.js",
+        "setup/setup.css",
+        "setup/setup.js"
+      ],
+      "commits": [
+        {
+          "hash": "93d39d7f0359d2fd83626a43d316e475f66ef757",
+          "author": "Brian Cullinan",
+          "date": "2026-06-22T20:43:42.000Z",
+          "message": "booted nunu, adding geometries, preparing for generative AI",
+          "linesAdded": 1701,
+          "linesDeleted": 195,
+          "filesChanged": [
+            "README.md",
+            "Screenshot 2026-06-22 133059.png",
+            "Screenshot 2026-06-22 133929.png",
+            "client.js",
+            "components/core/events.js",
+            "components/core/extensions.js",
+            "components/core/menu.css",
+            "components/core/menu.js",
+            "components/core/settings.js",
+            "components/map-editor/Q3BSPLoader.js",
+            "components/map-editor/bundle.js",
+            "components/map-editor/nunu.css",
+            "components/map-editor/styles.css",
+            "index.html",
+            "main.css",
+            "setup/index.html",
+            "setup/setup-client.js",
+            "setup/setup-local.js",
+            "setup/setup.css",
+            "setup/setup.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-21": {
+      "date": "2026-06-21",
+      "heatScore": 11,
+      "linesChanged": 17,
+      "commitCount": 1,
+      "filesEdited": [
+        "client.js",
+        "index.html",
+        "main.css"
+      ],
+      "commits": [
+        {
+          "hash": "b526730fc864a64f28afaacfc615afe591c0a74a",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T23:24:36.000Z",
+          "message": "stateful submit, needs queue handling instead",
+          "linesAdded": 14,
+          "linesDeleted": 3,
+          "filesChanged": [
+            "client.js",
+            "index.html",
+            "main.css"
+          ]
+        }
+      ]
+    },
+    "2026-06-20": {
+      "date": "2026-06-20",
+      "heatScore": 52,
+      "linesChanged": 637,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "cloud-functions/boot-gpu/chat-agent.py",
+        "cloud-functions/boot-gpu/index.html",
+        "cloud-functions/boot-gpu/train-lora.py",
+        "loras/spatial_engine/adapter_config.json",
+        "loras/spatial_engine/chat_template.jinja",
+        "loras/spatial_engine/dataset/sme-gemini-nouns.json"
+      ],
+      "commits": [
+        {
+          "hash": "2e1712618d00bd1c2fa98bbe2a8f154f1b3b69f2",
+          "author": "Brian Cullinan",
+          "date": "2026-06-20T19:06:46.000Z",
+          "message": "more training",
+          "linesAdded": 523,
+          "linesDeleted": 114,
+          "filesChanged": [
+            "README.md",
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/index.html",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "loras/spatial_engine/adapter_config.json",
+            "loras/spatial_engine/chat_template.jinja",
+            "loras/spatial_engine/dataset/sme-gemini-nouns.json"
+          ]
+        }
+      ]
+    },
+    "2026-06-18": {
+      "date": "2026-06-18",
+      "heatScore": 19,
+      "linesChanged": 136,
+      "commitCount": 1,
+      "filesEdited": [
+        "cloud-functions/boot-gpu/train-lora.py"
+      ],
+      "commits": [
+        {
+          "hash": "2606ef1f5c5b800e6c77d9bbb823c7ef23a43c18",
+          "author": "Brian Cullinan",
+          "date": "2026-06-18T21:55:04.000Z",
+          "message": "Implement grammar validation and tokenizer enhancements",
+          "linesAdded": 132,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/train-lora.py"
+          ]
+        }
+      ]
+    },
+    "2026-06-17": {
+      "date": "2026-06-17",
+      "heatScore": 40,
+      "linesChanged": 452,
+      "commitCount": 1,
+      "filesEdited": [
+        "chat_logs/parse-logs.ps1",
+        "chat_logs/parse-logs.py",
+        "cloud-functions/boot-gpu/chat-agent.py",
+        "cloud-functions/boot-gpu/index.html",
+        "cloud-functions/boot-gpu/train-lora.py",
+        "loras/hot_ex_girlfriend/adapter_config.json",
+        "loras/hot_ex_girlfriend/chat_template.jinja",
+        "loras/spatial_engine/dataset/chat_template.jinja"
+      ],
+      "commits": [
+        {
+          "hash": "8d4ca4a8ba9c74c710210c0eb9e39a25d42c17dd",
+          "author": "Brian Cullinan",
+          "date": "2026-06-17T22:51:01.000Z",
+          "message": "bug fixes for chat personality training",
+          "linesAdded": 235,
+          "linesDeleted": 217,
+          "filesChanged": [
+            "chat_logs/parse-logs.ps1",
+            "chat_logs/parse-logs.py",
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/index.html",
+            "cloud-functions/boot-gpu/train-lora.py",
+            "loras/hot_ex_girlfriend/adapter_config.json",
+            "loras/hot_ex_girlfriend/chat_template.jinja",
+            "loras/spatial_engine/dataset/chat_template.jinja"
+          ]
+        }
+      ]
+    },
+    "2026-06-16": {
+      "date": "2026-06-16",
+      "heatScore": 14,
+      "linesChanged": 72,
+      "commitCount": 1,
+      "filesEdited": [
+        "main.css",
+        "setup/index.html",
+        "setup/setup-client.js"
+      ],
+      "commits": [
+        {
+          "hash": "8ec437af63065be5d17785a5109d6fa42bb10a46",
+          "author": "Brian Cullinan",
+          "date": "2026-06-16T22:23:47.000Z",
+          "message": "page state convenience in setup",
+          "linesAdded": 70,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "main.css",
+            "setup/index.html",
+            "setup/setup-client.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-15": {
+      "date": "2026-06-15",
+      "heatScore": 100,
+      "linesChanged": 2487,
+      "commitCount": 1,
+      "filesEdited": [
+        "cloud-functions/boot-gpu/index.js",
+        "cloud-functions/boot-gpu/start-gpu.sh",
+        "cloud-functions/boot-gpu/worker-agent.py",
+        "cloud-functions/cluster-manager/index.js",
+        "cpu.svg",
+        "index-client.js",
+        "index.html",
+        "index.js",
+        "main.css",
+        "setup-client.js",
+        "setup/index.html",
+        "terms/index.html"
+      ],
+      "commits": [
+        {
+          "hash": "2800c5a6967c9d7dd553d389d549369d046cc8b2",
+          "author": "Brian Cullinan",
+          "date": "2026-06-15T22:36:47.000Z",
+          "message": "adding alternative services to illustrious",
+          "linesAdded": 1896,
+          "linesDeleted": 591,
+          "filesChanged": [
+            "cloud-functions/boot-gpu/index.js",
+            "cloud-functions/boot-gpu/start-gpu.sh",
+            "cloud-functions/boot-gpu/worker-agent.py",
+            "cloud-functions/cluster-manager/index.js",
+            "cpu.svg",
+            "index-client.js",
+            "index.html",
+            "index.js",
+            "main.css",
+            "setup-client.js",
+            "setup/index.html",
+            "terms/index.html"
+          ]
+        }
+      ]
+    }
+  }
+}

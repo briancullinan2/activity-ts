@@ -1,0 +1,978 @@
+{
+  "yearMonth": "2023-04",
+  "generatedAt": "2026-09-24T02:37:24.665Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-04-28": {
+          "date": "2023-04-28",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "bc3d442f766a09eea6b3d233ba63e304486ee87f",
+              "author": "Brian Cullinan",
+              "date": "2023-04-28T03:24:02.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 4,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-04-25": {
+          "date": "2023-04-25",
+          "heatScore": 12,
+          "linesChanged": 33,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "5d88b5f738a9fe811a094f5aaf4d8e3ce4fc4f5e",
+              "author": "Brian Cullinan",
+              "date": "2023-04-25T20:24:13.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 28,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-04-08": {
+          "date": "2023-04-08",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "2dae56e45bb3eb3f7a7659a06611bf8ef5bbed19",
+              "author": "Brian Cullinan",
+              "date": "2023-04-08T16:00:04.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-04-01": {
+          "date": "2023-04-01",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "15e52a5b1692b7916738af08f0c84a73acd65358",
+              "author": "Brian Cullinan",
+              "date": "2023-04-01T22:40:37.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 18,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-04-23": {
+          "date": "2023-04-23",
+          "heatScore": 22,
+          "linesChanged": 186,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json",
+            "package.json",
+            "src/services/psd-import-service.ts",
+            "src/utils/canvas-util.ts",
+            "src/utils/debounce-util.ts"
+          ],
+          "commits": [
+            {
+              "hash": "3c32a302cb242dc235e221c3108182b8f8e83c9f",
+              "author": "Igor Zinken",
+              "date": "2023-04-23T07:31:05.000Z",
+              "message": "Migrate to webtoon PSD for performance improvement while parsing PSD files",
+              "linesAdded": 108,
+              "linesDeleted": 78,
+              "filesChanged": [
+                "package-lock.json",
+                "package.json",
+                "src/services/psd-import-service.ts",
+                "src/utils/canvas-util.ts",
+                "src/utils/debounce-util.ts"
+              ]
+            }
+          ]
+        },
+        "2023-04-16": {
+          "date": "2023-04-16",
+          "heatScore": 20,
+          "linesChanged": 162,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/components/tool-options-panel/tool-options-scale/messages.json",
+            "src/components/tool-options-panel/tool-options-scale/tool-options-scale.vue",
+            "src/definitions/tool-types.ts",
+            "src/rendering/canvas-elements/layer-sprite.ts",
+            "src/utils/selection-util.ts",
+            "src/utils/shape-util.ts",
+            "tests/unit/utils/selection-util.spec.ts",
+            "tests/unit/utils/shape-util.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "b47ba5bcd0ab676a05d5556ead2770106b34722c",
+              "author": "Igor Zinken",
+              "date": "2023-04-16T08:58:09.000Z",
+              "message": "Allow drawing operations on scaled layers (#29)",
+              "linesAdded": 102,
+              "linesDeleted": 60,
+              "filesChanged": [
+                "README.md",
+                "src/components/tool-options-panel/tool-options-scale/messages.json",
+                "src/components/tool-options-panel/tool-options-scale/tool-options-scale.vue",
+                "src/definitions/tool-types.ts",
+                "src/rendering/canvas-elements/layer-sprite.ts",
+                "src/utils/selection-util.ts",
+                "src/utils/shape-util.ts",
+                "tests/unit/utils/selection-util.spec.ts",
+                "tests/unit/utils/shape-util.spec.ts"
+              ]
+            }
+          ]
+        },
+        "2023-04-13": {
+          "date": "2023-04-13",
+          "heatScore": 96,
+          "linesChanged": 1294,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json",
+            "package.json",
+            "src/components/cloud-file-selector/cloud-file-selector.vue",
+            "src/definitions/file-types.ts",
+            "src/mixins/image-to-document-manager.ts",
+            "src/services/pdf-import-service.ts",
+            "src/services/psd-import-service.ts",
+            "tests/unit/definitions/file-types.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "f16c7492e928bc2376139d556611f8d3a559c774",
+              "author": "Igor Zinken",
+              "date": "2023-04-13T17:50:49.000Z",
+              "message": "Implement support for importing PDF documents (#26)",
+              "linesAdded": 925,
+              "linesDeleted": 369,
+              "filesChanged": [
+                "package-lock.json",
+                "package.json",
+                "src/components/cloud-file-selector/cloud-file-selector.vue",
+                "src/definitions/file-types.ts",
+                "src/mixins/image-to-document-manager.ts",
+                "src/services/pdf-import-service.ts",
+                "src/services/psd-import-service.ts",
+                "tests/unit/definitions/file-types.spec.ts"
+              ]
+            }
+          ]
+        },
+        "2023-04-12": {
+          "date": "2023-04-12",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/bitmappery.vue"
+          ],
+          "commits": [
+            {
+              "hash": "f97d9d9ba7748b62601f542e5bff7dbda6b8d74f",
+              "author": "Igor Zinken",
+              "date": "2023-04-12T17:16:43.000Z",
+              "message": "Made dragged image URL loader two-step process",
+              "linesAdded": 9,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "README.md",
+                "src/bitmappery.vue"
+              ]
+            }
+          ]
+        },
+        "2023-04-11": {
+          "date": "2023-04-11",
+          "heatScore": 11,
+          "linesChanged": 26,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/bitmappery.vue",
+            "src/messages.json",
+            "src/utils/file-util.ts"
+          ],
+          "commits": [
+            {
+              "hash": "6033c73e39052a6975ef23c9727da832a2e27a01",
+              "author": "Igor Zinken",
+              "date": "2023-04-11T19:12:06.000Z",
+              "message": "Added support for opening images dragged between browser tabs",
+              "linesAdded": 21,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/bitmappery.vue",
+                "src/messages.json",
+                "src/utils/file-util.ts"
+              ]
+            }
+          ]
+        },
+        "2023-04-01": {
+          "date": "2023-04-01",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/tool-options-panel/tool-options-wand/tool-options-wand.vue"
+          ],
+          "commits": [
+            {
+              "hash": "05b5549f3414b9b573fcec93545af593042f1659",
+              "author": "Igor Zinken",
+              "date": "2023-04-01T10:03:48.000Z",
+              "message": "Fixed issue where typing in threshold input in magic wand toolbox would prevent certain keys",
+              "linesAdded": 17,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "src/components/tool-options-panel/tool-options-wand/tool-options-wand.vue"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-04-30": {
+          "date": "2023-04-30",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "b04e16ef5a7cd9cbf80d272a455bd34e869a6ec8",
+              "author": "comfyanonymous",
+              "date": "2023-04-30T22:19:03.000Z",
+              "message": "Make default workflow use an existing checkpoint if no SD1.5 checkpoint.",
+              "linesAdded": 9,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-04-29": {
+          "date": "2023-04-29",
+          "heatScore": 19,
+          "linesChanged": 142,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "870fae62e7a784fcc065382e31f173cc048da8fe",
+              "author": "comfyanonymous",
+              "date": "2023-04-29T19:05:18.000Z",
+              "message": "Merge branch 'condition_by_mask_node' of https://github.com/guill/ComfyUI",
+              "linesAdded": 126,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "comfy/samplers.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-28": {
+          "date": "2023-04-28",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "2ca934f7d4df3e4fa5a74172e5bbc1dd5e1a2ff9",
+              "author": "comfyanonymous",
+              "date": "2023-04-28T20:51:35.000Z",
+              "message": "You can now select the device index with: --directml id",
+              "linesAdded": 10,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-25": {
+          "date": "2023-04-25",
+          "heatScore": 17,
+          "linesChanged": 118,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "e214c917ae889b278a05fa6e8b8c42d2cc8818fa",
+              "author": "Jacob Segal",
+              "date": "2023-04-25T07:15:25.000Z",
+              "message": "Add Condition by Mask node",
+              "linesAdded": 102,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "comfy/samplers.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-27": {
+          "date": "2023-04-27",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/comfyui_colab.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e958dfdd4d34ad160c50a32e01b5ce08c4e62a29",
+              "author": "comfyanonymous",
+              "date": "2023-04-27T14:59:47.000Z",
+              "message": "Make notebook work on python3.7",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "notebooks/comfyui_colab.ipynb"
+              ]
+            }
+          ]
+        },
+        "2023-04-26": {
+          "date": "2023-04-26",
+          "heatScore": 13,
+          "linesChanged": 48,
+          "commitCount": 1,
+          "filesEdited": [
+            "execution.py"
+          ],
+          "commits": [
+            {
+              "hash": "3a1f9dba20c89038b71d6ff74d4e600d375283b3",
+              "author": "comfyanonymous",
+              "date": "2023-04-26T06:13:56.000Z",
+              "message": "If IS_CHANGED returns exception delete the output instead of crashing.",
+              "linesAdded": 26,
+              "linesDeleted": 22,
+              "filesChanged": [
+                "execution.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-24": {
+          "date": "2023-04-24",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "36acce58e71bbe1bf835c2ec380dc7ac0c5b4752",
+              "author": "comfyanonymous",
+              "date": "2023-04-24T22:13:18.000Z",
+              "message": "Auto increase the size of the image upload widget when there's an image.",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2023-04-23": {
+          "date": "2023-04-23",
+          "heatScore": 14,
+          "linesChanged": 61,
+          "commitCount": 1,
+          "filesEdited": [
+            "execution.py",
+            "folder_paths.py",
+            "nodes.py",
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "ccad603b2e6862a4a719bc34dc6bd32e65a539ad",
+              "author": "comfyanonymous",
+              "date": "2023-04-23T20:03:26.000Z",
+              "message": "Add a way for nodes to validate their own inputs.",
+              "linesAdded": 38,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "execution.py",
+                "folder_paths.py",
+                "nodes.py",
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-04-22": {
+          "date": "2023-04-22",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "ee030d281bbd25d385ba9ca10badb66b487cca21",
+              "author": "Jacob Segal",
+              "date": "2023-04-22T23:02:26.000Z",
+              "message": "Add support for multiple unique inpainting masks",
+              "linesAdded": 16,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-21": {
+          "date": "2023-04-21",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/editAttention.js"
+          ],
+          "commits": [
+            {
+              "hash": "98ae4bbfdee1ea9da62e3d22a3c6428032a78398",
+              "author": "missionfloyd",
+              "date": "2023-04-21T05:55:20.000Z",
+              "message": "Remove brackets if weight == 1",
+              "linesAdded": 7,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "web/extensions/core/editAttention.js"
+              ]
+            }
+          ]
+        },
+        "2023-04-20": {
+          "date": "2023-04-20",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "31e60adb2802874a5889623a83149faa32924a98",
+              "author": "comfyanonymous",
+              "date": "2023-04-20T21:30:10.000Z",
+              "message": "Add GLIGEN example to README.",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "README.md",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-19": {
+          "date": "2023-04-19",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "extra_model_paths.yaml.example"
+          ],
+          "commits": [
+            {
+              "hash": "2d546d510d1f7919bbae3ac08108e0d05e9c0bae",
+              "author": "comfyanonymous",
+              "date": "2023-04-19T15:47:49.000Z",
+              "message": "Add gligen entry to extra_model_paths example.",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "extra_model_paths.yaml.example"
+              ]
+            }
+          ]
+        },
+        "2023-04-18": {
+          "date": "2023-04-18",
+          "heatScore": 12,
+          "linesChanged": 30,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/windows_release_cu118_dependencies_2.yml"
+          ],
+          "commits": [
+            {
+              "hash": "472b1cc0d881c4009e5a89e0893c5835f3a4c47d",
+              "author": "comfyanonymous",
+              "date": "2023-04-18T23:34:07.000Z",
+              "message": "Add a github action to use pip xformers package for dependencies.",
+              "linesAdded": 30,
+              "linesDeleted": 0,
+              "filesChanged": [
+                ".github/workflows/windows_release_cu118_dependencies_2.yml"
+              ]
+            }
+          ]
+        },
+        "2023-04-17": {
+          "date": "2023-04-17",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/editAttention.js"
+          ],
+          "commits": [
+            {
+              "hash": "79ba0399d8d70bc655269fc3318455a70d14e180",
+              "author": "EllangoK",
+              "date": "2023-04-17T23:02:08.000Z",
+              "message": "selects current word automatically",
+              "linesAdded": 13,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "web/extensions/core/editAttention.js"
+              ]
+            }
+          ]
+        },
+        "2023-04-16": {
+          "date": "2023-04-16",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/keybinds.js"
+          ],
+          "commits": [
+            {
+              "hash": "22bde7957e18e8f9c4fb206227a6117dae391417",
+              "author": "Tomoaki Hayasaka",
+              "date": "2023-04-16T16:58:33.000Z",
+              "message": "Fix \"Ctrl+Enter doesn't work when textarea has focus\" regression introduced in #491.",
+              "linesAdded": 6,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "web/extensions/core/keybinds.js"
+              ]
+            }
+          ]
+        },
+        "2023-04-15": {
+          "date": "2023-04-15",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/noteNode.js"
+          ],
+          "commits": [
+            {
+              "hash": "fb61c75e392ae0a3813955d56fb5aceecacff2e4",
+              "author": "jwd-dev",
+              "date": "2023-04-15T23:58:46.000Z",
+              "message": "default text property incase we need one.",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/extensions/core/noteNode.js"
+              ]
+            }
+          ]
+        },
+        "2023-04-14": {
+          "date": "2023-04-14",
+          "heatScore": 12,
+          "linesChanged": 40,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd1_clip.py"
+          ],
+          "commits": [
+            {
+              "hash": "04d9bc13afd684a5bd4cb637e26972bb5aee43d1",
+              "author": "comfyanonymous",
+              "date": "2023-04-14T19:33:43.000Z",
+              "message": "Safely load pickled embeds that don't load with weights_only=True.",
+              "linesAdded": 34,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "comfy/sd1_clip.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-13": {
+          "date": "2023-04-13",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "d2337a86fe6fb97ed9d818635083fcf1dc2bafc0",
+              "author": "Gavroche CryptoRUSH",
+              "date": "2023-04-13T20:38:02.000Z",
+              "message": "remove extra semi-colon",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-12": {
+          "date": "2023-04-12",
+          "heatScore": 19,
+          "linesChanged": 142,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/lib/litegraph.core.js"
+          ],
+          "commits": [
+            {
+              "hash": "e3566679bd18af0da00004472eec1836639d036e",
+              "author": "comfyanonymous",
+              "date": "2023-04-12T21:40:52.000Z",
+              "message": "Update litegraph from upstream.",
+              "linesAdded": 93,
+              "linesDeleted": 49,
+              "filesChanged": [
+                "web/lib/litegraph.core.js"
+              ]
+            }
+          ]
+        },
+        "2023-04-11": {
+          "date": "2023-04-11",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "e12fb88b1b84e354872c0d761544558479bcfad2",
+              "author": "missionfloyd",
+              "date": "2023-04-11T22:49:39.000Z",
+              "message": "Image/mask conversion nodes",
+              "linesAdded": 41,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-10": {
+          "date": "2023-04-10",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/comfyui_colab.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "2e1798c17dca5e408621fbc3e4600fb939988d40",
+              "author": "comfyanonymous",
+              "date": "2023-04-10T07:42:32.000Z",
+              "message": "Add some unCLIP checkpoints to the colab.",
+              "linesAdded": 5,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "notebooks/comfyui_colab.ipynb"
+              ]
+            }
+          ]
+        },
+        "2023-04-09": {
+          "date": "2023-04-09",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/clip_vision.py"
+          ],
+          "commits": [
+            {
+              "hash": "92eca60ec94d21b271b14eb7c832add963b09173",
+              "author": "comfyanonymous",
+              "date": "2023-04-09T19:47:35.000Z",
+              "message": "Fix for new transformers version.",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/clip_vision.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-08": {
+          "date": "2023-04-08",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/comfyui_colab.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "90581684b49ce2da94c2b5939d442dcbbc6b2331",
+              "author": "comfyanonymous",
+              "date": "2023-04-08T23:25:34.000Z",
+              "message": "Update notebook.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "notebooks/comfyui_colab.ipynb"
+              ]
+            }
+          ]
+        },
+        "2023-04-07": {
+          "date": "2023-04-07",
+          "heatScore": 12,
+          "linesChanged": 34,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/colorPalette.js"
+          ],
+          "commits": [
+            {
+              "hash": "2d7ad41142a941f7d82e166869bb1e8372a559ac",
+              "author": "EllangoK",
+              "date": "2023-04-07T23:42:03.000Z",
+              "message": "colorPalette sets LiteGraph colors",
+              "linesAdded": 32,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "web/extensions/core/colorPalette.js"
+              ]
+            }
+          ]
+        },
+        "2023-04-06": {
+          "date": "2023-04-06",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "28fff5d1dbba8b4a546e31c69240133f35b2235f",
+              "author": "EllangoK",
+              "date": "2023-04-06T23:06:39.000Z",
+              "message": "fixes lack of support for multi configs also adds some metavars to argarse",
+              "linesAdded": 8,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-05": {
+          "date": "2023-04-05",
+          "heatScore": 31,
+          "linesChanged": 324,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_mask.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "022a9f271b677291c4a4988397695bd3a91666b5",
+              "author": "mligaintart",
+              "date": "2023-04-05T23:52:39.000Z",
+              "message": "Adds masking to Latent Composite, and provides new masking utilities to allow better compositing.",
+              "linesAdded": 291,
+              "linesDeleted": 33,
+              "filesChanged": [
+                "comfy_extras/nodes_mask.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-04": {
+          "date": "2023-04-04",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "bf7dbe4702ccfd02f92862238a8da3b6addc656b",
+              "author": "Adam Schwalm",
+              "date": "2023-04-04T01:05:46.000Z",
+              "message": "Add left/right/escape hotkeys for image nodes",
+              "linesAdded": 41,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-04-03": {
+          "date": "2023-04-03",
+          "heatScore": 12,
+          "linesChanged": 32,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/rerouteNode.js"
+          ],
+          "commits": [
+            {
+              "hash": "dc24d7e2fd2967de6d3bc45971bfcb0274724f8b",
+              "author": "mligaintart",
+              "date": "2023-04-03T20:46:00.000Z",
+              "message": "Adds orientation settings to reroute nodes, allowing for cleaner graphes.",
+              "linesAdded": 30,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "web/extensions/core/rerouteNode.js"
+              ]
+            }
+          ]
+        },
+        "2023-04-02": {
+          "date": "2023-04-02",
+          "heatScore": 24,
+          "linesChanged": 218,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_post_processing.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "4c7a9dbcb66d3a53764d4725f92f7c116bcb4821",
+              "author": "EllangoK",
+              "date": "2023-04-02T22:44:27.000Z",
+              "message": "adds Blend, Blur, Dither, Sharpen nodes",
+              "linesAdded": 217,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_post_processing.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-04-01": {
+          "date": "2023-04-01",
+          "heatScore": 14,
+          "linesChanged": 63,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "178fc763635fc6784a6c1cb00ee08012c7bd72fe",
+              "author": "pythongosssss",
+              "date": "2023-04-01T17:46:05.000Z",
+              "message": "Added a queue for the queue action",
+              "linesAdded": 44,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

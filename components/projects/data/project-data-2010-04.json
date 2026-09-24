@@ -1,0 +1,508 @@
+{
+  "yearMonth": "2010-04",
+  "generatedAt": "2026-09-24T02:37:24.845Z",
+  "username": "briancullinan2",
+  "projects": {
+    "mediaserver": {
+      "projectName": "mediaserver",
+      "localPath": "C:\\Users\\megam\\mediaserver",
+      "remoteUrl": "git@github.com:briancullinan2/mediaserver.git",
+      "lastUpdated": "2026-09-24T02:37:08.908Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2010-04-30": {
+          "date": "2010-04-30",
+          "heatScore": 100,
+          "linesChanged": 3300,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "handlers/db_amazon.php",
+            "handlers/db_archive.php",
+            "handlers/db_audio.php",
+            "handlers/db_code.php",
+            "handlers/db_diskimage.php",
+            "handlers/db_file.php",
+            "handlers/db_image.php",
+            "handlers/db_image_browser.php",
+            "handlers/db_movies.php",
+            "handlers/db_users.php",
+            "handlers/db_video.php",
+            "handlers/db_watch.php",
+            "handlers/db_watch_list.php",
+            "handlers/fs_audio.php",
+            "handlers/fs_diskimage.php",
+            "handlers/fs_file.php",
+            "handlers/fs_image.php",
+            "handlers/fs_video.php",
+            "include/common.php",
+            "include/database.php",
+            "index.php",
+            "modules/admin.php",
+            "modules/admin/handlers.php",
+            "modules/admin/install.php",
+            "modules/admin/modules.php",
+            "modules/admin/template.php",
+            "modules/admin/upgrade.php",
+            "modules/admin/watch.php",
+            "modules/ampache.php",
+            "modules/archive.php",
+            "modules/bt.php",
+            "modules/convert.php",
+            "modules/core.php",
+            "modules/cron.php",
+            "modules/encode.php",
+            "modules/file.php",
+            "modules/search.php",
+            "modules/settings.php",
+            "modules/template.php",
+            "modules/users.php",
+            "templates/live/admin.php",
+            "templates/live/config.php",
+            "templates/live/header.php",
+            "templates/live/images/filetypes/archive_16x16.png",
+            "templates/live/images/filetypes/audio_16x16.png",
+            "templates/live/images/filetypes/file_16x16.png",
+            "templates/live/images/filetypes/folder_16x16.png",
+            "templates/live/images/filetypes/image_16x16.png",
+            "templates/live/images/filetypes/iso_16x16.png",
+            "templates/live/images/filetypes/text_16x16.png",
+            "templates/live/images/filetypes/video_16x16.png",
+            "templates/live/index.php",
+            "templates/live/install.php",
+            "templates/live/jquery.js",
+            "templates/live/live.css",
+            "templates/live/modules.php",
+            "templates/live/select.php",
+            "templates/live/types.css",
+            "templates/plain/config.php",
+            "templates/plain/tools.php"
+          ],
+          "commits": [
+            {
+              "hash": "3c9f817439ef3aaa689f332a1293ed542b486745",
+              "author": "bjcullinan",
+              "date": "2010-04-30T08:27:47.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@301 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 2028,
+              "linesDeleted": 1272,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "handlers/db_amazon.php",
+                "handlers/db_archive.php",
+                "handlers/db_audio.php",
+                "handlers/db_code.php",
+                "handlers/db_diskimage.php",
+                "handlers/db_file.php",
+                "handlers/db_image.php",
+                "handlers/db_image_browser.php",
+                "handlers/db_movies.php",
+                "handlers/db_users.php",
+                "handlers/db_video.php",
+                "handlers/db_watch.php",
+                "handlers/db_watch_list.php",
+                "handlers/fs_audio.php",
+                "handlers/fs_diskimage.php",
+                "handlers/fs_file.php",
+                "handlers/fs_image.php",
+                "handlers/fs_video.php",
+                "include/common.php",
+                "include/database.php",
+                "index.php",
+                "modules/admin.php",
+                "modules/admin/handlers.php",
+                "modules/admin/install.php",
+                "modules/admin/modules.php",
+                "modules/admin/template.php",
+                "modules/admin/upgrade.php",
+                "modules/admin/watch.php",
+                "modules/ampache.php",
+                "modules/archive.php",
+                "modules/bt.php",
+                "modules/convert.php",
+                "modules/core.php",
+                "modules/cron.php",
+                "modules/encode.php",
+                "modules/file.php",
+                "modules/search.php",
+                "modules/settings.php",
+                "modules/template.php",
+                "modules/users.php",
+                "templates/live/admin.php",
+                "templates/live/config.php",
+                "templates/live/header.php",
+                "templates/live/images/filetypes/archive_16x16.png",
+                "templates/live/images/filetypes/audio_16x16.png",
+                "templates/live/images/filetypes/file_16x16.png",
+                "templates/live/images/filetypes/folder_16x16.png",
+                "templates/live/images/filetypes/image_16x16.png",
+                "templates/live/images/filetypes/iso_16x16.png",
+                "templates/live/images/filetypes/text_16x16.png",
+                "templates/live/images/filetypes/video_16x16.png",
+                "templates/live/index.php",
+                "templates/live/install.php",
+                "templates/live/jquery.js",
+                "templates/live/live.css",
+                "templates/live/modules.php",
+                "templates/live/select.php",
+                "templates/live/types.css",
+                "templates/plain/config.php",
+                "templates/plain/tools.php"
+              ]
+            }
+          ]
+        },
+        "2010-04-29": {
+          "date": "2010-04-29",
+          "heatScore": 100,
+          "linesChanged": 1461,
+          "commitCount": 1,
+          "filesEdited": [
+            "include/common.php",
+            "include/database.php",
+            "modules/admin/install.php",
+            "modules/convert.php",
+            "modules/core.php",
+            "modules/cron.php",
+            "modules/encode.php",
+            "modules/settings.php",
+            "templates/live/config.php",
+            "templates/live/install.php",
+            "templates/live/modules.php",
+            "templates/live/pages.php",
+            "templates/live/select.php"
+          ],
+          "commits": [
+            {
+              "hash": "7c62ba662c70c6cfb086b7aa9010386a92c6410d",
+              "author": "bjcullinan",
+              "date": "2010-04-29T00:18:26.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@300 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 796,
+              "linesDeleted": 665,
+              "filesChanged": [
+                "include/common.php",
+                "include/database.php",
+                "modules/admin/install.php",
+                "modules/convert.php",
+                "modules/core.php",
+                "modules/cron.php",
+                "modules/encode.php",
+                "modules/settings.php",
+                "templates/live/config.php",
+                "templates/live/install.php",
+                "templates/live/modules.php",
+                "templates/live/pages.php",
+                "templates/live/select.php"
+              ]
+            }
+          ]
+        },
+        "2010-04-28": {
+          "date": "2010-04-28",
+          "heatScore": 49,
+          "linesChanged": 587,
+          "commitCount": 1,
+          "filesEdited": [
+            "TODO.TXT",
+            "include/common.php",
+            "modules/admin/install.php",
+            "modules/admin/modules.php",
+            "modules/convert.php",
+            "modules/encode.php",
+            "modules/settings.php",
+            "modules/template.php",
+            "templates/live/config.php",
+            "templates/live/header.php",
+            "templates/live/install.php",
+            "templates/live/modules.php",
+            "templates/live/settings.php",
+            "templates/live/tools.php",
+            "templates/plain/xml.php"
+          ],
+          "commits": [
+            {
+              "hash": "22679c6e5b5cd44c655211adf96fd1bc7fb9d607",
+              "author": "bjcullinan",
+              "date": "2010-04-28T06:52:10.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@299 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 325,
+              "linesDeleted": 262,
+              "filesChanged": [
+                "TODO.TXT",
+                "include/common.php",
+                "modules/admin/install.php",
+                "modules/admin/modules.php",
+                "modules/convert.php",
+                "modules/encode.php",
+                "modules/settings.php",
+                "modules/template.php",
+                "templates/live/config.php",
+                "templates/live/header.php",
+                "templates/live/install.php",
+                "templates/live/modules.php",
+                "templates/live/settings.php",
+                "templates/live/tools.php",
+                "templates/plain/xml.php"
+              ]
+            }
+          ]
+        },
+        "2010-04-27": {
+          "date": "2010-04-27",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "modules/admin/plugins.php"
+          ],
+          "commits": [
+            {
+              "hash": "f8d6422c84ba83d02b25d50a215411d76b70cd31",
+              "author": "bjcullinan",
+              "date": "2010-04-27T17:58:20.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@297 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 0,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "modules/admin/plugins.php"
+              ]
+            }
+          ]
+        },
+        "2010-04-22": {
+          "date": "2010-04-22",
+          "heatScore": 13,
+          "linesChanged": 50,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "admin/install.php",
+            "include/common.php",
+            "templates/live/install.php"
+          ],
+          "commits": [
+            {
+              "hash": "6b3cd8fbe1e5695a203ce9df11ecede49691cb82",
+              "author": "bjcullinan",
+              "date": "2010-04-22T18:52:45.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@291 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 6,
+              "linesDeleted": 44,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "admin/install.php",
+                "include/common.php",
+                "templates/live/install.php"
+              ]
+            }
+          ]
+        },
+        "2010-04-17": {
+          "date": "2010-04-17",
+          "heatScore": 60,
+          "linesChanged": 763,
+          "commitCount": 1,
+          "filesEdited": [
+            ".htaccess",
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "admin/install.php",
+            "include/database.php",
+            "index.php",
+            "modules/db_file.php",
+            "plugins/bt.php",
+            "plugins/core.php",
+            "plugins/file.php",
+            "plugins/search.php",
+            "plugins/template.php",
+            "templates/extjs/select.xml",
+            "templates/live/admin.php",
+            "templates/live/encode.php",
+            "templates/live/footer.php",
+            "templates/live/header.php",
+            "templates/live/index.php",
+            "templates/live/install.php",
+            "templates/live/list.php",
+            "templates/live/search.php",
+            "templates/live/select.php",
+            "templates/live/settings.php",
+            "templates/live/tools.php",
+            "templates/plain/ampache.php",
+            "templates/plain/index.php",
+            "templates/plain/m3u.php",
+            "templates/plain/rss.php",
+            "templates/plain/tools.php",
+            "templates/plain/users.php",
+            "templates/plain/wpl.php",
+            "templates/plain/xml.php",
+            "templates/wmp/select.php"
+          ],
+          "commits": [
+            {
+              "hash": "5bb32c45b563e20a1630cf8a0f5c8d30cdb092fd",
+              "author": "bjcullinan",
+              "date": "2010-04-17T10:05:39.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@289 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 319,
+              "linesDeleted": 444,
+              "filesChanged": [
+                ".htaccess",
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "admin/install.php",
+                "include/database.php",
+                "index.php",
+                "modules/db_file.php",
+                "plugins/bt.php",
+                "plugins/core.php",
+                "plugins/file.php",
+                "plugins/search.php",
+                "plugins/template.php",
+                "templates/extjs/select.xml",
+                "templates/live/admin.php",
+                "templates/live/encode.php",
+                "templates/live/footer.php",
+                "templates/live/header.php",
+                "templates/live/index.php",
+                "templates/live/install.php",
+                "templates/live/list.php",
+                "templates/live/search.php",
+                "templates/live/select.php",
+                "templates/live/settings.php",
+                "templates/live/tools.php",
+                "templates/plain/ampache.php",
+                "templates/plain/index.php",
+                "templates/plain/m3u.php",
+                "templates/plain/rss.php",
+                "templates/plain/tools.php",
+                "templates/plain/users.php",
+                "templates/plain/wpl.php",
+                "templates/plain/xml.php",
+                "templates/wmp/select.php"
+              ]
+            }
+          ]
+        },
+        "2010-04-12": {
+          "date": "2010-04-12",
+          "heatScore": 84,
+          "linesChanged": 1111,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "admin/alias.php",
+            "include/common.php",
+            "modules/db_file.php",
+            "plugins/core.php",
+            "plugins/encode.php",
+            "plugins/file.php",
+            "plugins/search.php",
+            "plugins/select.php",
+            "templates/live/header.php",
+            "templates/live/live.css",
+            "templates/live/select.php"
+          ],
+          "commits": [
+            {
+              "hash": "99a449a9004532bf432b011bc89726ad2f40d3a4",
+              "author": "bjcullinan",
+              "date": "2010-04-12T07:59:08.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@288 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 739,
+              "linesDeleted": 372,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "admin/alias.php",
+                "include/common.php",
+                "modules/db_file.php",
+                "plugins/core.php",
+                "plugins/encode.php",
+                "plugins/file.php",
+                "plugins/search.php",
+                "plugins/select.php",
+                "templates/live/header.php",
+                "templates/live/live.css",
+                "templates/live/select.php"
+              ]
+            }
+          ]
+        },
+        "2010-04-08": {
+          "date": "2010-04-08",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT"
+          ],
+          "commits": [
+            {
+              "hash": "97c00d7c74727c7e1220b7e506b5df7c41ee02f0",
+              "author": "bjcullinan",
+              "date": "2010-04-08T01:03:58.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@287 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "CHANGELOG.TXT"
+              ]
+            }
+          ]
+        },
+        "2010-04-07": {
+          "date": "2010-04-07",
+          "heatScore": 54,
+          "linesChanged": 671,
+          "commitCount": 1,
+          "filesEdited": [
+            "include/sample.settings.nix.php",
+            "include/sample.settings.win.php",
+            "include/settings.php"
+          ],
+          "commits": [
+            {
+              "hash": "34a4623bd3f702395468a0e8f6cac8b38301a292",
+              "author": "bjcullinan",
+              "date": "2010-04-07T21:20:48.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@286 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 270,
+              "linesDeleted": 401,
+              "filesChanged": [
+                "include/sample.settings.nix.php",
+                "include/sample.settings.win.php",
+                "include/settings.php"
+              ]
+            }
+          ]
+        },
+        "2010-04-05": {
+          "date": "2010-04-05",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "templates/plain/template.html"
+          ],
+          "commits": [
+            {
+              "hash": "9dc677f577f1369dc9d3ca2d66100e2293a38f78",
+              "author": "bjcullinan",
+              "date": "2010-04-05T08:56:05.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@284 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 0,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "templates/plain/template.html"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3910 @@
+{
+  "projectName": "baseq3a",
+  "localPath": "C:\\Users\\megam\\baseq3a",
+  "lastUpdated": "2026-09-24T03:03:54.039Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2026-07-23": {
+      "date": "2026-07-23",
+      "heatScore": 26,
+      "linesChanged": 249,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_cvar.h",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_syscalls.c"
+      ],
+      "commits": [
+        {
+          "hash": "a6fd05f88cce1ec1f272c0189c9af10cb8b7ff85",
+          "author": "Eugene",
+          "date": "2026-07-23T08:52:31.000Z",
+          "message": "Merge pull request #83 from WofWca/add-cvar-description",
+          "linesAdded": 136,
+          "linesDeleted": 113,
+          "filesChanged": [
+            "code/cgame/cg_cvar.h",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_syscalls.c"
+          ]
+        }
+      ]
+    },
+    "2026-07-22": {
+      "date": "2026-07-22",
+      "heatScore": 26,
+      "linesChanged": 249,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_cvar.h",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_syscalls.c"
+      ],
+      "commits": [
+        {
+          "hash": "a6a90c7fa7d933a7ec7b098607baaa890bee0005",
+          "author": "WofWca",
+          "date": "2026-07-22T15:32:16.000Z",
+          "message": "feat: add a way to add CVAR descriptions in cgame",
+          "linesAdded": 136,
+          "linesDeleted": 113,
+          "filesChanged": [
+            "code/cgame/cg_cvar.h",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_syscalls.c"
+          ]
+        }
+      ]
+    },
+    "2026-07-16": {
+      "date": "2026-07-16",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/q3_ui/ui_cdkey.c"
+      ],
+      "commits": [
+        {
+          "hash": "a6fc0cc2383425c592f8daaba07cd771d84f0bb6",
+          "author": "WofWca",
+          "date": "2026-07-16T08:18:36.000Z",
+          "message": "fix: make CD key UI prevalidation accept uppercase",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/q3_ui/ui_cdkey.c"
+          ]
+        }
+      ]
+    },
+    "2026-07-09": {
+      "date": "2026-07-09",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_syscalls.asm"
+      ],
+      "commits": [
+        {
+          "hash": "66c11093777ddf4142fd4edecbb021ffadb9d01d",
+          "author": "Eugene",
+          "date": "2026-07-09T06:48:07.000Z",
+          "message": "Merge pull request #80 from zturtleman/patch-1",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/game/g_syscalls.asm"
+          ]
+        }
+      ]
+    },
+    "2026-07-08": {
+      "date": "2026-07-08",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_syscalls.asm"
+      ],
+      "commits": [
+        {
+          "hash": "8e566ab26f80f8a8d22410b9a68da67fc6581875",
+          "author": "Zack Middleton",
+          "date": "2026-07-08T22:09:18.000Z",
+          "message": "Fix trap_BotFreeItemWeights() for qagame.qvm",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/game/g_syscalls.asm"
+          ]
+        }
+      ]
+    },
+    "2026-06-12": {
+      "date": "2026-06-12",
+      "heatScore": 51,
+      "linesChanged": 617,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/ui/cdkey.menu",
+        "assets/ui/connect.menu",
+        "assets/ui/controls.menu",
+        "assets/ui/createserver.menu",
+        "assets/ui/credit.menu",
+        "assets/ui/demo.menu",
+        "assets/ui/error.menu",
+        "assets/ui/ingame.menu",
+        "assets/ui/ingame_addbot.menu",
+        "assets/ui/ingame_callvote.menu",
+        "assets/ui/ingame_main.menu",
+        "assets/ui/ingame_options.menu",
+        "assets/ui/ingame_removebot.menu",
+        "assets/ui/intro.menu",
+        "assets/ui/joinserver.menu",
+        "assets/ui/main.menu",
+        "assets/ui/menus.txt",
+        "assets/ui/mod.menu",
+        "assets/ui/options.menu",
+        "assets/ui/password.menu",
+        "assets/ui/player.menu",
+        "assets/ui/quit.menu",
+        "assets/ui/serverinfo.menu",
+        "assets/ui/setup.menu",
+        "assets/ui/singleplayer.menu",
+        "assets/ui/sppostgame.menu",
+        "assets/ui/spskill.menu",
+        "assets/ui/system.menu"
+      ],
+      "commits": [
+        {
+          "hash": "ba7c0449034842a30eb6f714190cd263cf1be18c",
+          "author": "Brian Cullinan",
+          "date": "2026-06-12T23:10:49.000Z",
+          "message": "soon to convert quake 3 classic menu system to .menu team arena style",
+          "linesAdded": 617,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "assets/ui/cdkey.menu",
+            "assets/ui/connect.menu",
+            "assets/ui/controls.menu",
+            "assets/ui/createserver.menu",
+            "assets/ui/credit.menu",
+            "assets/ui/demo.menu",
+            "assets/ui/error.menu",
+            "assets/ui/ingame.menu",
+            "assets/ui/ingame_addbot.menu",
+            "assets/ui/ingame_callvote.menu",
+            "assets/ui/ingame_main.menu",
+            "assets/ui/ingame_options.menu",
+            "assets/ui/ingame_removebot.menu",
+            "assets/ui/intro.menu",
+            "assets/ui/joinserver.menu",
+            "assets/ui/main.menu",
+            "assets/ui/menus.txt",
+            "assets/ui/mod.menu",
+            "assets/ui/options.menu",
+            "assets/ui/password.menu",
+            "assets/ui/player.menu",
+            "assets/ui/quit.menu",
+            "assets/ui/serverinfo.menu",
+            "assets/ui/setup.menu",
+            "assets/ui/singleplayer.menu",
+            "assets/ui/sppostgame.menu",
+            "assets/ui/spskill.menu",
+            "assets/ui/system.menu"
+          ]
+        }
+      ]
+    },
+    "2026-06-03": {
+      "date": "2026-06-03",
+      "heatScore": 14,
+      "linesChanged": 67,
+      "commitCount": 1,
+      "filesEdited": [
+        "build/win32-msvc/game.vcproj",
+        "code/cgame/cg_effects.c",
+        "code/cgame/cg_event.c",
+        "code/cgame/cg_local.h"
+      ],
+      "commits": [
+        {
+          "hash": "e24c8418b54948b3c6e05ac6987aab29033fd179",
+          "author": "Eugene",
+          "date": "2026-06-03T16:47:32.000Z",
+          "message": "Adjusted teleport model for a first-person view Fixed MSVC game project file",
+          "linesAdded": 37,
+          "linesDeleted": 30,
+          "filesChanged": [
+            "build/win32-msvc/game.vcproj",
+            "code/cgame/cg_effects.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h"
+          ]
+        }
+      ]
+    },
+    "2026-06-02": {
+      "date": "2026-06-02",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/q3_ui/ui_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "c93223b0b613953c7a930b0182b1519e7df47e5f",
+          "author": "Brian Cullinan",
+          "date": "2026-06-02T21:59:25.000Z",
+          "message": "Reset message from debugging",
+          "linesAdded": 0,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/q3_ui/ui_main.c"
+          ]
+        }
+      ]
+    },
+    "2026-05-30": {
+      "date": "2026-05-30",
+      "heatScore": 22,
+      "linesChanged": 188,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_predict.c",
+        "code/cgame/cg_servercmds.c",
+        "code/game/ai_cmd.c",
+        "code/game/ai_main.c",
+        "code/game/g_active.c",
+        "code/game/g_bot.c",
+        "code/game/g_client.c",
+        "code/game/g_combat.c",
+        "code/game/g_local.h",
+        "code/game/g_main.c",
+        "code/game/g_team.c",
+        "code/game/g_utils.c",
+        "code/game/g_weapon.c",
+        "code/q3_ui/ui_menu.c"
+      ],
+      "commits": [
+        {
+          "hash": "5a4ab3a76091ae134073c557989ad97816bc60f6",
+          "author": "Eugene",
+          "date": "2026-05-30T15:45:51.000Z",
+          "message": "various fixes: * misc: avoid redundant strlen() calls * client: disabled client-side prediction during intermisson * game: fixed commmand time during intermission * game: set correct killer entity for GibEntity() * game: use simplified G_EntitiesInBox() for telefrag tests * game: adjust spawn spots for better client-side prediction and avoid bouncing",
+          "linesAdded": 131,
+          "linesDeleted": 57,
+          "filesChanged": [
+            "code/cgame/cg_predict.c",
+            "code/cgame/cg_servercmds.c",
+            "code/game/ai_cmd.c",
+            "code/game/ai_main.c",
+            "code/game/g_active.c",
+            "code/game/g_bot.c",
+            "code/game/g_client.c",
+            "code/game/g_combat.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_team.c",
+            "code/game/g_utils.c",
+            "code/game/g_weapon.c",
+            "code/q3_ui/ui_menu.c"
+          ]
+        }
+      ]
+    },
+    "2026-05-29": {
+      "date": "2026-05-29",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/q3_ui/ui_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "3bbc651473bb981c059e1f7dbb6f779bd3d8c40c",
+          "author": "Brian Cullinan",
+          "date": "2026-05-29T20:51:35.000Z",
+          "message": "still bugging out",
+          "linesAdded": 2,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/q3_ui/ui_main.c"
+          ]
+        }
+      ]
+    },
+    "2026-05-22": {
+      "date": "2026-05-22",
+      "heatScore": 13,
+      "linesChanged": 59,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_local.h",
+        "code/game/g_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "33274115bb319568aaebf7e2d60ee01d48d70687",
+          "author": "WofWca",
+          "date": "2026-05-22T17:11:31.000Z",
+          "message": "fix: win condition on frag + suicide",
+          "linesAdded": 59,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/game/g_local.h",
+            "code/game/g_main.c"
+          ]
+        }
+      ]
+    },
+    "2026-05-28": {
+      "date": "2026-05-28",
+      "heatScore": 10,
+      "linesChanged": 5,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/bg_lib.c"
+      ],
+      "commits": [
+        {
+          "hash": "fdc2f2ac39182760d15ecaa6dd362e374e085fd5",
+          "author": "Brian Cullinan",
+          "date": "2026-05-28T03:40:33.000Z",
+          "message": "Remove unused atan2 function definition",
+          "linesAdded": 5,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/game/bg_lib.c"
+          ]
+        }
+      ]
+    },
+    "2026-05-27": {
+      "date": "2026-05-27",
+      "heatScore": 10,
+      "linesChanged": 14,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/q_shared.h"
+      ],
+      "commits": [
+        {
+          "hash": "fde608f292993752f7c7f3f87c2c426cff12d379",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T20:51:08.000Z",
+          "message": "Add Web Assembly defines for compatibility",
+          "linesAdded": 14,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/game/q_shared.h"
+          ]
+        }
+      ]
+    },
+    "2026-05-06": {
+      "date": "2026-05-06",
+      "heatScore": 16,
+      "linesChanged": 90,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/gfx/2d/bigchars.cfg",
+        "code/game/g_items.c",
+        "code/game/g_local.h",
+        "code/game/g_main.c",
+        "code/game/g_misc.c"
+      ],
+      "commits": [
+        {
+          "hash": "9503efac7819058832c75cab12d3cb52c7875026",
+          "author": "Eugene",
+          "date": "2026-05-06T15:16:08.000Z",
+          "message": "fix: properly check for item disable status against segfault fix: don't spawn powerups immediately without warmup misc: correct font spacing",
+          "linesAdded": 61,
+          "linesDeleted": 29,
+          "filesChanged": [
+            "assets/gfx/2d/bigchars.cfg",
+            "code/game/g_items.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_misc.c"
+          ]
+        }
+      ]
+    },
+    "2026-05-05": {
+      "date": "2026-05-05",
+      "heatScore": 11,
+      "linesChanged": 16,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/menu/art/{fx_base.tga => fx_base1.tga}",
+        "code/cgame/cg_draw.c",
+        "code/ui/ui_shared.h"
+      ],
+      "commits": [
+        {
+          "hash": "da794b57fa42c5e12451666da1f54cbf838d6991",
+          "author": "Eugene",
+          "date": "2026-05-05T18:40:27.000Z",
+          "message": "fix fx_base.tga override for other mods fix lagometer for 4k resolutions",
+          "linesAdded": 9,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "assets/menu/art/{fx_base.tga => fx_base1.tga}",
+            "code/cgame/cg_draw.c",
+            "code/ui/ui_shared.h"
+          ]
+        }
+      ]
+    },
+    "2026-03-04": {
+      "date": "2026-03-04",
+      "heatScore": 10,
+      "linesChanged": 10,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_combat.c",
+        "code/game/g_local.h",
+        "code/game/g_missile.c"
+      ],
+      "commits": [
+        {
+          "hash": "4cb93e3ff3060bbb49e65bec7116c84bd7ee8b6f",
+          "author": "Eugene",
+          "date": "2026-03-04T10:24:22.000Z",
+          "message": "Merge pull request #66 from WofWca/fix-look-at-missile-on-suicide",
+          "linesAdded": 5,
+          "linesDeleted": 5,
+          "filesChanged": [
+            "code/game/g_combat.c",
+            "code/game/g_local.h",
+            "code/game/g_missile.c"
+          ]
+        }
+      ]
+    },
+    "2026-03-03": {
+      "date": "2026-03-03",
+      "heatScore": 10,
+      "linesChanged": 12,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_client.c"
+      ],
+      "commits": [
+        {
+          "hash": "33a384aef6eacacc13b9f9051681698a516b9db8",
+          "author": "WofWca",
+          "date": "2026-03-03T18:34:42.000Z",
+          "message": "fix: invisible but shootable gibbed corpses",
+          "linesAdded": 6,
+          "linesDeleted": 6,
+          "filesChanged": [
+            "code/game/g_client.c"
+          ]
+        }
+      ]
+    },
+    "2026-02-06": {
+      "date": "2026-02-06",
+      "heatScore": 12,
+      "linesChanged": 37,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/game/g_bot.c"
+      ],
+      "commits": [
+        {
+          "hash": "988452227774dcd2407b2617daeb0aa7e6bc66a5",
+          "author": "WofWca",
+          "date": "2026-02-06T17:10:45.000Z",
+          "message": "feat: `addbot` command: add `handicap` param",
+          "linesAdded": 26,
+          "linesDeleted": 11,
+          "filesChanged": [
+            "README.md",
+            "code/game/g_bot.c"
+          ]
+        }
+      ]
+    },
+    "2026-01-26": {
+      "date": "2026-01-26",
+      "heatScore": 10,
+      "linesChanged": 10,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_combat.c",
+        "code/game/g_local.h",
+        "code/game/g_missile.c"
+      ],
+      "commits": [
+        {
+          "hash": "74a272022eb9c0d4638ebc2e0bbe21c9cec1c103",
+          "author": "WofWca",
+          "date": "2026-01-26T09:18:34.000Z",
+          "message": "fix: look at explosion on suicide, fix FF for mine",
+          "linesAdded": 5,
+          "linesDeleted": 5,
+          "filesChanged": [
+            "code/game/g_combat.c",
+            "code/game/g_local.h",
+            "code/game/g_missile.c"
+          ]
+        }
+      ]
+    },
+    "2017-06-16": {
+      "date": "2017-06-16",
+      "heatScore": 11,
+      "linesChanged": 26,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/q3_ui/ui_ingame.c"
+      ],
+      "commits": [
+        {
+          "hash": "2f9de958e682a69a0e1f33251034c0b3034cc3a2",
+          "author": "ToKu",
+          "date": "2017-06-16T19:36:14.000Z",
+          "message": "feat: add \"Change Map\" menu item",
+          "linesAdded": 25,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/q3_ui/ui_ingame.c"
+          ]
+        }
+      ]
+    },
+    "2025-11-08": {
+      "date": "2025-11-08",
+      "heatScore": 11,
+      "linesChanged": 24,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/game/g_combat.c"
+      ],
+      "commits": [
+        {
+          "hash": "03681927fc754908f8d2d0bf86b6d9dcb642a70e",
+          "author": "Eugene",
+          "date": "2025-11-08T12:55:04.000Z",
+          "message": "Merge pull request #50 from WofWca/baseq3e-fix-gibbing-after-match-end",
+          "linesAdded": 24,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md",
+            "code/game/g_combat.c"
+          ]
+        }
+      ]
+    },
+    "2025-11-06": {
+      "date": "2025-11-06",
+      "heatScore": 12,
+      "linesChanged": 42,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/game/g_combat.c",
+        "code/game/g_cvar.h"
+      ],
+      "commits": [
+        {
+          "hash": "0efcf57b4d3c5b6b794cced74864b079e15e7abe",
+          "author": "WofWca",
+          "date": "2025-11-06T20:10:45.000Z",
+          "message": "improvement: remove `g_shotgunGibFix` CVAR",
+          "linesAdded": 20,
+          "linesDeleted": 22,
+          "filesChanged": [
+            "README.md",
+            "code/game/g_combat.c",
+            "code/game/g_cvar.h"
+          ]
+        }
+      ]
+    },
+    "2025-10-28": {
+      "date": "2025-10-28",
+      "heatScore": 11,
+      "linesChanged": 22,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/game/g_combat.c",
+        "code/game/g_cvar.h"
+      ],
+      "commits": [
+        {
+          "hash": "6f50321ef5cd40a32b0faa1e8d6b671039ba3089",
+          "author": "WofWca",
+          "date": "2025-10-28T17:36:43.000Z",
+          "message": "fix: allow gibbing after `intermissionQueued` CVAR",
+          "linesAdded": 22,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md",
+            "code/game/g_combat.c",
+            "code/game/g_cvar.h"
+          ]
+        }
+      ]
+    },
+    "2025-09-13": {
+      "date": "2025-09-13",
+      "heatScore": 11,
+      "linesChanged": 23,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/game/g_combat.c",
+        "code/game/g_cvar.h"
+      ],
+      "commits": [
+        {
+          "hash": "ad81db1b27e669c7c59aca8b1c22e6c552d1a2ac",
+          "author": "WofWca",
+          "date": "2025-09-13T14:56:45.000Z",
+          "message": "fix: shotgun not gibbing unless aiming at feet",
+          "linesAdded": 22,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "README.md",
+            "code/game/g_combat.c",
+            "code/game/g_cvar.h"
+          ]
+        }
+      ]
+    },
+    "2025-06-04": {
+      "date": "2025-06-04",
+      "heatScore": 17,
+      "linesChanged": 117,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/game/bg_mods.h",
+        "code/game/bg_public.h",
+        "code/game/g_combat.c"
+      ],
+      "commits": [
+        {
+          "hash": "dcd8925d9b6e8731f20d00cca98f4113e3ff6f1e",
+          "author": "Eugene",
+          "date": "2025-06-04T20:34:08.000Z",
+          "message": "Merge pull request #48 from LegendaryGuard/bg_mods",
+          "linesAdded": 54,
+          "linesDeleted": 63,
+          "filesChanged": [
+            "README.md",
+            "code/game/bg_mods.h",
+            "code/game/bg_public.h",
+            "code/game/g_combat.c"
+          ]
+        }
+      ]
+    },
+    "2025-05-24": {
+      "date": "2025-05-24",
+      "heatScore": 17,
+      "linesChanged": 117,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/game/bg_mods.h",
+        "code/game/bg_public.h",
+        "code/game/g_combat.c"
+      ],
+      "commits": [
+        {
+          "hash": "3bdf60961c629a0a14aef0ad74690c0966e015ee",
+          "author": "LegendaryGuard",
+          "date": "2025-05-24T15:37:22.000Z",
+          "message": "Simplify mean of death (MOD_*) declaration to a single line of each",
+          "linesAdded": 54,
+          "linesDeleted": 63,
+          "filesChanged": [
+            "README.md",
+            "code/game/bg_mods.h",
+            "code/game/bg_public.h",
+            "code/game/g_combat.c"
+          ]
+        }
+      ]
+    },
+    "2025-05-23": {
+      "date": "2025-05-23",
+      "heatScore": 18,
+      "linesChanged": 121,
+      "commitCount": 1,
+      "filesEdited": [
+        ".gitattributes",
+        ".github/workflows/build.yml",
+        ".gitignore"
+      ],
+      "commits": [
+        {
+          "hash": "16f24ec51d810e858e6428e6c2752a0028138871",
+          "author": "LegendaryGuard",
+          "date": "2025-05-23T23:18:36.000Z",
+          "message": "Add .gitattributes, .gitignore and GitHub build workflows",
+          "linesAdded": 121,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".gitattributes",
+            ".github/workflows/build.yml",
+            ".gitignore"
+          ]
+        }
+      ]
+    },
+    "2025-05-17": {
+      "date": "2025-05-17",
+      "heatScore": 11,
+      "linesChanged": 24,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/q_math.c",
+        "code/game/q_shared.h"
+      ],
+      "commits": [
+        {
+          "hash": "bcf463a92d7af93dd513d3791417f686c8acbaa5",
+          "author": "Eugene",
+          "date": "2025-05-17T09:17:52.000Z",
+          "message": "Merge pull request #42 from LegendaryGuard/removeDeadCode-BoxOnPlaneSide",
+          "linesAdded": 0,
+          "linesDeleted": 24,
+          "filesChanged": [
+            "code/game/q_math.c",
+            "code/game/q_shared.h"
+          ]
+        }
+      ]
+    },
+    "2025-05-15": {
+      "date": "2025-05-15",
+      "heatScore": 11,
+      "linesChanged": 27,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_weapons.c"
+      ],
+      "commits": [
+        {
+          "hash": "6fe689cc227b266b8968e568e4b3303ddbcd9d0e",
+          "author": "LegendaryGuard",
+          "date": "2025-05-15T00:21:16.000Z",
+          "message": "Fix grappling hook visual muzzle position, now it's tagged correctly to 'tag_flash' and fix the missing grappling trail shader",
+          "linesAdded": 19,
+          "linesDeleted": 8,
+          "filesChanged": [
+            "README.md",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_weapons.c"
+          ]
+        }
+      ]
+    },
+    "2025-05-07": {
+      "date": "2025-05-07",
+      "heatScore": 36,
+      "linesChanged": 403,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/q_math.c",
+        "code/game/q_shared.h"
+      ],
+      "commits": [
+        {
+          "hash": "912f31fda1d437e6e37a13c08de028d228c9367d",
+          "author": "Eugene",
+          "date": "2025-05-07T16:39:28.000Z",
+          "message": "Merge pull request #40 from LegendaryGuard/removeDeadCode-BoxOnPlaneSide",
+          "linesAdded": 0,
+          "linesDeleted": 403,
+          "filesChanged": [
+            "code/game/q_math.c",
+            "code/game/q_shared.h"
+          ]
+        }
+      ]
+    },
+    "2025-05-04": {
+      "date": "2025-05-04",
+      "heatScore": 36,
+      "linesChanged": 403,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/q_math.c",
+        "code/game/q_shared.h"
+      ],
+      "commits": [
+        {
+          "hash": "edeea6817606ea13355cd51d802b0b9995b3fdd9",
+          "author": "LegendGuard",
+          "date": "2025-05-04T17:28:02.000Z",
+          "message": "Remove dead code of BoxOnPlaneSide, SetPlaneSignbits and PlaneTypeForNormal, these are used on engine code only",
+          "linesAdded": 0,
+          "linesDeleted": 403,
+          "filesChanged": [
+            "code/game/q_math.c",
+            "code/game/q_shared.h"
+          ]
+        }
+      ]
+    },
+    "2025-05-03": {
+      "date": "2025-05-03",
+      "heatScore": 32,
+      "linesChanged": 333,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/game/bg_events.h",
+        "code/game/bg_misc.c",
+        "code/game/bg_public.h"
+      ],
+      "commits": [
+        {
+          "hash": "ca6ea9a4c41fe49e7cc7c595935fd9d04bcd8e8f",
+          "author": "Eugene",
+          "date": "2025-05-03T20:48:42.000Z",
+          "message": "Merge pull request #38 from LegendaryGuard/bg_events",
+          "linesAdded": 124,
+          "linesDeleted": 209,
+          "filesChanged": [
+            "README.md",
+            "code/game/bg_events.h",
+            "code/game/bg_misc.c",
+            "code/game/bg_public.h"
+          ]
+        }
+      ]
+    },
+    "2025-04-29": {
+      "date": "2025-04-29",
+      "heatScore": 32,
+      "linesChanged": 333,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/game/bg_events.h",
+        "code/game/bg_misc.c",
+        "code/game/bg_public.h"
+      ],
+      "commits": [
+        {
+          "hash": "181611e51941ca5b084088f818cb8e9e4278477f",
+          "author": "LegendGuard",
+          "date": "2025-04-29T21:56:44.000Z",
+          "message": "Simplify event (EV_*) declaration to a single line of each",
+          "linesAdded": 124,
+          "linesDeleted": 209,
+          "filesChanged": [
+            "README.md",
+            "code/game/bg_events.h",
+            "code/game/bg_misc.c",
+            "code/game/bg_public.h"
+          ]
+        }
+      ]
+    },
+    "2025-02-20": {
+      "date": "2025-02-20",
+      "heatScore": 10,
+      "linesChanged": 1,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/modulus.c"
+      ],
+      "commits": [
+        {
+          "hash": "1b6fdc1cc88446d130d7fdccfc010b009d3279c2",
+          "author": "Eugene",
+          "date": "2025-02-20T21:14:19.000Z",
+          "message": "Merge pull request #37 from LegendaryGuard/fix-warning-implicit-modulus",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/cgame/modulus.c"
+          ]
+        }
+      ]
+    },
+    "2025-02-11": {
+      "date": "2025-02-11",
+      "heatScore": 10,
+      "linesChanged": 1,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/modulus.c"
+      ],
+      "commits": [
+        {
+          "hash": "a1d2d42fad7e1821e202b04de6f302ffe08ecb2e",
+          "author": "LegendGuard",
+          "date": "2025-02-11T00:02:19.000Z",
+          "message": "Small fix warning: implicit declaration of function ‘atof’ on modulus.c external tool",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/cgame/modulus.c"
+          ]
+        }
+      ]
+    },
+    "2024-10-17": {
+      "date": "2024-10-17",
+      "heatScore": 10,
+      "linesChanged": 1,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_weapon.c"
+      ],
+      "commits": [
+        {
+          "hash": "60bd426b8c2adde508b947da356475084c0c5a93",
+          "author": "Eugene",
+          "date": "2024-10-17T06:40:45.000Z",
+          "message": "Merge pull request #36 from LegendaryGuard/fix-lightning-gun-wp-ev",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/game/g_weapon.c"
+          ]
+        }
+      ]
+    },
+    "2024-10-16": {
+      "date": "2024-10-16",
+      "heatScore": 10,
+      "linesChanged": 1,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_weapon.c"
+      ],
+      "commits": [
+        {
+          "hash": "67c20bd998af31bae422a7c3cbf8643cc56679cb",
+          "author": "LegendGuard",
+          "date": "2024-10-16T22:43:58.000Z",
+          "message": "Fix lightning gun weapon number zeroed when sending weapon info to EV_MISSILE_MISS event",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/game/g_weapon.c"
+          ]
+        }
+      ]
+    },
+    "2023-07-15": {
+      "date": "2023-07-15",
+      "heatScore": 100,
+      "linesChanged": 6212,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/ui/ui_cvar.h",
+        "code/ui/ui_local.h",
+        "code/ui/ui_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "219c9c78cdd2209c75f3a2985b9c2e5222d09ab5",
+          "author": "Eugene",
+          "date": "2023-07-15T19:53:29.000Z",
+          "message": "Merge pull request #26 from LegendaryGuard/fix_ui_ta_accident",
+          "linesAdded": 6061,
+          "linesDeleted": 151,
+          "filesChanged": [
+            "README.md",
+            "code/ui/ui_cvar.h",
+            "code/ui/ui_local.h",
+            "code/ui/ui_main.c"
+          ]
+        }
+      ]
+    },
+    "2023-07-13": {
+      "date": "2023-07-13",
+      "heatScore": 100,
+      "linesChanged": 7582,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_cvar.h",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/game/g_cvar.h",
+        "code/game/g_local.h",
+        "code/game/g_main.c",
+        "code/q3_ui/ui_cvar.h",
+        "code/q3_ui/ui_local.h",
+        "code/q3_ui/ui_main.c",
+        "code/ui/ui_cvar.h",
+        "code/ui/ui_local.h",
+        "code/ui/ui_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "582b7a320fdd4ecb52d48a145aa3c70dc7128858",
+          "author": "LegendaryGuard",
+          "date": "2023-07-13T22:12:55.000Z",
+          "message": "Simplify cvar declaration to a single line of each",
+          "linesAdded": 547,
+          "linesDeleted": 7035,
+          "filesChanged": [
+            "code/cgame/cg_cvar.h",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/game/g_cvar.h",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/q3_ui/ui_cvar.h",
+            "code/q3_ui/ui_local.h",
+            "code/q3_ui/ui_main.c",
+            "code/ui/ui_cvar.h",
+            "code/ui/ui_local.h",
+            "code/ui/ui_main.c"
+          ]
+        }
+      ]
+    },
+    "2021-11-23": {
+      "date": "2021-11-23",
+      "heatScore": 10,
+      "linesChanged": 14,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_local.h",
+        "code/game/g_main.c",
+        "code/game/g_rotation.c",
+        "code/game/g_spawn.c"
+      ],
+      "commits": [
+        {
+          "hash": "d851fddadf1c2690ac508b8fc0b18bddba3d93d0",
+          "author": "Eugene",
+          "date": "2021-11-23T16:25:58.000Z",
+          "message": "Disabled \\g_restarted cvar",
+          "linesAdded": 7,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_rotation.c",
+            "code/game/g_spawn.c"
+          ]
+        }
+      ]
+    },
+    "2021-07-15": {
+      "date": "2021-07-15",
+      "heatScore": 15,
+      "linesChanged": 84,
+      "commitCount": 1,
+      "filesEdited": [
+        "QIIIA Game Source License.doc",
+        "QIIIA Game Source License.txt"
+      ],
+      "commits": [
+        {
+          "hash": "e850bb71daa4945747435c81cee9f5142ad27b34",
+          "author": "ec-",
+          "date": "2021-07-15T14:18:37.000Z",
+          "message": "Added license files (original doc and extracted txt)",
+          "linesAdded": 84,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "QIIIA Game Source License.doc",
+            "QIIIA Game Source License.txt"
+          ]
+        }
+      ]
+    },
+    "2021-07-14": {
+      "date": "2021-07-14",
+      "heatScore": 10,
+      "linesChanged": 8,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_misc.c"
+      ],
+      "commits": [
+        {
+          "hash": "ee3e7c6b1c3e55dc315b25c23722837b38ef94f0",
+          "author": "ec-",
+          "date": "2021-07-14T20:57:42.000Z",
+          "message": "Fixed spectator speed at door triggers",
+          "linesAdded": 7,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/game/g_misc.c"
+          ]
+        }
+      ]
+    },
+    "2021-06-25": {
+      "date": "2021-06-25",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_cmds.c"
+      ],
+      "commits": [
+        {
+          "hash": "bd25f6b251995ec432c0d62a3dcfa11bbe2f8d83",
+          "author": "ec-",
+          "date": "2021-06-25T16:41:45.000Z",
+          "message": "Potential fix for buffer overflow warning in G_Say()",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/game/g_cmds.c"
+          ]
+        }
+      ]
+    },
+    "2021-06-21": {
+      "date": "2021-06-21",
+      "heatScore": 10,
+      "linesChanged": 3,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_team.c"
+      ],
+      "commits": [
+        {
+          "hash": "f897b5d86e377e7bc21a4091a4fa6fbb57704287",
+          "author": "ec-",
+          "date": "2021-06-21T18:43:22.000Z",
+          "message": "Fixed out-of-bounds access in Team_SetFlagStatus() caused by both flag statuses set to -1 while function can update only one status at once",
+          "linesAdded": 2,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/game/g_team.c"
+          ]
+        }
+      ]
+    },
+    "2021-03-15": {
+      "date": "2021-03-15",
+      "heatScore": 12,
+      "linesChanged": 37,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/q_shared.c",
+        "code/game/q_shared.h",
+        "code/q3_ui/ui_serverinfo.c"
+      ],
+      "commits": [
+        {
+          "hash": "0dc671d51fd9b78b90750f80985201f9e8a41b82",
+          "author": "ec-",
+          "date": "2021-03-15T16:42:13.000Z",
+          "message": "Reworked Info_NextPair()",
+          "linesAdded": 18,
+          "linesDeleted": 19,
+          "filesChanged": [
+            "code/game/q_shared.c",
+            "code/game/q_shared.h",
+            "code/q3_ui/ui_serverinfo.c"
+          ]
+        }
+      ]
+    },
+    "2020-10-26": {
+      "date": "2020-10-26",
+      "heatScore": 10,
+      "linesChanged": 0,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/icons/icona_rocket.tga",
+        "assets/icons/icont_rocket.tga",
+        "assets/icons/iconw_rocket.tga"
+      ],
+      "commits": [
+        {
+          "hash": "d97c559f65493ad2f6c1e4543f14e8e2c0dbf9e1",
+          "author": "Eugene",
+          "date": "2020-10-26T21:29:26.000Z",
+          "message": "Updated RL icons",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "assets/icons/icona_rocket.tga",
+            "assets/icons/icont_rocket.tga",
+            "assets/icons/iconw_rocket.tga"
+          ]
+        }
+      ]
+    },
+    "2020-10-25": {
+      "date": "2020-10-25",
+      "heatScore": 10,
+      "linesChanged": 0,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/models/weaphits/rlboom/rlboom_1.tga",
+        "assets/models/weaphits/rlboom/rlboom_2.tga",
+        "assets/models/weaphits/rlboom/rlboom_5.tga",
+        "assets/models/weaphits/rlboom/rlboom_6.tga",
+        "assets/models/weaphits/rlboom/rlboom_7.tga",
+        "assets/models/weaphits/rlboom/rlboom_8.tga"
+      ],
+      "commits": [
+        {
+          "hash": "237723aae03d6a9ed6b58d238a4f905174df9418",
+          "author": "Eugene",
+          "date": "2020-10-25T21:12:44.000Z",
+          "message": "Updated RL icons",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "assets/models/weaphits/rlboom/rlboom_1.tga",
+            "assets/models/weaphits/rlboom/rlboom_2.tga",
+            "assets/models/weaphits/rlboom/rlboom_5.tga",
+            "assets/models/weaphits/rlboom/rlboom_6.tga",
+            "assets/models/weaphits/rlboom/rlboom_7.tga",
+            "assets/models/weaphits/rlboom/rlboom_8.tga"
+          ]
+        }
+      ]
+    },
+    "2020-10-24": {
+      "date": "2020-10-24",
+      "heatScore": 10,
+      "linesChanged": 0,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/icons/icona_rocket.tga",
+        "assets/icons/icont_rocket.tga",
+        "assets/icons/iconw_rocket.tga"
+      ],
+      "commits": [
+        {
+          "hash": "db3d222b6ec7eb739678f3a790ee29b195ac2382",
+          "author": "Eugene",
+          "date": "2020-10-24T21:13:36.000Z",
+          "message": "Updated RL icons",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "assets/icons/icona_rocket.tga",
+            "assets/icons/icont_rocket.tga",
+            "assets/icons/iconw_rocket.tga"
+          ]
+        }
+      ]
+    },
+    "2020-09-26": {
+      "date": "2020-09-26",
+      "heatScore": 11,
+      "linesChanged": 23,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "95d91779a20179e87ce24e417a315c3bf0d5c057",
+          "author": "Eugene",
+          "date": "2020-09-26T09:51:11.000Z",
+          "message": "Added extended time precision for game logs",
+          "linesAdded": 11,
+          "linesDeleted": 12,
+          "filesChanged": [
+            "code/game/g_main.c"
+          ]
+        }
+      ]
+    },
+    "2020-07-20": {
+      "date": "2020-07-20",
+      "heatScore": 14,
+      "linesChanged": 73,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/ai_dmq3.c",
+        "code/game/g_cmds.c",
+        "code/game/g_items.c",
+        "code/game/g_team.c"
+      ],
+      "commits": [
+        {
+          "hash": "8826b686ce61cb3708988fd6356207628a277d86",
+          "author": "Eugene",
+          "date": "2020-07-20T11:28:15.000Z",
+          "message": "Fixed compiler warnings",
+          "linesAdded": 34,
+          "linesDeleted": 39,
+          "filesChanged": [
+            "code/game/ai_dmq3.c",
+            "code/game/g_cmds.c",
+            "code/game/g_items.c",
+            "code/game/g_team.c"
+          ]
+        }
+      ]
+    },
+    "2020-07-18": {
+      "date": "2020-07-18",
+      "heatScore": 12,
+      "linesChanged": 38,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_items.c",
+        "code/game/g_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "e567b0e17e8f777846ec8598f1ccbf62c1b9d232",
+          "author": "Eugene",
+          "date": "2020-07-18T13:27:48.000Z",
+          "message": "Reset spawn timers on all teamed entities Use \"random\" key when respawning items at warmup end",
+          "linesAdded": 24,
+          "linesDeleted": 14,
+          "filesChanged": [
+            "code/game/g_items.c",
+            "code/game/g_main.c"
+          ]
+        }
+      ]
+    },
+    "2020-05-25": {
+      "date": "2020-05-25",
+      "heatScore": 14,
+      "linesChanged": 63,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_draw.c",
+        "code/cgame/cg_drawtools.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_syscalls.c",
+        "code/game/ai_dmq3.c",
+        "code/game/g_active.c",
+        "code/game/g_client.c",
+        "code/q3_ui/ui_playersettings.c",
+        "code/q3_ui/ui_servers2.c"
+      ],
+      "commits": [
+        {
+          "hash": "aef7f82284332937f3abe1226bf3cde0b118d2c3",
+          "author": "Eugene",
+          "date": "2020-05-25T18:30:07.000Z",
+          "message": "Fixed various compiler warnings",
+          "linesAdded": 24,
+          "linesDeleted": 39,
+          "filesChanged": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_drawtools.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_syscalls.c",
+            "code/game/ai_dmq3.c",
+            "code/game/g_active.c",
+            "code/game/g_client.c",
+            "code/q3_ui/ui_playersettings.c",
+            "code/q3_ui/ui_servers2.c"
+          ]
+        }
+      ]
+    },
+    "2020-04-19": {
+      "date": "2020-04-19",
+      "heatScore": 10,
+      "linesChanged": 8,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/gfx/2d/bigchars.cfg",
+        "assets/gfx/2d/bigchars_16.tga",
+        "assets/gfx/2d/bigchars_32.tga",
+        "assets/gfx/2d/bigchars_64.tga",
+        "assets/gfx/2d/numbers_128.tga",
+        "assets/gfx/2d/numbers_32.tga",
+        "assets/gfx/2d/numbers_64.tga"
+      ],
+      "commits": [
+        {
+          "hash": "45d540ef8cf197153fcf92c91588dd74e1ff3ec1",
+          "author": "Eugene",
+          "date": "2020-04-19T17:51:07.000Z",
+          "message": "fonts: fixed interpolation artifacts caused by missing data in RGB channels in nearby pixels fonts: slightly tuned bigchars.cfg",
+          "linesAdded": 4,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "assets/gfx/2d/bigchars.cfg",
+            "assets/gfx/2d/bigchars_16.tga",
+            "assets/gfx/2d/bigchars_32.tga",
+            "assets/gfx/2d/bigchars_64.tga",
+            "assets/gfx/2d/numbers_128.tga",
+            "assets/gfx/2d/numbers_32.tga",
+            "assets/gfx/2d/numbers_64.tga"
+          ]
+        }
+      ]
+    },
+    "2020-04-10": {
+      "date": "2020-04-10",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "4d82e60227b9e4284b3af7b3f8c23dac79986293",
+          "author": "Eugene",
+          "date": "2020-04-10T13:10:11.000Z",
+          "message": "Removed CVAR_CHEAT flag for \\cg_bobup cvar",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/cgame/cg_main.c"
+          ]
+        }
+      ]
+    },
+    "2020-02-01": {
+      "date": "2020-02-01",
+      "heatScore": 10,
+      "linesChanged": 7,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_weapons.c"
+      ],
+      "commits": [
+        {
+          "hash": "51ce6ea777bfb23cfe93096bf9f729972dbb5206",
+          "author": "Eugene",
+          "date": "2020-02-01T21:58:15.000Z",
+          "message": "Use correct player entity for lighting and sound effects",
+          "linesAdded": 6,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/cgame/cg_weapons.c"
+          ]
+        }
+      ]
+    },
+    "2020-01-30": {
+      "date": "2020-01-30",
+      "heatScore": 10,
+      "linesChanged": 6,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_active.c"
+      ],
+      "commits": [
+        {
+          "hash": "5055167ec66a4e9afa39bd7dcc8837ec10e67d0c",
+          "author": "Eugene",
+          "date": "2020-01-30T21:28:16.000Z",
+          "message": "Fixed invalid connection marker on bots",
+          "linesAdded": 4,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/game/g_active.c"
+          ]
+        }
+      ]
+    },
+    "2020-01-05": {
+      "date": "2020-01-05",
+      "heatScore": 12,
+      "linesChanged": 34,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_weapons.c",
+        "code/game/bg_lib.c",
+        "docs/client.txt"
+      ],
+      "commits": [
+        {
+          "hash": "8e668ee7485b5e741d33e8d2b6163f8e5150ea7b",
+          "author": "Eugene",
+          "date": "2020-01-05T13:33:01.000Z",
+          "message": "Use negative cg_drawWeaponSelect values to force permanent display",
+          "linesAdded": 13,
+          "linesDeleted": 21,
+          "filesChanged": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_weapons.c",
+            "code/game/bg_lib.c",
+            "docs/client.txt"
+          ]
+        }
+      ]
+    },
+    "2020-01-03": {
+      "date": "2020-01-03",
+      "heatScore": 11,
+      "linesChanged": 21,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_weapons.c",
+        "docs/client.txt"
+      ],
+      "commits": [
+        {
+          "hash": "b955788ab281b4cecd4ff8eeb10877eea965b80b",
+          "author": "Eugene C",
+          "date": "2020-01-03T12:15:31.000Z",
+          "message": "Merge pull request #9 from kameltoe/permanent_weapon_list",
+          "linesAdded": 17,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_weapons.c",
+            "docs/client.txt"
+          ]
+        }
+      ]
+    },
+    "2019-12-31": {
+      "date": "2019-12-31",
+      "heatScore": 11,
+      "linesChanged": 21,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_weapons.c",
+        "docs/client.txt"
+      ],
+      "commits": [
+        {
+          "hash": "92d826f8b8b3b63a4dd2c53ff5654add28f740a3",
+          "author": "kameltoe",
+          "date": "2019-12-31T23:38:07.000Z",
+          "message": "add cg_drawWeaponSticky cvar",
+          "linesAdded": 17,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_weapons.c",
+            "docs/client.txt"
+          ]
+        }
+      ]
+    },
+    "2019-12-22": {
+      "date": "2019-12-22",
+      "heatScore": 10,
+      "linesChanged": 13,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/q3_ui/ui_servers2.c"
+      ],
+      "commits": [
+        {
+          "hash": "c24e1f78abf421def5adc257b3f7ed304a3cdb27",
+          "author": "Eugene",
+          "date": "2019-12-22T12:28:53.000Z",
+          "message": "More server browser fixes",
+          "linesAdded": 9,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "code/q3_ui/ui_servers2.c"
+          ]
+        }
+      ]
+    },
+    "2019-11-11": {
+      "date": "2019-11-11",
+      "heatScore": 10,
+      "linesChanged": 5,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_ents.c",
+        "code/cgame/cg_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "4904a832a330259d18ee5a481ecdc18b1e5de9de",
+          "author": "ec-",
+          "date": "2019-11-11T19:12:13.000Z",
+          "message": "Changed \\cg_railTrailRadius to 0 by default Fixed null pointer dereference int CG_SetScoreCatcher() Fixed RT_BEAM invisibility",
+          "linesAdded": 3,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_main.c"
+          ]
+        }
+      ]
+    },
+    "2019-10-12": {
+      "date": "2019-10-12",
+      "heatScore": 11,
+      "linesChanged": 28,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/menu/art/fx_base.tga",
+        "code/q3_ui/ui_playersettings.c"
+      ],
+      "commits": [
+        {
+          "hash": "d6db4082fdae61a816ae4da33e96937d21376fb2",
+          "author": "ec-",
+          "date": "2019-10-12T15:30:09.000Z",
+          "message": "UI: fixed effects color selection",
+          "linesAdded": 15,
+          "linesDeleted": 13,
+          "filesChanged": [
+            "assets/menu/art/fx_base.tga",
+            "code/q3_ui/ui_playersettings.c"
+          ]
+        }
+      ]
+    },
+    "2019-07-01": {
+      "date": "2019-07-01",
+      "heatScore": 10,
+      "linesChanged": 1,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_team.h"
+      ],
+      "commits": [
+        {
+          "hash": "fffcb5b609c3afd397b8445ae02188dc0d55952d",
+          "author": "ec-",
+          "date": "2019-07-01T17:11:51.000Z",
+          "message": "Added missing declaration for AddTeamScore()",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/game/g_team.h"
+          ]
+        }
+      ]
+    },
+    "2019-06-27": {
+      "date": "2019-06-27",
+      "heatScore": 14,
+      "linesChanged": 66,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_combat.c",
+        "code/game/g_team.c"
+      ],
+      "commits": [
+        {
+          "hash": "337489a0dc744c6c41c4e320beb95a32ed4efb9f",
+          "author": "Eugene C",
+          "date": "2019-06-27T13:47:56.000Z",
+          "message": "Merge pull request #7 from KuehnhammerTobias/master",
+          "linesAdded": 32,
+          "linesDeleted": 34,
+          "filesChanged": [
+            "code/game/g_combat.c",
+            "code/game/g_team.c"
+          ]
+        }
+      ]
+    },
+    "2019-02-17": {
+      "date": "2019-02-17",
+      "heatScore": 10,
+      "linesChanged": 9,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/models/flag2/blue.skin",
+        "assets/models/flag2/flagflap3.md3",
+        "assets/models/flag2/flagpole.md3",
+        "assets/models/flag2/red.skin",
+        "assets/models/flag2/white.skin",
+        "assets/models/flags/w_flag2.tga"
+      ],
+      "commits": [
+        {
+          "hash": "6cf3cb0ac4ae9910b2e96b851b7133bded3db32e",
+          "author": "Eugene C",
+          "date": "2019-02-17T10:05:15.000Z",
+          "message": "Merge pull request #5 from Q3HQ/master",
+          "linesAdded": 9,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "assets/models/flag2/blue.skin",
+            "assets/models/flag2/flagflap3.md3",
+            "assets/models/flag2/flagpole.md3",
+            "assets/models/flag2/red.skin",
+            "assets/models/flag2/white.skin",
+            "assets/models/flags/w_flag2.tga"
+          ]
+        }
+      ]
+    },
+    "2019-02-16": {
+      "date": "2019-02-16",
+      "heatScore": 10,
+      "linesChanged": 4,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "0dbf9a2cccec5d4b702ac498aab2a8e0d76e480b",
+          "author": "ec-",
+          "date": "2019-02-16T22:09:59.000Z",
+          "message": "Fixed flag skins",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/cgame/cg_main.c"
+          ]
+        }
+      ]
+    },
+    "2019-02-13": {
+      "date": "2019-02-13",
+      "heatScore": 10,
+      "linesChanged": 6,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "39ded5868a00d3c601427c1aa3b60b3b51940bd1",
+          "author": "ec-",
+          "date": "2019-02-13T20:26:44.000Z",
+          "message": "Better fix",
+          "linesAdded": 3,
+          "linesDeleted": 3,
+          "filesChanged": [
+            "code/cgame/cg_main.c"
+          ]
+        }
+      ]
+    },
+    "2019-02-06": {
+      "date": "2019-02-06",
+      "heatScore": 10,
+      "linesChanged": 8,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_ents.c"
+      ],
+      "commits": [
+        {
+          "hash": "cff358e63a70c638e1f8b17397cb6481442b0591",
+          "author": "ec-",
+          "date": "2019-02-06T18:37:36.000Z",
+          "message": "Fixed railgun colors",
+          "linesAdded": 8,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/cgame/cg_ents.c"
+          ]
+        }
+      ]
+    },
+    "2018-11-21": {
+      "date": "2018-11-21",
+      "heatScore": 10,
+      "linesChanged": 6,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_main.c",
+        "code/game/g_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "7d2135fdb80d67a40f265058113bd91817e25ae9",
+          "author": "ec-",
+          "date": "2018-11-21T19:41:45.000Z",
+          "message": "Added engine-specific extension suffixes",
+          "linesAdded": 3,
+          "linesDeleted": 3,
+          "filesChanged": [
+            "code/cgame/cg_main.c",
+            "code/game/g_main.c"
+          ]
+        }
+      ]
+    },
+    "2018-11-11": {
+      "date": "2018-11-11",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_cmds.c"
+      ],
+      "commits": [
+        {
+          "hash": "df9a411016cbf97371e982d5dfd201dbc4569388",
+          "author": "ec-",
+          "date": "2018-11-11T18:55:02.000Z",
+          "message": "Fixed compiler warning",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/game/g_cmds.c"
+          ]
+        }
+      ]
+    },
+    "2018-11-08": {
+      "date": "2018-11-08",
+      "heatScore": 10,
+      "linesChanged": 12,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/models/players/uriel/color_x.tga",
+        "assets/scripts/players.shader"
+      ],
+      "commits": [
+        {
+          "hash": "14c71761d67709eb457d6c841688cb00464b3848",
+          "author": "ec-",
+          "date": "2018-11-08T09:52:32.000Z",
+          "message": "Fixed Uriel's PM skin",
+          "linesAdded": 6,
+          "linesDeleted": 6,
+          "filesChanged": [
+            "assets/models/players/uriel/color_x.tga",
+            "assets/scripts/players.shader"
+          ]
+        }
+      ]
+    },
+    "2018-11-07": {
+      "date": "2018-11-07",
+      "heatScore": 11,
+      "linesChanged": 21,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_weapons.c"
+      ],
+      "commits": [
+        {
+          "hash": "e31de10978f8766f6a035073f363427046fb96f7",
+          "author": "ec-",
+          "date": "2018-11-07T19:09:33.000Z",
+          "message": "Avoid some debug messages on 1.32c",
+          "linesAdded": 19,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_weapons.c"
+          ]
+        }
+      ]
+    },
+    "2018-07-30": {
+      "date": "2018-07-30",
+      "heatScore": 18,
+      "linesChanged": 129,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_draw.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/q3_ui/ui_atoms.c",
+        "code/q3_ui/ui_ingame.c",
+        "code/q3_ui/ui_local.h",
+        "code/q3_ui/ui_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "c15b967b62a1f01230ed874578cb577a1e62f87b",
+          "author": "ec-",
+          "date": "2018-07-30T13:24:41.000Z",
+          "message": "Reworked and unified cursor speed scaling in UI and CGame modules Limited cursor scaling to 1/2 for high resolutions (FullHD+)",
+          "linesAdded": 72,
+          "linesDeleted": 57,
+          "filesChanged": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/q3_ui/ui_atoms.c",
+            "code/q3_ui/ui_ingame.c",
+            "code/q3_ui/ui_local.h",
+            "code/q3_ui/ui_main.c"
+          ]
+        }
+      ]
+    },
+    "2018-04-05": {
+      "date": "2018-04-05",
+      "heatScore": 20,
+      "linesChanged": 162,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/bg_misc.c",
+        "code/game/q_shared.c",
+        "code/game/q_shared.h"
+      ],
+      "commits": [
+        {
+          "hash": "9211fc80296037f92594414f755b27a73ffb7034",
+          "author": "ec-",
+          "date": "2018-04-05T09:35:36.000Z",
+          "message": "Improved infostring handling",
+          "linesAdded": 93,
+          "linesDeleted": 69,
+          "filesChanged": [
+            "code/game/bg_misc.c",
+            "code/game/q_shared.c",
+            "code/game/q_shared.h"
+          ]
+        }
+      ]
+    },
+    "2018-04-01": {
+      "date": "2018-04-01",
+      "heatScore": 12,
+      "linesChanged": 43,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_marks.c",
+        "code/cgame/cg_players.c",
+        "code/cgame/cg_predict.c",
+        "code/cgame/cg_weapons.c",
+        "code/game/ai_cmd.c",
+        "code/game/ai_vcmd.c",
+        "code/game/bg_misc.c",
+        "code/game/g_bot.c",
+        "code/game/g_team.c",
+        "code/q3_ui/ui_players.c",
+        "code/q3_ui/ui_splevel.c",
+        "code/q3_ui/ui_startserver.c",
+        "code/q3_ui/ui_video.c"
+      ],
+      "commits": [
+        {
+          "hash": "b0b2c43c74ee3c62d1fa91c91627e3cca9cd42e6",
+          "author": "ec-",
+          "date": "2018-04-01T09:44:45.000Z",
+          "message": "Code cleanup",
+          "linesAdded": 20,
+          "linesDeleted": 23,
+          "filesChanged": [
+            "code/cgame/cg_marks.c",
+            "code/cgame/cg_players.c",
+            "code/cgame/cg_predict.c",
+            "code/cgame/cg_weapons.c",
+            "code/game/ai_cmd.c",
+            "code/game/ai_vcmd.c",
+            "code/game/bg_misc.c",
+            "code/game/g_bot.c",
+            "code/game/g_team.c",
+            "code/q3_ui/ui_players.c",
+            "code/q3_ui/ui_splevel.c",
+            "code/q3_ui/ui_startserver.c",
+            "code/q3_ui/ui_video.c"
+          ]
+        }
+      ]
+    },
+    "2018-03-14": {
+      "date": "2018-03-14",
+      "heatScore": 13,
+      "linesChanged": 46,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_local.h",
+        "code/game/g_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "83fb6756960eff54a1decf035ca5b3064eead2d2",
+          "author": "ec-",
+          "date": "2018-03-14T19:35:55.000Z",
+          "message": "Code cleanup",
+          "linesAdded": 23,
+          "linesDeleted": 23,
+          "filesChanged": [
+            "code/game/g_local.h",
+            "code/game/g_main.c"
+          ]
+        }
+      ]
+    },
+    "2018-03-12": {
+      "date": "2018-03-12",
+      "heatScore": 10,
+      "linesChanged": 4,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_client.c"
+      ],
+      "commits": [
+        {
+          "hash": "5e45c6e08798da2025c5e01d58247383d50dd0c9",
+          "author": "ec-",
+          "date": "2018-03-12T11:52:02.000Z",
+          "message": "Reduced max.length of color1/color2 to avoid bloating configstrings",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/game/g_client.c"
+          ]
+        }
+      ]
+    },
+    "2018-03-10": {
+      "date": "2018-03-10",
+      "heatScore": 11,
+      "linesChanged": 26,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/q_shared.c",
+        "code/game/q_shared.h"
+      ],
+      "commits": [
+        {
+          "hash": "61b1fcf8f0939cec9e53cf934df4c79007e2df92",
+          "author": "ec-",
+          "date": "2018-03-10T10:11:02.000Z",
+          "message": "Return status for Info_SetValueForKey* functions",
+          "linesAdded": 14,
+          "linesDeleted": 12,
+          "filesChanged": [
+            "code/game/q_shared.c",
+            "code/game/q_shared.h"
+          ]
+        }
+      ]
+    },
+    "2018-03-09": {
+      "date": "2018-03-09",
+      "heatScore": 15,
+      "linesChanged": 78,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/q_shared.c"
+      ],
+      "commits": [
+        {
+          "hash": "905871f8b91dcce05ae2bbc98dbbc86d4d7bc309",
+          "author": "ec-",
+          "date": "2018-03-09T14:15:21.000Z",
+          "message": "Improved infostring handling",
+          "linesAdded": 42,
+          "linesDeleted": 36,
+          "filesChanged": [
+            "code/game/q_shared.c"
+          ]
+        }
+      ]
+    },
+    "2018-03-06": {
+      "date": "2018-03-06",
+      "heatScore": 24,
+      "linesChanged": 223,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/q_shared.c",
+        "code/game/q_shared.h"
+      ],
+      "commits": [
+        {
+          "hash": "3334504c68c314f1dd9a237b3dc85dacf059fc08",
+          "author": "ec-",
+          "date": "2018-03-06T19:57:43.000Z",
+          "message": "Improved infostring handling",
+          "linesAdded": 88,
+          "linesDeleted": 135,
+          "filesChanged": [
+            "code/game/q_shared.c",
+            "code/game/q_shared.h"
+          ]
+        }
+      ]
+    },
+    "2018-02-28": {
+      "date": "2018-02-28",
+      "heatScore": 16,
+      "linesChanged": 97,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_localents.c"
+      ],
+      "commits": [
+        {
+          "hash": "b1004b4d7c7fc4c1a0abe2aba6c6acc04ed05c60",
+          "author": "ec-",
+          "date": "2018-02-28T12:35:14.000Z",
+          "message": "Emit polyverts for rocket trails and blood trains, should improve performance and release more localentities as well Increase limit of localentities to 2048",
+          "linesAdded": 85,
+          "linesDeleted": 12,
+          "filesChanged": [
+            "code/cgame/cg_localents.c"
+          ]
+        }
+      ]
+    },
+    "2018-02-14": {
+      "date": "2018-02-14",
+      "heatScore": 13,
+      "linesChanged": 45,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/ai_chat.c",
+        "code/game/ai_cmd.c",
+        "code/game/ai_dmq3.c",
+        "code/game/ai_team.c",
+        "code/q3_ui/ui_demo2.c",
+        "code/q3_ui/ui_gameinfo.c",
+        "code/q3_ui/ui_startserver.c"
+      ],
+      "commits": [
+        {
+          "hash": "7ab9050bdb179e980df31383e0b882266a2b58f4",
+          "author": "ec-",
+          "date": "2018-02-14T20:24:10.000Z",
+          "message": "Replaced strncpy() with Q_strncpyz() Increased some UI limits",
+          "linesAdded": 21,
+          "linesDeleted": 24,
+          "filesChanged": [
+            "code/game/ai_chat.c",
+            "code/game/ai_cmd.c",
+            "code/game/ai_dmq3.c",
+            "code/game/ai_team.c",
+            "code/q3_ui/ui_demo2.c",
+            "code/q3_ui/ui_gameinfo.c",
+            "code/q3_ui/ui_startserver.c"
+          ]
+        }
+      ]
+    },
+    "2017-12-24": {
+      "date": "2017-12-24",
+      "heatScore": 10,
+      "linesChanged": 11,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_servercmds.c"
+      ],
+      "commits": [
+        {
+          "hash": "7bd0cd37bcb4188a7e008a38cbd8d550ddf27d16",
+          "author": "ec-",
+          "date": "2017-12-24T19:14:34.000Z",
+          "message": "Support for defrag mod demo playback",
+          "linesAdded": 10,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_servercmds.c"
+          ]
+        }
+      ]
+    },
+    "2017-12-18": {
+      "date": "2017-12-18",
+      "heatScore": 16,
+      "linesChanged": 98,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/ai_main.c",
+        "code/game/g_bot.c",
+        "code/game/g_client.c",
+        "code/game/g_cmds.c",
+        "code/q3_ui/ui_gameinfo.c",
+        "code/q3_ui/ui_startserver.c"
+      ],
+      "commits": [
+        {
+          "hash": "8c1ca3a6891b269c27588494344c4ed9b50ac41e",
+          "author": "ec-",
+          "date": "2017-12-18T11:56:15.000Z",
+          "message": "Fixed a few potential buffer overwrites in Game VM",
+          "linesAdded": 52,
+          "linesDeleted": 46,
+          "filesChanged": [
+            "code/game/ai_main.c",
+            "code/game/g_bot.c",
+            "code/game/g_client.c",
+            "code/game/g_cmds.c",
+            "code/q3_ui/ui_gameinfo.c",
+            "code/q3_ui/ui_startserver.c"
+          ]
+        }
+      ]
+    },
+    "2017-12-14": {
+      "date": "2017-12-14",
+      "heatScore": 11,
+      "linesChanged": 16,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_servercmds.c",
+        "code/game/ai_chat.c",
+        "code/game/ai_dmq3.c"
+      ],
+      "commits": [
+        {
+          "hash": "6190c8e53d0da36228a9e3374e83d2cc1404c9aa",
+          "author": "ec-",
+          "date": "2017-12-14T20:03:58.000Z",
+          "message": "Fixed incorrect use of strcpy (overlapping buffers) in EasyClientName() Code cleanup",
+          "linesAdded": 10,
+          "linesDeleted": 6,
+          "filesChanged": [
+            "code/cgame/cg_servercmds.c",
+            "code/game/ai_chat.c",
+            "code/game/ai_dmq3.c"
+          ]
+        }
+      ]
+    },
+    "2017-11-09": {
+      "date": "2017-11-09",
+      "heatScore": 14,
+      "linesChanged": 67,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/ai_chat.c",
+        "code/game/ai_cmd.c",
+        "code/game/ai_dmq3.c",
+        "code/game/ai_main.c",
+        "code/game/ai_main.h",
+        "code/game/ai_team.c"
+      ],
+      "commits": [
+        {
+          "hash": "5cf07e08b7c0ec0d7253665a762d4364f1daf2a3",
+          "author": "ec-",
+          "date": "2017-11-09T13:18:47.000Z",
+          "message": "Avoid using cached maxclients value as it is doesn't set during map restart, always use global level.maxclients",
+          "linesAdded": 30,
+          "linesDeleted": 37,
+          "filesChanged": [
+            "code/game/ai_chat.c",
+            "code/game/ai_cmd.c",
+            "code/game/ai_dmq3.c",
+            "code/game/ai_main.c",
+            "code/game/ai_main.h",
+            "code/game/ai_team.c"
+          ]
+        }
+      ]
+    },
+    "2017-11-02": {
+      "date": "2017-11-02",
+      "heatScore": 10,
+      "linesChanged": 11,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_active.c"
+      ],
+      "commits": [
+        {
+          "hash": "833144916322db0042ac0355cbccfb5fca8c22bd",
+          "author": "ec-",
+          "date": "2017-11-02T20:40:45.000Z",
+          "message": "Set spectator speed relative to \\g_speed Add noclip move for spectators",
+          "linesAdded": 7,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "code/game/g_active.c"
+          ]
+        }
+      ]
+    },
+    "2017-10-17": {
+      "date": "2017-10-17",
+      "heatScore": 10,
+      "linesChanged": 4,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_scoreboard.c",
+        "code/game/g_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "0ab3e6d1b5e9f838f3609c19c1f216568432dd10",
+          "author": "ec-",
+          "date": "2017-10-17T12:11:46.000Z",
+          "message": "Fix starting color in score line",
+          "linesAdded": 3,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/cgame/cg_scoreboard.c",
+            "code/game/g_main.c"
+          ]
+        }
+      ]
+    },
+    "2017-10-07": {
+      "date": "2017-10-07",
+      "heatScore": 11,
+      "linesChanged": 22,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/bg_public.h",
+        "code/game/g_items.c",
+        "code/game/g_local.h",
+        "code/game/g_main.c",
+        "code/game/g_target.c",
+        "code/game/g_utils.c"
+      ],
+      "commits": [
+        {
+          "hash": "7e0666ae7d24a9ca344acf3ba2171b3d13794bd7",
+          "author": "ec-",
+          "date": "2017-10-07T18:26:15.000Z",
+          "message": "Do not respawn items that should not respawn on warmup end",
+          "linesAdded": 20,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/game/bg_public.h",
+            "code/game/g_items.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_target.c",
+            "code/game/g_utils.c"
+          ]
+        }
+      ]
+    },
+    "2017-10-06": {
+      "date": "2017-10-06",
+      "heatScore": 12,
+      "linesChanged": 40,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_cmds.c"
+      ],
+      "commits": [
+        {
+          "hash": "fa0d956694644acdb8d50d35d7f59cacb6bec35e",
+          "author": "ec-",
+          "date": "2017-10-06T08:22:06.000Z",
+          "message": "Fix oversize of scores message",
+          "linesAdded": 23,
+          "linesDeleted": 17,
+          "filesChanged": [
+            "code/game/g_cmds.c"
+          ]
+        }
+      ]
+    },
+    "2017-10-05": {
+      "date": "2017-10-05",
+      "heatScore": 11,
+      "linesChanged": 29,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_mem.c",
+        "code/game/g_utils.c",
+        "code/game/q_math.c"
+      ],
+      "commits": [
+        {
+          "hash": "1051199d1beda5af4c1d04ac363a638a6f97507a",
+          "author": "ec-",
+          "date": "2017-10-05T07:47:00.000Z",
+          "message": "Increase memory pool size to handle up to 64 bots Fix item allocation in G_Spawn(), try to release oldest entities first to minimize described side-effects Fix zero denominator in ProjectPointOnPlane(), probably caused by buggy trace for CG_FragmentBounceMark()",
+          "linesAdded": 19,
+          "linesDeleted": 10,
+          "filesChanged": [
+            "code/game/g_mem.c",
+            "code/game/g_utils.c",
+            "code/game/q_math.c"
+          ]
+        }
+      ]
+    },
+    "2017-09-26": {
+      "date": "2017-09-26",
+      "heatScore": 14,
+      "linesChanged": 69,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_draw.c",
+        "code/cgame/cg_event.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_snapshot.c",
+        "code/cgame/cg_view.c"
+      ],
+      "commits": [
+        {
+          "hash": "c977188ae62c58c736d2101de7a4146ec9536352",
+          "author": "ec-",
+          "date": "2017-09-26T11:15:33.000Z",
+          "message": "Add \\cg_followKiller",
+          "linesAdded": 53,
+          "linesDeleted": 16,
+          "filesChanged": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_snapshot.c",
+            "code/cgame/cg_view.c"
+          ]
+        }
+      ]
+    },
+    "2017-09-20": {
+      "date": "2017-09-20",
+      "heatScore": 26,
+      "linesChanged": 240,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/ai_chat.c",
+        "code/game/ai_cmd.c",
+        "code/game/ai_dmq3.c",
+        "code/game/ai_dmq3.h",
+        "code/game/ai_main.c",
+        "code/game/ai_main.h",
+        "code/game/ai_team.c",
+        "code/game/g_bot.c",
+        "code/game/g_client.c",
+        "code/game/g_local.h",
+        "code/game/g_main.c",
+        "code/game/g_team.c"
+      ],
+      "commits": [
+        {
+          "hash": "8580646e9d77764b4c09e2afb3753c6dfe721bb3",
+          "author": "ec-",
+          "date": "2017-09-20T14:43:38.000Z",
+          "message": "Never refer to sv_maxclients in runtime as server may change it on the fly Delay level exit if vote is in progress Code cleanup",
+          "linesAdded": 105,
+          "linesDeleted": 135,
+          "filesChanged": [
+            "code/game/ai_chat.c",
+            "code/game/ai_cmd.c",
+            "code/game/ai_dmq3.c",
+            "code/game/ai_dmq3.h",
+            "code/game/ai_main.c",
+            "code/game/ai_main.h",
+            "code/game/ai_team.c",
+            "code/game/g_bot.c",
+            "code/game/g_client.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_team.c"
+          ]
+        }
+      ]
+    },
+    "2017-09-17": {
+      "date": "2017-09-17",
+      "heatScore": 14,
+      "linesChanged": 71,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_active.c",
+        "code/game/g_local.h",
+        "code/game/g_main.c",
+        "code/game/g_public.h",
+        "code/game/g_syscalls.c"
+      ],
+      "commits": [
+        {
+          "hash": "0ea545806250ff2b95c171421fff42e4dded1df9",
+          "author": "ec-",
+          "date": "2017-09-17T19:28:52.000Z",
+          "message": "Add \\g_predictPVS - try to predict PVS to avoid \"sudden\" enemy and items spawns causes by client lag (i.e. delayed PVS checks on server-side)  for example, this can be observed on q3dm11 when moving from Slime Halls to Arch Room",
+          "linesAdded": 67,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "code/game/g_active.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_public.h",
+            "code/game/g_syscalls.c"
+          ]
+        }
+      ]
+    },
+    "2017-09-16": {
+      "date": "2017-09-16",
+      "heatScore": 10,
+      "linesChanged": 3,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "17ba94fbde7789e7c3342657b077d21d529e2f86",
+          "author": "ec-",
+          "date": "2017-09-16T09:30:15.000Z",
+          "message": "Fix TAB closing console in 1.32c",
+          "linesAdded": 3,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/cgame/cg_main.c"
+          ]
+        }
+      ]
+    },
+    "2017-09-14": {
+      "date": "2017-09-14",
+      "heatScore": 10,
+      "linesChanged": 4,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/q3_ui/ui_qmenu.c"
+      ],
+      "commits": [
+        {
+          "hash": "c308c0914faafd724e065d67ad5cc82fd5d93557",
+          "author": "ec-",
+          "date": "2017-09-14T14:30:16.000Z",
+          "message": "Swap ui debug and ui screenshot keys so screenshot now F11 like in default config for cgame",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/q3_ui/ui_qmenu.c"
+          ]
+        }
+      ]
+    },
+    "2017-09-08": {
+      "date": "2017-09-08",
+      "heatScore": 25,
+      "linesChanged": 235,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "docs/client.txt",
+        "docs/rotation.txt",
+        "docs/server.txt"
+      ],
+      "commits": [
+        {
+          "hash": "d6eb6ab5d21e22d55f7fb729bb9f7d50596e3eff",
+          "author": "ec-",
+          "date": "2017-09-08T18:59:21.000Z",
+          "message": "Add some documentation, update description",
+          "linesAdded": 234,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "README.md",
+            "docs/client.txt",
+            "docs/rotation.txt",
+            "docs/server.txt"
+          ]
+        }
+      ]
+    },
+    "2017-09-07": {
+      "date": "2017-09-07",
+      "heatScore": 40,
+      "linesChanged": 451,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/icons/envirosuit.tga",
+        "assets/icons/flight.tga",
+        "assets/icons/haste.tga",
+        "assets/icons/icona_bfg.tga",
+        "assets/icons/icona_grenade.tga",
+        "assets/icons/icona_lightning.tga",
+        "assets/icons/icona_machinegun.tga",
+        "assets/icons/icona_plasma.tga",
+        "assets/icons/icona_railgun.tga",
+        "assets/icons/icona_rocket.tga",
+        "assets/icons/icona_shotgun.tga",
+        "assets/icons/iconf_blu.tga",
+        "assets/icons/iconf_blu1.tga",
+        "assets/icons/iconf_blu2.tga",
+        "assets/icons/iconf_blu3.tga",
+        "assets/icons/iconf_blu4.tga",
+        "assets/icons/iconf_neutral1.tga",
+        "assets/icons/iconf_neutral3.tga",
+        "assets/icons/iconf_red.tga",
+        "assets/icons/iconf_red1.tga",
+        "assets/icons/iconf_red2.tga",
+        "assets/icons/iconf_red3.tga",
+        "assets/icons/iconf_red4.tga",
+        "assets/icons/iconh_borb.tga",
+        "assets/icons/iconh_green.tga",
+        "assets/icons/iconh_mega.tga",
+        "assets/icons/iconh_red.tga",
+        "assets/icons/iconh_rorb.tga",
+        "assets/icons/iconh_yellow.tga",
+        "assets/icons/iconr_green.tga",
+        "assets/icons/iconr_red.tga",
+        "assets/icons/iconr_shard.tga",
+        "assets/icons/iconr_yellow.tga",
+        "assets/icons/icont_bfg.tga",
+        "assets/icons/icont_gauntlet.tga",
+        "assets/icons/icont_grapple.tga",
+        "assets/icons/icont_grenade.tga",
+        "assets/icons/icont_lightning.tga",
+        "assets/icons/icont_machinegun.tga",
+        "assets/icons/icont_plasma.tga",
+        "assets/icons/icont_railgun.tga",
+        "assets/icons/icont_rocket.tga",
+        "assets/icons/icont_shotgun.tga",
+        "assets/icons/iconw_bfg.tga",
+        "assets/icons/iconw_gauntlet.tga",
+        "assets/icons/iconw_grapple.tga",
+        "assets/icons/iconw_grapple_hr.tga",
+        "assets/icons/iconw_grenade.tga",
+        "assets/icons/iconw_lightning.tga",
+        "assets/icons/iconw_machinegun.tga",
+        "assets/icons/iconw_plasma.tga",
+        "assets/icons/iconw_railgun.tga",
+        "assets/icons/iconw_rocket.tga",
+        "assets/icons/iconw_shotgun.tga",
+        "assets/icons/invis.tga",
+        "assets/icons/medkit.tga",
+        "assets/icons/noammo.tga",
+        "assets/icons/quad.tga",
+        "assets/icons/regen.tga",
+        "assets/icons/skull_blue.tga",
+        "assets/icons/skull_red.tga",
+        "assets/icons/teleporter.tga",
+        "assets/scripts/iconsdf.shaderx",
+        "code/cgame/cg_ents.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_weapons.c"
+      ],
+      "commits": [
+        {
+          "hash": "cc779b9018dba7ab263a1ac31de5096de813fb46",
+          "author": "ec-",
+          "date": "2017-09-07T11:25:47.000Z",
+          "message": "Add high resolution 2d-icons provided by @ZerTero Add separate depth-fragment shaders for world' 2d-icons - to fix all known issues (rendering order, transparency, etc.) with them",
+          "linesAdded": 450,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "assets/icons/envirosuit.tga",
+            "assets/icons/flight.tga",
+            "assets/icons/haste.tga",
+            "assets/icons/icona_bfg.tga",
+            "assets/icons/icona_grenade.tga",
+            "assets/icons/icona_lightning.tga",
+            "assets/icons/icona_machinegun.tga",
+            "assets/icons/icona_plasma.tga",
+            "assets/icons/icona_railgun.tga",
+            "assets/icons/icona_rocket.tga",
+            "assets/icons/icona_shotgun.tga",
+            "assets/icons/iconf_blu.tga",
+            "assets/icons/iconf_blu1.tga",
+            "assets/icons/iconf_blu2.tga",
+            "assets/icons/iconf_blu3.tga",
+            "assets/icons/iconf_blu4.tga",
+            "assets/icons/iconf_neutral1.tga",
+            "assets/icons/iconf_neutral3.tga",
+            "assets/icons/iconf_red.tga",
+            "assets/icons/iconf_red1.tga",
+            "assets/icons/iconf_red2.tga",
+            "assets/icons/iconf_red3.tga",
+            "assets/icons/iconf_red4.tga",
+            "assets/icons/iconh_borb.tga",
+            "assets/icons/iconh_green.tga",
+            "assets/icons/iconh_mega.tga",
+            "assets/icons/iconh_red.tga",
+            "assets/icons/iconh_rorb.tga",
+            "assets/icons/iconh_yellow.tga",
+            "assets/icons/iconr_green.tga",
+            "assets/icons/iconr_red.tga",
+            "assets/icons/iconr_shard.tga",
+            "assets/icons/iconr_yellow.tga",
+            "assets/icons/icont_bfg.tga",
+            "assets/icons/icont_gauntlet.tga",
+            "assets/icons/icont_grapple.tga",
+            "assets/icons/icont_grenade.tga",
+            "assets/icons/icont_lightning.tga",
+            "assets/icons/icont_machinegun.tga",
+            "assets/icons/icont_plasma.tga",
+            "assets/icons/icont_railgun.tga",
+            "assets/icons/icont_rocket.tga",
+            "assets/icons/icont_shotgun.tga",
+            "assets/icons/iconw_bfg.tga",
+            "assets/icons/iconw_gauntlet.tga",
+            "assets/icons/iconw_grapple.tga",
+            "assets/icons/iconw_grapple_hr.tga",
+            "assets/icons/iconw_grenade.tga",
+            "assets/icons/iconw_lightning.tga",
+            "assets/icons/iconw_machinegun.tga",
+            "assets/icons/iconw_plasma.tga",
+            "assets/icons/iconw_railgun.tga",
+            "assets/icons/iconw_rocket.tga",
+            "assets/icons/iconw_shotgun.tga",
+            "assets/icons/invis.tga",
+            "assets/icons/medkit.tga",
+            "assets/icons/noammo.tga",
+            "assets/icons/quad.tga",
+            "assets/icons/regen.tga",
+            "assets/icons/skull_blue.tga",
+            "assets/icons/skull_red.tga",
+            "assets/icons/teleporter.tga",
+            "assets/scripts/iconsdf.shaderx",
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_weapons.c"
+          ]
+        }
+      ]
+    },
+    "2017-09-06": {
+      "date": "2017-09-06",
+      "heatScore": 10,
+      "linesChanged": 6,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_players.c"
+      ],
+      "commits": [
+        {
+          "hash": "042e9ae2eabbd46ff58c4fa3156a47fc437833d6",
+          "author": "ec-",
+          "date": "2017-09-06T12:26:45.000Z",
+          "message": "Fix own colors is not set in-game because of cg_teamColors Always use cg_teamColors [4] and [5] during demo playback",
+          "linesAdded": 4,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/cgame/cg_players.c"
+          ]
+        }
+      ]
+    },
+    "2017-09-05": {
+      "date": "2017-09-05",
+      "heatScore": 18,
+      "linesChanged": 134,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_active.c",
+        "code/game/g_bot.c",
+        "code/game/g_main.c",
+        "code/game/g_team.c",
+        "code/game/g_team.h"
+      ],
+      "commits": [
+        {
+          "hash": "b50546ad0178df23461795183521ec1bfc116496",
+          "author": "ec-",
+          "date": "2017-09-05T18:32:30.000Z",
+          "message": "Fix flags respawn on warmup end Fix crash caused by not updated pmove_msec cvar Reduce string buffers in TeamplayInfoMessage() Code cleanup",
+          "linesAdded": 80,
+          "linesDeleted": 54,
+          "filesChanged": [
+            "code/game/g_active.c",
+            "code/game/g_bot.c",
+            "code/game/g_main.c",
+            "code/game/g_team.c",
+            "code/game/g_team.h"
+          ]
+        }
+      ]
+    },
+    "2017-09-04": {
+      "date": "2017-09-04",
+      "heatScore": 12,
+      "linesChanged": 35,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_view.c",
+        "code/cgame/cg_weapons.c"
+      ],
+      "commits": [
+        {
+          "hash": "5ef16bb6d8bc515d463249e37a601f628068c9bb",
+          "author": "ec-",
+          "date": "2017-09-04T19:50:04.000Z",
+          "message": "Move gun forward at lowerer fov Add \\cg_fovAdjust - to automatically rescale cg_fov from desired 4x3 screen ratio to widescreen resolution",
+          "linesAdded": 25,
+          "linesDeleted": 10,
+          "filesChanged": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_view.c",
+            "code/cgame/cg_weapons.c"
+          ]
+        }
+      ]
+    },
+    "2017-09-01": {
+      "date": "2017-09-01",
+      "heatScore": 10,
+      "linesChanged": 7,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_consolecmds.c",
+        "code/cgame/cg_scoreboard.c"
+      ],
+      "commits": [
+        {
+          "hash": "81f879d1f9fb9922f12e0c732cb41cdd4aa2c37c",
+          "author": "ec-",
+          "date": "2017-09-01T21:13:27.000Z",
+          "message": "Always show available scores during demo playback Fix scoreboard fade",
+          "linesAdded": 4,
+          "linesDeleted": 3,
+          "filesChanged": [
+            "code/cgame/cg_consolecmds.c",
+            "code/cgame/cg_scoreboard.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-31": {
+      "date": "2017-08-31",
+      "heatScore": 40,
+      "linesChanged": 456,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_draw.c",
+        "code/cgame/cg_drawtools.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_playerstate.c",
+        "code/cgame/cg_scoreboard.c",
+        "code/cgame/cg_weapons.c"
+      ],
+      "commits": [
+        {
+          "hash": "aa8dac0e13b2c149b6d196882482e8e1429bc8ab",
+          "author": "ec-",
+          "date": "2017-08-31T18:26:34.000Z",
+          "message": "Use single CG_DrawString() wrapper to draw all strings Code cleanup",
+          "linesAdded": 204,
+          "linesDeleted": 252,
+          "filesChanged": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_drawtools.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_playerstate.c",
+            "code/cgame/cg_scoreboard.c",
+            "code/cgame/cg_weapons.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-25": {
+      "date": "2017-08-25",
+      "heatScore": 10,
+      "linesChanged": 12,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_snapshot.c"
+      ],
+      "commits": [
+        {
+          "hash": "f6d35e4c2aef3aace2fbe9ae36397bbf8af6da8f",
+          "author": "ec-",
+          "date": "2017-08-25T15:37:55.000Z",
+          "message": "Fix OSP demo playback",
+          "linesAdded": 11,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_snapshot.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-18": {
+      "date": "2017-08-18",
+      "heatScore": 14,
+      "linesChanged": 69,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_draw.c",
+        "code/cgame/cg_drawtools.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_servercmds.c",
+        "code/cgame/cg_view.c"
+      ],
+      "commits": [
+        {
+          "hash": "501bd67affc3381801979c4aa624ae1fbd8f46e4",
+          "author": "ec-",
+          "date": "2017-08-18T08:40:30.000Z",
+          "message": "Fix FIGHT sounds during demo playback Reduce pickup icon and text size",
+          "linesAdded": 53,
+          "linesDeleted": 16,
+          "filesChanged": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_drawtools.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_view.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-16": {
+      "date": "2017-08-16",
+      "heatScore": 11,
+      "linesChanged": 27,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_localents.c",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_syscalls.c"
+      ],
+      "commits": [
+        {
+          "hash": "d4e2c6b413c3988b5bc6ee56908fcb9f70af58e8",
+          "author": "ec-",
+          "date": "2017-08-16T18:06:51.000Z",
+          "message": "Use trap_R_AddLinearLightToScene for rail trails if available Add \\cg_railTrailRadius - to control linear light radius",
+          "linesAdded": 27,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_localents.c",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_syscalls.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-11": {
+      "date": "2017-08-11",
+      "heatScore": 12,
+      "linesChanged": 30,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_draw.c",
+        "code/cgame/cg_event.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_weapons.c"
+      ],
+      "commits": [
+        {
+          "hash": "69c9b67b4bc1fc0297f6a61fe89c74825f6be2d3",
+          "author": "ec-",
+          "date": "2017-08-11T13:34:24.000Z",
+          "message": "Add item pickup counter Slightly increase font color for ammo counters and remove text shadows",
+          "linesAdded": 26,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_weapons.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-10": {
+      "date": "2017-08-10",
+      "heatScore": 10,
+      "linesChanged": 4,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_items.c"
+      ],
+      "commits": [
+        {
+          "hash": "f5dc0f2beeb5ddbdab836a0f5a5631d1cd99bda8",
+          "author": "ec-",
+          "date": "2017-08-10T18:43:03.000Z",
+          "message": "Fix weapon respawn times",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/game/g_items.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-09": {
+      "date": "2017-08-09",
+      "heatScore": 13,
+      "linesChanged": 56,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_draw.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "3eb20d5f08870e229349346e3d55d32e83952f0e",
+          "author": "ec-",
+          "date": "2017-08-09T11:36:00.000Z",
+          "message": "Add \\cg_drawSpeed Code cleanup",
+          "linesAdded": 46,
+          "linesDeleted": 10,
+          "filesChanged": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-07": {
+      "date": "2017-08-07",
+      "heatScore": 11,
+      "linesChanged": 15,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_draw.c",
+        "code/cgame/cg_event.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_predict.c",
+        "code/cgame/cg_servercmds.c",
+        "code/cgame/cg_snapshot.c"
+      ],
+      "commits": [
+        {
+          "hash": "812aa6ac72dbccb50cc1f67a254f5922062ec0b3",
+          "author": "ec-",
+          "date": "2017-08-07T18:28:40.000Z",
+          "message": "Read g_synchronousClients directly from systeminfo, not cvar",
+          "linesAdded": 8,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_predict.c",
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_snapshot.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-06": {
+      "date": "2017-08-06",
+      "heatScore": 10,
+      "linesChanged": 10,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/q3_ui/ui_players.c"
+      ],
+      "commits": [
+        {
+          "hash": "714c37c29e9cc984022aff6ae42d4fc875219fee",
+          "author": "ec-",
+          "date": "2017-08-06T19:00:50.000Z",
+          "message": "Fix animation parsing for UI",
+          "linesAdded": 10,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/q3_ui/ui_players.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-04": {
+      "date": "2017-08-04",
+      "heatScore": 13,
+      "linesChanged": 51,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_players.c"
+      ],
+      "commits": [
+        {
+          "hash": "bd261fb5ea5db1e0463371c4816b96f796b4ef6f",
+          "author": "ec-",
+          "date": "2017-08-04T20:07:28.000Z",
+          "message": "Add \\cg_deadBodyDarken, enabled by default, works together with \\cg_enemyModel",
+          "linesAdded": 41,
+          "linesDeleted": 10,
+          "filesChanged": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_players.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-03": {
+      "date": "2017-08-03",
+      "heatScore": 100,
+      "linesChanged": 1687,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "assets/models/players/anarki/color.tga",
+        "assets/models/players/anarki/color_h.tga",
+        "assets/models/players/anarki/color_x.tga",
+        "assets/models/players/anarki/head_pm.skin",
+        "assets/models/players/anarki/icon_pm.tga",
+        "assets/models/players/anarki/lower_pm.skin",
+        "assets/models/players/anarki/upper_pm.skin",
+        "assets/models/players/biker/color.tga",
+        "assets/models/players/biker/color_h.tga",
+        "assets/models/players/biker/head_pm.skin",
+        "assets/models/players/biker/icon_pm.tga",
+        "assets/models/players/biker/lower_pm.skin",
+        "assets/models/players/biker/upper_pm.skin",
+        "assets/models/players/bitterman/color.tga",
+        "assets/models/players/bitterman/color_h.tga",
+        "assets/models/players/bitterman/head_pm.skin",
+        "assets/models/players/bitterman/icon_pm.tga",
+        "assets/models/players/bitterman/lower_pm.skin",
+        "assets/models/players/bitterman/upper_pm.skin",
+        "assets/models/players/bones/color.tga",
+        "assets/models/players/bones/head_pm.skin",
+        "assets/models/players/bones/icon_pm.tga",
+        "assets/models/players/bones/lower_pm.skin",
+        "assets/models/players/bones/upper_pm.skin",
+        "assets/models/players/crash/color.tga",
+        "assets/models/players/crash/head_pm.skin",
+        "assets/models/players/crash/icon_pm.tga",
+        "assets/models/players/crash/lower_pm.skin",
+        "assets/models/players/crash/upper_pm.skin",
+        "assets/models/players/doom/color.tga",
+        "assets/models/players/doom/head_pm.skin",
+        "assets/models/players/doom/icon_pm.tga",
+        "assets/models/players/doom/lower_pm.skin",
+        "assets/models/players/doom/upper_pm.skin",
+        "assets/models/players/grunt/color.tga",
+        "assets/models/players/grunt/color_h.tga",
+        "assets/models/players/grunt/head_pm.skin",
+        "assets/models/players/grunt/icon_pm.tga",
+        "assets/models/players/grunt/lower_pm.skin",
+        "assets/models/players/grunt/upper_pm.skin",
+        "assets/models/players/hunter/color.tga",
+        "assets/models/players/hunter/color_h.tga",
+        "assets/models/players/hunter/color_x.tga",
+        "assets/models/players/hunter/head_pm.skin",
+        "assets/models/players/hunter/icon_pm.tga",
+        "assets/models/players/hunter/lower_pm.skin",
+        "assets/models/players/hunter/upper_pm.skin",
+        "assets/models/players/keel/color.tga",
+        "assets/models/players/keel/color_h.tga",
+        "assets/models/players/keel/head_pm.skin",
+        "assets/models/players/keel/icon_pm.tga",
+        "assets/models/players/keel/lower_pm.skin",
+        "assets/models/players/keel/upper_pm.skin",
+        "assets/models/players/klesk/color.tga",
+        "assets/models/players/klesk/color_h.tga",
+        "assets/models/players/klesk/head_pm.skin",
+        "assets/models/players/klesk/icon_pm.tga",
+        "assets/models/players/klesk/lower_pm.skin",
+        "assets/models/players/klesk/upper_pm.skin",
+        "assets/models/players/lucy/color.tga",
+        "assets/models/players/lucy/color_h.tga",
+        "assets/models/players/lucy/head_pm.skin",
+        "assets/models/players/lucy/icon_pm.tga",
+        "assets/models/players/lucy/lower_pm.skin",
+        "assets/models/players/lucy/upper_pm.skin",
+        "assets/models/players/major/color.tga",
+        "assets/models/players/major/color_h.tga",
+        "assets/models/players/major/head_pm.skin",
+        "assets/models/players/major/icon_pm.tga",
+        "assets/models/players/major/lower_pm.skin",
+        "assets/models/players/major/upper_pm.skin",
+        "assets/models/players/mynx/color.tga",
+        "assets/models/players/mynx/color_h.tga",
+        "assets/models/players/mynx/color_x.tga",
+        "assets/models/players/mynx/head_pm.skin",
+        "assets/models/players/mynx/icon_pm.tga",
+        "assets/models/players/mynx/lower_pm.skin",
+        "assets/models/players/mynx/upper_pm.skin",
+        "assets/models/players/orbb/color.tga",
+        "assets/models/players/orbb/color_h.tga",
+        "assets/models/players/orbb/head_pm.skin",
+        "assets/models/players/orbb/icon_pm.tga",
+        "assets/models/players/orbb/lower_pm.skin",
+        "assets/models/players/orbb/upper_pm.skin",
+        "assets/models/players/ranger/color.tga",
+        "assets/models/players/ranger/color_h.tga",
+        "assets/models/players/ranger/head_pm.skin",
+        "assets/models/players/ranger/icon_pm.tga",
+        "assets/models/players/ranger/lower_pm.skin",
+        "assets/models/players/ranger/upper_pm.skin",
+        "assets/models/players/razor/color.tga",
+        "assets/models/players/razor/color_h.tga",
+        "assets/models/players/razor/head_pm.skin",
+        "assets/models/players/razor/icon_pm.tga",
+        "assets/models/players/razor/lower_pm.skin",
+        "assets/models/players/razor/upper_pm.skin",
+        "assets/models/players/sarge/color.tga",
+        "assets/models/players/sarge/head_pm.skin",
+        "assets/models/players/sarge/icon_pm.tga",
+        "assets/models/players/sarge/lower_pm.skin",
+        "assets/models/players/sarge/upper_pm.skin",
+        "assets/models/players/slash/color.tga",
+        "assets/models/players/slash/color_h.tga",
+        "assets/models/players/slash/color_skates.tga",
+        "assets/models/players/slash/head_pm.skin",
+        "assets/models/players/slash/icon_pm.tga",
+        "assets/models/players/slash/lower_pm.skin",
+        "assets/models/players/slash/upper_pm.skin",
+        "assets/models/players/sorlag/color.tga",
+        "assets/models/players/sorlag/head_pm.skin",
+        "assets/models/players/sorlag/icon_pm.tga",
+        "assets/models/players/sorlag/lower_pm.skin",
+        "assets/models/players/sorlag/upper_pm.skin",
+        "assets/models/players/tankjr/color.tga",
+        "assets/models/players/tankjr/head_pm.skin",
+        "assets/models/players/tankjr/icon_pm.tga",
+        "assets/models/players/tankjr/lower_pm.skin",
+        "assets/models/players/tankjr/upper_pm.skin",
+        "assets/models/players/uriel/color.tga",
+        "assets/models/players/uriel/color_h.tga",
+        "assets/models/players/uriel/color_x.tga",
+        "assets/models/players/uriel/head_pm.skin",
+        "assets/models/players/uriel/icon_pm.tga",
+        "assets/models/players/uriel/lower_pm.skin",
+        "assets/models/players/uriel/upper_pm.skin",
+        "assets/models/players/visor/color.tga",
+        "assets/models/players/visor/head_pm.skin",
+        "assets/models/players/visor/icon_pm.tga",
+        "assets/models/players/visor/lower_pm.skin",
+        "assets/models/players/visor/upper_pm.skin",
+        "assets/models/players/xaero/color.tga",
+        "assets/models/players/xaero/color_h.tga",
+        "assets/models/players/xaero/head_pm.skin",
+        "assets/models/players/xaero/icon_pm.tga",
+        "assets/models/players/xaero/lower_pm.skin",
+        "assets/models/players/xaero/upper_pm.skin",
+        "assets/scripts/players.shader",
+        "code/cgame/cg_draw.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_players.c",
+        "code/cgame/cg_servercmds.c",
+        "code/cgame/cg_view.c",
+        "code/game/bg_local.h",
+        "code/game/bg_misc.c",
+        "code/game/bg_public.h"
+      ],
+      "commits": [
+        {
+          "hash": "201550e88d4b594a2ed526d0d620dd6a327a890c",
+          "author": "ec-",
+          "date": "2017-08-03T20:02:04.000Z",
+          "message": "Add colored skins support:  \\cg_enemyModel - sets model, use model from known list or \"pm\"  \\cg_enemyColors - triplet, sets enemy color for head, torso and legs, works only if enemy model is set, use '?' char to set team color Track client and team change and reset player entity to avoid unneeded transition effects",
+          "linesAdded": 1551,
+          "linesDeleted": 136,
+          "filesChanged": [
+            "README.md",
+            "assets/models/players/anarki/color.tga",
+            "assets/models/players/anarki/color_h.tga",
+            "assets/models/players/anarki/color_x.tga",
+            "assets/models/players/anarki/head_pm.skin",
+            "assets/models/players/anarki/icon_pm.tga",
+            "assets/models/players/anarki/lower_pm.skin",
+            "assets/models/players/anarki/upper_pm.skin",
+            "assets/models/players/biker/color.tga",
+            "assets/models/players/biker/color_h.tga",
+            "assets/models/players/biker/head_pm.skin",
+            "assets/models/players/biker/icon_pm.tga",
+            "assets/models/players/biker/lower_pm.skin",
+            "assets/models/players/biker/upper_pm.skin",
+            "assets/models/players/bitterman/color.tga",
+            "assets/models/players/bitterman/color_h.tga",
+            "assets/models/players/bitterman/head_pm.skin",
+            "assets/models/players/bitterman/icon_pm.tga",
+            "assets/models/players/bitterman/lower_pm.skin",
+            "assets/models/players/bitterman/upper_pm.skin",
+            "assets/models/players/bones/color.tga",
+            "assets/models/players/bones/head_pm.skin",
+            "assets/models/players/bones/icon_pm.tga",
+            "assets/models/players/bones/lower_pm.skin",
+            "assets/models/players/bones/upper_pm.skin",
+            "assets/models/players/crash/color.tga",
+            "assets/models/players/crash/head_pm.skin",
+            "assets/models/players/crash/icon_pm.tga",
+            "assets/models/players/crash/lower_pm.skin",
+            "assets/models/players/crash/upper_pm.skin",
+            "assets/models/players/doom/color.tga",
+            "assets/models/players/doom/head_pm.skin",
+            "assets/models/players/doom/icon_pm.tga",
+            "assets/models/players/doom/lower_pm.skin",
+            "assets/models/players/doom/upper_pm.skin",
+            "assets/models/players/grunt/color.tga",
+            "assets/models/players/grunt/color_h.tga",
+            "assets/models/players/grunt/head_pm.skin",
+            "assets/models/players/grunt/icon_pm.tga",
+            "assets/models/players/grunt/lower_pm.skin",
+            "assets/models/players/grunt/upper_pm.skin",
+            "assets/models/players/hunter/color.tga",
+            "assets/models/players/hunter/color_h.tga",
+            "assets/models/players/hunter/color_x.tga",
+            "assets/models/players/hunter/head_pm.skin",
+            "assets/models/players/hunter/icon_pm.tga",
+            "assets/models/players/hunter/lower_pm.skin",
+            "assets/models/players/hunter/upper_pm.skin",
+            "assets/models/players/keel/color.tga",
+            "assets/models/players/keel/color_h.tga",
+            "assets/models/players/keel/head_pm.skin",
+            "assets/models/players/keel/icon_pm.tga",
+            "assets/models/players/keel/lower_pm.skin",
+            "assets/models/players/keel/upper_pm.skin",
+            "assets/models/players/klesk/color.tga",
+            "assets/models/players/klesk/color_h.tga",
+            "assets/models/players/klesk/head_pm.skin",
+            "assets/models/players/klesk/icon_pm.tga",
+            "assets/models/players/klesk/lower_pm.skin",
+            "assets/models/players/klesk/upper_pm.skin",
+            "assets/models/players/lucy/color.tga",
+            "assets/models/players/lucy/color_h.tga",
+            "assets/models/players/lucy/head_pm.skin",
+            "assets/models/players/lucy/icon_pm.tga",
+            "assets/models/players/lucy/lower_pm.skin",
+            "assets/models/players/lucy/upper_pm.skin",
+            "assets/models/players/major/color.tga",
+            "assets/models/players/major/color_h.tga",
+            "assets/models/players/major/head_pm.skin",
+            "assets/models/players/major/icon_pm.tga",
+            "assets/models/players/major/lower_pm.skin",
+            "assets/models/players/major/upper_pm.skin",
+            "assets/models/players/mynx/color.tga",
+            "assets/models/players/mynx/color_h.tga",
+            "assets/models/players/mynx/color_x.tga",
+            "assets/models/players/mynx/head_pm.skin",
+            "assets/models/players/mynx/icon_pm.tga",
+            "assets/models/players/mynx/lower_pm.skin",
+            "assets/models/players/mynx/upper_pm.skin",
+            "assets/models/players/orbb/color.tga",
+            "assets/models/players/orbb/color_h.tga",
+            "assets/models/players/orbb/head_pm.skin",
+            "assets/models/players/orbb/icon_pm.tga",
+            "assets/models/players/orbb/lower_pm.skin",
+            "assets/models/players/orbb/upper_pm.skin",
+            "assets/models/players/ranger/color.tga",
+            "assets/models/players/ranger/color_h.tga",
+            "assets/models/players/ranger/head_pm.skin",
+            "assets/models/players/ranger/icon_pm.tga",
+            "assets/models/players/ranger/lower_pm.skin",
+            "assets/models/players/ranger/upper_pm.skin",
+            "assets/models/players/razor/color.tga",
+            "assets/models/players/razor/color_h.tga",
+            "assets/models/players/razor/head_pm.skin",
+            "assets/models/players/razor/icon_pm.tga",
+            "assets/models/players/razor/lower_pm.skin",
+            "assets/models/players/razor/upper_pm.skin",
+            "assets/models/players/sarge/color.tga",
+            "assets/models/players/sarge/head_pm.skin",
+            "assets/models/players/sarge/icon_pm.tga",
+            "assets/models/players/sarge/lower_pm.skin",
+            "assets/models/players/sarge/upper_pm.skin",
+            "assets/models/players/slash/color.tga",
+            "assets/models/players/slash/color_h.tga",
+            "assets/models/players/slash/color_skates.tga",
+            "assets/models/players/slash/head_pm.skin",
+            "assets/models/players/slash/icon_pm.tga",
+            "assets/models/players/slash/lower_pm.skin",
+            "assets/models/players/slash/upper_pm.skin",
+            "assets/models/players/sorlag/color.tga",
+            "assets/models/players/sorlag/head_pm.skin",
+            "assets/models/players/sorlag/icon_pm.tga",
+            "assets/models/players/sorlag/lower_pm.skin",
+            "assets/models/players/sorlag/upper_pm.skin",
+            "assets/models/players/tankjr/color.tga",
+            "assets/models/players/tankjr/head_pm.skin",
+            "assets/models/players/tankjr/icon_pm.tga",
+            "assets/models/players/tankjr/lower_pm.skin",
+            "assets/models/players/tankjr/upper_pm.skin",
+            "assets/models/players/uriel/color.tga",
+            "assets/models/players/uriel/color_h.tga",
+            "assets/models/players/uriel/color_x.tga",
+            "assets/models/players/uriel/head_pm.skin",
+            "assets/models/players/uriel/icon_pm.tga",
+            "assets/models/players/uriel/lower_pm.skin",
+            "assets/models/players/uriel/upper_pm.skin",
+            "assets/models/players/visor/color.tga",
+            "assets/models/players/visor/head_pm.skin",
+            "assets/models/players/visor/icon_pm.tga",
+            "assets/models/players/visor/lower_pm.skin",
+            "assets/models/players/visor/upper_pm.skin",
+            "assets/models/players/xaero/color.tga",
+            "assets/models/players/xaero/color_h.tga",
+            "assets/models/players/xaero/head_pm.skin",
+            "assets/models/players/xaero/icon_pm.tga",
+            "assets/models/players/xaero/lower_pm.skin",
+            "assets/models/players/xaero/upper_pm.skin",
+            "assets/scripts/players.shader",
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_players.c",
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_view.c",
+            "code/game/bg_local.h",
+            "code/game/bg_misc.c",
+            "code/game/bg_public.h"
+          ]
+        }
+      ]
+    },
+    "2017-08-02": {
+      "date": "2017-08-02",
+      "heatScore": 74,
+      "linesChanged": 967,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_draw.c",
+        "code/cgame/cg_ents.c",
+        "code/cgame/cg_event.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_marks.c",
+        "code/cgame/cg_playerstate.c",
+        "code/cgame/cg_predict.c",
+        "code/cgame/cg_view.c",
+        "code/game/bg_misc.c",
+        "code/game/bg_pmove.c",
+        "code/game/bg_public.h",
+        "code/game/g_active.c",
+        "code/game/g_client.c",
+        "code/game/g_combat.c",
+        "code/game/g_items.c",
+        "code/game/g_utils.c"
+      ],
+      "commits": [
+        {
+          "hash": "62f995db7c23e9762ce2c26f61f58bd4ee1b905b",
+          "author": "ec-",
+          "date": "2017-08-02T13:57:45.000Z",
+          "message": "Add optimized client-side prediction Locally predict weapon/ammo/armor/health/powerups pickups Fix picked up items appearing for a fraction of second right after pickup Delay item pickup after respawn Filter jump/pain events to avoid duplicates/sound distortion Try to play potentially dropped events Print ping in top-left corner of lagometer, fix \"snc\" label position Code cleanup",
+          "linesAdded": 833,
+          "linesDeleted": 134,
+          "filesChanged": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_marks.c",
+            "code/cgame/cg_playerstate.c",
+            "code/cgame/cg_predict.c",
+            "code/cgame/cg_view.c",
+            "code/game/bg_misc.c",
+            "code/game/bg_pmove.c",
+            "code/game/bg_public.h",
+            "code/game/g_active.c",
+            "code/game/g_client.c",
+            "code/game/g_combat.c",
+            "code/game/g_items.c",
+            "code/game/g_utils.c"
+          ]
+        }
+      ]
+    },
+    "2017-08-01": {
+      "date": "2017-08-01",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_scoreboard.c"
+      ],
+      "commits": [
+        {
+          "hash": "e15b28282ad827d795204da6bdf3e4d8d4d4ee72",
+          "author": "ec-",
+          "date": "2017-08-01T09:55:42.000Z",
+          "message": "Do not display disconnected players on scoreboard",
+          "linesAdded": 2,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/cgame/cg_scoreboard.c"
+          ]
+        }
+      ]
+    },
+    "2017-07-31": {
+      "date": "2017-07-31",
+      "heatScore": 13,
+      "linesChanged": 45,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_client.c"
+      ],
+      "commits": [
+        {
+          "hash": "eda67bd0eeceb72b82649ac77519ebe2b9972824",
+          "author": "ec-",
+          "date": "2017-07-31T19:12:55.000Z",
+          "message": "Fix client connection Fix redundant connection messages",
+          "linesAdded": 25,
+          "linesDeleted": 20,
+          "filesChanged": [
+            "code/game/g_client.c"
+          ]
+        }
+      ]
+    },
+    "2017-07-28": {
+      "date": "2017-07-28",
+      "heatScore": 11,
+      "linesChanged": 29,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_servercmds.c",
+        "code/cgame/cg_view.c"
+      ],
+      "commits": [
+        {
+          "hash": "a2f6de0873a404665e08e9fe60827838388cb196",
+          "author": "ec-",
+          "date": "2017-07-28T14:29:30.000Z",
+          "message": "Fix missing vote after \\vid_restart",
+          "linesAdded": 29,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_view.c"
+          ]
+        }
+      ]
+    },
+    "2017-07-25": {
+      "date": "2017-07-25",
+      "heatScore": 10,
+      "linesChanged": 9,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_missile.c"
+      ],
+      "commits": [
+        {
+          "hash": "77fe4919e67926bd9639377968e2ba3d93b7321e",
+          "author": "ec-",
+          "date": "2017-07-25T12:17:24.000Z",
+          "message": "Add quad shader to corresponding projectiles",
+          "linesAdded": 9,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/game/g_missile.c"
+          ]
+        }
+      ]
+    },
+    "2017-07-24": {
+      "date": "2017-07-24",
+      "heatScore": 20,
+      "linesChanged": 150,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/ai_dmq3.c",
+        "code/game/ai_dmq3.h",
+        "code/game/g_client.c",
+        "code/game/g_cmds.c",
+        "code/game/g_local.h",
+        "code/game/g_main.c",
+        "code/game/g_session.c",
+        "code/game/g_svcmds.c",
+        "code/game/g_target.c",
+        "code/game/g_team.c",
+        "code/game/g_team.h"
+      ],
+      "commits": [
+        {
+          "hash": "0fbee267f296221e5aca92e14895fe95a311f303",
+          "author": "ec-",
+          "date": "2017-07-24T17:24:42.000Z",
+          "message": "Mute all prints for connecting clients to avoid potential command overflow Move some prints at ClientBegin stage so they're became really visible for target client Code cleanup",
+          "linesAdded": 81,
+          "linesDeleted": 69,
+          "filesChanged": [
+            "code/game/ai_dmq3.c",
+            "code/game/ai_dmq3.h",
+            "code/game/g_client.c",
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_session.c",
+            "code/game/g_svcmds.c",
+            "code/game/g_target.c",
+            "code/game/g_team.c",
+            "code/game/g_team.h"
+          ]
+        }
+      ]
+    },
+    "2017-07-22": {
+      "date": "2017-07-22",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_rotation.c"
+      ],
+      "commits": [
+        {
+          "hash": "1f2c3d2a351856035d2602b72cf2498b269fce42",
+          "author": "ec-",
+          "date": "2017-07-22T12:33:22.000Z",
+          "message": "Fix empty g_rotation string",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/game/g_rotation.c"
+          ]
+        }
+      ]
+    },
+    "2017-07-17": {
+      "date": "2017-07-17",
+      "heatScore": 40,
+      "linesChanged": 453,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/q3_ui/ui_atoms.c",
+        "code/q3_ui/ui_demo2.c",
+        "code/q3_ui/ui_servers2.c"
+      ],
+      "commits": [
+        {
+          "hash": "985f5009b0541a1e5cf41e55748fc262b0d8496a",
+          "author": "ec-",
+          "date": "2017-07-17T10:50:40.000Z",
+          "message": "Unlock all options during refresh in server browser, also now mod grabs full server list and sorts items on the fly Add filtering by server name in server browser Fix UI debug cursor positions",
+          "linesAdded": 283,
+          "linesDeleted": 170,
+          "filesChanged": [
+            "code/q3_ui/ui_atoms.c",
+            "code/q3_ui/ui_demo2.c",
+            "code/q3_ui/ui_servers2.c"
+          ]
+        }
+      ]
+    },
+    "2017-07-13": {
+      "date": "2017-07-13",
+      "heatScore": 10,
+      "linesChanged": 7,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_cmds.c"
+      ],
+      "commits": [
+        {
+          "hash": "a31a1b03bbd9d8bc4b6809aa586291893f084d37",
+          "author": "ec-",
+          "date": "2017-07-13T14:43:55.000Z",
+          "message": "Add \"nextmap\" to allowed vote commands and substitute it with \"rotate\"",
+          "linesAdded": 6,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/game/g_cmds.c"
+          ]
+        }
+      ]
+    },
+    "2017-06-30": {
+      "date": "2017-06-30",
+      "heatScore": 26,
+      "linesChanged": 244,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_cmds.c",
+        "code/game/g_local.h",
+        "code/game/q_shared.c",
+        "code/game/q_shared.h"
+      ],
+      "commits": [
+        {
+          "hash": "0f6bbb9dca578167b7abba6574686ee12ef47632",
+          "author": "ec-",
+          "date": "2017-06-30T13:28:43.000Z",
+          "message": "Properly handle ';' in vote strings Allow up to 4 commands to be executed in single vote Allow text synonyms to be used for voted g_gametype: ffa, duel, tdm, ctf Check for map existence before accepting map vote",
+          "linesAdded": 178,
+          "linesDeleted": 66,
+          "filesChanged": [
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/q_shared.c",
+            "code/game/q_shared.h"
+          ]
+        }
+      ]
+    },
+    "2017-06-27": {
+      "date": "2017-06-27",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "c3c9ac269227790f45e2602ff6d4bd0a1648d6ed",
+          "author": "ec-",
+          "date": "2017-06-27T10:00:39.000Z",
+          "message": "Use \"mapname\" instead of \"sv_mapname\"",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/game/g_main.c"
+          ]
+        }
+      ]
+    },
+    "2017-06-26": {
+      "date": "2017-06-26",
+      "heatScore": 32,
+      "linesChanged": 336,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "build/linux/Makefile",
+        "build/win32-msvc/game.vcproj",
+        "build/win32-qvm/compile.bat",
+        "build/win32-qvm/game.q3asm",
+        "code/cgame/cg_servercmds.c",
+        "code/game/g_cmds.c",
+        "code/game/g_local.h",
+        "code/game/g_main.c",
+        "code/game/g_svcmds.c",
+        "code/game/q_shared.c",
+        "code/game/q_shared.h"
+      ],
+      "commits": [
+        {
+          "hash": "818bea0ef0703d8b4d64afec4e7df72d4d2432e9",
+          "author": "ec-",
+          "date": "2017-06-26T11:07:34.000Z",
+          "message": "Add simple map rotation system, map rotation file specified by g_rotation game cvar  file format is very simple:  $timelimit = 10; // common value for all maps  $cvarxxx = yyyy; // common value for all maps  ...  mapname1  mapname2 { $timelimit = 20; /* set special value for this map */ ... }  mapname3",
+          "linesAdded": 289,
+          "linesDeleted": 47,
+          "filesChanged": [
+            "README.md",
+            "build/linux/Makefile",
+            "build/win32-msvc/game.vcproj",
+            "build/win32-qvm/compile.bat",
+            "build/win32-qvm/game.q3asm",
+            "code/cgame/cg_servercmds.c",
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_svcmds.c",
+            "code/game/q_shared.c",
+            "code/game/q_shared.h"
+          ]
+        }
+      ]
+    },
+    "2017-06-21": {
+      "date": "2017-06-21",
+      "heatScore": 16,
+      "linesChanged": 99,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/game/g_active.c",
+        "code/game/g_cmds.c",
+        "code/game/g_local.h",
+        "code/game/g_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "42da31bb47a034e96426b0258cc4f85aa37cbbe5",
+          "author": "ec-",
+          "date": "2017-06-21T18:55:40.000Z",
+          "message": "Do not move to intermission point when stop following other player Move to intermission point on second spectator team request Code cleanup",
+          "linesAdded": 60,
+          "linesDeleted": 39,
+          "filesChanged": [
+            "code/game/g_active.c",
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c"
+          ]
+        }
+      ]
+    },
+    "2017-06-20": {
+      "date": "2017-06-20",
+      "heatScore": 16,
+      "linesChanged": 93,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/cgame/cg_ents.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_players.c",
+        "code/cgame/cg_weapons.c"
+      ],
+      "commits": [
+        {
+          "hash": "ed8565e3f2d4e5520c3d45e12b343a61c47e755f",
+          "author": "ec-",
+          "date": "2017-06-20T11:08:45.000Z",
+          "message": "Centralize dlight parameters Add dlights for PG/BFG projectiles Add dlight for BFG explosion",
+          "linesAdded": 68,
+          "linesDeleted": 25,
+          "filesChanged": [
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_players.c",
+            "code/cgame/cg_weapons.c"
+          ]
+        }
+      ]
+    },
+    "2017-06-19": {
+      "date": "2017-06-19",
+      "heatScore": 25,
+      "linesChanged": 237,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "code/cgame/cg_draw.c",
+        "code/cgame/cg_drawtools.c",
+        "code/cgame/cg_effects.c",
+        "code/cgame/cg_ents.c",
+        "code/cgame/cg_local.h",
+        "code/cgame/cg_localents.c",
+        "code/cgame/cg_main.c",
+        "code/cgame/cg_marks.c",
+        "code/cgame/cg_syscalls.c",
+        "code/cgame/cg_view.c",
+        "code/cgame/cg_weapons.c",
+        "code/cgame/modulus.c",
+        "code/cgame/tr_types.h",
+        "code/game/bg_misc.c",
+        "code/game/bg_public.h",
+        "code/q3_ui/ui_atoms.c",
+        "code/q3_ui/ui_qmenu.c",
+        "code/q3_ui/ui_splevel.c"
+      ],
+      "commits": [
+        {
+          "hash": "aeddd6a205e78e2bb6645c64e1d4e6e4b255c326",
+          "author": "ec-",
+          "date": "2017-06-19T19:44:52.000Z",
+          "message": "Fix renderer animation at high level times (floatfix), use new q3e' extension interface to set integer shader time",
+          "linesAdded": 201,
+          "linesDeleted": 36,
+          "filesChanged": [
+            "README.md",
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_drawtools.c",
+            "code/cgame/cg_effects.c",
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_localents.c",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_marks.c",
+            "code/cgame/cg_syscalls.c",
+            "code/cgame/cg_view.c",
+            "code/cgame/cg_weapons.c",
+            "code/cgame/modulus.c",
+            "code/cgame/tr_types.h",
+            "code/game/bg_misc.c",
+            "code/game/bg_public.h",
+            "code/q3_ui/ui_atoms.c",
+            "code/q3_ui/ui_qmenu.c",
+            "code/q3_ui/ui_splevel.c"
+          ]
+        }
+      ]
+    }
+  }
+}

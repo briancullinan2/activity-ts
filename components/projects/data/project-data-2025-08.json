@@ -1,0 +1,956 @@
+{
+  "yearMonth": "2025-08",
+  "generatedAt": "2026-09-24T02:37:24.787Z",
+  "username": "briancullinan2",
+  "projects": {
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-08-31": {
+          "date": "2025-08-31",
+          "heatScore": 100,
+          "linesChanged": 1429,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py",
+            "comfy_api_nodes/nodes_stability.py",
+            "comfy_extras/nodes_primitive.py",
+            "comfy_extras/nodes_stable_cascade.py",
+            "comfy_extras/nodes_video.py",
+            "comfyui_version.py",
+            "main.py",
+            "pyproject.toml"
+          ],
+          "commits": [
+            {
+              "hash": "7fd87423b39e3df4212d1734e4b4f9adfef9dae7",
+              "author": "Dr.Lt.Data",
+              "date": "2025-08-31T08:16:00.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 751,
+              "linesDeleted": 678,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py",
+                "comfy_api_nodes/nodes_stability.py",
+                "comfy_extras/nodes_primitive.py",
+                "comfy_extras/nodes_stable_cascade.py",
+                "comfy_extras/nodes_video.py",
+                "comfyui_version.py",
+                "main.py",
+                "pyproject.toml"
+              ]
+            }
+          ]
+        },
+        "2025-08-30": {
+          "date": "2025-08-30",
+          "heatScore": 13,
+          "linesChanged": 46,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_wan.py"
+          ],
+          "commits": [
+            {
+              "hash": "66c4eb006bcc068b202891151174ecb8d6d0bf57",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-08-30T22:19:36.000Z",
+              "message": "Remove AttentionOverrideTest node, that's something to cook up for later",
+              "linesAdded": 0,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "comfy_extras/nodes_wan.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-29": {
+          "date": "2025-08-29",
+          "heatScore": 17,
+          "linesChanged": 116,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_base.py",
+            "comfy_api/latest/_input_impl/video_types.py",
+            "comfy_extras/nodes_latent.py",
+            "comfy_extras/nodes_wan.py",
+            "comfyui_version.py",
+            "pyproject.toml",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "1224d58a17dbd25c4f2fb07346558f9a14651857",
+              "author": "Dr.Lt.Data",
+              "date": "2025-08-29T21:12:16.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 70,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "comfy/model_base.py",
+                "comfy_api/latest/_input_impl/video_types.py",
+                "comfy_extras/nodes_latent.py",
+                "comfy_extras/nodes_wan.py",
+                "comfyui_version.py",
+                "pyproject.toml",
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-08-28": {
+          "date": "2025-08-28",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_latent.py"
+          ],
+          "commits": [
+            {
+              "hash": "d28b39d93dc498110e28ca32c8f39e6de631aa42",
+              "author": "comfyanonymous",
+              "date": "2025-08-28T23:38:28.000Z",
+              "message": "Add a LatentCut node to cut latents. (#9609)",
+              "linesAdded": 37,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_latent.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-27": {
+          "date": "2025-08-27",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py",
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "3aad339b63f03e17dc6ebae035b90afc2fefb627",
+              "author": "Gangin Park",
+              "date": "2025-08-27T23:07:31.000Z",
+              "message": "Add DPM++ 2M SDE Heun (RES) sampler (#9542)",
+              "linesAdded": 16,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py",
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-26": {
+          "date": "2025-08-26",
+          "heatScore": 41,
+          "linesChanged": 477,
+          "commitCount": 1,
+          "filesEdited": [
+            "alembic_db/versions/0001_assets.py",
+            "app/_assets_helpers.py",
+            "app/api/assets_routes.py",
+            "app/assets_fetcher.py",
+            "app/assets_manager.py",
+            "app/assets_scanner.py",
+            "app/database/models.py",
+            "app/database/services.py",
+            "app/resolvers/__init__.py"
+          ],
+          "commits": [
+            {
+              "hash": "6fade5da38e727497d674ecbcdac9877602ac620",
+              "author": "bigcat88",
+              "date": "2025-08-26T11:19:56.000Z",
+              "message": "add AssetsResolver support",
+              "linesAdded": 371,
+              "linesDeleted": 106,
+              "filesChanged": [
+                "alembic_db/versions/0001_assets.py",
+                "app/_assets_helpers.py",
+                "app/api/assets_routes.py",
+                "app/assets_fetcher.py",
+                "app/assets_manager.py",
+                "app/assets_scanner.py",
+                "app/database/models.py",
+                "app/database/services.py",
+                "app/resolvers/__init__.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-25": {
+          "date": "2025-08-25",
+          "heatScore": 33,
+          "linesChanged": 356,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/_assets_helpers.py",
+            "app/api/assets_routes.py",
+            "app/api/schemas_in.py",
+            "app/assets_manager.py"
+          ],
+          "commits": [
+            {
+              "hash": "a763cbd39db955066d88bad4016d2c5284b61890",
+              "author": "bigcat88",
+              "date": "2025-08-25T12:30:55.000Z",
+              "message": "add upload asset endpoint",
+              "linesAdded": 332,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "app/_assets_helpers.py",
+                "app/api/assets_routes.py",
+                "app/api/schemas_in.py",
+                "app/assets_manager.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-24": {
+          "date": "2025-08-24",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "comfy_extras/nodes_easycache.py"
+          ],
+          "commits": [
+            {
+              "hash": "b7faa5fe3d4f8d47a62b6047f6949c9f5847a68a",
+              "author": "Dr.Lt.Data",
+              "date": "2025-08-24T21:08:20.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 34,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "README.md",
+                "comfy_extras/nodes_easycache.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-23": {
+          "date": "2025-08-23",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfyui_version.py",
+            "pyproject.toml"
+          ],
+          "commits": [
+            {
+              "hash": "71ed4a399ec76a75aa2870b772d2022e4b9a69a3",
+              "author": "comfyanonymous",
+              "date": "2025-08-23T22:57:09.000Z",
+              "message": "ComfyUI version 0.3.52",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfyui_version.py",
+                "pyproject.toml"
+              ]
+            }
+          ]
+        },
+        "2025-08-19": {
+          "date": "2025-08-19",
+          "heatScore": 100,
+          "linesChanged": 2635,
+          "commitCount": 1,
+          "filesEdited": [
+            "alembic_db/versions/0001_assets.py",
+            "alembic_db/versions/e9c714da8d57_init.py",
+            "app/api/__init__.py",
+            "app/api/assets_routes.py",
+            "app/assets_manager.py",
+            "app/database/__init__.py",
+            "app/database/db.py",
+            "app/database/models.py",
+            "app/database/services.py",
+            "app/model_processor.py",
+            "app/storage/__init__.py",
+            "app/storage/hashing.py",
+            "comfy/asset_management.py",
+            "comfy/cli_args.py",
+            "comfy/utils.py",
+            "comfy_extras/nodes_assets_test.py",
+            "main.py",
+            "nodes.py",
+            "requirements.txt",
+            "server.py",
+            "tests-unit/app_test/model_manager_test.py",
+            "tests-unit/app_test/model_processor_test.py"
+          ],
+          "commits": [
+            {
+              "hash": "f92307cd4c13a3b1981cc818fce0a56280d3e404",
+              "author": "bigcat88",
+              "date": "2025-08-19T16:56:59.000Z",
+              "message": "dev: Everything is Assets",
+              "linesAdded": 1654,
+              "linesDeleted": 981,
+              "filesChanged": [
+                "alembic_db/versions/0001_assets.py",
+                "alembic_db/versions/e9c714da8d57_init.py",
+                "app/api/__init__.py",
+                "app/api/assets_routes.py",
+                "app/assets_manager.py",
+                "app/database/__init__.py",
+                "app/database/db.py",
+                "app/database/models.py",
+                "app/database/services.py",
+                "app/model_processor.py",
+                "app/storage/__init__.py",
+                "app/storage/hashing.py",
+                "comfy/asset_management.py",
+                "comfy/cli_args.py",
+                "comfy/utils.py",
+                "comfy_extras/nodes_assets_test.py",
+                "main.py",
+                "nodes.py",
+                "requirements.txt",
+                "server.py",
+                "tests-unit/app_test/model_manager_test.py",
+                "tests-unit/app_test/model_processor_test.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-22": {
+          "date": "2025-08-22",
+          "heatScore": 23,
+          "linesChanged": 199,
+          "commitCount": 1,
+          "filesEdited": [
+            "custom_nodes/example_node.py.example",
+            "custom_nodes/websocket_image_save.py"
+          ],
+          "commits": [
+            {
+              "hash": "26cac3c0534b9a7a8d9a82389fa21577b36f97c5",
+              "author": "Dr.Lt.Data",
+              "date": "2025-08-22T23:47:27.000Z",
+              "message": "restore custom_nodes dir",
+              "linesAdded": 199,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "custom_nodes/example_node.py.example",
+                "custom_nodes/websocket_image_save.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-21": {
+          "date": "2025-08-21",
+          "heatScore": 24,
+          "linesChanged": 223,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/user_manager.py",
+            "comfy/ldm/qwen_image/model.py",
+            "comfy/model_management.py",
+            "comfy/model_patcher.py",
+            "comfy_api/latest/_io.py",
+            "comfy_extras/nodes_model_patch.py",
+            "folder_paths.py",
+            "models/model_patches/put_model_patches_here",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "7c36368b14acb9f2ad564469c5548620c47bb3ca",
+              "author": "Dr.Lt.Data",
+              "date": "2025-08-21T20:16:03.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 219,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "app/user_manager.py",
+                "comfy/ldm/qwen_image/model.py",
+                "comfy/model_management.py",
+                "comfy/model_patcher.py",
+                "comfy_api/latest/_io.py",
+                "comfy_extras/nodes_model_patch.py",
+                "folder_paths.py",
+                "models/model_patches/put_model_patches_here",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-20": {
+          "date": "2025-08-20",
+          "heatScore": 11,
+          "linesChanged": 29,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "comfy/ldm/qwen_image/model.py",
+            "comfy/sd1_clip.py",
+            "comfy/text_encoders/qwen_image.py",
+            "comfy_extras/nodes_lt.py",
+            "comfyui_version.py",
+            "pyproject.toml",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "d7b4f45c5b546d8e876ee17d12eb00a111980eb3",
+              "author": "Dr.Lt.Data",
+              "date": "2025-08-20T21:44:35.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 17,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "README.md",
+                "comfy/ldm/qwen_image/model.py",
+                "comfy/sd1_clip.py",
+                "comfy/text_encoders/qwen_image.py",
+                "comfy_extras/nodes_lt.py",
+                "comfyui_version.py",
+                "pyproject.toml",
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-08-18": {
+          "date": "2025-08-18",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_memory_reserve.py"
+          ],
+          "commits": [
+            {
+              "hash": "6c611b0b99c0e021ee140dafd78d113335b0bf7e",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-08-18T22:39:16.000Z",
+              "message": "Change node id to reflect node name",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_memory_reserve.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-17": {
+          "date": "2025-08-17",
+          "heatScore": 17,
+          "linesChanged": 105,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/context_windows.py",
+            "comfy/ldm/qwen_image/model.py",
+            "comfy/model_base.py",
+            "comfy_extras/nodes_audio.py",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "383f9b34cb287b25295d19f47255c58a166ed3f0",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-08-17T23:02:44.000Z",
+              "message": "Merge branch 'master' into worksplit-multigpu",
+              "linesAdded": 84,
+              "linesDeleted": 21,
+              "filesChanged": [
+                "comfy/context_windows.py",
+                "comfy/ldm/qwen_image/model.py",
+                "comfy/model_base.py",
+                "comfy_extras/nodes_audio.py",
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-08-16": {
+          "date": "2025-08-16",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/qwen_image/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "0f2b8525bcafe213e8421a49564a90f926e81f2e",
+              "author": "comfyanonymous",
+              "date": "2025-08-16T21:51:28.000Z",
+              "message": "Qwen image model refactor. (#9375)",
+              "linesAdded": 20,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "comfy/ldm/qwen_image/model.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-15": {
+          "date": "2025-08-15",
+          "heatScore": 69,
+          "linesChanged": 885,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/ISSUE_TEMPLATE/bug-report.yml",
+            ".github/ISSUE_TEMPLATE/user-support.yml",
+            "CODEOWNERS",
+            "comfy/ldm/flux/model.py",
+            "comfy/ldm/qwen_image/model.py",
+            "comfy/ldm/wan/model.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/ops.py",
+            "comfy/rmsnorm.py",
+            "comfy/supported_models.py",
+            "comfy_api_nodes/nodes_moonvalley.py",
+            "comfy_api_nodes/nodes_openai.py",
+            "comfy_extras/nodes_flux.py",
+            "comfy_extras/nodes_wan.py",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "b0741c7e5b0de090cd34890bf1277c89b29784dc",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-08-15T23:50:04.000Z",
+              "message": "Merge branch 'master' into worksplit-multigpu",
+              "linesAdded": 526,
+              "linesDeleted": 359,
+              "filesChanged": [
+                ".github/ISSUE_TEMPLATE/bug-report.yml",
+                ".github/ISSUE_TEMPLATE/user-support.yml",
+                "CODEOWNERS",
+                "comfy/ldm/flux/model.py",
+                "comfy/ldm/qwen_image/model.py",
+                "comfy/ldm/wan/model.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/ops.py",
+                "comfy/rmsnorm.py",
+                "comfy/supported_models.py",
+                "comfy_api_nodes/nodes_moonvalley.py",
+                "comfy_api_nodes/nodes_openai.py",
+                "comfy_extras/nodes_flux.py",
+                "comfy_extras/nodes_wan.py",
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-08-14": {
+          "date": "2025-08-14",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "CODEOWNERS"
+          ],
+          "commits": [
+            {
+              "hash": "fa570cbf599657e73c636872616c0b1f8e74f692",
+              "author": "Yoland Yan",
+              "date": "2025-08-14T23:44:22.000Z",
+              "message": "Update CODEOWNERS (#9343)",
+              "linesAdded": 14,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "CODEOWNERS"
+              ]
+            }
+          ]
+        },
+        "2025-08-13": {
+          "date": "2025-08-13",
+          "heatScore": 13,
+          "linesChanged": 47,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "comfy/cli_args.py",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "c991a5da658667cf29f2916bef096fa7b18afd47",
+              "author": "Simon Lui",
+              "date": "2025-08-13T23:13:35.000Z",
+              "message": "Fix XPU iGPU regressions (#9322)",
+              "linesAdded": 23,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "README.md",
+                "comfy/cli_args.py",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-12": {
+          "date": "2025-08-12",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "1e3ae1eed8b925430e3b114ea6b7d08ea698e305",
+              "author": "ComfyUI Wiki",
+              "date": "2025-08-12T21:14:27.000Z",
+              "message": "Update template to 0.1.58 (#9302)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-08-11": {
+          "date": "2025-08-11",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/nodes_kling.py"
+          ],
+          "commits": [
+            {
+              "hash": "f4231a80b1b904b45ade0def9b37320c4adfe71b",
+              "author": "Alexander Piskun",
+              "date": "2025-08-11T21:15:14.000Z",
+              "message": "fix(Kling Image API Node): do not pass \"image_type\" when no image (#9271)",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_api_nodes/nodes_kling.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-10": {
+          "date": "2025-08-10",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "37277e4188e7c45a61d2ed4c064506c5a3e1944c",
+              "author": "Dr.Lt.Data",
+              "date": "2025-08-10T11:57:20.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "README.md",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-09": {
+          "date": "2025-08-09",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "5828607ccfef82a82931d8b66f3fd1176e04588f",
+              "author": "comfyanonymous",
+              "date": "2025-08-09T16:49:25.000Z",
+              "message": "Not sure if AMD actually support fp16 acc but it doesn't crash. (#9258)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-08": {
+          "date": "2025-08-08",
+          "heatScore": 100,
+          "linesChanged": 1964,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py",
+            "comfy_api_nodes/apinode_utils.py",
+            "comfy_api_nodes/apis/client.py",
+            "comfy_api_nodes/nodes_bfl.py",
+            "comfy_api_nodes/nodes_gemini.py",
+            "comfy_api_nodes/nodes_ideogram.py",
+            "comfy_api_nodes/nodes_kling.py",
+            "comfy_api_nodes/nodes_luma.py",
+            "comfy_api_nodes/nodes_minimax.py",
+            "comfy_api_nodes/nodes_moonvalley.py",
+            "comfy_api_nodes/nodes_openai.py",
+            "comfy_api_nodes/nodes_pika.py",
+            "comfy_api_nodes/nodes_pixverse.py",
+            "comfy_api_nodes/nodes_recraft.py",
+            "comfy_api_nodes/nodes_rodin.py",
+            "comfy_api_nodes/nodes_runway.py",
+            "comfy_api_nodes/nodes_stability.py",
+            "comfy_api_nodes/nodes_tripo.py",
+            "comfy_api_nodes/nodes_veo2.py"
+          ],
+          "commits": [
+            {
+              "hash": "106510197a311e9ff63013244081c1ed21ce5db9",
+              "author": "Dr.Lt.Data",
+              "date": "2025-08-08T14:48:53.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 883,
+              "linesDeleted": 1081,
+              "filesChanged": [
+                "comfy/model_management.py",
+                "comfy_api_nodes/apinode_utils.py",
+                "comfy_api_nodes/apis/client.py",
+                "comfy_api_nodes/nodes_bfl.py",
+                "comfy_api_nodes/nodes_gemini.py",
+                "comfy_api_nodes/nodes_ideogram.py",
+                "comfy_api_nodes/nodes_kling.py",
+                "comfy_api_nodes/nodes_luma.py",
+                "comfy_api_nodes/nodes_minimax.py",
+                "comfy_api_nodes/nodes_moonvalley.py",
+                "comfy_api_nodes/nodes_openai.py",
+                "comfy_api_nodes/nodes_pika.py",
+                "comfy_api_nodes/nodes_pixverse.py",
+                "comfy_api_nodes/nodes_recraft.py",
+                "comfy_api_nodes/nodes_rodin.py",
+                "comfy_api_nodes/nodes_runway.py",
+                "comfy_api_nodes/nodes_stability.py",
+                "comfy_api_nodes/nodes_tripo.py",
+                "comfy_api_nodes/nodes_veo2.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-07": {
+          "date": "2025-08-07",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_ui.py"
+          ],
+          "commits": [
+            {
+              "hash": "42974a448c39af50c5f72d8c70267f9fe2971cd2",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-08-07T21:54:09.000Z",
+              "message": "_ui.py import torchaudio safety check (#9234)",
+              "linesAdded": 7,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_api/latest/_ui.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-06": {
+          "date": "2025-08-06",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "37d620a6b85f61b824363ed8170db373726ca45a",
+              "author": "Christian Byrne",
+              "date": "2025-08-06T23:52:39.000Z",
+              "message": "Update frontend to v1.24.3 (#9175)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-08-05": {
+          "date": "2025-08-05",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "d8c51ba15aef6b0df86a7ea0203881be55d7579b",
+              "author": "comfyanonymous",
+              "date": "2025-08-05T11:41:18.000Z",
+              "message": "Add Qwen Image model to readme. (#9191)",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2025-08-04": {
+          "date": "2025-08-04",
+          "heatScore": 13,
+          "linesChanged": 48,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/conds.py",
+            "comfy/controlnet.py",
+            "comfy/model_base.py",
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "02317a1f7193019c7c8c913b2ed6cb5fd43cbd28",
+              "author": "Dr.Lt.Data",
+              "date": "2025-08-04T21:21:27.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 29,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "comfy/conds.py",
+                "comfy/controlnet.py",
+                "comfy/model_base.py",
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-03": {
+          "date": "2025-08-03",
+          "heatScore": 14,
+          "linesChanged": 60,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/model_manager.py",
+            "app/user_manager.py",
+            "comfy/controlnet.py",
+            "comfy/ldm/wan/vae.py",
+            "comfy/ldm/wan/vae2_2.py",
+            "comfy/model_base.py",
+            "comfyui_version.py",
+            "pyproject.toml",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "ac7e83448ea732927879e05a2fc073c8056a9bfa",
+              "author": "Dr.Lt.Data",
+              "date": "2025-08-03T22:25:20.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 40,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "app/model_manager.py",
+                "app/user_manager.py",
+                "comfy/controlnet.py",
+                "comfy/ldm/wan/vae.py",
+                "comfy/ldm/wan/vae2_2.py",
+                "comfy/model_base.py",
+                "comfyui_version.py",
+                "pyproject.toml",
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-08-02": {
+          "date": "2025-08-02",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_base.py"
+          ],
+          "commits": [
+            {
+              "hash": "13aaa66ec21c397240a9b972d818430b39112588",
+              "author": "comfyanonymous",
+              "date": "2025-08-02T19:09:23.000Z",
+              "message": "Make sure context is on the right device. (#9154)",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/model_base.py"
+              ]
+            }
+          ]
+        },
+        "2025-08-01": {
+          "date": "2025-08-01",
+          "heatScore": 100,
+          "linesChanged": 2547,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/wan/vae.py",
+            "comfy/ldm/wan/vae2_2.py",
+            "comfy_api/internal/__init__.py",
+            "comfy_api/latest/__init__.py",
+            "comfy_api/latest/_io.py",
+            "comfy_api/latest/_resources.py",
+            "comfy_api/latest/_ui.py",
+            "comfy_api/v0_0_2/__init__.py",
+            "comfy_execution/graph.py",
+            "comfy_execution/graph_utils.py",
+            "comfy_extras/nodes_wan.py",
+            "execution.py",
+            "nodes.py",
+            "requirements.txt",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "df122a7dbaa3a2b29eeabc53d8691ae9b6296e7a",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-08-01T19:31:57.000Z",
+              "message": "Merge branch 'master' into worksplit-multigpu",
+              "linesAdded": 2487,
+              "linesDeleted": 60,
+              "filesChanged": [
+                "comfy/ldm/wan/vae.py",
+                "comfy/ldm/wan/vae2_2.py",
+                "comfy_api/internal/__init__.py",
+                "comfy_api/latest/__init__.py",
+                "comfy_api/latest/_io.py",
+                "comfy_api/latest/_resources.py",
+                "comfy_api/latest/_ui.py",
+                "comfy_api/v0_0_2/__init__.py",
+                "comfy_execution/graph.py",
+                "comfy_execution/graph_utils.py",
+                "comfy_extras/nodes_wan.py",
+                "execution.py",
+                "nodes.py",
+                "requirements.txt",
+                "server.py"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

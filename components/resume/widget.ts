@@ -511,9 +511,11 @@ export class ResumeWidget extends Widget
 
 		return { startYear, endYear, isPresent };
 	}
+
+
 	/**
-		 * Renders a single-year D3 Git Heatmap into a target SVG element
-		 */
+	 * Renders a single-year D3 Git Heatmap into a target SVG element
+	 */
 	private _renderD3HeatmapForYear(svgEl: SVGSVGElement, year: number): void
 	{
 		if(typeof d3 === 'undefined' || !svgEl) return;

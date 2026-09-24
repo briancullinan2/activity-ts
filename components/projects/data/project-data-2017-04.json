@@ -1,0 +1,392 @@
+{
+  "yearMonth": "2017-04",
+  "generatedAt": "2026-09-24T02:37:24.809Z",
+  "username": "briancullinan2",
+  "projects": {
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-04-28": {
+          "date": "2017-04-28",
+          "heatScore": 100,
+          "linesChanged": 2534,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/.ipynb_checkpoints/2017 Update-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/Landing Pages-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/Wireframing-checkpoint.ipynb",
+            "notebooks/2017 Update.ipynb",
+            "notebooks/Good UX Intro.ipynb",
+            "notebooks/Landing Pages.ipynb",
+            "notebooks/Wireframing.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "9b6ac43d4728577af6697e22fec43dad0a2c74a1",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-04-28T22:28:53.000Z",
+              "message": "More documentation!",
+              "linesAdded": 1934,
+              "linesDeleted": 600,
+              "filesChanged": [
+                "notebooks/.ipynb_checkpoints/2017 Update-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/Landing Pages-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/Wireframing-checkpoint.ipynb",
+                "notebooks/2017 Update.ipynb",
+                "notebooks/Good UX Intro.ipynb",
+                "notebooks/Landing Pages.ipynb",
+                "notebooks/Wireframing.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-04-27": {
+          "date": "2017-04-27",
+          "heatScore": 36,
+          "linesChanged": 394,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/.ipynb_checkpoints/2017 Update-checkpoint.ipynb",
+            "notebooks/2017 Update.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "9475ec6d0583d31bb27ce29d1aebb7e2cc62c25b",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-04-27T23:45:39.000Z",
+              "message": "Added links to graphvis POC.",
+              "linesAdded": 392,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "notebooks/.ipynb_checkpoints/2017 Update-checkpoint.ipynb",
+                "notebooks/2017 Update.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-04-26": {
+          "date": "2017-04-26",
+          "heatScore": 14,
+          "linesChanged": 62,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+            "notebooks/Good UX Intro.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "18bfc5824fe77eaa335adaecccc313050fa44df5",
+              "author": "Brian Cullinan",
+              "date": "2017-04-26T05:57:44.000Z",
+              "message": "no message",
+              "linesAdded": 54,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+                "notebooks/Good UX Intro.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-04-25": {
+          "date": "2017-04-25",
+          "heatScore": 36,
+          "linesChanged": 400,
+          "commitCount": 1,
+          "filesEdited": [
+            "Dockerfile",
+            "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/Wireframing-checkpoint.ipynb",
+            "notebooks/Good UX Intro.ipynb",
+            "notebooks/Wireframing.ipynb",
+            "src/app.component.scss",
+            "src/app.module.ts",
+            "src/wire.directive.ts",
+            "webpack.common.js"
+          ],
+          "commits": [
+            {
+              "hash": "cc65212fdeea3d25ee5e338b95b3658bdd217234",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-04-25T23:40:16.000Z",
+              "message": "Fixes to modify wkhtmltopdf command line options.",
+              "linesAdded": 281,
+              "linesDeleted": 119,
+              "filesChanged": [
+                "Dockerfile",
+                "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/Wireframing-checkpoint.ipynb",
+                "notebooks/Good UX Intro.ipynb",
+                "notebooks/Wireframing.ipynb",
+                "src/app.component.scss",
+                "src/app.module.ts",
+                "src/wire.directive.ts",
+                "webpack.common.js"
+              ]
+            }
+          ]
+        },
+        "2017-04-24": {
+          "date": "2017-04-24",
+          "heatScore": 15,
+          "linesChanged": 79,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/{Jupyter Node Example.ipynb => .ipynb_checkpoints/Wireframing-checkpoint.ipynb}",
+            "notebooks/{.ipynb_checkpoints/Jupyter Node Example-checkpoint.ipynb => Wireframing.ipynb}",
+            "src/app.component.scss",
+            "src/app.module.ts",
+            "src/wire.directive.ts"
+          ],
+          "commits": [
+            {
+              "hash": "b12ab9cd15cf902ccd159db228bf3e4e97758ec1",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-04-24T23:40:24.000Z",
+              "message": "no message",
+              "linesAdded": 15,
+              "linesDeleted": 64,
+              "filesChanged": [
+                "notebooks/{Jupyter Node Example.ipynb => .ipynb_checkpoints/Wireframing-checkpoint.ipynb}",
+                "notebooks/{.ipynb_checkpoints/Jupyter Node Example-checkpoint.ipynb => Wireframing.ipynb}",
+                "src/app.component.scss",
+                "src/app.module.ts",
+                "src/wire.directive.ts"
+              ]
+            }
+          ]
+        },
+        "2017-04-22": {
+          "date": "2017-04-22",
+          "heatScore": 68,
+          "linesChanged": 878,
+          "commitCount": 1,
+          "filesEdited": [
+            "Dockerfile",
+            "Readme.md",
+            "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/Jupyter Node Example-checkpoint.ipynb",
+            "notebooks/Good UX Intro.ipynb",
+            "notebooks/Jupyter Node Example.ipynb",
+            "package.json",
+            "src/app.component.ts",
+            "src/app.module.ts",
+            "start-notebook.sh",
+            "webpack.common.js"
+          ],
+          "commits": [
+            {
+              "hash": "ef82ea2a197081c43517c2ba0571fbdce1c4d9f0",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-04-22T00:38:30.000Z",
+              "message": "Working components",
+              "linesAdded": 811,
+              "linesDeleted": 67,
+              "filesChanged": [
+                "Dockerfile",
+                "Readme.md",
+                "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/Jupyter Node Example-checkpoint.ipynb",
+                "notebooks/Good UX Intro.ipynb",
+                "notebooks/Jupyter Node Example.ipynb",
+                "package.json",
+                "src/app.component.ts",
+                "src/app.module.ts",
+                "start-notebook.sh",
+                "webpack.common.js"
+              ]
+            }
+          ]
+        },
+        "2017-04-21": {
+          "date": "2017-04-21",
+          "heatScore": 100,
+          "linesChanged": 23275,
+          "commitCount": 1,
+          "filesEdited": [
+            "Dockerfile",
+            "Readme.md",
+            "error.js",
+            "notebooks/.ipynb_checkpoints/Jupyter Node Example-checkpoint.ipynb",
+            "notebooks/Jupyter Node Example.ipynb",
+            "start-notebook.sh"
+          ],
+          "commits": [
+            {
+              "hash": "9a13ff85580d0e49db43da98a52d7a2155a25534",
+              "author": "Brian Cullinan",
+              "date": "2017-04-21T02:12:17.000Z",
+              "message": "Working POC angular loaded into Jupyter notebook.",
+              "linesAdded": 23207,
+              "linesDeleted": 68,
+              "filesChanged": [
+                "Dockerfile",
+                "Readme.md",
+                "error.js",
+                "notebooks/.ipynb_checkpoints/Jupyter Node Example-checkpoint.ipynb",
+                "notebooks/Jupyter Node Example.ipynb",
+                "start-notebook.sh"
+              ]
+            }
+          ]
+        },
+        "2017-04-20": {
+          "date": "2017-04-20",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "helpers.js",
+            "notebooks/Jupyter Node Example.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "cc9310a511fbb92c78dc809fbae3868939e9f397",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-04-20T23:03:39.000Z",
+              "message": "no message",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "helpers.js",
+                "notebooks/Jupyter Node Example.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-04-19": {
+          "date": "2017-04-19",
+          "heatScore": 29,
+          "linesChanged": 295,
+          "commitCount": 1,
+          "filesEdited": [
+            ".idea/workspace.xml",
+            "Dockerfile"
+          ],
+          "commits": [
+            {
+              "hash": "cc39ff29948db4a57450e5df906a227fdfcf8ea2",
+              "author": "Brian Cullinan",
+              "date": "2017-04-19T23:50:52.000Z",
+              "message": "no message",
+              "linesAdded": 128,
+              "linesDeleted": 167,
+              "filesChanged": [
+                ".idea/workspace.xml",
+                "Dockerfile"
+              ]
+            }
+          ]
+        },
+        "2017-04-18": {
+          "date": "2017-04-18",
+          "heatScore": 100,
+          "linesChanged": 3664,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitattributes",
+            ".gitignore",
+            ".idea/jupytangular2.iml",
+            ".idea/misc.xml",
+            ".idea/modules.xml",
+            ".idea/vcs.xml",
+            ".idea/workspace.xml",
+            "Dockerfile",
+            "LICENSE",
+            "Readme.md",
+            "config.js",
+            "ext/babel-module-loader.js",
+            "ext/babel.js",
+            "ext/clojure.js",
+            "ext/clojurescript.js",
+            "ext/coffee.js",
+            "ext/test-babel.js",
+            "ext/test-clojurescript.js",
+            "install.js",
+            "lib/complete.js",
+            "lib/context.js",
+            "lib/example.js",
+            "lib/info.js",
+            "lib/kernel.js",
+            "lib/load-ext.js",
+            "lib/run.js",
+            "lib/sockets.js",
+            "package.json",
+            "test/Makefile",
+            "test/Readme.md",
+            "test/config.json",
+            "test/connection.json",
+            "test/get-kernel-info.js",
+            "test/heartbeat.js",
+            "test/kernel.js",
+            "test/kernel.log",
+            "test/run.js",
+            "test/server.js",
+            "test/sockets.js",
+            "test/tbind.js",
+            "yarn.lock"
+          ],
+          "commits": [
+            {
+              "hash": "0ecc01ec6e67a2d3defe9acf56b211fc1a47c38d",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-04-18T23:18:56.000Z",
+              "message": "initial commit",
+              "linesAdded": 3664,
+              "linesDeleted": 0,
+              "filesChanged": [
+                ".gitattributes",
+                ".gitignore",
+                ".idea/jupytangular2.iml",
+                ".idea/misc.xml",
+                ".idea/modules.xml",
+                ".idea/vcs.xml",
+                ".idea/workspace.xml",
+                "Dockerfile",
+                "LICENSE",
+                "Readme.md",
+                "config.js",
+                "ext/babel-module-loader.js",
+                "ext/babel.js",
+                "ext/clojure.js",
+                "ext/clojurescript.js",
+                "ext/coffee.js",
+                "ext/test-babel.js",
+                "ext/test-clojurescript.js",
+                "install.js",
+                "lib/complete.js",
+                "lib/context.js",
+                "lib/example.js",
+                "lib/info.js",
+                "lib/kernel.js",
+                "lib/load-ext.js",
+                "lib/run.js",
+                "lib/sockets.js",
+                "package.json",
+                "test/Makefile",
+                "test/Readme.md",
+                "test/config.json",
+                "test/connection.json",
+                "test/get-kernel-info.js",
+                "test/heartbeat.js",
+                "test/kernel.js",
+                "test/kernel.log",
+                "test/run.js",
+                "test/server.js",
+                "test/sockets.js",
+                "test/tbind.js",
+                "yarn.lock"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

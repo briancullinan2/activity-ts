@@ -1,0 +1,1055 @@
+{
+  "yearMonth": "2017-12",
+  "generatedAt": "2026-09-24T02:37:24.738Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-12-24": {
+          "date": "2017-12-24",
+          "heatScore": 10,
+          "linesChanged": 11,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_servercmds.c"
+          ],
+          "commits": [
+            {
+              "hash": "7bd0cd37bcb4188a7e008a38cbd8d550ddf27d16",
+              "author": "ec-",
+              "date": "2017-12-24T19:14:34.000Z",
+              "message": "Support for defrag mod demo playback",
+              "linesAdded": 10,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_servercmds.c"
+              ]
+            }
+          ]
+        },
+        "2017-12-18": {
+          "date": "2017-12-18",
+          "heatScore": 16,
+          "linesChanged": 98,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/ai_main.c",
+            "code/game/g_bot.c",
+            "code/game/g_client.c",
+            "code/game/g_cmds.c",
+            "code/q3_ui/ui_gameinfo.c",
+            "code/q3_ui/ui_startserver.c"
+          ],
+          "commits": [
+            {
+              "hash": "8c1ca3a6891b269c27588494344c4ed9b50ac41e",
+              "author": "ec-",
+              "date": "2017-12-18T11:56:15.000Z",
+              "message": "Fixed a few potential buffer overwrites in Game VM",
+              "linesAdded": 52,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "code/game/ai_main.c",
+                "code/game/g_bot.c",
+                "code/game/g_client.c",
+                "code/game/g_cmds.c",
+                "code/q3_ui/ui_gameinfo.c",
+                "code/q3_ui/ui_startserver.c"
+              ]
+            }
+          ]
+        },
+        "2017-12-14": {
+          "date": "2017-12-14",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_servercmds.c",
+            "code/game/ai_chat.c",
+            "code/game/ai_dmq3.c"
+          ],
+          "commits": [
+            {
+              "hash": "6190c8e53d0da36228a9e3374e83d2cc1404c9aa",
+              "author": "ec-",
+              "date": "2017-12-14T20:03:58.000Z",
+              "message": "Fixed incorrect use of strcpy (overlapping buffers) in EasyClientName() Code cleanup",
+              "linesAdded": 10,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "code/cgame/cg_servercmds.c",
+                "code/game/ai_chat.c",
+                "code/game/ai_dmq3.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-12-24": {
+          "date": "2017-12-24",
+          "heatScore": 10,
+          "linesChanged": 11,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_servercmds.c"
+          ],
+          "commits": [
+            {
+              "hash": "7bd0cd37bcb4188a7e008a38cbd8d550ddf27d16",
+              "author": "ec-",
+              "date": "2017-12-24T19:14:34.000Z",
+              "message": "Support for defrag mod demo playback",
+              "linesAdded": 10,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_servercmds.c"
+              ]
+            }
+          ]
+        },
+        "2017-12-18": {
+          "date": "2017-12-18",
+          "heatScore": 16,
+          "linesChanged": 98,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/ai_main.c",
+            "code/game/g_bot.c",
+            "code/game/g_client.c",
+            "code/game/g_cmds.c",
+            "code/q3_ui/ui_gameinfo.c",
+            "code/q3_ui/ui_startserver.c"
+          ],
+          "commits": [
+            {
+              "hash": "8c1ca3a6891b269c27588494344c4ed9b50ac41e",
+              "author": "ec-",
+              "date": "2017-12-18T11:56:15.000Z",
+              "message": "Fixed a few potential buffer overwrites in Game VM",
+              "linesAdded": 52,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "code/game/ai_main.c",
+                "code/game/g_bot.c",
+                "code/game/g_client.c",
+                "code/game/g_cmds.c",
+                "code/q3_ui/ui_gameinfo.c",
+                "code/q3_ui/ui_startserver.c"
+              ]
+            }
+          ]
+        },
+        "2017-12-14": {
+          "date": "2017-12-14",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_servercmds.c",
+            "code/game/ai_chat.c",
+            "code/game/ai_dmq3.c"
+          ],
+          "commits": [
+            {
+              "hash": "6190c8e53d0da36228a9e3374e83d2cc1404c9aa",
+              "author": "ec-",
+              "date": "2017-12-14T20:03:58.000Z",
+              "message": "Fixed incorrect use of strcpy (overlapping buffers) in EasyClientName() Code cleanup",
+              "linesAdded": 10,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "code/cgame/cg_servercmds.c",
+                "code/game/ai_chat.c",
+                "code/game/ai_dmq3.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-12-31": {
+          "date": "2017-12-31",
+          "heatScore": 52,
+          "linesChanged": 634,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Frameworks/cached-permissions.json",
+            "Frameworks/d3 dates.ipynb",
+            "Frameworks/rpc.ipynb",
+            "Utilities/git.ipynb",
+            "Utilities/google calendar.ipynb",
+            "Utilities/google scheduling.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "22a293e4dced4997686424271db36e219638305e",
+              "author": "Brian Cullinan",
+              "date": "2017-12-31T05:41:24.000Z",
+              "message": "calendar search service",
+              "linesAdded": 85,
+              "linesDeleted": 549,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Frameworks/cached-permissions.json",
+                "Frameworks/d3 dates.ipynb",
+                "Frameworks/rpc.ipynb",
+                "Utilities/git.ipynb",
+                "Utilities/google calendar.ipynb",
+                "Utilities/google scheduling.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-30": {
+          "date": "2017-12-30",
+          "heatScore": 36,
+          "linesChanged": 398,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/interpret all notebooks.ipynb",
+            "Frameworks/cached-permissions.json",
+            "Frameworks/d3 dates.ipynb",
+            "Utilities/google calendar.ipynb",
+            "Utilities/google scheduling.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "78c4d4695e85a4a6bae464468b5f35f26d85022b",
+              "author": "Brian Cullinan",
+              "date": "2017-12-30T05:18:34.000Z",
+              "message": "no message",
+              "linesAdded": 372,
+              "linesDeleted": 26,
+              "filesChanged": [
+                "Core/interpret all notebooks.ipynb",
+                "Frameworks/cached-permissions.json",
+                "Frameworks/d3 dates.ipynb",
+                "Utilities/google calendar.ipynb",
+                "Utilities/google scheduling.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-29": {
+          "date": "2017-12-29",
+          "heatScore": 69,
+          "linesChanged": 899,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "b8f8c683f9a831a7afa7ce2e9a57b2e8801bcfc9",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-29T21:15:32.000Z",
+              "message": "no message",
+              "linesAdded": 626,
+              "linesDeleted": 273,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-28": {
+          "date": "2017-12-28",
+          "heatScore": 100,
+          "linesChanged": 1654,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "ad2799c22e5d3c3a85ec71b8ba69222f98cc8a1f",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-28T19:38:55.000Z",
+              "message": "no message",
+              "linesAdded": 1650,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-27": {
+          "date": "2017-12-27",
+          "heatScore": 100,
+          "linesChanged": 1355,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb",
+            "Utilities/child process.ipynb",
+            "Utilities/git.ipynb",
+            "Utilities/google calendar.ipynb",
+            "package-lock.json"
+          ],
+          "commits": [
+            {
+              "hash": "25428c1e522bd306126a7d483ee3f94b3227794b",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-27T22:04:05.000Z",
+              "message": "no message",
+              "linesAdded": 543,
+              "linesDeleted": 812,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb",
+                "Utilities/child process.ipynb",
+                "Utilities/git.ipynb",
+                "Utilities/google calendar.ipynb",
+                "package-lock.json"
+              ]
+            }
+          ]
+        },
+        "2017-12-26": {
+          "date": "2017-12-26",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/heartbeat.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "5343f0b642ece9c0cef3441b8017d77c0dcd4e39",
+              "author": "Brian Cullinan",
+              "date": "2017-12-26T17:55:29.000Z",
+              "message": "no message",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "Utilities/heartbeat.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-25": {
+          "date": "2017-12-25",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/heartbeat.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "d84024324de26c907fc1285aedeb2d169f313fd4",
+              "author": "Brian Cullinan",
+              "date": "2017-12-25T23:22:35.000Z",
+              "message": "no message",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "Utilities/heartbeat.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-24": {
+          "date": "2017-12-24",
+          "heatScore": 100,
+          "linesChanged": 2714,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Core/interpret questions.ipynb",
+            "Frameworks/cached-permissions.json",
+            "Frameworks/google.ipynb",
+            "Frameworks/node express.ipynb",
+            "Frameworks/rpc.ipynb",
+            "Selenium/avidbrain.ipynb",
+            "Selenium/facebook connections.ipynb",
+            "Selenium/orchestration.ipynb",
+            "bundle.js",
+            "bundle.js.zip",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "55c5ab2e9181d630acdf19161631f88524b84ece",
+              "author": "Brian Cullinan",
+              "date": "2017-12-24T02:46:34.000Z",
+              "message": "no message",
+              "linesAdded": 967,
+              "linesDeleted": 1747,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Core/interpret questions.ipynb",
+                "Frameworks/cached-permissions.json",
+                "Frameworks/google.ipynb",
+                "Frameworks/node express.ipynb",
+                "Frameworks/rpc.ipynb",
+                "Selenium/avidbrain.ipynb",
+                "Selenium/facebook connections.ipynb",
+                "Selenium/orchestration.ipynb",
+                "bundle.js",
+                "bundle.js.zip",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2017-12-23": {
+          "date": "2017-12-23",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/rpc.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e477f1f477ffe9cd11a8a3dbc890c5c51582dfcb",
+              "author": "Brian Cullinan",
+              "date": "2017-12-23T04:13:51.000Z",
+              "message": "no message",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "Frameworks/rpc.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-22": {
+          "date": "2017-12-22",
+          "heatScore": 100,
+          "linesChanged": 68471,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Core/interpret all notebooks.ipynb",
+            "Core/interpret questions.ipynb",
+            "Frameworks/aws.ipynb",
+            "Frameworks/cached-permissions.json",
+            "Frameworks/rpc.ipynb",
+            "Utilities/notebook.ipynb",
+            "bundle.js",
+            "package-lock.json",
+            "package.json",
+            "webpack.config.js"
+          ],
+          "commits": [
+            {
+              "hash": "07c0ec60bd36a2b9b02e4eb58c5dfa93f0ee804a",
+              "author": "Brian Cullinan",
+              "date": "2017-12-22T07:51:57.000Z",
+              "message": "no message",
+              "linesAdded": 67793,
+              "linesDeleted": 678,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Core/interpret all notebooks.ipynb",
+                "Core/interpret questions.ipynb",
+                "Frameworks/aws.ipynb",
+                "Frameworks/cached-permissions.json",
+                "Frameworks/rpc.ipynb",
+                "Utilities/notebook.ipynb",
+                "bundle.js",
+                "package-lock.json",
+                "package.json",
+                "webpack.config.js"
+              ]
+            }
+          ]
+        },
+        "2017-12-21": {
+          "date": "2017-12-21",
+          "heatScore": 77,
+          "linesChanged": 1017,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Core/interpret all notebooks.ipynb",
+            "Core/interpret questions.ipynb",
+            "Frameworks/cached-permissions.json",
+            "Frameworks/rpc.ipynb",
+            "bundle.js",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "cb7e7a3180f5d7d5a3fd1f2dccc8b8976e02437d",
+              "author": "Brian Cullinan",
+              "date": "2017-12-21T15:44:00.000Z",
+              "message": "no message",
+              "linesAdded": 1010,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Core/interpret all notebooks.ipynb",
+                "Core/interpret questions.ipynb",
+                "Frameworks/cached-permissions.json",
+                "Frameworks/rpc.ipynb",
+                "bundle.js",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2017-12-20": {
+          "date": "2017-12-20",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/interpret questions.ipynb",
+            "Utilities/notebook.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "0d5a3a3b7173cf77ad1f5fb4da835177dfbdaef9",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-20T18:32:36.000Z",
+              "message": "no message",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "Core/interpret questions.ipynb",
+                "Utilities/notebook.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-19": {
+          "date": "2017-12-19",
+          "heatScore": 61,
+          "linesChanged": 776,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            "Core/import notebook.ipynb",
+            "Core/index.js",
+            "Core/interpret all notebooks.ipynb",
+            "Core/interpret questions.ipynb",
+            "Frameworks/rpc.ipynb",
+            "Utilities/notebook.ipynb",
+            "index.js"
+          ],
+          "commits": [
+            {
+              "hash": "7b46b023d263c2083cbee1fb3971a972ade564be",
+              "author": "Brian Cullinan",
+              "date": "2017-12-19T21:53:08.000Z",
+              "message": "no message",
+              "linesAdded": 65,
+              "linesDeleted": 711,
+              "filesChanged": [
+                ".gitignore",
+                "Core/import notebook.ipynb",
+                "Core/index.js",
+                "Core/interpret all notebooks.ipynb",
+                "Core/interpret questions.ipynb",
+                "Frameworks/rpc.ipynb",
+                "Utilities/notebook.ipynb",
+                "index.js"
+              ]
+            }
+          ]
+        },
+        "2017-12-18": {
+          "date": "2017-12-18",
+          "heatScore": 23,
+          "linesChanged": 207,
+          "commitCount": 1,
+          "filesEdited": [
+            ".build/bundle.js",
+            "Core/import notebook.ipynb",
+            "Core/interpret all notebooks.ipynb",
+            "Core/interpret questions.ipynb",
+            "Utilities/notebook.ipynb",
+            "webpack.config.js"
+          ],
+          "commits": [
+            {
+              "hash": "44e210059852d2f722ea437dc2c5221104d2203a",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-18T22:19:05.000Z",
+              "message": "no message",
+              "linesAdded": 191,
+              "linesDeleted": 16,
+              "filesChanged": [
+                ".build/bundle.js",
+                "Core/import notebook.ipynb",
+                "Core/interpret all notebooks.ipynb",
+                "Core/interpret questions.ipynb",
+                "Utilities/notebook.ipynb",
+                "webpack.config.js"
+              ]
+            }
+          ]
+        },
+        "2017-12-17": {
+          "date": "2017-12-17",
+          "heatScore": 100,
+          "linesChanged": 22549,
+          "commitCount": 1,
+          "filesEdited": [
+            ".build/bundle.js",
+            ".gitignore",
+            "Core/import notebook.ipynb",
+            "Core/interpret questions.ipynb",
+            "Frameworks/rpc.ipynb",
+            "Frameworks/zuora to eloqua.ipynb",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-0.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-1.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-10.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-11.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-12.spec.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-13.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-14.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-15.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-16.spec.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-17.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-18.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-19.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-2.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-20.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-21.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-22.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-23.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-24.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-25.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-26.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-27.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-28.spec.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-29.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-3.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-30.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-31.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-32.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-4.spec.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-5.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-6.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-7.md",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-8.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-9.md",
+            "Utilities/.modules/Utilities/polyfills/cell-0.md",
+            "Utilities/.modules/Utilities/polyfills/cell-1.js",
+            "Utilities/.modules/Utilities/polyfills/cell-2.js",
+            "Utilities/notebook.ipynb",
+            "package-lock.json",
+            "package.json",
+            "webpack.config.js"
+          ],
+          "commits": [
+            {
+              "hash": "f303be5e69708f79f9c618c4638dcb5d676c1272",
+              "author": "Brian Cullinan",
+              "date": "2017-12-17T05:40:52.000Z",
+              "message": "no message",
+              "linesAdded": 20833,
+              "linesDeleted": 1716,
+              "filesChanged": [
+                ".build/bundle.js",
+                ".gitignore",
+                "Core/import notebook.ipynb",
+                "Core/interpret questions.ipynb",
+                "Frameworks/rpc.ipynb",
+                "Frameworks/zuora to eloqua.ipynb",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-0.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-1.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-10.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-11.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-12.spec.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-13.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-14.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-15.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-16.spec.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-17.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-18.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-19.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-2.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-20.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-21.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-22.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-23.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-24.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-25.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-26.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-27.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-28.spec.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-29.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-3.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-30.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-31.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-32.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-4.spec.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-5.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-6.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-7.md",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-8.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-9.md",
+                "Utilities/.modules/Utilities/polyfills/cell-0.md",
+                "Utilities/.modules/Utilities/polyfills/cell-1.js",
+                "Utilities/.modules/Utilities/polyfills/cell-2.js",
+                "Utilities/notebook.ipynb",
+                "package-lock.json",
+                "package.json",
+                "webpack.config.js"
+              ]
+            }
+          ]
+        },
+        "2017-12-16": {
+          "date": "2017-12-16",
+          "heatScore": 20,
+          "linesChanged": 157,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-22.js",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-8.js",
+            "Utilities/notebook.ipynb",
+            "Utilities/polyfills.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "3abb5cd2631c5ebdab98a2dd35cbf409cabae4ab",
+              "author": "Brian Cullinan",
+              "date": "2017-12-16T06:34:33.000Z",
+              "message": "no message",
+              "linesAdded": 136,
+              "linesDeleted": 21,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-22.js",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-8.js",
+                "Utilities/notebook.ipynb",
+                "Utilities/polyfills.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-15": {
+          "date": "2017-12-15",
+          "heatScore": 25,
+          "linesChanged": 230,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/rpc.ipynb",
+            "Frameworks/zuora to eloqua.ipynb",
+            "Utilities/.modules/Frameworks/zuora to eloqua/cell-24.js",
+            "Utilities/.modules/Utilities/polyfills/cell-0.md",
+            "Utilities/.modules/Utilities/polyfills/cell-1.js",
+            "Utilities/.modules/Utilities/polyfills/cell-2.js",
+            "Utilities/notebook.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "5d7790652597626e404fbb34cd0e82e91019d77f",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-15T21:45:32.000Z",
+              "message": "no message",
+              "linesAdded": 171,
+              "linesDeleted": 59,
+              "filesChanged": [
+                "Frameworks/rpc.ipynb",
+                "Frameworks/zuora to eloqua.ipynb",
+                "Utilities/.modules/Frameworks/zuora to eloqua/cell-24.js",
+                "Utilities/.modules/Utilities/polyfills/cell-0.md",
+                "Utilities/.modules/Utilities/polyfills/cell-1.js",
+                "Utilities/.modules/Utilities/polyfills/cell-2.js",
+                "Utilities/notebook.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-14": {
+          "date": "2017-12-14",
+          "heatScore": 12,
+          "linesChanged": 44,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/rpc.ipynb",
+            "Utilities/google calendar.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "4be5c1a3f62617316e5efa8c0c04e96948a9cbe7",
+              "author": "Brian Cullinan",
+              "date": "2017-12-14T05:01:04.000Z",
+              "message": "no message",
+              "linesAdded": 38,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "Frameworks/rpc.ipynb",
+                "Utilities/google calendar.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-13": {
+          "date": "2017-12-13",
+          "heatScore": 14,
+          "linesChanged": 74,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c1635570bbe950af2123f1d8a7dace4479466dc0",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-13T22:06:53.000Z",
+              "message": "no message",
+              "linesAdded": 42,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-12": {
+          "date": "2017-12-12",
+          "heatScore": 100,
+          "linesChanged": 25853,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/build Angular components.ipynb",
+            "firebase-debug.log"
+          ],
+          "commits": [
+            {
+              "hash": "367d1339c789dfa6ad2edd5dcb6a75ca3327672d",
+              "author": "Brian Cullinan",
+              "date": "2017-12-12T22:51:05.000Z",
+              "message": "no message",
+              "linesAdded": 12000,
+              "linesDeleted": 13853,
+              "filesChanged": [
+                "Frameworks/build Angular components.ipynb",
+                "firebase-debug.log"
+              ]
+            }
+          ]
+        },
+        "2017-12-11": {
+          "date": "2017-12-11",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "pom.xml"
+          ],
+          "commits": [
+            {
+              "hash": "13b1315075b097b7992bab3677649e2685f9867d",
+              "author": "Brian Cullinan",
+              "date": "2017-12-11T15:16:19.000Z",
+              "message": "no message",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "pom.xml"
+              ]
+            }
+          ]
+        },
+        "2017-12-08": {
+          "date": "2017-12-08",
+          "heatScore": 100,
+          "linesChanged": 3799,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb",
+            "Selenium/data collection.ipynb",
+            "Selenium/forms.ipynb",
+            "Selenium/orchestration.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "95a4b94f4ed3beed04973f101f17a8e5eb5e4ca3",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-08T18:58:11.000Z",
+              "message": "no message",
+              "linesAdded": 2212,
+              "linesDeleted": 1587,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb",
+                "Selenium/data collection.ipynb",
+                "Selenium/forms.ipynb",
+                "Selenium/orchestration.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-07": {
+          "date": "2017-12-07",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "877ae10645cfc1312781c827d52b6efc1fc5a12b",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-07T21:40:24.000Z",
+              "message": "no message",
+              "linesAdded": 12,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-06": {
+          "date": "2017-12-06",
+          "heatScore": 19,
+          "linesChanged": 141,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb",
+            "Selenium/orchestration.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e744932e236115f0ea4061c244ea7f5d9a3b2517",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-06T22:54:32.000Z",
+              "message": "no message",
+              "linesAdded": 99,
+              "linesDeleted": 42,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb",
+                "Selenium/orchestration.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-05": {
+          "date": "2017-12-05",
+          "heatScore": 86,
+          "linesChanged": 1141,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/forms.ipynb",
+            "Selenium/orchestration.ipynb",
+            "Selenium/webdriver.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "487638f656d3b7fb76cd03692ef421a1b9462b5e",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-05T21:15:11.000Z",
+              "message": "no message",
+              "linesAdded": 488,
+              "linesDeleted": 653,
+              "filesChanged": [
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/forms.ipynb",
+                "Selenium/orchestration.ipynb",
+                "Selenium/webdriver.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-12-04": {
+          "date": "2017-12-04",
+          "heatScore": 100,
+          "linesChanged": 4231,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/forms.ipynb",
+            "Selenium/google timeline.ipynb",
+            "Selenium/orchestration.ipynb",
+            "Selenium/service auth.ipynb",
+            "Selenium/webdriver.ipynb",
+            "Utilities/google calendar.ipynb",
+            "com.jupytangular.emailcommands.plist"
+          ],
+          "commits": [
+            {
+              "hash": "61933b66c03d0507a589cc34c4e95f34cd36f2d4",
+              "author": "Brian Cullinan",
+              "date": "2017-12-04T04:53:19.000Z",
+              "message": "no message",
+              "linesAdded": 3534,
+              "linesDeleted": 697,
+              "filesChanged": [
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/forms.ipynb",
+                "Selenium/google timeline.ipynb",
+                "Selenium/orchestration.ipynb",
+                "Selenium/service auth.ipynb",
+                "Selenium/webdriver.ipynb",
+                "Utilities/google calendar.ipynb",
+                "com.jupytangular.emailcommands.plist"
+              ]
+            }
+          ]
+        },
+        "2017-12-01": {
+          "date": "2017-12-01",
+          "heatScore": 71,
+          "linesChanged": 920,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/Dockerfile",
+            "Frameworks/zuora to eloqua.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/orchestration.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "2c65b2e23e7cf09103ad6e5d35c6fc0a75fbd601",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-12-01T21:33:14.000Z",
+              "message": "no message",
+              "linesAdded": 451,
+              "linesDeleted": 469,
+              "filesChanged": [
+                "Core/Dockerfile",
+                "Frameworks/zuora to eloqua.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/orchestration.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

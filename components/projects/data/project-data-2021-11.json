@@ -1,0 +1,1237 @@
+{
+  "yearMonth": "2021-11",
+  "generatedAt": "2026-09-24T02:37:24.697Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-11-23": {
+          "date": "2021-11-23",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_rotation.c",
+            "code/game/g_spawn.c"
+          ],
+          "commits": [
+            {
+              "hash": "d851fddadf1c2690ac508b8fc0b18bddba3d93d0",
+              "author": "Eugene",
+              "date": "2021-11-23T16:25:58.000Z",
+              "message": "Disabled \\g_restarted cvar",
+              "linesAdded": 7,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/game/g_rotation.c",
+                "code/game/g_spawn.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-11-28": {
+          "date": "2021-11-28",
+          "heatScore": 100,
+          "linesChanged": 18720,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json",
+            "src/assets/icons/icon-maximize.svg",
+            "src/assets/icons/icon-minimize.svg",
+            "src/components/application-menu/application-menu.vue",
+            "src/components/application-menu/messages.json",
+            "src/utils/environment-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "fcd7ad90eafe46b3189c03716dd58caf71ff0d27",
+              "author": "Igor Zinken",
+              "date": "2021-11-28T10:34:14.000Z",
+              "message": "Minor a11y updates and icon tweaks",
+              "linesAdded": 18650,
+              "linesDeleted": 70,
+              "filesChanged": [
+                "package-lock.json",
+                "src/assets/icons/icon-maximize.svg",
+                "src/assets/icons/icon-minimize.svg",
+                "src/components/application-menu/application-menu.vue",
+                "src/components/application-menu/messages.json",
+                "src/utils/environment-util.js"
+              ]
+            }
+          ]
+        },
+        "2021-11-21": {
+          "date": "2021-11-21",
+          "heatScore": 17,
+          "linesChanged": 108,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/dropbox-file-selector/dropbox-file-selector.vue",
+            "src/components/dropbox-file-selector/messages.json",
+            "src/services/dropbox-service.js"
+          ],
+          "commits": [
+            {
+              "hash": "0cbae028a197a1aa37f78ea8f342acebe16bfefc",
+              "author": "Igor Zinken",
+              "date": "2021-11-21T09:25:04.000Z",
+              "message": "Implemented UI to delete files/folders directly from the Dropbox browser",
+              "linesAdded": 87,
+              "linesDeleted": 21,
+              "filesChanged": [
+                "src/components/dropbox-file-selector/dropbox-file-selector.vue",
+                "src/components/dropbox-file-selector/messages.json",
+                "src/services/dropbox-service.js"
+              ]
+            }
+          ]
+        },
+        "2021-11-04": {
+          "date": "2021-11-04",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/services/compression-service.js",
+            "src/workers/compression.worker.js"
+          ],
+          "commits": [
+            {
+              "hash": "3be485c67107a32862d9a4265fe96b3d2c526a3a",
+              "author": "Igor Zinken",
+              "date": "2021-11-04T18:49:40.000Z",
+              "message": "Fixed issue where Errors thrown in compression Worker went by unhandled",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/services/compression-service.js",
+                "src/workers/compression.worker.js"
+              ]
+            }
+          ]
+        },
+        "2021-11-03": {
+          "date": "2021-11-03",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/dropbox-file-selector/dropbox-file-selector.vue",
+            "src/services/dropbox-service.js"
+          ],
+          "commits": [
+            {
+              "hash": "12430526973368b904ca88021f81275afd41daeb",
+              "author": "Igor Zinken",
+              "date": "2021-11-03T18:29:33.000Z",
+              "message": "Minor updates to Dropbox integration",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/components/dropbox-file-selector/dropbox-file-selector.vue",
+                "src/services/dropbox-service.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-11-23": {
+          "date": "2021-11-23",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_rotation.c",
+            "code/game/g_spawn.c"
+          ],
+          "commits": [
+            {
+              "hash": "d851fddadf1c2690ac508b8fc0b18bddba3d93d0",
+              "author": "Eugene",
+              "date": "2021-11-23T16:25:58.000Z",
+              "message": "Disabled \\g_restarted cvar",
+              "linesAdded": 7,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/game/g_rotation.c",
+                "code/game/g_spawn.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "Quake3e": {
+      "projectName": "Quake3e",
+      "localPath": "C:\\Users\\megam\\Quake3e",
+      "lastUpdated": "2026-09-24T02:37:19.854Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-11-29": {
+          "date": "2021-11-29",
+          "heatScore": 100,
+          "linesChanged": 84115,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c",
+            "code/qcommon/common.c",
+            "code/renderer/tr_bsp.c",
+            "code/renderer/tr_main.c",
+            "code/renderer/tr_model.c",
+            "code/renderer2/tr_bsp.c",
+            "games/multigame/assets/maps/autosave/tig_ra3_arena_0.2.map",
+            "games/multigame/assets/maps/autosave/tig_ra3_arena_0.3.map",
+            "games/multigame/assets/maps/autosave/tig_ra3_arena_0.4.map",
+            "games/multigame/assets/maps/autosave/tig_ra3_arena_0.5.map",
+            "games/multigame/assets/maps/autosave/tig_ra3_arena_1.1.map",
+            "games/multigame/assets/maps/autosave/tig_ra3_arena_1.2.map",
+            "games/multigame/assets/maps/tig_ra3_arena_0.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_0.lin",
+            "games/multigame/assets/maps/tig_ra3_arena_0.map",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0000.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0001.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0002.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0003.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0004.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0005.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0006.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0007.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0008.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0009.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_1.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_1.prt",
+            "games/multigame/assets/maps/tig_ra3_arena_1.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_1/lm_0000.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_1/lm_0001.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_1/lm_0002.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_1/lm_0003.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_1/lm_0004.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_1/lm_0005.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_1/lm_0006.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_2.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_2.prt",
+            "games/multigame/assets/maps/tig_ra3_arena_2.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_2/lm_0000.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_2/lm_0001.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_2/lm_0002.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_2/lm_0003.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_2/lm_0004.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_2/lm_0005.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_4.prt",
+            "games/multigame/assets/maps/tig_ra3_arena_4.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0000.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0001.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0002.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0003.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0004.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0005.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0006.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0007.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0008.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0009.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0010.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0011.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0012.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0013.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0014.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0015.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0016.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0017.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0018.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4/lm_0019.tga",
+            "games/multigame/assets/scripts/tig_ra3.shader"
+          ],
+          "commits": [
+            {
+              "hash": "6a3b87fcca187ca10d6569538ca38c41b457b8d4",
+              "author": "megamind",
+              "date": "2021-11-29T23:39:12.000Z",
+              "message": "fix for overlapping world, frame rate is bad with all 4 worlds showing at once",
+              "linesAdded": 84096,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "code/client/cl_cgame.c",
+                "code/qcommon/common.c",
+                "code/renderer/tr_bsp.c",
+                "code/renderer/tr_main.c",
+                "code/renderer/tr_model.c",
+                "code/renderer2/tr_bsp.c",
+                "games/multigame/assets/maps/autosave/tig_ra3_arena_0.2.map",
+                "games/multigame/assets/maps/autosave/tig_ra3_arena_0.3.map",
+                "games/multigame/assets/maps/autosave/tig_ra3_arena_0.4.map",
+                "games/multigame/assets/maps/autosave/tig_ra3_arena_0.5.map",
+                "games/multigame/assets/maps/autosave/tig_ra3_arena_1.1.map",
+                "games/multigame/assets/maps/autosave/tig_ra3_arena_1.2.map",
+                "games/multigame/assets/maps/tig_ra3_arena_0.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_0.lin",
+                "games/multigame/assets/maps/tig_ra3_arena_0.map",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0000.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0001.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0002.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0003.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0004.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0005.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0006.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0007.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0008.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0009.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_1.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_1.prt",
+                "games/multigame/assets/maps/tig_ra3_arena_1.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_1/lm_0000.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_1/lm_0001.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_1/lm_0002.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_1/lm_0003.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_1/lm_0004.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_1/lm_0005.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_1/lm_0006.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_2.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_2.prt",
+                "games/multigame/assets/maps/tig_ra3_arena_2.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_2/lm_0000.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_2/lm_0001.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_2/lm_0002.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_2/lm_0003.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_2/lm_0004.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_2/lm_0005.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_4.prt",
+                "games/multigame/assets/maps/tig_ra3_arena_4.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0000.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0001.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0002.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0003.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0004.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0005.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0006.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0007.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0008.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0009.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0010.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0011.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0012.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0013.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0014.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0015.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0016.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0017.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0018.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4/lm_0019.tga",
+                "games/multigame/assets/scripts/tig_ra3.shader"
+              ]
+            }
+          ]
+        },
+        "2021-11-25": {
+          "date": "2021-11-25",
+          "heatScore": 100,
+          "linesChanged": 24541,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c",
+            "code/client/cl_main.c",
+            "code/client/cl_parse.c",
+            "code/qcommon/cm_public.h",
+            "code/qcommon/cm_test.c",
+            "code/renderer/tr_bsp.c",
+            "code/renderer/tr_local.h",
+            "code/renderer/tr_main.c",
+            "code/renderer/tr_world.c",
+            "code/renderer2/tr_main.c",
+            "code/renderer2/tr_world.c",
+            "code/renderercommon/tr_public.h",
+            "code/server/sv_client.c",
+            "code/server/sv_game.c",
+            "code/server/sv_snapshot.c",
+            "games/multigame/assets/maps/autosave/tig_ra3_arena_0.1.map",
+            "games/multigame/assets/maps/autosave/tig_ra3_arena_3.2.map",
+            "games/multigame/assets/maps/tig_ra3_arena_0.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_0.lin",
+            "games/multigame/assets/maps/tig_ra3_arena_0.map",
+            "games/multigame/assets/maps/tig_ra3_arena_0.prt",
+            "games/multigame/assets/maps/tig_ra3_arena_0.srf",
+            "games/multigame/assets/scripts/tig_ra3.shader",
+            "games/multigame/code/cgame/cg_ents.c",
+            "games/multigame/code/game/g_client.c",
+            "games/multigame/code/game/g_misc.c"
+          ],
+          "commits": [
+            {
+              "hash": "3e8c64b7f9d358c57633945664a93ca5fb33e367",
+              "author": "megamind",
+              "date": "2021-11-25T15:17:29.000Z",
+              "message": "working interdimensional cameras, just need working teleporters now",
+              "linesAdded": 16785,
+              "linesDeleted": 7756,
+              "filesChanged": [
+                "code/client/cl_cgame.c",
+                "code/client/cl_main.c",
+                "code/client/cl_parse.c",
+                "code/qcommon/cm_public.h",
+                "code/qcommon/cm_test.c",
+                "code/renderer/tr_bsp.c",
+                "code/renderer/tr_local.h",
+                "code/renderer/tr_main.c",
+                "code/renderer/tr_world.c",
+                "code/renderer2/tr_main.c",
+                "code/renderer2/tr_world.c",
+                "code/renderercommon/tr_public.h",
+                "code/server/sv_client.c",
+                "code/server/sv_game.c",
+                "code/server/sv_snapshot.c",
+                "games/multigame/assets/maps/autosave/tig_ra3_arena_0.1.map",
+                "games/multigame/assets/maps/autosave/tig_ra3_arena_3.2.map",
+                "games/multigame/assets/maps/tig_ra3_arena_0.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_0.lin",
+                "games/multigame/assets/maps/tig_ra3_arena_0.map",
+                "games/multigame/assets/maps/tig_ra3_arena_0.prt",
+                "games/multigame/assets/maps/tig_ra3_arena_0.srf",
+                "games/multigame/assets/scripts/tig_ra3.shader",
+                "games/multigame/code/cgame/cg_ents.c",
+                "games/multigame/code/game/g_client.c",
+                "games/multigame/code/game/g_misc.c"
+              ]
+            }
+          ]
+        },
+        "2021-11-24": {
+          "date": "2021-11-24",
+          "heatScore": 11,
+          "linesChanged": 25,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c",
+            "code/client/cl_input.c",
+            "code/client/cl_keys.c",
+            "code/client/cl_scrn.c"
+          ],
+          "commits": [
+            {
+              "hash": "9269f9cddd35b0e9e8275026c825c85fe9b2cdee",
+              "author": "megamind",
+              "date": "2021-11-24T04:21:22.000Z",
+              "message": "some movement fixes for multiview",
+              "linesAdded": 17,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "code/client/cl_cgame.c",
+                "code/client/cl_input.c",
+                "code/client/cl_keys.c",
+                "code/client/cl_scrn.c"
+              ]
+            }
+          ]
+        },
+        "2021-11-23": {
+          "date": "2021-11-23",
+          "heatScore": 15,
+          "linesChanged": 81,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c",
+            "code/client/cl_input.c",
+            "code/client/cl_parse.c",
+            "code/client/cl_scrn.c"
+          ],
+          "commits": [
+            {
+              "hash": "92be3a95ae4ff9c909931988ae60be8f92ec9d1c",
+              "author": "megamind",
+              "date": "2021-11-23T20:02:54.000Z",
+              "message": "sounds from one world at a time",
+              "linesAdded": 47,
+              "linesDeleted": 34,
+              "filesChanged": [
+                "code/client/cl_cgame.c",
+                "code/client/cl_input.c",
+                "code/client/cl_parse.c",
+                "code/client/cl_scrn.c"
+              ]
+            }
+          ]
+        },
+        "2021-11-20": {
+          "date": "2021-11-20",
+          "heatScore": 32,
+          "linesChanged": 335,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_scrn.c",
+            "code/renderer/tr_image.c",
+            "code/renderer/tr_shader.c",
+            "code/renderer2/tr_shader.c",
+            "docs/games.md",
+            "docs/lazyloading.md",
+            "games/multigame/code/cgame/cg_ents.c",
+            "games/multigame/code/game/g_misc.c",
+            "games/multigame/code/game/g_missile.c"
+          ],
+          "commits": [
+            {
+              "hash": "55c5cb8121419a3f92deac87658be4c0eb1d55db",
+              "author": "megamind",
+              "date": "2021-11-20T06:30:33.000Z",
+              "message": "some fixes for portals, but still need to fix velocity",
+              "linesAdded": 180,
+              "linesDeleted": 155,
+              "filesChanged": [
+                "code/client/cl_scrn.c",
+                "code/renderer/tr_image.c",
+                "code/renderer/tr_shader.c",
+                "code/renderer2/tr_shader.c",
+                "docs/games.md",
+                "docs/lazyloading.md",
+                "games/multigame/code/cgame/cg_ents.c",
+                "games/multigame/code/game/g_misc.c",
+                "games/multigame/code/game/g_missile.c"
+              ]
+            }
+          ]
+        },
+        "2021-11-19": {
+          "date": "2021-11-19",
+          "heatScore": 17,
+          "linesChanged": 109,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/renderer/tr_main.c",
+            "games/multigame/assets/scripts/portal.shader",
+            "games/multigame/code/cgame/cg_draw.c",
+            "games/multigame/code/cgame/cg_ents.c",
+            "games/multigame/code/cgame/cg_event.c"
+          ],
+          "commits": [
+            {
+              "hash": "83c4cfbf2d9218451b4e7ec167a57627e5502489",
+              "author": "megamind",
+              "date": "2021-11-19T16:59:50.000Z",
+              "message": "better portal position tracking",
+              "linesAdded": 69,
+              "linesDeleted": 40,
+              "filesChanged": [
+                "code/renderer/tr_main.c",
+                "games/multigame/assets/scripts/portal.shader",
+                "games/multigame/code/cgame/cg_draw.c",
+                "games/multigame/code/cgame/cg_ents.c",
+                "games/multigame/code/cgame/cg_event.c"
+              ]
+            }
+          ]
+        },
+        "2021-11-18": {
+          "date": "2021-11-18",
+          "heatScore": 18,
+          "linesChanged": 121,
+          "commitCount": 1,
+          "filesEdited": [
+            "games/multigame/code/cgame/cg_consolecmds.c",
+            "games/multigame/code/cgame/cg_draw.c",
+            "games/multigame/code/cgame/cg_effects.c",
+            "games/multigame/code/cgame/cg_event.c",
+            "games/multigame/code/cgame/cg_local.h",
+            "games/multigame/code/cgame/cg_predict.c",
+            "games/multigame/code/cgame/cg_view.c",
+            "games/multigame/code/game/bg_public.h",
+            "games/multigame/code/game/g_local.h",
+            "games/multigame/code/game/g_spawn.c",
+            "games/multigame/code/game/g_target.c",
+            "games/multigame/code/game/q_shared.h"
+          ],
+          "commits": [
+            {
+              "hash": "77359adbe33072a1b10cee68859a980933b0c104",
+              "author": "megamind",
+              "date": "2021-11-18T18:28:57.000Z",
+              "message": "adding single player elements",
+              "linesAdded": 116,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "games/multigame/code/cgame/cg_consolecmds.c",
+                "games/multigame/code/cgame/cg_draw.c",
+                "games/multigame/code/cgame/cg_effects.c",
+                "games/multigame/code/cgame/cg_event.c",
+                "games/multigame/code/cgame/cg_local.h",
+                "games/multigame/code/cgame/cg_predict.c",
+                "games/multigame/code/cgame/cg_view.c",
+                "games/multigame/code/game/bg_public.h",
+                "games/multigame/code/game/g_local.h",
+                "games/multigame/code/game/g_spawn.c",
+                "games/multigame/code/game/g_target.c",
+                "games/multigame/code/game/q_shared.h"
+              ]
+            }
+          ]
+        },
+        "2021-11-17": {
+          "date": "2021-11-17",
+          "heatScore": 26,
+          "linesChanged": 250,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_public.h",
+            "code/client/cl_cgame.c",
+            "code/qcommon/splines.c",
+            "code/qcommon/splines.h",
+            "games/multigame/assets/cameras/test.cam",
+            "games/multigame/code/cgame/cg_consolecmds.c",
+            "games/multigame/code/cgame/cg_draw.c",
+            "games/multigame/code/cgame/cg_local.h",
+            "games/multigame/code/cgame/cg_predict.c",
+            "games/multigame/code/cgame/cg_public.h",
+            "games/multigame/code/cgame/cg_servercmds.c",
+            "games/multigame/code/cgame/cg_syscalls.asm",
+            "games/multigame/code/cgame/cg_syscalls.c",
+            "games/multigame/code/cgame/cg_view.c",
+            "games/multigame/code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "1de9605164ef4518980b128364f797749ea9af98",
+              "author": "megamind",
+              "date": "2021-11-17T23:48:25.000Z",
+              "message": "adding cameras to main, crash",
+              "linesAdded": 174,
+              "linesDeleted": 76,
+              "filesChanged": [
+                "code/cgame/cg_public.h",
+                "code/client/cl_cgame.c",
+                "code/qcommon/splines.c",
+                "code/qcommon/splines.h",
+                "games/multigame/assets/cameras/test.cam",
+                "games/multigame/code/cgame/cg_consolecmds.c",
+                "games/multigame/code/cgame/cg_draw.c",
+                "games/multigame/code/cgame/cg_local.h",
+                "games/multigame/code/cgame/cg_predict.c",
+                "games/multigame/code/cgame/cg_public.h",
+                "games/multigame/code/cgame/cg_servercmds.c",
+                "games/multigame/code/cgame/cg_syscalls.asm",
+                "games/multigame/code/cgame/cg_syscalls.c",
+                "games/multigame/code/cgame/cg_view.c",
+                "games/multigame/code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2021-11-16": {
+          "date": "2021-11-16",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/splines.c"
+          ],
+          "commits": [
+            {
+              "hash": "d62a723e306fbe49b469f8b34c400c36eb7f47ca",
+              "author": "megamind",
+              "date": "2021-11-16T20:35:41.000Z",
+              "message": "still repairing splines",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/qcommon/splines.c"
+              ]
+            }
+          ]
+        },
+        "2021-11-15": {
+          "date": "2021-11-15",
+          "heatScore": 100,
+          "linesChanged": 2389,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/splines.c",
+            "code/qcommon/splines.h",
+            "docs/client.md",
+            "docs/design.md",
+            "docs/games.md",
+            "games/multigame/code/game/g_weapon.c",
+            "make/build_client.make"
+          ],
+          "commits": [
+            {
+              "hash": "24eca973fc0e543966e0f9f5ac8d6e1f2ff6e5ba",
+              "author": "megamind",
+              "date": "2021-11-15T17:15:56.000Z",
+              "message": "working on adding spline cameras using C instead of C++ and hot linking",
+              "linesAdded": 2377,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "code/qcommon/splines.c",
+                "code/qcommon/splines.h",
+                "docs/client.md",
+                "docs/design.md",
+                "docs/games.md",
+                "games/multigame/code/game/g_weapon.c",
+                "make/build_client.make"
+              ]
+            }
+          ]
+        },
+        "2021-11-11": {
+          "date": "2021-11-11",
+          "heatScore": 16,
+          "linesChanged": 93,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/renderer/tr_bsp.c",
+            "code/renderer/tr_init.c",
+            "code/renderer/tr_local.h",
+            "code/renderer/tr_scene.c",
+            "code/renderer2/tr_init.c",
+            "code/renderer2/tr_local.h",
+            "code/server/sv_client.c"
+          ],
+          "commits": [
+            {
+              "hash": "f26e6e1a0b892bc193f4821d5082154f4f939d18",
+              "author": "megamind",
+              "date": "2021-11-11T21:07:23.000Z",
+              "message": "adding multiworld to renderer1",
+              "linesAdded": 91,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "code/renderer/tr_bsp.c",
+                "code/renderer/tr_init.c",
+                "code/renderer/tr_local.h",
+                "code/renderer/tr_scene.c",
+                "code/renderer2/tr_init.c",
+                "code/renderer2/tr_local.h",
+                "code/server/sv_client.c"
+              ]
+            }
+          ]
+        },
+        "2021-11-10": {
+          "date": "2021-11-10",
+          "heatScore": 100,
+          "linesChanged": 321356,
+          "commitCount": 1,
+          "filesEdited": [
+            "Makefile.local",
+            "code/client/cl_ddamage.c",
+            "code/client/cl_keys.c",
+            "code/client/cl_parse.c",
+            "code/client/cl_scrn.c",
+            "code/renderer/tr_common.h",
+            "code/renderer/tr_image.c",
+            "code/renderer/tr_image_dds.c",
+            "code/renderer/tr_local.h",
+            "code/renderer/tr_main.c",
+            "code/renderer/tr_shader.c",
+            "code/server/sv_bsp.c",
+            "code/server/sv_client.c",
+            "docs/client.md",
+            "docs/games.md",
+            "docs/multiworld.md",
+            "docs/procedural.md",
+            "games/multigame/assets/maps/autosave/tig_ra3_arena_3.1.map",
+            "games/multigame/assets/maps/autosave/tig_ra3_arena_4.1.map",
+            "games/multigame/assets/{ => maps}/tig_ra3.cfg",
+            "games/multigame/assets/{ => maps}/tig_ra3.txt",
+            "games/multigame/assets/maps/tig_ra3_arena_0.bak",
+            "games/multigame/assets/maps/tig_ra3_arena_0.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_0.darkradiant",
+            "games/multigame/assets/maps/tig_ra3_arena_0.darkradiant.bak",
+            "games/multigame/assets/maps/tig_ra3_arena_0.map",
+            "games/multigame/assets/maps/tig_ra3_arena_0.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0000.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0001.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0002.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0003.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0004.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0005.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0006.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0007.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0008.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0009.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0_autosave.darkradiant",
+            "games/multigame/assets/maps/tig_ra3_arena_0_autosave.map",
+            "games/multigame/assets/maps/tig_ra3_arena_1.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_1.map",
+            "games/multigame/assets/maps/tig_ra3_arena_1.prt",
+            "games/multigame/assets/maps/tig_ra3_arena_1.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_2.bak",
+            "games/multigame/assets/maps/tig_ra3_arena_2.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_2.darkradiant",
+            "games/multigame/assets/maps/tig_ra3_arena_2.darkradiant.bak",
+            "games/multigame/assets/maps/tig_ra3_arena_2.map",
+            "games/multigame/assets/maps/tig_ra3_arena_2.prt",
+            "games/multigame/assets/maps/tig_ra3_arena_2.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_3.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_3.map",
+            "games/multigame/assets/maps/tig_ra3_arena_3.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0000.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0001.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0002.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0003.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0004.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0005.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0006.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0007.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0008.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0009.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0010.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0011.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0012.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0013.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0014.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0015.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0016.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0017.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0018.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0019.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0020.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0021.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0022.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0023.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0024.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0025.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0026.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0027.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0028.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0029.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_3/lm_0030.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_4.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_4.map",
+            "games/multigame/assets/maps/tig_ra3_arena_4.prt",
+            "games/multigame/assets/maps/tig_ra3_arena_4.srf",
+            "games/multigame/assets/{ => maps}/tig_ra3_compile.txt",
+            "games/multigame/assets/maps/tig_ra3_converted.map",
+            "games/multigame/assets/models/mapobjects/storch/storch.md3",
+            "games/multigame/assets/models/mapobjects/storch/storchx.md3",
+            "games/multigame/assets/models/mapobjects/storch/tall_torch.md3",
+            "games/multigame/assets/models/weapons2/{grenadel => grenadel2}/grenadel.jpg",
+            "games/multigame/assets/models/weapons2/{grenadel => grenadel2}/grenadel.md3",
+            "games/multigame/assets/models/weapons2/{grenadel => grenadel2}/grenadel_1.md3",
+            "games/multigame/assets/models/weapons2/{grenadel => grenadel2}/grenadel_2.md3",
+            "games/multigame/assets/models/weapons2/{lightning => lightning2}/f_lightning.jpg",
+            "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun.md3",
+            "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun.tga",
+            "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_1.md3",
+            "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_2.md3",
+            "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_barrel.md3",
+            "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_barrel_1.md3",
+            "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_barrel_2.md3",
+            "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_hand.md3",
+            "games/multigame/assets/scripts/shaderlist.txt",
+            "games/multigame/assets/scripts/tig_ra3.shader",
+            "games/multigame/code/cgame/cg_ents.c",
+            "games/multigame/code/cgame/cg_local.h",
+            "games/multigame/code/cgame/cg_main.c",
+            "games/multigame/code/game/bg_local.h",
+            "games/multigame/code/game/bg_pmove.c",
+            "games/multigame/code/game/g_client.c",
+            "games/multigame/code/game/g_cmds.c",
+            "games/multigame/code/game/g_local.h",
+            "games/multigame/code/game/g_main.c",
+            "games/multigame/code/game/g_misc.c",
+            "games/multigame/code/game/g_missile.c",
+            "games/multigame/code/game/g_weapon.c",
+            "games/multigame/code/game/q_shared.h"
+          ],
+          "commits": [
+            {
+              "hash": "cf4a9f2f6c0371f5281951d82fedc3660a585a5d",
+              "author": "megamind",
+              "date": "2021-11-10T06:20:48.000Z",
+              "message": "bug fixes for portals, trying to get multiple map portals working",
+              "linesAdded": 102391,
+              "linesDeleted": 218965,
+              "filesChanged": [
+                "Makefile.local",
+                "code/client/cl_ddamage.c",
+                "code/client/cl_keys.c",
+                "code/client/cl_parse.c",
+                "code/client/cl_scrn.c",
+                "code/renderer/tr_common.h",
+                "code/renderer/tr_image.c",
+                "code/renderer/tr_image_dds.c",
+                "code/renderer/tr_local.h",
+                "code/renderer/tr_main.c",
+                "code/renderer/tr_shader.c",
+                "code/server/sv_bsp.c",
+                "code/server/sv_client.c",
+                "docs/client.md",
+                "docs/games.md",
+                "docs/multiworld.md",
+                "docs/procedural.md",
+                "games/multigame/assets/maps/autosave/tig_ra3_arena_3.1.map",
+                "games/multigame/assets/maps/autosave/tig_ra3_arena_4.1.map",
+                "games/multigame/assets/{ => maps}/tig_ra3.cfg",
+                "games/multigame/assets/{ => maps}/tig_ra3.txt",
+                "games/multigame/assets/maps/tig_ra3_arena_0.bak",
+                "games/multigame/assets/maps/tig_ra3_arena_0.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_0.darkradiant",
+                "games/multigame/assets/maps/tig_ra3_arena_0.darkradiant.bak",
+                "games/multigame/assets/maps/tig_ra3_arena_0.map",
+                "games/multigame/assets/maps/tig_ra3_arena_0.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0000.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0001.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0002.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0003.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0004.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0005.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0006.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0007.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0008.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0009.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0_autosave.darkradiant",
+                "games/multigame/assets/maps/tig_ra3_arena_0_autosave.map",
+                "games/multigame/assets/maps/tig_ra3_arena_1.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_1.map",
+                "games/multigame/assets/maps/tig_ra3_arena_1.prt",
+                "games/multigame/assets/maps/tig_ra3_arena_1.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_2.bak",
+                "games/multigame/assets/maps/tig_ra3_arena_2.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_2.darkradiant",
+                "games/multigame/assets/maps/tig_ra3_arena_2.darkradiant.bak",
+                "games/multigame/assets/maps/tig_ra3_arena_2.map",
+                "games/multigame/assets/maps/tig_ra3_arena_2.prt",
+                "games/multigame/assets/maps/tig_ra3_arena_2.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_3.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_3.map",
+                "games/multigame/assets/maps/tig_ra3_arena_3.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0000.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0001.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0002.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0003.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0004.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0005.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0006.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0007.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0008.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0009.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0010.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0011.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0012.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0013.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0014.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0015.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0016.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0017.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0018.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0019.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0020.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0021.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0022.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0023.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0024.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0025.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0026.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0027.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0028.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0029.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_3/lm_0030.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_4.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_4.map",
+                "games/multigame/assets/maps/tig_ra3_arena_4.prt",
+                "games/multigame/assets/maps/tig_ra3_arena_4.srf",
+                "games/multigame/assets/{ => maps}/tig_ra3_compile.txt",
+                "games/multigame/assets/maps/tig_ra3_converted.map",
+                "games/multigame/assets/models/mapobjects/storch/storch.md3",
+                "games/multigame/assets/models/mapobjects/storch/storchx.md3",
+                "games/multigame/assets/models/mapobjects/storch/tall_torch.md3",
+                "games/multigame/assets/models/weapons2/{grenadel => grenadel2}/grenadel.jpg",
+                "games/multigame/assets/models/weapons2/{grenadel => grenadel2}/grenadel.md3",
+                "games/multigame/assets/models/weapons2/{grenadel => grenadel2}/grenadel_1.md3",
+                "games/multigame/assets/models/weapons2/{grenadel => grenadel2}/grenadel_2.md3",
+                "games/multigame/assets/models/weapons2/{lightning => lightning2}/f_lightning.jpg",
+                "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun.md3",
+                "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun.tga",
+                "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_1.md3",
+                "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_2.md3",
+                "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_barrel.md3",
+                "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_barrel_1.md3",
+                "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_barrel_2.md3",
+                "games/multigame/assets/models/weapons2/{machinegun => machinegun2}/machinegun_hand.md3",
+                "games/multigame/assets/scripts/shaderlist.txt",
+                "games/multigame/assets/scripts/tig_ra3.shader",
+                "games/multigame/code/cgame/cg_ents.c",
+                "games/multigame/code/cgame/cg_local.h",
+                "games/multigame/code/cgame/cg_main.c",
+                "games/multigame/code/game/bg_local.h",
+                "games/multigame/code/game/bg_pmove.c",
+                "games/multigame/code/game/g_client.c",
+                "games/multigame/code/game/g_cmds.c",
+                "games/multigame/code/game/g_local.h",
+                "games/multigame/code/game/g_main.c",
+                "games/multigame/code/game/g_misc.c",
+                "games/multigame/code/game/g_missile.c",
+                "games/multigame/code/game/g_weapon.c",
+                "games/multigame/code/game/q_shared.h"
+              ]
+            }
+          ]
+        },
+        "2021-11-08": {
+          "date": "2021-11-08",
+          "heatScore": 100,
+          "linesChanged": 175819,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/server/server.h",
+            "code/server/sv_bsp.c",
+            "code/server/sv_ccmds.c",
+            "docs/procedural.md",
+            "games/multigame/assets/maps/tig_ra3_arena_0.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_0.map",
+            "games/multigame/assets/maps/tig_ra3_arena_0.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_1.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_1.map",
+            "games/multigame/assets/maps/tig_ra3_arena_1.prt",
+            "games/multigame/assets/maps/tig_ra3_arena_1.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_2.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_2.map",
+            "games/multigame/assets/maps/tig_ra3_arena_2.prt",
+            "games/multigame/assets/maps/tig_ra3_arena_2.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_3.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_3.lin",
+            "games/multigame/assets/maps/tig_ra3_arena_3.map",
+            "games/multigame/assets/maps/tig_ra3_arena_3.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_4.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_4.map",
+            "games/multigame/assets/maps/tig_ra3_arena_4.prt",
+            "games/multigame/assets/maps/tig_ra3_arena_4.srf",
+            "games/q3mme/code/bspc/l_threads.c",
+            "libs/tools/quake3/common/threads.cpp"
+          ],
+          "commits": [
+            {
+              "hash": "4a319677ab43e8e4f18494ed8fead27999f9d9db",
+              "author": "megamind",
+              "date": "2021-11-08T17:19:50.000Z",
+              "message": "added fast and slow lighting mode",
+              "linesAdded": 121720,
+              "linesDeleted": 54099,
+              "filesChanged": [
+                "code/server/server.h",
+                "code/server/sv_bsp.c",
+                "code/server/sv_ccmds.c",
+                "docs/procedural.md",
+                "games/multigame/assets/maps/tig_ra3_arena_0.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_0.map",
+                "games/multigame/assets/maps/tig_ra3_arena_0.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_1.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_1.map",
+                "games/multigame/assets/maps/tig_ra3_arena_1.prt",
+                "games/multigame/assets/maps/tig_ra3_arena_1.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_2.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_2.map",
+                "games/multigame/assets/maps/tig_ra3_arena_2.prt",
+                "games/multigame/assets/maps/tig_ra3_arena_2.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_3.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_3.lin",
+                "games/multigame/assets/maps/tig_ra3_arena_3.map",
+                "games/multigame/assets/maps/tig_ra3_arena_3.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_4.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_4.map",
+                "games/multigame/assets/maps/tig_ra3_arena_4.prt",
+                "games/multigame/assets/maps/tig_ra3_arena_4.srf",
+                "games/q3mme/code/bspc/l_threads.c",
+                "libs/tools/quake3/common/threads.cpp"
+              ]
+            }
+          ]
+        },
+        "2021-11-07": {
+          "date": "2021-11-07",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/server/sv_bsp.c"
+          ],
+          "commits": [
+            {
+              "hash": "638bf9741ada687253bef75a48c5bd9f3dfcedea",
+              "author": "megamind",
+              "date": "2021-11-07T05:59:47.000Z",
+              "message": "better test for brushes for sv_bspSplice",
+              "linesAdded": 25,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "code/server/sv_bsp.c"
+              ]
+            }
+          ]
+        },
+        "2021-11-05": {
+          "date": "2021-11-05",
+          "heatScore": 100,
+          "linesChanged": 162786,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/files.c",
+            "code/server/server.h",
+            "code/server/sv_bsp.c",
+            "code/server/sv_init.c",
+            "code/server/sv_main.c",
+            "games/multigame/assets/maps/tig_ra3_arena_0.bsp",
+            "games/multigame/assets/maps/tig_ra3_arena_0.prt",
+            "games/multigame/assets/maps/tig_ra3_arena_0.srf",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0000.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0001.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0002.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0003.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0004.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0005.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0006.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0007.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0008.tga",
+            "games/multigame/assets/maps/tig_ra3_arena_0/lm_0009.tga",
+            "games/multigame/assets/maps/tig_ra3_converted.map",
+            "games/multigame/assets/maps/{tig_ra3.map => tig_ra3_src.map}"
+          ],
+          "commits": [
+            {
+              "hash": "80067bae5509070f411fe1f9dfe348ae9cf7e3bc",
+              "author": "megamind",
+              "date": "2021-11-05T20:04:07.000Z",
+              "message": "trying to get map compiled but noticed menus aren't working",
+              "linesAdded": 112998,
+              "linesDeleted": 49788,
+              "filesChanged": [
+                "code/qcommon/files.c",
+                "code/server/server.h",
+                "code/server/sv_bsp.c",
+                "code/server/sv_init.c",
+                "code/server/sv_main.c",
+                "games/multigame/assets/maps/tig_ra3_arena_0.bsp",
+                "games/multigame/assets/maps/tig_ra3_arena_0.prt",
+                "games/multigame/assets/maps/tig_ra3_arena_0.srf",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0000.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0001.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0002.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0003.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0004.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0005.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0006.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0007.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0008.tga",
+                "games/multigame/assets/maps/tig_ra3_arena_0/lm_0009.tga",
+                "games/multigame/assets/maps/tig_ra3_converted.map",
+                "games/multigame/assets/maps/{tig_ra3.map => tig_ra3_src.map}"
+              ]
+            }
+          ]
+        },
+        "2021-11-03": {
+          "date": "2021-11-03",
+          "heatScore": 19,
+          "linesChanged": 136,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/renderer/tr_main.c",
+            "games/multigame/assets/scripts/portal.shader",
+            "games/multigame/code/cgame/cg_ents.c",
+            "games/multigame/code/game/g_active.c",
+            "games/multigame/code/game/g_combat.c",
+            "games/multigame/code/game/g_local.h",
+            "games/multigame/code/game/g_misc.c"
+          ],
+          "commits": [
+            {
+              "hash": "69a577044e123ed13ecc1f42dbffae4380f84b51",
+              "author": "megamind",
+              "date": "2021-11-03T05:37:54.000Z",
+              "message": "need to fix alignment on walls to always point towards player, angles for standing portals only work when flat",
+              "linesAdded": 90,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "code/renderer/tr_main.c",
+                "games/multigame/assets/scripts/portal.shader",
+                "games/multigame/code/cgame/cg_ents.c",
+                "games/multigame/code/game/g_active.c",
+                "games/multigame/code/game/g_combat.c",
+                "games/multigame/code/game/g_local.h",
+                "games/multigame/code/game/g_misc.c"
+              ]
+            }
+          ]
+        },
+        "2021-11-02": {
+          "date": "2021-11-02",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/games.md",
+            "games/multigame/code/cgame/cg_ents.c",
+            "games/multigame/code/game/g_misc.c",
+            "games/multigame/code/game/g_trigger.c"
+          ],
+          "commits": [
+            {
+              "hash": "1ea469fedc1dee433c125d5c248063d77a623131",
+              "author": "megamind",
+              "date": "2021-11-02T03:40:53.000Z",
+              "message": "portals are cool enough to use with rune powerups",
+              "linesAdded": 19,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/games.md",
+                "games/multigame/code/cgame/cg_ents.c",
+                "games/multigame/code/game/g_misc.c",
+                "games/multigame/code/game/g_trigger.c"
+              ]
+            }
+          ]
+        },
+        "2021-11-01": {
+          "date": "2021-11-01",
+          "heatScore": 18,
+          "linesChanged": 125,
+          "commitCount": 1,
+          "filesEdited": [
+            "games/multigame/code/game/g_misc.c"
+          ],
+          "commits": [
+            {
+              "hash": "9b611e7b890addf4853dcf617edd796328d98ab0",
+              "author": "megamind",
+              "date": "2021-11-01T21:28:38.000Z",
+              "message": "teleporter directions working, still needs some fine tuning",
+              "linesAdded": 99,
+              "linesDeleted": 26,
+              "filesChanged": [
+                "games/multigame/code/game/g_misc.c"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

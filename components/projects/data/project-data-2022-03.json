@@ -1,0 +1,980 @@
+{
+  "yearMonth": "2022-03",
+  "generatedAt": "2026-09-24T02:37:24.793Z",
+  "username": "briancullinan2",
+  "projects": {
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2022-03-27": {
+          "date": "2022-03-27",
+          "heatScore": 100,
+          "linesChanged": 11382,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google storage api.ipynb",
+            "Core/cache.ipynb",
+            "Core/intent.ipynb",
+            "Frontends/convert spreadsheet.ipynb",
+            "Games/quake 3 commands.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "84889ec462120e06d1fc0d450f20817db9b3d50f",
+              "author": "megamind",
+              "date": "2022-03-27T17:13:19.000Z",
+              "message": "something",
+              "linesAdded": 2203,
+              "linesDeleted": 9179,
+              "filesChanged": [
+                "Cloud Services/google storage api.ipynb",
+                "Core/cache.ipynb",
+                "Core/intent.ipynb",
+                "Frontends/convert spreadsheet.ipynb",
+                "Games/quake 3 commands.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "Quake3e": {
+      "projectName": "Quake3e",
+      "localPath": "C:\\Users\\megam\\Quake3e",
+      "lastUpdated": "2026-09-24T02:37:19.854Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2022-03-31": {
+          "date": "2022-03-31",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "make/platform_wasm.make"
+          ],
+          "commits": [
+            {
+              "hash": "c0d0ef6cd2e10d06816522c5dd6ff57ae5a313c4",
+              "author": "megamind",
+              "date": "2022-03-31T06:14:44.000Z",
+              "message": "fix for build",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "make/platform_wasm.make"
+              ]
+            }
+          ]
+        },
+        "2022-03-30": {
+          "date": "2022-03-30",
+          "heatScore": 61,
+          "linesChanged": 770,
+          "commitCount": 1,
+          "filesEdited": [
+            "bin/quake3e.html",
+            "bin/quake3e.wasm",
+            "code/client/snd_dma.c",
+            "code/client/snd_local.h",
+            "code/client/snd_mix.c",
+            "code/wasm/dlmalloc.c",
+            "code/wasm/http/sys_net.js",
+            "code/wasm/http/sys_snd.js"
+          ],
+          "commits": [
+            {
+              "hash": "6bddae9501821244fd0cc01e0079003b485bd20f",
+              "author": "megamind",
+              "date": "2022-03-30T21:29:45.000Z",
+              "message": "possible fix for sound",
+              "linesAdded": 556,
+              "linesDeleted": 214,
+              "filesChanged": [
+                "bin/quake3e.html",
+                "bin/quake3e.wasm",
+                "code/client/snd_dma.c",
+                "code/client/snd_local.h",
+                "code/client/snd_mix.c",
+                "code/wasm/dlmalloc.c",
+                "code/wasm/http/sys_net.js",
+                "code/wasm/http/sys_snd.js"
+              ]
+            }
+          ]
+        },
+        "2022-03-29": {
+          "date": "2022-03-29",
+          "heatScore": 21,
+          "linesChanged": 172,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/wasm/http/quake3e.min.js",
+            "make/build_client.make",
+            "make/platform.make",
+            "make/platform_wasm.make",
+            "make/repack.make"
+          ],
+          "commits": [
+            {
+              "hash": "e6b80b809061cc036e7536210680d258857354b6",
+              "author": "megamind",
+              "date": "2022-03-29T19:09:00.000Z",
+              "message": "trying to implement web-first build system",
+              "linesAdded": 89,
+              "linesDeleted": 83,
+              "filesChanged": [
+                "code/wasm/http/quake3e.min.js",
+                "make/build_client.make",
+                "make/platform.make",
+                "make/platform_wasm.make",
+                "make/repack.make"
+              ]
+            }
+          ]
+        },
+        "2022-03-28": {
+          "date": "2022-03-28",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "make/platform_wasm.make"
+          ],
+          "commits": [
+            {
+              "hash": "2242d293181a7498727bf77600f756b874c22ff3",
+              "author": "megamind",
+              "date": "2022-03-28T06:25:37.000Z",
+              "message": "fix for build",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "make/platform_wasm.make"
+              ]
+            }
+          ]
+        },
+        "2022-03-27": {
+          "date": "2022-03-27",
+          "heatScore": 13,
+          "linesChanged": 48,
+          "commitCount": 1,
+          "filesEdited": [
+            "make/repack.make"
+          ],
+          "commits": [
+            {
+              "hash": "4c1ac05fad0d37d6dcf29d858874fd805721e938",
+              "author": "megamind",
+              "date": "2022-03-27T17:38:08.000Z",
+              "message": "fix for lvlworld starting lots of dirs",
+              "linesAdded": 29,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "make/repack.make"
+              ]
+            }
+          ]
+        },
+        "2022-03-26": {
+          "date": "2022-03-26",
+          "heatScore": 18,
+          "linesChanged": 134,
+          "commitCount": 1,
+          "filesEdited": [
+            ".ogg",
+            "make/repack.make"
+          ],
+          "commits": [
+            {
+              "hash": "ccf76e693d29ccbf3220ed949b2b9762d754a0e0",
+              "author": "megamind",
+              "date": "2022-03-26T23:48:33.000Z",
+              "message": "making new archive, need to add more files",
+              "linesAdded": 94,
+              "linesDeleted": 40,
+              "filesChanged": [
+                ".ogg",
+                "make/repack.make"
+              ]
+            }
+          ]
+        },
+        "2022-03-25": {
+          "date": "2022-03-25",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/snd_dma.c",
+            "code/client/snd_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "32f0ea571beb5786fd61f838ef8ee44668243373",
+              "author": "megamind",
+              "date": "2022-03-25T17:30:31.000Z",
+              "message": "memsetting my whacky dma.buffer abuse caused si. interface to get cleared",
+              "linesAdded": 2,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "code/client/snd_dma.c",
+                "code/client/snd_main.c"
+              ]
+            }
+          ]
+        },
+        "2022-03-23": {
+          "date": "2022-03-23",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/wasm/http/quake3e.js",
+            "make/platform_wasm.make",
+            "make/repack.make"
+          ],
+          "commits": [
+            {
+              "hash": "ef2557e9ba2631501298bd6197a39211f36a9bcd",
+              "author": "megamind",
+              "date": "2022-03-23T23:49:50.000Z",
+              "message": "map and vms included in HTML file",
+              "linesAdded": 12,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "code/wasm/http/quake3e.js",
+                "make/platform_wasm.make",
+                "make/repack.make"
+              ]
+            }
+          ]
+        },
+        "2022-03-22": {
+          "date": "2022-03-22",
+          "heatScore": 14,
+          "linesChanged": 64,
+          "commitCount": 1,
+          "filesEdited": [
+            "make/repack.make"
+          ],
+          "commits": [
+            {
+              "hash": "3aa7ca25612f5364ca124f4f38bfbff36c5e000f",
+              "author": "megamind",
+              "date": "2022-03-22T23:45:17.000Z",
+              "message": "repack script for pk3dirs",
+              "linesAdded": 49,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "make/repack.make"
+              ]
+            }
+          ]
+        },
+        "2022-03-21": {
+          "date": "2022-03-21",
+          "heatScore": 61,
+          "linesChanged": 773,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/build.yml",
+            "code/client/cl_main.c",
+            "code/qcommon/files.c",
+            "code/renderer/tr_image.c",
+            "code/renderer2/tr_image.c",
+            "code/renderercommon/tr_image_png.c",
+            "code/wasm/http/index.css",
+            "code/wasm/http/index.html",
+            "code/wasm/http/quake3e.min.js",
+            "code/wasm/http/sys_emgl.js",
+            "code/wasm/http/sys_fs.js",
+            "code/wasm/http/sys_net.js",
+            "code/wasm/http/sys_wasm.js",
+            "docs/multiworld.md",
+            "games/multigame/assets/version.json",
+            "make/build_client.make",
+            "make/platform_wasm.make",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "fb6cd3187de419c677b62a4accfd3a6dbdba5789",
+              "author": "megamind",
+              "date": "2022-03-21T23:17:56.000Z",
+              "message": "new HTML page build",
+              "linesAdded": 429,
+              "linesDeleted": 344,
+              "filesChanged": [
+                ".github/workflows/build.yml",
+                "code/client/cl_main.c",
+                "code/qcommon/files.c",
+                "code/renderer/tr_image.c",
+                "code/renderer2/tr_image.c",
+                "code/renderercommon/tr_image_png.c",
+                "code/wasm/http/index.css",
+                "code/wasm/http/index.html",
+                "code/wasm/http/quake3e.min.js",
+                "code/wasm/http/sys_emgl.js",
+                "code/wasm/http/sys_fs.js",
+                "code/wasm/http/sys_net.js",
+                "code/wasm/http/sys_wasm.js",
+                "docs/multiworld.md",
+                "games/multigame/assets/version.json",
+                "make/build_client.make",
+                "make/platform_wasm.make",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2022-03-20": {
+          "date": "2022-03-20",
+          "heatScore": 32,
+          "linesChanged": 344,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_main.c",
+            "code/client/cl_ui.c",
+            "code/qcommon/common.c",
+            "code/qcommon/files_async.c",
+            "code/qcommon/net_chan.c",
+            "code/qcommon/net_ip.c",
+            "code/qcommon/qcommon.h",
+            "code/server/sv_main.c",
+            "code/wasm/bin/master.js",
+            "code/wasm/bin/web.js",
+            "code/wasm/http/quake3e.js",
+            "code/wasm/http/sys_net.js",
+            "code/wasm/http/sys_wasm.js",
+            "code/wasm/lib/socks.server.js",
+            "code/wasm/wasm copy.syms",
+            "code/wasm/wasm-nogl.syms",
+            "code/wasm/wasm.syms",
+            "games/multigame/assets/version.json",
+            "games/multigame/code/cgame/cg_event.c",
+            "games/multigame/code/cgame/cg_main.c",
+            "make/platform_wasm.make"
+          ],
+          "commits": [
+            {
+              "hash": "700dabfc0c0e56a87219ea8dfcbee9184985c125",
+              "author": "megamind",
+              "date": "2022-03-20T23:50:50.000Z",
+              "message": "possible fix for connecting to server with socks proxy",
+              "linesAdded": 187,
+              "linesDeleted": 157,
+              "filesChanged": [
+                "code/client/cl_main.c",
+                "code/client/cl_ui.c",
+                "code/qcommon/common.c",
+                "code/qcommon/files_async.c",
+                "code/qcommon/net_chan.c",
+                "code/qcommon/net_ip.c",
+                "code/qcommon/qcommon.h",
+                "code/server/sv_main.c",
+                "code/wasm/bin/master.js",
+                "code/wasm/bin/web.js",
+                "code/wasm/http/quake3e.js",
+                "code/wasm/http/sys_net.js",
+                "code/wasm/http/sys_wasm.js",
+                "code/wasm/lib/socks.server.js",
+                "code/wasm/wasm copy.syms",
+                "code/wasm/wasm-nogl.syms",
+                "code/wasm/wasm.syms",
+                "games/multigame/assets/version.json",
+                "games/multigame/code/cgame/cg_event.c",
+                "games/multigame/code/cgame/cg_main.c",
+                "make/platform_wasm.make"
+              ]
+            }
+          ]
+        },
+        "2022-03-19": {
+          "date": "2022-03-19",
+          "heatScore": 29,
+          "linesChanged": 290,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/files_async.c",
+            "code/qcommon/net_ip.c",
+            "code/qcommon/qcommon.h",
+            "code/renderer2/tr_model.c",
+            "code/wasm/bin/web.js",
+            "code/wasm/http/quake3e.js",
+            "code/wasm/http/sys_net.js",
+            "code/wasm/http/sys_std.js",
+            "code/wasm/lib/socks.server.js",
+            "code/wasm/wasm.syms",
+            "make/build_client.make",
+            "make/lib_musl.make"
+          ],
+          "commits": [
+            {
+              "hash": "4702284a9af161a305c8c07bee71ceb153df4d0d",
+              "author": "megamind",
+              "date": "2022-03-19T22:55:59.000Z",
+              "message": "trying to get socks5 connection working again",
+              "linesAdded": 260,
+              "linesDeleted": 30,
+              "filesChanged": [
+                "code/qcommon/files_async.c",
+                "code/qcommon/net_ip.c",
+                "code/qcommon/qcommon.h",
+                "code/renderer2/tr_model.c",
+                "code/wasm/bin/web.js",
+                "code/wasm/http/quake3e.js",
+                "code/wasm/http/sys_net.js",
+                "code/wasm/http/sys_std.js",
+                "code/wasm/lib/socks.server.js",
+                "code/wasm/wasm.syms",
+                "make/build_client.make",
+                "make/lib_musl.make"
+              ]
+            }
+          ]
+        },
+        "2022-03-18": {
+          "date": "2022-03-18",
+          "heatScore": 10,
+          "linesChanged": 11,
+          "commitCount": 1,
+          "filesEdited": [
+            "make/platform_macos.make",
+            "make/platform_wasm.make"
+          ],
+          "commits": [
+            {
+              "hash": "4cf7f04c885e99c0c1b1cede4cfd05df1122cdb1",
+              "author": "megamind",
+              "date": "2022-03-18T17:58:52.000Z",
+              "message": "trying to get git actions to work",
+              "linesAdded": 5,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "make/platform_macos.make",
+                "make/platform_wasm.make"
+              ]
+            }
+          ]
+        },
+        "2022-03-15": {
+          "date": "2022-03-15",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/snd_dma.c",
+            "code/qcommon/common.c",
+            "code/qcommon/files.c",
+            "code/renderer2/tr_image.c",
+            "code/wasm/http/sys_emgl.js"
+          ],
+          "commits": [
+            {
+              "hash": "9f064eb9b89ac95bc4f82c2ce1cbdab9d18efffc",
+              "author": "megamind",
+              "date": "2022-03-15T06:03:15.000Z",
+              "message": "fix for most images, but weird slowness is back",
+              "linesAdded": 22,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "code/client/snd_dma.c",
+                "code/qcommon/common.c",
+                "code/qcommon/files.c",
+                "code/renderer2/tr_image.c",
+                "code/wasm/http/sys_emgl.js"
+              ]
+            }
+          ]
+        },
+        "2022-03-14": {
+          "date": "2022-03-14",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/build.yml",
+            "code/wasm/http/sys_in.js"
+          ],
+          "commits": [
+            {
+              "hash": "984ff55066344d42707842ab510bdee6975c1faa",
+              "author": "megamind",
+              "date": "2022-03-14T19:17:27.000Z",
+              "message": "trying to get game archive working, omg",
+              "linesAdded": 11,
+              "linesDeleted": 2,
+              "filesChanged": [
+                ".github/workflows/build.yml",
+                "code/wasm/http/sys_in.js"
+              ]
+            }
+          ]
+        },
+        "2022-03-13": {
+          "date": "2022-03-13",
+          "heatScore": 24,
+          "linesChanged": 218,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_main.c",
+            "code/qcommon/common.c",
+            "code/qcommon/files_async.c",
+            "code/renderer2/tr_model.c",
+            "code/wasm/bin/cors.json",
+            "code/wasm/dlmalloc.c",
+            "code/wasm/http/quake3e.js",
+            "code/wasm/http/sys_in.js",
+            "code/wasm/http/sys_net.js",
+            "code/wasm/http/sys_std.js",
+            "code/wasm/wasm.syms",
+            "games/multigame/assets/version.json",
+            "make/build_client.make",
+            "make/platform_wasm.make",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "2caf21b3e8f45bdeca2d7a00360ac64f92b31cf8",
+              "author": "megamind",
+              "date": "2022-03-13T06:47:39.000Z",
+              "message": "fixes for 404s connected to google storage",
+              "linesAdded": 158,
+              "linesDeleted": 60,
+              "filesChanged": [
+                "code/client/cl_main.c",
+                "code/qcommon/common.c",
+                "code/qcommon/files_async.c",
+                "code/renderer2/tr_model.c",
+                "code/wasm/bin/cors.json",
+                "code/wasm/dlmalloc.c",
+                "code/wasm/http/quake3e.js",
+                "code/wasm/http/sys_in.js",
+                "code/wasm/http/sys_net.js",
+                "code/wasm/http/sys_std.js",
+                "code/wasm/wasm.syms",
+                "games/multigame/assets/version.json",
+                "make/build_client.make",
+                "make/platform_wasm.make",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2022-03-12": {
+          "date": "2022-03-12",
+          "heatScore": 26,
+          "linesChanged": 250,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/common.c",
+            "code/wasm/bits/errno.h",
+            "code/wasm/dlmalloc.c",
+            "code/wasm/http/quake3e.js",
+            "code/wasm/http/sys_wasm.js",
+            "code/wasm/sbrk.c",
+            "code/wasm/wasm.syms",
+            "games/multigame/assets/version.json"
+          ],
+          "commits": [
+            {
+              "hash": "d65d91abcde052e37008e7590cc63aca9c7ab3f7",
+              "author": "megamind",
+              "date": "2022-03-12T22:26:11.000Z",
+              "message": "fix for emscripten memory resizing and finally working server load and 3D map, exactly the same as native with loading graphics.",
+              "linesAdded": 158,
+              "linesDeleted": 92,
+              "filesChanged": [
+                "code/qcommon/common.c",
+                "code/wasm/bits/errno.h",
+                "code/wasm/dlmalloc.c",
+                "code/wasm/http/quake3e.js",
+                "code/wasm/http/sys_wasm.js",
+                "code/wasm/sbrk.c",
+                "code/wasm/wasm.syms",
+                "games/multigame/assets/version.json"
+              ]
+            }
+          ]
+        },
+        "2022-03-11": {
+          "date": "2022-03-11",
+          "heatScore": 100,
+          "linesChanged": 1934,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c",
+            "code/qcommon/files_async.c",
+            "code/qcommon/q_shared.h",
+            "code/renderer2/tr_init.c",
+            "code/renderer2/tr_mesh.c",
+            "code/unix/linux_snd.c",
+            "code/wasm/assert.h",
+            "code/wasm/bin/web.js",
+            "code/wasm/ctype.h",
+            "code/wasm/http/index.html",
+            "code/wasm/http/quake3e.js",
+            "code/wasm/http/sys_em.js",
+            "code/wasm/http/sys_emgl.js",
+            "code/wasm/http/sys_fs.js",
+            "code/wasm/http/sys_in.js",
+            "code/wasm/http/sys_std.js",
+            "code/wasm/http/sys_wasm.js",
+            "code/wasm/limits.h",
+            "code/wasm/math.h",
+            "code/wasm/setjmp.h",
+            "code/wasm/stdarg.h",
+            "code/wasm/stddef.h",
+            "code/wasm/stdint.h",
+            "code/wasm/stdio.h",
+            "code/wasm/stdlib.h",
+            "code/wasm/string.h",
+            "code/wasm/sys/stat.h",
+            "code/wasm/sys/time.h",
+            "code/wasm/sys/types.h",
+            "code/wasm/time.h",
+            "code/wasm/unistd.h",
+            "code/wasm/wasm.syms",
+            "docs/client.md",
+            "games/multigame/assets/version.json",
+            "make/build_client.make",
+            "make/build_renderer.make",
+            "make/build_renderer2.make",
+            "make/config-defaults.make",
+            "make/game_oa.make",
+            "make/lib_curl.make",
+            "make/lib_jpeg.make",
+            "make/lib_vorbis.make",
+            "make/platform.make",
+            "make/platform_emjs.make",
+            "make/platform_macos.make",
+            "make/platform_unix.make",
+            "make/platform_wasm.make"
+          ],
+          "commits": [
+            {
+              "hash": "061f7164cf1603ed1594170c20d88f53298c1e91",
+              "author": "megamind",
+              "date": "2022-03-11T23:58:42.000Z",
+              "message": "omg! finally copied GL stuff from emscripten and not building direct to wasm. renderer working",
+              "linesAdded": 1819,
+              "linesDeleted": 115,
+              "filesChanged": [
+                "code/client/cl_cgame.c",
+                "code/qcommon/files_async.c",
+                "code/qcommon/q_shared.h",
+                "code/renderer2/tr_init.c",
+                "code/renderer2/tr_mesh.c",
+                "code/unix/linux_snd.c",
+                "code/wasm/assert.h",
+                "code/wasm/bin/web.js",
+                "code/wasm/ctype.h",
+                "code/wasm/http/index.html",
+                "code/wasm/http/quake3e.js",
+                "code/wasm/http/sys_em.js",
+                "code/wasm/http/sys_emgl.js",
+                "code/wasm/http/sys_fs.js",
+                "code/wasm/http/sys_in.js",
+                "code/wasm/http/sys_std.js",
+                "code/wasm/http/sys_wasm.js",
+                "code/wasm/limits.h",
+                "code/wasm/math.h",
+                "code/wasm/setjmp.h",
+                "code/wasm/stdarg.h",
+                "code/wasm/stddef.h",
+                "code/wasm/stdint.h",
+                "code/wasm/stdio.h",
+                "code/wasm/stdlib.h",
+                "code/wasm/string.h",
+                "code/wasm/sys/stat.h",
+                "code/wasm/sys/time.h",
+                "code/wasm/sys/types.h",
+                "code/wasm/time.h",
+                "code/wasm/unistd.h",
+                "code/wasm/wasm.syms",
+                "docs/client.md",
+                "games/multigame/assets/version.json",
+                "make/build_client.make",
+                "make/build_renderer.make",
+                "make/build_renderer2.make",
+                "make/config-defaults.make",
+                "make/game_oa.make",
+                "make/lib_curl.make",
+                "make/lib_jpeg.make",
+                "make/lib_vorbis.make",
+                "make/platform.make",
+                "make/platform_emjs.make",
+                "make/platform_macos.make",
+                "make/platform_unix.make",
+                "make/platform_wasm.make"
+              ]
+            }
+          ]
+        },
+        "2022-03-10": {
+          "date": "2022-03-10",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/files_async.c"
+          ],
+          "commits": [
+            {
+              "hash": "f6d0236ee672a6bec6c1aa6c16fc0ec757d8c051",
+              "author": "megamind",
+              "date": "2022-03-10T23:31:32.000Z",
+              "message": "fix for build",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/qcommon/files_async.c"
+              ]
+            }
+          ]
+        },
+        "2022-03-09": {
+          "date": "2022-03-09",
+          "heatScore": 14,
+          "linesChanged": 69,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_console.c",
+            "code/client/cl_main.c",
+            "code/client/cl_scrn.c",
+            "code/qcommon/files.c",
+            "games/multigame/assets/version.json",
+            "games/multigame/code/cgame/cg_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "4de19abbe0c950f4eaa096817ffa2fa86dc39545",
+              "author": "megamind",
+              "date": "2022-03-09T23:35:22.000Z",
+              "message": "working on refresh cgame display",
+              "linesAdded": 42,
+              "linesDeleted": 27,
+              "filesChanged": [
+                "code/client/cl_console.c",
+                "code/client/cl_main.c",
+                "code/client/cl_scrn.c",
+                "code/qcommon/files.c",
+                "games/multigame/assets/version.json",
+                "games/multigame/code/cgame/cg_main.c"
+              ]
+            }
+          ]
+        },
+        "2022-03-08": {
+          "date": "2022-03-08",
+          "heatScore": 13,
+          "linesChanged": 53,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_curl.c",
+            "code/client/cl_main.c",
+            "code/qcommon/files.c",
+            "code/renderer/tr_model.c",
+            "code/server/sv_init.c",
+            "games/multigame/assets/version.json",
+            "games/multigame/code/cgame/cg_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "d492fc6e2a23b48bc851ab244ee3890bae0ac215",
+              "author": "megamind",
+              "date": "2022-03-08T19:31:59.000Z",
+              "message": "still trying to get level to load smoothly",
+              "linesAdded": 33,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "code/client/cl_curl.c",
+                "code/client/cl_main.c",
+                "code/qcommon/files.c",
+                "code/renderer/tr_model.c",
+                "code/server/sv_init.c",
+                "games/multigame/assets/version.json",
+                "games/multigame/code/cgame/cg_main.c"
+              ]
+            }
+          ]
+        },
+        "2022-03-07": {
+          "date": "2022-03-07",
+          "heatScore": 24,
+          "linesChanged": 216,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/files.c",
+            "code/server/sv_game.c",
+            "code/server/sv_init.c",
+            "games/multigame/assets/version.json"
+          ],
+          "commits": [
+            {
+              "hash": "b7fb2da4a9e8d9dbf732e5806d83f3aa0d844249",
+              "author": "megamind",
+              "date": "2022-03-07T17:04:04.000Z",
+              "message": "closer on fixing game startup, static virtual file indexing",
+              "linesAdded": 101,
+              "linesDeleted": 115,
+              "filesChanged": [
+                "code/qcommon/files.c",
+                "code/server/sv_game.c",
+                "code/server/sv_init.c",
+                "games/multigame/assets/version.json"
+              ]
+            }
+          ]
+        },
+        "2022-03-06": {
+          "date": "2022-03-06",
+          "heatScore": 100,
+          "linesChanged": 88275,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cin.c",
+            "code/client/cl_curl.c",
+            "code/qcommon/files.c",
+            "code/server/sv_ccmds.c",
+            "code/wasm/bin/lvlworld-index.json",
+            "code/wasm/bin/lvlworld.json",
+            "code/wasm/bin/lvlworldsync.js",
+            "code/wasm/bin/maplist.json",
+            "games/multigame/assets/version.json"
+          ],
+          "commits": [
+            {
+              "hash": "8b117729da442fa66f39a5d71aed4691760cdddf",
+              "author": "megamind",
+              "date": "2022-03-06T05:01:00.000Z",
+              "message": "possible asynchronous loading of maps, need asynch qagame start",
+              "linesAdded": 2549,
+              "linesDeleted": 85726,
+              "filesChanged": [
+                "code/client/cl_cin.c",
+                "code/client/cl_curl.c",
+                "code/qcommon/files.c",
+                "code/server/sv_ccmds.c",
+                "code/wasm/bin/lvlworld-index.json",
+                "code/wasm/bin/lvlworld.json",
+                "code/wasm/bin/lvlworldsync.js",
+                "code/wasm/bin/maplist.json",
+                "games/multigame/assets/version.json"
+              ]
+            }
+          ]
+        },
+        "2022-03-05": {
+          "date": "2022-03-05",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/build.yml"
+          ],
+          "commits": [
+            {
+              "hash": "61d2a26fc3e1cf1018e24650594f964ff335e124",
+              "author": "megamind",
+              "date": "2022-03-05T15:30:20.000Z",
+              "message": "fix for autobuild",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                ".github/workflows/build.yml"
+              ]
+            }
+          ]
+        },
+        "2022-03-04": {
+          "date": "2022-03-04",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/build.yml"
+          ],
+          "commits": [
+            {
+              "hash": "e819e22a1e97640d2f36efa710c0095f7fa8f7b0",
+              "author": "megamind",
+              "date": "2022-03-04T23:37:48.000Z",
+              "message": "fix for autobuild",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                ".github/workflows/build.yml"
+              ]
+            }
+          ]
+        },
+        "2022-03-03": {
+          "date": "2022-03-03",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "games/multigame/assets/version.json",
+            "games/multigame/code/q3_ui/ui_playersettings.c"
+          ],
+          "commits": [
+            {
+              "hash": "b1f68ee7c657107fe041c5d9747858ab2753ff03",
+              "author": "megamind",
+              "date": "2022-03-03T21:20:19.000Z",
+              "message": "removed jittering on player settings page as model was loading",
+              "linesAdded": 20,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "games/multigame/assets/version.json",
+                "games/multigame/code/q3_ui/ui_playersettings.c"
+              ]
+            }
+          ]
+        },
+        "2022-03-01": {
+          "date": "2022-03-01",
+          "heatScore": 18,
+          "linesChanged": 133,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_curl.c",
+            "code/client/cl_main.c",
+            "code/client/snd_codec.c",
+            "code/qcommon/files.c",
+            "games/multigame/assets/version.json"
+          ],
+          "commits": [
+            {
+              "hash": "89061db643495a7c7cc01c9970fc05fcbf01b464",
+              "author": "megamind",
+              "date": "2022-03-01T20:35:49.000Z",
+              "message": "multiple downloads at the same time",
+              "linesAdded": 104,
+              "linesDeleted": 29,
+              "filesChanged": [
+                "code/client/cl_curl.c",
+                "code/client/cl_main.c",
+                "code/client/snd_codec.c",
+                "code/qcommon/files.c",
+                "games/multigame/assets/version.json"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

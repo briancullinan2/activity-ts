@@ -1,0 +1,1034 @@
+{
+  "yearMonth": "2023-07",
+  "generatedAt": "2026-09-24T02:37:24.654Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-07-28": {
+          "date": "2023-07-28",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "b04be1dc9f1a0b09d13448a05f11be4aa0527524",
+              "author": "Brian Cullinan",
+              "date": "2023-07-28T12:21:02.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 7,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-07-22": {
+          "date": "2023-07-22",
+          "heatScore": 12,
+          "linesChanged": 44,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "4e19f127bce54e55f879c132656682a97f1cd705",
+              "author": "Brian Cullinan",
+              "date": "2023-07-22T17:07:10.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 7,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-07-18": {
+          "date": "2023-07-18",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "304340e5f16ba57e6d3962e6b2189e35f2bad389",
+              "author": "Brian Cullinan",
+              "date": "2023-07-18T03:00:18.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-07-17": {
+          "date": "2023-07-17",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "f8dcb23175805e45dac25249df27ba08c41bcd34",
+              "author": "Brian Cullinan",
+              "date": "2023-07-17T20:55:21.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-07-16": {
+          "date": "2023-07-16",
+          "heatScore": 16,
+          "linesChanged": 90,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "df1db916889061d71e9113d2198cdf564c6e320a",
+              "author": "Brian Cullinan",
+              "date": "2023-07-16T09:28:02.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 6,
+              "linesDeleted": 84,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-07-13": {
+          "date": "2023-07-13",
+          "heatScore": 17,
+          "linesChanged": 107,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "8b92e68e99e4a49294ebe2b77a49c234934d1d1c",
+              "author": "Brian Cullinan",
+              "date": "2023-07-13T19:34:23.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 84,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-07-15": {
+          "date": "2023-07-15",
+          "heatScore": 100,
+          "linesChanged": 6212,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/ui/ui_cvar.h",
+            "code/ui/ui_local.h",
+            "code/ui/ui_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "219c9c78cdd2209c75f3a2985b9c2e5222d09ab5",
+              "author": "Eugene",
+              "date": "2023-07-15T19:53:29.000Z",
+              "message": "Merge pull request #26 from LegendaryGuard/fix_ui_ta_accident",
+              "linesAdded": 6061,
+              "linesDeleted": 151,
+              "filesChanged": [
+                "README.md",
+                "code/ui/ui_cvar.h",
+                "code/ui/ui_local.h",
+                "code/ui/ui_main.c"
+              ]
+            }
+          ]
+        },
+        "2023-07-13": {
+          "date": "2023-07-13",
+          "heatScore": 100,
+          "linesChanged": 7582,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_cvar.h",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/game/g_cvar.h",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/q3_ui/ui_cvar.h",
+            "code/q3_ui/ui_local.h",
+            "code/q3_ui/ui_main.c",
+            "code/ui/ui_cvar.h",
+            "code/ui/ui_local.h",
+            "code/ui/ui_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "582b7a320fdd4ecb52d48a145aa3c70dc7128858",
+              "author": "LegendaryGuard",
+              "date": "2023-07-13T22:12:55.000Z",
+              "message": "Simplify cvar declaration to a single line of each",
+              "linesAdded": 547,
+              "linesDeleted": 7035,
+              "filesChanged": [
+                "code/cgame/cg_cvar.h",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/game/g_cvar.h",
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/q3_ui/ui_cvar.h",
+                "code/q3_ui/ui_local.h",
+                "code/q3_ui/ui_main.c",
+                "code/ui/ui_cvar.h",
+                "code/ui/ui_local.h",
+                "code/ui/ui_main.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-07-15": {
+          "date": "2023-07-15",
+          "heatScore": 100,
+          "linesChanged": 6212,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/ui/ui_cvar.h",
+            "code/ui/ui_local.h",
+            "code/ui/ui_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "219c9c78cdd2209c75f3a2985b9c2e5222d09ab5",
+              "author": "Eugene",
+              "date": "2023-07-15T19:53:29.000Z",
+              "message": "Merge pull request #26 from LegendaryGuard/fix_ui_ta_accident",
+              "linesAdded": 6061,
+              "linesDeleted": 151,
+              "filesChanged": [
+                "README.md",
+                "code/ui/ui_cvar.h",
+                "code/ui/ui_local.h",
+                "code/ui/ui_main.c"
+              ]
+            }
+          ]
+        },
+        "2023-07-13": {
+          "date": "2023-07-13",
+          "heatScore": 100,
+          "linesChanged": 7582,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_cvar.h",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/game/g_cvar.h",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/q3_ui/ui_cvar.h",
+            "code/q3_ui/ui_local.h",
+            "code/q3_ui/ui_main.c",
+            "code/ui/ui_cvar.h",
+            "code/ui/ui_local.h",
+            "code/ui/ui_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "582b7a320fdd4ecb52d48a145aa3c70dc7128858",
+              "author": "LegendaryGuard",
+              "date": "2023-07-13T22:12:55.000Z",
+              "message": "Simplify cvar declaration to a single line of each",
+              "linesAdded": 547,
+              "linesDeleted": 7035,
+              "filesChanged": [
+                "code/cgame/cg_cvar.h",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/game/g_cvar.h",
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/q3_ui/ui_cvar.h",
+                "code/q3_ui/ui_local.h",
+                "code/q3_ui/ui_main.c",
+                "code/ui/ui_cvar.h",
+                "code/ui/ui_local.h",
+                "code/ui/ui_main.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-07-31": {
+          "date": "2023-07-31",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "730a5d170ffdfb30bd65dc4b765cc28501d85a5f",
+              "author": "comfyanonymous",
+              "date": "2023-07-31T19:24:09.000Z",
+              "message": "Merge branch 'slider_toggle' of https://github.com/Guillaume-Fgt/ComfyUI into prs",
+              "linesAdded": 20,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2023-07-30": {
+          "date": "2023-07-30",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "3dcad78fe1506f2440952fcc86f9159446520247",
+              "author": "FuamiCake",
+              "date": "2023-07-30T21:36:55.000Z",
+              "message": "SaveLatent reports its outputs so they are visible to API",
+              "linesAdded": 9,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-29": {
+          "date": "2023-07-29",
+          "heatScore": 13,
+          "linesChanged": 55,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/diffusionmodules/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "95d796fc85608272a9bf06a8c6c1f45912179118",
+              "author": "comfyanonymous",
+              "date": "2023-07-29T20:28:30.000Z",
+              "message": "Faster VAE loading.",
+              "linesAdded": 28,
+              "linesDeleted": 27,
+              "filesChanged": [
+                "comfy/ldm/modules/diffusionmodules/model.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-28": {
+          "date": "2023-07-28",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy_extras/nodes_model_merging.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "1141029a4ace2e21a7787a8ca6b3bf65cb6457bd",
+              "author": "comfyanonymous",
+              "date": "2023-07-28T16:31:41.000Z",
+              "message": "Add --disable-metadata argument to disable saving metadata in files.",
+              "linesAdded": 26,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy_extras/nodes_model_merging.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-27": {
+          "date": "2023-07-27",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "fbf5c51c1c2d9444208d38f047baa387938019ac",
+              "author": "comfyanonymous",
+              "date": "2023-07-27T20:13:48.000Z",
+              "message": "Merge branch 'fix_batch_timesteps' of https://github.com/asagi4/ComfyUI",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-26": {
+          "date": "2023-07-26",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/diffusers_convert.py"
+          ],
+          "commits": [
+            {
+              "hash": "5379051d1629c1c0849e8292a7bb8717d0bfe749",
+              "author": "comfyanonymous",
+              "date": "2023-07-26T22:26:39.000Z",
+              "message": "Fix diffusers VAE loading.",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/diffusers_convert.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-25": {
+          "date": "2023-07-25",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "727588d076e45f7130af0b4fe61cb30be5a5328c",
+              "author": "comfyanonymous",
+              "date": "2023-07-25T20:39:15.000Z",
+              "message": "Fix some new loras.",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-24": {
+          "date": "2023-07-24",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_upscale_model.py"
+          ],
+          "commits": [
+            {
+              "hash": "a51f33ee49207d6888642d61cf8c5409b8d8d383",
+              "author": "comfyanonymous",
+              "date": "2023-07-24T23:47:32.000Z",
+              "message": "Use bigger tiles when upscaling with model and fallback on OOM.",
+              "linesAdded": 16,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy_extras/nodes_upscale_model.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-23": {
+          "date": "2023-07-23",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "cuda_malloc.py"
+          ],
+          "commits": [
+            {
+              "hash": "30de083dd061a8769cf5a85cbc6805e1bc0a557f",
+              "author": "comfyanonymous",
+              "date": "2023-07-23T17:29:14.000Z",
+              "message": "Disable cuda malloc on all the 9xx series.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "cuda_malloc.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-22": {
+          "date": "2023-07-22",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "67be7eb81d59a7997e79a58e12e408e778d976ff",
+              "author": "comfyanonymous",
+              "date": "2023-07-22T21:01:12.000Z",
+              "message": "Nodes can now patch the unet function.",
+              "linesAdded": 4,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-21": {
+          "date": "2023-07-21",
+          "heatScore": 12,
+          "linesChanged": 39,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "58b2364f58e88e54159399b39452d060c8c609ac",
+              "author": "comfyanonymous",
+              "date": "2023-07-21T18:38:56.000Z",
+              "message": "Properly support SDXL diffusers unet with UNETLoader node.",
+              "linesAdded": 23,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "comfy/sd.py",
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-20": {
+          "date": "2023-07-20",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "0115018695b2786193085cc202b1ab47dd5eabfd",
+              "author": "comfyanonymous",
+              "date": "2023-07-20T23:56:22.000Z",
+              "message": "Print errors and continue when lora weights are not compatible.",
+              "linesAdded": 13,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-19": {
+          "date": "2023-07-19",
+          "heatScore": 14,
+          "linesChanged": 61,
+          "commitCount": 1,
+          "filesEdited": [
+            "latent_preview.py",
+            "main.py",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "ccb6b70de19fd277adb328945411732dbd8dede4",
+              "author": "comfyanonymous",
+              "date": "2023-07-19T21:37:27.000Z",
+              "message": "Move image encoding outside of sampling loop for better preview perf.",
+              "linesAdded": 34,
+              "linesDeleted": 27,
+              "filesChanged": [
+                "latent_preview.py",
+                "main.py",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-18": {
+          "date": "2023-07-18",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_base.py"
+          ],
+          "commits": [
+            {
+              "hash": "51d54775794a9810bb5d9ac3f8fcf8d2b68581aa",
+              "author": "comfyanonymous",
+              "date": "2023-07-18T04:25:53.000Z",
+              "message": "Add key to indicate checkpoint is v_prediction when saving.",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/model_base.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-17": {
+          "date": "2023-07-17",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "ff6b047a74745f93d528df19cc3b40c6f185808c",
+              "author": "comfyanonymous",
+              "date": "2023-07-17T19:18:58.000Z",
+              "message": "Fix device print on old torch version.",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-16": {
+          "date": "2023-07-16",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "ac9c038ac222b71e16f98dd65060381d1895b787",
+              "author": "comfyanonymous",
+              "date": "2023-07-16T07:04:45.000Z",
+              "message": "Merge branch 'master' of https://github.com/ComfyUI-Community/ComfyUI",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-15": {
+          "date": "2023-07-15",
+          "heatScore": 14,
+          "linesChanged": 60,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py",
+            "comfy/sd.py",
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "490771b7f495c95fb52875cf234fffc367162c7e",
+              "author": "comfyanonymous",
+              "date": "2023-07-15T17:24:05.000Z",
+              "message": "Speed up lora loading a bit.",
+              "linesAdded": 35,
+              "linesDeleted": 25,
+              "filesChanged": [
+                "comfy/model_management.py",
+                "comfy/sd.py",
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-14": {
+          "date": "2023-07-14",
+          "heatScore": 11,
+          "linesChanged": 29,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "comfy_extras/nodes_model_merging.py"
+          ],
+          "commits": [
+            {
+              "hash": "91ed2815d542c96fdad75edba2205140de3cbba6",
+              "author": "comfyanonymous",
+              "date": "2023-07-14T06:37:30.000Z",
+              "message": "Add a node to merge CLIP models.",
+              "linesAdded": 27,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/sd.py",
+                "comfy_extras/nodes_model_merging.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-13": {
+          "date": "2023-07-13",
+          "heatScore": 30,
+          "linesChanged": 300,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_canny.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "bdba3942903f59b96d08b95c878eb616c429e5d4",
+              "author": "comfyanonymous",
+              "date": "2023-07-13T17:26:48.000Z",
+              "message": "Add a canny preprocessor node.",
+              "linesAdded": 300,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_canny.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-12": {
+          "date": "2023-07-12",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd1_clip.py"
+          ],
+          "commits": [
+            {
+              "hash": "46dc050c9f5cb1309d411608c2782ab0336f2e9f",
+              "author": "comfyanonymous",
+              "date": "2023-07-12T23:28:48.000Z",
+              "message": "Fix potential tensors being on different devices issues.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/sd1_clip.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-11": {
+          "date": "2023-07-11",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "f4b9390623d968753e30fc89db7e55c697dbc7ba",
+              "author": "comfyanonymous",
+              "date": "2023-07-11T21:35:55.000Z",
+              "message": "Add a random string to the temp prefix for PreviewImage.",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-08": {
+          "date": "2023-07-08",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "05e6eac7b347655916302bb5a210b9aacd7a598e",
+              "author": "Huang-Huang Bao",
+              "date": "2023-07-08T03:27:56.000Z",
+              "message": "Scale graph canvas based on DPI factor",
+              "linesAdded": 19,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-07-10": {
+          "date": "2023-07-10",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/latent_formats.py",
+            "comfy/sd1_clip.py",
+            "comfy/sdxl_clip.py"
+          ],
+          "commits": [
+            {
+              "hash": "606a5370908858a2b721a3d79cee44f5b73f251b",
+              "author": "comfyanonymous",
+              "date": "2023-07-10T14:28:38.000Z",
+              "message": "Support SDXL embedding format with 2 CLIP.",
+              "linesAdded": 9,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "comfy/latent_formats.py",
+                "comfy/sd1_clip.py",
+                "comfy/sdxl_clip.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-09": {
+          "date": "2023-07-09",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "6ad0a6d7e2f656af2e0ad501db6d9f5d14ae7add",
+              "author": "comfyanonymous",
+              "date": "2023-07-09T21:46:56.000Z",
+              "message": "Don't patch weights when multiplier is zero.",
+              "linesAdded": 5,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-07": {
+          "date": "2023-07-07",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js",
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "d43cff21055fdd0054acba075cea19740bca69da",
+              "author": "Dr.Lt.Data",
+              "date": "2023-07-07T16:42:33.000Z",
+              "message": "bugfix: image widget's was mis-aligned when node has multiline widget",
+              "linesAdded": 6,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/app.js",
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2023-07-06": {
+          "date": "2023-07-06",
+          "heatScore": 11,
+          "linesChanged": 28,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/windows_release_nightly_pytorch.yml",
+            "comfy/cli_args.py",
+            "comfy/model_management.py",
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "e7bee85df8ab3e7bf4a2bd5bd78592c811e94a34",
+              "author": "comfyanonymous",
+              "date": "2023-07-06T22:04:28.000Z",
+              "message": "Add arguments to run the VAE in fp16 or bf16 for testing.",
+              "linesAdded": 21,
+              "linesDeleted": 7,
+              "filesChanged": [
+                ".github/workflows/windows_release_nightly_pytorch.yml",
+                "comfy/cli_args.py",
+                "comfy/model_management.py",
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-05": {
+          "date": "2023-07-05",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "603f02d6133ab4eb7c654207e30aa5a89a81f6cc",
+              "author": "comfyanonymous",
+              "date": "2023-07-05T23:37:19.000Z",
+              "message": "Fix loras not working when loading checkpoint with config.",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-04": {
+          "date": "2023-07-04",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "c61a95f9f7852bcd9c679d96f1f42ace00782643",
+              "author": "mara",
+              "date": "2023-07-04T14:30:17.000Z",
+              "message": "Fix size check for conditioning mask",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-03": {
+          "date": "2023-07-03",
+          "heatScore": 13,
+          "linesChanged": 51,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_clip_sdxl.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "d94ddd8548f91cfc08fa7228dceaadf1f72e8878",
+              "author": "comfyanonymous",
+              "date": "2023-07-03T23:10:47.000Z",
+              "message": "Add text encode nodes to control the extra parameters in SDXL.",
+              "linesAdded": 51,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_clip_sdxl.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-07-02": {
+          "date": "2023-07-02",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "extra_model_paths.yaml.example"
+          ],
+          "commits": [
+            {
+              "hash": "9ae6ff65bc9f4a8470745a6acda06ce8dc68ac6c",
+              "author": "Yaruze66",
+              "date": "2023-07-02T17:59:55.000Z",
+              "message": "Update extra_model_paths.yaml.example: add RealESRGAN path",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "extra_model_paths.yaml.example"
+              ]
+            }
+          ]
+        },
+        "2023-07-01": {
+          "date": "2023-07-01",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py",
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "1c1b0e7299fa771f7f740aa95ade79ebb3ac5cfa",
+              "author": "comfyanonymous",
+              "date": "2023-07-01T19:22:40.000Z",
+              "message": "--gpu-only now keeps the VAE on the device.",
+              "linesAdded": 15,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy/model_management.py",
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

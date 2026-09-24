@@ -1,0 +1,168 @@
+{
+  "yearMonth": "2017-03",
+  "generatedAt": "2026-09-24T02:37:24.933Z",
+  "username": "briancullinan2",
+  "projects": {
+    "three.js": {
+      "projectName": "three.js",
+      "localPath": "C:\\Users\\megam\\three.js",
+      "remoteUrl": "git@github.com:mrdoob/three.js.git",
+      "lastUpdated": "2026-09-24T02:37:22.748Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-03-30": {
+          "date": "2017-03-30",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/materials/Material.js"
+          ],
+          "commits": [
+            {
+              "hash": "1dd8c69564560a3e2909d696bc3caea7d3623c9a",
+              "author": "Brian Chirls",
+              "date": "2017-03-30T04:58:48.000Z",
+              "message": "Copy Material `dithering` property in `copy` and `toJSON` #11076",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/materials/Material.js"
+              ]
+            }
+          ]
+        },
+        "2017-03-29": {
+          "date": "2017-03-29",
+          "heatScore": 12,
+          "linesChanged": 42,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/api/materials/Material.html",
+            "examples/webgl_lights_spotlight.html",
+            "src/materials/Material.js",
+            "src/renderers/shaders/ShaderChunk.js",
+            "src/renderers/shaders/ShaderChunk/dithering_fragment.glsl",
+            "src/renderers/shaders/ShaderChunk/{removebanding_pars_fragment.glsl => dithering_pars_fragment.glsl}",
+            "src/renderers/shaders/ShaderChunk/removebanding_fragment.glsl",
+            "src/renderers/shaders/ShaderLib/meshlambert_frag.glsl",
+            "src/renderers/shaders/ShaderLib/meshphong_frag.glsl",
+            "src/renderers/shaders/ShaderLib/meshphysical_frag.glsl",
+            "src/renderers/webgl/WebGLProgram.js",
+            "src/renderers/webgl/WebGLPrograms.js"
+          ],
+          "commits": [
+            {
+              "hash": "e1f2773178d057bd6e8d40bcbc06a7756c150377",
+              "author": "Brian Chirls",
+              "date": "2017-03-29T21:53:10.000Z",
+              "message": "Rename removeBanding to dithering #11076",
+              "linesAdded": 21,
+              "linesDeleted": 21,
+              "filesChanged": [
+                "docs/api/materials/Material.html",
+                "examples/webgl_lights_spotlight.html",
+                "src/materials/Material.js",
+                "src/renderers/shaders/ShaderChunk.js",
+                "src/renderers/shaders/ShaderChunk/dithering_fragment.glsl",
+                "src/renderers/shaders/ShaderChunk/{removebanding_pars_fragment.glsl => dithering_pars_fragment.glsl}",
+                "src/renderers/shaders/ShaderChunk/removebanding_fragment.glsl",
+                "src/renderers/shaders/ShaderLib/meshlambert_frag.glsl",
+                "src/renderers/shaders/ShaderLib/meshphong_frag.glsl",
+                "src/renderers/shaders/ShaderLib/meshphysical_frag.glsl",
+                "src/renderers/webgl/WebGLProgram.js",
+                "src/renderers/webgl/WebGLPrograms.js"
+              ]
+            }
+          ]
+        },
+        "2017-03-28": {
+          "date": "2017-03-28",
+          "heatScore": 13,
+          "linesChanged": 45,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/api/materials/Material.html",
+            "examples/webgl_lights_spotlight.html",
+            "src/materials/Material.js",
+            "src/renderers/shaders/ShaderChunk.js",
+            "src/renderers/shaders/ShaderChunk/removebanding_fragment.glsl",
+            "src/renderers/shaders/ShaderChunk/removebanding_pars_fragment.glsl",
+            "src/renderers/shaders/ShaderLib/meshlambert_frag.glsl",
+            "src/renderers/shaders/ShaderLib/meshphong_frag.glsl",
+            "src/renderers/shaders/ShaderLib/meshphysical_frag.glsl",
+            "src/renderers/webgl/WebGLProgram.js",
+            "src/renderers/webgl/WebGLPrograms.js"
+          ],
+          "commits": [
+            {
+              "hash": "c40466c4a2f2a1526d2c6bb41804e31db4e620ae",
+              "author": "Brian Chirls",
+              "date": "2017-03-28T12:42:06.000Z",
+              "message": "Add parameter to Material to remove banding with dithering",
+              "linesAdded": 42,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/api/materials/Material.html",
+                "examples/webgl_lights_spotlight.html",
+                "src/materials/Material.js",
+                "src/renderers/shaders/ShaderChunk.js",
+                "src/renderers/shaders/ShaderChunk/removebanding_fragment.glsl",
+                "src/renderers/shaders/ShaderChunk/removebanding_pars_fragment.glsl",
+                "src/renderers/shaders/ShaderLib/meshlambert_frag.glsl",
+                "src/renderers/shaders/ShaderLib/meshphong_frag.glsl",
+                "src/renderers/shaders/ShaderLib/meshphysical_frag.glsl",
+                "src/renderers/webgl/WebGLProgram.js",
+                "src/renderers/webgl/WebGLPrograms.js"
+              ]
+            }
+          ]
+        },
+        "2017-03-27": {
+          "date": "2017-03-27",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/api/math/Color.html"
+          ],
+          "commits": [
+            {
+              "hash": "f263d78f9becbe97f6a8e442118c33a28d322d96",
+              "author": "Brian A MacIntosh",
+              "date": "2017-03-27T01:47:01.000Z",
+              "message": "Merge pull request #1 from BrianMacIntosh/dev",
+              "linesAdded": 7,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/api/math/Color.html"
+              ]
+            }
+          ]
+        },
+        "2017-03-26": {
+          "date": "2017-03-26",
+          "heatScore": 14,
+          "linesChanged": 66,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/api/math/Color.html"
+          ],
+          "commits": [
+            {
+              "hash": "2514bd3f437fc25a071caa760863dfc9c7c62434",
+              "author": "Brian A MacIntosh",
+              "date": "2017-03-26T16:10:24.000Z",
+              "message": "grammar/style copy-edit, a few minor clarifications",
+              "linesAdded": 33,
+              "linesDeleted": 33,
+              "filesChanged": [
+                "docs/api/math/Color.html"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

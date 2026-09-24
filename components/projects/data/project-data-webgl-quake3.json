@@ -1,0 +1,57 @@
+{
+  "projectName": "webgl-quake3",
+  "localPath": "C:\\Users\\megam\\webgl-quake3",
+  "remoteUrl": "git@github.com:toji/webgl-quake3.git",
+  "lastUpdated": "2026-09-24T03:04:16.559Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2026-07-02": {
+      "date": "2026-07-02",
+      "heatScore": 100,
+      "linesChanged": 3480,
+      "commitCount": 1,
+      "filesEdited": [
+        "demo_baseq3/download.ps1",
+        "index.html",
+        "js/basis/basis-basics.js",
+        "js/basis/basis_convert.js",
+        "js/basis/basis_loader.js",
+        "js/basis/basis_transcoder.js",
+        "js/main.js",
+        "js/q3bsp.js",
+        "js/q3bsp_worker.js",
+        "js/q3glshader.js",
+        "js/q3movement.js",
+        "js/q3shader.js",
+        "js/util/webxr-polyfill.min.js",
+        "package-lock.json"
+      ],
+      "commits": [
+        {
+          "hash": "d8d52b21be5fe6cb8f752ea50ece8d1b6a71dab4",
+          "author": "Brian Cullinan",
+          "date": "2026-07-02T17:48:07.000Z",
+          "message": "community large number of vertexes fix, 16 bit to 32 bit, movement corner stuck fix, fetch instead of XHR, download script for demo content",
+          "linesAdded": 2435,
+          "linesDeleted": 1045,
+          "filesChanged": [
+            "demo_baseq3/download.ps1",
+            "index.html",
+            "js/basis/basis-basics.js",
+            "js/basis/basis_convert.js",
+            "js/basis/basis_loader.js",
+            "js/basis/basis_transcoder.js",
+            "js/main.js",
+            "js/q3bsp.js",
+            "js/q3bsp_worker.js",
+            "js/q3glshader.js",
+            "js/q3movement.js",
+            "js/q3shader.js",
+            "js/util/webxr-polyfill.min.js",
+            "package-lock.json"
+          ]
+        }
+      ]
+    }
+  }
+}

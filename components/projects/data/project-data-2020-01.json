@@ -1,0 +1,723 @@
+{
+  "yearMonth": "2020-01",
+  "generatedAt": "2026-09-24T02:37:24.722Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2020-01-30": {
+          "date": "2020-01-30",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_active.c"
+          ],
+          "commits": [
+            {
+              "hash": "5055167ec66a4e9afa39bd7dcc8837ec10e67d0c",
+              "author": "Eugene",
+              "date": "2020-01-30T21:28:16.000Z",
+              "message": "Fixed invalid connection marker on bots",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "code/game/g_active.c"
+              ]
+            }
+          ]
+        },
+        "2020-01-05": {
+          "date": "2020-01-05",
+          "heatScore": 12,
+          "linesChanged": 34,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_weapons.c",
+            "code/game/bg_lib.c",
+            "docs/client.txt"
+          ],
+          "commits": [
+            {
+              "hash": "8e668ee7485b5e741d33e8d2b6163f8e5150ea7b",
+              "author": "Eugene",
+              "date": "2020-01-05T13:33:01.000Z",
+              "message": "Use negative cg_drawWeaponSelect values to force permanent display",
+              "linesAdded": 13,
+              "linesDeleted": 21,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_weapons.c",
+                "code/game/bg_lib.c",
+                "docs/client.txt"
+              ]
+            }
+          ]
+        },
+        "2020-01-03": {
+          "date": "2020-01-03",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_weapons.c",
+            "docs/client.txt"
+          ],
+          "commits": [
+            {
+              "hash": "b955788ab281b4cecd4ff8eeb10877eea965b80b",
+              "author": "Eugene C",
+              "date": "2020-01-03T12:15:31.000Z",
+              "message": "Merge pull request #9 from kameltoe/permanent_weapon_list",
+              "linesAdded": 17,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_weapons.c",
+                "docs/client.txt"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2020-01-30": {
+          "date": "2020-01-30",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_active.c"
+          ],
+          "commits": [
+            {
+              "hash": "5055167ec66a4e9afa39bd7dcc8837ec10e67d0c",
+              "author": "Eugene",
+              "date": "2020-01-30T21:28:16.000Z",
+              "message": "Fixed invalid connection marker on bots",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "code/game/g_active.c"
+              ]
+            }
+          ]
+        },
+        "2020-01-05": {
+          "date": "2020-01-05",
+          "heatScore": 12,
+          "linesChanged": 34,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_weapons.c",
+            "code/game/bg_lib.c",
+            "docs/client.txt"
+          ],
+          "commits": [
+            {
+              "hash": "8e668ee7485b5e741d33e8d2b6163f8e5150ea7b",
+              "author": "Eugene",
+              "date": "2020-01-05T13:33:01.000Z",
+              "message": "Use negative cg_drawWeaponSelect values to force permanent display",
+              "linesAdded": 13,
+              "linesDeleted": 21,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_weapons.c",
+                "code/game/bg_lib.c",
+                "docs/client.txt"
+              ]
+            }
+          ]
+        },
+        "2020-01-03": {
+          "date": "2020-01-03",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_weapons.c",
+            "docs/client.txt"
+          ],
+          "commits": [
+            {
+              "hash": "b955788ab281b4cecd4ff8eeb10877eea965b80b",
+              "author": "Eugene C",
+              "date": "2020-01-03T12:15:31.000Z",
+              "message": "Merge pull request #9 from kameltoe/permanent_weapon_list",
+              "linesAdded": 17,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_weapons.c",
+                "docs/client.txt"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2020-01-30": {
+          "date": "2020-01-30",
+          "heatScore": 100,
+          "linesChanged": 3820,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Languages/antlr.ipynb",
+            "tree.json"
+          ],
+          "commits": [
+            {
+              "hash": "4a68252c508692582ff85ef8bee3e91faf1cf507",
+              "author": "Brian",
+              "date": "2020-01-30T21:50:39.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 3274,
+              "linesDeleted": 546,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Languages/antlr.ipynb",
+                "tree.json"
+              ]
+            }
+          ]
+        },
+        "2020-01-29": {
+          "date": "2020-01-29",
+          "heatScore": 59,
+          "linesChanged": 748,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Languages/antlr.ipynb",
+            "tree.json"
+          ],
+          "commits": [
+            {
+              "hash": "250894698b0ecc00d4ffade8c33449f5fc84b97e",
+              "author": "Brian",
+              "date": "2020-01-29T18:10:22.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 45,
+              "linesDeleted": 703,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Languages/antlr.ipynb",
+                "tree.json"
+              ]
+            }
+          ]
+        },
+        "2020-01-28": {
+          "date": "2020-01-28",
+          "heatScore": 100,
+          "linesChanged": 52812,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/data collection.ipynb",
+            "Core/cache.ipynb",
+            "Languages/antlr.ipynb",
+            "package.json",
+            "tree.json"
+          ],
+          "commits": [
+            {
+              "hash": "71a87f3e4b3d13d0589d8e8440be7535513ca9a7",
+              "author": "Brian",
+              "date": "2020-01-28T20:17:33.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 33978,
+              "linesDeleted": 18834,
+              "filesChanged": [
+                "Analytics/data collection.ipynb",
+                "Core/cache.ipynb",
+                "Languages/antlr.ipynb",
+                "package.json",
+                "tree.json"
+              ]
+            }
+          ]
+        },
+        "2020-01-27": {
+          "date": "2020-01-27",
+          "heatScore": 100,
+          "linesChanged": 61814,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            ".tags",
+            ".tags1",
+            "Core/cache.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c5651f39996b58060ac61dea2dad90950d7ffb1e",
+              "author": "Brian",
+              "date": "2020-01-27T23:18:26.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 18,
+              "linesDeleted": 61796,
+              "filesChanged": [
+                ".gitignore",
+                ".tags",
+                ".tags1",
+                "Core/cache.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-01-26": {
+          "date": "2020-01-26",
+          "heatScore": 100,
+          "linesChanged": 20768,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/data collection.ipynb",
+            "Core/cache.ipynb",
+            "Languages/antlr.ipynb",
+            "tree.json"
+          ],
+          "commits": [
+            {
+              "hash": "aeca658922b05c10f75fdc6160253983bd06ea62",
+              "author": "Brian",
+              "date": "2020-01-26T22:54:39.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 20718,
+              "linesDeleted": 50,
+              "filesChanged": [
+                "Analytics/data collection.ipynb",
+                "Core/cache.ipynb",
+                "Languages/antlr.ipynb",
+                "tree.json"
+              ]
+            }
+          ]
+        },
+        "2020-01-25": {
+          "date": "2020-01-25",
+          "heatScore": 28,
+          "linesChanged": 274,
+          "commitCount": 1,
+          "filesEdited": [
+            ".tags",
+            ".tags1",
+            "Analytics/data collection.ipynb",
+            "Core/cache.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "5ce855421e88a5742eb816e9822e9f6cda1fe549",
+              "author": "Brian",
+              "date": "2020-01-25T20:15:33.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 183,
+              "linesDeleted": 91,
+              "filesChanged": [
+                ".tags",
+                ".tags1",
+                "Analytics/data collection.ipynb",
+                "Core/cache.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-01-24": {
+          "date": "2020-01-24",
+          "heatScore": 16,
+          "linesChanged": 96,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Languages/antlr.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "fadb76f0c360a321a0c5b95c2201560b42232378",
+              "author": "Brian",
+              "date": "2020-01-24T21:05:59.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 49,
+              "linesDeleted": 47,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Languages/antlr.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-01-23": {
+          "date": "2020-01-23",
+          "heatScore": 13,
+          "linesChanged": 59,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Languages/antlr.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c67213cfc5dd08d2208f4b1973e6555121b94014",
+              "author": "Brian",
+              "date": "2020-01-23T23:36:13.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 32,
+              "linesDeleted": 27,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Languages/antlr.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-01-22": {
+          "date": "2020-01-22",
+          "heatScore": 100,
+          "linesChanged": 6887,
+          "commitCount": 1,
+          "filesEdited": [
+            ".babelrc",
+            ".tags",
+            ".tags1",
+            "Core/cache.ipynb",
+            "Core/import.ipynb",
+            "Languages/antlr.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "77d71a8e6bb6ffa1a5c82572ee650763c38e9a47",
+              "author": "Brian",
+              "date": "2020-01-22T22:48:00.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 5307,
+              "linesDeleted": 1580,
+              "filesChanged": [
+                ".babelrc",
+                ".tags",
+                ".tags1",
+                "Core/cache.ipynb",
+                "Core/import.ipynb",
+                "Languages/antlr.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2020-01-21": {
+          "date": "2020-01-21",
+          "heatScore": 100,
+          "linesChanged": 32845,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/syntax.ipynb",
+            "Languages/antlr.ipynb",
+            "Resources/Parsers/cpp/CPP14.interp",
+            "Resources/Parsers/cpp/CPP14.tokens",
+            "Resources/Parsers/cpp/CPP14Lexer.interp",
+            "Resources/Parsers/cpp/CPP14Lexer.js",
+            "Resources/Parsers/cpp/CPP14Lexer.tokens",
+            "Resources/Parsers/cpp/CPP14Listener.js",
+            "Resources/Parsers/cpp/CPP14Parser.js",
+            "Resources/Parsers/cpp/CPP14Visitor.js"
+          ],
+          "commits": [
+            {
+              "hash": "846a4067d9ada4575191e543af1ad26f02dd3094",
+              "author": "Brian",
+              "date": "2020-01-21T22:41:28.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 32416,
+              "linesDeleted": 429,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/syntax.ipynb",
+                "Languages/antlr.ipynb",
+                "Resources/Parsers/cpp/CPP14.interp",
+                "Resources/Parsers/cpp/CPP14.tokens",
+                "Resources/Parsers/cpp/CPP14Lexer.interp",
+                "Resources/Parsers/cpp/CPP14Lexer.js",
+                "Resources/Parsers/cpp/CPP14Lexer.tokens",
+                "Resources/Parsers/cpp/CPP14Listener.js",
+                "Resources/Parsers/cpp/CPP14Parser.js",
+                "Resources/Parsers/cpp/CPP14Visitor.js"
+              ]
+            }
+          ]
+        },
+        "2020-01-20": {
+          "date": "2020-01-20",
+          "heatScore": 82,
+          "linesChanged": 1091,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/languages.ipynb",
+            "Core/patterns.ipynb",
+            "Core/syntax.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "2faad03692eee89d349889df784e5a35162cc5de",
+              "author": "Brian",
+              "date": "2020-01-20T18:52:20.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 798,
+              "linesDeleted": 293,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/languages.ipynb",
+                "Core/patterns.ipynb",
+                "Core/syntax.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-01-19": {
+          "date": "2020-01-19",
+          "heatScore": 100,
+          "linesChanged": 2507,
+          "commitCount": 1,
+          "filesEdited": [
+            ".tags",
+            "Core/cache.ipynb",
+            "Core/files.ipynb",
+            "Games/quake 3 commands.ipynb",
+            "Games/quake 3.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "a0eb1247ee158f575bba9841f02241ebffd44405",
+              "author": "Brian",
+              "date": "2020-01-19T19:18:35.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 1432,
+              "linesDeleted": 1075,
+              "filesChanged": [
+                ".tags",
+                "Core/cache.ipynb",
+                "Core/files.ipynb",
+                "Games/quake 3 commands.ipynb",
+                "Games/quake 3.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-01-17": {
+          "date": "2020-01-17",
+          "heatScore": 19,
+          "linesChanged": 142,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            ".tags1",
+            "Core/cache.ipynb",
+            "Games/quake 3.ipynb",
+            "Utilities/child process.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "eeb73cef220de36adf6ae1be720c51ab9ceb0e85",
+              "author": "Brian",
+              "date": "2020-01-17T05:13:53.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 55,
+              "linesDeleted": 87,
+              "filesChanged": [
+                ".gitignore",
+                ".tags1",
+                "Core/cache.ipynb",
+                "Games/quake 3.ipynb",
+                "Utilities/child process.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-01-11": {
+          "date": "2020-01-11",
+          "heatScore": 21,
+          "linesChanged": 172,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/data collection.ipynb",
+            "Core/cache.ipynb",
+            "Google/google drive.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c177f45dea3e1f5a935bd8b27d79a582dd610242",
+              "author": "Brian",
+              "date": "2020-01-11T00:21:44.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 105,
+              "linesDeleted": 67,
+              "filesChanged": [
+                "Analytics/data collection.ipynb",
+                "Core/cache.ipynb",
+                "Google/google drive.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-01-09": {
+          "date": "2020-01-09",
+          "heatScore": 21,
+          "linesChanged": 166,
+          "commitCount": 1,
+          "filesEdited": [
+            "Algorithms/image magik commands.ipynb",
+            "Core/cache.ipynb",
+            "Frontends/convert spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e94ea079d98a5e73f51a3cb89b3c33774b61f061",
+              "author": "Brian",
+              "date": "2020-01-09T22:54:22.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 95,
+              "linesDeleted": 71,
+              "filesChanged": [
+                "Algorithms/image magik commands.ipynb",
+                "Core/cache.ipynb",
+                "Frontends/convert spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-01-08": {
+          "date": "2020-01-08",
+          "heatScore": 14,
+          "linesChanged": 63,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Google/google drive.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "06953cd6802e9cea38923c21fb1bc677161dd4ff",
+              "author": "Brian",
+              "date": "2020-01-08T03:52:05.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 31,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Google/google drive.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-01-07": {
+          "date": "2020-01-07",
+          "heatScore": 100,
+          "linesChanged": 32029,
+          "commitCount": 1,
+          "filesEdited": [
+            ".tags",
+            "Algorithms/image magik commands.ipynb",
+            "Core/cache.ipynb",
+            "Core/import.ipynb",
+            "Core/rpc.ipynb",
+            "Core/syntax.ipynb",
+            "Databases/git commands.ipynb",
+            "Frontends/convert spreadsheet.ipynb",
+            "Frontends/documentation.ipynb",
+            "Frontends/edit anywhere.ipynb",
+            "Games/quake 3 commands.ipynb",
+            "Google/google drive.ipynb",
+            "Google/google sheets.ipynb",
+            "Resources/APIs/drive.v3.json"
+          ],
+          "commits": [
+            {
+              "hash": "e5826abc760e3f5e87b46a3e29170459d9650636",
+              "author": "Brian",
+              "date": "2020-01-07T23:16:04.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 31677,
+              "linesDeleted": 352,
+              "filesChanged": [
+                ".tags",
+                "Algorithms/image magik commands.ipynb",
+                "Core/cache.ipynb",
+                "Core/import.ipynb",
+                "Core/rpc.ipynb",
+                "Core/syntax.ipynb",
+                "Databases/git commands.ipynb",
+                "Frontends/convert spreadsheet.ipynb",
+                "Frontends/documentation.ipynb",
+                "Frontends/edit anywhere.ipynb",
+                "Games/quake 3 commands.ipynb",
+                "Google/google drive.ipynb",
+                "Google/google sheets.ipynb",
+                "Resources/APIs/drive.v3.json"
+              ]
+            }
+          ]
+        },
+        "2020-01-02": {
+          "date": "2020-01-02",
+          "heatScore": 21,
+          "linesChanged": 171,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/syntax.ipynb",
+            "Frontends/edit anywhere.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "49ab48a1dde5c0dbebb641eca6b50f27ab436939",
+              "author": "Brian Cullinan",
+              "date": "2020-01-02T07:01:22.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 91,
+              "linesDeleted": 80,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/syntax.ipynb",
+                "Frontends/edit anywhere.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

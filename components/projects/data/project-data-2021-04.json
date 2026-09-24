@@ -1,0 +1,939 @@
+{
+  "yearMonth": "2021-04",
+  "generatedAt": "2026-09-24T02:37:24.764Z",
+  "username": "briancullinan2",
+  "projects": {
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-04-30": {
+          "date": "2021-04-30",
+          "heatScore": 19,
+          "linesChanged": 149,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/bitmappery.vue",
+            "src/components/loader/loader.vue"
+          ],
+          "commits": [
+            {
+              "hash": "ab2ed89b063e26c44fb29b67252455f23e7e0391",
+              "author": "Igor Zinken",
+              "date": "2021-04-30T08:12:19.000Z",
+              "message": "Delay showing of loader in case loading state is completed quickly to prevent flicker",
+              "linesAdded": 79,
+              "linesDeleted": 70,
+              "filesChanged": [
+                "src/bitmappery.vue",
+                "src/components/loader/loader.vue"
+              ]
+            }
+          ]
+        },
+        "2021-04-25": {
+          "date": "2021-04-25",
+          "heatScore": 14,
+          "linesChanged": 63,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/bitmappery.vue",
+            "src/utils/file-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "f869311f492bb9a6ceebb81f319f512e84449601",
+              "author": "Igor Zinken",
+              "date": "2021-04-25T07:05:58.000Z",
+              "message": "BitMappery project files can now also be dropped or pasted into the application",
+              "linesAdded": 36,
+              "linesDeleted": 27,
+              "filesChanged": [
+                "src/bitmappery.vue",
+                "src/utils/file-util.js"
+              ]
+            }
+          ]
+        },
+        "2021-04-24": {
+          "date": "2021-04-24",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/document-canvas/document-canvas.vue"
+          ],
+          "commits": [
+            {
+              "hash": "ed38ca8fbb62ddde9f3192488e834b4fc4c9212e",
+              "author": "Igor Zinken",
+              "date": "2021-04-24T14:48:56.000Z",
+              "message": "Display project file name as document title",
+              "linesAdded": 9,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/components/document-canvas/document-canvas.vue"
+              ]
+            }
+          ]
+        },
+        "2021-04-23": {
+          "date": "2021-04-23",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/file-import/messages.json"
+          ],
+          "commits": [
+            {
+              "hash": "f8be3832c3884fbdddb3b06b8df63a0066a3544d",
+              "author": "Igor Zinken",
+              "date": "2021-04-23T16:30:24.000Z",
+              "message": "Update copy to reflect support of file drag and drop",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/components/file-import/messages.json"
+              ]
+            }
+          ]
+        },
+        "2021-04-16": {
+          "date": "2021-04-16",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/document-canvas/document-canvas.vue",
+            "src/definitions/tool-types.js",
+            "src/services/keyboard-service.js"
+          ],
+          "commits": [
+            {
+              "hash": "d4b43879f6ab631e2aac3ce9f8aa3d9021bc3fe9",
+              "author": "Igor Zinken",
+              "date": "2021-04-16T09:38:02.000Z",
+              "message": "Non drawing and selecting tools default to document pan on touch screen devices",
+              "linesAdded": 17,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "src/components/document-canvas/document-canvas.vue",
+                "src/definitions/tool-types.js",
+                "src/services/keyboard-service.js"
+              ]
+            }
+          ]
+        },
+        "2021-04-12": {
+          "date": "2021-04-12",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/canvas-elements/layer-sprite.js"
+          ],
+          "commits": [
+            {
+              "hash": "5262d670f35296cf893596cb1a27f9061b3aaf2c",
+              "author": "Igor Zinken",
+              "date": "2021-04-12T20:07:04.000Z",
+              "message": "Dragging of layer mask contents is now stored in state history",
+              "linesAdded": 18,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "src/rendering/canvas-elements/layer-sprite.js"
+              ]
+            }
+          ]
+        },
+        "2021-04-11": {
+          "date": "2021-04-11",
+          "heatScore": 11,
+          "linesChanged": 28,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/services/keyboard-service.js"
+          ],
+          "commits": [
+            {
+              "hash": "bb4f23823d326eeeffb2aaeac1151577d8b2795c",
+              "author": "Igor Zinken",
+              "date": "2021-04-11T19:30:40.000Z",
+              "message": "Added keyboard control to tool opacity",
+              "linesAdded": 27,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/services/keyboard-service.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-04-17": {
+          "date": "2021-04-17",
+          "heatScore": 18,
+          "linesChanged": 132,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "81e513d06480da0dfdab4e4f8fa0d415bb7355df",
+              "author": "megamind",
+              "date": "2021-04-17T04:34:14.000Z",
+              "message": "formatting fixes for calling admins and connecting to the server in context",
+              "linesAdded": 97,
+              "linesDeleted": 35,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-04-16": {
+          "date": "2021-04-16",
+          "heatScore": 29,
+          "linesChanged": 297,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Docker/docker commands.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "5718d4dee8406b06bbb2209bb37d7b48556c6833",
+              "author": "megamind",
+              "date": "2021-04-16T21:55:02.000Z",
+              "message": "reading q3 events",
+              "linesAdded": 205,
+              "linesDeleted": 92,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Docker/docker commands.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "Quake3e": {
+      "projectName": "Quake3e",
+      "localPath": "C:\\Users\\megam\\Quake3e",
+      "lastUpdated": "2026-09-24T02:37:19.854Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-04-30": {
+          "date": "2021-04-30",
+          "heatScore": 18,
+          "linesChanged": 121,
+          "commitCount": 1,
+          "filesEdited": [
+            "Makefile",
+            "code/tools/common/scriplib.c",
+            "code/tools/q3map2/bspfile_abstract.c",
+            "code/tools/q3map2/image.c",
+            "code/tools/q3map2/prtfile.c"
+          ],
+          "commits": [
+            {
+              "hash": "d5f50b708a0cf935ada589f18f847456cc2f16e2",
+              "author": "megamind",
+              "date": "2021-04-30T21:13:58.000Z",
+              "message": "comiling in order resolves dependencies",
+              "linesAdded": 65,
+              "linesDeleted": 56,
+              "filesChanged": [
+                "Makefile",
+                "code/tools/common/scriplib.c",
+                "code/tools/q3map2/bspfile_abstract.c",
+                "code/tools/q3map2/image.c",
+                "code/tools/q3map2/prtfile.c"
+              ]
+            }
+          ]
+        },
+        "2021-04-29": {
+          "date": "2021-04-29",
+          "heatScore": 82,
+          "linesChanged": 1082,
+          "commitCount": 1,
+          "filesEdited": [
+            "*memory.prt",
+            "*memory.srf",
+            "Makefile",
+            "code/q3map2/map.c",
+            "code/qcommon/cm_load.c",
+            "code/qcommon/cm_public.h",
+            "code/server/server.h",
+            "code/server/sv_bsp.c",
+            "code/server/sv_ccmds.c",
+            "code/server/sv_world.c",
+            "memory.bsp",
+            "memory.prt",
+            "memory.srf"
+          ],
+          "commits": [
+            {
+              "hash": "c7522be998920618dd0ec89d6a1db7c812ffe790",
+              "author": "megamind",
+              "date": "2021-04-29T19:19:05.000Z",
+              "message": "map generating properly but not yet loading properly from memory",
+              "linesAdded": 628,
+              "linesDeleted": 454,
+              "filesChanged": [
+                "*memory.prt",
+                "*memory.srf",
+                "Makefile",
+                "code/q3map2/map.c",
+                "code/qcommon/cm_load.c",
+                "code/qcommon/cm_public.h",
+                "code/server/server.h",
+                "code/server/sv_bsp.c",
+                "code/server/sv_ccmds.c",
+                "code/server/sv_world.c",
+                "memory.bsp",
+                "memory.prt",
+                "memory.srf"
+              ]
+            }
+          ]
+        },
+        "2021-04-28": {
+          "date": "2021-04-28",
+          "heatScore": 100,
+          "linesChanged": 1752,
+          "commitCount": 1,
+          "filesEdited": [
+            "Makefile",
+            "code/q3map2/bsp.c",
+            "code/q3map2/bsp.h",
+            "code/q3map2/bspfile.c",
+            "code/q3map2/bspfile_abstract.c",
+            "code/q3map2/cmdlib.c",
+            "code/q3map2/cmdlib.h",
+            "code/q3map2/inout.c",
+            "code/q3map2/mathlib.h",
+            "code/q3map2/q3map2.h",
+            "code/qcommon/qcommon.h",
+            "code/server/sv_world.c"
+          ],
+          "commits": [
+            {
+              "hash": "8cff2823047ba752182fb2abd1619c2245d80e6f",
+              "author": "megamind",
+              "date": "2021-04-28T22:21:32.000Z",
+              "message": "goddamn duplicate symbols",
+              "linesAdded": 1107,
+              "linesDeleted": 645,
+              "filesChanged": [
+                "Makefile",
+                "code/q3map2/bsp.c",
+                "code/q3map2/bsp.h",
+                "code/q3map2/bspfile.c",
+                "code/q3map2/bspfile_abstract.c",
+                "code/q3map2/cmdlib.c",
+                "code/q3map2/cmdlib.h",
+                "code/q3map2/inout.c",
+                "code/q3map2/mathlib.h",
+                "code/q3map2/q3map2.h",
+                "code/qcommon/qcommon.h",
+                "code/server/sv_world.c"
+              ]
+            }
+          ]
+        },
+        "2021-04-27": {
+          "date": "2021-04-27",
+          "heatScore": 15,
+          "linesChanged": 83,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c",
+            "code/client/cl_input.c",
+            "code/client/cl_keys.c",
+            "code/client/cl_main.c",
+            "code/client/cl_parse.c",
+            "code/client/cl_scrn.c",
+            "code/sdl/sdl_glimp.c",
+            "code/server/sv_client.c"
+          ],
+          "commits": [
+            {
+              "hash": "247df42f3a8780e9aed8be75515783daefda6b98",
+              "author": "megamind",
+              "date": "2021-04-27T22:13:01.000Z",
+              "message": "working movement again after world command addition, movement on 4 screens",
+              "linesAdded": 37,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "code/client/cl_cgame.c",
+                "code/client/cl_input.c",
+                "code/client/cl_keys.c",
+                "code/client/cl_main.c",
+                "code/client/cl_parse.c",
+                "code/client/cl_scrn.c",
+                "code/sdl/sdl_glimp.c",
+                "code/server/sv_client.c"
+              ]
+            }
+          ]
+        },
+        "2021-04-26": {
+          "date": "2021-04-26",
+          "heatScore": 36,
+          "linesChanged": 395,
+          "commitCount": 1,
+          "filesEdited": [
+            "Makefile",
+            "code/botlib/botlib.h",
+            "code/client/cl_cgame.c",
+            "code/client/cl_input.c",
+            "code/client/cl_keys.c",
+            "code/client/cl_main.c",
+            "code/client/cl_parse.c",
+            "code/client/cl_scrn.c",
+            "code/client/cl_ui.c",
+            "code/client/client.h",
+            "code/client/snd_local.h",
+            "code/client/snd_main.c",
+            "code/qcommon/cm_local.h",
+            "code/qcommon/q_shared.h",
+            "code/qcommon/vm_local.h",
+            "code/renderer2/tr_local.h",
+            "code/server/sv_client.c"
+          ],
+          "commits": [
+            {
+              "hash": "09154e04e713bbfa2fbbbf76029c0b691d748177",
+              "author": "megamind",
+              "date": "2021-04-26T23:49:59.000Z",
+              "message": "clean up in the middle of adding multiple games per world via command",
+              "linesAdded": 246,
+              "linesDeleted": 149,
+              "filesChanged": [
+                "Makefile",
+                "code/botlib/botlib.h",
+                "code/client/cl_cgame.c",
+                "code/client/cl_input.c",
+                "code/client/cl_keys.c",
+                "code/client/cl_main.c",
+                "code/client/cl_parse.c",
+                "code/client/cl_scrn.c",
+                "code/client/cl_ui.c",
+                "code/client/client.h",
+                "code/client/snd_local.h",
+                "code/client/snd_main.c",
+                "code/qcommon/cm_local.h",
+                "code/qcommon/q_shared.h",
+                "code/qcommon/vm_local.h",
+                "code/renderer2/tr_local.h",
+                "code/server/sv_client.c"
+              ]
+            }
+          ]
+        },
+        "2021-04-25": {
+          "date": "2021-04-25",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/client/cl_cgame.c",
+            "code/client/cl_curl.c",
+            "code/client/cl_input.c",
+            "code/client/client.h",
+            "code/server/sv_init.c"
+          ],
+          "commits": [
+            {
+              "hash": "bad92311c561150918f8cd04f4a1efc1c4d30007",
+              "author": "megamind",
+              "date": "2021-04-25T20:33:51.000Z",
+              "message": "turning tiling and dvr controls on and off via server setting",
+              "linesAdded": 13,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "README.md",
+                "code/client/cl_cgame.c",
+                "code/client/cl_curl.c",
+                "code/client/cl_input.c",
+                "code/client/client.h",
+                "code/server/sv_init.c"
+              ]
+            }
+          ]
+        },
+        "2021-04-24": {
+          "date": "2021-04-24",
+          "heatScore": 13,
+          "linesChanged": 48,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_input.c",
+            "code/client/cl_parse.c",
+            "code/server/sv_snapshot.c"
+          ],
+          "commits": [
+            {
+              "hash": "a9217c3d871a3c45558629a619818b2fc40edbab",
+              "author": "megamind",
+              "date": "2021-04-24T22:13:37.000Z",
+              "message": "trying to get rid of delta errors",
+              "linesAdded": 26,
+              "linesDeleted": 22,
+              "filesChanged": [
+                "code/client/cl_input.c",
+                "code/client/cl_parse.c",
+                "code/server/sv_snapshot.c"
+              ]
+            }
+          ]
+        },
+        "2021-04-23": {
+          "date": "2021-04-23",
+          "heatScore": 12,
+          "linesChanged": 39,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c",
+            "code/client/cl_input.c",
+            "code/client/cl_parse.c",
+            "code/server/sv_client.c",
+            "code/server/sv_snapshot.c"
+          ],
+          "commits": [
+            {
+              "hash": "985105cec36f114394bbe568cb4d0169fa014961",
+              "author": "megamind",
+              "date": "2021-04-23T02:25:59.000Z",
+              "message": "fix for multivm snapshots primary change is acknowledging multiview before sending multiple snapshots, and dumb dumb bug in for loop never count on gvm, removed debug messages",
+              "linesAdded": 24,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "code/client/cl_cgame.c",
+                "code/client/cl_input.c",
+                "code/client/cl_parse.c",
+                "code/server/sv_client.c",
+                "code/server/sv_snapshot.c"
+              ]
+            }
+          ]
+        },
+        "2021-04-22": {
+          "date": "2021-04-22",
+          "heatScore": 15,
+          "linesChanged": 84,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_input.c",
+            "code/client/cl_parse.c",
+            "code/client/client.h",
+            "code/server/server.h",
+            "code/server/sv_client.c",
+            "code/server/sv_snapshot.c"
+          ],
+          "commits": [
+            {
+              "hash": "a33414ab647cc2cffc14c0b23d63b5fd21637d72",
+              "author": "megamind",
+              "date": "2021-04-22T19:13:52.000Z",
+              "message": "Fix for multiworld joining, bug in adding world bytes",
+              "linesAdded": 47,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "code/client/cl_input.c",
+                "code/client/cl_parse.c",
+                "code/client/client.h",
+                "code/server/server.h",
+                "code/server/sv_client.c",
+                "code/server/sv_snapshot.c"
+              ]
+            }
+          ]
+        },
+        "2021-04-21": {
+          "date": "2021-04-21",
+          "heatScore": 11,
+          "linesChanged": 24,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_input.c",
+            "code/client/cl_parse.c",
+            "code/client/client.h",
+            "code/renderer2/tr_image.c",
+            "code/server/sv_client.c",
+            "code/server/sv_snapshot.c",
+            "code/xquakejs/bin/content.js"
+          ],
+          "commits": [
+            {
+              "hash": "ff76bd95fcc1c7c76311e3bcdd0ecff3152ae464",
+              "author": "megamind",
+              "date": "2021-04-21T20:01:08.000Z",
+              "message": "fix for multiworld and loading palettes",
+              "linesAdded": 17,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "code/client/cl_input.c",
+                "code/client/cl_parse.c",
+                "code/client/client.h",
+                "code/renderer2/tr_image.c",
+                "code/server/sv_client.c",
+                "code/server/sv_snapshot.c",
+                "code/xquakejs/bin/content.js"
+              ]
+            }
+          ]
+        },
+        "2021-04-20": {
+          "date": "2021-04-20",
+          "heatScore": 12,
+          "linesChanged": 39,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_main.c",
+            "code/qcommon/q_shared.h",
+            "code/server/server.h",
+            "code/server/sv_game.c",
+            "code/server/sv_init.c",
+            "code/server/sv_main.c",
+            "code/unix/unix_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "f60d1ebc74a8d0c1fecef8ca6fedefdcfe8cc3b8",
+              "author": "megamind",
+              "date": "2021-04-20T22:48:11.000Z",
+              "message": "small bug  fixes",
+              "linesAdded": 26,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "code/client/cl_main.c",
+                "code/qcommon/q_shared.h",
+                "code/server/server.h",
+                "code/server/sv_game.c",
+                "code/server/sv_init.c",
+                "code/server/sv_main.c",
+                "code/unix/unix_main.c"
+              ]
+            }
+          ]
+        },
+        "2021-04-19": {
+          "date": "2021-04-19",
+          "heatScore": 12,
+          "linesChanged": 44,
+          "commitCount": 1,
+          "filesEdited": [
+            "(null)/baseq3/q3config.cfg",
+            "README.md",
+            "code/renderer2/tr_image.c",
+            "code/renderer2/tr_init.c",
+            "code/renderer2/tr_local.h"
+          ],
+          "commits": [
+            {
+              "hash": "1c2f2bb1c82b2784a263fe08ec07bf04460a89c1",
+              "author": "megamind",
+              "date": "2021-04-19T05:34:57.000Z",
+              "message": "trying to get transparent images working",
+              "linesAdded": 41,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "(null)/baseq3/q3config.cfg",
+                "README.md",
+                "code/renderer2/tr_image.c",
+                "code/renderer2/tr_init.c",
+                "code/renderer2/tr_local.h"
+              ]
+            }
+          ]
+        },
+        "2021-04-18": {
+          "date": "2021-04-18",
+          "heatScore": 70,
+          "linesChanged": 901,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/client/cl_input.c",
+            "code/client/cl_main.c",
+            "code/client/client.h",
+            "code/qcommon/q_shared.h",
+            "code/renderer2/tr_common.h",
+            "code/renderer2/tr_image.c",
+            "code/renderer2/tr_init.c",
+            "code/renderer2/tr_local.h",
+            "code/renderer2/tr_shader.c",
+            "code/server/sv_client.c",
+            "code/xquakejs/bin/convert.js",
+            "code/xquakejs/graphs/baseq3-cc-filelist.json"
+          ],
+          "commits": [
+            {
+              "hash": "b241ab345e2f9ff5ed0a0d82f3b514b647eae3a7",
+              "author": "megamind",
+              "date": "2021-04-18T22:36:47.000Z",
+              "message": "shader palettes",
+              "linesAdded": 843,
+              "linesDeleted": 58,
+              "filesChanged": [
+                "README.md",
+                "code/client/cl_input.c",
+                "code/client/cl_main.c",
+                "code/client/client.h",
+                "code/qcommon/q_shared.h",
+                "code/renderer2/tr_common.h",
+                "code/renderer2/tr_image.c",
+                "code/renderer2/tr_init.c",
+                "code/renderer2/tr_local.h",
+                "code/renderer2/tr_shader.c",
+                "code/server/sv_client.c",
+                "code/xquakejs/bin/convert.js",
+                "code/xquakejs/graphs/baseq3-cc-filelist.json"
+              ]
+            }
+          ]
+        },
+        "2021-04-17": {
+          "date": "2021-04-17",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/client/cl_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "35fc7dd89d7671094f953ef6b3b71995e778ac6e",
+              "author": "megamind",
+              "date": "2021-04-17T21:34:08.000Z",
+              "message": "working rewind starting from beginning",
+              "linesAdded": 8,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "README.md",
+                "code/client/cl_main.c"
+              ]
+            }
+          ]
+        },
+        "2021-04-16": {
+          "date": "2021-04-16",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/cmd.c",
+            "code/server/sv_main.c",
+            "code/server/sv_snapshot.c",
+            "code/unix/unix_main.c",
+            "code/win32/msvc2017/quake3e-ded.vcxproj",
+            "code/win32/msvc2017/quake3e.vcxproj"
+          ],
+          "commits": [
+            {
+              "hash": "31a838e00cb4f5884c38177dd3c3d3c4ef3342f9",
+              "author": "megamind",
+              "date": "2021-04-16T21:55:30.000Z",
+              "message": "cleanup for events API",
+              "linesAdded": 16,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "code/qcommon/cmd.c",
+                "code/server/sv_main.c",
+                "code/server/sv_snapshot.c",
+                "code/unix/unix_main.c",
+                "code/win32/msvc2017/quake3e-ded.vcxproj",
+                "code/win32/msvc2017/quake3e.vcxproj"
+              ]
+            }
+          ]
+        },
+        "2021-04-15": {
+          "date": "2021-04-15",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/unix/unix_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "217e11112e4e85a728adafa27c1a3acae5ed9861",
+              "author": "megamind",
+              "date": "2021-04-15T23:10:09.000Z",
+              "message": "working forking for dedicated server",
+              "linesAdded": 7,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "code/unix/unix_main.c"
+              ]
+            }
+          ]
+        },
+        "2021-04-14": {
+          "date": "2021-04-14",
+          "heatScore": 15,
+          "linesChanged": 76,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/net_ip.c",
+            "code/qcommon/q_shared.h",
+            "code/server/sv_snapshot.c",
+            "code/xquakejs/bin/index.html",
+            "code/xquakejs/sys_browser.js",
+            "code/xquakejs/sys_files.js",
+            "code/xquakejs/sys_main.js",
+            "code/xquakejs/sys_net.js"
+          ],
+          "commits": [
+            {
+              "hash": "a6893eb8bfa236da62b4ea76eb4a667c8adaaf53",
+              "author": "megamind",
+              "date": "2021-04-14T22:45:12.000Z",
+              "message": "working on local dedicated server working with clients in single player mode natively",
+              "linesAdded": 40,
+              "linesDeleted": 36,
+              "filesChanged": [
+                "code/qcommon/net_ip.c",
+                "code/qcommon/q_shared.h",
+                "code/server/sv_snapshot.c",
+                "code/xquakejs/bin/index.html",
+                "code/xquakejs/sys_browser.js",
+                "code/xquakejs/sys_files.js",
+                "code/xquakejs/sys_main.js",
+                "code/xquakejs/sys_net.js"
+              ]
+            }
+          ]
+        },
+        "2021-04-13": {
+          "date": "2021-04-13",
+          "heatScore": 24,
+          "linesChanged": 222,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/xquakejs/bin/master.js",
+            "code/xquakejs/bin/proxy.js",
+            "code/xquakejs/bin/web.js",
+            "code/xquakejs/sys_files.js"
+          ],
+          "commits": [
+            {
+              "hash": "f508300c1af8077aa3a9fa7225eaf4729b8c25c1",
+              "author": "megamind",
+              "date": "2021-04-13T21:58:49.000Z",
+              "message": "combine master  server  with  web server",
+              "linesAdded": 72,
+              "linesDeleted": 150,
+              "filesChanged": [
+                "code/xquakejs/bin/master.js",
+                "code/xquakejs/bin/proxy.js",
+                "code/xquakejs/bin/web.js",
+                "code/xquakejs/sys_files.js"
+              ]
+            }
+          ]
+        },
+        "2021-04-03": {
+          "date": "2021-04-03",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "Dockerfile",
+            "code/xquakejs/sys_files.js"
+          ],
+          "commits": [
+            {
+              "hash": "3cdd8fd5ce4c7029754607c9a8ed35995153876b",
+              "author": "megamind",
+              "date": "2021-04-03T05:50:50.000Z",
+              "message": "trying to get docker build to run without baseq3 and default to CDN",
+              "linesAdded": 6,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "Dockerfile",
+                "code/xquakejs/sys_files.js"
+              ]
+            }
+          ]
+        },
+        "2021-04-02": {
+          "date": "2021-04-02",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/xquakejs/bin/web.js"
+          ],
+          "commits": [
+            {
+              "hash": "1aad87d849cdafd073e92265d4940a80a4e741ce",
+              "author": "megamind",
+              "date": "2021-04-02T01:50:20.000Z",
+              "message": "move baseq3 generation to  home folder and don't return empty index",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "code/xquakejs/bin/web.js"
+              ]
+            }
+          ]
+        },
+        "2021-04-01": {
+          "date": "2021-04-01",
+          "heatScore": 100,
+          "linesChanged": 3072,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/xquakejs/bin/content.js",
+            "code/xquakejs/bin/previous-pak.json",
+            "code/xquakejs/bin/web.js",
+            "code/xquakejs/lib/asset.game.js",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "152da75b184f63a259db8d31313244b5f87f75b2",
+              "author": "megamind",
+              "date": "2021-04-01T16:19:18.000Z",
+              "message": "fixes for no hosting mode",
+              "linesAdded": 388,
+              "linesDeleted": 2684,
+              "filesChanged": [
+                "code/xquakejs/bin/content.js",
+                "code/xquakejs/bin/previous-pak.json",
+                "code/xquakejs/bin/web.js",
+                "code/xquakejs/lib/asset.game.js",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

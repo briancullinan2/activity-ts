@@ -1,0 +1,1067 @@
+{
+  "yearMonth": "2024-04",
+  "generatedAt": "2026-09-24T02:37:24.634Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-04-29": {
+          "date": "2024-04-29",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "964f4534ced8a72304e5e75ece8b5e8a64ec56a3",
+              "author": "Brian Cullinan",
+              "date": "2024-04-29T07:52:18.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-27": {
+          "date": "2024-04-27",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "c4a4e57aa943ab996b7eaf2bcfcd208f7b063380",
+              "author": "Brian Cullinan",
+              "date": "2024-04-27T02:28:22.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-25": {
+          "date": "2024-04-25",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "7454a44eebb873a75149b35a62a6fac416e56165",
+              "author": "Brian Cullinan",
+              "date": "2024-04-25T06:01:32.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-23": {
+          "date": "2024-04-23",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "58b27802116c3c4ca055c2cd10cc3e366c869ddc",
+              "author": "Brian Cullinan",
+              "date": "2024-04-23T07:03:16.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-22": {
+          "date": "2024-04-22",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "a2c0c6c7bb8b52474308f91606ec6b3c06afb175",
+              "author": "Brian Cullinan",
+              "date": "2024-04-22T18:40:44.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-21": {
+          "date": "2024-04-21",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "08c6c3fc0e8c825ef3447caa42f6af8644219522",
+              "author": "Brian Cullinan",
+              "date": "2024-04-21T15:09:16.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-19": {
+          "date": "2024-04-19",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6a865c01525f9f10df98bcddc98012acfd90d59c",
+              "author": "Brian Cullinan",
+              "date": "2024-04-19T17:20:52.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-17": {
+          "date": "2024-04-17",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "bb5b65ea6667516cd9d0348213d92bc9e068ee7f",
+              "author": "Brian Cullinan",
+              "date": "2024-04-17T18:15:45.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-16": {
+          "date": "2024-04-16",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "7a7f39d27fe7a0e043e7ebc21434cecd01174f03",
+              "author": "Brian Cullinan",
+              "date": "2024-04-16T02:26:26.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-14": {
+          "date": "2024-04-14",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "eb3d548a1b68a1c6a151c4dd8001edf8ac898210",
+              "author": "Brian Cullinan",
+              "date": "2024-04-14T23:38:33.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-13": {
+          "date": "2024-04-13",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "8a21d9899de8c44d11a9abce7000173e7335be70",
+              "author": "Brian Cullinan",
+              "date": "2024-04-13T18:43:22.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-12": {
+          "date": "2024-04-12",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "c62182fea5166ce668485c599bc05e7e6066b66b",
+              "author": "Brian Cullinan",
+              "date": "2024-04-12T23:39:01.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 7,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-10": {
+          "date": "2024-04-10",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "0da13d9c583a9b8b454e185cfbddedd25eefc5cf",
+              "author": "Brian Cullinan",
+              "date": "2024-04-10T03:32:09.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-08": {
+          "date": "2024-04-08",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "341b0591f09fe4ca80387ed7aae11216b5e685bd",
+              "author": "Brian Cullinan",
+              "date": "2024-04-08T07:15:23.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-06": {
+          "date": "2024-04-06",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "32e10ea3a3faf1f5023c7a370d904acbbf7cfd3a",
+              "author": "Brian Cullinan",
+              "date": "2024-04-06T02:37:29.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-04": {
+          "date": "2024-04-04",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d634246398923ee7835eca29d0490dcb9d10b204",
+              "author": "Brian Cullinan",
+              "date": "2024-04-04T04:01:39.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-04-02": {
+          "date": "2024-04-02",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ffbc4c379a1a740efb4ca56d80689d08874fbeb6",
+              "author": "Brian Cullinan",
+              "date": "2024-04-02T05:26:19.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-04-30": {
+          "date": "2024-04-30",
+          "heatScore": 14,
+          "linesChanged": 62,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_advanced_samplers.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "eecd69b53a896343775bcb02a4f8349e7442ffd1",
+              "author": "comfyanonymous",
+              "date": "2024-04-30T00:00:47.000Z",
+              "message": "Add a SamplerLCMUpscale node.",
+              "linesAdded": 62,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_advanced_samplers.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-28": {
+          "date": "2024-04-28",
+          "heatScore": 18,
+          "linesChanged": 121,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_attention_multiply.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "059773a6df310d44026be12140310688a16e3735",
+              "author": "comfyanonymous",
+              "date": "2024-04-28T16:50:22.000Z",
+              "message": "Add some nodes to multiply the attention in UNet and Clip models.",
+              "linesAdded": 121,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_attention_multiply.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-27": {
+          "date": "2024-04-27",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_align_your_steps.py"
+          ],
+          "commits": [
+            {
+              "hash": "10fcd09f4af5de62aa662dab03320cfca46b0edb",
+              "author": "comfyanonymous",
+              "date": "2024-04-27T04:14:06.000Z",
+              "message": "Add a denoise value to AlignYourStepsScheduler.",
+              "linesAdded": 9,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_align_your_steps.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-26": {
+          "date": "2024-04-26",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "8cab3be67351a6185945bfecab21ccdfa60d80cd",
+              "author": "comfyanonymous",
+              "date": "2024-04-26T19:44:12.000Z",
+              "message": "Update command for AMD stable pytorch install in README.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2024-04-25": {
+          "date": "2024-04-25",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_upscale_model.py"
+          ],
+          "commits": [
+            {
+              "hash": "16eabdf70dbdb64dc4822908f0fe455c56d11ec3",
+              "author": "comfyanonymous",
+              "date": "2024-04-25T21:04:19.000Z",
+              "message": "Free more vram for upscale models.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_upscale_model.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-24": {
+          "date": "2024-04-24",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "8dc19e40d129c8ee049be7be2657458509717ba5",
+              "author": "comfyanonymous",
+              "date": "2024-04-24T13:20:31.000Z",
+              "message": "Don't init a VAE model when there are no VAE weights.",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-23": {
+          "date": "2024-04-23",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "27d5808fc491c7174abc6f407e7dc11c6a7a1ec0",
+              "author": "comfyanonymous",
+              "date": "2024-04-23T17:07:39.000Z",
+              "message": "Increase max lora strength to 100.0",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-22": {
+          "date": "2024-04-22",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_upscale_model.py"
+          ],
+          "commits": [
+            {
+              "hash": "d09b5ef4ef150adab31195761725eaba409f6343",
+              "author": "comfyanonymous",
+              "date": "2024-04-22T22:42:41.000Z",
+              "message": "Free some memory before loading upscale models.",
+              "linesAdded": 6,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_upscale_model.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-21": {
+          "date": "2024-04-21",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_post_processing.py"
+          ],
+          "commits": [
+            {
+              "hash": "4ee9aad6caf4c23e69e9e166573c505e757062e5",
+              "author": "comfyanonymous",
+              "date": "2024-04-21T13:02:06.000Z",
+              "message": "Speed up Sharpen node.",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_post_processing.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-20": {
+          "date": "2024-04-20",
+          "heatScore": 13,
+          "linesChanged": 46,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_align_your_steps.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "644a3ae58d426ffbbc02ef4104034c98e8fc6513",
+              "author": "comfyanonymous",
+              "date": "2024-04-20T08:31:49.000Z",
+              "message": "Implement Align Your Steps as a AlignYourStepsScheduler node.",
+              "linesAdded": 46,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_align_your_steps.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-19": {
+          "date": "2024-04-19",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_post_processing.py"
+          ],
+          "commits": [
+            {
+              "hash": "133dc3351b3277f6ce41da7839ace9055329c64c",
+              "author": "comfyanonymous",
+              "date": "2024-04-19T07:52:02.000Z",
+              "message": "Faster blur.",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_post_processing.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-18": {
+          "date": "2024-04-18",
+          "heatScore": 13,
+          "linesChanged": 46,
+          "commitCount": 1,
+          "filesEdited": [
+            "tests-ui/utils/ezgraph.js",
+            "web/extensions/core/widgetInputs.js"
+          ],
+          "commits": [
+            {
+              "hash": "a88b0ebc2d2f933c94e42aa689c42e836eedaf3c",
+              "author": "Torbjörn Lönnemark",
+              "date": "2024-04-18T20:41:23.000Z",
+              "message": "Improve node input/widget conversion sub-menus (#3281)",
+              "linesAdded": 32,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "tests-ui/utils/ezgraph.js",
+                "web/extensions/core/widgetInputs.js"
+              ]
+            }
+          ]
+        },
+        "2024-04-17": {
+          "date": "2024-04-17",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "d64e2174276c0f5a1db605af6f0331eb0c75b42d",
+              "author": "comfyanonymous",
+              "date": "2024-04-17T21:34:02.000Z",
+              "message": "Fix annoying float issue causing the value to be rounded to above the max.",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2024-04-16": {
+          "date": "2024-04-16",
+          "heatScore": 14,
+          "linesChanged": 62,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_perpneg.py"
+          ],
+          "commits": [
+            {
+              "hash": "45ec1cbe963055798765645c4f727122a7d3e35e",
+              "author": "comfyanonymous",
+              "date": "2024-04-16T06:57:01.000Z",
+              "message": "Implement PerpNeg as a guider.",
+              "linesAdded": 54,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "comfy_extras/nodes_perpneg.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-15": {
+          "date": "2024-04-15",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_pag.py"
+          ],
+          "commits": [
+            {
+              "hash": "8903dce862616ddd937400ffe6a971b66409262f",
+              "author": "comfyanonymous",
+              "date": "2024-04-15T16:14:00.000Z",
+              "message": "This can be removed since PAG doesn't use the uncond.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_pag.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-14": {
+          "date": "2024-04-14",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "258dbc06c34ebf723ae17fa23207407e2e05fad1",
+              "author": "comfyanonymous",
+              "date": "2024-04-14T16:08:58.000Z",
+              "message": "Fix some memory related issues.",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-13": {
+          "date": "2024-04-13",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_clip_sdxl.py",
+            "comfy_extras/nodes_cond.py",
+            "comfy_extras/nodes_photomaker.py",
+            "nodes.py",
+            "web/extensions/core/dynamicPrompts.js"
+          ],
+          "commits": [
+            {
+              "hash": "744ac944db24795881cf41fc4ea015e5ea07a444",
+              "author": "comfyanonymous",
+              "date": "2024-04-13T20:12:09.000Z",
+              "message": "Don't make dynamicPrompts the default on multiline string inputs.",
+              "linesAdded": 8,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "comfy_extras/nodes_clip_sdxl.py",
+                "comfy_extras/nodes_cond.py",
+                "comfy_extras/nodes_photomaker.py",
+                "nodes.py",
+                "web/extensions/core/dynamicPrompts.js"
+              ]
+            }
+          ]
+        },
+        "2024-04-12": {
+          "date": "2024-04-12",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/widgetInputs.js"
+          ],
+          "commits": [
+            {
+              "hash": "2bef134ebfe38dd1ce4d25eefe933c6748f0f35a",
+              "author": "NyaamZ",
+              "date": "2024-04-12T21:02:17.000Z",
+              "message": "change Convert.. input (#3246)",
+              "linesAdded": 14,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "web/extensions/core/widgetInputs.js"
+              ]
+            }
+          ]
+        },
+        "2024-04-11": {
+          "date": "2024-04-11",
+          "heatScore": 13,
+          "linesChanged": 47,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_custom_sampler.py"
+          ],
+          "commits": [
+            {
+              "hash": "fd7c63668080f8c2eb56edffeef028aa3932e0fe",
+              "author": "comfyanonymous",
+              "date": "2024-04-11T00:29:35.000Z",
+              "message": "Add an AddNoise node to add noise depending on the sigma.",
+              "linesAdded": 47,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_custom_sampler.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-10": {
+          "date": "2024-04-10",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/supported_models_base.py"
+          ],
+          "commits": [
+            {
+              "hash": "831511a1eecbe271e302f2f2053f285f00614180",
+              "author": "comfyanonymous",
+              "date": "2024-04-10T03:20:43.000Z",
+              "message": "Fix issue with sampling_settings persisting across models.",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/supported_models_base.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-09": {
+          "date": "2024-04-09",
+          "heatScore": 14,
+          "linesChanged": 61,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_model_merging_model_specific.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "4201181b35402e0a992b861f8d2f0e0b267f52fa",
+              "author": "comfyanonymous",
+              "date": "2024-04-09T08:25:45.000Z",
+              "message": "Add ModelMergeSD1, ModelMergeSD2 and ModelMergeSDXL.",
+              "linesAdded": 61,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_model_merging_model_specific.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-08": {
+          "date": "2024-04-08",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "comfy_extras/nodes_model_merging.py"
+          ],
+          "commits": [
+            {
+              "hash": "30abc324c2f73e6b648093ccd4741dece20be1e5",
+              "author": "comfyanonymous",
+              "date": "2024-04-08T04:36:22.000Z",
+              "message": "Support properly saving CosXL checkpoints.",
+              "linesAdded": 14,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/sd.py",
+                "comfy_extras/nodes_model_merging.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-07": {
+          "date": "2024-04-07",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "d644b6bcd8991357de674f72eba02d81875d7847",
+              "author": "comfyanonymous",
+              "date": "2024-04-07T18:40:43.000Z",
+              "message": "Cleanup some more conditioning nodes.",
+              "linesAdded": 4,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-06": {
+          "date": "2024-04-06",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/controlnet.py",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "0a03009808a5ad13fa3a44edbabcae68576c3982",
+              "author": "comfyanonymous",
+              "date": "2024-04-06T22:38:39.000Z",
+              "message": "Fix issue with controlnet models getting loaded multiple times.",
+              "linesAdded": 9,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/controlnet.py",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-05": {
+          "date": "2024-04-05",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/lib/litegraph.core.js"
+          ],
+          "commits": [
+            {
+              "hash": "a7dd82e668bfaf7fac365a4e73a1ba1acf224fbb",
+              "author": "comfyanonymous",
+              "date": "2024-04-05T18:59:05.000Z",
+              "message": "Fix copy paste issue with litegraph.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/lib/litegraph.core.js"
+              ]
+            }
+          ]
+        },
+        "2024-04-04": {
+          "date": "2024-04-04",
+          "heatScore": 13,
+          "linesChanged": 46,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_ip2p.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "1f8d8e6c772fe462f697486626c6c1720b16a37d",
+              "author": "comfyanonymous",
+              "date": "2024-04-04T19:06:17.000Z",
+              "message": "Add InstructPixToPixConditioning node.",
+              "linesAdded": 46,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_ip2p.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-03": {
+          "date": "2024-04-03",
+          "heatScore": 17,
+          "linesChanged": 110,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sample.py",
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "57753c964affd18d2b87d2a47fe6b375bca39004",
+              "author": "comfyanonymous",
+              "date": "2024-04-03T20:34:19.000Z",
+              "message": "Refactor sampling code for more advanced sampler nodes.",
+              "linesAdded": 67,
+              "linesDeleted": 43,
+              "filesChanged": [
+                "comfy/sample.py",
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-02": {
+          "date": "2024-04-02",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/diffusers_convert.py"
+          ],
+          "commits": [
+            {
+              "hash": "6c6a39251fe313c56a88c90d820009073b623dfe",
+              "author": "comfyanonymous",
+              "date": "2024-04-02T15:46:34.000Z",
+              "message": "Fix saving text encoder in fp8.",
+              "linesAdded": 17,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/diffusers_convert.py"
+              ]
+            }
+          ]
+        },
+        "2024-04-01": {
+          "date": "2024-04-01",
+          "heatScore": 14,
+          "linesChanged": 71,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py",
+            "comfy_extras/nodes_perpneg.py",
+            "comfy_extras/nodes_sag.py"
+          ],
+          "commits": [
+            {
+              "hash": "e6482fbbfc83cd25add0532b2e4c51d305e8a232",
+              "author": "comfyanonymous",
+              "date": "2024-04-01T21:23:07.000Z",
+              "message": "Refactor calc_cond_uncond_batch into calc_cond_batch.",
+              "linesAdded": 34,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "comfy/samplers.py",
+                "comfy_extras/nodes_perpneg.py",
+                "comfy_extras/nodes_sag.py"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1158 @@
+{
+  "yearMonth": "2022-01",
+  "generatedAt": "2026-09-24T02:37:24.759Z",
+  "username": "briancullinan2",
+  "projects": {
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2022-01-31": {
+          "date": "2022-01-31",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/fill.js",
+            "tests/unit/store/modules/document-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "b41e0cc967d9ce10b7c3e0d6cb1d3dc89ea34916",
+              "author": "Igor Zinken",
+              "date": "2022-01-31T09:40:04.000Z",
+              "message": "Updated unit test to match changes in implementation",
+              "linesAdded": 7,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/rendering/fill.js",
+                "tests/unit/store/modules/document-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2022-01-29": {
+          "date": "2022-01-29",
+          "heatScore": 10,
+          "linesChanged": 11,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/toolbox/toolbox.vue"
+          ],
+          "commits": [
+            {
+              "hash": "aa258ea8ec687b766f409728c212ed5bf2d8d407",
+              "author": "Igor Zinken",
+              "date": "2022-01-29T17:09:37.000Z",
+              "message": "Optimize large toolbox positioning",
+              "linesAdded": 8,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "src/components/toolbox/toolbox.vue"
+              ]
+            }
+          ]
+        },
+        "2022-01-28": {
+          "date": "2022-01-28",
+          "heatScore": 26,
+          "linesChanged": 249,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/bitmappery.vue",
+            "src/components/application-menu/application-menu.vue",
+            "src/components/application-menu/messages.json",
+            "src/components/stroke-selection-window/messages.json",
+            "src/components/stroke-selection-window/stroke-selection-window.vue",
+            "src/definitions/modal-windows.js",
+            "src/rendering/canvas-elements/layer-sprite.js"
+          ],
+          "commits": [
+            {
+              "hash": "a8a99d52d6d3cf517680e6296c72333bc1895ade",
+              "author": "Igor Zinken",
+              "date": "2022-01-28T18:30:07.000Z",
+              "message": "Implemented selection stroke",
+              "linesAdded": 212,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "src/bitmappery.vue",
+                "src/components/application-menu/application-menu.vue",
+                "src/components/application-menu/messages.json",
+                "src/components/stroke-selection-window/messages.json",
+                "src/components/stroke-selection-window/stroke-selection-window.vue",
+                "src/definitions/modal-windows.js",
+                "src/rendering/canvas-elements/layer-sprite.js"
+              ]
+            }
+          ]
+        },
+        "2022-01-27": {
+          "date": "2022-01-27",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/document-canvas/document-canvas.vue"
+          ],
+          "commits": [
+            {
+              "hash": "f7daed63d1f1872c82863b8e43f08d63b0803d3f",
+              "author": "Igor Zinken",
+              "date": "2022-01-27T20:52:23.000Z",
+              "message": "Removed deep layer watcher from document-canvas as it it both unnecessary and consumes a lot of resources",
+              "linesAdded": 0,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/components/document-canvas/document-canvas.vue"
+              ]
+            }
+          ]
+        },
+        "2022-01-26": {
+          "date": "2022-01-26",
+          "heatScore": 100,
+          "linesChanged": 19326,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json",
+            "package.json",
+            "src/components/document-canvas/decorators/touch-decorator.js",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/definitions/tool-types.js",
+            "src/rendering/canvas-elements/interaction-pane.js",
+            "src/rendering/canvas-elements/zoomable-canvas.js",
+            "src/utils/debounce-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "661e32e32b0cd9b2bdcd640a7e53ddc895cabc47",
+              "author": "Igor Zinken",
+              "date": "2022-01-26T21:23:59.000Z",
+              "message": "Implemented touch gestures for easy accessible zoom and pan on touch screen devices",
+              "linesAdded": 240,
+              "linesDeleted": 19086,
+              "filesChanged": [
+                "package-lock.json",
+                "package.json",
+                "src/components/document-canvas/decorators/touch-decorator.js",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/definitions/tool-types.js",
+                "src/rendering/canvas-elements/interaction-pane.js",
+                "src/rendering/canvas-elements/zoomable-canvas.js",
+                "src/utils/debounce-util.js"
+              ]
+            }
+          ]
+        },
+        "2022-01-25": {
+          "date": "2022-01-25",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/tool-options-panel/tool-options-text/messages.json",
+            "src/components/tool-options-panel/tool-options-text/tool-options-text.vue",
+            "src/styles/form.scss",
+            "src/styles/typography.scss"
+          ],
+          "commits": [
+            {
+              "hash": "6d14abcb604a5584c3f1d7cdf6e7d9028947444b",
+              "author": "Igor Zinken",
+              "date": "2022-01-25T08:33:07.000Z",
+              "message": "Added support for more units when typing text",
+              "linesAdded": 16,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "src/components/tool-options-panel/tool-options-text/messages.json",
+                "src/components/tool-options-panel/tool-options-text/tool-options-text.vue",
+                "src/styles/form.scss",
+                "src/styles/typography.scss"
+              ]
+            }
+          ]
+        },
+        "2022-01-24": {
+          "date": "2022-01-24",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/bitmappery.vue",
+            "src/components/toolbox/messages.json",
+            "src/components/toolbox/toolbox.vue",
+            "src/components/ui/slider/slider.vue",
+            "src/styles/_global.scss",
+            "src/styles/form.scss"
+          ],
+          "commits": [
+            {
+              "hash": "332ff4481b3cb99258caf1631d309777196f3757",
+              "author": "Igor Zinken",
+              "date": "2022-01-24T17:32:37.000Z",
+              "message": "Toolbox styling updates for tall screens",
+              "linesAdded": 21,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "src/bitmappery.vue",
+                "src/components/toolbox/messages.json",
+                "src/components/toolbox/toolbox.vue",
+                "src/components/ui/slider/slider.vue",
+                "src/styles/_global.scss",
+                "src/styles/form.scss"
+              ]
+            }
+          ]
+        },
+        "2022-01-23": {
+          "date": "2022-01-23",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/new-layer-window/new-layer-window.vue"
+          ],
+          "commits": [
+            {
+              "hash": "ce933f14e197eff0725e9a51ff4b10fc4a9f0f02",
+              "author": "Igor Zinken",
+              "date": "2022-01-23T09:24:44.000Z",
+              "message": "Adding new layers appends the new layer above the currently selected one",
+              "linesAdded": 6,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "src/components/new-layer-window/new-layer-window.vue"
+              ]
+            }
+          ]
+        },
+        "2022-01-22": {
+          "date": "2022-01-22",
+          "heatScore": 19,
+          "linesChanged": 148,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/document-canvas/document-canvas.vue",
+            "src/components/file-import/file-selector/file-selector.vue",
+            "src/components/tool-options-panel/tool-options-zoom/messages.json",
+            "src/components/tool-options-panel/tool-options-zoom/tool-options-zoom.vue",
+            "src/store/modules/canvas-module.js",
+            "tests/unit/store/modules/canvas-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "e688fd42bee0c5da852962479816e396033a9b11",
+              "author": "Igor Zinken",
+              "date": "2022-01-22T21:44:10.000Z",
+              "message": "Added 'Fit to window' option to zoom tool",
+              "linesAdded": 110,
+              "linesDeleted": 38,
+              "filesChanged": [
+                "src/components/document-canvas/document-canvas.vue",
+                "src/components/file-import/file-selector/file-selector.vue",
+                "src/components/tool-options-panel/tool-options-zoom/messages.json",
+                "src/components/tool-options-panel/tool-options-zoom/tool-options-zoom.vue",
+                "src/store/modules/canvas-module.js",
+                "tests/unit/store/modules/canvas-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2022-01-21": {
+          "date": "2022-01-21",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/layer-panel/messages.json"
+          ],
+          "commits": [
+            {
+              "hash": "9e69a2e18562cec9d6c49d34df90c13ead18620e",
+              "author": "Igor Zinken",
+              "date": "2022-01-21T19:08:10.000Z",
+              "message": "Add tooltip to layer visibility toggle",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/components/layer-panel/messages.json"
+              ]
+            }
+          ]
+        },
+        "2022-01-20": {
+          "date": "2022-01-20",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/file-menu/export-image/export-image.vue",
+            "src/utils/document-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "97d0752521af7fff65f5b19563c29d71dedc6fd2",
+              "author": "Igor Zinken",
+              "date": "2022-01-20T20:27:06.000Z",
+              "message": "Optimized image export by not regenerated layer snapshots, when existing. Removed rudimentary arguments from snapshot routines",
+              "linesAdded": 7,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "src/components/file-menu/export-image/export-image.vue",
+                "src/utils/document-util.js"
+              ]
+            }
+          ]
+        },
+        "2022-01-14": {
+          "date": "2022-01-14",
+          "heatScore": 34,
+          "linesChanged": 362,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/bitmappery.vue",
+            "src/components/layer-panel/layer-panel.vue",
+            "src/components/tool-options-panel/messages.json",
+            "src/components/tool-options-panel/tool-options-panel.vue",
+            "src/components/toolbox/toolbox.vue",
+            "src/definitions/panel-types.js",
+            "src/services/keyboard-service.js",
+            "src/store/index.js",
+            "src/styles/panel.scss",
+            "tests/unit/store/store.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "8c2c23d77a00f8396c9ae28363d9971d2750dbc6",
+              "author": "Igor Zinken",
+              "date": "2022-01-14T18:28:05.000Z",
+              "message": "Tool panels are now individually collapsable for mobile view optimization",
+              "linesAdded": 242,
+              "linesDeleted": 120,
+              "filesChanged": [
+                "src/bitmappery.vue",
+                "src/components/layer-panel/layer-panel.vue",
+                "src/components/tool-options-panel/messages.json",
+                "src/components/tool-options-panel/tool-options-panel.vue",
+                "src/components/toolbox/toolbox.vue",
+                "src/definitions/panel-types.js",
+                "src/services/keyboard-service.js",
+                "src/store/index.js",
+                "src/styles/panel.scss",
+                "tests/unit/store/store.spec.js"
+              ]
+            }
+          ]
+        },
+        "2022-01-12": {
+          "date": "2022-01-12",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/bitmappery.vue",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/styles/_colors.scss"
+          ],
+          "commits": [
+            {
+              "hash": "228f05d5b260ced8e3c573d975d1e0b7f145e429",
+              "author": "Igor Zinken",
+              "date": "2022-01-12T20:13:03.000Z",
+              "message": "Adjust canvas background colour",
+              "linesAdded": 10,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/bitmappery.vue",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/styles/_colors.scss"
+              ]
+            }
+          ]
+        },
+        "2022-01-09": {
+          "date": "2022-01-09",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/file-import/file-import.vue",
+            "src/components/ui/select-box/select-box.vue"
+          ],
+          "commits": [
+            {
+              "hash": "88d91481db4bf78a2a444fccca231247b9f7c6f4",
+              "author": "Igor Zinken",
+              "date": "2022-01-09T15:24:21.000Z",
+              "message": "Maximize select box widths in tool option panels",
+              "linesAdded": 5,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/components/file-import/file-import.vue",
+                "src/components/ui/select-box/select-box.vue"
+              ]
+            }
+          ]
+        },
+        "2022-01-08": {
+          "date": "2022-01-08",
+          "heatScore": 12,
+          "linesChanged": 39,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/dropbox-file-selector/dropbox-file-selector.vue",
+            "src/components/dropbox-file-selector/dropbox-image-preview.vue"
+          ],
+          "commits": [
+            {
+              "hash": "1c5c493de937aa6e62a6c97b6abceffa59aac561",
+              "author": "Igor Zinken",
+              "date": "2022-01-08T11:53:42.000Z",
+              "message": "Improved image thumbnail presentation in Dropbox file selector",
+              "linesAdded": 26,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "src/components/dropbox-file-selector/dropbox-file-selector.vue",
+                "src/components/dropbox-file-selector/dropbox-image-preview.vue"
+              ]
+            }
+          ]
+        },
+        "2022-01-07": {
+          "date": "2022-01-07",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/file-menu/export-image/export-image.vue",
+            "src/components/file-menu/export-image/messages.json",
+            "src/styles/form.scss",
+            "src/utils/string-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "cd5c1b4cf6c970bfb00326931ec4d791fa6a7191",
+              "author": "Igor Zinken",
+              "date": "2022-01-07T08:27:40.000Z",
+              "message": "Image export dialog now also display output file size",
+              "linesAdded": 17,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "src/components/file-menu/export-image/export-image.vue",
+                "src/components/file-menu/export-image/messages.json",
+                "src/styles/form.scss",
+                "src/utils/string-util.js"
+              ]
+            }
+          ]
+        },
+        "2022-01-05": {
+          "date": "2022-01-05",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/file-menu/export-image/export-image.vue"
+          ],
+          "commits": [
+            {
+              "hash": "6b54397046b9cb77ddfad00dbaa78012457a08d3",
+              "author": "Igor Zinken",
+              "date": "2022-01-05T20:34:14.000Z",
+              "message": "Adjusted action button bar in mobile image export view",
+              "linesAdded": 7,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/components/file-menu/export-image/export-image.vue"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "Quake3e": {
+      "projectName": "Quake3e",
+      "localPath": "C:\\Users\\megam\\Quake3e",
+      "lastUpdated": "2026-09-24T02:37:19.854Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2022-01-29": {
+          "date": "2022-01-29",
+          "heatScore": 31,
+          "linesChanged": 321,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c",
+            "code/client/cl_main.c",
+            "code/client/cl_scrn.c",
+            "code/qcommon/cmd.c",
+            "code/qcommon/qcommon.h",
+            "code/renderer/tr_backend.c",
+            "code/renderer/tr_bsp.c",
+            "code/renderer/tr_cmds.c",
+            "code/renderer/tr_image.c",
+            "code/renderer/tr_init.c",
+            "code/renderer/tr_local.h",
+            "code/renderer/tr_mesh.c",
+            "code/renderer/tr_model.c",
+            "code/renderer/tr_scene.c",
+            "code/renderer/tr_shade.c",
+            "code/renderer/tr_shader.c",
+            "code/renderer2/tr_bsp.c",
+            "code/renderer2/tr_model.c",
+            "code/server/sv_client.c",
+            "code/server/sv_game.c",
+            "code/server/sv_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "e5a4c22258826400076c496169c10d6dafce1e8d",
+              "author": "megamind",
+              "date": "2022-01-29T06:38:17.000Z",
+              "message": "weird shader bug persists even after fixing non-lazy build mode",
+              "linesAdded": 205,
+              "linesDeleted": 116,
+              "filesChanged": [
+                "code/client/cl_cgame.c",
+                "code/client/cl_main.c",
+                "code/client/cl_scrn.c",
+                "code/qcommon/cmd.c",
+                "code/qcommon/qcommon.h",
+                "code/renderer/tr_backend.c",
+                "code/renderer/tr_bsp.c",
+                "code/renderer/tr_cmds.c",
+                "code/renderer/tr_image.c",
+                "code/renderer/tr_init.c",
+                "code/renderer/tr_local.h",
+                "code/renderer/tr_mesh.c",
+                "code/renderer/tr_model.c",
+                "code/renderer/tr_scene.c",
+                "code/renderer/tr_shade.c",
+                "code/renderer/tr_shader.c",
+                "code/renderer2/tr_bsp.c",
+                "code/renderer2/tr_model.c",
+                "code/server/sv_client.c",
+                "code/server/sv_game.c",
+                "code/server/sv_main.c"
+              ]
+            }
+          ]
+        },
+        "2022-01-28": {
+          "date": "2022-01-28",
+          "heatScore": 13,
+          "linesChanged": 54,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c",
+            "code/client/cl_scrn.c",
+            "code/client/cl_tc_vis.c",
+            "code/renderer/tr_backend.c",
+            "code/renderer/tr_bsp.c",
+            "code/renderer/tr_cmds.c",
+            "code/renderer/tr_local.h",
+            "code/renderer/tr_main.c",
+            "code/renderer/tr_scene.c",
+            "code/renderer/tr_shader.c"
+          ],
+          "commits": [
+            {
+              "hash": "f00642df4bbefb9eb973429850e6197793de090a",
+              "author": "megamind",
+              "date": "2022-01-28T18:48:47.000Z",
+              "message": "closer on fixing shaders and multiworld entities",
+              "linesAdded": 41,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "code/client/cl_cgame.c",
+                "code/client/cl_scrn.c",
+                "code/client/cl_tc_vis.c",
+                "code/renderer/tr_backend.c",
+                "code/renderer/tr_bsp.c",
+                "code/renderer/tr_cmds.c",
+                "code/renderer/tr_local.h",
+                "code/renderer/tr_main.c",
+                "code/renderer/tr_scene.c",
+                "code/renderer/tr_shader.c"
+              ]
+            }
+          ]
+        },
+        "2022-01-27": {
+          "date": "2022-01-27",
+          "heatScore": 26,
+          "linesChanged": 251,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_main.c",
+            "code/client/cl_scrn.c",
+            "code/renderer/tr_bsp.c",
+            "code/renderer/tr_cmds.c",
+            "code/renderer/tr_init.c",
+            "code/renderer/tr_local.h",
+            "code/renderer/tr_main.c",
+            "code/renderer/tr_mesh.c",
+            "code/renderer/tr_model.c",
+            "code/renderer/tr_scene.c",
+            "code/renderer/tr_shader.c",
+            "code/renderer2/tr_init.c",
+            "code/renderer2/tr_local.h"
+          ],
+          "commits": [
+            {
+              "hash": "bd7babae3896bffeb3fc3638b6069287a345cbea",
+              "author": "megamind",
+              "date": "2022-01-27T23:04:40.000Z",
+              "message": "trying to get multiworld entities working, cleanup models, need to clean up shaders",
+              "linesAdded": 138,
+              "linesDeleted": 113,
+              "filesChanged": [
+                "code/client/cl_main.c",
+                "code/client/cl_scrn.c",
+                "code/renderer/tr_bsp.c",
+                "code/renderer/tr_cmds.c",
+                "code/renderer/tr_init.c",
+                "code/renderer/tr_local.h",
+                "code/renderer/tr_main.c",
+                "code/renderer/tr_mesh.c",
+                "code/renderer/tr_model.c",
+                "code/renderer/tr_scene.c",
+                "code/renderer/tr_shader.c",
+                "code/renderer2/tr_init.c",
+                "code/renderer2/tr_local.h"
+              ]
+            }
+          ]
+        },
+        "2022-01-25": {
+          "date": "2022-01-25",
+          "heatScore": 74,
+          "linesChanged": 970,
+          "commitCount": 1,
+          "filesEdited": [
+            "Makefile.local",
+            "code/botlib/be_aas_bspq3.c",
+            "code/client/cl_cgame.c",
+            "code/client/cl_ddamage.c",
+            "code/client/cl_scrn.c",
+            "code/qcommon/cm_load.c",
+            "code/qcommon/cm_public.h",
+            "code/qcommon/cvar.c",
+            "code/qcommon/vm_aarch64.c",
+            "code/qcommon/vm_armv7l.c",
+            "code/qcommon/vm_interpreted.c",
+            "code/qcommon/vm_x86.c",
+            "code/renderer/qgl.h",
+            "code/renderer/tr_animation.c",
+            "code/renderer/tr_arb.c",
+            "code/renderer/tr_backend.c",
+            "code/renderer/tr_bsp.c",
+            "code/renderer/tr_cmds.c",
+            "code/renderer/tr_common.h",
+            "code/renderer/tr_curve.c",
+            "code/renderer/tr_flares.c",
+            "code/renderer/tr_image.c",
+            "code/renderer/tr_init.c",
+            "code/renderer/tr_local.h",
+            "code/renderer/tr_model.c",
+            "code/renderer/tr_scene.c",
+            "code/renderer/tr_shader.c",
+            "code/renderer2/tr_bsp.c",
+            "code/server/sv_bot.c",
+            "code/server/sv_bsp.c",
+            "code/server/sv_game.c",
+            "code/server/sv_world.c",
+            "docs/games.md",
+            "games/multigame/code/cgame/cg_draw.c",
+            "games/multigame/code/cgame/cg_info.c",
+            "games/multigame/code/cgame/cg_local.h",
+            "games/multigame/code/cgame/cg_main.c",
+            "games/multigame/code/cgame/cg_newdraw.c",
+            "games/multigame/code/cgame/cg_players.c",
+            "games/multigame/code/game/bg_public.h",
+            "games/multigame/code/game/g_combat.c",
+            "games/multigame/code/game/g_local.h",
+            "games/multigame/code/game/g_main.c",
+            "games/multigame/code/game/g_spawn.c",
+            "games/multigame/code/game/g_target.c",
+            "games/multigame/code/game/q_shared.h",
+            "games/multigame/code/q3_ui/ui_atoms.c",
+            "games/multigame/code/q3_ui/ui_connect.c",
+            "games/multigame/code/q3_ui/ui_controls2.c",
+            "games/multigame/code/q3_ui/ui_gameinfo.c",
+            "games/multigame/code/q3_ui/ui_main.c",
+            "games/multigame/code/q3_ui/ui_playermodel.c",
+            "games/multigame/code/q3_ui/ui_players.c",
+            "games/multigame/code/q3_ui/ui_qmenu.c",
+            "games/multigame/code/q3_ui/ui_servers2.c",
+            "games/multigame/code/q3_ui/ui_splevel.c",
+            "games/multigame/code/q3_ui/ui_sppostgame.c",
+            "games/multigame/code/q3_ui/ui_startserver.c",
+            "games/multigame/code/q3_ui/ui_video.c",
+            "games/multigame/code/ui/ui_atoms.c",
+            "games/multigame/code/ui/ui_local.h",
+            "games/multigame/code/ui/ui_main.c",
+            "games/multigame/code/ui/ui_shared.c",
+            "make/game_multi.make"
+          ],
+          "commits": [
+            {
+              "hash": "8434ce0cb5da5c775bd567f17bd55b36d6fe869d",
+              "author": "megamind",
+              "date": "2022-01-25T23:40:25.000Z",
+              "message": "game classic hud and classic menu built into QVM in addition to .menu files loader from TA",
+              "linesAdded": 611,
+              "linesDeleted": 359,
+              "filesChanged": [
+                "Makefile.local",
+                "code/botlib/be_aas_bspq3.c",
+                "code/client/cl_cgame.c",
+                "code/client/cl_ddamage.c",
+                "code/client/cl_scrn.c",
+                "code/qcommon/cm_load.c",
+                "code/qcommon/cm_public.h",
+                "code/qcommon/cvar.c",
+                "code/qcommon/vm_aarch64.c",
+                "code/qcommon/vm_armv7l.c",
+                "code/qcommon/vm_interpreted.c",
+                "code/qcommon/vm_x86.c",
+                "code/renderer/qgl.h",
+                "code/renderer/tr_animation.c",
+                "code/renderer/tr_arb.c",
+                "code/renderer/tr_backend.c",
+                "code/renderer/tr_bsp.c",
+                "code/renderer/tr_cmds.c",
+                "code/renderer/tr_common.h",
+                "code/renderer/tr_curve.c",
+                "code/renderer/tr_flares.c",
+                "code/renderer/tr_image.c",
+                "code/renderer/tr_init.c",
+                "code/renderer/tr_local.h",
+                "code/renderer/tr_model.c",
+                "code/renderer/tr_scene.c",
+                "code/renderer/tr_shader.c",
+                "code/renderer2/tr_bsp.c",
+                "code/server/sv_bot.c",
+                "code/server/sv_bsp.c",
+                "code/server/sv_game.c",
+                "code/server/sv_world.c",
+                "docs/games.md",
+                "games/multigame/code/cgame/cg_draw.c",
+                "games/multigame/code/cgame/cg_info.c",
+                "games/multigame/code/cgame/cg_local.h",
+                "games/multigame/code/cgame/cg_main.c",
+                "games/multigame/code/cgame/cg_newdraw.c",
+                "games/multigame/code/cgame/cg_players.c",
+                "games/multigame/code/game/bg_public.h",
+                "games/multigame/code/game/g_combat.c",
+                "games/multigame/code/game/g_local.h",
+                "games/multigame/code/game/g_main.c",
+                "games/multigame/code/game/g_spawn.c",
+                "games/multigame/code/game/g_target.c",
+                "games/multigame/code/game/q_shared.h",
+                "games/multigame/code/q3_ui/ui_atoms.c",
+                "games/multigame/code/q3_ui/ui_connect.c",
+                "games/multigame/code/q3_ui/ui_controls2.c",
+                "games/multigame/code/q3_ui/ui_gameinfo.c",
+                "games/multigame/code/q3_ui/ui_main.c",
+                "games/multigame/code/q3_ui/ui_playermodel.c",
+                "games/multigame/code/q3_ui/ui_players.c",
+                "games/multigame/code/q3_ui/ui_qmenu.c",
+                "games/multigame/code/q3_ui/ui_servers2.c",
+                "games/multigame/code/q3_ui/ui_splevel.c",
+                "games/multigame/code/q3_ui/ui_sppostgame.c",
+                "games/multigame/code/q3_ui/ui_startserver.c",
+                "games/multigame/code/q3_ui/ui_video.c",
+                "games/multigame/code/ui/ui_atoms.c",
+                "games/multigame/code/ui/ui_local.h",
+                "games/multigame/code/ui/ui_main.c",
+                "games/multigame/code/ui/ui_shared.c",
+                "make/game_multi.make"
+              ]
+            }
+          ]
+        },
+        "2022-01-24": {
+          "date": "2022-01-24",
+          "heatScore": 13,
+          "linesChanged": 57,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_scrn.c",
+            "code/renderer/tr_backend.c",
+            "code/renderer/tr_bsp.c",
+            "code/renderer/tr_cmds.c",
+            "code/renderer/tr_image.c",
+            "code/renderer/tr_init.c",
+            "code/renderer/tr_main.c",
+            "code/renderer/tr_model.c",
+            "code/renderer/tr_scene.c",
+            "code/renderer/tr_shader.c",
+            "code/renderer2/tr_bsp.c"
+          ],
+          "commits": [
+            {
+              "hash": "7002d55fe421bce242264348b1e7a3388cbc99d8",
+              "author": "megamind",
+              "date": "2022-01-24T23:04:44.000Z",
+              "message": "crashes are fewer but feels kind of hacky, portals still don't work",
+              "linesAdded": 25,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "code/client/cl_scrn.c",
+                "code/renderer/tr_backend.c",
+                "code/renderer/tr_bsp.c",
+                "code/renderer/tr_cmds.c",
+                "code/renderer/tr_image.c",
+                "code/renderer/tr_init.c",
+                "code/renderer/tr_main.c",
+                "code/renderer/tr_model.c",
+                "code/renderer/tr_scene.c",
+                "code/renderer/tr_shader.c",
+                "code/renderer2/tr_bsp.c"
+              ]
+            }
+          ]
+        },
+        "2022-01-22": {
+          "date": "2022-01-22",
+          "heatScore": 27,
+          "linesChanged": 256,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/renderer/tr_animation.c",
+            "code/renderer/tr_cmds.c",
+            "code/renderer/tr_init.c",
+            "code/renderer/tr_light.c",
+            "code/renderer/tr_local.h",
+            "code/renderer/tr_main.c",
+            "code/renderer/tr_mesh.c",
+            "code/renderer/tr_model_iqm.c",
+            "code/renderer/tr_scene.c",
+            "code/renderer/tr_world.c",
+            "code/renderer2/tr_cmds.c",
+            "code/renderer2/tr_init.c",
+            "code/renderer2/tr_local.h",
+            "code/renderercommon/tr_public.h",
+            "docs/client.md",
+            "docs/multiworld.md"
+          ],
+          "commits": [
+            {
+              "hash": "d27d1e1cdcf5227c2826a25f12f600a90105c709",
+              "author": "megamind",
+              "date": "2022-01-22T22:39:59.000Z",
+              "message": "trying toget multiworld buffering for commands working",
+              "linesAdded": 231,
+              "linesDeleted": 25,
+              "filesChanged": [
+                "code/renderer/tr_animation.c",
+                "code/renderer/tr_cmds.c",
+                "code/renderer/tr_init.c",
+                "code/renderer/tr_light.c",
+                "code/renderer/tr_local.h",
+                "code/renderer/tr_main.c",
+                "code/renderer/tr_mesh.c",
+                "code/renderer/tr_model_iqm.c",
+                "code/renderer/tr_scene.c",
+                "code/renderer/tr_world.c",
+                "code/renderer2/tr_cmds.c",
+                "code/renderer2/tr_init.c",
+                "code/renderer2/tr_local.h",
+                "code/renderercommon/tr_public.h",
+                "docs/client.md",
+                "docs/multiworld.md"
+              ]
+            }
+          ]
+        },
+        "2022-01-21": {
+          "date": "2022-01-21",
+          "heatScore": 18,
+          "linesChanged": 128,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/server/server.h",
+            "code/server/sv_client.c",
+            "code/server/sv_init.c",
+            "code/server/sv_main.c",
+            "code/server/sv_snapshot.c",
+            "docs/multiworld.md",
+            "docs/server.md"
+          ],
+          "commits": [
+            {
+              "hash": "c0d2ba9bb7a149a0a45ee694a506e3fe23658003",
+              "author": "megamind",
+              "date": "2022-01-21T19:51:25.000Z",
+              "message": "trying to fix multiworld entities",
+              "linesAdded": 71,
+              "linesDeleted": 57,
+              "filesChanged": [
+                "code/server/server.h",
+                "code/server/sv_client.c",
+                "code/server/sv_init.c",
+                "code/server/sv_main.c",
+                "code/server/sv_snapshot.c",
+                "docs/multiworld.md",
+                "docs/server.md"
+              ]
+            }
+          ]
+        },
+        "2022-01-20": {
+          "date": "2022-01-20",
+          "heatScore": 15,
+          "linesChanged": 86,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c",
+            "code/client/cl_input.c",
+            "code/client/cl_main.c",
+            "code/client/cl_scrn.c",
+            "code/client/client.h",
+            "code/server/server.h",
+            "code/server/sv_client.c",
+            "code/server/sv_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "00ae0e938947ca42a024bf09bcbcde9b4c383a88",
+              "author": "megamind",
+              "date": "2022-01-20T23:07:49.000Z",
+              "message": "possible fix for not moving",
+              "linesAdded": 55,
+              "linesDeleted": 31,
+              "filesChanged": [
+                "code/client/cl_cgame.c",
+                "code/client/cl_input.c",
+                "code/client/cl_main.c",
+                "code/client/cl_scrn.c",
+                "code/client/client.h",
+                "code/server/server.h",
+                "code/server/sv_client.c",
+                "code/server/sv_main.c"
+              ]
+            }
+          ]
+        },
+        "2022-01-19": {
+          "date": "2022-01-19",
+          "heatScore": 19,
+          "linesChanged": 145,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_input.c",
+            "code/client/cl_main.c",
+            "code/qcommon/net_ip.c",
+            "code/server/sv_client.c",
+            "code/server/sv_demo_mv.c",
+            "code/server/sv_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "9b69930839104225ae213c7946660d5a5d899ce5",
+              "author": "megamind",
+              "date": "2022-01-19T02:56:55.000Z",
+              "message": "normal client and multiview client both working with gamestate but second world doesn't work",
+              "linesAdded": 99,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "code/client/cl_input.c",
+                "code/client/cl_main.c",
+                "code/qcommon/net_ip.c",
+                "code/server/sv_client.c",
+                "code/server/sv_demo_mv.c",
+                "code/server/sv_main.c"
+              ]
+            }
+          ]
+        },
+        "2022-01-18": {
+          "date": "2022-01-18",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/build.yml",
+            "code/client/cl_input.c",
+            "code/server/sv_client.c"
+          ],
+          "commits": [
+            {
+              "hash": "b919a01c326457d40f1ca15d79067fa7c1f26f94",
+              "author": "megamind",
+              "date": "2022-01-18T19:34:58.000Z",
+              "message": "possible fix for missing gamestate while switching worlds",
+              "linesAdded": 12,
+              "linesDeleted": 7,
+              "filesChanged": [
+                ".github/workflows/build.yml",
+                "code/client/cl_input.c",
+                "code/server/sv_client.c"
+              ]
+            }
+          ]
+        },
+        "2022-01-17": {
+          "date": "2022-01-17",
+          "heatScore": 17,
+          "linesChanged": 112,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/client/cl_cgame.c",
+            "code/server/sv_init.c",
+            "docs/client.md",
+            "docs/games.md",
+            "docs/hud.png",
+            "docs/lazyloading.md",
+            "docs/plums.png",
+            "docs/procedural.md",
+            "docs/server.md",
+            "games/multigame/code/game/q_shared.h"
+          ],
+          "commits": [
+            {
+              "hash": "0a5828e7adabcbc0e49441b925421c241802e549",
+              "author": "megamind",
+              "date": "2022-01-17T04:58:27.000Z",
+              "message": "adding more documentation",
+              "linesAdded": 65,
+              "linesDeleted": 47,
+              "filesChanged": [
+                "README.md",
+                "code/client/cl_cgame.c",
+                "code/server/sv_init.c",
+                "docs/client.md",
+                "docs/games.md",
+                "docs/hud.png",
+                "docs/lazyloading.md",
+                "docs/plums.png",
+                "docs/procedural.md",
+                "docs/server.md",
+                "games/multigame/code/game/q_shared.h"
+              ]
+            }
+          ]
+        },
+        "2022-01-14": {
+          "date": "2022-01-14",
+          "heatScore": 24,
+          "linesChanged": 212,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c",
+            "code/client/cl_main.c",
+            "code/qcommon/net_chan.c",
+            "code/qcommon/net_ip.c",
+            "code/qcommon/qcommon.h",
+            "code/server/sv_ccmds.c",
+            "code/server/sv_client.c",
+            "docs/quakejs.md",
+            "games/multigame/zz-multigame.pk3",
+            "make/config-defaults.make",
+            "make/lib_q3map2.make",
+            "make/platform.make",
+            "make/repack.make"
+          ],
+          "commits": [
+            {
+              "hash": "2cfb257dc7aad30669b6d5a8757039eef5443d31",
+              "author": "megamind",
+              "date": "2022-01-14T23:46:57.000Z",
+              "message": "possible fix for multiworld networking, still need multiworld heartbeats",
+              "linesAdded": 163,
+              "linesDeleted": 49,
+              "filesChanged": [
+                "code/client/cl_cgame.c",
+                "code/client/cl_main.c",
+                "code/qcommon/net_chan.c",
+                "code/qcommon/net_ip.c",
+                "code/qcommon/qcommon.h",
+                "code/server/sv_ccmds.c",
+                "code/server/sv_client.c",
+                "docs/quakejs.md",
+                "games/multigame/zz-multigame.pk3",
+                "make/config-defaults.make",
+                "make/lib_q3map2.make",
+                "make/platform.make",
+                "make/repack.make"
+              ]
+            }
+          ]
+        },
+        "2022-01-11": {
+          "date": "2022-01-11",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/build.yml"
+          ],
+          "commits": [
+            {
+              "hash": "7e69f6b8e6d1e635f27dbb29bd263565b9583674",
+              "author": "megamind",
+              "date": "2022-01-11T15:58:59.000Z",
+              "message": "build qvms in cloud",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                ".github/workflows/build.yml"
+              ]
+            }
+          ]
+        },
+        "2022-01-10": {
+          "date": "2022-01-10",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/build.yml"
+          ],
+          "commits": [
+            {
+              "hash": "9a232645460ef3ffdfb3b833c27700ecfe578aef",
+              "author": "megamind",
+              "date": "2022-01-10T19:53:22.000Z",
+              "message": "build qvms in cloud",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                ".github/workflows/build.yml"
+              ]
+            }
+          ]
+        },
+        "2022-01-09": {
+          "date": "2022-01-09",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "make/game_multi.make"
+          ],
+          "commits": [
+            {
+              "hash": "2247c89d229f4a2d3553b0a849bbf1b8319dc912",
+              "author": "megamind",
+              "date": "2022-01-09T19:45:27.000Z",
+              "message": "build libs in cloud",
+              "linesAdded": 18,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "make/game_multi.make"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

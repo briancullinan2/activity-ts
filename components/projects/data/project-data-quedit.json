@@ -1,0 +1,2860 @@
+{
+  "projectName": "quedit",
+  "localPath": "C:\\Users\\megam\\quedit",
+  "remoteUrl": "git@github.com:briancullinan2/quedit.git",
+  "lastUpdated": "2026-09-24T03:04:14.046Z",
+  "screenshots": [
+    {
+      "filename": "Screenshot 2026-08-01 174414.png",
+      "relativePath": "Screenshot 2026-08-01 174414.png",
+      "date": "2026-08-01T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-07-28 224334.png",
+      "relativePath": "Screenshot 2026-07-28 224334.png",
+      "date": "2026-07-28T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-07-08 225309.png",
+      "relativePath": "Screenshot 2026-07-08 225309.png",
+      "date": "2026-07-08T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-13 170927.png",
+      "relativePath": "Screenshot 2026-06-13 170927.png",
+      "date": "2026-06-13T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-11 145546.png",
+      "relativePath": "Screenshot 2026-06-11 145546.png",
+      "date": "2026-06-11T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-08 145318.png",
+      "relativePath": "Screenshot 2026-06-08 145318.png",
+      "date": "2026-06-08T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-02 174947.png",
+      "relativePath": "Screenshot 2026-06-02 174947.png",
+      "date": "2026-06-02T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-06-01 235232.png",
+      "relativePath": "Screenshot 2026-06-01 235232.png",
+      "date": "2026-06-01T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-28 155255.png",
+      "relativePath": "Screenshot 2026-05-28 155255.png",
+      "date": "2026-05-28T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-25 142451.png",
+      "relativePath": "Screenshot 2026-05-25 142451.png",
+      "date": "2026-05-25T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-24 134008.png",
+      "relativePath": "Screenshot 2026-05-24 134008.png",
+      "date": "2026-05-24T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-24 145604.png",
+      "relativePath": "Screenshot 2026-05-24 145604.png",
+      "date": "2026-05-24T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-21 005134.png",
+      "relativePath": "Screenshot 2026-05-21 005134.png",
+      "date": "2026-05-21T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-21 233348.png",
+      "relativePath": "Screenshot 2026-05-21 233348.png",
+      "date": "2026-05-21T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-20 000204.png",
+      "relativePath": "Screenshot 2026-05-20 000204.png",
+      "date": "2026-05-20T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-18 020103.png",
+      "relativePath": "Screenshot 2026-05-18 020103.png",
+      "date": "2026-05-18T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-18 232356.png",
+      "relativePath": "Screenshot 2026-05-18 232356.png",
+      "date": "2026-05-18T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-16 140752.png",
+      "relativePath": "Screenshot 2026-05-16 140752.png",
+      "date": "2026-05-16T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-14 223006.png",
+      "relativePath": "Screenshot 2026-05-14 223006.png",
+      "date": "2026-05-14T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "Screenshot 2026-05-09 100538.png",
+      "relativePath": "Screenshot 2026-05-09 100538.png",
+      "date": "2026-05-09T00:00:00.000Z",
+      "source": "filename"
+    }
+  ],
+  "dailyHeat": {
+    "2026-09-22": {
+      "date": "2026-09-22",
+      "heatScore": 10,
+      "linesChanged": 6,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/bundle/lumino.css"
+      ],
+      "commits": [
+        {
+          "hash": "3cac2ad89b6e915df29f034614c0f0840c451432",
+          "author": "Brian Cullinan",
+          "date": "2026-09-22T16:26:56.000Z",
+          "message": "border thickness",
+          "linesAdded": 3,
+          "linesDeleted": 3,
+          "filesChanged": [
+            "components/bundle/lumino.css"
+          ]
+        }
+      ]
+    },
+    "2026-08-02": {
+      "date": "2026-08-02",
+      "heatScore": 21,
+      "linesChanged": 178,
+      "commitCount": 1,
+      "filesEdited": [
+        "Screenshot 2026-08-01 174414.png",
+        "app.bundle.js",
+        "components/bundle/lumino-files.ts",
+        "components/bundle/lumino-widget.ts",
+        "components/editor/widget.ts",
+        "components/graph/widget.ts",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "037ba60a1e35272709865563eeae40225a75cd15",
+          "author": "Brian Cullinan",
+          "date": "2026-08-02T02:17:19.000Z",
+          "message": "trying to retheme graph",
+          "linesAdded": 170,
+          "linesDeleted": 8,
+          "filesChanged": [
+            "Screenshot 2026-08-01 174414.png",
+            "app.bundle.js",
+            "components/bundle/lumino-files.ts",
+            "components/bundle/lumino-widget.ts",
+            "components/editor/widget.ts",
+            "components/graph/widget.ts",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-08-01": {
+      "date": "2026-08-01",
+      "heatScore": 37,
+      "linesChanged": 405,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/github-worker.ts",
+        "components/bundle/lumino-search.ts",
+        "components/bundle/lumino-widget.ts",
+        "components/bundle/lumino.ts",
+        "components/bundle/menu-history.ts",
+        "components/compiler/worker.js",
+        "components/editor/widget.ts",
+        "components/{filelist => workers}/commit-worker.js",
+        "components/{filelist => workers}/github.js",
+        "components/workers/lg2.js",
+        "components/workers/lg2.wasm",
+        "components/workers/lg2_async.js",
+        "components/workers/lg2_async.wasm",
+        "components/workers/lg2_opfs.js",
+        "components/workers/lg2_opfs.wasm",
+        "components/workers/lg2_opfs_async.js",
+        "components/workers/lg2_opfs_async.wasm",
+        "components/workers/lg2_opfs_auto.js",
+        "components/workers/lg2_opfs_jspi.js",
+        "components/workers/lg2_opfs_jspi.wasm",
+        "components/{filelist => workers}/search-worker.js",
+        "index.html",
+        "package-lock.json",
+        "package.json",
+        "service-worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "7950281a01933309ea5dd1bd964bb690354f8b30",
+          "author": "Brian Cullinan",
+          "date": "2026-08-01T20:44:51.000Z",
+          "message": "hash update",
+          "linesAdded": 376,
+          "linesDeleted": 29,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/github-worker.ts",
+            "components/bundle/lumino-search.ts",
+            "components/bundle/lumino-widget.ts",
+            "components/bundle/lumino.ts",
+            "components/bundle/menu-history.ts",
+            "components/compiler/worker.js",
+            "components/editor/widget.ts",
+            "components/{filelist => workers}/commit-worker.js",
+            "components/{filelist => workers}/github.js",
+            "components/workers/lg2.js",
+            "components/workers/lg2.wasm",
+            "components/workers/lg2_async.js",
+            "components/workers/lg2_async.wasm",
+            "components/workers/lg2_opfs.js",
+            "components/workers/lg2_opfs.wasm",
+            "components/workers/lg2_opfs_async.js",
+            "components/workers/lg2_opfs_async.wasm",
+            "components/workers/lg2_opfs_auto.js",
+            "components/workers/lg2_opfs_jspi.js",
+            "components/workers/lg2_opfs_jspi.wasm",
+            "components/{filelist => workers}/search-worker.js",
+            "index.html",
+            "package-lock.json",
+            "package.json",
+            "service-worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-31": {
+      "date": "2026-07-31",
+      "heatScore": 12,
+      "linesChanged": 30,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/menu.ts",
+        "components/rosetta/antlr-languages.bundle.js",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "ac8730c8242fe9eca18b839db3aabc2993302145",
+          "author": "Brian Cullinan",
+          "date": "2026-07-31T22:44:05.000Z",
+          "message": "language update added makefile",
+          "linesAdded": 20,
+          "linesDeleted": 10,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/menu.ts",
+            "components/rosetta/antlr-languages.bundle.js",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-30": {
+      "date": "2026-07-30",
+      "heatScore": 20,
+      "linesChanged": 161,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/github-tools.ts",
+        "components/bundle/github.d.ts",
+        "components/bundle/local.d.ts",
+        "components/compiler/make.js",
+        "components/compiler/shared.js",
+        "components/editor/widget-menu.ts",
+        "components/filelist/widget-local.ts",
+        "components/filelist/widget-search.ts",
+        "components/filelist/widget.ts",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "3a90a856a4cbfe85fdf555b5ba2d11aaf7e147a5",
+          "author": "Brian Cullinan",
+          "date": "2026-07-30T22:21:36.000Z",
+          "message": "more typing",
+          "linesAdded": 121,
+          "linesDeleted": 40,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/github-tools.ts",
+            "components/bundle/github.d.ts",
+            "components/bundle/local.d.ts",
+            "components/compiler/make.js",
+            "components/compiler/shared.js",
+            "components/editor/widget-menu.ts",
+            "components/filelist/widget-local.ts",
+            "components/filelist/widget-search.ts",
+            "components/filelist/widget.ts",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-29": {
+      "date": "2026-07-29",
+      "heatScore": 41,
+      "linesChanged": 478,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/github-worker.ts",
+        "components/bundle/lumino-search.ts",
+        "components/bundle/lumino.ts",
+        "components/bundle/menu.d.ts",
+        "components/filelist/widget-github.ts",
+        "components/terminal/commands-build.js",
+        "components/terminal/commands-git.js",
+        "components/terminal/widget.d.ts",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "825742b6db08977253dc43a59a04e6243c963b9c",
+          "author": "Brian Cullinan",
+          "date": "2026-07-29T23:22:26.000Z",
+          "message": "working on github commands",
+          "linesAdded": 302,
+          "linesDeleted": 176,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/github-worker.ts",
+            "components/bundle/lumino-search.ts",
+            "components/bundle/lumino.ts",
+            "components/bundle/menu.d.ts",
+            "components/filelist/widget-github.ts",
+            "components/terminal/commands-build.js",
+            "components/terminal/commands-git.js",
+            "components/terminal/widget.d.ts",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-28": {
+      "date": "2026-07-28",
+      "heatScore": 38,
+      "linesChanged": 422,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/compiler/make-qvm.js",
+        "components/compiler/make-tools.js",
+        "components/compiler/make.d.ts",
+        "components/compiler/make.js",
+        "components/compiler/shared.js",
+        "components/terminal/commands-build.js",
+        "components/terminal/commands-git.js",
+        "components/terminal/commands.js",
+        "components/terminal/widget.d.ts"
+      ],
+      "commits": [
+        {
+          "hash": "8d47b2e8cb5bfcc36124a85538592afb2ea80f1d",
+          "author": "Brian Cullinan",
+          "date": "2026-07-28T23:49:27.000Z",
+          "message": "almost done typing make system",
+          "linesAdded": 307,
+          "linesDeleted": 115,
+          "filesChanged": [
+            "components/compiler/make-qvm.js",
+            "components/compiler/make-tools.js",
+            "components/compiler/make.d.ts",
+            "components/compiler/make.js",
+            "components/compiler/shared.js",
+            "components/terminal/commands-build.js",
+            "components/terminal/commands-git.js",
+            "components/terminal/commands.js",
+            "components/terminal/widget.d.ts"
+          ]
+        }
+      ]
+    },
+    "2026-07-27": {
+      "date": "2026-07-27",
+      "heatScore": 52,
+      "linesChanged": 644,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/bundle/github-api.ts",
+        "components/bundle/github-settings.ts",
+        "components/bundle/github-tools.ts",
+        "components/bundle/github.d.ts",
+        "components/bundle/global-shared.d.ts",
+        "components/bundle/global-worker.d.ts",
+        "components/bundle/global.d.ts",
+        "components/bundle/global.ts",
+        "components/bundle/local.d.ts",
+        "components/bundle/logging.d.ts",
+        "components/bundle/logging.ts",
+        "components/bundle/lumino-files.ts",
+        "components/bundle/lumino.d.ts",
+        "components/bundle/menu.d.ts",
+        "components/compiler/worker.d.ts",
+        "components/compiler/worker.js",
+        "components/filelist/widget.d.ts",
+        "components/filelist/widget.ts"
+      ],
+      "commits": [
+        {
+          "hash": "e4a7e00d67d996af90f2ae35915464db7a3d9038",
+          "author": "Brian Cullinan",
+          "date": "2026-07-27T22:17:02.000Z",
+          "message": "more strong typing, little bit broken atm",
+          "linesAdded": 264,
+          "linesDeleted": 380,
+          "filesChanged": [
+            "components/bundle/github-api.ts",
+            "components/bundle/github-settings.ts",
+            "components/bundle/github-tools.ts",
+            "components/bundle/github.d.ts",
+            "components/bundle/global-shared.d.ts",
+            "components/bundle/global-worker.d.ts",
+            "components/bundle/global.d.ts",
+            "components/bundle/global.ts",
+            "components/bundle/local.d.ts",
+            "components/bundle/logging.d.ts",
+            "components/bundle/logging.ts",
+            "components/bundle/lumino-files.ts",
+            "components/bundle/lumino.d.ts",
+            "components/bundle/menu.d.ts",
+            "components/compiler/worker.d.ts",
+            "components/compiler/worker.js",
+            "components/filelist/widget.d.ts",
+            "components/filelist/widget.ts"
+          ]
+        }
+      ]
+    },
+    "2026-07-26": {
+      "date": "2026-07-26",
+      "heatScore": 12,
+      "linesChanged": 37,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/logging.ts",
+        "components/bundle/lumino-resize.ts",
+        "components/terminal/widget.ts",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "8e4e04641ba53e184866384dafd2ae974f7a460f",
+          "author": "Brian Cullinan",
+          "date": "2026-07-26T22:43:02.000Z",
+          "message": "another dumbass resizing bug",
+          "linesAdded": 29,
+          "linesDeleted": 8,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/logging.ts",
+            "components/bundle/lumino-resize.ts",
+            "components/terminal/widget.ts",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-25": {
+      "date": "2026-07-25",
+      "heatScore": 100,
+      "linesChanged": 1440,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/paint/widget-menu.ts",
+        "components/paint/widget-settings.ts",
+        "components/paint/widget.ts",
+        "components/terminal/commands-complete.ts",
+        "components/terminal/commands.js"
+      ],
+      "commits": [
+        {
+          "hash": "64aab9954060675edaa8a494767248c163b08a28",
+          "author": "Brian Cullinan",
+          "date": "2026-07-25T19:28:44.000Z",
+          "message": "fix for auto-complete",
+          "linesAdded": 726,
+          "linesDeleted": 714,
+          "filesChanged": [
+            "components/paint/widget-menu.ts",
+            "components/paint/widget-settings.ts",
+            "components/paint/widget.ts",
+            "components/terminal/commands-complete.ts",
+            "components/terminal/commands.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-24": {
+      "date": "2026-07-24",
+      "heatScore": 11,
+      "linesChanged": 22,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/bundle/github-api.ts",
+        "components/bundle/github-tools.ts",
+        "components/filelist/github.js",
+        "components/filelist/widget-github.ts",
+        "components/terminal/commands-git.js"
+      ],
+      "commits": [
+        {
+          "hash": "61429b66a5af0c40ce93ad247da154e6873cb548",
+          "author": "Brian Cullinan",
+          "date": "2026-07-24T23:47:46.000Z",
+          "message": "github tree fix",
+          "linesAdded": 11,
+          "linesDeleted": 11,
+          "filesChanged": [
+            "components/bundle/github-api.ts",
+            "components/bundle/github-tools.ts",
+            "components/filelist/github.js",
+            "components/filelist/widget-github.ts",
+            "components/terminal/commands-git.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-23": {
+      "date": "2026-07-23",
+      "heatScore": 60,
+      "linesChanged": 753,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/filelist/widget-local.ts",
+        "components/filelist/widget.ts"
+      ],
+      "commits": [
+        {
+          "hash": "de20fdcf3126e22f6c17cb43705f000ebbd8d9e2",
+          "author": "Brian Cullinan",
+          "date": "2026-07-23T23:43:09.000Z",
+          "message": "fix for file loading and organization",
+          "linesAdded": 391,
+          "linesDeleted": 362,
+          "filesChanged": [
+            "components/filelist/widget-local.ts",
+            "components/filelist/widget.ts"
+          ]
+        }
+      ]
+    },
+    "2026-07-22": {
+      "date": "2026-07-22",
+      "heatScore": 35,
+      "linesChanged": 388,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/lumino-resize.ts",
+        "components/bundle/lumino-widget.ts",
+        "components/bundle/menu-app.ts",
+        "components/terminal/widget.ts",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "00e74271e58be4fa9ba4005b7d1f7b1da4a68f92",
+          "author": "Brian Cullinan",
+          "date": "2026-07-22T22:50:57.000Z",
+          "message": "widescreen layouts",
+          "linesAdded": 323,
+          "linesDeleted": 65,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/lumino-resize.ts",
+            "components/bundle/lumino-widget.ts",
+            "components/bundle/menu-app.ts",
+            "components/terminal/widget.ts",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-21": {
+      "date": "2026-07-21",
+      "heatScore": 23,
+      "linesChanged": 200,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/lumino-resize.ts",
+        "components/bundle/lumino-widget.ts",
+        "components/bundle/menu.ts",
+        "components/filelist/widget.ts",
+        "components/terminal/widget.ts",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "48144f03d6dfef6944b3b0445338265ff91a5798",
+          "author": "Brian Cullinan",
+          "date": "2026-07-21T20:50:52.000Z",
+          "message": "collapsing terminal and file lists",
+          "linesAdded": 144,
+          "linesDeleted": 56,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/lumino-resize.ts",
+            "components/bundle/lumino-widget.ts",
+            "components/bundle/menu.ts",
+            "components/filelist/widget.ts",
+            "components/terminal/widget.ts",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-20": {
+      "date": "2026-07-20",
+      "heatScore": 13,
+      "linesChanged": 55,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/menu-engine.ts",
+        "index.html",
+        "service-worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "8d906ae1dd3d2e1ff930f054fcec0e4ee1dfb179",
+          "author": "Brian Cullinan",
+          "date": "2026-07-20T23:23:33.000Z",
+          "message": "still working on damn map loader",
+          "linesAdded": 43,
+          "linesDeleted": 12,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/menu-engine.ts",
+            "index.html",
+            "service-worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-19": {
+      "date": "2026-07-19",
+      "heatScore": 74,
+      "linesChanged": 966,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/map-loader/basis/basis-basics.js",
+        "components/map-loader/q3bsp.js",
+        "components/map-loader/q3glshader.js",
+        "components/map-loader/q3shader.js",
+        "components/map-loader/widget.ts"
+      ],
+      "commits": [
+        {
+          "hash": "ff7a7ecb69b0e47798c67e090c6bb5e81b38cf4b",
+          "author": "Brian Cullinan",
+          "date": "2026-07-19T21:05:52.000Z",
+          "message": "need to fix shitty pre es6 code",
+          "linesAdded": 454,
+          "linesDeleted": 512,
+          "filesChanged": [
+            "components/map-loader/basis/basis-basics.js",
+            "components/map-loader/q3bsp.js",
+            "components/map-loader/q3glshader.js",
+            "components/map-loader/q3shader.js",
+            "components/map-loader/widget.ts"
+          ]
+        }
+      ]
+    },
+    "2026-07-18": {
+      "date": "2026-07-18",
+      "heatScore": 100,
+      "linesChanged": 2977,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/bundle/generate-manifest.ts",
+        "components/filelist/widget-assets.ts",
+        "components/filelist/widget.ts",
+        "file-manifest.js",
+        "package.json",
+        "service-worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "6fc597f85b2d86a35e90db0413396e01912dde8a",
+          "author": "Brian Cullinan",
+          "date": "2026-07-18T21:08:41.000Z",
+          "message": "almost working assets database",
+          "linesAdded": 2938,
+          "linesDeleted": 39,
+          "filesChanged": [
+            "components/bundle/generate-manifest.ts",
+            "components/filelist/widget-assets.ts",
+            "components/filelist/widget.ts",
+            "file-manifest.js",
+            "package.json",
+            "service-worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-17": {
+      "date": "2026-07-17",
+      "heatScore": 34,
+      "linesChanged": 369,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/github-api.ts",
+        "components/bundle/github-tools.ts",
+        "components/bundle/github-types.ts",
+        "components/bundle/global.ts",
+        "components/bundle/local.ts",
+        "components/bundle/menu.ts",
+        "components/filelist/widget-database.ts",
+        "components/filelist/widget.ts",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "e91063fbf7124d12e93457abf5c5b401cf9f9034",
+          "author": "Brian Cullinan",
+          "date": "2026-07-17T23:15:35.000Z",
+          "message": "working on displaying IDB database tree list",
+          "linesAdded": 346,
+          "linesDeleted": 23,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/github-api.ts",
+            "components/bundle/github-tools.ts",
+            "components/bundle/github-types.ts",
+            "components/bundle/global.ts",
+            "components/bundle/local.ts",
+            "components/bundle/menu.ts",
+            "components/filelist/widget-database.ts",
+            "components/filelist/widget.ts",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-15": {
+      "date": "2026-07-15",
+      "heatScore": 100,
+      "linesChanged": 2854,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/bundle/menu.ts",
+        "components/filelist/filelist.js",
+        "components/filelist/widget-assets.ts",
+        "components/filelist/widget-database.ts",
+        "components/filelist/widget.md",
+        "components/map-loader/main.js",
+        "components/map-loader/q3bsp.js",
+        "components/map-loader/widget.ts"
+      ],
+      "commits": [
+        {
+          "hash": "6323a1a934e8adf0a85284a67ee6d5aa8a71dfe1",
+          "author": "Brian Cullinan",
+          "date": "2026-07-15T18:21:27.000Z",
+          "message": "working on toji widget and file lists",
+          "linesAdded": 2181,
+          "linesDeleted": 673,
+          "filesChanged": [
+            "components/bundle/menu.ts",
+            "components/filelist/filelist.js",
+            "components/filelist/widget-assets.ts",
+            "components/filelist/widget-database.ts",
+            "components/filelist/widget.md",
+            "components/map-loader/main.js",
+            "components/map-loader/q3bsp.js",
+            "components/map-loader/widget.ts"
+          ]
+        }
+      ]
+    },
+    "2026-07-14": {
+      "date": "2026-07-14",
+      "heatScore": 14,
+      "linesChanged": 72,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/babel-compile.ts",
+        "components/terminal/events.ts",
+        "components/terminal/history.ts",
+        "components/terminal/render.ts",
+        "components/terminal/search.ts",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "cb3effd873567d45886e708ebe8ccc3beeae7793",
+          "author": "Brian Cullinan",
+          "date": "2026-07-14T22:49:33.000Z",
+          "message": "fix for stupid promises",
+          "linesAdded": 46,
+          "linesDeleted": 26,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/babel-compile.ts",
+            "components/terminal/events.ts",
+            "components/terminal/history.ts",
+            "components/terminal/render.ts",
+            "components/terminal/search.ts",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-13": {
+      "date": "2026-07-13",
+      "heatScore": 100,
+      "linesChanged": 88604,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/core/extensions.js",
+        "components/core/modules.js",
+        "components/core/preambles.js",
+        "components/filelist/iso-git.min.js",
+        "components/paint/paint.js",
+        "components/paint/paint.orig.js",
+        "components/paint/utilities.js",
+        "components/terminal/commands-quake3.js",
+        "components/terminal/events.ts",
+        "components/terminal/render.js",
+        "components/terminal/render.ts",
+        "components/terminal/search.js",
+        "components/terminal/search.ts",
+        "components/terminal/widget.ts"
+      ],
+      "commits": [
+        {
+          "hash": "7c1abbc05914d224d6f36146a347e610fdb6f34e",
+          "author": "Brian Cullinan",
+          "date": "2026-07-13T22:24:17.000Z",
+          "message": "more terminal stuff and cleanup",
+          "linesAdded": 1006,
+          "linesDeleted": 87598,
+          "filesChanged": [
+            "components/core/extensions.js",
+            "components/core/modules.js",
+            "components/core/preambles.js",
+            "components/filelist/iso-git.min.js",
+            "components/paint/paint.js",
+            "components/paint/paint.orig.js",
+            "components/paint/utilities.js",
+            "components/terminal/commands-quake3.js",
+            "components/terminal/events.ts",
+            "components/terminal/render.js",
+            "components/terminal/render.ts",
+            "components/terminal/search.js",
+            "components/terminal/search.ts",
+            "components/terminal/widget.ts"
+          ]
+        }
+      ]
+    },
+    "2026-07-12": {
+      "date": "2026-07-12",
+      "heatScore": 35,
+      "linesChanged": 387,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/menu.ts",
+        "components/terminal/widget.ts",
+        "components/terminal/xterm.js",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "d199bf5f149a0a9c235e49bae13a0bcd9df4cc7f",
+          "author": "Brian Cullinan",
+          "date": "2026-07-12T22:29:24.000Z",
+          "message": "xterm widget booting up, now i need to restore log history and console overrides",
+          "linesAdded": 355,
+          "linesDeleted": 32,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/menu.ts",
+            "components/terminal/widget.ts",
+            "components/terminal/xterm.js",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-11": {
+      "date": "2026-07-11",
+      "heatScore": 11,
+      "linesChanged": 27,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/toolbar.css",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "9922809b7988e0a266694028635a347620e7d374",
+          "author": "Brian Cullinan",
+          "date": "2026-07-11T23:37:57.000Z",
+          "message": "slightly better toolbar interaction",
+          "linesAdded": 23,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/toolbar.css",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-10": {
+      "date": "2026-07-10",
+      "heatScore": 24,
+      "linesChanged": 220,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/lumino-widget.ts",
+        "components/bundle/lumino.ts",
+        "components/bundle/menu.css",
+        "components/layout/settings.js",
+        "components/paint/bundle.js",
+        "components/paint/widget.ts",
+        "index.html",
+        "tsconfig.json",
+        "webpack.prod.js"
+      ],
+      "commits": [
+        {
+          "hash": "dfbcf052f41964b3173dfc43372e0e95a9fd8248",
+          "author": "Brian Cullinan",
+          "date": "2026-07-10T20:20:45.000Z",
+          "message": "fantastic menu generation, now just needs to be all in the top bar, and wired up to trigger_link",
+          "linesAdded": 161,
+          "linesDeleted": 59,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/lumino-widget.ts",
+            "components/bundle/lumino.ts",
+            "components/bundle/menu.css",
+            "components/layout/settings.js",
+            "components/paint/bundle.js",
+            "components/paint/widget.ts",
+            "index.html",
+            "tsconfig.json",
+            "webpack.prod.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-09": {
+      "date": "2026-07-09",
+      "heatScore": 16,
+      "linesChanged": 90,
+      "commitCount": 1,
+      "filesEdited": [
+        "app.bundle.js",
+        "components/bundle/lumino-resize.ts",
+        "components/bundle/lumino-widget.ts",
+        "components/bundle/lumino.ts",
+        "components/filelist/widget.ts",
+        "dev.js",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "1183a7c1d3251c9865850889b872213fc21f547c",
+          "author": "Brian Cullinan",
+          "date": "2026-07-09T23:57:46.000Z",
+          "message": "resizing works on close and reopen events, trying to make it more responsive",
+          "linesAdded": 82,
+          "linesDeleted": 8,
+          "filesChanged": [
+            "app.bundle.js",
+            "components/bundle/lumino-resize.ts",
+            "components/bundle/lumino-widget.ts",
+            "components/bundle/lumino.ts",
+            "components/filelist/widget.ts",
+            "dev.js",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-08": {
+      "date": "2026-07-08",
+      "heatScore": 21,
+      "linesChanged": 168,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/bundle/controls.css",
+        "components/bundle/menu-history.ts",
+        "components/bundle/toolbar.css",
+        "components/core/history.css",
+        "components/editor/events.js",
+        "components/editor/widget.ts",
+        "components/filelist/widget.ts",
+        "dist/app.bundle.js",
+        "package-lock.json",
+        "package.json",
+        "webpack.prod.js"
+      ],
+      "commits": [
+        {
+          "hash": "c312175cb24f2b6bdf5ed20fad3f1f3f09e0ea4c",
+          "author": "Brian Cullinan",
+          "date": "2026-07-08T22:48:42.000Z",
+          "message": "history toolbar works, needs a little more responsive work, ie. hide file list unless it was the last thing opened in mobile mode",
+          "linesAdded": 124,
+          "linesDeleted": 44,
+          "filesChanged": [
+            "components/bundle/controls.css",
+            "components/bundle/menu-history.ts",
+            "components/bundle/toolbar.css",
+            "components/core/history.css",
+            "components/editor/events.js",
+            "components/editor/widget.ts",
+            "components/filelist/widget.ts",
+            "dist/app.bundle.js",
+            "package-lock.json",
+            "package.json",
+            "webpack.prod.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-07": {
+      "date": "2026-07-07",
+      "heatScore": 46,
+      "linesChanged": 542,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/bundle/controls.css",
+        "components/bundle/lumino.css",
+        "components/bundle/lumino.ts",
+        "components/bundle/menu-repos.ts",
+        "components/bundle/menu.css",
+        "components/bundle/menu.ts",
+        "components/bundle/status.ts",
+        "components/bundle/toolbar.css",
+        "components/bundle/tree.css",
+        "dist/app.bundle.js",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "69ba5a5dda2aa42bbce3a3169c59a0422fdeb0d3",
+          "author": "Brian Cullinan",
+          "date": "2026-07-07T20:34:57.000Z",
+          "message": "automatic resizing, one thing i asked gemini to do actually worked and it only took 3 tries",
+          "linesAdded": 340,
+          "linesDeleted": 202,
+          "filesChanged": [
+            "components/bundle/controls.css",
+            "components/bundle/lumino.css",
+            "components/bundle/lumino.ts",
+            "components/bundle/menu-repos.ts",
+            "components/bundle/menu.css",
+            "components/bundle/menu.ts",
+            "components/bundle/status.ts",
+            "components/bundle/toolbar.css",
+            "components/bundle/tree.css",
+            "dist/app.bundle.js",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-07-06": {
+      "date": "2026-07-06",
+      "heatScore": 54,
+      "linesChanged": 673,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/bundle/lumino.css",
+        "components/bundle/lumino.ts",
+        "components/bundle/menu.css",
+        "components/bundle/menu.ts",
+        "components/bundle/toolbar-repos.ts",
+        "dist/app.bundle.js"
+      ],
+      "commits": [
+        {
+          "hash": "3224d973792a934223a8ab2307d287433604fe6d",
+          "author": "Brian Cullinan",
+          "date": "2026-07-06T23:20:28.000Z",
+          "message": "more menu stuff",
+          "linesAdded": 459,
+          "linesDeleted": 214,
+          "filesChanged": [
+            "components/bundle/lumino.css",
+            "components/bundle/lumino.ts",
+            "components/bundle/menu.css",
+            "components/bundle/menu.ts",
+            "components/bundle/toolbar-repos.ts",
+            "dist/app.bundle.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-29": {
+      "date": "2026-06-29",
+      "heatScore": 17,
+      "linesChanged": 108,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "components/map-editor/file-access.js",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "1e567ac9072f067b3cbca05c0c2989b237e2a1d6",
+          "author": "Brian Cullinan",
+          "date": "2026-06-29T17:46:55.000Z",
+          "message": "editor needs local file access",
+          "linesAdded": 98,
+          "linesDeleted": 10,
+          "filesChanged": [
+            "README.md",
+            "components/map-editor/file-access.js",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-06-25": {
+      "date": "2026-06-25",
+      "heatScore": 11,
+      "linesChanged": 18,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/terminal/commands.js"
+      ],
+      "commits": [
+        {
+          "hash": "ad23a79b0b1bff0d97cd4d5de0aeeb87592c84a7",
+          "author": "Brian Cullinan",
+          "date": "2026-06-25T01:00:52.000Z",
+          "message": "fixed hello and added application error command",
+          "linesAdded": 17,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/terminal/commands.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-23": {
+      "date": "2026-06-23",
+      "heatScore": 13,
+      "linesChanged": 53,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/engine/sys_in.js",
+        "components/filelist/github.js"
+      ],
+      "commits": [
+        {
+          "hash": "625dfc5c95c72696666f3475d62ce5ab1aaf0b2b",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T06:24:05.000Z",
+          "message": "possible fix for loading graphics data",
+          "linesAdded": 52,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/engine/sys_in.js",
+            "components/filelist/github.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-22": {
+      "date": "2026-06-22",
+      "heatScore": 10,
+      "linesChanged": 11,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/core/extensions.js",
+        "components/core/modules.js",
+        "service-worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "58f335da74c35a96c757a936fbafa9a40daa741d",
+          "author": "Brian Cullinan",
+          "date": "2026-06-22T05:41:18.000Z",
+          "message": "minor bug fixes",
+          "linesAdded": 6,
+          "linesDeleted": 5,
+          "filesChanged": [
+            "components/core/extensions.js",
+            "components/core/modules.js",
+            "service-worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-21": {
+      "date": "2026-06-21",
+      "heatScore": 10,
+      "linesChanged": 0,
+      "commitCount": 1,
+      "filesEdited": [
+        "3rdparty/sculptgl-master.zip"
+      ],
+      "commits": [
+        {
+          "hash": "aa3afb0f316649cc7bdc026d5d7b080418d09222",
+          "author": "Brian Cullinan",
+          "date": "2026-06-21T23:24:00.000Z",
+          "message": "another possible integration for models",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "3rdparty/sculptgl-master.zip"
+          ]
+        }
+      ]
+    },
+    "2026-06-15": {
+      "date": "2026-06-15",
+      "heatScore": 13,
+      "linesChanged": 53,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/map-editor/Q3BSPLoader.js",
+        "components/map-editor/bundle.js"
+      ],
+      "commits": [
+        {
+          "hash": "23a552be37100e9f19e6a82c7c5757378fae8c24",
+          "author": "Brian Cullinan",
+          "date": "2026-06-15T18:05:56.000Z",
+          "message": "throttler for bsp loading in nunu",
+          "linesAdded": 48,
+          "linesDeleted": 5,
+          "filesChanged": [
+            "components/map-editor/Q3BSPLoader.js",
+            "components/map-editor/bundle.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-14": {
+      "date": "2026-06-14",
+      "heatScore": 11,
+      "linesChanged": 15,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/layout/layout.css",
+        "components/layout/toolbar.js",
+        "components/terminal/terminal.js",
+        "components/terminal/xterm.js"
+      ],
+      "commits": [
+        {
+          "hash": "0a3a4e1b95cbbfa236d9689864643897c9f49297",
+          "author": "Brian Cullinan",
+          "date": "2026-06-14T22:43:41.000Z",
+          "message": "showing terminal and tools at the same time with layout button",
+          "linesAdded": 13,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "components/layout/layout.css",
+            "components/layout/toolbar.js",
+            "components/terminal/terminal.js",
+            "components/terminal/xterm.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-13": {
+      "date": "2026-06-13",
+      "heatScore": 16,
+      "linesChanged": 90,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/core/modules.js",
+        "components/filelist/github.js",
+        "components/filelist/layout.js",
+        "components/filelist/load-media.js",
+        "components/layout/toolbar.js",
+        "service-worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "475c3ba2e450be8d7c15a6e60598b5c3ecf50bc5",
+          "author": "Brian Cullinan",
+          "date": "2026-06-13T22:58:45.000Z",
+          "message": "almost working map drop down",
+          "linesAdded": 73,
+          "linesDeleted": 17,
+          "filesChanged": [
+            "components/core/modules.js",
+            "components/filelist/github.js",
+            "components/filelist/layout.js",
+            "components/filelist/load-media.js",
+            "components/layout/toolbar.js",
+            "service-worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-12": {
+      "date": "2026-06-12",
+      "heatScore": 10,
+      "linesChanged": 10,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/rosetta/antlr-languages.bundle.js",
+        "service-worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "66f99780affb84c9d910f7bd740ac8aa62cba88c",
+          "author": "Brian Cullinan",
+          "date": "2026-06-12T23:47:38.000Z",
+          "message": "fix for q3 shader",
+          "linesAdded": 5,
+          "linesDeleted": 5,
+          "filesChanged": [
+            "components/rosetta/antlr-languages.bundle.js",
+            "service-worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-11": {
+      "date": "2026-06-11",
+      "heatScore": 13,
+      "linesChanged": 57,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "Screenshot 2026-06-11 145546.png"
+      ],
+      "commits": [
+        {
+          "hash": "a248d95182ddae7db37ac366761eb7c7958b91e7",
+          "author": "Brian Cullinan",
+          "date": "2026-06-11T22:00:59.000Z",
+          "message": "readme update",
+          "linesAdded": 56,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "README.md",
+            "Screenshot 2026-06-11 145546.png"
+          ]
+        }
+      ]
+    },
+    "2026-06-10": {
+      "date": "2026-06-10",
+      "heatScore": 13,
+      "linesChanged": 59,
+      "commitCount": 1,
+      "filesEdited": [
+        "service-worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "6f8edd6c8578ed8a63d377d49d09c55a48ca2a06",
+          "author": "Brian Cullinan",
+          "date": "2026-06-10T20:46:50.000Z",
+          "message": "omg, fix to get service worker to cache github trees",
+          "linesAdded": 41,
+          "linesDeleted": 18,
+          "filesChanged": [
+            "service-worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-09": {
+      "date": "2026-06-09",
+      "heatScore": 13,
+      "linesChanged": 45,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "components/core/extensions.js",
+        "dev.js",
+        "index.html",
+        "service-worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "a01727f991efc5dfcd8b9927386ff0cff0509efa",
+          "author": "Brian Cullinan",
+          "date": "2026-06-09T15:29:05.000Z",
+          "message": "trying to get service worker to load dependencies out of IDB for fully editable IDE inside the tab",
+          "linesAdded": 37,
+          "linesDeleted": 8,
+          "filesChanged": [
+            "README.md",
+            "components/core/extensions.js",
+            "dev.js",
+            "index.html",
+            "service-worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-08": {
+      "date": "2026-06-08",
+      "heatScore": 27,
+      "linesChanged": 259,
+      "commitCount": 1,
+      "filesEdited": [
+        "Screenshot 2026-06-08 145318.png",
+        "components/editor/editor.js",
+        "components/filelist/filelist.js",
+        "components/filelist/layout.js",
+        "components/filelist/load-media.js",
+        "components/layout/configuration.js",
+        "components/layout/toolbar.js",
+        "components/paint/paint.js",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "6519e031f5e7345229930cab34753a3ff82598ab",
+          "author": "Brian Cullinan",
+          "date": "2026-06-08T21:54:04.000Z",
+          "message": "working on global history stack",
+          "linesAdded": 177,
+          "linesDeleted": 82,
+          "filesChanged": [
+            "Screenshot 2026-06-08 145318.png",
+            "components/editor/editor.js",
+            "components/filelist/filelist.js",
+            "components/filelist/layout.js",
+            "components/filelist/load-media.js",
+            "components/layout/configuration.js",
+            "components/layout/toolbar.js",
+            "components/paint/paint.js",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-06-07": {
+      "date": "2026-06-07",
+      "heatScore": 13,
+      "linesChanged": 54,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/paint/utilities.js"
+      ],
+      "commits": [
+        {
+          "hash": "6922357683136f3917e19083e58fc767187d7d76",
+          "author": "Brian Cullinan",
+          "date": "2026-06-07T21:14:11.000Z",
+          "message": "merged with nunustudio",
+          "linesAdded": 49,
+          "linesDeleted": 5,
+          "filesChanged": [
+            "components/paint/utilities.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-06": {
+      "date": "2026-06-06",
+      "heatScore": 26,
+      "linesChanged": 247,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/engine/sys_in.js",
+        "components/map-editor/Q3BSPLoader.js"
+      ],
+      "commits": [
+        {
+          "hash": "1dd6e79d1ec86a6964f46b091dee165b13ba3f60",
+          "author": "Brian Cullinan",
+          "date": "2026-06-06T23:17:33.000Z",
+          "message": "textures finally loading i nunustudio",
+          "linesAdded": 169,
+          "linesDeleted": 78,
+          "filesChanged": [
+            "components/engine/sys_in.js",
+            "components/map-editor/Q3BSPLoader.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-05": {
+      "date": "2026-06-05",
+      "heatScore": 11,
+      "linesChanged": 17,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/core/extensions.js",
+        "components/core/main.css",
+        "components/map-editor/bundle.js"
+      ],
+      "commits": [
+        {
+          "hash": "e9393a5e1e98a3d6473f3ee7a6ca37b35ede72f6",
+          "author": "Brian Cullinan",
+          "date": "2026-06-05T21:04:23.000Z",
+          "message": "panel switching",
+          "linesAdded": 11,
+          "linesDeleted": 6,
+          "filesChanged": [
+            "components/core/extensions.js",
+            "components/core/main.css",
+            "components/map-editor/bundle.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-04": {
+      "date": "2026-06-04",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/terminal/events.js"
+      ],
+      "commits": [
+        {
+          "hash": "3fad9e6477bf0e845edea3502682162aeed9b928",
+          "author": "Brian Cullinan",
+          "date": "2026-06-04T22:44:19.000Z",
+          "message": "major bug rendering terminal",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/terminal/events.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-03": {
+      "date": "2026-06-03",
+      "heatScore": 100,
+      "linesChanged": 5328,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/engine/sys_net.js",
+        "components/map-editor/Q3BSPLoader.js",
+        "components/map-editor/bundle.js",
+        "components/proxy/checksum.js",
+        "components/proxy/huffman.js",
+        "components/proxy/master.js",
+        "components/proxy/socks.parser.js",
+        "components/proxy/socks.password.js",
+        "components/proxy/socks.server.js",
+        "components/proxy/web.js"
+      ],
+      "commits": [
+        {
+          "hash": "fb6b52fc0499689133dc6941b97f843b36c0dcf4",
+          "author": "Brian Cullinan",
+          "date": "2026-06-03T21:01:28.000Z",
+          "message": "adding proxy",
+          "linesAdded": 5157,
+          "linesDeleted": 171,
+          "filesChanged": [
+            "components/engine/sys_net.js",
+            "components/map-editor/Q3BSPLoader.js",
+            "components/map-editor/bundle.js",
+            "components/proxy/checksum.js",
+            "components/proxy/huffman.js",
+            "components/proxy/master.js",
+            "components/proxy/socks.parser.js",
+            "components/proxy/socks.password.js",
+            "components/proxy/socks.server.js",
+            "components/proxy/web.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-02": {
+      "date": "2026-06-02",
+      "heatScore": 21,
+      "linesChanged": 165,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/filelist/filelist.js",
+        "components/terminal/commands.js"
+      ],
+      "commits": [
+        {
+          "hash": "4bcc5559ebf42a7e21ffe5075e9e03eb7455336c",
+          "author": "Brian Cullinan",
+          "date": "2026-06-02T22:57:19.000Z",
+          "message": "git commands",
+          "linesAdded": 164,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "components/filelist/filelist.js",
+            "components/terminal/commands.js"
+          ]
+        }
+      ]
+    },
+    "2026-06-01": {
+      "date": "2026-06-01",
+      "heatScore": 23,
+      "linesChanged": 209,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/core/main.css",
+        "components/editor/editor.js",
+        "components/filelist/filelist.js",
+        "components/filelist/load-media.js",
+        "components/layout/configuration.js",
+        "components/map-editor/bundle.js",
+        "components/map-editor/camera/cube.psd",
+        "components/map-editor/camera/xNeg.png",
+        "components/map-editor/camera/xPos.png",
+        "components/map-editor/camera/yNeg.png",
+        "components/map-editor/camera/yPos.png",
+        "components/map-editor/camera/zNeg.png",
+        "components/map-editor/camera/zPos.png",
+        "components/map-editor/icons/camera/camera.png",
+        "components/map-editor/icons/camera/orthographic.png",
+        "components/map-editor/icons/camera/prespective.png",
+        "components/map-editor/icons/gltf.png",
+        "components/map-editor/icons/hw/hw.png",
+        "components/map-editor/icons/hw/kinect.png",
+        "components/map-editor/icons/hw/leap.png",
+        "components/map-editor/icons/hw/qr.png",
+        "components/map-editor/icons/hw/webcam.png",
+        "components/map-editor/icons/lights/ambient.png",
+        "components/map-editor/icons/lights/directional.png",
+        "components/map-editor/icons/lights/hemisphere.png",
+        "components/map-editor/icons/lights/point.png",
+        "components/map-editor/icons/lights/rectarea.png",
+        "components/map-editor/icons/lights/sky.png",
+        "components/map-editor/icons/lights/spot.png",
+        "components/map-editor/icons/math/divide.png",
+        "components/map-editor/icons/math/multiply.png",
+        "components/map-editor/icons/math/percent.png",
+        "components/map-editor/icons/math/plus.png",
+        "components/map-editor/icons/math/subtract.png",
+        "components/map-editor/icons/misc/2d.png",
+        "components/map-editor/icons/misc/3d.png",
+        "components/map-editor/icons/misc/about.png",
+        "components/map-editor/icons/misc/add.png",
+        "components/map-editor/icons/misc/animation.png",
+        "components/map-editor/icons/misc/ar.png",
+        "components/map-editor/icons/misc/arrow_down.png",
+        "components/map-editor/icons/misc/arrow_left.png",
+        "components/map-editor/icons/misc/arrow_right.png",
+        "components/map-editor/icons/misc/audio.png",
+        "components/map-editor/icons/misc/audio_positional.png",
+        "components/map-editor/icons/misc/bone.png",
+        "components/map-editor/icons/misc/canvas.png",
+        "components/map-editor/icons/misc/check.png",
+        "components/map-editor/icons/misc/close.png",
+        "components/map-editor/icons/misc/code.png",
+        "components/map-editor/icons/misc/connection.png",
+        "components/map-editor/icons/misc/console.png",
+        "components/map-editor/icons/misc/container.png",
+        "components/map-editor/icons/misc/controller.png",
+        "components/map-editor/icons/misc/copy.png",
+        "components/map-editor/icons/misc/crosshair.png",
+        "components/map-editor/icons/misc/cube.png",
+        "components/map-editor/icons/misc/cut.png",
+        "components/map-editor/icons/misc/delete.png",
+        "components/map-editor/icons/misc/exit.png",
+        "components/map-editor/icons/misc/export.png",
+        "components/map-editor/icons/misc/file.png",
+        "components/map-editor/icons/misc/flare.png",
+        "components/map-editor/icons/misc/focus.png",
+        "components/map-editor/icons/misc/folder.png",
+        "components/map-editor/icons/misc/font.png",
+        "components/map-editor/icons/misc/freemove.png",
+        "components/map-editor/icons/misc/fullscreen.png",
+        "components/map-editor/icons/misc/grid.png",
+        "components/map-editor/icons/misc/hierarchy.png",
+        "components/map-editor/icons/misc/image.png",
+        "components/map-editor/icons/misc/import.png",
+        "components/map-editor/icons/misc/interface.png",
+        "components/map-editor/icons/misc/intersect.png",
+        "components/map-editor/icons/misc/js.png",
+        "components/map-editor/icons/misc/layout.png",
+        "components/map-editor/icons/misc/load.png",
+        "components/map-editor/icons/misc/lod.png",
+        "components/map-editor/icons/misc/magnifier.png",
+        "components/map-editor/icons/misc/material.png",
+        "components/map-editor/icons/misc/menu.png",
+        "components/map-editor/icons/misc/mic.png",
+        "components/map-editor/icons/misc/mirror.png",
+        "components/map-editor/icons/misc/more.png",
+        "components/map-editor/icons/misc/new.png",
+        "components/map-editor/icons/misc/nodes.png",
+        "components/map-editor/icons/misc/orbit.png",
+        "components/map-editor/icons/misc/padlock.png",
+        "components/map-editor/icons/misc/particles.png",
+        "components/map-editor/icons/misc/paste.png",
+        "components/map-editor/icons/misc/pause.png",
+        "components/map-editor/icons/misc/physics.png",
+        "components/map-editor/icons/misc/play.png",
+        "components/map-editor/icons/misc/probe.png",
+        "components/map-editor/icons/misc/publish.png",
+        "components/map-editor/icons/misc/question.png",
+        "components/map-editor/icons/misc/redo.png",
+        "components/map-editor/icons/misc/rotate.png",
+        "components/map-editor/icons/misc/ruler.png",
+        "components/map-editor/icons/misc/save.png",
+        "components/map-editor/icons/misc/scene.png",
+        "components/map-editor/icons/misc/search.png",
+        "components/map-editor/icons/misc/settings.png",
+        "components/map-editor/icons/misc/skeleton.png",
+        "components/map-editor/icons/misc/speedometer.png",
+        "components/map-editor/icons/misc/spine.png",
+        "components/map-editor/icons/misc/sprite.png",
+        "components/map-editor/icons/misc/subdivide.png",
+        "components/map-editor/icons/misc/subtract.png",
+        "components/map-editor/icons/misc/texture.png",
+        "components/map-editor/icons/misc/tool.png",
+        "components/map-editor/icons/misc/undo.png",
+        "components/map-editor/icons/misc/union.png",
+        "components/map-editor/icons/misc/video.png",
+        "components/map-editor/icons/misc/vr.png",
+        "components/map-editor/icons/misc/waves.png",
+        "components/map-editor/icons/misc/web.png",
+        "components/map-editor/icons/models/capsule.png",
+        "components/map-editor/icons/models/circle.png",
+        "components/map-editor/icons/models/cone.png",
+        "components/map-editor/icons/models/cube.png",
+        "components/map-editor/icons/models/cubes.png",
+        "components/map-editor/icons/models/cylinder.png",
+        "components/map-editor/icons/models/dodecahedron.png",
+        "components/map-editor/icons/models/figures.png",
+        "components/map-editor/icons/models/hexagonalprism.png",
+        "components/map-editor/icons/models/icosahedron.png",
+        "components/map-editor/icons/models/models.png",
+        "components/map-editor/icons/models/octahedron.png",
+        "components/map-editor/icons/models/plane.png",
+        "components/map-editor/icons/models/point.png",
+        "components/map-editor/icons/models/points.png",
+        "components/map-editor/icons/models/pyramid.png",
+        "components/map-editor/icons/models/rectangularprism.png",
+        "components/map-editor/icons/models/ring.png",
+        "components/map-editor/icons/models/roundedcube.png",
+        "components/map-editor/icons/models/sphere.png",
+        "components/map-editor/icons/models/spherea.png",
+        "components/map-editor/icons/models/spline.png",
+        "components/map-editor/icons/models/terrain.png",
+        "components/map-editor/icons/models/torus.png",
+        "components/map-editor/icons/models/torusknot.png",
+        "components/map-editor/icons/models/triangle.png",
+        "components/map-editor/icons/models/twist.png",
+        "components/map-editor/icons/platform/android.png",
+        "components/map-editor/icons/platform/linux.png",
+        "components/map-editor/icons/platform/nunu.png",
+        "components/map-editor/icons/platform/osx.png",
+        "components/map-editor/icons/platform/web.png",
+        "components/map-editor/icons/platform/windows.png",
+        "components/map-editor/icons/script/javascript.png",
+        "components/map-editor/icons/script/python.png",
+        "components/map-editor/icons/script/script.png",
+        "components/map-editor/icons/script/workflow.png",
+        "components/map-editor/icons/text/text.png",
+        "components/map-editor/icons/text/textcanvas.png",
+        "components/map-editor/icons/text/textmesh.png",
+        "components/map-editor/icons/tools/move.png",
+        "components/map-editor/icons/tools/resize.png",
+        "components/map-editor/icons/tools/rotate.png",
+        "components/map-editor/icons/tools/select.png",
+        "components/map-editor/logo.png",
+        "components/map-editor/styles.css",
+        "components/paint/utilities.js"
+      ],
+      "commits": [
+        {
+          "hash": "4349d9289ee423a5f7d931b4ce3626123bc37aed",
+          "author": "Brian Cullinan",
+          "date": "2026-06-01T22:54:28.000Z",
+          "message": "getting nunu integrated",
+          "linesAdded": 137,
+          "linesDeleted": 72,
+          "filesChanged": [
+            "components/core/main.css",
+            "components/editor/editor.js",
+            "components/filelist/filelist.js",
+            "components/filelist/load-media.js",
+            "components/layout/configuration.js",
+            "components/map-editor/bundle.js",
+            "components/map-editor/camera/cube.psd",
+            "components/map-editor/camera/xNeg.png",
+            "components/map-editor/camera/xPos.png",
+            "components/map-editor/camera/yNeg.png",
+            "components/map-editor/camera/yPos.png",
+            "components/map-editor/camera/zNeg.png",
+            "components/map-editor/camera/zPos.png",
+            "components/map-editor/icons/camera/camera.png",
+            "components/map-editor/icons/camera/orthographic.png",
+            "components/map-editor/icons/camera/prespective.png",
+            "components/map-editor/icons/gltf.png",
+            "components/map-editor/icons/hw/hw.png",
+            "components/map-editor/icons/hw/kinect.png",
+            "components/map-editor/icons/hw/leap.png",
+            "components/map-editor/icons/hw/qr.png",
+            "components/map-editor/icons/hw/webcam.png",
+            "components/map-editor/icons/lights/ambient.png",
+            "components/map-editor/icons/lights/directional.png",
+            "components/map-editor/icons/lights/hemisphere.png",
+            "components/map-editor/icons/lights/point.png",
+            "components/map-editor/icons/lights/rectarea.png",
+            "components/map-editor/icons/lights/sky.png",
+            "components/map-editor/icons/lights/spot.png",
+            "components/map-editor/icons/math/divide.png",
+            "components/map-editor/icons/math/multiply.png",
+            "components/map-editor/icons/math/percent.png",
+            "components/map-editor/icons/math/plus.png",
+            "components/map-editor/icons/math/subtract.png",
+            "components/map-editor/icons/misc/2d.png",
+            "components/map-editor/icons/misc/3d.png",
+            "components/map-editor/icons/misc/about.png",
+            "components/map-editor/icons/misc/add.png",
+            "components/map-editor/icons/misc/animation.png",
+            "components/map-editor/icons/misc/ar.png",
+            "components/map-editor/icons/misc/arrow_down.png",
+            "components/map-editor/icons/misc/arrow_left.png",
+            "components/map-editor/icons/misc/arrow_right.png",
+            "components/map-editor/icons/misc/audio.png",
+            "components/map-editor/icons/misc/audio_positional.png",
+            "components/map-editor/icons/misc/bone.png",
+            "components/map-editor/icons/misc/canvas.png",
+            "components/map-editor/icons/misc/check.png",
+            "components/map-editor/icons/misc/close.png",
+            "components/map-editor/icons/misc/code.png",
+            "components/map-editor/icons/misc/connection.png",
+            "components/map-editor/icons/misc/console.png",
+            "components/map-editor/icons/misc/container.png",
+            "components/map-editor/icons/misc/controller.png",
+            "components/map-editor/icons/misc/copy.png",
+            "components/map-editor/icons/misc/crosshair.png",
+            "components/map-editor/icons/misc/cube.png",
+            "components/map-editor/icons/misc/cut.png",
+            "components/map-editor/icons/misc/delete.png",
+            "components/map-editor/icons/misc/exit.png",
+            "components/map-editor/icons/misc/export.png",
+            "components/map-editor/icons/misc/file.png",
+            "components/map-editor/icons/misc/flare.png",
+            "components/map-editor/icons/misc/focus.png",
+            "components/map-editor/icons/misc/folder.png",
+            "components/map-editor/icons/misc/font.png",
+            "components/map-editor/icons/misc/freemove.png",
+            "components/map-editor/icons/misc/fullscreen.png",
+            "components/map-editor/icons/misc/grid.png",
+            "components/map-editor/icons/misc/hierarchy.png",
+            "components/map-editor/icons/misc/image.png",
+            "components/map-editor/icons/misc/import.png",
+            "components/map-editor/icons/misc/interface.png",
+            "components/map-editor/icons/misc/intersect.png",
+            "components/map-editor/icons/misc/js.png",
+            "components/map-editor/icons/misc/layout.png",
+            "components/map-editor/icons/misc/load.png",
+            "components/map-editor/icons/misc/lod.png",
+            "components/map-editor/icons/misc/magnifier.png",
+            "components/map-editor/icons/misc/material.png",
+            "components/map-editor/icons/misc/menu.png",
+            "components/map-editor/icons/misc/mic.png",
+            "components/map-editor/icons/misc/mirror.png",
+            "components/map-editor/icons/misc/more.png",
+            "components/map-editor/icons/misc/new.png",
+            "components/map-editor/icons/misc/nodes.png",
+            "components/map-editor/icons/misc/orbit.png",
+            "components/map-editor/icons/misc/padlock.png",
+            "components/map-editor/icons/misc/particles.png",
+            "components/map-editor/icons/misc/paste.png",
+            "components/map-editor/icons/misc/pause.png",
+            "components/map-editor/icons/misc/physics.png",
+            "components/map-editor/icons/misc/play.png",
+            "components/map-editor/icons/misc/probe.png",
+            "components/map-editor/icons/misc/publish.png",
+            "components/map-editor/icons/misc/question.png",
+            "components/map-editor/icons/misc/redo.png",
+            "components/map-editor/icons/misc/rotate.png",
+            "components/map-editor/icons/misc/ruler.png",
+            "components/map-editor/icons/misc/save.png",
+            "components/map-editor/icons/misc/scene.png",
+            "components/map-editor/icons/misc/search.png",
+            "components/map-editor/icons/misc/settings.png",
+            "components/map-editor/icons/misc/skeleton.png",
+            "components/map-editor/icons/misc/speedometer.png",
+            "components/map-editor/icons/misc/spine.png",
+            "components/map-editor/icons/misc/sprite.png",
+            "components/map-editor/icons/misc/subdivide.png",
+            "components/map-editor/icons/misc/subtract.png",
+            "components/map-editor/icons/misc/texture.png",
+            "components/map-editor/icons/misc/tool.png",
+            "components/map-editor/icons/misc/undo.png",
+            "components/map-editor/icons/misc/union.png",
+            "components/map-editor/icons/misc/video.png",
+            "components/map-editor/icons/misc/vr.png",
+            "components/map-editor/icons/misc/waves.png",
+            "components/map-editor/icons/misc/web.png",
+            "components/map-editor/icons/models/capsule.png",
+            "components/map-editor/icons/models/circle.png",
+            "components/map-editor/icons/models/cone.png",
+            "components/map-editor/icons/models/cube.png",
+            "components/map-editor/icons/models/cubes.png",
+            "components/map-editor/icons/models/cylinder.png",
+            "components/map-editor/icons/models/dodecahedron.png",
+            "components/map-editor/icons/models/figures.png",
+            "components/map-editor/icons/models/hexagonalprism.png",
+            "components/map-editor/icons/models/icosahedron.png",
+            "components/map-editor/icons/models/models.png",
+            "components/map-editor/icons/models/octahedron.png",
+            "components/map-editor/icons/models/plane.png",
+            "components/map-editor/icons/models/point.png",
+            "components/map-editor/icons/models/points.png",
+            "components/map-editor/icons/models/pyramid.png",
+            "components/map-editor/icons/models/rectangularprism.png",
+            "components/map-editor/icons/models/ring.png",
+            "components/map-editor/icons/models/roundedcube.png",
+            "components/map-editor/icons/models/sphere.png",
+            "components/map-editor/icons/models/spherea.png",
+            "components/map-editor/icons/models/spline.png",
+            "components/map-editor/icons/models/terrain.png",
+            "components/map-editor/icons/models/torus.png",
+            "components/map-editor/icons/models/torusknot.png",
+            "components/map-editor/icons/models/triangle.png",
+            "components/map-editor/icons/models/twist.png",
+            "components/map-editor/icons/platform/android.png",
+            "components/map-editor/icons/platform/linux.png",
+            "components/map-editor/icons/platform/nunu.png",
+            "components/map-editor/icons/platform/osx.png",
+            "components/map-editor/icons/platform/web.png",
+            "components/map-editor/icons/platform/windows.png",
+            "components/map-editor/icons/script/javascript.png",
+            "components/map-editor/icons/script/python.png",
+            "components/map-editor/icons/script/script.png",
+            "components/map-editor/icons/script/workflow.png",
+            "components/map-editor/icons/text/text.png",
+            "components/map-editor/icons/text/textcanvas.png",
+            "components/map-editor/icons/text/textmesh.png",
+            "components/map-editor/icons/tools/move.png",
+            "components/map-editor/icons/tools/resize.png",
+            "components/map-editor/icons/tools/rotate.png",
+            "components/map-editor/icons/tools/select.png",
+            "components/map-editor/logo.png",
+            "components/map-editor/styles.css",
+            "components/paint/utilities.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-31": {
+      "date": "2026-05-31",
+      "heatScore": 15,
+      "linesChanged": 81,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "components/core/preambles.js",
+        "components/engine/sys_fsq3.js",
+        "components/engine/sys_in.js",
+        "components/engine/sys_net.js",
+        "components/engine/sys_snd.js",
+        "components/engine/sys_wasm.js",
+        "components/engine/sys_web.js",
+        "components/filelist/sys_fsgit.js",
+        "components/terminal/commands.js"
+      ],
+      "commits": [
+        {
+          "hash": "95d7fd0250f3c8d28e2a7f1b4a92fdd8ff3c522d",
+          "author": "Brian Cullinan",
+          "date": "2026-05-31T20:28:35.000Z",
+          "message": "fix for banner loading",
+          "linesAdded": 45,
+          "linesDeleted": 36,
+          "filesChanged": [
+            "README.md",
+            "components/core/preambles.js",
+            "components/engine/sys_fsq3.js",
+            "components/engine/sys_in.js",
+            "components/engine/sys_net.js",
+            "components/engine/sys_snd.js",
+            "components/engine/sys_wasm.js",
+            "components/engine/sys_web.js",
+            "components/filelist/sys_fsgit.js",
+            "components/terminal/commands.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-30": {
+      "date": "2026-05-30",
+      "heatScore": 15,
+      "linesChanged": 86,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/compiler/worker.js",
+        "components/core/events.js",
+        "components/core/main.css",
+        "components/core/theme.css",
+        "components/filelist/filelist.js",
+        "components/layout/settings.js",
+        "components/layout/toolbar.js",
+        "components/terminal/commands.js",
+        "components/terminal/events.js",
+        "components/terminal/terminal.js",
+        "index.html"
+      ],
+      "commits": [
+        {
+          "hash": "d1837b6f8b757a1bc8a32510c043e3d7a7563ead",
+          "author": "Brian Cullinan",
+          "date": "2026-05-30T17:58:13.000Z",
+          "message": "adding github support so i don't have to switch windows to make changes",
+          "linesAdded": 41,
+          "linesDeleted": 45,
+          "filesChanged": [
+            "components/compiler/worker.js",
+            "components/core/events.js",
+            "components/core/main.css",
+            "components/core/theme.css",
+            "components/filelist/filelist.js",
+            "components/layout/settings.js",
+            "components/layout/toolbar.js",
+            "components/terminal/commands.js",
+            "components/terminal/events.js",
+            "components/terminal/terminal.js",
+            "index.html"
+          ]
+        }
+      ]
+    },
+    "2026-05-29": {
+      "date": "2026-05-29",
+      "heatScore": 25,
+      "linesChanged": 237,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/compiler/make-qvm.js",
+        "components/compiler/make.js",
+        "components/compiler/wasm.syms",
+        "components/engine/sys_wasm.js",
+        "components/engine/sys_web.js"
+      ],
+      "commits": [
+        {
+          "hash": "3e35f03489c0f0dc4f37fca172f913909bbe82dc",
+          "author": "Brian Cullinan",
+          "date": "2026-05-29T23:25:32.000Z",
+          "message": "getting closer, holy shit this is complicated",
+          "linesAdded": 136,
+          "linesDeleted": 101,
+          "filesChanged": [
+            "components/compiler/make-qvm.js",
+            "components/compiler/make.js",
+            "components/compiler/wasm.syms",
+            "components/engine/sys_wasm.js",
+            "components/engine/sys_web.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-28": {
+      "date": "2026-05-28",
+      "heatScore": 16,
+      "linesChanged": 92,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/compiler/make.js",
+        "components/core/events.js",
+        "components/core/extensions.js",
+        "components/engine/sys_fs.js",
+        "components/engine/sys_fsq3.js",
+        "components/engine/sys_in.js",
+        "components/engine/sys_wasm.js",
+        "components/engine/sys_web.js",
+        "components/filelist/layout.js",
+        "components/terminal/commands.js"
+      ],
+      "commits": [
+        {
+          "hash": "3d01234b674a3436ec51686ad494c2b6b4bf222c",
+          "author": "Brian Cullinan",
+          "date": "2026-05-28T20:59:26.000Z",
+          "message": "trying to get compiled game code to run",
+          "linesAdded": 57,
+          "linesDeleted": 35,
+          "filesChanged": [
+            "components/compiler/make.js",
+            "components/core/events.js",
+            "components/core/extensions.js",
+            "components/engine/sys_fs.js",
+            "components/engine/sys_fsq3.js",
+            "components/engine/sys_in.js",
+            "components/engine/sys_wasm.js",
+            "components/engine/sys_web.js",
+            "components/filelist/layout.js",
+            "components/terminal/commands.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-27": {
+      "date": "2026-05-27",
+      "heatScore": 18,
+      "linesChanged": 127,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/compiler/make-qvm.js",
+        "components/compiler/shared.js",
+        "components/core/logging.js",
+        "components/engine/sys_fs.js",
+        "components/filelist/github.js",
+        "components/terminal/commands.js",
+        "components/terminal/events.js"
+      ],
+      "commits": [
+        {
+          "hash": "ba155cb8c54c095ac044c4099dccb3e9299088b4",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T22:19:20.000Z",
+          "message": "trying to compile q3 game code as a shared library using binji clang",
+          "linesAdded": 71,
+          "linesDeleted": 56,
+          "filesChanged": [
+            "components/compiler/make-qvm.js",
+            "components/compiler/shared.js",
+            "components/core/logging.js",
+            "components/engine/sys_fs.js",
+            "components/filelist/github.js",
+            "components/terminal/commands.js",
+            "components/terminal/events.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-26": {
+      "date": "2026-05-26",
+      "heatScore": 100,
+      "linesChanged": 2314,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/core/extensions.js",
+        "components/core/logging.js",
+        "components/core/main.css",
+        "components/editor/editor.js",
+        "components/editor/events.js",
+        "components/filelist/filelist.js",
+        "components/filelist/github.js",
+        "components/filelist/layout.js",
+        "components/filelist/load-media.js",
+        "components/filelist/vfs.js",
+        "components/layout/configuration.js",
+        "components/rosetta/binary.js",
+        "components/terminal/events.js",
+        "index.html",
+        "my_changes.patch"
+      ],
+      "commits": [
+        {
+          "hash": "e305b7ad9452b97ce36aad55d1d2cb65bb367905",
+          "author": "Brian Cullinan",
+          "date": "2026-05-26T22:29:07.000Z",
+          "message": "tranforming the github trees into a more modifiable layout",
+          "linesAdded": 1181,
+          "linesDeleted": 1133,
+          "filesChanged": [
+            "components/core/extensions.js",
+            "components/core/logging.js",
+            "components/core/main.css",
+            "components/editor/editor.js",
+            "components/editor/events.js",
+            "components/filelist/filelist.js",
+            "components/filelist/github.js",
+            "components/filelist/layout.js",
+            "components/filelist/load-media.js",
+            "components/filelist/vfs.js",
+            "components/layout/configuration.js",
+            "components/rosetta/binary.js",
+            "components/terminal/events.js",
+            "index.html",
+            "my_changes.patch"
+          ]
+        }
+      ]
+    },
+    "2026-05-25": {
+      "date": "2026-05-25",
+      "heatScore": 15,
+      "linesChanged": 82,
+      "commitCount": 1,
+      "filesEdited": [
+        "components/map-loader/q3shader.js",
+        "components/terminal/render.js"
+      ],
+      "commits": [
+        {
+          "hash": "b74afab358ae83a9f523856e3f6803268d234338",
+          "author": "Brian Cullinan",
+          "date": "2026-05-25T22:52:41.000Z",
+          "message": "loading fix?",
+          "linesAdded": 44,
+          "linesDeleted": 38,
+          "filesChanged": [
+            "components/map-loader/q3shader.js",
+            "components/terminal/render.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-24": {
+      "date": "2026-05-24",
+      "heatScore": 34,
+      "linesChanged": 363,
+      "commitCount": 1,
+      "filesEdited": [
+        "Screenshot 2026-05-24 145604.png",
+        "ace/mode-antlr_worker.js",
+        "ace/worker-antlr.js",
+        "editor.js",
+        "main.css",
+        "rosetta.js",
+        "theme.css",
+        "worker-language.js"
+      ],
+      "commits": [
+        {
+          "hash": "87ffea410146a1d9f7c8c439d2fa1b2e4a3f5a97",
+          "author": "Brian Cullinan",
+          "date": "2026-05-24T21:57:22.000Z",
+          "message": "antlr based code folding",
+          "linesAdded": 350,
+          "linesDeleted": 13,
+          "filesChanged": [
+            "Screenshot 2026-05-24 145604.png",
+            "ace/mode-antlr_worker.js",
+            "ace/worker-antlr.js",
+            "editor.js",
+            "main.css",
+            "rosetta.js",
+            "theme.css",
+            "worker-language.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-23": {
+      "date": "2026-05-23",
+      "heatScore": 100,
+      "linesChanged": 13122,
+      "commitCount": 1,
+      "filesEdited": [
+        "ace/ext-compiler_diagnostics.js",
+        "ace/mode-antlr_worker.js",
+        "ace/worker-antlr.js",
+        "ace/worker-javascript.js",
+        "ace/worker-language.js",
+        "editor.js",
+        "events.js",
+        "my_changes.patch",
+        "parsers.js",
+        "preambles.js",
+        "terminal.js",
+        "worker-language.js",
+        "worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "f1d4283b5d285b6198acee3d11ae8158b560c4ed",
+          "author": "Brian Cullinan",
+          "date": "2026-05-23T18:44:18.000Z",
+          "message": "getting antlr highlighting reintrgrated",
+          "linesAdded": 1033,
+          "linesDeleted": 12089,
+          "filesChanged": [
+            "ace/ext-compiler_diagnostics.js",
+            "ace/mode-antlr_worker.js",
+            "ace/worker-antlr.js",
+            "ace/worker-javascript.js",
+            "ace/worker-language.js",
+            "editor.js",
+            "events.js",
+            "my_changes.patch",
+            "parsers.js",
+            "preambles.js",
+            "terminal.js",
+            "worker-language.js",
+            "worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-22": {
+      "date": "2026-05-22",
+      "heatScore": 46,
+      "linesChanged": 545,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "ace/mode-q3_shader.js",
+        "filelist.js",
+        "js/main.js",
+        "main.css"
+      ],
+      "commits": [
+        {
+          "hash": "437f3812e722dcd1debf5df37ad62ec31a8bc109",
+          "author": "Brian Cullinan",
+          "date": "2026-05-22T20:22:10.000Z",
+          "message": "still working on layout",
+          "linesAdded": 431,
+          "linesDeleted": 114,
+          "filesChanged": [
+            "README.md",
+            "ace/mode-q3_shader.js",
+            "filelist.js",
+            "js/main.js",
+            "main.css"
+          ]
+        }
+      ]
+    },
+    "2026-05-21": {
+      "date": "2026-05-21",
+      "heatScore": 100,
+      "linesChanged": 1984,
+      "commitCount": 1,
+      "filesEdited": [
+        "commands.js",
+        "compiler.js",
+        "make.js",
+        "shared.js",
+        "sys_fs.js",
+        "sys_fsq3.js"
+      ],
+      "commits": [
+        {
+          "hash": "082119d5299e69d897c592b074303456ad9d24e0",
+          "author": "Brian Cullinan",
+          "date": "2026-05-21T22:18:25.000Z",
+          "message": "still bug in qvm fs",
+          "linesAdded": 1261,
+          "linesDeleted": 723,
+          "filesChanged": [
+            "commands.js",
+            "compiler.js",
+            "make.js",
+            "shared.js",
+            "sys_fs.js",
+            "sys_fsq3.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-20": {
+      "date": "2026-05-20",
+      "heatScore": 14,
+      "linesChanged": 72,
+      "commitCount": 1,
+      "filesEdited": [
+        "filelist.js",
+        "js/main.js",
+        "main.css",
+        "terminal.js",
+        "toolbar.js"
+      ],
+      "commits": [
+        {
+          "hash": "2031e75e690095752e94e8709268f58228977129",
+          "author": "Brian Cullinan",
+          "date": "2026-05-20T14:56:03.000Z",
+          "message": "split ultra wide mode editor and engine side-by-side",
+          "linesAdded": 59,
+          "linesDeleted": 13,
+          "filesChanged": [
+            "filelist.js",
+            "js/main.js",
+            "main.css",
+            "terminal.js",
+            "toolbar.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-19": {
+      "date": "2026-05-19",
+      "heatScore": 33,
+      "linesChanged": 351,
+      "commitCount": 1,
+      "filesEdited": [
+        "main.css",
+        "terminal.js",
+        "theme.css",
+        "xterm.js"
+      ],
+      "commits": [
+        {
+          "hash": "3c2c687da5097c41fbe51d39980ee7d9c06894c4",
+          "author": "Brian Cullinan",
+          "date": "2026-05-19T23:20:54.000Z",
+          "message": "finally fixed horizonal scroll in xterm.js",
+          "linesAdded": 339,
+          "linesDeleted": 12,
+          "filesChanged": [
+            "main.css",
+            "terminal.js",
+            "theme.css",
+            "xterm.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-18": {
+      "date": "2026-05-18",
+      "heatScore": 58,
+      "linesChanged": 729,
+      "commitCount": 1,
+      "filesEdited": [
+        "binary.js",
+        "filelist.js",
+        "index.html",
+        "main.css",
+        "paint.js",
+        "terminal.js"
+      ],
+      "commits": [
+        {
+          "hash": "ff7e80745f5c6fc229841a3fc8aaf4955a508195",
+          "author": "Brian Cullinan",
+          "date": "2026-05-18T20:58:02.000Z",
+          "message": "working image editor next to ace9",
+          "linesAdded": 493,
+          "linesDeleted": 236,
+          "filesChanged": [
+            "binary.js",
+            "filelist.js",
+            "index.html",
+            "main.css",
+            "paint.js",
+            "terminal.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-17": {
+      "date": "2026-05-17",
+      "heatScore": 83,
+      "linesChanged": 1107,
+      "commitCount": 1,
+      "filesEdited": [
+        "ace/theme-abyssaltrench.js",
+        "ace/theme-arcticthaw.js",
+        "ace/theme-ashenwastes.js",
+        "ace/theme-berryblast.js",
+        "ace/theme-coralreef.js",
+        "ace/theme-darkslate.js",
+        "ace/theme-daybreak.js",
+        "ace/theme-deepseakelp.js",
+        "ace/theme-desertsunset.js",
+        "ace/theme-dusk.js",
+        "ace/theme-emeraldforest.js",
+        "ace/theme-goldengate.js",
+        "ace/theme-invertedneon.js",
+        "ace/theme-ivory.js",
+        "ace/theme-leadfortress.js",
+        "ace/theme-midnightvoid.js",
+        "ace/theme-monochromematrix.js",
+        "ace/theme-nightvision.js",
+        "ace/theme-obsidianledger.js",
+        "ace/theme-oceanripple.js",
+        "ace/theme-oxidizediron.js",
+        "ace/theme-parchment.js",
+        "ace/theme-rainbowpeak.js",
+        "ace/theme-silverchrome.js",
+        "ace/theme-solarflare.js",
+        "ace/theme-sourlime.js",
+        "editor.js",
+        "filelist.js",
+        "index.html",
+        "main.css",
+        "theme.css"
+      ],
+      "commits": [
+        {
+          "hash": "4c5911669ba2a3e8662c5ee6fa5ba60b964f983a",
+          "author": "Brian Cullinan",
+          "date": "2026-05-17T19:55:22.000Z",
+          "message": "more themes",
+          "linesAdded": 964,
+          "linesDeleted": 143,
+          "filesChanged": [
+            "ace/theme-abyssaltrench.js",
+            "ace/theme-arcticthaw.js",
+            "ace/theme-ashenwastes.js",
+            "ace/theme-berryblast.js",
+            "ace/theme-coralreef.js",
+            "ace/theme-darkslate.js",
+            "ace/theme-daybreak.js",
+            "ace/theme-deepseakelp.js",
+            "ace/theme-desertsunset.js",
+            "ace/theme-dusk.js",
+            "ace/theme-emeraldforest.js",
+            "ace/theme-goldengate.js",
+            "ace/theme-invertedneon.js",
+            "ace/theme-ivory.js",
+            "ace/theme-leadfortress.js",
+            "ace/theme-midnightvoid.js",
+            "ace/theme-monochromematrix.js",
+            "ace/theme-nightvision.js",
+            "ace/theme-obsidianledger.js",
+            "ace/theme-oceanripple.js",
+            "ace/theme-oxidizediron.js",
+            "ace/theme-parchment.js",
+            "ace/theme-rainbowpeak.js",
+            "ace/theme-silverchrome.js",
+            "ace/theme-solarflare.js",
+            "ace/theme-sourlime.js",
+            "editor.js",
+            "filelist.js",
+            "index.html",
+            "main.css",
+            "theme.css"
+          ]
+        }
+      ]
+    },
+    "2026-05-16": {
+      "date": "2026-05-16",
+      "heatScore": 18,
+      "linesChanged": 121,
+      "commitCount": 1,
+      "filesEdited": [
+        "github.js",
+        "make-tools.js",
+        "make.js",
+        "shared.js",
+        "terminal.js",
+        "worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "d285bbc63b7dd47ef7281ac19b614baad40066b9",
+          "author": "Brian Cullinan",
+          "date": "2026-05-16T23:27:01.000Z",
+          "message": "hard to track process bugs because they happen intermittenly in between successful builds",
+          "linesAdded": 75,
+          "linesDeleted": 46,
+          "filesChanged": [
+            "github.js",
+            "make-tools.js",
+            "make.js",
+            "shared.js",
+            "terminal.js",
+            "worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-15": {
+      "date": "2026-05-15",
+      "heatScore": 22,
+      "linesChanged": 194,
+      "commitCount": 1,
+      "filesEdited": [
+        "commands.js",
+        "filelist.js",
+        "github.js",
+        "make-tools.js",
+        "shared.js",
+        "sys_fs.js",
+        "wasm.syms"
+      ],
+      "commits": [
+        {
+          "hash": "313f7debc9271556263f17e3e3a21b523ff2ef7e",
+          "author": "Brian Cullinan",
+          "date": "2026-05-15T23:24:57.000Z",
+          "message": "trying to get q3lcc to build properly",
+          "linesAdded": 99,
+          "linesDeleted": 95,
+          "filesChanged": [
+            "commands.js",
+            "filelist.js",
+            "github.js",
+            "make-tools.js",
+            "shared.js",
+            "sys_fs.js",
+            "wasm.syms"
+          ]
+        }
+      ]
+    },
+    "2026-05-14": {
+      "date": "2026-05-14",
+      "heatScore": 49,
+      "linesChanged": 591,
+      "commitCount": 1,
+      "filesEdited": [
+        "filelist.js",
+        "index.html",
+        "main.css",
+        "make-qvm.js",
+        "shared.js",
+        "terminal.js",
+        "theme.css",
+        "toolbar.js",
+        "tree.js"
+      ],
+      "commits": [
+        {
+          "hash": "86e7032033eae9e18bf55e06b00b34422e7e97fe",
+          "author": "Brian Cullinan",
+          "date": "2026-05-14T20:09:52.000Z",
+          "message": "clicking on files names in console and search features",
+          "linesAdded": 472,
+          "linesDeleted": 119,
+          "filesChanged": [
+            "filelist.js",
+            "index.html",
+            "main.css",
+            "make-qvm.js",
+            "shared.js",
+            "terminal.js",
+            "theme.css",
+            "toolbar.js",
+            "tree.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-13": {
+      "date": "2026-05-13",
+      "heatScore": 24,
+      "linesChanged": 214,
+      "commitCount": 1,
+      "filesEdited": [
+        "commands.js",
+        "make-qvm.js",
+        "shared.js",
+        "sys_fs.js",
+        "worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "d3637bbd5a95bd0ff38b495355c380be41bc2914",
+          "author": "Brian Cullinan",
+          "date": "2026-05-13T23:57:37.000Z",
+          "message": "compiling game code with q3lcc",
+          "linesAdded": 122,
+          "linesDeleted": 92,
+          "filesChanged": [
+            "commands.js",
+            "make-qvm.js",
+            "shared.js",
+            "sys_fs.js",
+            "worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-12": {
+      "date": "2026-05-12",
+      "heatScore": 16,
+      "linesChanged": 103,
+      "commitCount": 1,
+      "filesEdited": [
+        "compiler.js",
+        "make-tools.js",
+        "make.js",
+        "shared.js",
+        "terminal.js",
+        "worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "0ce84664ec66160bd6b9bac200efdaa969103b35",
+          "author": "Brian Cullinan",
+          "date": "2026-05-12T23:52:46.000Z",
+          "message": "more command fixes",
+          "linesAdded": 58,
+          "linesDeleted": 45,
+          "filesChanged": [
+            "compiler.js",
+            "make-tools.js",
+            "make.js",
+            "shared.js",
+            "terminal.js",
+            "worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-11": {
+      "date": "2026-05-11",
+      "heatScore": 48,
+      "linesChanged": 580,
+      "commitCount": 1,
+      "filesEdited": [
+        "make-tools.js",
+        "sys_fs.js"
+      ],
+      "commits": [
+        {
+          "hash": "a4041b3be721e79ac48403a91b565102c914ffaa",
+          "author": "Brian Cullinan",
+          "date": "2026-05-11T23:23:15.000Z",
+          "message": "compiling without memfs",
+          "linesAdded": 309,
+          "linesDeleted": 271,
+          "filesChanged": [
+            "make-tools.js",
+            "sys_fs.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-10": {
+      "date": "2026-05-10",
+      "heatScore": 16,
+      "linesChanged": 102,
+      "commitCount": 1,
+      "filesEdited": [
+        "make-tools.js",
+        "shared.js",
+        "terminal.js"
+      ],
+      "commits": [
+        {
+          "hash": "c5c67d015f9d642e7ee8dcc3d4e4f6c06fe2b75f",
+          "author": "Brian Cullinan",
+          "date": "2026-05-10T22:45:17.000Z",
+          "message": "nearly compiling q3lcc",
+          "linesAdded": 87,
+          "linesDeleted": 15,
+          "filesChanged": [
+            "make-tools.js",
+            "shared.js",
+            "terminal.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-09": {
+      "date": "2026-05-09",
+      "heatScore": 13,
+      "linesChanged": 46,
+      "commitCount": 1,
+      "filesEdited": [
+        "filelist.js",
+        "make.js",
+        "sys_wasm.js"
+      ],
+      "commits": [
+        {
+          "hash": "df19723c80c155f6e5ce50c6f7fcddd9a58f0ffd",
+          "author": "Brian Cullinan",
+          "date": "2026-05-09T23:30:01.000Z",
+          "message": "fix for double startup",
+          "linesAdded": 39,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "filelist.js",
+            "make.js",
+            "sys_wasm.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-08": {
+      "date": "2026-05-08",
+      "heatScore": 29,
+      "linesChanged": 293,
+      "commitCount": 1,
+      "filesEdited": [
+        "compiler.js",
+        "local.js",
+        "make.js",
+        "shared.js",
+        "worker.js"
+      ],
+      "commits": [
+        {
+          "hash": "bf1ebf02f690c1d1c3cf871c0303b7dfc5a44b3e",
+          "author": "Brian Cullinan",
+          "date": "2026-05-08T23:04:52.000Z",
+          "message": "almost compiling first obj, need to add -D for web assembly",
+          "linesAdded": 225,
+          "linesDeleted": 68,
+          "filesChanged": [
+            "compiler.js",
+            "local.js",
+            "make.js",
+            "shared.js",
+            "worker.js"
+          ]
+        }
+      ]
+    },
+    "2026-05-07": {
+      "date": "2026-05-07",
+      "heatScore": 51,
+      "linesChanged": 616,
+      "commitCount": 1,
+      "filesEdited": [
+        "index.html",
+        "index.js",
+        "main.css",
+        "theme.css"
+      ],
+      "commits": [
+        {
+          "hash": "107e508e2a28243be189b0672eaf0fdd97d32a9c",
+          "author": "Brian Cullinan",
+          "date": "2026-05-07T22:49:07.000Z",
+          "message": "themes",
+          "linesAdded": 603,
+          "linesDeleted": 13,
+          "filesChanged": [
+            "index.html",
+            "index.js",
+            "main.css",
+            "theme.css"
+          ]
+        }
+      ]
+    }
+  }
+}

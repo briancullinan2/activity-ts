@@ -1,0 +1,202 @@
+{
+  "projectName": "emscripten",
+  "localPath": "C:\\Users\\megam\\emscripten",
+  "remoteUrl": "git@github.com:emscripten-core/emscripten.git",
+  "lastUpdated": "2026-09-24T03:03:57.470Z",
+  "screenshots": [
+    {
+      "filename": "screenshot.png",
+      "relativePath": "test\\browser\\screenshot.png",
+      "date": "2026-07-05T16:51:51.075Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.webp",
+      "relativePath": "test\\browser\\screenshot.webp",
+      "date": "2026-07-05T16:51:51.075Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.jpg",
+      "relativePath": "test\\browser\\screenshot.jpg",
+      "date": "2026-07-05T16:51:51.073Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-gray.png",
+      "relativePath": "test\\browser\\screenshot-gray.png",
+      "date": "2026-07-05T16:51:51.070Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-gray-purple.png",
+      "relativePath": "test\\browser\\screenshot-gray-purple.png",
+      "date": "2026-07-05T16:51:51.069Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-fog-simple.png",
+      "relativePath": "test\\browser\\screenshot-fog-simple.png",
+      "date": "2026-07-05T16:51:51.068Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-fog-negative.png",
+      "relativePath": "test\\browser\\screenshot-fog-negative.png",
+      "date": "2026-07-05T16:51:51.067Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-fog-linear.png",
+      "relativePath": "test\\browser\\screenshot-fog-linear.png",
+      "date": "2026-07-05T16:51:51.066Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-fog-exp2.png",
+      "relativePath": "test\\browser\\screenshot-fog-exp2.png",
+      "date": "2026-07-05T16:51:51.064Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-fog-density.png",
+      "relativePath": "test\\browser\\screenshot-fog-density.png",
+      "date": "2026-07-05T16:51:51.062Z",
+      "source": "mtime"
+    }
+  ],
+  "dailyHeat": {
+    "2021-05-25": {
+      "date": "2021-05-25",
+      "heatScore": 12,
+      "linesChanged": 40,
+      "commitCount": 1,
+      "filesEdited": [
+        "AUTHORS",
+        "site/source/docs/api_reference/bind.h.rst",
+        "src/embind/embind.js",
+        "tests/embind/embind.test.js",
+        "tests/embind/embind_test.cpp"
+      ],
+      "commits": [
+        {
+          "hash": "9b2514760dbcbec049ad6c332a038e5c735be7fa",
+          "author": "Molanda",
+          "date": "2021-05-25T10:55:38.000Z",
+          "message": "Added support for functions bound with well-known symbols (#14119)",
+          "linesAdded": 39,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "AUTHORS",
+            "site/source/docs/api_reference/bind.h.rst",
+            "src/embind/embind.js",
+            "tests/embind/embind.test.js",
+            "tests/embind/embind_test.cpp"
+          ]
+        }
+      ]
+    },
+    "2016-01-20": {
+      "date": "2016-01-20",
+      "heatScore": 10,
+      "linesChanged": 6,
+      "commitCount": 1,
+      "filesEdited": [
+        "tests/test_other.py"
+      ],
+      "commits": [
+        {
+          "hash": "728db7e6e45c21a90ab7e3a32db8e283343ec9ae",
+          "author": "Brian Armstrong",
+          "date": "2016-01-20T22:38:45.000Z",
+          "message": "test if NM is present when emconfigure invoked",
+          "linesAdded": 6,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "tests/test_other.py"
+          ]
+        }
+      ]
+    },
+    "2016-01-14": {
+      "date": "2016-01-14",
+      "heatScore": 13,
+      "linesChanged": 45,
+      "commitCount": 1,
+      "filesEdited": [
+        "system/lib/compiler-rt/CREDITS.TXT",
+        "system/lib/compiler-rt/LICENSE.TXT"
+      ],
+      "commits": [
+        {
+          "hash": "61507edb048586e9f3c8f0d3fdcec6f1a4a2d98a",
+          "author": "Brian Armstrong",
+          "date": "2016-01-14T03:12:16.000Z",
+          "message": "update compiler-rt LICENSE info",
+          "linesAdded": 38,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "system/lib/compiler-rt/CREDITS.TXT",
+            "system/lib/compiler-rt/LICENSE.TXT"
+          ]
+        }
+      ]
+    },
+    "2016-01-13": {
+      "date": "2016-01-13",
+      "heatScore": 10,
+      "linesChanged": 10,
+      "commitCount": 1,
+      "filesEdited": [
+        "tests/test_core.py"
+      ],
+      "commits": [
+        {
+          "hash": "011dc2f2c43748d05c0974fd68480765545b77ac",
+          "author": "Brian Armstrong",
+          "date": "2016-01-13T00:51:20.000Z",
+          "message": "test complex multiplication, division",
+          "linesAdded": 9,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "tests/test_core.py"
+          ]
+        }
+      ]
+    },
+    "2015-12-19": {
+      "date": "2015-12-19",
+      "heatScore": 30,
+      "linesChanged": 306,
+      "commitCount": 1,
+      "filesEdited": [
+        "system/lib/compiler-rt.symbols",
+        "system/lib/compiler-rt/divdc3.c",
+        "system/lib/compiler-rt/divsc3.c",
+        "system/lib/compiler-rt/int_types.h",
+        "system/lib/compiler-rt/muldc3.c",
+        "system/lib/compiler-rt/mulsc3.c",
+        "tools/system_libs.py"
+      ],
+      "commits": [
+        {
+          "hash": "5238c52f4bd25653b35a8df5a67efb833ff23a7b",
+          "author": "Brian Armstrong",
+          "date": "2015-12-19T02:38:47.000Z",
+          "message": "support complex mul and div ops with compiler-rt lib",
+          "linesAdded": 303,
+          "linesDeleted": 3,
+          "filesChanged": [
+            "system/lib/compiler-rt.symbols",
+            "system/lib/compiler-rt/divdc3.c",
+            "system/lib/compiler-rt/divsc3.c",
+            "system/lib/compiler-rt/int_types.h",
+            "system/lib/compiler-rt/muldc3.c",
+            "system/lib/compiler-rt/mulsc3.c",
+            "tools/system_libs.py"
+          ]
+        }
+      ]
+    }
+  }
+}

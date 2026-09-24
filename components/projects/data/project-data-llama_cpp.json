@@ -1,0 +1,145 @@
+{
+  "projectName": "llama.cpp",
+  "localPath": "C:\\Users\\megam\\llama.cpp",
+  "remoteUrl": "https://github.com/ggerganov/llama.cpp",
+  "lastUpdated": "2026-09-24T03:04:01.887Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2024-08-04": {
+      "date": "2024-08-04",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/batched-bench/batched-bench.cpp"
+      ],
+      "commits": [
+        {
+          "hash": "ecf6b7f23e664afd7ff856ec39034240ce438daa",
+          "author": "Brian Cunnie",
+          "date": "2024-08-04T10:55:03.000Z",
+          "message": "batched-bench : handle empty `-npl` (#8839)",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "examples/batched-bench/batched-bench.cpp"
+          ]
+        }
+      ]
+    },
+    "2024-02-19": {
+      "date": "2024-02-19",
+      "heatScore": 11,
+      "linesChanged": 19,
+      "commitCount": 1,
+      "filesEdited": [
+        "ggml.c"
+      ],
+      "commits": [
+        {
+          "hash": "f0d1fafc029a056cd765bdae58dcaa12312e9879",
+          "author": "bmwl",
+          "date": "2024-02-19T07:38:32.000Z",
+          "message": "ggml : android and old glibc NUMA incompatibility bugfixes (#5557)",
+          "linesAdded": 14,
+          "linesDeleted": 5,
+          "filesChanged": [
+            "ggml.c"
+          ]
+        }
+      ]
+    },
+    "2024-02-16": {
+      "date": "2024-02-16",
+      "heatScore": 26,
+      "linesChanged": 240,
+      "commitCount": 1,
+      "filesEdited": [
+        "common/common.cpp",
+        "common/common.h",
+        "examples/batched-bench/batched-bench.cpp",
+        "examples/batched.swift/Sources/main.swift",
+        "examples/batched/batched.cpp",
+        "examples/beam-search/beam-search.cpp",
+        "examples/embedding/embedding.cpp",
+        "examples/imatrix/imatrix.cpp",
+        "examples/infill/infill.cpp",
+        "examples/llama-bench/llama-bench.cpp",
+        "examples/llama.android/app/src/main/cpp/llama-android.cpp",
+        "examples/llama.swiftui/llama.cpp.swift/LibLlama.swift",
+        "examples/llava/llava-cli.cpp",
+        "examples/lookahead/lookahead.cpp",
+        "examples/lookup/lookup.cpp",
+        "examples/main/README.md",
+        "examples/main/main.cpp",
+        "examples/parallel/parallel.cpp",
+        "examples/passkey/passkey.cpp",
+        "examples/perplexity/perplexity.cpp",
+        "examples/quantize/quantize.cpp",
+        "examples/server/README.md",
+        "examples/server/server.cpp",
+        "examples/simple/simple.cpp",
+        "examples/speculative/speculative.cpp",
+        "examples/tokenize/tokenize.cpp",
+        "ggml.c",
+        "ggml.h",
+        "llama.cpp",
+        "llama.h",
+        "tests/test-autorelease.cpp",
+        "tests/test-model-load-cancel.cpp",
+        "tests/test-tokenizer-0-falcon.cpp",
+        "tests/test-tokenizer-0-llama.cpp",
+        "tests/test-tokenizer-1-bpe.cpp",
+        "tests/test-tokenizer-1-llama.cpp"
+      ],
+      "commits": [
+        {
+          "hash": "f486f6e1e5e9d01603d9325ab3e05f1edb362a95",
+          "author": "bmwl",
+          "date": "2024-02-16T09:31:07.000Z",
+          "message": "ggml : add numa options (#5377)",
+          "linesAdded": 178,
+          "linesDeleted": 62,
+          "filesChanged": [
+            "common/common.cpp",
+            "common/common.h",
+            "examples/batched-bench/batched-bench.cpp",
+            "examples/batched.swift/Sources/main.swift",
+            "examples/batched/batched.cpp",
+            "examples/beam-search/beam-search.cpp",
+            "examples/embedding/embedding.cpp",
+            "examples/imatrix/imatrix.cpp",
+            "examples/infill/infill.cpp",
+            "examples/llama-bench/llama-bench.cpp",
+            "examples/llama.android/app/src/main/cpp/llama-android.cpp",
+            "examples/llama.swiftui/llama.cpp.swift/LibLlama.swift",
+            "examples/llava/llava-cli.cpp",
+            "examples/lookahead/lookahead.cpp",
+            "examples/lookup/lookup.cpp",
+            "examples/main/README.md",
+            "examples/main/main.cpp",
+            "examples/parallel/parallel.cpp",
+            "examples/passkey/passkey.cpp",
+            "examples/perplexity/perplexity.cpp",
+            "examples/quantize/quantize.cpp",
+            "examples/server/README.md",
+            "examples/server/server.cpp",
+            "examples/simple/simple.cpp",
+            "examples/speculative/speculative.cpp",
+            "examples/tokenize/tokenize.cpp",
+            "ggml.c",
+            "ggml.h",
+            "llama.cpp",
+            "llama.h",
+            "tests/test-autorelease.cpp",
+            "tests/test-model-load-cancel.cpp",
+            "tests/test-tokenizer-0-falcon.cpp",
+            "tests/test-tokenizer-0-llama.cpp",
+            "tests/test-tokenizer-1-bpe.cpp",
+            "tests/test-tokenizer-1-llama.cpp"
+          ]
+        }
+      ]
+    }
+  }
+}

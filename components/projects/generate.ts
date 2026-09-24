@@ -1,7 +1,16 @@
+/// <reference types="node" />
+const { D3Node } = require('d3-node');
 import * as fs from 'fs';
 import * as path from 'path';
 import { execSync } from 'child_process';
 import * as os from 'os';
+
+export const AUTHOR_MATCHES = [
+	'brian',
+	'brian cullinan',
+	'megamindbrian@gmail.com',
+	'bjcullinan@gmail.com'
+];
 
 export interface CommitActivity
 {
@@ -49,6 +58,49 @@ export interface ProjectsDataRegistry
 	projects: Record<string, ProjectData>;
 }
 
+
+export interface CompactHeatPoint
+{
+	date: string;       // YYYY-MM-DD
+	heatScore: number;  // 0-100
+	commitCount: number;
+}
+
+export interface ProjectSummary
+{
+	projectName: string;
+	remoteUrl?: string;
+	localPath?: string;
+	lastUpdated: string;
+	activeYears: number[];
+	activeMonths: string[]; // YYYY-MM
+	totalCommits: number;
+	totalLinesChanged: number;
+	screenshotCount: number;
+}
+
+export interface CompactMasterManifest
+{
+	generatedAt: string;
+	username: string;
+	projectCount: number;
+	availableMonths: string[];
+	availableYears: number[];
+	projects: ProjectSummary[];
+	flatHeatIndex: Record<string, CompactHeatPoint[]>; // project -> lightweight heat points
+}
+
+
+export interface MonthlyProjectRegistry
+{
+	yearMonth: string;
+	generatedAt: string;
+	username: string;
+	projects: Record<string, ProjectData>;
+}
+
+
+
 const MASTER_OUTPUT_FILE = path.join(__dirname, 'projects-data.json');
 const CACHE_DIR = __dirname;
 const GITHUB_USERNAME = process.env.GITHUB_USERNAME || 'briancullinan2';
@@ -63,7 +115,7 @@ const SEARCH_ROOTS = [
 function getProjectCacheFilePath(projectName: string): string
 {
 	const safeName = projectName.replace(/[^a-zA-Z0-9_\-]/g, '_');
-	return path.join(CACHE_DIR, `project-data-${safeName}.json`);
+	return path.join(CACHE_DIR, 'data', `project-data-${safeName}.json`);
 }
 
 /**
@@ -192,7 +244,8 @@ function processLocalGitHistory(repoPath: string, existingData: ProjectData | nu
 {
 	const dailyHeatMap: Record<string, DailyHeatData | undefined> = existingData?.dailyHeat ? { ...existingData.dailyHeat } : {};
 
-	const logCmd = `git log --all --pretty=format:"%H|%an|%ad|%s" --date=iso`;
+	const authorArgs = AUTHOR_MATCHES.map(a => `--author="${a}"`).join(' ');
+	const logCmd = `git log --all ${authorArgs} --pretty=format:"%H|%an|%ad|%s" --date=iso`;
 	let rawLog = '';
 	try
 	{
@@ -454,16 +507,329 @@ export async function generate()
 	}
 
 	registry.generatedAt = new Date().toISOString();
+	// 4. Group all project data by month and write `project-data-YYYY-MM.json`
+	console.log('\n📅 Grouping activity by YYYY-MM into monthly history files...');
 
-	// 4. Save combined master file
-	fs.writeFileSync(MASTER_OUTPUT_FILE, JSON.stringify(registry, null, 2), 'utf-8');
+	const now = new Date();
+	const currentMonthKey = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
+
+	const prevMonthDate = new Date(now.getFullYear(), now.getMonth() - 1, 1);
+	const prevMonthKey = `${prevMonthDate.getFullYear()}-${String(prevMonthDate.getMonth() + 1).padStart(2, '0')}`;
+
+	const monthlyDataMap: Record<string, Record<string, ProjectData>> = {};
+
+	// Bucket daily heat entries and commits by YYYY-MM across all repos
+	for(const [projName, projData] of Object.entries(registry.projects))
+	{
+		for(const [dayKey, dailyEntry] of Object.entries(projData.dailyHeat))
+		{
+			if(!dailyEntry) continue;
+
+			const monthKey = dayKey.substring(0, 7); // Extracts "YYYY-MM"
+
+			if(!monthlyDataMap[monthKey])
+			{
+				monthlyDataMap[monthKey] = {};
+			}
+
+			if(!monthlyDataMap[monthKey][projName])
+			{
+				monthlyDataMap[monthKey][projName] = {
+					projectName: projName,
+					localPath: projData.localPath,
+					remoteUrl: projData.remoteUrl,
+					lastUpdated: projData.lastUpdated,
+					screenshots: projData.screenshots.filter(s => s.date.startsWith(monthKey)),
+					dailyHeat: {}
+				};
+			}
+
+			monthlyDataMap[monthKey][projName].dailyHeat[dayKey] = dailyEntry;
+		}
+	}
+
+	let filesWritten = 0;
+	let filesSkipped = 0;
+
+	for(const [monthKey, projectsInMonth] of Object.entries(monthlyDataMap))
+	{
+		const monthlyFileName = `project-data-${monthKey}.json`;
+		const monthlyFilePath = path.join(CACHE_DIR, 'data', monthlyFileName);
+
+		const isCurrentOrPrevMonth = (monthKey === currentMonthKey || monthKey === prevMonthKey);
+
+		// Skip writing historical months if the file already exists on disk
+		if(fs.existsSync(monthlyFilePath) && !isCurrentOrPrevMonth)
+		{
+			filesSkipped++;
+			continue;
+		}
+
+		const monthlyRegistry: MonthlyProjectRegistry = {
+			yearMonth: monthKey,
+			generatedAt: new Date().toISOString(),
+			username: GITHUB_USERNAME,
+			projects: projectsInMonth
+		};
+
+		fs.writeFileSync(monthlyFilePath, JSON.stringify(monthlyRegistry, null, 2), 'utf-8');
+		filesWritten++;
+	}
 
 	const totalTimeSec = ((Date.now() - startTime) / 1000).toFixed(2);
-	console.log('\n------------------------------------------------------------');
-	console.log(`✅ Success! Master output generated at: ${MASTER_OUTPUT_FILE}`);
+	console.log('------------------------------------------------------------');
+	console.log(`✅ Success! Monthly history written to ${CACHE_DIR}`);
+	console.log(`📊 Monthly files created/updated: ${filesWritten} | Historical skipped: ${filesSkipped}`);
 	console.log(`⏱️ Total Execution Time: ${totalTimeSec}s for ${totalRepos} projects`);
 	console.log('------------------------------------------------------------');
+
+
+	// 5. Generate yearly standalone SVG heatmaps for every active project year
+	console.log('\n🎨 Generating standalone SVG heatmaps for each project year...');
+
+	let svgFilesWritten = 0;
+	let svgFilesSkipped = 0;
+
+	for(const [projName, projData] of Object.entries(registry.projects))
+	{
+		const safeProjName = projName.replace(/[^a-zA-Z0-9_\-]/g, '_');
+
+		// Extract all years that have recorded activity
+		const activeYears = new Set<number>();
+		for(const [dayKey, dayEntry] of Object.entries(projData.dailyHeat))
+		{
+			if(dayEntry && dayEntry.commitCount > 0)
+			{
+				const year = parseInt(dayKey.substring(0, 4), 10);
+				if(!isNaN(year))
+				{
+					activeYears.add(year);
+				}
+			}
+		}
+
+		// Generate one SVG per active year
+		for(const year of activeYears)
+		{
+			const svgFileName = `heatmap-${safeProjName}-${year}.svg`;
+			const svgFilePath = path.join(CACHE_DIR, 'heat-maps', svgFileName);
+
+			// Skip re-rendering historical years if SVG already exists and is not the current year
+			const currentYearNum = new Date().getFullYear();
+			if(fs.existsSync(svgFilePath) && year !== currentYearNum)
+			{
+				svgFilesSkipped++;
+				continue;
+			}
+
+			const svgString = renderD3HeatmapForYearSVG(projData.dailyHeat, year);
+			fs.writeFileSync(svgFilePath, svgString, 'utf-8');
+			svgFilesWritten++;
+		}
+	}
+
+	console.log(`📊 SVG Heatmaps generated: ${svgFilesWritten} created/updated | ${svgFilesSkipped} cached historical skipped`);
+
+	// 6. Write lightweight master `projects-data.json` index manifest
+	console.log('\n📋 Building lightweight master manifest: projects-data.json...');
+
+	const availableMonthsSet = new Set<string>();
+	const availableYearsSet = new Set<number>();
+	const projectSummaries: ProjectSummary[] = [];
+	const flatHeatIndex: Record<string, CompactHeatPoint[]> = {};
+
+	for(const [projName, projData] of Object.entries(registry.projects))
+	{
+		const activeYears = new Set<number>();
+		const activeMonths = new Set<string>();
+		const heatPoints: CompactHeatPoint[] = [];
+
+		let totalCommits = 0;
+		let totalLinesChanged = 0;
+
+		for(const [dayKey, dayEntry] of Object.entries(projData.dailyHeat))
+		{
+			if(!dayEntry || dayEntry.commitCount === 0) continue;
+
+			const year = parseInt(dayKey.substring(0, 4), 10);
+			const monthKey = dayKey.substring(0, 7);
+
+			if(!isNaN(year))
+			{
+				activeYears.add(year);
+				availableYearsSet.add(year);
+			}
+			activeMonths.add(monthKey);
+			availableMonthsSet.add(monthKey);
+
+			totalCommits += dayEntry.commitCount;
+			totalLinesChanged += dayEntry.linesChanged;
+
+			heatPoints.push({
+				date: dayKey,
+				heatScore: dayEntry.heatScore,
+				commitCount: dayEntry.commitCount
+			});
+		}
+
+		const sortedYears = Array.from(activeYears).sort((a, b) => b - a);
+		const sortedMonths = Array.from(activeMonths).sort((a, b) => b.localeCompare(a));
+
+		projectSummaries.push({
+			projectName: projName,
+			remoteUrl: projData.remoteUrl,
+			localPath: projData.localPath,
+			lastUpdated: projData.lastUpdated,
+			activeYears: sortedYears,
+			activeMonths: sortedMonths,
+			totalCommits,
+			totalLinesChanged,
+			screenshotCount: projData.screenshots.length
+		});
+
+		// Store flattened daily scores for rendering immediate broad grids
+		flatHeatIndex[projName] = heatPoints.sort((a, b) => a.date.localeCompare(b.date));
+	}
+
+	const masterManifest: CompactMasterManifest = {
+		generatedAt: new Date().toISOString(),
+		username: GITHUB_USERNAME,
+		projectCount: projectSummaries.length,
+		availableMonths: Array.from(availableMonthsSet).sort((a, b) => b.localeCompare(a)),
+		availableYears: Array.from(availableYearsSet).sort((a, b) => b - a),
+		projects: projectSummaries.sort((a, b) => a.projectName.localeCompare(b.projectName)),
+		flatHeatIndex
+	};
+
+	fs.writeFileSync(MASTER_OUTPUT_FILE, JSON.stringify(masterManifest, null, 2), 'utf-8');
+
+	const manifestSizeBytes = fs.statSync(MASTER_OUTPUT_FILE).size;
+	const manifestSizeKB = (manifestSizeBytes / 1024).toFixed(2);
+
+	console.log(`✅ Lightweight manifest saved to: ${MASTER_OUTPUT_FILE} (${manifestSizeKB} KB)`);
 }
+
+
+/**
+ * Renders a single-year SVG vector heatmap using dailyHeat records directly
+ */
+export function renderD3HeatmapForYearSVG(
+	dailyHeat: Record<string, DailyHeatData | undefined>,
+	year: number
+): string
+{
+	const d3n = new D3Node();
+	const d3 = d3n.d3;
+
+	const containerWidth = 900;
+	const containerHeight = 120;
+	const margin = { top: 15, right: 20, bottom: 15, left: 35 };
+	const innerWidth = containerWidth - margin.left - margin.right;
+	const innerHeight = containerHeight - margin.top - margin.bottom;
+
+	const stepX = innerWidth / 54;
+	const stepY = innerHeight / 7;
+
+	const colorScale = d3.scaleLinear()
+		.range(['#1b1b3a', '#007acc', '#4ec9b0'])
+		.domain([0, 50, 100]);
+
+	const svg = d3n.createSVG(containerWidth, containerHeight)
+		.attr('xmlns', 'http://www.w3.org/2000/svg')
+		.attr('viewBox', `0 0 ${containerWidth} ${containerHeight}`)
+		.attr('preserveAspectRatio', 'none')
+		.attr('class', 'git-heatmap-svg');
+
+	const rootG = svg.append('g')
+		.attr('transform', `translate(${margin.left},${margin.top})`);
+
+	const yearG = rootG.append('g')
+		.attr('transform', 'translate(20, 0)');
+
+	yearG.append('text')
+		.text(year)
+		.attr('fill', '#888')
+		.attr('font-size', '10px')
+		.attr('font-family', 'sans-serif')
+		.attr('transform', `translate(-25, ${stepY * 3.5}) rotate(-90)`)
+		.attr('text-anchor', 'middle');
+
+	const daysInYear = d3.timeDays(new Date(year, 0, 1), new Date(year + 1, 0, 1));
+	const weekFormat = d3.timeFormat('%W');
+	const dateFormat = d3.timeFormat('%Y-%m-%d');
+
+	yearG.selectAll('.day')
+		.data(daysInYear)
+		.enter().append('rect')
+		.attr('class', 'day')
+		.attr('width', Math.max(1, stepX - 1))
+		.attr('height', Math.max(1, stepY - 1))
+		.attr('x', (d: Date) => parseInt(weekFormat(d), 10) * stepX)
+		.attr('y', (d: Date) => ((d.getDay() + 6) % 7) * stepY)
+		.attr('fill', (d: Date) =>
+		{
+			const key = dateFormat(d);
+			const dayEntry = dailyHeat[key];
+			return (dayEntry && dayEntry.heatScore > 0)
+				? colorScale(dayEntry.heatScore)
+				: '#222222';
+		})
+		.attr('rx', 2)
+		.append('title')
+		.text((d: Date) =>
+		{
+			const key = dateFormat(d);
+			const dayEntry = dailyHeat[key];
+			if(dayEntry && dayEntry.commitCount > 0)
+			{
+				return `${key}: ${dayEntry.commitCount} commits, ${dayEntry.linesChanged} lines changed`;
+			}
+			return `${key}: No Activity`;
+		});
+
+	return d3n.svgString();
+}
+
+/**
+ * Inspects project data, finds all years with active dailyHeat entries,
+ * and writes project-data-${projectName}-${year}.svg files
+ */
+export function generateProjectYearlyHeatmaps(
+	projectData: ProjectData,
+	outputDir: string
+): void
+{
+	const safeProjectName = projectData.projectName.replace(/[^a-zA-Z0-9_\-]/g, '_');
+	const activeYears = new Set<number>();
+
+	for(const [dayKey, dayEntry] of Object.entries(projectData.dailyHeat))
+	{
+		if(!dayEntry || dayEntry.commitCount === 0) continue;
+
+		const year = parseInt(dayKey.substring(0, 4), 10);
+		if(!isNaN(year))
+		{
+			activeYears.add(year);
+		}
+	}
+
+	if(activeYears.size === 0)
+	{
+		console.log(`Skipping SVGs for ${projectData.projectName}: No activity found.`);
+		return;
+	}
+
+	activeYears.forEach((year) =>
+	{
+		const svgContent = renderD3HeatmapForYearSVG(projectData.dailyHeat, year);
+		const svgFilename = `project-data-${safeProjectName}-${year}.svg`;
+		const outputPath = path.join(outputDir, svgFilename);
+
+		fs.writeFileSync(outputPath, svgContent, 'utf-8');
+		console.log(`   └─ Generated SVG: ${svgFilename}`);
+	});
+}
+
 
 // CLI Direct Execution
 if(require.main === module)

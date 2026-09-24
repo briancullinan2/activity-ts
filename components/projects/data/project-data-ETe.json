@@ -1,0 +1,59 @@
+{
+  "projectName": "ETe",
+  "localPath": "C:\\Users\\megam\\ETe",
+  "remoteUrl": "git@github.com:briancullinan2/ETe.git",
+  "lastUpdated": "2026-09-24T03:03:58.752Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2026-07-06": {
+      "date": "2026-07-06",
+      "heatScore": 41,
+      "linesChanged": 470,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/win32/msvc2017/Splines.vcxproj",
+        "src/win32/msvc2017/cgame.vcxproj",
+        "src/win32/msvc2017/cgame.vcxproj.filters",
+        "src/win32/msvc2017/ete-ded.vcxproj",
+        "src/win32/msvc2017/ete-ded.vcxproj.filters",
+        "src/win32/msvc2017/ete.vcxproj",
+        "src/win32/msvc2017/game.vcxproj",
+        "src/win32/msvc2017/libjpeg.vcxproj",
+        "src/win32/msvc2017/libjpeg.vcxproj.filters",
+        "src/win32/msvc2017/renderer.vcxproj",
+        "src/win32/msvc2017/renderer.vcxproj.filters",
+        "src/win32/msvc2017/renderervk.vcxproj",
+        "src/win32/msvc2017/renderervk.vcxproj.filters",
+        "src/win32/msvc2017/ui.vcxproj",
+        "src/win32/msvc2017/ui.vcxproj.filters"
+      ],
+      "commits": [
+        {
+          "hash": "3d2ab2b65f11ec9a4cb03ce2b36acda14806114f",
+          "author": "Brian Cullinan",
+          "date": "2026-07-06T17:55:31.000Z",
+          "message": "version upgrade",
+          "linesAdded": 152,
+          "linesDeleted": 318,
+          "filesChanged": [
+            "src/win32/msvc2017/Splines.vcxproj",
+            "src/win32/msvc2017/cgame.vcxproj",
+            "src/win32/msvc2017/cgame.vcxproj.filters",
+            "src/win32/msvc2017/ete-ded.vcxproj",
+            "src/win32/msvc2017/ete-ded.vcxproj.filters",
+            "src/win32/msvc2017/ete.vcxproj",
+            "src/win32/msvc2017/game.vcxproj",
+            "src/win32/msvc2017/libjpeg.vcxproj",
+            "src/win32/msvc2017/libjpeg.vcxproj.filters",
+            "src/win32/msvc2017/renderer.vcxproj",
+            "src/win32/msvc2017/renderer.vcxproj.filters",
+            "src/win32/msvc2017/renderervk.vcxproj",
+            "src/win32/msvc2017/renderervk.vcxproj.filters",
+            "src/win32/msvc2017/ui.vcxproj",
+            "src/win32/msvc2017/ui.vcxproj.filters"
+          ]
+        }
+      ]
+    }
+  }
+}

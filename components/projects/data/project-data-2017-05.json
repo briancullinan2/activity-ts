@@ -1,0 +1,484 @@
+{
+  "yearMonth": "2017-05",
+  "generatedAt": "2026-09-24T02:37:24.808Z",
+  "username": "briancullinan2",
+  "projects": {
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-05-31": {
+          "date": "2017-05-31",
+          "heatScore": 33,
+          "linesChanged": 349,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            "How to find answers.ipynb",
+            "How to install Docker on Windows.ipynb",
+            "How to interpret questions.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "db27cabeb3c5a6eff2cdaf27fc6d80d170020a44",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-05-31T23:26:52.000Z",
+              "message": "no message",
+              "linesAdded": 150,
+              "linesDeleted": 199,
+              "filesChanged": [
+                ".gitignore",
+                "How to find answers.ipynb",
+                "How to install Docker on Windows.ipynb",
+                "How to interpret questions.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-05-30": {
+          "date": "2017-05-30",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/How to interpret questions.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "5442e88e4b3a7ce3578d0373cd7945d74201d15b",
+              "author": "Brian Cullinan",
+              "date": "2017-05-30T23:24:11.000Z",
+              "message": "no message",
+              "linesAdded": 9,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "notebooks/How to interpret questions.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-05-29": {
+          "date": "2017-05-29",
+          "heatScore": 39,
+          "linesChanged": 442,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/How to find answers.ipynb",
+            "notebooks/How to test import.ipynb",
+            "notebooks/How to use express.ipynb",
+            "notebooks/What is Selenium.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "27aabf503e62a98ed9526e9377aa892d739b9130",
+              "author": "Brian Cullinan",
+              "date": "2017-05-29T21:10:06.000Z",
+              "message": "no message",
+              "linesAdded": 234,
+              "linesDeleted": 208,
+              "filesChanged": [
+                "notebooks/How to find answers.ipynb",
+                "notebooks/How to test import.ipynb",
+                "notebooks/How to use express.ipynb",
+                "notebooks/What is Selenium.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-05-28": {
+          "date": "2017-05-28",
+          "heatScore": 60,
+          "linesChanged": 761,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/How to use express.ipynb",
+            "notebooks/How to use simple-imap.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f3bb5a3e7745e80782d34a60d934e526fae98978",
+              "author": "Brian Cullinan",
+              "date": "2017-05-28T17:46:26.000Z",
+              "message": "no message",
+              "linesAdded": 533,
+              "linesDeleted": 228,
+              "filesChanged": [
+                "notebooks/How to use express.ipynb",
+                "notebooks/How to use simple-imap.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-05-27": {
+          "date": "2017-05-27",
+          "heatScore": 67,
+          "linesChanged": 866,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/How to install Docker on Mac.ipynb",
+            "notebooks/How to install Docker on Windows.ipynb",
+            "notebooks/What is Selenium.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c29bf3287cde4d8bb74554d3cf45b243e0574021",
+              "author": "Brian Cullinan",
+              "date": "2017-05-27T16:40:51.000Z",
+              "message": "Question formatting.",
+              "linesAdded": 736,
+              "linesDeleted": 130,
+              "filesChanged": [
+                "notebooks/How to install Docker on Mac.ipynb",
+                "notebooks/How to install Docker on Windows.ipynb",
+                "notebooks/What is Selenium.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-05-26": {
+          "date": "2017-05-26",
+          "heatScore": 100,
+          "linesChanged": 1903,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/What is Docker.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "38a02e8702804431345a2523649b051636e69fbf",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-05-26T19:21:42.000Z",
+              "message": "no message",
+              "linesAdded": 9,
+              "linesDeleted": 1894,
+              "filesChanged": [
+                "notebooks/What is Docker.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-05-25": {
+          "date": "2017-05-25",
+          "heatScore": 100,
+          "linesChanged": 4019,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/What is Docker.ipynb",
+            "notebooks/What is Docker.pdf",
+            "notebooks/What is Docker.zip",
+            "notebooks/selenium-act/Dockerfile",
+            "notebooks/selenium-act/mobile/package.json",
+            "notebooks/selenium-act/mobile/server.js",
+            "notebooks/selenium-act/mobile/test/smokeTests/smokeTest.js",
+            "notebooks/selenium-act/mobile/test/specs/one.js",
+            "notebooks/selenium-act/new_entry.sh"
+          ],
+          "commits": [
+            {
+              "hash": "c125b47751b5b87e9932561cfbaa372556e73e72",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-05-25T22:43:56.000Z",
+              "message": "no message",
+              "linesAdded": 3472,
+              "linesDeleted": 547,
+              "filesChanged": [
+                "notebooks/What is Docker.ipynb",
+                "notebooks/What is Docker.pdf",
+                "notebooks/What is Docker.zip",
+                "notebooks/selenium-act/Dockerfile",
+                "notebooks/selenium-act/mobile/package.json",
+                "notebooks/selenium-act/mobile/server.js",
+                "notebooks/selenium-act/mobile/test/smokeTests/smokeTest.js",
+                "notebooks/selenium-act/mobile/test/specs/one.js",
+                "notebooks/selenium-act/new_entry.sh"
+              ]
+            }
+          ]
+        },
+        "2017-05-24": {
+          "date": "2017-05-24",
+          "heatScore": 15,
+          "linesChanged": 78,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/What is Docker.ipynb",
+            "notebooks/What is Docker.pdf",
+            "notebooks/What is Docker.zip"
+          ],
+          "commits": [
+            {
+              "hash": "9768027e1389e3190c3764dca69f78a8e4ad2374",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-05-24T23:01:20.000Z",
+              "message": "no message",
+              "linesAdded": 49,
+              "linesDeleted": 29,
+              "filesChanged": [
+                "notebooks/What is Docker.ipynb",
+                "notebooks/What is Docker.pdf",
+                "notebooks/What is Docker.zip"
+              ]
+            }
+          ]
+        },
+        "2017-05-23": {
+          "date": "2017-05-23",
+          "heatScore": 100,
+          "linesChanged": 1362,
+          "commitCount": 1,
+          "filesEdited": [
+            "Dockerfile",
+            "notebooks/.ipynb_checkpoints/Selenium Automation-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/Untitled1-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/Wireframing-checkpoint.ipynb",
+            "notebooks/Selenium Automation.ipynb",
+            "notebooks/Untitled1.ipynb",
+            "\"notebooks/What is Angular 2\\357\\200\\245.ipynb\"",
+            "notebooks/Wireframing.ipynb",
+            "notebooks/npm-debug.log"
+          ],
+          "commits": [
+            {
+              "hash": "30f0b216f29106fb2653ed0ccce1921e4d73eb98",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-05-23T23:36:23.000Z",
+              "message": "Working VNC + portal",
+              "linesAdded": 1254,
+              "linesDeleted": 108,
+              "filesChanged": [
+                "Dockerfile",
+                "notebooks/.ipynb_checkpoints/Selenium Automation-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/Untitled1-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/Wireframing-checkpoint.ipynb",
+                "notebooks/Selenium Automation.ipynb",
+                "notebooks/Untitled1.ipynb",
+                "\"notebooks/What is Angular 2\\357\\200\\245.ipynb\"",
+                "notebooks/Wireframing.ipynb",
+                "notebooks/npm-debug.log"
+              ]
+            }
+          ]
+        },
+        "2017-05-22": {
+          "date": "2017-05-22",
+          "heatScore": 64,
+          "linesChanged": 813,
+          "commitCount": 1,
+          "filesEdited": [
+            "novnc/app/images/icons/novnc-icon-sm.svg",
+            "novnc/app/images/info.svg",
+            "novnc/po/el.po",
+            "novnc/tests/assertions.js",
+            "novnc/utils/use_require.js"
+          ],
+          "commits": [
+            {
+              "hash": "6bf7224adcfc295744b452aac0415408bc7addee",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-05-22T21:23:45.000Z",
+              "message": "no message",
+              "linesAdded": 813,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "novnc/app/images/icons/novnc-icon-sm.svg",
+                "novnc/app/images/info.svg",
+                "novnc/po/el.po",
+                "novnc/tests/assertions.js",
+                "novnc/utils/use_require.js"
+              ]
+            }
+          ]
+        },
+        "2017-05-17": {
+          "date": "2017-05-17",
+          "heatScore": 76,
+          "linesChanged": 992,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/.ipynb_checkpoints/ECommerce-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+            "notebooks/2017 Update.ipynb",
+            "notebooks/ECommerce.ipynb",
+            "notebooks/Good UX Intro.ipynb",
+            "notebooks/Wireframing.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1de80f5c9c081c743ebf17d33d10852c695b67fc",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-05-17T23:14:23.000Z",
+              "message": "no message",
+              "linesAdded": 920,
+              "linesDeleted": 72,
+              "filesChanged": [
+                "notebooks/.ipynb_checkpoints/ECommerce-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+                "notebooks/2017 Update.ipynb",
+                "notebooks/ECommerce.ipynb",
+                "notebooks/Good UX Intro.ipynb",
+                "notebooks/Wireframing.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-05-10": {
+          "date": "2017-05-10",
+          "heatScore": 25,
+          "linesChanged": 236,
+          "commitCount": 1,
+          "filesEdited": [
+            "Dockerfile",
+            "Readme.md",
+            "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+            "\"notebooks/.ipynb_checkpoints/What is Angular 2\\357\\200\\245-checkpoint.ipynb\"",
+            "notebooks/.ipynb_checkpoints/Wireframing-checkpoint.ipynb",
+            "notebooks/Good UX Intro.ipynb",
+            "notebooks/Untitled.ipynb",
+            "\"notebooks/What is Angular 2\\357\\200\\245.ipynb\"",
+            "notebooks/Wireframing.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "abd8789dd441f004fe45c7bb044b6ebb9048693f",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-05-10T23:26:21.000Z",
+              "message": "Notes.",
+              "linesAdded": 213,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "Dockerfile",
+                "Readme.md",
+                "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+                "\"notebooks/.ipynb_checkpoints/What is Angular 2\\357\\200\\245-checkpoint.ipynb\"",
+                "notebooks/.ipynb_checkpoints/Wireframing-checkpoint.ipynb",
+                "notebooks/Good UX Intro.ipynb",
+                "notebooks/Untitled.ipynb",
+                "\"notebooks/What is Angular 2\\357\\200\\245.ipynb\"",
+                "notebooks/Wireframing.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-05-08": {
+          "date": "2017-05-08",
+          "heatScore": 48,
+          "linesChanged": 580,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/.ipynb_checkpoints/2017 Update-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/ECommerce-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+            "\"notebooks/.ipynb_checkpoints/What is Angular 2\\357\\200\\245-checkpoint.ipynb\"",
+            "notebooks/2017 Update.ipynb",
+            "notebooks/ECommerce.ipynb",
+            "notebooks/Good UX Intro.ipynb",
+            "\"notebooks/What is Angular 2\\357\\200\\245.ipynb\""
+          ],
+          "commits": [
+            {
+              "hash": "bdf5dfb5f12fe40ef52fd4990c90dbe8822ab4f6",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-05-08T16:07:01.000Z",
+              "message": "Architecture diagrams.",
+              "linesAdded": 330,
+              "linesDeleted": 250,
+              "filesChanged": [
+                "notebooks/.ipynb_checkpoints/2017 Update-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/ECommerce-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+                "\"notebooks/.ipynb_checkpoints/What is Angular 2\\357\\200\\245-checkpoint.ipynb\"",
+                "notebooks/2017 Update.ipynb",
+                "notebooks/ECommerce.ipynb",
+                "notebooks/Good UX Intro.ipynb",
+                "\"notebooks/What is Angular 2\\357\\200\\245.ipynb\""
+              ]
+            }
+          ]
+        },
+        "2017-05-06": {
+          "date": "2017-05-06",
+          "heatScore": 45,
+          "linesChanged": 532,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/.ipynb_checkpoints/ECommerce-checkpoint.ipynb",
+            "notebooks/ECommerce.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "fe1f0e465744809b22eafd4959e7976253792272",
+              "author": "Brian Cullinan",
+              "date": "2017-05-06T04:52:08.000Z",
+              "message": "no message",
+              "linesAdded": 532,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "notebooks/.ipynb_checkpoints/ECommerce-checkpoint.ipynb",
+                "notebooks/ECommerce.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-05-02": {
+          "date": "2017-05-02",
+          "heatScore": 30,
+          "linesChanged": 311,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+            "notebooks/.ipynb_checkpoints/Landing Pages-checkpoint.ipynb",
+            "notebooks/2017 Update.ipynb",
+            "notebooks/Good UX Intro.ipynb",
+            "notebooks/Landing Pages.ipynb",
+            "notebooks/Wireframing.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "9425137e5156bd8b58a9c154584917ac48ce3a8a",
+              "author": "Brian Cullinan",
+              "date": "2017-05-02T22:56:46.000Z",
+              "message": "Notes",
+              "linesAdded": 260,
+              "linesDeleted": 51,
+              "filesChanged": [
+                "notebooks/.ipynb_checkpoints/Good UX Intro-checkpoint.ipynb",
+                "notebooks/.ipynb_checkpoints/Landing Pages-checkpoint.ipynb",
+                "notebooks/2017 Update.ipynb",
+                "notebooks/Good UX Intro.ipynb",
+                "notebooks/Landing Pages.ipynb",
+                "notebooks/Wireframing.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-05-01": {
+          "date": "2017-05-01",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "Dockerfile"
+          ],
+          "commits": [
+            {
+              "hash": "95f155c798842e53a6a246b5f420b84387a92b9f",
+              "author": "Brian Cullinan",
+              "date": "2017-05-01T00:15:44.000Z",
+              "message": "no message",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "Dockerfile"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

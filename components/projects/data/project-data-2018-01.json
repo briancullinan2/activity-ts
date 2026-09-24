@@ -1,0 +1,708 @@
+{
+  "yearMonth": "2018-01",
+  "generatedAt": "2026-09-24T02:37:24.806Z",
+  "username": "briancullinan2",
+  "projects": {
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2018-01-28": {
+          "date": "2018-01-28",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/utilities.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "28aa20bb32d985f3f08a0e80267b901b205f2ecc",
+              "author": "Brian Cullinan",
+              "date": "2018-01-28T10:54:50.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 10,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "Selenium/utilities.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-25": {
+          "date": "2018-01-25",
+          "heatScore": 71,
+          "linesChanged": 926,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/git.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "99a5d96e1516e1f6166643bead9c20a3ec2d3753",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2018-01-25T17:40:30.000Z",
+              "message": "no message",
+              "linesAdded": 235,
+              "linesDeleted": 691,
+              "filesChanged": [
+                "Utilities/git.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-24": {
+          "date": "2018-01-24",
+          "heatScore": 100,
+          "linesChanged": 1451,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/cached-permissions.json",
+            "Selenium/utilities.ipynb",
+            "Utilities/git.ipynb",
+            "package-lock.json",
+            "package.json",
+            "webpack.config.js"
+          ],
+          "commits": [
+            {
+              "hash": "34574a99c23d76928f00371eac1715c7599b1a61",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2018-01-24T16:58:35.000Z",
+              "message": "auto-commit",
+              "linesAdded": 269,
+              "linesDeleted": 1182,
+              "filesChanged": [
+                "Frameworks/cached-permissions.json",
+                "Selenium/utilities.ipynb",
+                "Utilities/git.ipynb",
+                "package-lock.json",
+                "package.json",
+                "webpack.config.js"
+              ]
+            }
+          ]
+        },
+        "2018-01-23": {
+          "date": "2018-01-23",
+          "heatScore": 69,
+          "linesChanged": 890,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/cached-permissions.json",
+            "Frameworks/node express.ipynb",
+            "Frameworks/rpc.ipynb",
+            "Frameworks/twilio.ipynb",
+            "Utilities/git.ipynb",
+            "Utilities/google calendar.ipynb",
+            "firebase.json"
+          ],
+          "commits": [
+            {
+              "hash": "7d80e4f8ecf35618abe19e9f9477a4218723d55d",
+              "author": "Brian Cullinan",
+              "date": "2018-01-23T06:44:17.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 182,
+              "linesDeleted": 708,
+              "filesChanged": [
+                "Frameworks/cached-permissions.json",
+                "Frameworks/node express.ipynb",
+                "Frameworks/rpc.ipynb",
+                "Frameworks/twilio.ipynb",
+                "Utilities/git.ipynb",
+                "Utilities/google calendar.ipynb",
+                "firebase.json"
+              ]
+            }
+          ]
+        },
+        "2018-01-22": {
+          "date": "2018-01-22",
+          "heatScore": 15,
+          "linesChanged": 81,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb",
+            "Utilities/polyfills.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "ca50e9913fe1145a9b6fd2265e462cf8f8b3225a",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2018-01-22T23:53:57.000Z",
+              "message": "working zuora aws handler",
+              "linesAdded": 17,
+              "linesDeleted": 64,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb",
+                "Utilities/polyfills.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-21": {
+          "date": "2018-01-21",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "_config.yml"
+          ],
+          "commits": [
+            {
+              "hash": "9aa049f90a1234ef8d0ca728cc10ab42b50263fc",
+              "author": "Brian Cullinan",
+              "date": "2018-01-21T21:24:23.000Z",
+              "message": "Set theme jekyll-theme-hacker",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "_config.yml"
+              ]
+            }
+          ]
+        },
+        "2018-01-20": {
+          "date": "2018-01-20",
+          "heatScore": 11,
+          "linesChanged": 25,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/test runner.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "82fe026ddfda3955d2c50253e42a38a7f2a17d4c",
+              "author": "Brian Cullinan",
+              "date": "2018-01-20T16:42:45.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 19,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "Frameworks/test runner.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-19": {
+          "date": "2018-01-19",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "jupyter.service"
+          ],
+          "commits": [
+            {
+              "hash": "8186cd65445d458d87ecd2ce25e9815442b108b6",
+              "author": "Brian Cullinan",
+              "date": "2018-01-19T22:57:39.000Z",
+              "message": "auto-commit",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "jupyter.service"
+              ]
+            }
+          ]
+        },
+        "2018-01-18": {
+          "date": "2018-01-18",
+          "heatScore": 100,
+          "linesChanged": 20059,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Frameworks/cached-permissions.json",
+            "Frameworks/rpc.ipynb",
+            "Selenium/forms.ipynb",
+            "Selenium/google timeline.ipynb",
+            "Utilities/google maps.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "e955dc53142cd917e92c3ab8be5a0fcbcabba034",
+              "author": "Brian Cullinan",
+              "date": "2018-01-18T07:15:48.000Z",
+              "message": "no message",
+              "linesAdded": 10038,
+              "linesDeleted": 10021,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Frameworks/cached-permissions.json",
+                "Frameworks/rpc.ipynb",
+                "Selenium/forms.ipynb",
+                "Selenium/google timeline.ipynb",
+                "Utilities/google maps.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2018-01-17": {
+          "date": "2018-01-17",
+          "heatScore": 89,
+          "linesChanged": 1193,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/cached-permissions.json",
+            "Frameworks/zuora to eloqua.ipynb",
+            "Utilities/active directory.ipynb",
+            "Utilities/notebook.ipynb",
+            "Utilities/polyfills.ipynb",
+            "Utilities/registry.ipynb",
+            "Utilities/shell.log",
+            "Utilities/windows.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "85dd7b31a3b76386a7ad3bca12c2d24742642ab3",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2018-01-17T21:46:23.000Z",
+              "message": "working zuora tests",
+              "linesAdded": 642,
+              "linesDeleted": 551,
+              "filesChanged": [
+                "Frameworks/cached-permissions.json",
+                "Frameworks/zuora to eloqua.ipynb",
+                "Utilities/active directory.ipynb",
+                "Utilities/notebook.ipynb",
+                "Utilities/polyfills.ipynb",
+                "Utilities/registry.ipynb",
+                "Utilities/shell.log",
+                "Utilities/windows.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-16": {
+          "date": "2018-01-16",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "c6f57ad10d6f112d887445b3643f46a8f911519d",
+              "author": "Brian Cullinan",
+              "date": "2018-01-16T22:50:29.000Z",
+              "message": "no message",
+              "linesAdded": 26,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2018-01-15": {
+          "date": "2018-01-15",
+          "heatScore": 100,
+          "linesChanged": 1355,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/aws.ipynb",
+            "Selenium/data collection.ipynb",
+            "Selenium/orchestration.ipynb",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "4ef43d162d812af774a36840eee2a3cc8ebc0be5",
+              "author": "Brian Cullinan",
+              "date": "2018-01-15T22:51:04.000Z",
+              "message": "working orchestrator",
+              "linesAdded": 44,
+              "linesDeleted": 1311,
+              "filesChanged": [
+                "Frameworks/aws.ipynb",
+                "Selenium/data collection.ipynb",
+                "Selenium/orchestration.ipynb",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2018-01-14": {
+          "date": "2018-01-14",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/data collection.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "bfafb948713f748fe1e76ccb9a8b5801dd1a15c2",
+              "author": "Brian Cullinan",
+              "date": "2018-01-14T21:51:02.000Z",
+              "message": "working multi crawler, reseting node require.cache",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "Selenium/data collection.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-13": {
+          "date": "2018-01-13",
+          "heatScore": 100,
+          "linesChanged": 1628,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            "Core/import notebook.ipynb",
+            "Frameworks/cached-permissions.json",
+            "Frameworks/rpc.ipynb",
+            "Selenium/data collection.ipynb",
+            "Utilities/child process.ipynb",
+            "Utilities/google calendar.ipynb",
+            "Utilities/google scheduling.ipynb",
+            "Utilities/notebook.ipynb",
+            "bundle.js",
+            "firebase.json",
+            "index.js",
+            "package-lock.json",
+            "package.json",
+            "webpack.config.js"
+          ],
+          "commits": [
+            {
+              "hash": "f91622c1579737f2315fdc12c1ca680a99016476",
+              "author": "Brian Cullinan",
+              "date": "2018-01-13T23:26:11.000Z",
+              "message": "fixing rpc service",
+              "linesAdded": 1133,
+              "linesDeleted": 495,
+              "filesChanged": [
+                ".gitignore",
+                "Core/import notebook.ipynb",
+                "Frameworks/cached-permissions.json",
+                "Frameworks/rpc.ipynb",
+                "Selenium/data collection.ipynb",
+                "Utilities/child process.ipynb",
+                "Utilities/google calendar.ipynb",
+                "Utilities/google scheduling.ipynb",
+                "Utilities/notebook.ipynb",
+                "bundle.js",
+                "firebase.json",
+                "index.js",
+                "package-lock.json",
+                "package.json",
+                "webpack.config.js"
+              ]
+            }
+          ]
+        },
+        "2018-01-12": {
+          "date": "2018-01-12",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "b26451b443339a101cd5f2b59375d89442661c08",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2018-01-12T21:20:44.000Z",
+              "message": "more unit tests for eloqua",
+              "linesAdded": 14,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-11": {
+          "date": "2018-01-11",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/google calendar.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c25a4e2cc502a1bbccaff584e4def957877f27a4",
+              "author": "Brian Cullinan",
+              "date": "2018-01-11T22:07:34.000Z",
+              "message": "no message",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "Utilities/google calendar.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-10": {
+          "date": "2018-01-10",
+          "heatScore": 65,
+          "linesChanged": 830,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/aws.ipynb",
+            "Frameworks/cached-permissions.json",
+            "Frameworks/zuora to eloqua.ipynb",
+            "Utilities/child process.ipynb",
+            "Utilities/file system.ipynb",
+            "Utilities/notebook.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1c2e8336e66985413f15a847d45852e1f5c59d66",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2018-01-10T21:41:58.000Z",
+              "message": "eloqua testing",
+              "linesAdded": 709,
+              "linesDeleted": 121,
+              "filesChanged": [
+                "Frameworks/aws.ipynb",
+                "Frameworks/cached-permissions.json",
+                "Frameworks/zuora to eloqua.ipynb",
+                "Utilities/child process.ipynb",
+                "Utilities/file system.ipynb",
+                "Utilities/notebook.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-09": {
+          "date": "2018-01-09",
+          "heatScore": 29,
+          "linesChanged": 290,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/gulp.ipynb",
+            "Utilities/file system.ipynb",
+            "Utilities/notebook.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "2a5825c08aa8b514d894b290d0ca29b722692860",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2018-01-09T22:17:41.000Z",
+              "message": "no message",
+              "linesAdded": 205,
+              "linesDeleted": 85,
+              "filesChanged": [
+                "Frameworks/gulp.ipynb",
+                "Utilities/file system.ipynb",
+                "Utilities/notebook.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-08": {
+          "date": "2018-01-08",
+          "heatScore": 31,
+          "linesChanged": 327,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb",
+            "Utilities/notebook.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "b1e341e2f623bbab68380214917acd8111e91f28",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2018-01-08T21:44:01.000Z",
+              "message": "no message",
+              "linesAdded": 316,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb",
+                "Utilities/notebook.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-07": {
+          "date": "2018-01-07",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/git.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "64efe7f3364e6473d65f8036b31a8a2d11b31a10",
+              "author": "Brian Cullinan",
+              "date": "2018-01-07T23:53:52.000Z",
+              "message": "no message",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "Utilities/git.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-06": {
+          "date": "2018-01-06",
+          "heatScore": 100,
+          "linesChanged": 228552,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/google.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/google authorize.ipynb",
+            "bundle.js",
+            "firebase.json",
+            "package.json",
+            "webpack.config.js"
+          ],
+          "commits": [
+            {
+              "hash": "2b8af8951d847e25863a10d03aadfc2c9eef8228",
+              "author": "Brian Cullinan",
+              "date": "2018-01-06T05:44:19.000Z",
+              "message": "no message",
+              "linesAdded": 15,
+              "linesDeleted": 228537,
+              "filesChanged": [
+                "Frameworks/google.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/google authorize.ipynb",
+                "bundle.js",
+                "firebase.json",
+                "package.json",
+                "webpack.config.js"
+              ]
+            }
+          ]
+        },
+        "2018-01-05": {
+          "date": "2018-01-05",
+          "heatScore": 58,
+          "linesChanged": 726,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Frameworks/cached-permissions.json",
+            "Frameworks/rpc.ipynb",
+            "Utilities/git.ipynb",
+            "Utilities/google calendar.ipynb",
+            "Utilities/heartbeat.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "fcc07745903f258a2c06a0dad4aa779423ad9cd5",
+              "author": "Brian Cullinan",
+              "date": "2018-01-05T05:35:02.000Z",
+              "message": "no message",
+              "linesAdded": 210,
+              "linesDeleted": 516,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Frameworks/cached-permissions.json",
+                "Frameworks/rpc.ipynb",
+                "Utilities/git.ipynb",
+                "Utilities/google calendar.ipynb",
+                "Utilities/heartbeat.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-04": {
+          "date": "2018-01-04",
+          "heatScore": 97,
+          "linesChanged": 1315,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/cached-permissions.json",
+            "Frameworks/de-linting.ipynb",
+            "Frameworks/zuora to eloqua.ipynb",
+            "Utilities/notebook.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "b05a4492b27441adfd5328380c6d3512ed304751",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2018-01-04T19:03:47.000Z",
+              "message": "no message",
+              "linesAdded": 1131,
+              "linesDeleted": 184,
+              "filesChanged": [
+                "Frameworks/cached-permissions.json",
+                "Frameworks/de-linting.ipynb",
+                "Frameworks/zuora to eloqua.ipynb",
+                "Utilities/notebook.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-03": {
+          "date": "2018-01-03",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/cached-permissions.json",
+            "Frameworks/rpc.ipynb",
+            "Selenium/data collection.ipynb",
+            "Selenium/webdriver.ipynb",
+            "Utilities/google calendar.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "b762d8991238b91de20083c2fde720a1b0e5510c",
+              "author": "Brian Cullinan",
+              "date": "2018-01-03T05:57:01.000Z",
+              "message": "no message",
+              "linesAdded": 11,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "Frameworks/cached-permissions.json",
+                "Frameworks/rpc.ipynb",
+                "Selenium/data collection.ipynb",
+                "Selenium/webdriver.ipynb",
+                "Utilities/google calendar.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-01-02": {
+          "date": "2018-01-02",
+          "heatScore": 97,
+          "linesChanged": 1318,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/zuora to eloqua.ipynb",
+            "Selenium/you earned it.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "33411f7bc23586a5669ada1fedb017b0875f92eb",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2018-01-02T21:34:46.000Z",
+              "message": "no message",
+              "linesAdded": 801,
+              "linesDeleted": 517,
+              "filesChanged": [
+                "Frameworks/zuora to eloqua.ipynb",
+                "Selenium/you earned it.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

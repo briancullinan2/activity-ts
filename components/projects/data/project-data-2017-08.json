@@ -1,0 +1,1985 @@
+{
+  "yearMonth": "2017-08",
+  "generatedAt": "2026-09-24T02:37:24.743Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-08-31": {
+          "date": "2017-08-31",
+          "heatScore": 40,
+          "linesChanged": 456,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_drawtools.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_playerstate.c",
+            "code/cgame/cg_scoreboard.c",
+            "code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "aa8dac0e13b2c149b6d196882482e8e1429bc8ab",
+              "author": "ec-",
+              "date": "2017-08-31T18:26:34.000Z",
+              "message": "Use single CG_DrawString() wrapper to draw all strings Code cleanup",
+              "linesAdded": 204,
+              "linesDeleted": 252,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_drawtools.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_playerstate.c",
+                "code/cgame/cg_scoreboard.c",
+                "code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-25": {
+          "date": "2017-08-25",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_snapshot.c"
+          ],
+          "commits": [
+            {
+              "hash": "f6d35e4c2aef3aace2fbe9ae36397bbf8af6da8f",
+              "author": "ec-",
+              "date": "2017-08-25T15:37:55.000Z",
+              "message": "Fix OSP demo playback",
+              "linesAdded": 11,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_snapshot.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-18": {
+          "date": "2017-08-18",
+          "heatScore": 14,
+          "linesChanged": 69,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_drawtools.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_view.c"
+          ],
+          "commits": [
+            {
+              "hash": "501bd67affc3381801979c4aa624ae1fbd8f46e4",
+              "author": "ec-",
+              "date": "2017-08-18T08:40:30.000Z",
+              "message": "Fix FIGHT sounds during demo playback Reduce pickup icon and text size",
+              "linesAdded": 53,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_drawtools.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_servercmds.c",
+                "code/cgame/cg_view.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-16": {
+          "date": "2017-08-16",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_localents.c",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_syscalls.c"
+          ],
+          "commits": [
+            {
+              "hash": "d4e2c6b413c3988b5bc6ee56908fcb9f70af58e8",
+              "author": "ec-",
+              "date": "2017-08-16T18:06:51.000Z",
+              "message": "Use trap_R_AddLinearLightToScene for rail trails if available Add \\cg_railTrailRadius - to control linear light radius",
+              "linesAdded": 27,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_localents.c",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_syscalls.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-11": {
+          "date": "2017-08-11",
+          "heatScore": 12,
+          "linesChanged": 30,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "69c9b67b4bc1fc0297f6a61fe89c74825f6be2d3",
+              "author": "ec-",
+              "date": "2017-08-11T13:34:24.000Z",
+              "message": "Add item pickup counter Slightly increase font color for ammo counters and remove text shadows",
+              "linesAdded": 26,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_event.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-10": {
+          "date": "2017-08-10",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_items.c"
+          ],
+          "commits": [
+            {
+              "hash": "f5dc0f2beeb5ddbdab836a0f5a5631d1cd99bda8",
+              "author": "ec-",
+              "date": "2017-08-10T18:43:03.000Z",
+              "message": "Fix weapon respawn times",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "code/game/g_items.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-09": {
+          "date": "2017-08-09",
+          "heatScore": 13,
+          "linesChanged": 56,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "3eb20d5f08870e229349346e3d55d32e83952f0e",
+              "author": "ec-",
+              "date": "2017-08-09T11:36:00.000Z",
+              "message": "Add \\cg_drawSpeed Code cleanup",
+              "linesAdded": 46,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-07": {
+          "date": "2017-08-07",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_predict.c",
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_snapshot.c"
+          ],
+          "commits": [
+            {
+              "hash": "812aa6ac72dbccb50cc1f67a254f5922062ec0b3",
+              "author": "ec-",
+              "date": "2017-08-07T18:28:40.000Z",
+              "message": "Read g_synchronousClients directly from systeminfo, not cvar",
+              "linesAdded": 8,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_event.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_predict.c",
+                "code/cgame/cg_servercmds.c",
+                "code/cgame/cg_snapshot.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-06": {
+          "date": "2017-08-06",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/q3_ui/ui_players.c"
+          ],
+          "commits": [
+            {
+              "hash": "714c37c29e9cc984022aff6ae42d4fc875219fee",
+              "author": "ec-",
+              "date": "2017-08-06T19:00:50.000Z",
+              "message": "Fix animation parsing for UI",
+              "linesAdded": 10,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/q3_ui/ui_players.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-04": {
+          "date": "2017-08-04",
+          "heatScore": 13,
+          "linesChanged": 51,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_players.c"
+          ],
+          "commits": [
+            {
+              "hash": "bd261fb5ea5db1e0463371c4816b96f796b4ef6f",
+              "author": "ec-",
+              "date": "2017-08-04T20:07:28.000Z",
+              "message": "Add \\cg_deadBodyDarken, enabled by default, works together with \\cg_enemyModel",
+              "linesAdded": 41,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_players.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-03": {
+          "date": "2017-08-03",
+          "heatScore": 100,
+          "linesChanged": 1687,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "assets/models/players/anarki/color.tga",
+            "assets/models/players/anarki/color_h.tga",
+            "assets/models/players/anarki/color_x.tga",
+            "assets/models/players/anarki/head_pm.skin",
+            "assets/models/players/anarki/icon_pm.tga",
+            "assets/models/players/anarki/lower_pm.skin",
+            "assets/models/players/anarki/upper_pm.skin",
+            "assets/models/players/biker/color.tga",
+            "assets/models/players/biker/color_h.tga",
+            "assets/models/players/biker/head_pm.skin",
+            "assets/models/players/biker/icon_pm.tga",
+            "assets/models/players/biker/lower_pm.skin",
+            "assets/models/players/biker/upper_pm.skin",
+            "assets/models/players/bitterman/color.tga",
+            "assets/models/players/bitterman/color_h.tga",
+            "assets/models/players/bitterman/head_pm.skin",
+            "assets/models/players/bitterman/icon_pm.tga",
+            "assets/models/players/bitterman/lower_pm.skin",
+            "assets/models/players/bitterman/upper_pm.skin",
+            "assets/models/players/bones/color.tga",
+            "assets/models/players/bones/head_pm.skin",
+            "assets/models/players/bones/icon_pm.tga",
+            "assets/models/players/bones/lower_pm.skin",
+            "assets/models/players/bones/upper_pm.skin",
+            "assets/models/players/crash/color.tga",
+            "assets/models/players/crash/head_pm.skin",
+            "assets/models/players/crash/icon_pm.tga",
+            "assets/models/players/crash/lower_pm.skin",
+            "assets/models/players/crash/upper_pm.skin",
+            "assets/models/players/doom/color.tga",
+            "assets/models/players/doom/head_pm.skin",
+            "assets/models/players/doom/icon_pm.tga",
+            "assets/models/players/doom/lower_pm.skin",
+            "assets/models/players/doom/upper_pm.skin",
+            "assets/models/players/grunt/color.tga",
+            "assets/models/players/grunt/color_h.tga",
+            "assets/models/players/grunt/head_pm.skin",
+            "assets/models/players/grunt/icon_pm.tga",
+            "assets/models/players/grunt/lower_pm.skin",
+            "assets/models/players/grunt/upper_pm.skin",
+            "assets/models/players/hunter/color.tga",
+            "assets/models/players/hunter/color_h.tga",
+            "assets/models/players/hunter/color_x.tga",
+            "assets/models/players/hunter/head_pm.skin",
+            "assets/models/players/hunter/icon_pm.tga",
+            "assets/models/players/hunter/lower_pm.skin",
+            "assets/models/players/hunter/upper_pm.skin",
+            "assets/models/players/keel/color.tga",
+            "assets/models/players/keel/color_h.tga",
+            "assets/models/players/keel/head_pm.skin",
+            "assets/models/players/keel/icon_pm.tga",
+            "assets/models/players/keel/lower_pm.skin",
+            "assets/models/players/keel/upper_pm.skin",
+            "assets/models/players/klesk/color.tga",
+            "assets/models/players/klesk/color_h.tga",
+            "assets/models/players/klesk/head_pm.skin",
+            "assets/models/players/klesk/icon_pm.tga",
+            "assets/models/players/klesk/lower_pm.skin",
+            "assets/models/players/klesk/upper_pm.skin",
+            "assets/models/players/lucy/color.tga",
+            "assets/models/players/lucy/color_h.tga",
+            "assets/models/players/lucy/head_pm.skin",
+            "assets/models/players/lucy/icon_pm.tga",
+            "assets/models/players/lucy/lower_pm.skin",
+            "assets/models/players/lucy/upper_pm.skin",
+            "assets/models/players/major/color.tga",
+            "assets/models/players/major/color_h.tga",
+            "assets/models/players/major/head_pm.skin",
+            "assets/models/players/major/icon_pm.tga",
+            "assets/models/players/major/lower_pm.skin",
+            "assets/models/players/major/upper_pm.skin",
+            "assets/models/players/mynx/color.tga",
+            "assets/models/players/mynx/color_h.tga",
+            "assets/models/players/mynx/color_x.tga",
+            "assets/models/players/mynx/head_pm.skin",
+            "assets/models/players/mynx/icon_pm.tga",
+            "assets/models/players/mynx/lower_pm.skin",
+            "assets/models/players/mynx/upper_pm.skin",
+            "assets/models/players/orbb/color.tga",
+            "assets/models/players/orbb/color_h.tga",
+            "assets/models/players/orbb/head_pm.skin",
+            "assets/models/players/orbb/icon_pm.tga",
+            "assets/models/players/orbb/lower_pm.skin",
+            "assets/models/players/orbb/upper_pm.skin",
+            "assets/models/players/ranger/color.tga",
+            "assets/models/players/ranger/color_h.tga",
+            "assets/models/players/ranger/head_pm.skin",
+            "assets/models/players/ranger/icon_pm.tga",
+            "assets/models/players/ranger/lower_pm.skin",
+            "assets/models/players/ranger/upper_pm.skin",
+            "assets/models/players/razor/color.tga",
+            "assets/models/players/razor/color_h.tga",
+            "assets/models/players/razor/head_pm.skin",
+            "assets/models/players/razor/icon_pm.tga",
+            "assets/models/players/razor/lower_pm.skin",
+            "assets/models/players/razor/upper_pm.skin",
+            "assets/models/players/sarge/color.tga",
+            "assets/models/players/sarge/head_pm.skin",
+            "assets/models/players/sarge/icon_pm.tga",
+            "assets/models/players/sarge/lower_pm.skin",
+            "assets/models/players/sarge/upper_pm.skin",
+            "assets/models/players/slash/color.tga",
+            "assets/models/players/slash/color_h.tga",
+            "assets/models/players/slash/color_skates.tga",
+            "assets/models/players/slash/head_pm.skin",
+            "assets/models/players/slash/icon_pm.tga",
+            "assets/models/players/slash/lower_pm.skin",
+            "assets/models/players/slash/upper_pm.skin",
+            "assets/models/players/sorlag/color.tga",
+            "assets/models/players/sorlag/head_pm.skin",
+            "assets/models/players/sorlag/icon_pm.tga",
+            "assets/models/players/sorlag/lower_pm.skin",
+            "assets/models/players/sorlag/upper_pm.skin",
+            "assets/models/players/tankjr/color.tga",
+            "assets/models/players/tankjr/head_pm.skin",
+            "assets/models/players/tankjr/icon_pm.tga",
+            "assets/models/players/tankjr/lower_pm.skin",
+            "assets/models/players/tankjr/upper_pm.skin",
+            "assets/models/players/uriel/color.tga",
+            "assets/models/players/uriel/color_h.tga",
+            "assets/models/players/uriel/color_x.tga",
+            "assets/models/players/uriel/head_pm.skin",
+            "assets/models/players/uriel/icon_pm.tga",
+            "assets/models/players/uriel/lower_pm.skin",
+            "assets/models/players/uriel/upper_pm.skin",
+            "assets/models/players/visor/color.tga",
+            "assets/models/players/visor/head_pm.skin",
+            "assets/models/players/visor/icon_pm.tga",
+            "assets/models/players/visor/lower_pm.skin",
+            "assets/models/players/visor/upper_pm.skin",
+            "assets/models/players/xaero/color.tga",
+            "assets/models/players/xaero/color_h.tga",
+            "assets/models/players/xaero/head_pm.skin",
+            "assets/models/players/xaero/icon_pm.tga",
+            "assets/models/players/xaero/lower_pm.skin",
+            "assets/models/players/xaero/upper_pm.skin",
+            "assets/scripts/players.shader",
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_players.c",
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_view.c",
+            "code/game/bg_local.h",
+            "code/game/bg_misc.c",
+            "code/game/bg_public.h"
+          ],
+          "commits": [
+            {
+              "hash": "201550e88d4b594a2ed526d0d620dd6a327a890c",
+              "author": "ec-",
+              "date": "2017-08-03T20:02:04.000Z",
+              "message": "Add colored skins support:  \\cg_enemyModel - sets model, use model from known list or \"pm\"  \\cg_enemyColors - triplet, sets enemy color for head, torso and legs, works only if enemy model is set, use '?' char to set team color Track client and team change and reset player entity to avoid unneeded transition effects",
+              "linesAdded": 1551,
+              "linesDeleted": 136,
+              "filesChanged": [
+                "README.md",
+                "assets/models/players/anarki/color.tga",
+                "assets/models/players/anarki/color_h.tga",
+                "assets/models/players/anarki/color_x.tga",
+                "assets/models/players/anarki/head_pm.skin",
+                "assets/models/players/anarki/icon_pm.tga",
+                "assets/models/players/anarki/lower_pm.skin",
+                "assets/models/players/anarki/upper_pm.skin",
+                "assets/models/players/biker/color.tga",
+                "assets/models/players/biker/color_h.tga",
+                "assets/models/players/biker/head_pm.skin",
+                "assets/models/players/biker/icon_pm.tga",
+                "assets/models/players/biker/lower_pm.skin",
+                "assets/models/players/biker/upper_pm.skin",
+                "assets/models/players/bitterman/color.tga",
+                "assets/models/players/bitterman/color_h.tga",
+                "assets/models/players/bitterman/head_pm.skin",
+                "assets/models/players/bitterman/icon_pm.tga",
+                "assets/models/players/bitterman/lower_pm.skin",
+                "assets/models/players/bitterman/upper_pm.skin",
+                "assets/models/players/bones/color.tga",
+                "assets/models/players/bones/head_pm.skin",
+                "assets/models/players/bones/icon_pm.tga",
+                "assets/models/players/bones/lower_pm.skin",
+                "assets/models/players/bones/upper_pm.skin",
+                "assets/models/players/crash/color.tga",
+                "assets/models/players/crash/head_pm.skin",
+                "assets/models/players/crash/icon_pm.tga",
+                "assets/models/players/crash/lower_pm.skin",
+                "assets/models/players/crash/upper_pm.skin",
+                "assets/models/players/doom/color.tga",
+                "assets/models/players/doom/head_pm.skin",
+                "assets/models/players/doom/icon_pm.tga",
+                "assets/models/players/doom/lower_pm.skin",
+                "assets/models/players/doom/upper_pm.skin",
+                "assets/models/players/grunt/color.tga",
+                "assets/models/players/grunt/color_h.tga",
+                "assets/models/players/grunt/head_pm.skin",
+                "assets/models/players/grunt/icon_pm.tga",
+                "assets/models/players/grunt/lower_pm.skin",
+                "assets/models/players/grunt/upper_pm.skin",
+                "assets/models/players/hunter/color.tga",
+                "assets/models/players/hunter/color_h.tga",
+                "assets/models/players/hunter/color_x.tga",
+                "assets/models/players/hunter/head_pm.skin",
+                "assets/models/players/hunter/icon_pm.tga",
+                "assets/models/players/hunter/lower_pm.skin",
+                "assets/models/players/hunter/upper_pm.skin",
+                "assets/models/players/keel/color.tga",
+                "assets/models/players/keel/color_h.tga",
+                "assets/models/players/keel/head_pm.skin",
+                "assets/models/players/keel/icon_pm.tga",
+                "assets/models/players/keel/lower_pm.skin",
+                "assets/models/players/keel/upper_pm.skin",
+                "assets/models/players/klesk/color.tga",
+                "assets/models/players/klesk/color_h.tga",
+                "assets/models/players/klesk/head_pm.skin",
+                "assets/models/players/klesk/icon_pm.tga",
+                "assets/models/players/klesk/lower_pm.skin",
+                "assets/models/players/klesk/upper_pm.skin",
+                "assets/models/players/lucy/color.tga",
+                "assets/models/players/lucy/color_h.tga",
+                "assets/models/players/lucy/head_pm.skin",
+                "assets/models/players/lucy/icon_pm.tga",
+                "assets/models/players/lucy/lower_pm.skin",
+                "assets/models/players/lucy/upper_pm.skin",
+                "assets/models/players/major/color.tga",
+                "assets/models/players/major/color_h.tga",
+                "assets/models/players/major/head_pm.skin",
+                "assets/models/players/major/icon_pm.tga",
+                "assets/models/players/major/lower_pm.skin",
+                "assets/models/players/major/upper_pm.skin",
+                "assets/models/players/mynx/color.tga",
+                "assets/models/players/mynx/color_h.tga",
+                "assets/models/players/mynx/color_x.tga",
+                "assets/models/players/mynx/head_pm.skin",
+                "assets/models/players/mynx/icon_pm.tga",
+                "assets/models/players/mynx/lower_pm.skin",
+                "assets/models/players/mynx/upper_pm.skin",
+                "assets/models/players/orbb/color.tga",
+                "assets/models/players/orbb/color_h.tga",
+                "assets/models/players/orbb/head_pm.skin",
+                "assets/models/players/orbb/icon_pm.tga",
+                "assets/models/players/orbb/lower_pm.skin",
+                "assets/models/players/orbb/upper_pm.skin",
+                "assets/models/players/ranger/color.tga",
+                "assets/models/players/ranger/color_h.tga",
+                "assets/models/players/ranger/head_pm.skin",
+                "assets/models/players/ranger/icon_pm.tga",
+                "assets/models/players/ranger/lower_pm.skin",
+                "assets/models/players/ranger/upper_pm.skin",
+                "assets/models/players/razor/color.tga",
+                "assets/models/players/razor/color_h.tga",
+                "assets/models/players/razor/head_pm.skin",
+                "assets/models/players/razor/icon_pm.tga",
+                "assets/models/players/razor/lower_pm.skin",
+                "assets/models/players/razor/upper_pm.skin",
+                "assets/models/players/sarge/color.tga",
+                "assets/models/players/sarge/head_pm.skin",
+                "assets/models/players/sarge/icon_pm.tga",
+                "assets/models/players/sarge/lower_pm.skin",
+                "assets/models/players/sarge/upper_pm.skin",
+                "assets/models/players/slash/color.tga",
+                "assets/models/players/slash/color_h.tga",
+                "assets/models/players/slash/color_skates.tga",
+                "assets/models/players/slash/head_pm.skin",
+                "assets/models/players/slash/icon_pm.tga",
+                "assets/models/players/slash/lower_pm.skin",
+                "assets/models/players/slash/upper_pm.skin",
+                "assets/models/players/sorlag/color.tga",
+                "assets/models/players/sorlag/head_pm.skin",
+                "assets/models/players/sorlag/icon_pm.tga",
+                "assets/models/players/sorlag/lower_pm.skin",
+                "assets/models/players/sorlag/upper_pm.skin",
+                "assets/models/players/tankjr/color.tga",
+                "assets/models/players/tankjr/head_pm.skin",
+                "assets/models/players/tankjr/icon_pm.tga",
+                "assets/models/players/tankjr/lower_pm.skin",
+                "assets/models/players/tankjr/upper_pm.skin",
+                "assets/models/players/uriel/color.tga",
+                "assets/models/players/uriel/color_h.tga",
+                "assets/models/players/uriel/color_x.tga",
+                "assets/models/players/uriel/head_pm.skin",
+                "assets/models/players/uriel/icon_pm.tga",
+                "assets/models/players/uriel/lower_pm.skin",
+                "assets/models/players/uriel/upper_pm.skin",
+                "assets/models/players/visor/color.tga",
+                "assets/models/players/visor/head_pm.skin",
+                "assets/models/players/visor/icon_pm.tga",
+                "assets/models/players/visor/lower_pm.skin",
+                "assets/models/players/visor/upper_pm.skin",
+                "assets/models/players/xaero/color.tga",
+                "assets/models/players/xaero/color_h.tga",
+                "assets/models/players/xaero/head_pm.skin",
+                "assets/models/players/xaero/icon_pm.tga",
+                "assets/models/players/xaero/lower_pm.skin",
+                "assets/models/players/xaero/upper_pm.skin",
+                "assets/scripts/players.shader",
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_players.c",
+                "code/cgame/cg_servercmds.c",
+                "code/cgame/cg_view.c",
+                "code/game/bg_local.h",
+                "code/game/bg_misc.c",
+                "code/game/bg_public.h"
+              ]
+            }
+          ]
+        },
+        "2017-08-02": {
+          "date": "2017-08-02",
+          "heatScore": 74,
+          "linesChanged": 967,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_marks.c",
+            "code/cgame/cg_playerstate.c",
+            "code/cgame/cg_predict.c",
+            "code/cgame/cg_view.c",
+            "code/game/bg_misc.c",
+            "code/game/bg_pmove.c",
+            "code/game/bg_public.h",
+            "code/game/g_active.c",
+            "code/game/g_client.c",
+            "code/game/g_combat.c",
+            "code/game/g_items.c",
+            "code/game/g_utils.c"
+          ],
+          "commits": [
+            {
+              "hash": "62f995db7c23e9762ce2c26f61f58bd4ee1b905b",
+              "author": "ec-",
+              "date": "2017-08-02T13:57:45.000Z",
+              "message": "Add optimized client-side prediction Locally predict weapon/ammo/armor/health/powerups pickups Fix picked up items appearing for a fraction of second right after pickup Delay item pickup after respawn Filter jump/pain events to avoid duplicates/sound distortion Try to play potentially dropped events Print ping in top-left corner of lagometer, fix \"snc\" label position Code cleanup",
+              "linesAdded": 833,
+              "linesDeleted": 134,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_ents.c",
+                "code/cgame/cg_event.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_marks.c",
+                "code/cgame/cg_playerstate.c",
+                "code/cgame/cg_predict.c",
+                "code/cgame/cg_view.c",
+                "code/game/bg_misc.c",
+                "code/game/bg_pmove.c",
+                "code/game/bg_public.h",
+                "code/game/g_active.c",
+                "code/game/g_client.c",
+                "code/game/g_combat.c",
+                "code/game/g_items.c",
+                "code/game/g_utils.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-01": {
+          "date": "2017-08-01",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_scoreboard.c"
+          ],
+          "commits": [
+            {
+              "hash": "e15b28282ad827d795204da6bdf3e4d8d4d4ee72",
+              "author": "ec-",
+              "date": "2017-08-01T09:55:42.000Z",
+              "message": "Do not display disconnected players on scoreboard",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/cgame/cg_scoreboard.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-08-31": {
+          "date": "2017-08-31",
+          "heatScore": 40,
+          "linesChanged": 456,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_drawtools.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_playerstate.c",
+            "code/cgame/cg_scoreboard.c",
+            "code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "aa8dac0e13b2c149b6d196882482e8e1429bc8ab",
+              "author": "ec-",
+              "date": "2017-08-31T18:26:34.000Z",
+              "message": "Use single CG_DrawString() wrapper to draw all strings Code cleanup",
+              "linesAdded": 204,
+              "linesDeleted": 252,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_drawtools.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_playerstate.c",
+                "code/cgame/cg_scoreboard.c",
+                "code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-25": {
+          "date": "2017-08-25",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_snapshot.c"
+          ],
+          "commits": [
+            {
+              "hash": "f6d35e4c2aef3aace2fbe9ae36397bbf8af6da8f",
+              "author": "ec-",
+              "date": "2017-08-25T15:37:55.000Z",
+              "message": "Fix OSP demo playback",
+              "linesAdded": 11,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_snapshot.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-18": {
+          "date": "2017-08-18",
+          "heatScore": 14,
+          "linesChanged": 69,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_drawtools.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_view.c"
+          ],
+          "commits": [
+            {
+              "hash": "501bd67affc3381801979c4aa624ae1fbd8f46e4",
+              "author": "ec-",
+              "date": "2017-08-18T08:40:30.000Z",
+              "message": "Fix FIGHT sounds during demo playback Reduce pickup icon and text size",
+              "linesAdded": 53,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_drawtools.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_servercmds.c",
+                "code/cgame/cg_view.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-16": {
+          "date": "2017-08-16",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_localents.c",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_syscalls.c"
+          ],
+          "commits": [
+            {
+              "hash": "d4e2c6b413c3988b5bc6ee56908fcb9f70af58e8",
+              "author": "ec-",
+              "date": "2017-08-16T18:06:51.000Z",
+              "message": "Use trap_R_AddLinearLightToScene for rail trails if available Add \\cg_railTrailRadius - to control linear light radius",
+              "linesAdded": 27,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_localents.c",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_syscalls.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-11": {
+          "date": "2017-08-11",
+          "heatScore": 12,
+          "linesChanged": 30,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "69c9b67b4bc1fc0297f6a61fe89c74825f6be2d3",
+              "author": "ec-",
+              "date": "2017-08-11T13:34:24.000Z",
+              "message": "Add item pickup counter Slightly increase font color for ammo counters and remove text shadows",
+              "linesAdded": 26,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_event.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-10": {
+          "date": "2017-08-10",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_items.c"
+          ],
+          "commits": [
+            {
+              "hash": "f5dc0f2beeb5ddbdab836a0f5a5631d1cd99bda8",
+              "author": "ec-",
+              "date": "2017-08-10T18:43:03.000Z",
+              "message": "Fix weapon respawn times",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "code/game/g_items.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-09": {
+          "date": "2017-08-09",
+          "heatScore": 13,
+          "linesChanged": 56,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "3eb20d5f08870e229349346e3d55d32e83952f0e",
+              "author": "ec-",
+              "date": "2017-08-09T11:36:00.000Z",
+              "message": "Add \\cg_drawSpeed Code cleanup",
+              "linesAdded": 46,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-07": {
+          "date": "2017-08-07",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_predict.c",
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_snapshot.c"
+          ],
+          "commits": [
+            {
+              "hash": "812aa6ac72dbccb50cc1f67a254f5922062ec0b3",
+              "author": "ec-",
+              "date": "2017-08-07T18:28:40.000Z",
+              "message": "Read g_synchronousClients directly from systeminfo, not cvar",
+              "linesAdded": 8,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_event.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_predict.c",
+                "code/cgame/cg_servercmds.c",
+                "code/cgame/cg_snapshot.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-06": {
+          "date": "2017-08-06",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/q3_ui/ui_players.c"
+          ],
+          "commits": [
+            {
+              "hash": "714c37c29e9cc984022aff6ae42d4fc875219fee",
+              "author": "ec-",
+              "date": "2017-08-06T19:00:50.000Z",
+              "message": "Fix animation parsing for UI",
+              "linesAdded": 10,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/q3_ui/ui_players.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-04": {
+          "date": "2017-08-04",
+          "heatScore": 13,
+          "linesChanged": 51,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_players.c"
+          ],
+          "commits": [
+            {
+              "hash": "bd261fb5ea5db1e0463371c4816b96f796b4ef6f",
+              "author": "ec-",
+              "date": "2017-08-04T20:07:28.000Z",
+              "message": "Add \\cg_deadBodyDarken, enabled by default, works together with \\cg_enemyModel",
+              "linesAdded": 41,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_players.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-03": {
+          "date": "2017-08-03",
+          "heatScore": 100,
+          "linesChanged": 1687,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "assets/models/players/anarki/color.tga",
+            "assets/models/players/anarki/color_h.tga",
+            "assets/models/players/anarki/color_x.tga",
+            "assets/models/players/anarki/head_pm.skin",
+            "assets/models/players/anarki/icon_pm.tga",
+            "assets/models/players/anarki/lower_pm.skin",
+            "assets/models/players/anarki/upper_pm.skin",
+            "assets/models/players/biker/color.tga",
+            "assets/models/players/biker/color_h.tga",
+            "assets/models/players/biker/head_pm.skin",
+            "assets/models/players/biker/icon_pm.tga",
+            "assets/models/players/biker/lower_pm.skin",
+            "assets/models/players/biker/upper_pm.skin",
+            "assets/models/players/bitterman/color.tga",
+            "assets/models/players/bitterman/color_h.tga",
+            "assets/models/players/bitterman/head_pm.skin",
+            "assets/models/players/bitterman/icon_pm.tga",
+            "assets/models/players/bitterman/lower_pm.skin",
+            "assets/models/players/bitterman/upper_pm.skin",
+            "assets/models/players/bones/color.tga",
+            "assets/models/players/bones/head_pm.skin",
+            "assets/models/players/bones/icon_pm.tga",
+            "assets/models/players/bones/lower_pm.skin",
+            "assets/models/players/bones/upper_pm.skin",
+            "assets/models/players/crash/color.tga",
+            "assets/models/players/crash/head_pm.skin",
+            "assets/models/players/crash/icon_pm.tga",
+            "assets/models/players/crash/lower_pm.skin",
+            "assets/models/players/crash/upper_pm.skin",
+            "assets/models/players/doom/color.tga",
+            "assets/models/players/doom/head_pm.skin",
+            "assets/models/players/doom/icon_pm.tga",
+            "assets/models/players/doom/lower_pm.skin",
+            "assets/models/players/doom/upper_pm.skin",
+            "assets/models/players/grunt/color.tga",
+            "assets/models/players/grunt/color_h.tga",
+            "assets/models/players/grunt/head_pm.skin",
+            "assets/models/players/grunt/icon_pm.tga",
+            "assets/models/players/grunt/lower_pm.skin",
+            "assets/models/players/grunt/upper_pm.skin",
+            "assets/models/players/hunter/color.tga",
+            "assets/models/players/hunter/color_h.tga",
+            "assets/models/players/hunter/color_x.tga",
+            "assets/models/players/hunter/head_pm.skin",
+            "assets/models/players/hunter/icon_pm.tga",
+            "assets/models/players/hunter/lower_pm.skin",
+            "assets/models/players/hunter/upper_pm.skin",
+            "assets/models/players/keel/color.tga",
+            "assets/models/players/keel/color_h.tga",
+            "assets/models/players/keel/head_pm.skin",
+            "assets/models/players/keel/icon_pm.tga",
+            "assets/models/players/keel/lower_pm.skin",
+            "assets/models/players/keel/upper_pm.skin",
+            "assets/models/players/klesk/color.tga",
+            "assets/models/players/klesk/color_h.tga",
+            "assets/models/players/klesk/head_pm.skin",
+            "assets/models/players/klesk/icon_pm.tga",
+            "assets/models/players/klesk/lower_pm.skin",
+            "assets/models/players/klesk/upper_pm.skin",
+            "assets/models/players/lucy/color.tga",
+            "assets/models/players/lucy/color_h.tga",
+            "assets/models/players/lucy/head_pm.skin",
+            "assets/models/players/lucy/icon_pm.tga",
+            "assets/models/players/lucy/lower_pm.skin",
+            "assets/models/players/lucy/upper_pm.skin",
+            "assets/models/players/major/color.tga",
+            "assets/models/players/major/color_h.tga",
+            "assets/models/players/major/head_pm.skin",
+            "assets/models/players/major/icon_pm.tga",
+            "assets/models/players/major/lower_pm.skin",
+            "assets/models/players/major/upper_pm.skin",
+            "assets/models/players/mynx/color.tga",
+            "assets/models/players/mynx/color_h.tga",
+            "assets/models/players/mynx/color_x.tga",
+            "assets/models/players/mynx/head_pm.skin",
+            "assets/models/players/mynx/icon_pm.tga",
+            "assets/models/players/mynx/lower_pm.skin",
+            "assets/models/players/mynx/upper_pm.skin",
+            "assets/models/players/orbb/color.tga",
+            "assets/models/players/orbb/color_h.tga",
+            "assets/models/players/orbb/head_pm.skin",
+            "assets/models/players/orbb/icon_pm.tga",
+            "assets/models/players/orbb/lower_pm.skin",
+            "assets/models/players/orbb/upper_pm.skin",
+            "assets/models/players/ranger/color.tga",
+            "assets/models/players/ranger/color_h.tga",
+            "assets/models/players/ranger/head_pm.skin",
+            "assets/models/players/ranger/icon_pm.tga",
+            "assets/models/players/ranger/lower_pm.skin",
+            "assets/models/players/ranger/upper_pm.skin",
+            "assets/models/players/razor/color.tga",
+            "assets/models/players/razor/color_h.tga",
+            "assets/models/players/razor/head_pm.skin",
+            "assets/models/players/razor/icon_pm.tga",
+            "assets/models/players/razor/lower_pm.skin",
+            "assets/models/players/razor/upper_pm.skin",
+            "assets/models/players/sarge/color.tga",
+            "assets/models/players/sarge/head_pm.skin",
+            "assets/models/players/sarge/icon_pm.tga",
+            "assets/models/players/sarge/lower_pm.skin",
+            "assets/models/players/sarge/upper_pm.skin",
+            "assets/models/players/slash/color.tga",
+            "assets/models/players/slash/color_h.tga",
+            "assets/models/players/slash/color_skates.tga",
+            "assets/models/players/slash/head_pm.skin",
+            "assets/models/players/slash/icon_pm.tga",
+            "assets/models/players/slash/lower_pm.skin",
+            "assets/models/players/slash/upper_pm.skin",
+            "assets/models/players/sorlag/color.tga",
+            "assets/models/players/sorlag/head_pm.skin",
+            "assets/models/players/sorlag/icon_pm.tga",
+            "assets/models/players/sorlag/lower_pm.skin",
+            "assets/models/players/sorlag/upper_pm.skin",
+            "assets/models/players/tankjr/color.tga",
+            "assets/models/players/tankjr/head_pm.skin",
+            "assets/models/players/tankjr/icon_pm.tga",
+            "assets/models/players/tankjr/lower_pm.skin",
+            "assets/models/players/tankjr/upper_pm.skin",
+            "assets/models/players/uriel/color.tga",
+            "assets/models/players/uriel/color_h.tga",
+            "assets/models/players/uriel/color_x.tga",
+            "assets/models/players/uriel/head_pm.skin",
+            "assets/models/players/uriel/icon_pm.tga",
+            "assets/models/players/uriel/lower_pm.skin",
+            "assets/models/players/uriel/upper_pm.skin",
+            "assets/models/players/visor/color.tga",
+            "assets/models/players/visor/head_pm.skin",
+            "assets/models/players/visor/icon_pm.tga",
+            "assets/models/players/visor/lower_pm.skin",
+            "assets/models/players/visor/upper_pm.skin",
+            "assets/models/players/xaero/color.tga",
+            "assets/models/players/xaero/color_h.tga",
+            "assets/models/players/xaero/head_pm.skin",
+            "assets/models/players/xaero/icon_pm.tga",
+            "assets/models/players/xaero/lower_pm.skin",
+            "assets/models/players/xaero/upper_pm.skin",
+            "assets/scripts/players.shader",
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_players.c",
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_view.c",
+            "code/game/bg_local.h",
+            "code/game/bg_misc.c",
+            "code/game/bg_public.h"
+          ],
+          "commits": [
+            {
+              "hash": "201550e88d4b594a2ed526d0d620dd6a327a890c",
+              "author": "ec-",
+              "date": "2017-08-03T20:02:04.000Z",
+              "message": "Add colored skins support:  \\cg_enemyModel - sets model, use model from known list or \"pm\"  \\cg_enemyColors - triplet, sets enemy color for head, torso and legs, works only if enemy model is set, use '?' char to set team color Track client and team change and reset player entity to avoid unneeded transition effects",
+              "linesAdded": 1551,
+              "linesDeleted": 136,
+              "filesChanged": [
+                "README.md",
+                "assets/models/players/anarki/color.tga",
+                "assets/models/players/anarki/color_h.tga",
+                "assets/models/players/anarki/color_x.tga",
+                "assets/models/players/anarki/head_pm.skin",
+                "assets/models/players/anarki/icon_pm.tga",
+                "assets/models/players/anarki/lower_pm.skin",
+                "assets/models/players/anarki/upper_pm.skin",
+                "assets/models/players/biker/color.tga",
+                "assets/models/players/biker/color_h.tga",
+                "assets/models/players/biker/head_pm.skin",
+                "assets/models/players/biker/icon_pm.tga",
+                "assets/models/players/biker/lower_pm.skin",
+                "assets/models/players/biker/upper_pm.skin",
+                "assets/models/players/bitterman/color.tga",
+                "assets/models/players/bitterman/color_h.tga",
+                "assets/models/players/bitterman/head_pm.skin",
+                "assets/models/players/bitterman/icon_pm.tga",
+                "assets/models/players/bitterman/lower_pm.skin",
+                "assets/models/players/bitterman/upper_pm.skin",
+                "assets/models/players/bones/color.tga",
+                "assets/models/players/bones/head_pm.skin",
+                "assets/models/players/bones/icon_pm.tga",
+                "assets/models/players/bones/lower_pm.skin",
+                "assets/models/players/bones/upper_pm.skin",
+                "assets/models/players/crash/color.tga",
+                "assets/models/players/crash/head_pm.skin",
+                "assets/models/players/crash/icon_pm.tga",
+                "assets/models/players/crash/lower_pm.skin",
+                "assets/models/players/crash/upper_pm.skin",
+                "assets/models/players/doom/color.tga",
+                "assets/models/players/doom/head_pm.skin",
+                "assets/models/players/doom/icon_pm.tga",
+                "assets/models/players/doom/lower_pm.skin",
+                "assets/models/players/doom/upper_pm.skin",
+                "assets/models/players/grunt/color.tga",
+                "assets/models/players/grunt/color_h.tga",
+                "assets/models/players/grunt/head_pm.skin",
+                "assets/models/players/grunt/icon_pm.tga",
+                "assets/models/players/grunt/lower_pm.skin",
+                "assets/models/players/grunt/upper_pm.skin",
+                "assets/models/players/hunter/color.tga",
+                "assets/models/players/hunter/color_h.tga",
+                "assets/models/players/hunter/color_x.tga",
+                "assets/models/players/hunter/head_pm.skin",
+                "assets/models/players/hunter/icon_pm.tga",
+                "assets/models/players/hunter/lower_pm.skin",
+                "assets/models/players/hunter/upper_pm.skin",
+                "assets/models/players/keel/color.tga",
+                "assets/models/players/keel/color_h.tga",
+                "assets/models/players/keel/head_pm.skin",
+                "assets/models/players/keel/icon_pm.tga",
+                "assets/models/players/keel/lower_pm.skin",
+                "assets/models/players/keel/upper_pm.skin",
+                "assets/models/players/klesk/color.tga",
+                "assets/models/players/klesk/color_h.tga",
+                "assets/models/players/klesk/head_pm.skin",
+                "assets/models/players/klesk/icon_pm.tga",
+                "assets/models/players/klesk/lower_pm.skin",
+                "assets/models/players/klesk/upper_pm.skin",
+                "assets/models/players/lucy/color.tga",
+                "assets/models/players/lucy/color_h.tga",
+                "assets/models/players/lucy/head_pm.skin",
+                "assets/models/players/lucy/icon_pm.tga",
+                "assets/models/players/lucy/lower_pm.skin",
+                "assets/models/players/lucy/upper_pm.skin",
+                "assets/models/players/major/color.tga",
+                "assets/models/players/major/color_h.tga",
+                "assets/models/players/major/head_pm.skin",
+                "assets/models/players/major/icon_pm.tga",
+                "assets/models/players/major/lower_pm.skin",
+                "assets/models/players/major/upper_pm.skin",
+                "assets/models/players/mynx/color.tga",
+                "assets/models/players/mynx/color_h.tga",
+                "assets/models/players/mynx/color_x.tga",
+                "assets/models/players/mynx/head_pm.skin",
+                "assets/models/players/mynx/icon_pm.tga",
+                "assets/models/players/mynx/lower_pm.skin",
+                "assets/models/players/mynx/upper_pm.skin",
+                "assets/models/players/orbb/color.tga",
+                "assets/models/players/orbb/color_h.tga",
+                "assets/models/players/orbb/head_pm.skin",
+                "assets/models/players/orbb/icon_pm.tga",
+                "assets/models/players/orbb/lower_pm.skin",
+                "assets/models/players/orbb/upper_pm.skin",
+                "assets/models/players/ranger/color.tga",
+                "assets/models/players/ranger/color_h.tga",
+                "assets/models/players/ranger/head_pm.skin",
+                "assets/models/players/ranger/icon_pm.tga",
+                "assets/models/players/ranger/lower_pm.skin",
+                "assets/models/players/ranger/upper_pm.skin",
+                "assets/models/players/razor/color.tga",
+                "assets/models/players/razor/color_h.tga",
+                "assets/models/players/razor/head_pm.skin",
+                "assets/models/players/razor/icon_pm.tga",
+                "assets/models/players/razor/lower_pm.skin",
+                "assets/models/players/razor/upper_pm.skin",
+                "assets/models/players/sarge/color.tga",
+                "assets/models/players/sarge/head_pm.skin",
+                "assets/models/players/sarge/icon_pm.tga",
+                "assets/models/players/sarge/lower_pm.skin",
+                "assets/models/players/sarge/upper_pm.skin",
+                "assets/models/players/slash/color.tga",
+                "assets/models/players/slash/color_h.tga",
+                "assets/models/players/slash/color_skates.tga",
+                "assets/models/players/slash/head_pm.skin",
+                "assets/models/players/slash/icon_pm.tga",
+                "assets/models/players/slash/lower_pm.skin",
+                "assets/models/players/slash/upper_pm.skin",
+                "assets/models/players/sorlag/color.tga",
+                "assets/models/players/sorlag/head_pm.skin",
+                "assets/models/players/sorlag/icon_pm.tga",
+                "assets/models/players/sorlag/lower_pm.skin",
+                "assets/models/players/sorlag/upper_pm.skin",
+                "assets/models/players/tankjr/color.tga",
+                "assets/models/players/tankjr/head_pm.skin",
+                "assets/models/players/tankjr/icon_pm.tga",
+                "assets/models/players/tankjr/lower_pm.skin",
+                "assets/models/players/tankjr/upper_pm.skin",
+                "assets/models/players/uriel/color.tga",
+                "assets/models/players/uriel/color_h.tga",
+                "assets/models/players/uriel/color_x.tga",
+                "assets/models/players/uriel/head_pm.skin",
+                "assets/models/players/uriel/icon_pm.tga",
+                "assets/models/players/uriel/lower_pm.skin",
+                "assets/models/players/uriel/upper_pm.skin",
+                "assets/models/players/visor/color.tga",
+                "assets/models/players/visor/head_pm.skin",
+                "assets/models/players/visor/icon_pm.tga",
+                "assets/models/players/visor/lower_pm.skin",
+                "assets/models/players/visor/upper_pm.skin",
+                "assets/models/players/xaero/color.tga",
+                "assets/models/players/xaero/color_h.tga",
+                "assets/models/players/xaero/head_pm.skin",
+                "assets/models/players/xaero/icon_pm.tga",
+                "assets/models/players/xaero/lower_pm.skin",
+                "assets/models/players/xaero/upper_pm.skin",
+                "assets/scripts/players.shader",
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_players.c",
+                "code/cgame/cg_servercmds.c",
+                "code/cgame/cg_view.c",
+                "code/game/bg_local.h",
+                "code/game/bg_misc.c",
+                "code/game/bg_public.h"
+              ]
+            }
+          ]
+        },
+        "2017-08-02": {
+          "date": "2017-08-02",
+          "heatScore": 74,
+          "linesChanged": 967,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_marks.c",
+            "code/cgame/cg_playerstate.c",
+            "code/cgame/cg_predict.c",
+            "code/cgame/cg_view.c",
+            "code/game/bg_misc.c",
+            "code/game/bg_pmove.c",
+            "code/game/bg_public.h",
+            "code/game/g_active.c",
+            "code/game/g_client.c",
+            "code/game/g_combat.c",
+            "code/game/g_items.c",
+            "code/game/g_utils.c"
+          ],
+          "commits": [
+            {
+              "hash": "62f995db7c23e9762ce2c26f61f58bd4ee1b905b",
+              "author": "ec-",
+              "date": "2017-08-02T13:57:45.000Z",
+              "message": "Add optimized client-side prediction Locally predict weapon/ammo/armor/health/powerups pickups Fix picked up items appearing for a fraction of second right after pickup Delay item pickup after respawn Filter jump/pain events to avoid duplicates/sound distortion Try to play potentially dropped events Print ping in top-left corner of lagometer, fix \"snc\" label position Code cleanup",
+              "linesAdded": 833,
+              "linesDeleted": 134,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_ents.c",
+                "code/cgame/cg_event.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_marks.c",
+                "code/cgame/cg_playerstate.c",
+                "code/cgame/cg_predict.c",
+                "code/cgame/cg_view.c",
+                "code/game/bg_misc.c",
+                "code/game/bg_pmove.c",
+                "code/game/bg_public.h",
+                "code/game/g_active.c",
+                "code/game/g_client.c",
+                "code/game/g_combat.c",
+                "code/game/g_items.c",
+                "code/game/g_utils.c"
+              ]
+            }
+          ]
+        },
+        "2017-08-01": {
+          "date": "2017-08-01",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_scoreboard.c"
+          ],
+          "commits": [
+            {
+              "hash": "e15b28282ad827d795204da6bdf3e4d8d4d4ee72",
+              "author": "ec-",
+              "date": "2017-08-01T09:55:42.000Z",
+              "message": "Do not display disconnected players on scoreboard",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/cgame/cg_scoreboard.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-08-31": {
+          "date": "2017-08-31",
+          "heatScore": 57,
+          "linesChanged": 705,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/angular-cli.ipynb",
+            "Selenium/facebook data.ipynb",
+            "Selenium/github.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Utilities/git.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "03dbe8761f1d18d7945590d4ab242f69a92b334d",
+              "author": "Brian Cullinan",
+              "date": "2017-08-31T06:21:16.000Z",
+              "message": "no message",
+              "linesAdded": 527,
+              "linesDeleted": 178,
+              "filesChanged": [
+                "Frameworks/angular-cli.ipynb",
+                "Selenium/facebook data.ipynb",
+                "Selenium/github.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Utilities/git.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-26": {
+          "date": "2017-08-26",
+          "heatScore": 20,
+          "linesChanged": 158,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/facebook data.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "62a2e5d373fa0ca0beabd7738cf29d1e944cbc93",
+              "author": "Brian Cullinan",
+              "date": "2017-08-26T07:32:13.000Z",
+              "message": "no message",
+              "linesAdded": 17,
+              "linesDeleted": 141,
+              "filesChanged": [
+                "Selenium/facebook data.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-25": {
+          "date": "2017-08-25",
+          "heatScore": 66,
+          "linesChanged": 848,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/avidbrain.ipynb",
+            "Selenium/facebook data.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Selenium/service auth.ipynb",
+            "Selenium/utilities.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "fb60b3b1a46f8393e01c9b6e0f426eee46bc2357",
+              "author": "Brian Cullinan",
+              "date": "2017-08-25T04:31:05.000Z",
+              "message": "no message",
+              "linesAdded": 542,
+              "linesDeleted": 306,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/avidbrain.ipynb",
+                "Selenium/facebook data.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Selenium/service auth.ipynb",
+                "Selenium/utilities.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-24": {
+          "date": "2017-08-24",
+          "heatScore": 61,
+          "linesChanged": 776,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/Dockerfile",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/avidbrain.ipynb",
+            "Selenium/facebook data.ipynb",
+            "Selenium/webdriver.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "4d8f7229fba5d7e2950595de71b58783287ba113",
+              "author": "Brian Cullinan",
+              "date": "2017-08-24T05:44:08.000Z",
+              "message": "no message",
+              "linesAdded": 171,
+              "linesDeleted": 605,
+              "filesChanged": [
+                "Selenium/Dockerfile",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/avidbrain.ipynb",
+                "Selenium/facebook data.ipynb",
+                "Selenium/webdriver.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-23": {
+          "date": "2017-08-23",
+          "heatScore": 62,
+          "linesChanged": 781,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/facebook data.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "87f3d9fdec8ed862424291cbb93c60a72e568f69",
+              "author": "Brian Cullinan",
+              "date": "2017-08-23T04:13:57.000Z",
+              "message": "no message",
+              "linesAdded": 688,
+              "linesDeleted": 93,
+              "filesChanged": [
+                "Selenium/facebook data.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-22": {
+          "date": "2017-08-22",
+          "heatScore": 15,
+          "linesChanged": 85,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/facebook data.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "253c29bea9cdbd3c08402fb6ce39c827e9fb7c3c",
+              "author": "Brian Cullinan",
+              "date": "2017-08-22T05:25:36.000Z",
+              "message": "no message",
+              "linesAdded": 46,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "Selenium/facebook data.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-21": {
+          "date": "2017-08-21",
+          "heatScore": 41,
+          "linesChanged": 474,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/facebook data.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Selenium/service auth.ipynb",
+            "Selenium/webdriver.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "aabd9610719aff84721868c1358d657440a2da4c",
+              "author": "Brian Cullinan",
+              "date": "2017-08-21T06:16:22.000Z",
+              "message": "no message",
+              "linesAdded": 345,
+              "linesDeleted": 129,
+              "filesChanged": [
+                "Selenium/facebook data.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Selenium/service auth.ipynb",
+                "Selenium/webdriver.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-19": {
+          "date": "2017-08-19",
+          "heatScore": 25,
+          "linesChanged": 235,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/service auth.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "d03b5b43657af42a0342144e134d621d246aaa74",
+              "author": "Brian Cullinan",
+              "date": "2017-08-19T16:53:10.000Z",
+              "message": "no message",
+              "linesAdded": 139,
+              "linesDeleted": 96,
+              "filesChanged": [
+                "Selenium/service auth.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-18": {
+          "date": "2017-08-18",
+          "heatScore": 54,
+          "linesChanged": 672,
+          "commitCount": 1,
+          "filesEdited": [
+            "Docker/docker commands.ipynb",
+            "Selenium/Dockerfile",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Selenium/selenium commands.ipynb",
+            "Utilities/vnc.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c2cd52c8b896c454762b668ece821cf343a8daa3",
+              "author": "Brian Cullinan",
+              "date": "2017-08-18T05:23:24.000Z",
+              "message": "no message",
+              "linesAdded": 316,
+              "linesDeleted": 356,
+              "filesChanged": [
+                "Docker/docker commands.ipynb",
+                "Selenium/Dockerfile",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Selenium/selenium commands.ipynb",
+                "Utilities/vnc.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-17": {
+          "date": "2017-08-17",
+          "heatScore": 45,
+          "linesChanged": 532,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Utilities/file system.ipynb",
+            "build/config.gypi"
+          ],
+          "commits": [
+            {
+              "hash": "048af94cfec1c6ee1cf4d7137b0656a424bb8bbb",
+              "author": "Brian Cullinan",
+              "date": "2017-08-17T06:26:47.000Z",
+              "message": "no message",
+              "linesAdded": 407,
+              "linesDeleted": 125,
+              "filesChanged": [
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Utilities/file system.ipynb",
+                "build/config.gypi"
+              ]
+            }
+          ]
+        },
+        "2017-08-15": {
+          "date": "2017-08-15",
+          "heatScore": 23,
+          "linesChanged": 207,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/linkedin messages.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "dbe05531b94c95b377d3f5f31c206174f55f9e5f",
+              "author": "Brian Cullinan",
+              "date": "2017-08-15T06:15:29.000Z",
+              "message": "no message",
+              "linesAdded": 111,
+              "linesDeleted": 96,
+              "filesChanged": [
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/linkedin messages.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-12": {
+          "date": "2017-08-12",
+          "heatScore": 40,
+          "linesChanged": 457,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/gulp.ipynb",
+            "Marketing/2017 Update.ipynb",
+            "Marketing/ECommerce.ipynb",
+            "Selenium/linkedin messages.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "5b5ecca0efbc25eeb0ab32bc5eea409bf09a0829",
+              "author": "Brian Cullinan",
+              "date": "2017-08-12T18:53:16.000Z",
+              "message": "no message",
+              "linesAdded": 45,
+              "linesDeleted": 412,
+              "filesChanged": [
+                "Frameworks/gulp.ipynb",
+                "Marketing/2017 Update.ipynb",
+                "Marketing/ECommerce.ipynb",
+                "Selenium/linkedin messages.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-11": {
+          "date": "2017-08-11",
+          "heatScore": 100,
+          "linesChanged": 2029,
+          "commitCount": 1,
+          "filesEdited": [
+            "Docker/docker commands.ipynb",
+            "Selenium/Dockerfile",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Selenium/selenium commands.ipynb",
+            "Selenium/webdriver.ipynb",
+            "Utilities/child process.ipynb",
+            "Utilities/levenshtein.ipynb",
+            "Utilities/vnc.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1c404494f3ec93b51330774acf04d4d93f7d01fd",
+              "author": "Brian Cullinan",
+              "date": "2017-08-11T06:55:34.000Z",
+              "message": "Working linkedin scraper.",
+              "linesAdded": 1117,
+              "linesDeleted": 912,
+              "filesChanged": [
+                "Docker/docker commands.ipynb",
+                "Selenium/Dockerfile",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Selenium/selenium commands.ipynb",
+                "Selenium/webdriver.ipynb",
+                "Utilities/child process.ipynb",
+                "Utilities/levenshtein.ipynb",
+                "Utilities/vnc.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-10": {
+          "date": "2017-08-10",
+          "heatScore": 36,
+          "linesChanged": 400,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/linkedin messages.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "fe2d0974d20cd22db27950f70ea466f08ddb5690",
+              "author": "Brian Cullinan",
+              "date": "2017-08-10T00:33:02.000Z",
+              "message": "no message",
+              "linesAdded": 376,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/linkedin messages.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-09": {
+          "date": "2017-08-09",
+          "heatScore": 100,
+          "linesChanged": 1602,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Frameworks/Angular components.ipynb",
+            "Frameworks/build Angular components.ipynb",
+            "Frameworks/display angular.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/google authorize.ipynb",
+            "Selenium/google timeline.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Selenium/service auth.ipynb",
+            "Selenium/webdriver.ipynb",
+            "Utilities/file system.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c94d2ebe096ae9e0bfb65f88a2bc04980ceccd7e",
+              "author": "Brian Cullinan",
+              "date": "2017-08-09T06:08:44.000Z",
+              "message": "working linked in message scraper",
+              "linesAdded": 964,
+              "linesDeleted": 638,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Frameworks/Angular components.ipynb",
+                "Frameworks/build Angular components.ipynb",
+                "Frameworks/display angular.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/google authorize.ipynb",
+                "Selenium/google timeline.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Selenium/service auth.ipynb",
+                "Selenium/webdriver.ipynb",
+                "Utilities/file system.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-08": {
+          "date": "2017-08-08",
+          "heatScore": 18,
+          "linesChanged": 122,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/file system.ipynb",
+            "Utilities/git.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "5320587ba36034129d7f50c72a09681cd219ab98",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-08-08T19:12:03.000Z",
+              "message": "no message",
+              "linesAdded": 59,
+              "linesDeleted": 63,
+              "filesChanged": [
+                "Utilities/file system.ipynb",
+                "Utilities/git.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-07": {
+          "date": "2017-08-07",
+          "heatScore": 39,
+          "linesChanged": 446,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Core/interpret questions.ipynb",
+            "Frameworks/Angular components.ipynb",
+            "Frameworks/build Angular components.ipynb",
+            "Utilities/diff.ipynb",
+            "Utilities/file system.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1d5b8f28fded1740cd49bb9cb12533303d22c9c7",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-08-07T23:26:02.000Z",
+              "message": "no message",
+              "linesAdded": 296,
+              "linesDeleted": 150,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Core/interpret questions.ipynb",
+                "Frameworks/Angular components.ipynb",
+                "Frameworks/build Angular components.ipynb",
+                "Utilities/diff.ipynb",
+                "Utilities/file system.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-05": {
+          "date": "2017-08-05",
+          "heatScore": 72,
+          "linesChanged": 941,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/Angular components.ipynb",
+            "Frameworks/angular render service.ipynb",
+            "Frameworks/build Angular components.ipynb",
+            "Utilities/compress.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "337d07359c4c9c3222ea7a2fe3c7079d7d26817f",
+              "author": "Brian Cullinan",
+              "date": "2017-08-05T06:33:39.000Z",
+              "message": "Working app loader.",
+              "linesAdded": 814,
+              "linesDeleted": 127,
+              "filesChanged": [
+                "Frameworks/Angular components.ipynb",
+                "Frameworks/angular render service.ipynb",
+                "Frameworks/build Angular components.ipynb",
+                "Utilities/compress.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-04": {
+          "date": "2017-08-04",
+          "heatScore": 20,
+          "linesChanged": 163,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Frameworks/build Angular components.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "bc7d5d907b50bd83602d943732a836fefc0f1804",
+              "author": "Brian Cullinan",
+              "date": "2017-08-04T15:56:32.000Z",
+              "message": "no message",
+              "linesAdded": 48,
+              "linesDeleted": 115,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Frameworks/build Angular components.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-03": {
+          "date": "2017-08-03",
+          "heatScore": 100,
+          "linesChanged": 2419,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Core/interpret questions.ipynb",
+            "Frameworks/build Angular components.ipynb",
+            "Frameworks/gulp.ipynb",
+            "Frameworks/jupyter interaction.ipynb",
+            "Selenium/Dockerfile",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/google timeline.ipynb",
+            "Selenium/webdriver.ipynb",
+            "Utilities/child process.ipynb",
+            "Utilities/git.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "698c7b06cddc8f957a42f620f699a66790962f60",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-08-03T22:17:24.000Z",
+              "message": "no message",
+              "linesAdded": 1442,
+              "linesDeleted": 977,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Core/interpret questions.ipynb",
+                "Frameworks/build Angular components.ipynb",
+                "Frameworks/gulp.ipynb",
+                "Frameworks/jupyter interaction.ipynb",
+                "Selenium/Dockerfile",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/google timeline.ipynb",
+                "Selenium/webdriver.ipynb",
+                "Utilities/child process.ipynb",
+                "Utilities/git.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2017-08-02": {
+          "date": "2017-08-02",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/git.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "9de1107e1bc24ce67a81cabe14b2290c7ac29fd5",
+              "author": "Brian Cullinan",
+              "date": "2017-08-02T15:25:54.000Z",
+              "message": "no message",
+              "linesAdded": 4,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "Utilities/git.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-08-01": {
+          "date": "2017-08-01",
+          "heatScore": 25,
+          "linesChanged": 235,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/d3.ipynb",
+            "Utilities/git.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "22f492f5b00b5661f6da1d4d1e752f8194c8c332",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-08-01T21:50:09.000Z",
+              "message": "no message",
+              "linesAdded": 84,
+              "linesDeleted": 151,
+              "filesChanged": [
+                "Frameworks/d3.ipynb",
+                "Utilities/git.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

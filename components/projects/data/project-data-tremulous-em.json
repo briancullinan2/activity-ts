@@ -1,0 +1,37 @@
+{
+  "projectName": "tremulous-em",
+  "localPath": "C:\\Users\\megam\\tremulous-em",
+  "remoteUrl": "git@github.com:AurigaSyno/tremulous-em.git",
+  "lastUpdated": "2026-09-24T03:04:16.435Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2026-07-06": {
+      "date": "2026-07-06",
+      "heatScore": 100,
+      "linesChanged": 22644,
+      "commitCount": 1,
+      "filesEdited": [
+        "Makefile",
+        "docs/index.html",
+        "docs/tremulous.js",
+        "docs/tremulous.wasm"
+      ],
+      "commits": [
+        {
+          "hash": "2935fd6be1e29a05a82b642c97650b87b1f7df72",
+          "author": "Brian Cullinan",
+          "date": "2026-07-06T17:59:15.000Z",
+          "message": "couple of compile fixes",
+          "linesAdded": 22643,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "Makefile",
+            "docs/index.html",
+            "docs/tremulous.js",
+            "docs/tremulous.wasm"
+          ]
+        }
+      ]
+    }
+  }
+}

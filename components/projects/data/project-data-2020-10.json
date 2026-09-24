@@ -1,0 +1,407 @@
+{
+  "yearMonth": "2020-10",
+  "generatedAt": "2026-09-24T02:37:24.712Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2020-10-26": {
+          "date": "2020-10-26",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "assets/icons/icona_rocket.tga",
+            "assets/icons/icont_rocket.tga",
+            "assets/icons/iconw_rocket.tga"
+          ],
+          "commits": [
+            {
+              "hash": "d97c559f65493ad2f6c1e4543f14e8e2c0dbf9e1",
+              "author": "Eugene",
+              "date": "2020-10-26T21:29:26.000Z",
+              "message": "Updated RL icons",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "assets/icons/icona_rocket.tga",
+                "assets/icons/icont_rocket.tga",
+                "assets/icons/iconw_rocket.tga"
+              ]
+            }
+          ]
+        },
+        "2020-10-25": {
+          "date": "2020-10-25",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "assets/models/weaphits/rlboom/rlboom_1.tga",
+            "assets/models/weaphits/rlboom/rlboom_2.tga",
+            "assets/models/weaphits/rlboom/rlboom_5.tga",
+            "assets/models/weaphits/rlboom/rlboom_6.tga",
+            "assets/models/weaphits/rlboom/rlboom_7.tga",
+            "assets/models/weaphits/rlboom/rlboom_8.tga"
+          ],
+          "commits": [
+            {
+              "hash": "237723aae03d6a9ed6b58d238a4f905174df9418",
+              "author": "Eugene",
+              "date": "2020-10-25T21:12:44.000Z",
+              "message": "Updated RL icons",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "assets/models/weaphits/rlboom/rlboom_1.tga",
+                "assets/models/weaphits/rlboom/rlboom_2.tga",
+                "assets/models/weaphits/rlboom/rlboom_5.tga",
+                "assets/models/weaphits/rlboom/rlboom_6.tga",
+                "assets/models/weaphits/rlboom/rlboom_7.tga",
+                "assets/models/weaphits/rlboom/rlboom_8.tga"
+              ]
+            }
+          ]
+        },
+        "2020-10-24": {
+          "date": "2020-10-24",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "assets/icons/icona_rocket.tga",
+            "assets/icons/icont_rocket.tga",
+            "assets/icons/iconw_rocket.tga"
+          ],
+          "commits": [
+            {
+              "hash": "db3d222b6ec7eb739678f3a790ee29b195ac2382",
+              "author": "Eugene",
+              "date": "2020-10-24T21:13:36.000Z",
+              "message": "Updated RL icons",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "assets/icons/icona_rocket.tga",
+                "assets/icons/icont_rocket.tga",
+                "assets/icons/iconw_rocket.tga"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2020-10-26": {
+          "date": "2020-10-26",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "assets/icons/icona_rocket.tga",
+            "assets/icons/icont_rocket.tga",
+            "assets/icons/iconw_rocket.tga"
+          ],
+          "commits": [
+            {
+              "hash": "d97c559f65493ad2f6c1e4543f14e8e2c0dbf9e1",
+              "author": "Eugene",
+              "date": "2020-10-26T21:29:26.000Z",
+              "message": "Updated RL icons",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "assets/icons/icona_rocket.tga",
+                "assets/icons/icont_rocket.tga",
+                "assets/icons/iconw_rocket.tga"
+              ]
+            }
+          ]
+        },
+        "2020-10-25": {
+          "date": "2020-10-25",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "assets/models/weaphits/rlboom/rlboom_1.tga",
+            "assets/models/weaphits/rlboom/rlboom_2.tga",
+            "assets/models/weaphits/rlboom/rlboom_5.tga",
+            "assets/models/weaphits/rlboom/rlboom_6.tga",
+            "assets/models/weaphits/rlboom/rlboom_7.tga",
+            "assets/models/weaphits/rlboom/rlboom_8.tga"
+          ],
+          "commits": [
+            {
+              "hash": "237723aae03d6a9ed6b58d238a4f905174df9418",
+              "author": "Eugene",
+              "date": "2020-10-25T21:12:44.000Z",
+              "message": "Updated RL icons",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "assets/models/weaphits/rlboom/rlboom_1.tga",
+                "assets/models/weaphits/rlboom/rlboom_2.tga",
+                "assets/models/weaphits/rlboom/rlboom_5.tga",
+                "assets/models/weaphits/rlboom/rlboom_6.tga",
+                "assets/models/weaphits/rlboom/rlboom_7.tga",
+                "assets/models/weaphits/rlboom/rlboom_8.tga"
+              ]
+            }
+          ]
+        },
+        "2020-10-24": {
+          "date": "2020-10-24",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "assets/icons/icona_rocket.tga",
+            "assets/icons/icont_rocket.tga",
+            "assets/icons/iconw_rocket.tga"
+          ],
+          "commits": [
+            {
+              "hash": "db3d222b6ec7eb739678f3a790ee29b195ac2382",
+              "author": "Eugene",
+              "date": "2020-10-24T21:13:36.000Z",
+              "message": "Updated RL icons",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "assets/icons/icona_rocket.tga",
+                "assets/icons/icont_rocket.tga",
+                "assets/icons/iconw_rocket.tga"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2020-10-31": {
+          "date": "2020-10-31",
+          "heatScore": 22,
+          "linesChanged": 190,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frontends/edit anywhere.ipynb",
+            "Games/quake 3 commands.ipynb",
+            "Games/quake 3.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "151319dc95791bdc97d0381dc4ad4f28ef1bde58",
+              "author": "megamind",
+              "date": "2020-10-31T14:59:11.000Z",
+              "message": "print out crc codes for the pak containing cgame for checksum spoofing in engine",
+              "linesAdded": 93,
+              "linesDeleted": 97,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frontends/edit anywhere.ipynb",
+                "Games/quake 3 commands.ipynb",
+                "Games/quake 3.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-10-23": {
+          "date": "2020-10-23",
+          "heatScore": 25,
+          "linesChanged": 232,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frontends/edit anywhere.ipynb",
+            "Google/google calendar graphs.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "a0eaa89b33cdd97e6ffd43aa8d05437e00820caa",
+              "author": "megamind",
+              "date": "2020-10-23T17:15:40.000Z",
+              "message": "fix for creating new headers",
+              "linesAdded": 113,
+              "linesDeleted": 119,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frontends/edit anywhere.ipynb",
+                "Google/google calendar graphs.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-10-22": {
+          "date": "2020-10-22",
+          "heatScore": 44,
+          "linesChanged": 520,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/kernels.ipynb",
+            "Frontends/edit anywhere.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "a5b422aee0a707852273e384f867b0ee9e535b70",
+              "author": "megamind",
+              "date": "2020-10-22T21:18:27.000Z",
+              "message": "edit anywhere better tab icons",
+              "linesAdded": 313,
+              "linesDeleted": 207,
+              "filesChanged": [
+                "Core/kernels.ipynb",
+                "Frontends/edit anywhere.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-10-20": {
+          "date": "2020-10-20",
+          "heatScore": 68,
+          "linesChanged": 873,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/data collection.ipynb",
+            "Core/cache.ipynb",
+            "Core/kernels.ipynb",
+            "Frontends/convert spreadsheet.ipynb",
+            "Frontends/edit anywhere.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "99331dcdf1870c07f8c918a813ddae51f2753f73",
+              "author": "megamind",
+              "date": "2020-10-20T07:44:36.000Z",
+              "message": "working folder list for edit anywhere",
+              "linesAdded": 673,
+              "linesDeleted": 200,
+              "filesChanged": [
+                "Analytics/data collection.ipynb",
+                "Core/cache.ipynb",
+                "Core/kernels.ipynb",
+                "Frontends/convert spreadsheet.ipynb",
+                "Frontends/edit anywhere.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2020-10-19": {
+          "date": "2020-10-19",
+          "heatScore": 17,
+          "linesChanged": 114,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/data collection.ipynb",
+            "Frontends/edit anywhere.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e067968baaba094adae2279b3d06f1160446f0e8",
+              "author": "megamind",
+              "date": "2020-10-19T07:25:21.000Z",
+              "message": "working golden layout container",
+              "linesAdded": 100,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "Analytics/data collection.ipynb",
+                "Frontends/edit anywhere.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-10-15": {
+          "date": "2020-10-15",
+          "heatScore": 62,
+          "linesChanged": 782,
+          "commitCount": 1,
+          "filesEdited": [
+            "Algorithms/image magik commands.ipynb",
+            "Analytics/data collection.ipynb",
+            "Core/cache.ipynb",
+            "Databases/git.ipynb",
+            "Games/quake 3.ipynb",
+            "Games/quake3 server connector.ipynb",
+            "Games/quakejs.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "98ff4f23d1a372474bcb7ae7ab6eeab673bfd553",
+              "author": "megamind",
+              "date": "2020-10-15T23:50:18.000Z",
+              "message": "testing script for quakejs master server",
+              "linesAdded": 613,
+              "linesDeleted": 169,
+              "filesChanged": [
+                "Algorithms/image magik commands.ipynb",
+                "Analytics/data collection.ipynb",
+                "Core/cache.ipynb",
+                "Databases/git.ipynb",
+                "Games/quake 3.ipynb",
+                "Games/quake3 server connector.ipynb",
+                "Games/quakejs.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-10-08": {
+          "date": "2020-10-08",
+          "heatScore": 30,
+          "linesChanged": 310,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/intent.ipynb",
+            "Databases/git.ipynb",
+            "Games/quake 3.ipynb",
+            "Google/google calendar data.ipynb",
+            "Google/google scheduling.ipynb",
+            "Readme.md",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "cf1a4082843065045bb610b0e6257f17de3a3e4d",
+              "author": "megamind",
+              "date": "2020-10-08T06:09:09.000Z",
+              "message": "fixes for google calendar bookmarks, new idea for intent language feature merging",
+              "linesAdded": 158,
+              "linesDeleted": 152,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/intent.ipynb",
+                "Databases/git.ipynb",
+                "Games/quake 3.ipynb",
+                "Google/google calendar data.ipynb",
+                "Google/google scheduling.ipynb",
+                "Readme.md",
+                "package.json"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "yearMonth": "2019-05",
+  "generatedAt": "2026-09-24T02:37:24.799Z",
+  "username": "briancullinan2",
+  "projects": {
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-05-31": {
+          "date": "2019-05-31",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c5879a2ad169a8442d2c2d2fcab6dcdb4b01b963",
+              "author": "Brian Cullinan",
+              "date": "2019-05-31T19:52:01.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 19,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-30": {
+          "date": "2019-05-30",
+          "heatScore": 18,
+          "linesChanged": 131,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Marketing/study sauce.ipynb",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "4a9b350594ef08453a02f4aa9bbce0c62e27b12f",
+              "author": "Brian Cullinan",
+              "date": "2019-05-30T19:44:04.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 113,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Marketing/study sauce.ipynb",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-05-29": {
+          "date": "2019-05-29",
+          "heatScore": 22,
+          "linesChanged": 194,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Marketing/study sauce.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f60ae6a7c1582b87217e84cbe398dc9a947fb982",
+              "author": "Brian Cullinan",
+              "date": "2019-05-29T18:09:08.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 122,
+              "linesDeleted": 72,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Marketing/study sauce.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-28": {
+          "date": "2019-05-28",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/study sauce.ipynb",
+            "Utilities/google sheets.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "36980172ffe2ebbed30fc2230697065a8c05273d",
+              "author": "Brian Cullinan",
+              "date": "2019-05-28T23:29:54.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 19,
+              "linesDeleted": 22,
+              "filesChanged": [
+                "Marketing/study sauce.ipynb",
+                "Utilities/google sheets.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-27": {
+          "date": "2019-05-27",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/study sauce.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "424e1be43ec90d4ffbe803897f2455c83171e507",
+              "author": "Brian Cullinan",
+              "date": "2019-05-27T05:23:27.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "Marketing/study sauce.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-26": {
+          "date": "2019-05-26",
+          "heatScore": 23,
+          "linesChanged": 198,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Marketing/study sauce.ipynb",
+            "Utilities/google sheets.ipynb",
+            "Utilities/notebook.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "7ececf51f94ac3837286949d76448ceb710f2622",
+              "author": "Brian Cullinan",
+              "date": "2019-05-26T04:06:46.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 158,
+              "linesDeleted": 40,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Marketing/study sauce.ipynb",
+                "Utilities/google sheets.ipynb",
+                "Utilities/notebook.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-05-23": {
+          "date": "2019-05-23",
+          "heatScore": 13,
+          "linesChanged": 53,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Marketing/study sauce.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "436e34ca394aa9fd48dd40229897d1f4230907ec",
+              "author": "Brian Cullinan",
+              "date": "2019-05-23T21:59:27.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 29,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Marketing/study sauce.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-21": {
+          "date": "2019-05-21",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "b5eb5621041f3f2056b00e94ace261b7f1867e43",
+              "author": "Brian Cullinan",
+              "date": "2019-05-21T17:18:22.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 10,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-20": {
+          "date": "2019-05-20",
+          "heatScore": 18,
+          "linesChanged": 133,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "d1af15e0babece2687db8a35af61b45dcea591d9",
+              "author": "Brian Cullinan",
+              "date": "2019-05-20T05:40:08.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 69,
+              "linesDeleted": 64,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-16": {
+          "date": "2019-05-16",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Utilities/google sheets.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "53b4e936288973731ccb5ed7d06d6e466978a1f0",
+              "author": "Brian Cullinan",
+              "date": "2019-05-16T07:01:16.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 11,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Utilities/google sheets.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-15": {
+          "date": "2019-05-15",
+          "heatScore": 16,
+          "linesChanged": 94,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google storage api.ipynb",
+            "Cloud Services/rpc.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Utilities/notebook.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "8fce63f5ac8369b2fb4596260aaaf3a4a58c1dde",
+              "author": "Brian Cullinan",
+              "date": "2019-05-15T07:16:03.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 64,
+              "linesDeleted": 30,
+              "filesChanged": [
+                "Cloud Services/google storage api.ipynb",
+                "Cloud Services/rpc.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Utilities/notebook.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-14": {
+          "date": "2019-05-14",
+          "heatScore": 27,
+          "linesChanged": 256,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/rpc.ipynb",
+            "Core/import notebook.ipynb",
+            "Selenium/data collection.ipynb",
+            "Selenium/facebook data.ipynb",
+            "Selenium/service auth.ipynb",
+            "Utilities/file system.ipynb",
+            "Utilities/git.ipynb",
+            "Utilities/notebook.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "13afe098bdb436c3e92d9629e91926acb50dc7f3",
+              "author": "Brian Cullinan",
+              "date": "2019-05-14T06:39:12.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 111,
+              "linesDeleted": 145,
+              "filesChanged": [
+                "Cloud Services/rpc.ipynb",
+                "Core/import notebook.ipynb",
+                "Selenium/data collection.ipynb",
+                "Selenium/facebook data.ipynb",
+                "Selenium/service auth.ipynb",
+                "Utilities/file system.ipynb",
+                "Utilities/git.ipynb",
+                "Utilities/notebook.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-13": {
+          "date": "2019-05-13",
+          "heatScore": 17,
+          "linesChanged": 113,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google storage api.ipynb",
+            "Core/interpret questions.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Untitled.ipynb",
+            "Untitled1.ipynb",
+            "Untitled2.ipynb",
+            "Utilities/notebook.ipynb",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "b6a1ad3e8ed731f2e5853e4c11bfe2cf5f41d914",
+              "author": "Brian Cullinan",
+              "date": "2019-05-13T19:28:46.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 46,
+              "linesDeleted": 67,
+              "filesChanged": [
+                "Cloud Services/google storage api.ipynb",
+                "Core/interpret questions.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Untitled.ipynb",
+                "Untitled1.ipynb",
+                "Untitled2.ipynb",
+                "Utilities/notebook.ipynb",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-05-12": {
+          "date": "2019-05-12",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "6d83f748a40aad525d7e2c17b32df18872e8151c",
+              "author": "Brian Cullinan",
+              "date": "2019-05-12T19:24:55.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 41,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-05-11": {
+          "date": "2019-05-11",
+          "heatScore": 100,
+          "linesChanged": 1372,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/resume.ipynb",
+            "Cloud Services/google cloud api.ipynb",
+            "Cloud Services/google storage api.ipynb",
+            "Core/import notebook.ipynb",
+            "Core/interpret questions.ipynb",
+            "Frameworks/d3 dates.ipynb",
+            "Frameworks/d3.ipynb",
+            "Frameworks/twilio.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Utilities/git.ipynb",
+            "Utilities/google calendar graphs.ipynb",
+            "Utilities/google sheets.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "c2bb979c776f0b739d12ff1e62389f16607d2a5c",
+              "author": "Brian Cullinan",
+              "date": "2019-05-11T08:09:45.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 557,
+              "linesDeleted": 815,
+              "filesChanged": [
+                "Analytics/resume.ipynb",
+                "Cloud Services/google cloud api.ipynb",
+                "Cloud Services/google storage api.ipynb",
+                "Core/import notebook.ipynb",
+                "Core/interpret questions.ipynb",
+                "Frameworks/d3 dates.ipynb",
+                "Frameworks/d3.ipynb",
+                "Frameworks/twilio.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Utilities/git.ipynb",
+                "Utilities/google calendar graphs.ipynb",
+                "Utilities/google sheets.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-05-10": {
+          "date": "2019-05-10",
+          "heatScore": 11,
+          "linesChanged": 26,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/git.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "a8c25526478892a07407454e9031dd7721fc6a5c",
+              "author": "Brian Cullinan",
+              "date": "2019-05-10T01:44:25.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 15,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "Utilities/git.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-09": {
+          "date": "2019-05-09",
+          "heatScore": 100,
+          "linesChanged": 3704,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/google authorize.ipynb",
+            "Selenium/utilities.ipynb",
+            "Utilities/google calendar.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "ae502a809c7ef3938cca2ac568caf85854911e08",
+              "author": "Brian Cullinan",
+              "date": "2019-05-09T05:27:49.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 3373,
+              "linesDeleted": 331,
+              "filesChanged": [
+                "Selenium/google authorize.ipynb",
+                "Selenium/utilities.ipynb",
+                "Utilities/google calendar.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-05-08": {
+          "date": "2019-05-08",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "4ed95ea4243847e7081b7a7c88a01ed65e0eaa70",
+              "author": "Brian Cullinan",
+              "date": "2019-05-08T05:36:35.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 7,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-07": {
+          "date": "2019-05-07",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Utilities/google calendar.ipynb",
+            "Utilities/google sheets.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "ed365481d92bf302da341ebc51d6b41781f7283e",
+              "author": "Brian Cullinan",
+              "date": "2019-05-07T18:28:13.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 15,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Utilities/google calendar.ipynb",
+                "Utilities/google sheets.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-05-06": {
+          "date": "2019-05-06",
+          "heatScore": 76,
+          "linesChanged": 999,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/google authorize.ipynb",
+            "Selenium/webdriver.ipynb",
+            "Utilities/google calendar.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "631364cdff7d1b71760ee23bc3a2601c7894944d",
+              "author": "Brian Cullinan",
+              "date": "2019-05-06T05:34:53.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 812,
+              "linesDeleted": 187,
+              "filesChanged": [
+                "Selenium/google authorize.ipynb",
+                "Selenium/webdriver.ipynb",
+                "Utilities/google calendar.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-05-02": {
+          "date": "2019-05-02",
+          "heatScore": 28,
+          "linesChanged": 271,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google cloud api.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Utilities/qr codes.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "ba10d325088b4d8cb0952b81f31fda183351fb3f",
+              "author": "Brian Cullinan",
+              "date": "2019-05-02T17:40:25.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 251,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "Cloud Services/google cloud api.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Utilities/qr codes.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-05-01": {
+          "date": "2019-05-01",
+          "heatScore": 36,
+          "linesChanged": 394,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google cloud api.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Utilities/google search api.ipynb",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "6ba3d1190ee8201959172ba2a0a11d7468c89b5c",
+              "author": "Brian Cullinan",
+              "date": "2019-05-01T00:04:29.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 342,
+              "linesDeleted": 52,
+              "filesChanged": [
+                "Cloud Services/google cloud api.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Utilities/google search api.ipynb",
+                "package.json"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

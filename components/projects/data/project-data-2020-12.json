@@ -1,0 +1,740 @@
+{
+  "yearMonth": "2020-12",
+  "generatedAt": "2026-09-24T02:37:24.783Z",
+  "username": "briancullinan2",
+  "projects": {
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2020-12-31": {
+          "date": "2020-12-31",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "ab67afdfdef6355e82fb8f8e39b4a832877fb927",
+              "author": "Igor Zinken",
+              "date": "2020-12-31T17:21:09.000Z",
+              "message": "Remove non-production dependency",
+              "linesAdded": 0,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2020-12-30": {
+          "date": "2020-12-30",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/ui/zcanvas/layer-sprite.js"
+          ],
+          "commits": [
+            {
+              "hash": "fa9e27d9d514ada8eb166fb71952f3d8230c1f1d",
+              "author": "Igor Zinken",
+              "date": "2020-12-30T21:56:01.000Z",
+              "message": "When closing lasso selection, align to first point",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/components/ui/zcanvas/layer-sprite.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-29": {
+          "date": "2020-12-29",
+          "heatScore": 39,
+          "linesChanged": 435,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/assets/icons/tool-text.svg",
+            "src/components/application-menu/application-menu.vue",
+            "src/components/options-panel/add-layer/add-layer.vue",
+            "src/components/options-panel/add-layer/messages.json",
+            "src/components/options-panel/options-panel.vue",
+            "src/components/options-panel/tool-options-text/messages.json",
+            "src/components/options-panel/tool-options-text/tool-options-text.vue",
+            "src/components/toolbox/messages.json",
+            "src/components/toolbox/toolbox.vue",
+            "src/components/ui/zcanvas/layer-sprite.js",
+            "src/definitions/layer-types.js",
+            "src/definitions/tool-types.js",
+            "src/factories/layer-factory.js",
+            "src/factories/text-factory.js",
+            "src/services/keyboard-service.js",
+            "src/services/render-service.js",
+            "src/store/modules/document-module.js",
+            "src/styles/form.scss",
+            "tests/unit/factories/layer-factory.spec.js",
+            "tests/unit/factories/text-factory.spec.js",
+            "tests/unit/store/modules/document-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "92ac2ead0532e01605dba94951eeed2f7ce223c4",
+              "author": "Igor Zinken",
+              "date": "2020-12-29T21:12:13.000Z",
+              "message": "Added initial text implementation",
+              "linesAdded": 393,
+              "linesDeleted": 42,
+              "filesChanged": [
+                "src/assets/icons/tool-text.svg",
+                "src/components/application-menu/application-menu.vue",
+                "src/components/options-panel/add-layer/add-layer.vue",
+                "src/components/options-panel/add-layer/messages.json",
+                "src/components/options-panel/options-panel.vue",
+                "src/components/options-panel/tool-options-text/messages.json",
+                "src/components/options-panel/tool-options-text/tool-options-text.vue",
+                "src/components/toolbox/messages.json",
+                "src/components/toolbox/toolbox.vue",
+                "src/components/ui/zcanvas/layer-sprite.js",
+                "src/definitions/layer-types.js",
+                "src/definitions/tool-types.js",
+                "src/factories/layer-factory.js",
+                "src/factories/text-factory.js",
+                "src/services/keyboard-service.js",
+                "src/services/render-service.js",
+                "src/store/modules/document-module.js",
+                "src/styles/form.scss",
+                "tests/unit/factories/layer-factory.spec.js",
+                "tests/unit/factories/text-factory.spec.js",
+                "tests/unit/store/modules/document-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-28": {
+          "date": "2020-12-28",
+          "heatScore": 100,
+          "linesChanged": 19144,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "package-lock.json",
+            "package.json",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/components/document-canvas/scrollbars/scrollbars.vue",
+            "src/components/ui/zcanvas/layer-sprite.js",
+            "src/components/ui/zcanvas/scrollpane.js",
+            "src/components/ui/zcanvas/zoomable-canvas.js",
+            "src/services/keyboard-service.js",
+            "src/store/index.js"
+          ],
+          "commits": [
+            {
+              "hash": "1bc68cb8e5b68a22b864847ed56802a8c3796cad",
+              "author": "Igor Zinken",
+              "date": "2020-12-28T20:11:33.000Z",
+              "message": "Implemented viewport on Canvas to drastically improve zoomed in performance",
+              "linesAdded": 526,
+              "linesDeleted": 18618,
+              "filesChanged": [
+                "README.md",
+                "package-lock.json",
+                "package.json",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/components/document-canvas/scrollbars/scrollbars.vue",
+                "src/components/ui/zcanvas/layer-sprite.js",
+                "src/components/ui/zcanvas/scrollpane.js",
+                "src/components/ui/zcanvas/zoomable-canvas.js",
+                "src/services/keyboard-service.js",
+                "src/store/index.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-27": {
+          "date": "2020-12-27",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/services/render-service.js"
+          ],
+          "commits": [
+            {
+              "hash": "e244119f499be8429a43bb72ca92a1b423b4d348",
+              "author": "Igor Zinken",
+              "date": "2020-12-27T12:26:03.000Z",
+              "message": "Make render service noop when there is no layer source",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/services/render-service.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-26": {
+          "date": "2020-12-26",
+          "heatScore": 16,
+          "linesChanged": 93,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/options-panel/components/layers/layers.vue",
+            "src/components/options-panel/components/tool-options-rotate/tool-options-rotate.vue",
+            "src/components/ui/zcanvas/layer-sprite.js",
+            "src/factories/layer-factory.js",
+            "src/factories/sprite-factory.js",
+            "src/mixins/image-to-document-manager.js",
+            "tests/unit/factories/layer-factory.spec.js",
+            "tests/unit/store/modules/document-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "a7daecf4cc9013b8a2c7deb766c702226e38043d",
+              "author": "Igor Zinken",
+              "date": "2020-12-26T19:55:05.000Z",
+              "message": "Refactored layer-sprite and layers so layer-sprite have the responsibility of storing the temporary effected bitmap",
+              "linesAdded": 51,
+              "linesDeleted": 42,
+              "filesChanged": [
+                "src/components/options-panel/components/layers/layers.vue",
+                "src/components/options-panel/components/tool-options-rotate/tool-options-rotate.vue",
+                "src/components/ui/zcanvas/layer-sprite.js",
+                "src/factories/layer-factory.js",
+                "src/factories/sprite-factory.js",
+                "src/mixins/image-to-document-manager.js",
+                "tests/unit/factories/layer-factory.spec.js",
+                "tests/unit/store/modules/document-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-24": {
+          "date": "2020-12-24",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/options-panel/components/dropbox-connector/dropbox-connector.vue",
+            "src/components/options-panel/components/dropbox-connector/messages.json",
+            "src/services/dropbox-service.js"
+          ],
+          "commits": [
+            {
+              "hash": "f42188b537ba1408267e18e212c27079342f73d9",
+              "author": "Igor Zinken",
+              "date": "2020-12-24T12:23:02.000Z",
+              "message": "Fixed issue where Dropbox login would be prevented by popup blocker",
+              "linesAdded": 20,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "src/components/options-panel/components/dropbox-connector/dropbox-connector.vue",
+                "src/components/options-panel/components/dropbox-connector/messages.json",
+                "src/services/dropbox-service.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-23": {
+          "date": "2020-12-23",
+          "heatScore": 20,
+          "linesChanged": 164,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/components/options-panel/components/tool-options-rotate/messages.json",
+            "src/components/options-panel/components/tool-options-rotate/tool-options-rotate.vue",
+            "src/components/options-panel/options-panel.vue",
+            "src/components/toolbox/messages.json",
+            "src/components/toolbox/toolbox.vue",
+            "src/components/ui/zcanvas/layer-sprite.js",
+            "src/definitions/tool-types.js",
+            "src/factories/layer-factory.js",
+            "src/services/keyboard-service.js",
+            "src/utils/image-math.js",
+            "tests/unit/factories/layer-factory.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "31593b9d27c9052d045b3057b60b5f89372f4190",
+              "author": "Igor Zinken",
+              "date": "2020-12-23T19:40:41.000Z",
+              "message": "Added initial layer rotation",
+              "linesAdded": 154,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "README.md",
+                "src/components/options-panel/components/tool-options-rotate/messages.json",
+                "src/components/options-panel/components/tool-options-rotate/tool-options-rotate.vue",
+                "src/components/options-panel/options-panel.vue",
+                "src/components/toolbox/messages.json",
+                "src/components/toolbox/toolbox.vue",
+                "src/components/ui/zcanvas/layer-sprite.js",
+                "src/definitions/tool-types.js",
+                "src/factories/layer-factory.js",
+                "src/services/keyboard-service.js",
+                "src/utils/image-math.js",
+                "tests/unit/factories/layer-factory.spec.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-22": {
+          "date": "2020-12-22",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/components/ui/zcanvas/zoomable-canvas.js"
+          ],
+          "commits": [
+            {
+              "hash": "19862c69957056deb264fbdb9dfb1e921a01cd17",
+              "author": "Igor Zinken",
+              "date": "2020-12-22T20:16:17.000Z",
+              "message": "Solved issue where canvas wouldn't fully clear its contents",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md",
+                "src/components/ui/zcanvas/zoomable-canvas.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-21": {
+          "date": "2020-12-21",
+          "heatScore": 100,
+          "linesChanged": 18944,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "package-lock.json",
+            "package.json",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/components/file-menu/export-image/export-image.vue",
+            "src/components/options-panel/components/layers/layers.vue",
+            "src/components/toolbox/toolbox.vue",
+            "src/components/ui/zcanvas/layer-sprite.js",
+            "src/definitions/tool-types.js",
+            "src/factories/layer-factory.js",
+            "src/services/keyboard-service.js",
+            "src/store/modules/document-module.js",
+            "src/store/modules/tool-module.js",
+            "src/utils/canvas-util.js",
+            "tests/unit/factories/layer-factory.spec.js",
+            "tests/unit/store/modules/tool-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "3aab2938a99c748fd1fa2a782201c5a4cb2459f1",
+              "author": "Igor Zinken",
+              "date": "2020-12-21T20:00:08.000Z",
+              "message": "Masks are now movable. Exported image is now hi-res",
+              "linesAdded": 18837,
+              "linesDeleted": 107,
+              "filesChanged": [
+                "README.md",
+                "package-lock.json",
+                "package.json",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/components/file-menu/export-image/export-image.vue",
+                "src/components/options-panel/components/layers/layers.vue",
+                "src/components/toolbox/toolbox.vue",
+                "src/components/ui/zcanvas/layer-sprite.js",
+                "src/definitions/tool-types.js",
+                "src/factories/layer-factory.js",
+                "src/services/keyboard-service.js",
+                "src/store/modules/document-module.js",
+                "src/store/modules/tool-module.js",
+                "src/utils/canvas-util.js",
+                "tests/unit/factories/layer-factory.spec.js",
+                "tests/unit/store/modules/tool-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-20": {
+          "date": "2020-12-20",
+          "heatScore": 15,
+          "linesChanged": 87,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/components/options-panel/components/layers/layers.vue",
+            "src/components/options-panel/components/layers/messages.json",
+            "src/components/toolbox/toolbox.vue",
+            "src/components/ui/zcanvas/layer-sprite.js",
+            "src/factories/sprite-factory.js",
+            "src/store/modules/document-module.js",
+            "tests/unit/store/modules/document-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "e13e812ebc0e83363fca7cbdcfb8240720f7e035",
+              "author": "Igor Zinken",
+              "date": "2020-12-20T13:47:46.000Z",
+              "message": "Masking now works on a per-layer basis. Masks can be removed from individual layers",
+              "linesAdded": 74,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "README.md",
+                "src/components/options-panel/components/layers/layers.vue",
+                "src/components/options-panel/components/layers/messages.json",
+                "src/components/toolbox/toolbox.vue",
+                "src/components/ui/zcanvas/layer-sprite.js",
+                "src/factories/sprite-factory.js",
+                "src/store/modules/document-module.js",
+                "tests/unit/store/modules/document-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-19": {
+          "date": "2020-12-19",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/definitions/image-types.js"
+          ],
+          "commits": [
+            {
+              "hash": "a41eb6c6271ea4d69bd1ecc6b9cbf55d89467d1e",
+              "author": "Igor Zinken",
+              "date": "2020-12-19T13:47:59.000Z",
+              "message": "Adjust max image size to IE levels",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/definitions/image-types.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-18": {
+          "date": "2020-12-18",
+          "heatScore": 15,
+          "linesChanged": 86,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/options-panel/components/tool-options-brush/tool-options-brush.vue",
+            "src/definitions/tool-types.js",
+            "src/services/keyboard-service.js",
+            "src/store/modules/tool-module.js"
+          ],
+          "commits": [
+            {
+              "hash": "ffb92f00fd9f0422408449a21239578a969b9af5",
+              "author": "Igor Zinken",
+              "date": "2020-12-18T19:08:29.000Z",
+              "message": "Added keyboard shortcuts to switch tools and add new layer",
+              "linesAdded": 59,
+              "linesDeleted": 27,
+              "filesChanged": [
+                "src/components/options-panel/components/tool-options-brush/tool-options-brush.vue",
+                "src/definitions/tool-types.js",
+                "src/services/keyboard-service.js",
+                "src/store/modules/tool-module.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-17": {
+          "date": "2020-12-17",
+          "heatScore": 20,
+          "linesChanged": 156,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/factories/sprite-factory.js",
+            "src/store/modules/document-module.js",
+            "tests/unit/store/modules/document-module.spec.js",
+            "tests/unit/store/store.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "8d18c0aa1f0d8890283e6f9eaaad71bfb86b22bc",
+              "author": "Igor Zinken",
+              "date": "2020-12-17T22:34:10.000Z",
+              "message": "Added unit tests for document save/load",
+              "linesAdded": 124,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "README.md",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/factories/sprite-factory.js",
+                "src/store/modules/document-module.js",
+                "tests/unit/store/modules/document-module.spec.js",
+                "tests/unit/store/store.spec.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-16": {
+          "date": "2020-12-16",
+          "heatScore": 16,
+          "linesChanged": 100,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/components/{dropbox-file-browser/dropbox-file-browser.vue => dropbox-file-selector/dropbox-file-selector.vue}",
+            "src/components/{dropbox-file-browser => dropbox-file-selector}/dropbox-image-preview.vue",
+            "src/components/{dropbox-file-browser => dropbox-file-selector}/messages.json",
+            "src/components/options-panel/components/dropbox-connector/dropbox-connector.vue",
+            "src/components/options-panel/components/file-selector/file-selector.vue",
+            "src/components/options-panel/components/file-selector/messages.json",
+            "src/components/options-panel/messages.json",
+            "src/components/options-panel/options-panel.vue",
+            "src/definitions/modal-windows.js",
+            "src/mixins/image-to-document-manager.js",
+            "src/photomound.vue",
+            "src/store/modules/image-module.js",
+            "tests/unit/store/modules/image-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "687a257238396afb9f261d851fe602514ced85de",
+              "author": "Igor Zinken",
+              "date": "2020-12-16T20:31:01.000Z",
+              "message": "Fixed issue where files imported from Dropbox would not scale appropriately. Cleaned up filenames",
+              "linesAdded": 63,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "README.md",
+                "src/components/{dropbox-file-browser/dropbox-file-browser.vue => dropbox-file-selector/dropbox-file-selector.vue}",
+                "src/components/{dropbox-file-browser => dropbox-file-selector}/dropbox-image-preview.vue",
+                "src/components/{dropbox-file-browser => dropbox-file-selector}/messages.json",
+                "src/components/options-panel/components/dropbox-connector/dropbox-connector.vue",
+                "src/components/options-panel/components/file-selector/file-selector.vue",
+                "src/components/options-panel/components/file-selector/messages.json",
+                "src/components/options-panel/messages.json",
+                "src/components/options-panel/options-panel.vue",
+                "src/definitions/modal-windows.js",
+                "src/mixins/image-to-document-manager.js",
+                "src/photomound.vue",
+                "src/store/modules/image-module.js",
+                "tests/unit/store/modules/image-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-15": {
+          "date": "2020-12-15",
+          "heatScore": 49,
+          "linesChanged": 589,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "package-lock.json",
+            "package.json",
+            "public/login.html",
+            "src/components/dialog-window/dialog-window.vue",
+            "src/components/dropbox-file-browser/dropbox-file-browser.vue",
+            "src/components/dropbox-file-browser/messages.json",
+            "src/components/options-panel/components/dropbox-file-selector/dropbox-file-selector.vue",
+            "src/components/options-panel/components/dropbox-file-selector/messages.json",
+            "src/components/options-panel/components/file-selector/file-selector.vue",
+            "src/components/options-panel/options-panel.vue",
+            "src/definitions/modal-windows.js",
+            "src/mixins/image-to-document-manager.js",
+            "src/photomound.vue",
+            "src/services/dropbox-service.js"
+          ],
+          "commits": [
+            {
+              "hash": "f942e45b1d5c695ccb4d882859dea2d3261fee9b",
+              "author": "Igor Zinken",
+              "date": "2020-12-15T23:16:45.000Z",
+              "message": "Implemented Dropbox login, file browse and file download",
+              "linesAdded": 541,
+              "linesDeleted": 48,
+              "filesChanged": [
+                "README.md",
+                "package-lock.json",
+                "package.json",
+                "public/login.html",
+                "src/components/dialog-window/dialog-window.vue",
+                "src/components/dropbox-file-browser/dropbox-file-browser.vue",
+                "src/components/dropbox-file-browser/messages.json",
+                "src/components/options-panel/components/dropbox-file-selector/dropbox-file-selector.vue",
+                "src/components/options-panel/components/dropbox-file-selector/messages.json",
+                "src/components/options-panel/components/file-selector/file-selector.vue",
+                "src/components/options-panel/options-panel.vue",
+                "src/definitions/modal-windows.js",
+                "src/mixins/image-to-document-manager.js",
+                "src/photomound.vue",
+                "src/services/dropbox-service.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-14": {
+          "date": "2020-12-14",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/document-canvas/document-canvas.vue",
+            "src/photomound.vue"
+          ],
+          "commits": [
+            {
+              "hash": "992f45141eb0f87590fe7ae0f1c5baea88240766",
+              "author": "Igor Zinken",
+              "date": "2020-12-14T20:06:52.000Z",
+              "message": "Slight improvements to main document viewing",
+              "linesAdded": 8,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "src/components/document-canvas/document-canvas.vue",
+                "src/photomound.vue"
+              ]
+            }
+          ]
+        },
+        "2020-12-13": {
+          "date": "2020-12-13",
+          "heatScore": 16,
+          "linesChanged": 101,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/application-menu/application-menu.vue",
+            "src/components/application-menu/messages.json",
+            "src/components/dialog-window/dialog-window.vue",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/messages.json",
+            "src/photomound.vue",
+            "src/services/keyboard-service.js",
+            "src/store/index.js",
+            "src/store/modules/document-module.js",
+            "src/styles/ui.scss"
+          ],
+          "commits": [
+            {
+              "hash": "2cb1d84e2606e0e0865ae159f61e90ee59fb0deb",
+              "author": "Igor Zinken",
+              "date": "2020-12-13T22:18:08.000Z",
+              "message": "Added shortcut and close button in document to close active document. Implemented unified i18n and initial button styles",
+              "linesAdded": 78,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "src/components/application-menu/application-menu.vue",
+                "src/components/application-menu/messages.json",
+                "src/components/dialog-window/dialog-window.vue",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/messages.json",
+                "src/photomound.vue",
+                "src/services/keyboard-service.js",
+                "src/store/index.js",
+                "src/store/modules/document-module.js",
+                "src/styles/ui.scss"
+              ]
+            }
+          ]
+        },
+        "2020-12-12": {
+          "date": "2020-12-12",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/options-panel/components/file-selector/file-selector.vue"
+          ],
+          "commits": [
+            {
+              "hash": "65fb62af3d5e3bfb0e74be60a566b59a02bb7fca",
+              "author": "Igor Zinken",
+              "date": "2020-12-12T18:08:39.000Z",
+              "message": "Fixed bug that occured when loading images into layers when no document was open",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/components/options-panel/components/file-selector/file-selector.vue"
+              ]
+            }
+          ]
+        },
+        "2020-12-11": {
+          "date": "2020-12-11",
+          "heatScore": 16,
+          "linesChanged": 101,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/options-panel/components/file-selector/file-selector.vue",
+            "src/services/file-loader-queue.js"
+          ],
+          "commits": [
+            {
+              "hash": "fba3b0a9ab7df91452107781b49ba7dd8066dc72",
+              "author": "Igor Zinken",
+              "date": "2020-12-11T18:03:45.000Z",
+              "message": "Improved performance of bulk file load by debouncing each subsequent file",
+              "linesAdded": 64,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "src/components/options-panel/components/file-selector/file-selector.vue",
+                "src/services/file-loader-queue.js"
+              ]
+            }
+          ]
+        },
+        "2020-12-10": {
+          "date": "2020-12-10",
+          "heatScore": 27,
+          "linesChanged": 264,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/App.vue",
+            "src/components/canvas/canvas.vue",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/components/file-selector/file-selector.vue",
+            "src/factories/document-factory.js",
+            "src/factories/graphic-factory.js",
+            "src/factories/layer-factory.js",
+            "src/main.js",
+            "src/store/index.js",
+            "src/store/modules/document-module.js",
+            "src/store/modules/image-module.js",
+            "src/utils/memory-util.js",
+            "tests/unit/store/modules/image-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "dcecf2fdc5fad7d91c8cdc3be93ac9323308b072",
+              "author": "Igor Zinken",
+              "date": "2020-12-10T22:20:37.000Z",
+              "message": "Loaded image files now appear on screen",
+              "linesAdded": 199,
+              "linesDeleted": 65,
+              "filesChanged": [
+                "README.md",
+                "src/App.vue",
+                "src/components/canvas/canvas.vue",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/components/file-selector/file-selector.vue",
+                "src/factories/document-factory.js",
+                "src/factories/graphic-factory.js",
+                "src/factories/layer-factory.js",
+                "src/main.js",
+                "src/store/index.js",
+                "src/store/modules/document-module.js",
+                "src/store/modules/image-module.js",
+                "src/utils/memory-util.js",
+                "tests/unit/store/modules/image-module.spec.js"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

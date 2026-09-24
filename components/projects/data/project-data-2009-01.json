@@ -1,0 +1,272 @@
+{
+  "yearMonth": "2009-01",
+  "generatedAt": "2026-09-24T02:37:24.890Z",
+  "username": "briancullinan2",
+  "projects": {
+    "mediaserver": {
+      "projectName": "mediaserver",
+      "localPath": "C:\\Users\\megam\\mediaserver",
+      "remoteUrl": "git@github.com:briancullinan2/mediaserver.git",
+      "lastUpdated": "2026-09-24T02:37:08.908Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2009-01-30": {
+          "date": "2009-01-30",
+          "heatScore": 17,
+          "linesChanged": 114,
+          "commitCount": 1,
+          "filesEdited": [
+            "include/.htaccess",
+            "include/settings.php",
+            "modules/.htaccess",
+            "modules/db_file.php",
+            "plugins/bt.php",
+            "plugins/cron.php",
+            "plugins/encode.php",
+            "plugins/passthru.php",
+            "plugins/select.php",
+            "plugins/zip.php"
+          ],
+          "commits": [
+            {
+              "hash": "0cfe4eb7874a13109e233a0fa1b27a780596a444",
+              "author": "share",
+              "date": "2009-01-30T23:00:58.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@36 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 65,
+              "linesDeleted": 49,
+              "filesChanged": [
+                "include/.htaccess",
+                "include/settings.php",
+                "modules/.htaccess",
+                "modules/db_file.php",
+                "plugins/bt.php",
+                "plugins/cron.php",
+                "plugins/encode.php",
+                "plugins/passthru.php",
+                "plugins/select.php",
+                "plugins/zip.php"
+              ]
+            }
+          ]
+        },
+        "2009-01-28": {
+          "date": "2009-01-28",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "plugins/.htaccess",
+            "plugins/passthru.php",
+            "templates/default/select.html"
+          ],
+          "commits": [
+            {
+              "hash": "7efb04ee04fd7d6207b6471450112ef150bb577c",
+              "author": "share",
+              "date": "2009-01-28T19:56:08.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@34 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 2,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "plugins/.htaccess",
+                "plugins/passthru.php",
+                "templates/default/select.html"
+              ]
+            }
+          ]
+        },
+        "2009-01-26": {
+          "date": "2009-01-26",
+          "heatScore": 15,
+          "linesChanged": 84,
+          "commitCount": 1,
+          "filesEdited": [
+            "plugins/.htaccess",
+            "plugins/passthru.php",
+            "templates/default/select.html"
+          ],
+          "commits": [
+            {
+              "hash": "5b18709905a86cfd9eb0fa4c9d41827019d4bf01",
+              "author": "share",
+              "date": "2009-01-26T21:18:15.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@33 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 60,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "plugins/.htaccess",
+                "plugins/passthru.php",
+                "templates/default/select.html"
+              ]
+            }
+          ]
+        },
+        "2009-01-25": {
+          "date": "2009-01-25",
+          "heatScore": 16,
+          "linesChanged": 90,
+          "commitCount": 1,
+          "filesEdited": [
+            "plugins/.htaccess",
+            "plugins/file.php",
+            "plugins/passthru.php",
+            "templates/default/select.html"
+          ],
+          "commits": [
+            {
+              "hash": "1c592cf1b49bdfe7a258e73f8f1ed370e39559f0",
+              "author": "share",
+              "date": "2009-01-25T05:50:13.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@31 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 78,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "plugins/.htaccess",
+                "plugins/file.php",
+                "plugins/passthru.php",
+                "templates/default/select.html"
+              ]
+            }
+          ]
+        },
+        "2009-01-24": {
+          "date": "2009-01-24",
+          "heatScore": 11,
+          "linesChanged": 29,
+          "commitCount": 1,
+          "filesEdited": [
+            "change_log.txt",
+            "plugins/.htaccess",
+            "plugins/passthru.php",
+            "templates/extjs/js/Player.js",
+            "templates/extjs/player.swf"
+          ],
+          "commits": [
+            {
+              "hash": "f8a8eff03be3bbc152f68609030fd03bef5f696a",
+              "author": "share",
+              "date": "2009-01-24T03:03:12.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@29 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 26,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "change_log.txt",
+                "plugins/.htaccess",
+                "plugins/passthru.php",
+                "templates/extjs/js/Player.js",
+                "templates/extjs/player.swf"
+              ]
+            }
+          ]
+        },
+        "2009-01-23": {
+          "date": "2009-01-23",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [],
+          "commits": [
+            {
+              "hash": "78b6285b2f8cb570395a61d4e452051bf9ab62c0",
+              "author": "share",
+              "date": "2009-01-23T17:19:40.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@28 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": []
+            }
+          ]
+        },
+        "2009-01-03": {
+          "date": "2009-01-03",
+          "heatScore": 32,
+          "linesChanged": 335,
+          "commitCount": 1,
+          "filesEdited": [
+            "templates/extjs/index.html",
+            "templates/extjs/js/FolderView.js",
+            "templates/extjs/js/Portal.js"
+          ],
+          "commits": [
+            {
+              "hash": "6cf33e8ab9ad45d771d93c5c3282d32fe43e2e1c",
+              "author": "share",
+              "date": "2009-01-03T08:34:32.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@26 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 129,
+              "linesDeleted": 206,
+              "filesChanged": [
+                "templates/extjs/index.html",
+                "templates/extjs/js/FolderView.js",
+                "templates/extjs/js/Portal.js"
+              ]
+            }
+          ]
+        },
+        "2009-01-02": {
+          "date": "2009-01-02",
+          "heatScore": 100,
+          "linesChanged": 8003,
+          "commitCount": 1,
+          "filesEdited": [
+            "templates/extjs/livegrid/CHANGELOG",
+            "templates/extjs/livegrid/LICENSE",
+            "templates/extjs/livegrid/README",
+            "templates/extjs/livegrid/build-tools/README",
+            "templates/extjs/livegrid/build-tools/unix/make.sh",
+            "templates/extjs/livegrid/build-tools/windows/make.bat",
+            "templates/extjs/livegrid/build/livegrid-all-debug.js",
+            "templates/extjs/livegrid/build/livegrid-all.js",
+            "templates/extjs/livegrid/build/livegrid-core.js",
+            "templates/extjs/livegrid/build/resources/css/ext-ux-livegrid.css",
+            "templates/extjs/livegrid/build/resources/images/loading.gif",
+            "templates/extjs/livegrid/src/DragZone.js",
+            "templates/extjs/livegrid/src/EditorGridPanel.js",
+            "templates/extjs/livegrid/src/GridPanel.js",
+            "templates/extjs/livegrid/src/GridView.js",
+            "templates/extjs/livegrid/src/JsonReader.js",
+            "templates/extjs/livegrid/src/RowSelectionModel.js",
+            "templates/extjs/livegrid/src/Store.js",
+            "templates/extjs/livegrid/src/Toolbar.js",
+            "templates/extjs/livegrid/src/resources/css/ext-ux-livegrid.css",
+            "templates/extjs/livegrid/src/resources/images/loading.gif"
+          ],
+          "commits": [
+            {
+              "hash": "305026ecc1ee81e2b01ac930951a5fd6aef2de88",
+              "author": "share",
+              "date": "2009-01-02T20:31:49.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@25 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 8003,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "templates/extjs/livegrid/CHANGELOG",
+                "templates/extjs/livegrid/LICENSE",
+                "templates/extjs/livegrid/README",
+                "templates/extjs/livegrid/build-tools/README",
+                "templates/extjs/livegrid/build-tools/unix/make.sh",
+                "templates/extjs/livegrid/build-tools/windows/make.bat",
+                "templates/extjs/livegrid/build/livegrid-all-debug.js",
+                "templates/extjs/livegrid/build/livegrid-all.js",
+                "templates/extjs/livegrid/build/livegrid-core.js",
+                "templates/extjs/livegrid/build/resources/css/ext-ux-livegrid.css",
+                "templates/extjs/livegrid/build/resources/images/loading.gif",
+                "templates/extjs/livegrid/src/DragZone.js",
+                "templates/extjs/livegrid/src/EditorGridPanel.js",
+                "templates/extjs/livegrid/src/GridPanel.js",
+                "templates/extjs/livegrid/src/GridView.js",
+                "templates/extjs/livegrid/src/JsonReader.js",
+                "templates/extjs/livegrid/src/RowSelectionModel.js",
+                "templates/extjs/livegrid/src/Store.js",
+                "templates/extjs/livegrid/src/Toolbar.js",
+                "templates/extjs/livegrid/src/resources/css/ext-ux-livegrid.css",
+                "templates/extjs/livegrid/src/resources/images/loading.gif"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

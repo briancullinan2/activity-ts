@@ -1,0 +1,376 @@
+{
+  "yearMonth": "2019-04",
+  "generatedAt": "2026-09-24T02:37:24.805Z",
+  "username": "briancullinan2",
+  "projects": {
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-04-30": {
+          "date": "2019-04-30",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google cloud api.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1e528f7132a42274cae17e76955b8cba01ce28c1",
+              "author": "Brian Cullinan",
+              "date": "2019-04-30T19:46:50.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 9,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "Cloud Services/google cloud api.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-04-29": {
+          "date": "2019-04-29",
+          "heatScore": 25,
+          "linesChanged": 236,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google cloud api.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "1bd831dd91e9c5671d71be4e79273677fae14129",
+              "author": "Brian Cullinan",
+              "date": "2019-04-29T02:56:38.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 157,
+              "linesDeleted": 79,
+              "filesChanged": [
+                "Cloud Services/google cloud api.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-04-28": {
+          "date": "2019-04-28",
+          "heatScore": 23,
+          "linesChanged": 200,
+          "commitCount": 1,
+          "filesEdited": [
+            ".functions/add-row-data-google-sheet.js",
+            ".functions/get-google-data-sheet.js",
+            ".functions/get-sheet-identifier-from-link.js",
+            ".functions/get-sheet-identifier.spec.js",
+            ".functions/index.js",
+            ".functions/package.json"
+          ],
+          "commits": [
+            {
+              "hash": "5d6a5cdc2f705a5cd191dd444d42ededa8b5c62f",
+              "author": "Brian Cullinan",
+              "date": "2019-04-28T23:51:42.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 0,
+              "linesDeleted": 200,
+              "filesChanged": [
+                ".functions/add-row-data-google-sheet.js",
+                ".functions/get-google-data-sheet.js",
+                ".functions/get-sheet-identifier-from-link.js",
+                ".functions/get-sheet-identifier.spec.js",
+                ".functions/index.js",
+                ".functions/package.json"
+              ]
+            }
+          ]
+        },
+        "2019-04-27": {
+          "date": "2019-04-27",
+          "heatScore": 17,
+          "linesChanged": 105,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google cloud api.ipynb",
+            "Cloud Services/google cloud commands.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "8c59f4508bdf4571694772e0f1e9adcad76e51c1",
+              "author": "Brian Cullinan",
+              "date": "2019-04-27T02:20:17.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 72,
+              "linesDeleted": 33,
+              "filesChanged": [
+                "Cloud Services/google cloud api.ipynb",
+                "Cloud Services/google cloud commands.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-04-26": {
+          "date": "2019-04-26",
+          "heatScore": 19,
+          "linesChanged": 148,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google cloud api.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "845bf1cea9cbedc852db43247f95e8158a4d2623",
+              "author": "Brian Cullinan",
+              "date": "2019-04-26T20:44:57.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 123,
+              "linesDeleted": 25,
+              "filesChanged": [
+                "Cloud Services/google cloud api.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-04-25": {
+          "date": "2019-04-25",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google cloud api.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f06f15180fe883f8d93e46320a12b6c514581347",
+              "author": "Brian Cullinan",
+              "date": "2019-04-25T20:20:17.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 9,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "Cloud Services/google cloud api.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-04-24": {
+          "date": "2019-04-24",
+          "heatScore": 25,
+          "linesChanged": 228,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google cloud api.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c7c5ef25e487a682c6a44c4cc2e233462c2903c1",
+              "author": "Brian Cullinan",
+              "date": "2019-04-24T20:55:57.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 158,
+              "linesDeleted": 70,
+              "filesChanged": [
+                "Cloud Services/google cloud api.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-04-23": {
+          "date": "2019-04-23",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google cloud commands.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "fd903b13d65e6a1f2aedc6da3972783d67a1c177",
+              "author": "Brian Cullinan",
+              "date": "2019-04-23T22:11:14.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 24,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "Cloud Services/google cloud commands.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-04-22": {
+          "date": "2019-04-22",
+          "heatScore": 12,
+          "linesChanged": 34,
+          "commitCount": 1,
+          "filesEdited": [
+            ".functions/index.js",
+            ".functions/package.json",
+            "Marketing/Convert Spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1c81499192646a46a9f5f1f7fea126bc75a93e87",
+              "author": "Brian Cullinan",
+              "date": "2019-04-22T22:57:02.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 32,
+              "linesDeleted": 2,
+              "filesChanged": [
+                ".functions/index.js",
+                ".functions/package.json",
+                "Marketing/Convert Spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-04-21": {
+          "date": "2019-04-21",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google cloud.ipynb",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "ea5ad854592a009981b7dfd377b4346fabe17436",
+              "author": "Brian Cullinan",
+              "date": "2019-04-21T17:26:29.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 5,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "Cloud Services/google cloud.ipynb",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-04-20": {
+          "date": "2019-04-20",
+          "heatScore": 31,
+          "linesChanged": 329,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb",
+            "live-server-middleware.js",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "ace84555ac8c1af40100cc03f6321e37bd0ab71c",
+              "author": "Brian Cullinan",
+              "date": "2019-04-20T19:44:07.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 325,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb",
+                "live-server-middleware.js",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-04-19": {
+          "date": "2019-04-19",
+          "heatScore": 23,
+          "linesChanged": 195,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "79a666215762868820a3a726f28159e623bd950b",
+              "author": "Brian Cullinan",
+              "date": "2019-04-19T23:26:11.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 190,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-04-18": {
+          "date": "2019-04-18",
+          "heatScore": 100,
+          "linesChanged": 19955,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Frameworks/zuora to eloqua.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Utilities/notebook.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "73d7871a587725c38248a76998c7982793f271a2",
+              "author": "Brian Cullinan",
+              "date": "2019-04-18T20:30:37.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 3629,
+              "linesDeleted": 16326,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Frameworks/zuora to eloqua.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Utilities/notebook.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-04-10": {
+          "date": "2019-04-10",
+          "heatScore": 100,
+          "linesChanged": 2064,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/calculations for life.ipynb",
+            "{Frameworks => Cloud Services}/rpc.ipynb",
+            "Frameworks/cached-permissions.json",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/linkedin connections.ipynb",
+            "Selenium/service auth.ipynb",
+            "Utilities/google scheduling.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "acb6f8f3f3afdea124e404b4a294c1581db4f3d0",
+              "author": "Brian Cullinan",
+              "date": "2019-04-10T04:45:03.000Z",
+              "message": "Updated selenium services and added life calculations",
+              "linesAdded": 1310,
+              "linesDeleted": 754,
+              "filesChanged": [
+                "Analytics/calculations for life.ipynb",
+                "{Frameworks => Cloud Services}/rpc.ipynb",
+                "Frameworks/cached-permissions.json",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/linkedin connections.ipynb",
+                "Selenium/service auth.ipynb",
+                "Utilities/google scheduling.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

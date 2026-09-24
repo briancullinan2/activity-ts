@@ -1,0 +1,103 @@
+{
+  "projectName": "miniPaint",
+  "localPath": "C:\\Users\\megam\\miniPaint",
+  "remoteUrl": "git@github.com:viliusle/miniPaint.git",
+  "lastUpdated": "2026-09-24T03:04:02.321Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2026-07-12": {
+      "date": "2026-07-12",
+      "heatScore": 19,
+      "linesChanged": 143,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/js/global-events.js",
+        "src/js/main.js",
+        "src/js/modules/edit/copy.js",
+        "src/js/modules/edit/undo.js",
+        "src/js/modules/file/open.js",
+        "src/js/modules/file/save.js",
+        "src/js/modules/image/auto_adjust.js",
+        "src/js/modules/image/resize.js",
+        "src/js/modules/image/rotate.js",
+        "src/js/modules/image/trim.js",
+        "src/js/modules/layer/duplicate.js",
+        "src/js/modules/tools/translate.js",
+        "src/js/modules/view/grid.js",
+        "src/js/modules/view/ruler.js",
+        "src/js/tools/shape.js"
+      ],
+      "commits": [
+        {
+          "hash": "8a53c4a6738266475201b87724629733ca0e8fbd",
+          "author": "Brian Cullinan",
+          "date": "2026-07-12T14:39:34.000Z",
+          "message": "fix for some commands",
+          "linesAdded": 84,
+          "linesDeleted": 59,
+          "filesChanged": [
+            "src/js/global-events.js",
+            "src/js/main.js",
+            "src/js/modules/edit/copy.js",
+            "src/js/modules/edit/undo.js",
+            "src/js/modules/file/open.js",
+            "src/js/modules/file/save.js",
+            "src/js/modules/image/auto_adjust.js",
+            "src/js/modules/image/resize.js",
+            "src/js/modules/image/rotate.js",
+            "src/js/modules/image/trim.js",
+            "src/js/modules/layer/duplicate.js",
+            "src/js/modules/tools/translate.js",
+            "src/js/modules/view/grid.js",
+            "src/js/modules/view/ruler.js",
+            "src/js/tools/shape.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-11": {
+      "date": "2026-07-11",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/js/main.js"
+      ],
+      "commits": [
+        {
+          "hash": "490bc5ef5d825a6bbf72116ca8056f674807a1bd",
+          "author": "Brian Cullinan",
+          "date": "2026-07-11T04:48:57.000Z",
+          "message": "whoops",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "src/js/main.js"
+          ]
+        }
+      ]
+    },
+    "2026-07-10": {
+      "date": "2026-07-10",
+      "heatScore": 10,
+      "linesChanged": 1,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/js/core/gui/gui-menu.js"
+      ],
+      "commits": [
+        {
+          "hash": "b0e3bf43f3f8f49d15034bbc1e8fec3d55d73a94",
+          "author": "Brian Cullinan",
+          "date": "2026-07-10T19:42:14.000Z",
+          "message": "menu config exposure for plugin",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "src/js/core/gui/gui-menu.js"
+          ]
+        }
+      ]
+    }
+  }
+}

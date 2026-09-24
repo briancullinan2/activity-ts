@@ -1,0 +1,1202 @@
+{
+  "yearMonth": "2023-03",
+  "generatedAt": "2026-09-24T02:37:24.666Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-03-22": {
+          "date": "2023-03-22",
+          "heatScore": 70,
+          "linesChanged": 911,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "e309919056618c17b4f8c04aa2299a195936c1ef",
+              "author": "Brian Cullinan",
+              "date": "2023-03-22T13:48:16.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 13,
+              "linesDeleted": 898,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-03-17": {
+          "date": "2023-03-17",
+          "heatScore": 46,
+          "linesChanged": 551,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "f843ae251f79c8d9332cf30bd2cb0f880b696522",
+              "author": "Brian Cullinan",
+              "date": "2023-03-17T21:47:32.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 313,
+              "linesDeleted": 238,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-03-08": {
+          "date": "2023-03-08",
+          "heatScore": 45,
+          "linesChanged": 533,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "a9b9ed21808d582269f96151c034c65733bfea71",
+              "author": "Brian Cullinan",
+              "date": "2023-03-08T09:34:05.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 532,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-03-01": {
+          "date": "2023-03-01",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ffd320e140b2b260e92f45ade6d2baf985292feb",
+              "author": "Brian Cullinan",
+              "date": "2023-03-01T22:11:16.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-03-31": {
+          "date": "2023-03-31",
+          "heatScore": 73,
+          "linesChanged": 946,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/application-menu/application-menu.vue",
+            "src/components/selection-menu/load-selection/load-selection.vue",
+            "src/components/selection-menu/save-selection/save-selection.vue",
+            "src/components/stroke-selection-window/stroke-selection-window.vue",
+            "src/components/tool-options-panel/tool-options-selection/messages.json",
+            "src/components/tool-options-panel/tool-options-selection/tool-options-selection.vue",
+            "src/definitions/document.ts",
+            "src/factories/document-factory.ts",
+            "src/math/selection-math.ts",
+            "src/rendering/canvas-elements/interaction-pane.ts",
+            "src/rendering/canvas-elements/layer-sprite.ts",
+            "src/rendering/clipping.ts",
+            "src/services/keyboard-service.ts",
+            "src/store/index.ts",
+            "src/store/modules/document-module.ts",
+            "src/utils/document-util.ts",
+            "src/utils/selection-util.ts",
+            "src/utils/shape-util.ts",
+            "tests/unit/factories/document-factory.spec.ts",
+            "tests/unit/math/selection-math.spec.ts",
+            "tests/unit/store/modules/document-module.spec.ts",
+            "tests/unit/utils/selection-util.spec.ts",
+            "tests/unit/utils/shape-util.spec.ts",
+            "tsconfig.check.json"
+          ],
+          "commits": [
+            {
+              "hash": "d2b581d2eedd8bd877b3bb7d259814fbea294f8a",
+              "author": "Igor Zinken",
+              "date": "2023-03-31T20:10:41.000Z",
+              "message": "Active selections now support multiple non-overlapping shapes",
+              "linesAdded": 571,
+              "linesDeleted": 375,
+              "filesChanged": [
+                "src/components/application-menu/application-menu.vue",
+                "src/components/selection-menu/load-selection/load-selection.vue",
+                "src/components/selection-menu/save-selection/save-selection.vue",
+                "src/components/stroke-selection-window/stroke-selection-window.vue",
+                "src/components/tool-options-panel/tool-options-selection/messages.json",
+                "src/components/tool-options-panel/tool-options-selection/tool-options-selection.vue",
+                "src/definitions/document.ts",
+                "src/factories/document-factory.ts",
+                "src/math/selection-math.ts",
+                "src/rendering/canvas-elements/interaction-pane.ts",
+                "src/rendering/canvas-elements/layer-sprite.ts",
+                "src/rendering/clipping.ts",
+                "src/services/keyboard-service.ts",
+                "src/store/index.ts",
+                "src/store/modules/document-module.ts",
+                "src/utils/document-util.ts",
+                "src/utils/selection-util.ts",
+                "src/utils/shape-util.ts",
+                "tests/unit/factories/document-factory.spec.ts",
+                "tests/unit/math/selection-math.spec.ts",
+                "tests/unit/store/modules/document-module.spec.ts",
+                "tests/unit/utils/selection-util.spec.ts",
+                "tests/unit/utils/shape-util.spec.ts",
+                "tsconfig.check.json"
+              ]
+            }
+          ]
+        },
+        "2023-03-30": {
+          "date": "2023-03-30",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/new-layer-window/new-layer-window.vue"
+          ],
+          "commits": [
+            {
+              "hash": "54314e115317f82ab283da7156bebbd8ad4bc206",
+              "author": "Igor Zinken",
+              "date": "2023-03-30T19:52:28.000Z",
+              "message": "Generate default layer name upon opening of new layer window to allow quick additions",
+              "linesAdded": 7,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/components/new-layer-window/new-layer-window.vue"
+              ]
+            }
+          ]
+        },
+        "2023-03-29": {
+          "date": "2023-03-29",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/layer-panel/layer-panel.vue",
+            "src/services/keyboard-service.ts"
+          ],
+          "commits": [
+            {
+              "hash": "82833a456bee7761067ef76dba97881f796d8974",
+              "author": "Igor Zinken",
+              "date": "2023-03-29T20:17:11.000Z",
+              "message": "Fix issue where keyboard shortcuts for changing tools won't work when the layer panel is focused",
+              "linesAdded": 8,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "src/components/layer-panel/layer-panel.vue",
+                "src/services/keyboard-service.ts"
+              ]
+            }
+          ]
+        },
+        "2023-03-23": {
+          "date": "2023-03-23",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/cache/bitmap-cache.ts",
+            "src/services/render-service.ts",
+            "tests/unit/definitions/{file-types.spec.js => file-types.spec.ts}",
+            "tests/unit/definitions/{image-types.spec.js => image-types.spec.ts}",
+            "tests/unit/factories/{brush-factory.spec.js => brush-factory.spec.ts}",
+            "tests/unit/factories/{document-factory.spec.js => document-factory.spec.ts}",
+            "tests/unit/factories/{effects-factory.spec.js => effects-factory.spec.ts}",
+            "tests/unit/factories/{filters-factory.spec.js => filters-factory.spec.ts}",
+            "tests/unit/factories/{history-state-factory.spec.js => history-state-factory.spec.ts}",
+            "tests/unit/factories/{layer-factory.spec.js => layer-factory.spec.ts}",
+            "tests/unit/factories/{sprite-factory.spec.js => sprite-factory.spec.ts}",
+            "tests/unit/factories/{text-factory.spec.js => text-factory.spec.ts}",
+            "tests/unit/math/{image-math.spec.js => image-math.spec.ts}",
+            "tests/unit/math/{point-math.spec.js => point-math.spec.ts}",
+            "tests/unit/math/{rectangle-math.spec.js => rectangle-math.spec.ts}",
+            "tests/unit/math/{selection-math.spec.js => selection-math.spec.ts}",
+            "tests/unit/math/{unit-math.spec.js => unit-math.spec.ts}",
+            "tests/unit/rendering/cache/{bitmap-cache.spec.js => bitmap-cache.spec.ts}",
+            "tests/unit/store/modules/{canvas-module.spec.js => canvas-module.spec.ts}",
+            "tests/unit/store/modules/{document-module.spec.js => document-module.spec.ts}",
+            "tests/unit/store/modules/{history-module.spec.js => history-module.spec.ts}",
+            "tests/unit/store/modules/{image-module.spec.js => image-module.spec.ts}",
+            "tests/unit/store/modules/{preferences-module.spec.js => preferences-module.spec.ts}",
+            "tests/unit/store/modules/{tool-module.spec.js => tool-module.spec.ts}",
+            "tests/unit/store/{store.spec.js => store.spec.ts}",
+            "tests/unit/utils/{document-util.spec.js => document-util.spec.ts}",
+            "tsconfig.app.json",
+            "tsconfig.check.json"
+          ],
+          "commits": [
+            {
+              "hash": "ee6dd0b5569c01eb914d3d6c17f89e879ef48ff0",
+              "author": "Igor Zinken",
+              "date": "2023-03-23T20:24:56.000Z",
+              "message": "Migrated all unit tests to TypeScript",
+              "linesAdded": 17,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "src/rendering/cache/bitmap-cache.ts",
+                "src/services/render-service.ts",
+                "tests/unit/definitions/{file-types.spec.js => file-types.spec.ts}",
+                "tests/unit/definitions/{image-types.spec.js => image-types.spec.ts}",
+                "tests/unit/factories/{brush-factory.spec.js => brush-factory.spec.ts}",
+                "tests/unit/factories/{document-factory.spec.js => document-factory.spec.ts}",
+                "tests/unit/factories/{effects-factory.spec.js => effects-factory.spec.ts}",
+                "tests/unit/factories/{filters-factory.spec.js => filters-factory.spec.ts}",
+                "tests/unit/factories/{history-state-factory.spec.js => history-state-factory.spec.ts}",
+                "tests/unit/factories/{layer-factory.spec.js => layer-factory.spec.ts}",
+                "tests/unit/factories/{sprite-factory.spec.js => sprite-factory.spec.ts}",
+                "tests/unit/factories/{text-factory.spec.js => text-factory.spec.ts}",
+                "tests/unit/math/{image-math.spec.js => image-math.spec.ts}",
+                "tests/unit/math/{point-math.spec.js => point-math.spec.ts}",
+                "tests/unit/math/{rectangle-math.spec.js => rectangle-math.spec.ts}",
+                "tests/unit/math/{selection-math.spec.js => selection-math.spec.ts}",
+                "tests/unit/math/{unit-math.spec.js => unit-math.spec.ts}",
+                "tests/unit/rendering/cache/{bitmap-cache.spec.js => bitmap-cache.spec.ts}",
+                "tests/unit/store/modules/{canvas-module.spec.js => canvas-module.spec.ts}",
+                "tests/unit/store/modules/{document-module.spec.js => document-module.spec.ts}",
+                "tests/unit/store/modules/{history-module.spec.js => history-module.spec.ts}",
+                "tests/unit/store/modules/{image-module.spec.js => image-module.spec.ts}",
+                "tests/unit/store/modules/{preferences-module.spec.js => preferences-module.spec.ts}",
+                "tests/unit/store/modules/{tool-module.spec.js => tool-module.spec.ts}",
+                "tests/unit/store/{store.spec.js => store.spec.ts}",
+                "tests/unit/utils/{document-util.spec.js => document-util.spec.ts}",
+                "tsconfig.app.json",
+                "tsconfig.check.json"
+              ]
+            }
+          ]
+        },
+        "2023-03-22": {
+          "date": "2023-03-22",
+          "heatScore": 15,
+          "linesChanged": 75,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/mixins/{cloud-service-connector.js => cloud-service-connector.ts}",
+            "src/mixins/{image-to-document-manager.js => image-to-document-manager.ts}"
+          ],
+          "commits": [
+            {
+              "hash": "7ce6a75cd11fd73a4369217b9dfcd92d05e363a7",
+              "author": "Igor Zinken",
+              "date": "2023-03-22T21:37:32.000Z",
+              "message": "Migrated mixins to TypeScript",
+              "linesAdded": 44,
+              "linesDeleted": 31,
+              "filesChanged": [
+                "src/mixins/{cloud-service-connector.js => cloud-service-connector.ts}",
+                "src/mixins/{image-to-document-manager.js => image-to-document-manager.ts}"
+              ]
+            }
+          ]
+        },
+        "2023-03-20": {
+          "date": "2023-03-20",
+          "heatScore": 18,
+          "linesChanged": 122,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/definitions/editor.ts",
+            "src/math/{image-math.js => image-math.ts}",
+            "src/math/{line-math.js => line-math.ts}",
+            "src/math/{rectangle-math.js => rectangle-math.ts}",
+            "src/math/{selection-math.js => selection-math.ts}",
+            "src/math/{unit-math.js => unit-math.ts}",
+            "src/rendering/canvas-elements/layer-sprite.ts",
+            "src/utils/document-util.ts"
+          ],
+          "commits": [
+            {
+              "hash": "5e2ab5af38bcd5fd03394070b4e6b1e3ae654a18",
+              "author": "Igor Zinken",
+              "date": "2023-03-20T22:51:19.000Z",
+              "message": "Migrated all math helpers to TypeScript",
+              "linesAdded": 67,
+              "linesDeleted": 55,
+              "filesChanged": [
+                "src/definitions/editor.ts",
+                "src/math/{image-math.js => image-math.ts}",
+                "src/math/{line-math.js => line-math.ts}",
+                "src/math/{rectangle-math.js => rectangle-math.ts}",
+                "src/math/{selection-math.js => selection-math.ts}",
+                "src/math/{unit-math.js => unit-math.ts}",
+                "src/rendering/canvas-elements/layer-sprite.ts",
+                "src/utils/document-util.ts"
+              ]
+            }
+          ]
+        },
+        "2023-03-19": {
+          "date": "2023-03-19",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/store/modules/tool-module.js"
+          ],
+          "commits": [
+            {
+              "hash": "eb6ccef7c9aedc9f011ec65bb39931f3fe1474b0",
+              "author": "Igor Zinken",
+              "date": "2023-03-19T11:53:39.000Z",
+              "message": "Update default threshold for magic wand tool",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "README.md",
+                "src/store/modules/tool-module.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-12": {
+          "date": "2023-03-12",
+          "heatScore": 43,
+          "linesChanged": 496,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/assets/icons/tool-wand.svg",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/components/tool-options-panel/tool-options-panel.vue",
+            "src/components/tool-options-panel/tool-options-wand/messages.json",
+            "src/components/tool-options-panel/tool-options-wand/tool-options-wand.vue",
+            "src/components/toolbox/messages.json",
+            "src/components/toolbox/toolbox.vue",
+            "src/definitions/tool-types.js",
+            "src/math/selection-math.js",
+            "src/rendering/canvas-elements/interaction-pane.js",
+            "src/rendering/fill.js",
+            "src/services/keyboard-service.js",
+            "src/store/modules/document-module.js",
+            "src/store/modules/tool-module.js",
+            "tests/unit/store/modules/document-module.spec.js",
+            "tests/unit/store/modules/tool-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "41593983528a8a6d112c80a702744e1ee2797a3e",
+              "author": "Igor Zinken",
+              "date": "2023-03-12T08:21:35.000Z",
+              "message": "Implement magic wand tool to select areas by color (#20)",
+              "linesAdded": 355,
+              "linesDeleted": 141,
+              "filesChanged": [
+                "src/assets/icons/tool-wand.svg",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/components/tool-options-panel/tool-options-panel.vue",
+                "src/components/tool-options-panel/tool-options-wand/messages.json",
+                "src/components/tool-options-panel/tool-options-wand/tool-options-wand.vue",
+                "src/components/toolbox/messages.json",
+                "src/components/toolbox/toolbox.vue",
+                "src/definitions/tool-types.js",
+                "src/math/selection-math.js",
+                "src/rendering/canvas-elements/interaction-pane.js",
+                "src/rendering/fill.js",
+                "src/services/keyboard-service.js",
+                "src/store/modules/document-module.js",
+                "src/store/modules/tool-module.js",
+                "tests/unit/store/modules/document-module.spec.js",
+                "tests/unit/store/modules/tool-module.spec.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-03-31": {
+          "date": "2023-03-31",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/tomesd.py"
+          ],
+          "commits": [
+            {
+              "hash": "0d972b85e616979c5832a15341972ba861197b4e",
+              "author": "comfyanonymous",
+              "date": "2023-03-31T22:36:18.000Z",
+              "message": "This seems to give better quality in tome.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/ldm/modules/tomesd.py"
+              ]
+            }
+          ]
+        },
+        "2023-03-30": {
+          "date": "2023-03-30",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "e6e30ee7cbf88c731b34f8ef52832920567940b6",
+              "author": "City",
+              "date": "2023-03-30T22:54:35.000Z",
+              "message": "Fallback for node title",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-29": {
+          "date": "2023-03-29",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/style.css"
+          ],
+          "commits": [
+            {
+              "hash": "8a730ed20e51d1bc979fb2d86648b93476261542",
+              "author": "City",
+              "date": "2023-03-29T23:43:31.000Z",
+              "message": "Turn comfy-menu into a sidebar on small screens",
+              "linesAdded": 8,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/style.css"
+              ]
+            }
+          ]
+        },
+        "2023-03-26": {
+          "date": "2023-03-26",
+          "heatScore": 16,
+          "linesChanged": 98,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "d5bf2314b3ee319585a1b2dc6a75cca04c8474f8",
+              "author": "Jairo Correa",
+              "date": "2023-03-26T04:45:40.000Z",
+              "message": "Mute nodes and shortcuts in README",
+              "linesAdded": 96,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "README.md",
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-28": {
+          "date": "2023-03-28",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js",
+            "web/scripts/ui.js"
+          ],
+          "commits": [
+            {
+              "hash": "f13c0cefaa2dce1b777b6b9257fae4072676481c",
+              "author": "comfyanonymous",
+              "date": "2023-03-28T20:48:47.000Z",
+              "message": "Merge branch 'clean-current-state' of https://github.com/FaridSafi/ComfyUI",
+              "linesAdded": 13,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/app.js",
+                "web/scripts/ui.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-27": {
+          "date": "2023-03-27",
+          "heatScore": 21,
+          "linesChanged": 172,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py",
+            "execution.py",
+            "nodes.py",
+            "server.py",
+            "web/scripts/api.js",
+            "web/scripts/app.js",
+            "web/scripts/ui.js"
+          ],
+          "commits": [
+            {
+              "hash": "2d046f85e8a77b21101fc5a7f440cc808b9f7c46",
+              "author": "pythongosssss",
+              "date": "2023-03-27T19:20:08.000Z",
+              "message": "Merge remote-tracking branch 'origin/master' into menu-save-and-anchor",
+              "linesAdded": 161,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "comfy/model_management.py",
+                "execution.py",
+                "nodes.py",
+                "server.py",
+                "web/scripts/api.js",
+                "web/scripts/app.js",
+                "web/scripts/ui.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-25": {
+          "date": "2023-03-25",
+          "heatScore": 14,
+          "linesChanged": 69,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/ui.js",
+            "web/style.css"
+          ],
+          "commits": [
+            {
+              "hash": "a5c78a5796b8b66740ed338d697289f49cd4d141",
+              "author": "Jairo Correa",
+              "date": "2023-03-25T23:23:46.000Z",
+              "message": "Draggable menu",
+              "linesAdded": 69,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/scripts/ui.js",
+                "web/style.css"
+              ]
+            }
+          ]
+        },
+        "2023-03-24": {
+          "date": "2023-03-24",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/index.html",
+            "web/lib/litegraph.core.js"
+          ],
+          "commits": [
+            {
+              "hash": "5c03b2f31e2ca3a08ad8c3c45429554d7af546c5",
+              "author": "comfyanonymous",
+              "date": "2023-03-24T22:23:37.000Z",
+              "message": "Merge branch 'mobile-support' of https://github.com/Zentropivity/ComfyUI",
+              "linesAdded": 5,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "web/index.html",
+                "web/lib/litegraph.core.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-23": {
+          "date": "2023-03-23",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "bb0017673199890cd47f2ba5cd7e8272b6b554b5",
+              "author": "pythongosssss",
+              "date": "2023-03-23T21:43:51.000Z",
+              "message": "Remove debugger",
+              "linesAdded": 0,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-22": {
+          "date": "2023-03-22",
+          "heatScore": 16,
+          "linesChanged": 103,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "a8aa623aaf6eef30088347f9ac09704b95dc4ad7",
+              "author": "comfyanonymous",
+              "date": "2023-03-22T18:56:54.000Z",
+              "message": "Merge branch 'calc-sizes-on-draw' of https://github.com/pythongosssss/ComfyUI",
+              "linesAdded": 54,
+              "linesDeleted": 49,
+              "filesChanged": [
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-21": {
+          "date": "2023-03-21",
+          "heatScore": 15,
+          "linesChanged": 79,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "a3ba90d237eee1c094c10785b232deb0a7b4140c",
+              "author": "comfyanonymous",
+              "date": "2023-03-21T21:46:23.000Z",
+              "message": "Merge branch 'multi-multiline-text' of https://github.com/pythongosssss/ComfyUI",
+              "linesAdded": 73,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-20": {
+          "date": "2023-03-20",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py",
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "e85fcb822b342a9743b5c5c8e67511ea8dccda3f",
+              "author": "comfyanonymous",
+              "date": "2023-03-20T18:55:28.000Z",
+              "message": "Small fix.",
+              "linesAdded": 6,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "nodes.py",
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-19": {
+          "date": "2023-03-19",
+          "heatScore": 23,
+          "linesChanged": 206,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/windows_release.yml",
+            ".github/workflows/windows_release_cu118.yml"
+          ],
+          "commits": [
+            {
+              "hash": "bf9c17a975234f03b3c6d23afa17037cba438942",
+              "author": "comfyanonymous",
+              "date": "2023-03-19T21:41:27.000Z",
+              "message": "No longer needed.",
+              "linesAdded": 0,
+              "linesDeleted": 206,
+              "filesChanged": [
+                ".github/workflows/windows_release.yml",
+                ".github/workflows/windows_release_cu118.yml"
+              ]
+            }
+          ]
+        },
+        "2023-03-18": {
+          "date": "2023-03-18",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "5fa514fa512f321574e7385097345c05198972e9",
+              "author": "m957ymj75urz",
+              "date": "2023-03-18T19:13:25.000Z",
+              "message": "rollback urlparams",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-17": {
+          "date": "2023-03-17",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "folder_paths.py"
+          ],
+          "commits": [
+            {
+              "hash": "80af43dba64a229c80c1f7801235dee05d596812",
+              "author": "comfyanonymous",
+              "date": "2023-03-17T23:02:37.000Z",
+              "message": "Switch to sorted set for path.",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "folder_paths.py"
+              ]
+            }
+          ]
+        },
+        "2023-03-16": {
+          "date": "2023-03-16",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "51bbbf8d642787a6b78c511525972ce028b09cb0",
+              "author": "comfyanonymous",
+              "date": "2023-03-16T23:45:56.000Z",
+              "message": "Switch the build link in the README to the cu118 pytorch 2.0 build.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2023-03-15": {
+          "date": "2023-03-15",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "d834eed7d0f46b449bbe6a6886b85b54382ab175",
+              "author": "comfyanonymous",
+              "date": "2023-03-15T21:58:13.000Z",
+              "message": "Fix bug when applying controlnet to negative prompt.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-03-14": {
+          "date": "2023-03-14",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            ".ci/nightly/update_windows/ONLY_RUN_THIS_IF_YOU_HAVE_TO/update_comfyui_and_python_dependencies.bat",
+            ".ci/nightly/update_windows/update_all.bat",
+            ".ci/nightly/update_windows/{update_comfyui_only.bat => update_comfyui.bat}",
+            ".ci/nightly/windows_base_files/README_VERY_IMPORTANT.txt",
+            ".ci/setup_windows_zip.ps1",
+            ".ci/setup_windows_zip_nightly_pytorch.ps1",
+            ".ci/update_windows/ONLY_RUN_THIS_IF_YOU_HAVE_TO/update_comfyui_and_python_dependencies.bat",
+            ".ci/update_windows/update_all.bat",
+            ".ci/update_windows/{update_comfyui_only.bat => update_comfyui.bat}",
+            ".ci/windows_base_files/README_VERY_IMPORTANT.txt",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "6d44cf74e39d510b22e427d42a0975d4c9f2b1de",
+              "author": "comfyanonymous",
+              "date": "2023-03-14T23:08:23.000Z",
+              "message": "Make it more clear the recommended way to update the standalone build.",
+              "linesAdded": 20,
+              "linesDeleted": 17,
+              "filesChanged": [
+                ".ci/nightly/update_windows/ONLY_RUN_THIS_IF_YOU_HAVE_TO/update_comfyui_and_python_dependencies.bat",
+                ".ci/nightly/update_windows/update_all.bat",
+                ".ci/nightly/update_windows/{update_comfyui_only.bat => update_comfyui.bat}",
+                ".ci/nightly/windows_base_files/README_VERY_IMPORTANT.txt",
+                ".ci/setup_windows_zip.ps1",
+                ".ci/setup_windows_zip_nightly_pytorch.ps1",
+                ".ci/update_windows/ONLY_RUN_THIS_IF_YOU_HAVE_TO/update_comfyui_and_python_dependencies.bat",
+                ".ci/update_windows/update_all.bat",
+                ".ci/update_windows/{update_comfyui_only.bat => update_comfyui.bat}",
+                ".ci/windows_base_files/README_VERY_IMPORTANT.txt",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-03-13": {
+          "date": "2023-03-13",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/rerouteNode.js"
+          ],
+          "commits": [
+            {
+              "hash": "97f3c23036870211c73ab0607a55a9aea7e12aa5",
+              "author": "pythongosssss",
+              "date": "2023-03-13T22:11:09.000Z",
+              "message": "Fix node link colors",
+              "linesAdded": 10,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "web/extensions/core/rerouteNode.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-12": {
+          "date": "2023-03-12",
+          "heatScore": 29,
+          "linesChanged": 288,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py",
+            "web/scripts/api.js",
+            "web/scripts/app.js",
+            "web/scripts/pnginfo.js"
+          ],
+          "commits": [
+            {
+              "hash": "85989c74e5896bee7bdf92d8d40c65636f2eaa83",
+              "author": "pythongosssss",
+              "date": "2023-03-12T21:36:42.000Z",
+              "message": "Updated a1111 pnginfo importer, supports:  - model name, other basic settings  - clip skip  - hr upscale  - loras  - embeddings",
+              "linesAdded": 285,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "server.py",
+                "web/scripts/api.js",
+                "web/scripts/app.js",
+                "web/scripts/pnginfo.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-11": {
+          "date": "2023-03-11",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_upscale_model.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "c8f1acc4ebda02b63a454a63d359035dc50d4a66",
+              "author": "comfyanonymous",
+              "date": "2023-03-11T23:10:36.000Z",
+              "message": "Put image upscaling nodes in image/upscaling category.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy_extras/nodes_upscale_model.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-03-10": {
+          "date": "2023-03-10",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "44294a446e960835a12db4d906a2b6465e3e15b3",
+              "author": "comfyanonymous",
+              "date": "2023-03-10T19:27:37.000Z",
+              "message": "Link to lora example.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2023-03-09": {
+          "date": "2023-03-09",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "d0b195c7d02856da2f986e240f47175015fae016",
+              "author": "pythongosssss",
+              "date": "2023-03-09T19:38:43.000Z",
+              "message": "Changed to use etag cache for js and css",
+              "linesAdded": 9,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-03-08": {
+          "date": "2023-03-08",
+          "heatScore": 19,
+          "linesChanged": 137,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            "nodes.py",
+            "server.py",
+            "web/extensions/core/uploadImage.js",
+            "web/scripts/app.js",
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "4a326a25482ddd2479d0fdf895f6ab4d060f0243",
+              "author": "pythongosssss",
+              "date": "2023-03-08T22:07:44.000Z",
+              "message": "Added UploadImage+Mask nodes",
+              "linesAdded": 132,
+              "linesDeleted": 5,
+              "filesChanged": [
+                ".gitignore",
+                "nodes.py",
+                "server.py",
+                "web/extensions/core/uploadImage.js",
+                "web/scripts/app.js",
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2023-03-07": {
+          "date": "2023-03-07",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "19415c3ace6effa52e41b5e2673ca37764d9ce54",
+              "author": "comfyanonymous",
+              "date": "2023-03-07T16:00:35.000Z",
+              "message": "Relative imports to test something.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-03-06": {
+          "date": "2023-03-06",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "0a0c769d6da9202dd98addf21803efe2ff8daf46",
+              "author": "comfyanonymous",
+              "date": "2023-03-06T19:41:42.000Z",
+              "message": "Try to fix import issue.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-03-05": {
+          "date": "2023-03-05",
+          "heatScore": 19,
+          "linesChanged": 148,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "comfy_extras/clip_vision.py",
+            "models/clip_vision/put_clip_vision_models_here",
+            "models/style_models/put_t2i_style_model_here",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "47acb3d73e7df2a474598278ffe5a666ee4686cf",
+              "author": "comfyanonymous",
+              "date": "2023-03-05T23:39:25.000Z",
+              "message": "Implement support for t2i style model.",
+              "linesAdded": 143,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy/sd.py",
+                "comfy_extras/clip_vision.py",
+                "models/clip_vision/put_clip_vision_models_here",
+                "models/style_models/put_t2i_style_model_here",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-03-04": {
+          "date": "2023-03-04",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "notebooks/comfyui_colab.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c2fa2a18d27b4febdc4d6955801897d026215a33",
+              "author": "comfyanonymous",
+              "date": "2023-03-04T13:46:39.000Z",
+              "message": "Update readme with link to matrix space.",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "README.md",
+                "notebooks/comfyui_colab.ipynb"
+              ]
+            }
+          ]
+        },
+        "2023-03-03": {
+          "date": "2023-03-03",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "16130c754671e25c94cd6a16c422b0bbae6d9e4e",
+              "author": "comfyanonymous",
+              "date": "2023-03-03T23:58:22.000Z",
+              "message": "Add support for new colour T2I adapter model.",
+              "linesAdded": 11,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-03-02": {
+          "date": "2023-03-02",
+          "heatScore": 13,
+          "linesChanged": 56,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/attention.py"
+          ],
+          "commits": [
+            {
+              "hash": "1a612e1c74ecb845350bbeab7554992e9f2c175c",
+              "author": "comfyanonymous",
+              "date": "2023-03-02T22:01:20.000Z",
+              "message": "Add some pytorch scaled_dot_product_attention code for testing.",
+              "linesAdded": 53,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/ldm/modules/attention.py"
+              ]
+            }
+          ]
+        },
+        "2023-03-01": {
+          "date": "2023-03-01",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/comfyui_colab.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1e2c4df972792da270b73f6a9aadf4d2a9b45508",
+              "author": "comfyanonymous",
+              "date": "2023-03-01T15:53:18.000Z",
+              "message": "Add a print to colab.",
+              "linesAdded": 4,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "notebooks/comfyui_colab.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

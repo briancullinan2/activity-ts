@@ -1,0 +1,908 @@
+{
+  "yearMonth": "2009-03",
+  "generatedAt": "2026-09-24T02:37:24.875Z",
+  "username": "briancullinan2",
+  "projects": {
+    "mediaserver": {
+      "projectName": "mediaserver",
+      "localPath": "C:\\Users\\megam\\mediaserver",
+      "remoteUrl": "git@github.com:briancullinan2/mediaserver.git",
+      "lastUpdated": "2026-09-24T02:37:08.908Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2009-03-31": {
+          "date": "2009-03-31",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "templates/live/images/headerBG_24_~HeaderGradientImageType~.png"
+          ],
+          "commits": [
+            {
+              "hash": "709a39a80de49ed2c12c4f35ad3f5841a890affa",
+              "author": "share",
+              "date": "2009-03-31T23:28:59.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@170 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "templates/live/images/headerBG_24_~HeaderGradientImageType~.png"
+              ]
+            }
+          ]
+        },
+        "2009-03-30": {
+          "date": "2009-03-30",
+          "heatScore": 45,
+          "linesChanged": 527,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "REQUIREMENTS.TXT",
+            "TODO.TXT",
+            "admin/alias.php",
+            "admin/install.php",
+            "modules/db_alias.php",
+            "modules/db_amazon.php",
+            "modules/db_code.php",
+            "modules/db_file.php",
+            "modules/db_playlist.php",
+            "modules/db_watch_list.php",
+            "plugins/cron.php",
+            "plugins/search.php",
+            "plugins/select.php",
+            "templates/default/search.html",
+            "templates/live/carat.gif",
+            "templates/live/config.php",
+            "templates/live/live.css",
+            "templates/live/query.html"
+          ],
+          "commits": [
+            {
+              "hash": "2269de95086cfa13c16e2438e2e2fee9865b098a",
+              "author": "share",
+              "date": "2009-03-30T05:25:33.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@163 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 467,
+              "linesDeleted": 60,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "REQUIREMENTS.TXT",
+                "TODO.TXT",
+                "admin/alias.php",
+                "admin/install.php",
+                "modules/db_alias.php",
+                "modules/db_amazon.php",
+                "modules/db_code.php",
+                "modules/db_file.php",
+                "modules/db_playlist.php",
+                "modules/db_watch_list.php",
+                "plugins/cron.php",
+                "plugins/search.php",
+                "plugins/select.php",
+                "templates/default/search.html",
+                "templates/live/carat.gif",
+                "templates/live/config.php",
+                "templates/live/live.css",
+                "templates/live/query.html"
+              ]
+            }
+          ]
+        },
+        "2009-03-29": {
+          "date": "2009-03-29",
+          "heatScore": 100,
+          "linesChanged": 3046,
+          "commitCount": 1,
+          "filesEdited": [
+            "include/AmazonProduct.class.php",
+            "include/AmazonSearchEngine.class.php",
+            "include/common.php",
+            "include/getid3/getid3.php",
+            "include/mysql.php",
+            "include/settings.nix.php",
+            "include/settings.win.php",
+            "include/sql.php"
+          ],
+          "commits": [
+            {
+              "hash": "487ade67c1ad160eeb849acff06af643d3f76b6d",
+              "author": "share",
+              "date": "2009-03-29T18:38:30.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@162 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 1467,
+              "linesDeleted": 1579,
+              "filesChanged": [
+                "include/AmazonProduct.class.php",
+                "include/AmazonSearchEngine.class.php",
+                "include/common.php",
+                "include/getid3/getid3.php",
+                "include/mysql.php",
+                "include/settings.nix.php",
+                "include/settings.win.php",
+                "include/sql.php"
+              ]
+            }
+          ]
+        },
+        "2009-03-27": {
+          "date": "2009-03-27",
+          "heatScore": 100,
+          "linesChanged": 21338,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "include/common.php",
+            "include/compatibility.php",
+            "include/highlighter/Highlighter.php",
+            "include/highlighter/Highlighter/ABAP.php",
+            "include/highlighter/Highlighter/CPP.php",
+            "include/highlighter/Highlighter/CSS.php",
+            "include/highlighter/Highlighter/DIFF.php",
+            "include/highlighter/Highlighter/DTD.php",
+            "include/highlighter/Highlighter/Generator.php",
+            "include/highlighter/Highlighter/HTML.php",
+            "include/highlighter/Highlighter/JAVA.php",
+            "include/highlighter/Highlighter/JAVASCRIPT.php",
+            "include/highlighter/Highlighter/MYSQL.php",
+            "include/highlighter/Highlighter/PERL.php",
+            "include/highlighter/Highlighter/PHP.php",
+            "include/highlighter/Highlighter/PYTHON.php",
+            "include/highlighter/Highlighter/RUBY.php",
+            "include/highlighter/Highlighter/Renderer/Array.php",
+            "include/highlighter/Highlighter/Renderer/BB.php",
+            "include/highlighter/Highlighter/Renderer/Console.php",
+            "include/highlighter/Highlighter/Renderer/Html.php",
+            "include/highlighter/Highlighter/Renderer/HtmlTags.php",
+            "include/highlighter/Highlighter/Renderer/JSON.php",
+            "include/highlighter/Highlighter/Renderer/XML.php",
+            "include/highlighter/Highlighter/SH.php",
+            "include/highlighter/Highlighter/SQL.php",
+            "include/highlighter/Highlighter/VBSCRIPT.php",
+            "include/highlighter/Highlighter/XML.php",
+            "include/highlighter/README",
+            "include/highlighter/generate",
+            "include/sql.php",
+            "modules/db_alias.php",
+            "modules/db_amazon.php",
+            "modules/db_archive.php",
+            "modules/db_audio.php",
+            "modules/db_code.php",
+            "modules/db_diskimage.php",
+            "modules/db_file.php",
+            "modules/db_genres.php",
+            "modules/db_ids.php",
+            "modules/db_image.php",
+            "modules/db_image_browser.php",
+            "modules/db_movies.php",
+            "modules/db_playlist.php",
+            "modules/db_video.php",
+            "modules/db_watch.php",
+            "modules/db_watch_list.php",
+            "modules/fs_archive.php",
+            "modules/fs_audio.php",
+            "modules/fs_diskimage.php",
+            "modules/fs_file.php",
+            "modules/fs_image.php",
+            "modules/fs_video.php",
+            "plugins/archive.php",
+            "plugins/bt.php",
+            "plugins/convert.php",
+            "plugins/encode.php",
+            "plugins/file.php",
+            "plugins/list.php",
+            "plugins/search.php",
+            "plugins/select.php",
+            "plugins/zip.php",
+            "templates/default/css/default.css",
+            "templates/default/css/hilight.css",
+            "templates/default/css/hilight_css.css",
+            "templates/default/css/hilight_html.css",
+            "templates/default/css/hilight_java.css",
+            "templates/default/css/hilight_php.css",
+            "templates/default/select.html"
+          ],
+          "commits": [
+            {
+              "hash": "193b30aedeb5f2c8065e2ba18706c241aad8dd03",
+              "author": "share",
+              "date": "2009-03-27T22:45:17.000Z",
+              "message": "status: working, new install in progress",
+              "linesAdded": 11173,
+              "linesDeleted": 10165,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "include/common.php",
+                "include/compatibility.php",
+                "include/highlighter/Highlighter.php",
+                "include/highlighter/Highlighter/ABAP.php",
+                "include/highlighter/Highlighter/CPP.php",
+                "include/highlighter/Highlighter/CSS.php",
+                "include/highlighter/Highlighter/DIFF.php",
+                "include/highlighter/Highlighter/DTD.php",
+                "include/highlighter/Highlighter/Generator.php",
+                "include/highlighter/Highlighter/HTML.php",
+                "include/highlighter/Highlighter/JAVA.php",
+                "include/highlighter/Highlighter/JAVASCRIPT.php",
+                "include/highlighter/Highlighter/MYSQL.php",
+                "include/highlighter/Highlighter/PERL.php",
+                "include/highlighter/Highlighter/PHP.php",
+                "include/highlighter/Highlighter/PYTHON.php",
+                "include/highlighter/Highlighter/RUBY.php",
+                "include/highlighter/Highlighter/Renderer/Array.php",
+                "include/highlighter/Highlighter/Renderer/BB.php",
+                "include/highlighter/Highlighter/Renderer/Console.php",
+                "include/highlighter/Highlighter/Renderer/Html.php",
+                "include/highlighter/Highlighter/Renderer/HtmlTags.php",
+                "include/highlighter/Highlighter/Renderer/JSON.php",
+                "include/highlighter/Highlighter/Renderer/XML.php",
+                "include/highlighter/Highlighter/SH.php",
+                "include/highlighter/Highlighter/SQL.php",
+                "include/highlighter/Highlighter/VBSCRIPT.php",
+                "include/highlighter/Highlighter/XML.php",
+                "include/highlighter/README",
+                "include/highlighter/generate",
+                "include/sql.php",
+                "modules/db_alias.php",
+                "modules/db_amazon.php",
+                "modules/db_archive.php",
+                "modules/db_audio.php",
+                "modules/db_code.php",
+                "modules/db_diskimage.php",
+                "modules/db_file.php",
+                "modules/db_genres.php",
+                "modules/db_ids.php",
+                "modules/db_image.php",
+                "modules/db_image_browser.php",
+                "modules/db_movies.php",
+                "modules/db_playlist.php",
+                "modules/db_video.php",
+                "modules/db_watch.php",
+                "modules/db_watch_list.php",
+                "modules/fs_archive.php",
+                "modules/fs_audio.php",
+                "modules/fs_diskimage.php",
+                "modules/fs_file.php",
+                "modules/fs_image.php",
+                "modules/fs_video.php",
+                "plugins/archive.php",
+                "plugins/bt.php",
+                "plugins/convert.php",
+                "plugins/encode.php",
+                "plugins/file.php",
+                "plugins/list.php",
+                "plugins/search.php",
+                "plugins/select.php",
+                "plugins/zip.php",
+                "templates/default/css/default.css",
+                "templates/default/css/hilight.css",
+                "templates/default/css/hilight_css.css",
+                "templates/default/css/hilight_html.css",
+                "templates/default/css/hilight_java.css",
+                "templates/default/css/hilight_php.css",
+                "templates/default/select.html"
+              ]
+            }
+          ]
+        },
+        "2009-03-26": {
+          "date": "2009-03-26",
+          "heatScore": 16,
+          "linesChanged": 98,
+          "commitCount": 1,
+          "filesEdited": [
+            "modules/db_albums.php",
+            "modules/db_alias.php",
+            "modules/db_amazon.php",
+            "modules/db_archive.php",
+            "modules/db_artists.php",
+            "modules/db_audio.php",
+            "modules/db_diskimage.php",
+            "modules/db_file.php",
+            "modules/db_genres.php",
+            "modules/db_ids.php",
+            "modules/db_image.php",
+            "modules/db_image_browser.php",
+            "modules/db_movies.php",
+            "modules/db_playlist.php",
+            "modules/db_video.php",
+            "modules/db_watch.php",
+            "modules/db_watch_list.php",
+            "modules/db_years.php"
+          ],
+          "commits": [
+            {
+              "hash": "9009425a2ab81c84ead8b02cdcda7ac5728c67f4",
+              "author": "share",
+              "date": "2009-03-26T18:22:18.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@157 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 85,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "modules/db_albums.php",
+                "modules/db_alias.php",
+                "modules/db_amazon.php",
+                "modules/db_archive.php",
+                "modules/db_artists.php",
+                "modules/db_audio.php",
+                "modules/db_diskimage.php",
+                "modules/db_file.php",
+                "modules/db_genres.php",
+                "modules/db_ids.php",
+                "modules/db_image.php",
+                "modules/db_image_browser.php",
+                "modules/db_movies.php",
+                "modules/db_playlist.php",
+                "modules/db_video.php",
+                "modules/db_watch.php",
+                "modules/db_watch_list.php",
+                "modules/db_years.php"
+              ]
+            }
+          ]
+        },
+        "2009-03-25": {
+          "date": "2009-03-25",
+          "heatScore": 30,
+          "linesChanged": 304,
+          "commitCount": 1,
+          "filesEdited": [
+            ".htaccess",
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "admin/upgrade.php",
+            "include/common.php",
+            "include/settings.nix.php",
+            "include/sql.php",
+            "modules/db_amazon.php",
+            "modules/db_file.php",
+            "modules/db_ids.php",
+            "modules/db_playlist.php",
+            "plugins/bt.php",
+            "plugins/convert.php",
+            "plugins/discography.php",
+            "plugins/encode.php",
+            "plugins/file.php",
+            "plugins/list.php",
+            "plugins/zip.php"
+          ],
+          "commits": [
+            {
+              "hash": "7c3ac33e51a08c038373004347941dad128312a8",
+              "author": "share",
+              "date": "2009-03-25T16:45:57.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@155 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 217,
+              "linesDeleted": 87,
+              "filesChanged": [
+                ".htaccess",
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "admin/upgrade.php",
+                "include/common.php",
+                "include/settings.nix.php",
+                "include/sql.php",
+                "modules/db_amazon.php",
+                "modules/db_file.php",
+                "modules/db_ids.php",
+                "modules/db_playlist.php",
+                "plugins/bt.php",
+                "plugins/convert.php",
+                "plugins/discography.php",
+                "plugins/encode.php",
+                "plugins/file.php",
+                "plugins/list.php",
+                "plugins/zip.php"
+              ]
+            }
+          ]
+        },
+        "2009-03-24": {
+          "date": "2009-03-24",
+          "heatScore": 100,
+          "linesChanged": 1465,
+          "commitCount": 1,
+          "filesEdited": [
+            "include/AmazonProduct.class.php",
+            "include/AmazonSearchEngine.class.php",
+            "include/Snoopy.class.php",
+            "include/amazonsearch.php"
+          ],
+          "commits": [
+            {
+              "hash": "7a7246f0e3d9e6dbf2220553ce2e259766599bff",
+              "author": "share",
+              "date": "2009-03-24T18:03:13.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@152 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 1465,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "include/AmazonProduct.class.php",
+                "include/AmazonSearchEngine.class.php",
+                "include/Snoopy.class.php",
+                "include/amazonsearch.php"
+              ]
+            }
+          ]
+        },
+        "2009-03-23": {
+          "date": "2009-03-23",
+          "heatScore": 17,
+          "linesChanged": 108,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "modules/db_archive.php",
+            "modules/db_diskimage.php",
+            "modules/db_file.php",
+            "modules/db_watch_list.php"
+          ],
+          "commits": [
+            {
+              "hash": "439486e3bf1b5b329b6a39c826fb3dd13e99fd65",
+              "author": "share",
+              "date": "2009-03-23T17:52:57.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@150 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 49,
+              "linesDeleted": 59,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "modules/db_archive.php",
+                "modules/db_diskimage.php",
+                "modules/db_file.php",
+                "modules/db_watch_list.php"
+              ]
+            }
+          ]
+        },
+        "2009-03-22": {
+          "date": "2009-03-22",
+          "heatScore": 29,
+          "linesChanged": 291,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "admin/reports.php",
+            "admin/watch.php",
+            "include/common.php",
+            "include/mysql.php",
+            "include/settings.nix.php",
+            "include/sql.php",
+            "modules/db_albums.php",
+            "modules/db_alias.php",
+            "modules/db_archive.php",
+            "modules/db_artists.php",
+            "modules/db_audio.php",
+            "modules/db_diskimage.php",
+            "modules/db_file.php",
+            "modules/db_genres.php",
+            "modules/db_image.php",
+            "modules/db_image_browser.php",
+            "modules/db_movies.php",
+            "modules/db_playlist.php",
+            "modules/db_video.php",
+            "modules/db_watch.php",
+            "modules/db_watch_list.php",
+            "modules/db_years.php",
+            "plugins/cron.php",
+            "test.php"
+          ],
+          "commits": [
+            {
+              "hash": "8b5163291377c87cd87752a02b1414dadb0af03e",
+              "author": "share",
+              "date": "2009-03-22T20:37:48.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@148 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 163,
+              "linesDeleted": 128,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "admin/reports.php",
+                "admin/watch.php",
+                "include/common.php",
+                "include/mysql.php",
+                "include/settings.nix.php",
+                "include/sql.php",
+                "modules/db_albums.php",
+                "modules/db_alias.php",
+                "modules/db_archive.php",
+                "modules/db_artists.php",
+                "modules/db_audio.php",
+                "modules/db_diskimage.php",
+                "modules/db_file.php",
+                "modules/db_genres.php",
+                "modules/db_image.php",
+                "modules/db_image_browser.php",
+                "modules/db_movies.php",
+                "modules/db_playlist.php",
+                "modules/db_video.php",
+                "modules/db_watch.php",
+                "modules/db_watch_list.php",
+                "modules/db_years.php",
+                "plugins/cron.php",
+                "test.php"
+              ]
+            }
+          ]
+        },
+        "2009-03-13": {
+          "date": "2009-03-13",
+          "heatScore": 17,
+          "linesChanged": 110,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "admin/reports.php",
+            "include/common.php",
+            "include/settings.nix.php",
+            "modules/db_file.php",
+            "modules/db_watch_list.php",
+            "test.php"
+          ],
+          "commits": [
+            {
+              "hash": "3add4667e1e7b22c42869ff130450e040efc9902",
+              "author": "share",
+              "date": "2009-03-13T16:30:59.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@147 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 105,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "admin/reports.php",
+                "include/common.php",
+                "include/settings.nix.php",
+                "modules/db_file.php",
+                "modules/db_watch_list.php",
+                "test.php"
+              ]
+            }
+          ]
+        },
+        "2009-03-12": {
+          "date": "2009-03-12",
+          "heatScore": 25,
+          "linesChanged": 237,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "admin/reports.php",
+            "include/settings.nix.php",
+            "include/sql.php"
+          ],
+          "commits": [
+            {
+              "hash": "5c8655e3026725d14ad8d7737bddbc487bc95da0",
+              "author": "share",
+              "date": "2009-03-12T14:23:52.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@146 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 156,
+              "linesDeleted": 81,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "admin/reports.php",
+                "include/settings.nix.php",
+                "include/sql.php"
+              ]
+            }
+          ]
+        },
+        "2009-03-11": {
+          "date": "2009-03-11",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "modules/db_file.php"
+          ],
+          "commits": [
+            {
+              "hash": "a6621871739954f6cdb348c5f212fa537ab40cf4",
+              "author": "share",
+              "date": "2009-03-11T20:11:57.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@144 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 7,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "modules/db_file.php"
+              ]
+            }
+          ]
+        },
+        "2009-03-10": {
+          "date": "2009-03-10",
+          "heatScore": 45,
+          "linesChanged": 525,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "include/common.php",
+            "modules/db_file.php",
+            "modules/db_image_browser.php",
+            "modules/db_playlist.php",
+            "modules/db_watch_list.php",
+            "modules/fs_archive.php",
+            "modules/fs_diskimage.php",
+            "modules/fs_image_browser.php",
+            "modules/fs_playlist.php",
+            "plugins/convert.php",
+            "plugins/cron.php",
+            "plugins/file.php",
+            "plugins/request.php",
+            "templates/default/select.html"
+          ],
+          "commits": [
+            {
+              "hash": "ea78bee0ffc32c4fef5cda30ccaa11df5991def4",
+              "author": "share",
+              "date": "2009-03-10T23:52:34.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@142 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 202,
+              "linesDeleted": 323,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "include/common.php",
+                "modules/db_file.php",
+                "modules/db_image_browser.php",
+                "modules/db_playlist.php",
+                "modules/db_watch_list.php",
+                "modules/fs_archive.php",
+                "modules/fs_diskimage.php",
+                "modules/fs_image_browser.php",
+                "modules/fs_playlist.php",
+                "plugins/convert.php",
+                "plugins/cron.php",
+                "plugins/file.php",
+                "plugins/request.php",
+                "templates/default/select.html"
+              ]
+            }
+          ]
+        },
+        "2009-03-09": {
+          "date": "2009-03-09",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "admin/watch.php",
+            "modules/db_file.php"
+          ],
+          "commits": [
+            {
+              "hash": "011d63c95dee82fe0d590767e2e512add6d78e32",
+              "author": "share",
+              "date": "2009-03-09T17:24:05.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@140 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 16,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "admin/watch.php",
+                "modules/db_file.php"
+              ]
+            }
+          ]
+        },
+        "2009-03-08": {
+          "date": "2009-03-08",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "modules/db_file.php",
+            "templates/default/pages.html"
+          ],
+          "commits": [
+            {
+              "hash": "b824ea8320fa88f63da68d2a8eb5b53c8357e497",
+              "author": "share",
+              "date": "2009-03-08T18:27:34.000Z",
+              "message": "Status: working",
+              "linesAdded": 14,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "modules/db_file.php",
+                "templates/default/pages.html"
+              ]
+            }
+          ]
+        },
+        "2009-03-06": {
+          "date": "2009-03-06",
+          "heatScore": 20,
+          "linesChanged": 162,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "README.TXT",
+            "TODO.TXT",
+            "include/sql.php",
+            "modules/db_file.php",
+            "templates/default/pages.html"
+          ],
+          "commits": [
+            {
+              "hash": "f044d3c699fb302f56b0326dc5e26856f20d7c53",
+              "author": "share",
+              "date": "2009-03-06T22:46:40.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@138 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 128,
+              "linesDeleted": 34,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "README.TXT",
+                "TODO.TXT",
+                "include/sql.php",
+                "modules/db_file.php",
+                "templates/default/pages.html"
+              ]
+            }
+          ]
+        },
+        "2009-03-05": {
+          "date": "2009-03-05",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "modules/db_playlist.php"
+          ],
+          "commits": [
+            {
+              "hash": "96b5a714de5d97258d2837fcad0cb82df2d34298",
+              "author": "share",
+              "date": "2009-03-05T19:32:40.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@134 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 16,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "modules/db_playlist.php"
+              ]
+            }
+          ]
+        },
+        "2009-03-04": {
+          "date": "2009-03-04",
+          "heatScore": 17,
+          "linesChanged": 109,
+          "commitCount": 1,
+          "filesEdited": [
+            "TODO.TXT",
+            "modules/db_file.php",
+            "modules/db_playlist.php",
+            "templates/default/select.html"
+          ],
+          "commits": [
+            {
+              "hash": "f886545504eaa32f458022f006efbc871e1a34b2",
+              "author": "share",
+              "date": "2009-03-04T16:27:17.000Z",
+              "message": "started the awesome db_playlist wrapper",
+              "linesAdded": 107,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "TODO.TXT",
+                "modules/db_file.php",
+                "modules/db_playlist.php",
+                "templates/default/select.html"
+              ]
+            }
+          ]
+        },
+        "2009-03-03": {
+          "date": "2009-03-03",
+          "heatScore": 47,
+          "linesChanged": 557,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "DEVELOPERS.TXT",
+            "admin/alias.php",
+            "admin/index.php",
+            "include/common.php",
+            "include/sql.php",
+            "modules/db_alias.php",
+            "modules/db_archive.php",
+            "modules/db_audio.php",
+            "modules/db_diskimage.php",
+            "modules/db_file.php",
+            "modules/db_image.php",
+            "modules/db_image_browser.php",
+            "modules/db_movies.php",
+            "modules/db_video.php",
+            "modules/db_watch_list.php",
+            "modules/fs_archive.php",
+            "modules/fs_diskimage.php",
+            "modules/fs_image_browser.php",
+            "plugins/bt.php",
+            "plugins/cron.php",
+            "plugins/encode.php",
+            "plugins/file.php",
+            "plugins/select.php",
+            "plugins/type.php",
+            "plugins/zip.php",
+            "templates/default/select.html"
+          ],
+          "commits": [
+            {
+              "hash": "1d220ce17ffd43d859cb37ab08c979f50c5d6c0b",
+              "author": "share",
+              "date": "2009-03-03T23:27:56.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@125 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 329,
+              "linesDeleted": 228,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "DEVELOPERS.TXT",
+                "admin/alias.php",
+                "admin/index.php",
+                "include/common.php",
+                "include/sql.php",
+                "modules/db_alias.php",
+                "modules/db_archive.php",
+                "modules/db_audio.php",
+                "modules/db_diskimage.php",
+                "modules/db_file.php",
+                "modules/db_image.php",
+                "modules/db_image_browser.php",
+                "modules/db_movies.php",
+                "modules/db_video.php",
+                "modules/db_watch_list.php",
+                "modules/fs_archive.php",
+                "modules/fs_diskimage.php",
+                "modules/fs_image_browser.php",
+                "plugins/bt.php",
+                "plugins/cron.php",
+                "plugins/encode.php",
+                "plugins/file.php",
+                "plugins/select.php",
+                "plugins/type.php",
+                "plugins/zip.php",
+                "templates/default/select.html"
+              ]
+            }
+          ]
+        },
+        "2009-03-02": {
+          "date": "2009-03-02",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT"
+          ],
+          "commits": [
+            {
+              "hash": "3cc12dae93330adbe441e242162faa861509832e",
+              "author": "share",
+              "date": "2009-03-02T17:51:26.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@120 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "CHANGELOG.TXT"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

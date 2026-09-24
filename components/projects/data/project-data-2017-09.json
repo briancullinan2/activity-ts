@@ -1,0 +1,1660 @@
+{
+  "yearMonth": "2017-09",
+  "generatedAt": "2026-09-24T02:37:24.742Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-09-26": {
+          "date": "2017-09-26",
+          "heatScore": 14,
+          "linesChanged": 69,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_snapshot.c",
+            "code/cgame/cg_view.c"
+          ],
+          "commits": [
+            {
+              "hash": "c977188ae62c58c736d2101de7a4146ec9536352",
+              "author": "ec-",
+              "date": "2017-09-26T11:15:33.000Z",
+              "message": "Add \\cg_followKiller",
+              "linesAdded": 53,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_event.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_snapshot.c",
+                "code/cgame/cg_view.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-20": {
+          "date": "2017-09-20",
+          "heatScore": 26,
+          "linesChanged": 240,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/ai_chat.c",
+            "code/game/ai_cmd.c",
+            "code/game/ai_dmq3.c",
+            "code/game/ai_dmq3.h",
+            "code/game/ai_main.c",
+            "code/game/ai_main.h",
+            "code/game/ai_team.c",
+            "code/game/g_bot.c",
+            "code/game/g_client.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_team.c"
+          ],
+          "commits": [
+            {
+              "hash": "8580646e9d77764b4c09e2afb3753c6dfe721bb3",
+              "author": "ec-",
+              "date": "2017-09-20T14:43:38.000Z",
+              "message": "Never refer to sv_maxclients in runtime as server may change it on the fly Delay level exit if vote is in progress Code cleanup",
+              "linesAdded": 105,
+              "linesDeleted": 135,
+              "filesChanged": [
+                "code/game/ai_chat.c",
+                "code/game/ai_cmd.c",
+                "code/game/ai_dmq3.c",
+                "code/game/ai_dmq3.h",
+                "code/game/ai_main.c",
+                "code/game/ai_main.h",
+                "code/game/ai_team.c",
+                "code/game/g_bot.c",
+                "code/game/g_client.c",
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/game/g_team.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-17": {
+          "date": "2017-09-17",
+          "heatScore": 14,
+          "linesChanged": 71,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_active.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_public.h",
+            "code/game/g_syscalls.c"
+          ],
+          "commits": [
+            {
+              "hash": "0ea545806250ff2b95c171421fff42e4dded1df9",
+              "author": "ec-",
+              "date": "2017-09-17T19:28:52.000Z",
+              "message": "Add \\g_predictPVS - try to predict PVS to avoid \"sudden\" enemy and items spawns causes by client lag (i.e. delayed PVS checks on server-side)  for example, this can be observed on q3dm11 when moving from Slime Halls to Arch Room",
+              "linesAdded": 67,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "code/game/g_active.c",
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/game/g_public.h",
+                "code/game/g_syscalls.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-16": {
+          "date": "2017-09-16",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "17ba94fbde7789e7c3342657b077d21d529e2f86",
+              "author": "ec-",
+              "date": "2017-09-16T09:30:15.000Z",
+              "message": "Fix TAB closing console in 1.32c",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/cgame/cg_main.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-14": {
+          "date": "2017-09-14",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/q3_ui/ui_qmenu.c"
+          ],
+          "commits": [
+            {
+              "hash": "c308c0914faafd724e065d67ad5cc82fd5d93557",
+              "author": "ec-",
+              "date": "2017-09-14T14:30:16.000Z",
+              "message": "Swap ui debug and ui screenshot keys so screenshot now F11 like in default config for cgame",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "code/q3_ui/ui_qmenu.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-08": {
+          "date": "2017-09-08",
+          "heatScore": 25,
+          "linesChanged": 235,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "docs/client.txt",
+            "docs/rotation.txt",
+            "docs/server.txt"
+          ],
+          "commits": [
+            {
+              "hash": "d6eb6ab5d21e22d55f7fb729bb9f7d50596e3eff",
+              "author": "ec-",
+              "date": "2017-09-08T18:59:21.000Z",
+              "message": "Add some documentation, update description",
+              "linesAdded": 234,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md",
+                "docs/client.txt",
+                "docs/rotation.txt",
+                "docs/server.txt"
+              ]
+            }
+          ]
+        },
+        "2017-09-07": {
+          "date": "2017-09-07",
+          "heatScore": 40,
+          "linesChanged": 451,
+          "commitCount": 1,
+          "filesEdited": [
+            "assets/icons/envirosuit.tga",
+            "assets/icons/flight.tga",
+            "assets/icons/haste.tga",
+            "assets/icons/icona_bfg.tga",
+            "assets/icons/icona_grenade.tga",
+            "assets/icons/icona_lightning.tga",
+            "assets/icons/icona_machinegun.tga",
+            "assets/icons/icona_plasma.tga",
+            "assets/icons/icona_railgun.tga",
+            "assets/icons/icona_rocket.tga",
+            "assets/icons/icona_shotgun.tga",
+            "assets/icons/iconf_blu.tga",
+            "assets/icons/iconf_blu1.tga",
+            "assets/icons/iconf_blu2.tga",
+            "assets/icons/iconf_blu3.tga",
+            "assets/icons/iconf_blu4.tga",
+            "assets/icons/iconf_neutral1.tga",
+            "assets/icons/iconf_neutral3.tga",
+            "assets/icons/iconf_red.tga",
+            "assets/icons/iconf_red1.tga",
+            "assets/icons/iconf_red2.tga",
+            "assets/icons/iconf_red3.tga",
+            "assets/icons/iconf_red4.tga",
+            "assets/icons/iconh_borb.tga",
+            "assets/icons/iconh_green.tga",
+            "assets/icons/iconh_mega.tga",
+            "assets/icons/iconh_red.tga",
+            "assets/icons/iconh_rorb.tga",
+            "assets/icons/iconh_yellow.tga",
+            "assets/icons/iconr_green.tga",
+            "assets/icons/iconr_red.tga",
+            "assets/icons/iconr_shard.tga",
+            "assets/icons/iconr_yellow.tga",
+            "assets/icons/icont_bfg.tga",
+            "assets/icons/icont_gauntlet.tga",
+            "assets/icons/icont_grapple.tga",
+            "assets/icons/icont_grenade.tga",
+            "assets/icons/icont_lightning.tga",
+            "assets/icons/icont_machinegun.tga",
+            "assets/icons/icont_plasma.tga",
+            "assets/icons/icont_railgun.tga",
+            "assets/icons/icont_rocket.tga",
+            "assets/icons/icont_shotgun.tga",
+            "assets/icons/iconw_bfg.tga",
+            "assets/icons/iconw_gauntlet.tga",
+            "assets/icons/iconw_grapple.tga",
+            "assets/icons/iconw_grapple_hr.tga",
+            "assets/icons/iconw_grenade.tga",
+            "assets/icons/iconw_lightning.tga",
+            "assets/icons/iconw_machinegun.tga",
+            "assets/icons/iconw_plasma.tga",
+            "assets/icons/iconw_railgun.tga",
+            "assets/icons/iconw_rocket.tga",
+            "assets/icons/iconw_shotgun.tga",
+            "assets/icons/invis.tga",
+            "assets/icons/medkit.tga",
+            "assets/icons/noammo.tga",
+            "assets/icons/quad.tga",
+            "assets/icons/regen.tga",
+            "assets/icons/skull_blue.tga",
+            "assets/icons/skull_red.tga",
+            "assets/icons/teleporter.tga",
+            "assets/scripts/iconsdf.shaderx",
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "cc779b9018dba7ab263a1ac31de5096de813fb46",
+              "author": "ec-",
+              "date": "2017-09-07T11:25:47.000Z",
+              "message": "Add high resolution 2d-icons provided by @ZerTero Add separate depth-fragment shaders for world' 2d-icons - to fix all known issues (rendering order, transparency, etc.) with them",
+              "linesAdded": 450,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "assets/icons/envirosuit.tga",
+                "assets/icons/flight.tga",
+                "assets/icons/haste.tga",
+                "assets/icons/icona_bfg.tga",
+                "assets/icons/icona_grenade.tga",
+                "assets/icons/icona_lightning.tga",
+                "assets/icons/icona_machinegun.tga",
+                "assets/icons/icona_plasma.tga",
+                "assets/icons/icona_railgun.tga",
+                "assets/icons/icona_rocket.tga",
+                "assets/icons/icona_shotgun.tga",
+                "assets/icons/iconf_blu.tga",
+                "assets/icons/iconf_blu1.tga",
+                "assets/icons/iconf_blu2.tga",
+                "assets/icons/iconf_blu3.tga",
+                "assets/icons/iconf_blu4.tga",
+                "assets/icons/iconf_neutral1.tga",
+                "assets/icons/iconf_neutral3.tga",
+                "assets/icons/iconf_red.tga",
+                "assets/icons/iconf_red1.tga",
+                "assets/icons/iconf_red2.tga",
+                "assets/icons/iconf_red3.tga",
+                "assets/icons/iconf_red4.tga",
+                "assets/icons/iconh_borb.tga",
+                "assets/icons/iconh_green.tga",
+                "assets/icons/iconh_mega.tga",
+                "assets/icons/iconh_red.tga",
+                "assets/icons/iconh_rorb.tga",
+                "assets/icons/iconh_yellow.tga",
+                "assets/icons/iconr_green.tga",
+                "assets/icons/iconr_red.tga",
+                "assets/icons/iconr_shard.tga",
+                "assets/icons/iconr_yellow.tga",
+                "assets/icons/icont_bfg.tga",
+                "assets/icons/icont_gauntlet.tga",
+                "assets/icons/icont_grapple.tga",
+                "assets/icons/icont_grenade.tga",
+                "assets/icons/icont_lightning.tga",
+                "assets/icons/icont_machinegun.tga",
+                "assets/icons/icont_plasma.tga",
+                "assets/icons/icont_railgun.tga",
+                "assets/icons/icont_rocket.tga",
+                "assets/icons/icont_shotgun.tga",
+                "assets/icons/iconw_bfg.tga",
+                "assets/icons/iconw_gauntlet.tga",
+                "assets/icons/iconw_grapple.tga",
+                "assets/icons/iconw_grapple_hr.tga",
+                "assets/icons/iconw_grenade.tga",
+                "assets/icons/iconw_lightning.tga",
+                "assets/icons/iconw_machinegun.tga",
+                "assets/icons/iconw_plasma.tga",
+                "assets/icons/iconw_railgun.tga",
+                "assets/icons/iconw_rocket.tga",
+                "assets/icons/iconw_shotgun.tga",
+                "assets/icons/invis.tga",
+                "assets/icons/medkit.tga",
+                "assets/icons/noammo.tga",
+                "assets/icons/quad.tga",
+                "assets/icons/regen.tga",
+                "assets/icons/skull_blue.tga",
+                "assets/icons/skull_red.tga",
+                "assets/icons/teleporter.tga",
+                "assets/scripts/iconsdf.shaderx",
+                "code/cgame/cg_ents.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-06": {
+          "date": "2017-09-06",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_players.c"
+          ],
+          "commits": [
+            {
+              "hash": "042e9ae2eabbd46ff58c4fa3156a47fc437833d6",
+              "author": "ec-",
+              "date": "2017-09-06T12:26:45.000Z",
+              "message": "Fix own colors is not set in-game because of cg_teamColors Always use cg_teamColors [4] and [5] during demo playback",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "code/cgame/cg_players.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-05": {
+          "date": "2017-09-05",
+          "heatScore": 18,
+          "linesChanged": 134,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_active.c",
+            "code/game/g_bot.c",
+            "code/game/g_main.c",
+            "code/game/g_team.c",
+            "code/game/g_team.h"
+          ],
+          "commits": [
+            {
+              "hash": "b50546ad0178df23461795183521ec1bfc116496",
+              "author": "ec-",
+              "date": "2017-09-05T18:32:30.000Z",
+              "message": "Fix flags respawn on warmup end Fix crash caused by not updated pmove_msec cvar Reduce string buffers in TeamplayInfoMessage() Code cleanup",
+              "linesAdded": 80,
+              "linesDeleted": 54,
+              "filesChanged": [
+                "code/game/g_active.c",
+                "code/game/g_bot.c",
+                "code/game/g_main.c",
+                "code/game/g_team.c",
+                "code/game/g_team.h"
+              ]
+            }
+          ]
+        },
+        "2017-09-04": {
+          "date": "2017-09-04",
+          "heatScore": 12,
+          "linesChanged": 35,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_view.c",
+            "code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "5ef16bb6d8bc515d463249e37a601f628068c9bb",
+              "author": "ec-",
+              "date": "2017-09-04T19:50:04.000Z",
+              "message": "Move gun forward at lowerer fov Add \\cg_fovAdjust - to automatically rescale cg_fov from desired 4x3 screen ratio to widescreen resolution",
+              "linesAdded": 25,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_view.c",
+                "code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-01": {
+          "date": "2017-09-01",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_consolecmds.c",
+            "code/cgame/cg_scoreboard.c"
+          ],
+          "commits": [
+            {
+              "hash": "81f879d1f9fb9922f12e0c732cb41cdd4aa2c37c",
+              "author": "ec-",
+              "date": "2017-09-01T21:13:27.000Z",
+              "message": "Always show available scores during demo playback Fix scoreboard fade",
+              "linesAdded": 4,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "code/cgame/cg_consolecmds.c",
+                "code/cgame/cg_scoreboard.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-09-26": {
+          "date": "2017-09-26",
+          "heatScore": 14,
+          "linesChanged": 69,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_event.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_snapshot.c",
+            "code/cgame/cg_view.c"
+          ],
+          "commits": [
+            {
+              "hash": "c977188ae62c58c736d2101de7a4146ec9536352",
+              "author": "ec-",
+              "date": "2017-09-26T11:15:33.000Z",
+              "message": "Add \\cg_followKiller",
+              "linesAdded": 53,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_event.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_snapshot.c",
+                "code/cgame/cg_view.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-20": {
+          "date": "2017-09-20",
+          "heatScore": 26,
+          "linesChanged": 240,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/ai_chat.c",
+            "code/game/ai_cmd.c",
+            "code/game/ai_dmq3.c",
+            "code/game/ai_dmq3.h",
+            "code/game/ai_main.c",
+            "code/game/ai_main.h",
+            "code/game/ai_team.c",
+            "code/game/g_bot.c",
+            "code/game/g_client.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_team.c"
+          ],
+          "commits": [
+            {
+              "hash": "8580646e9d77764b4c09e2afb3753c6dfe721bb3",
+              "author": "ec-",
+              "date": "2017-09-20T14:43:38.000Z",
+              "message": "Never refer to sv_maxclients in runtime as server may change it on the fly Delay level exit if vote is in progress Code cleanup",
+              "linesAdded": 105,
+              "linesDeleted": 135,
+              "filesChanged": [
+                "code/game/ai_chat.c",
+                "code/game/ai_cmd.c",
+                "code/game/ai_dmq3.c",
+                "code/game/ai_dmq3.h",
+                "code/game/ai_main.c",
+                "code/game/ai_main.h",
+                "code/game/ai_team.c",
+                "code/game/g_bot.c",
+                "code/game/g_client.c",
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/game/g_team.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-17": {
+          "date": "2017-09-17",
+          "heatScore": 14,
+          "linesChanged": 71,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_active.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_public.h",
+            "code/game/g_syscalls.c"
+          ],
+          "commits": [
+            {
+              "hash": "0ea545806250ff2b95c171421fff42e4dded1df9",
+              "author": "ec-",
+              "date": "2017-09-17T19:28:52.000Z",
+              "message": "Add \\g_predictPVS - try to predict PVS to avoid \"sudden\" enemy and items spawns causes by client lag (i.e. delayed PVS checks on server-side)  for example, this can be observed on q3dm11 when moving from Slime Halls to Arch Room",
+              "linesAdded": 67,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "code/game/g_active.c",
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/game/g_public.h",
+                "code/game/g_syscalls.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-16": {
+          "date": "2017-09-16",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "17ba94fbde7789e7c3342657b077d21d529e2f86",
+              "author": "ec-",
+              "date": "2017-09-16T09:30:15.000Z",
+              "message": "Fix TAB closing console in 1.32c",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/cgame/cg_main.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-14": {
+          "date": "2017-09-14",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/q3_ui/ui_qmenu.c"
+          ],
+          "commits": [
+            {
+              "hash": "c308c0914faafd724e065d67ad5cc82fd5d93557",
+              "author": "ec-",
+              "date": "2017-09-14T14:30:16.000Z",
+              "message": "Swap ui debug and ui screenshot keys so screenshot now F11 like in default config for cgame",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "code/q3_ui/ui_qmenu.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-08": {
+          "date": "2017-09-08",
+          "heatScore": 25,
+          "linesChanged": 235,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "docs/client.txt",
+            "docs/rotation.txt",
+            "docs/server.txt"
+          ],
+          "commits": [
+            {
+              "hash": "d6eb6ab5d21e22d55f7fb729bb9f7d50596e3eff",
+              "author": "ec-",
+              "date": "2017-09-08T18:59:21.000Z",
+              "message": "Add some documentation, update description",
+              "linesAdded": 234,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md",
+                "docs/client.txt",
+                "docs/rotation.txt",
+                "docs/server.txt"
+              ]
+            }
+          ]
+        },
+        "2017-09-07": {
+          "date": "2017-09-07",
+          "heatScore": 40,
+          "linesChanged": 451,
+          "commitCount": 1,
+          "filesEdited": [
+            "assets/icons/envirosuit.tga",
+            "assets/icons/flight.tga",
+            "assets/icons/haste.tga",
+            "assets/icons/icona_bfg.tga",
+            "assets/icons/icona_grenade.tga",
+            "assets/icons/icona_lightning.tga",
+            "assets/icons/icona_machinegun.tga",
+            "assets/icons/icona_plasma.tga",
+            "assets/icons/icona_railgun.tga",
+            "assets/icons/icona_rocket.tga",
+            "assets/icons/icona_shotgun.tga",
+            "assets/icons/iconf_blu.tga",
+            "assets/icons/iconf_blu1.tga",
+            "assets/icons/iconf_blu2.tga",
+            "assets/icons/iconf_blu3.tga",
+            "assets/icons/iconf_blu4.tga",
+            "assets/icons/iconf_neutral1.tga",
+            "assets/icons/iconf_neutral3.tga",
+            "assets/icons/iconf_red.tga",
+            "assets/icons/iconf_red1.tga",
+            "assets/icons/iconf_red2.tga",
+            "assets/icons/iconf_red3.tga",
+            "assets/icons/iconf_red4.tga",
+            "assets/icons/iconh_borb.tga",
+            "assets/icons/iconh_green.tga",
+            "assets/icons/iconh_mega.tga",
+            "assets/icons/iconh_red.tga",
+            "assets/icons/iconh_rorb.tga",
+            "assets/icons/iconh_yellow.tga",
+            "assets/icons/iconr_green.tga",
+            "assets/icons/iconr_red.tga",
+            "assets/icons/iconr_shard.tga",
+            "assets/icons/iconr_yellow.tga",
+            "assets/icons/icont_bfg.tga",
+            "assets/icons/icont_gauntlet.tga",
+            "assets/icons/icont_grapple.tga",
+            "assets/icons/icont_grenade.tga",
+            "assets/icons/icont_lightning.tga",
+            "assets/icons/icont_machinegun.tga",
+            "assets/icons/icont_plasma.tga",
+            "assets/icons/icont_railgun.tga",
+            "assets/icons/icont_rocket.tga",
+            "assets/icons/icont_shotgun.tga",
+            "assets/icons/iconw_bfg.tga",
+            "assets/icons/iconw_gauntlet.tga",
+            "assets/icons/iconw_grapple.tga",
+            "assets/icons/iconw_grapple_hr.tga",
+            "assets/icons/iconw_grenade.tga",
+            "assets/icons/iconw_lightning.tga",
+            "assets/icons/iconw_machinegun.tga",
+            "assets/icons/iconw_plasma.tga",
+            "assets/icons/iconw_railgun.tga",
+            "assets/icons/iconw_rocket.tga",
+            "assets/icons/iconw_shotgun.tga",
+            "assets/icons/invis.tga",
+            "assets/icons/medkit.tga",
+            "assets/icons/noammo.tga",
+            "assets/icons/quad.tga",
+            "assets/icons/regen.tga",
+            "assets/icons/skull_blue.tga",
+            "assets/icons/skull_red.tga",
+            "assets/icons/teleporter.tga",
+            "assets/scripts/iconsdf.shaderx",
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "cc779b9018dba7ab263a1ac31de5096de813fb46",
+              "author": "ec-",
+              "date": "2017-09-07T11:25:47.000Z",
+              "message": "Add high resolution 2d-icons provided by @ZerTero Add separate depth-fragment shaders for world' 2d-icons - to fix all known issues (rendering order, transparency, etc.) with them",
+              "linesAdded": 450,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "assets/icons/envirosuit.tga",
+                "assets/icons/flight.tga",
+                "assets/icons/haste.tga",
+                "assets/icons/icona_bfg.tga",
+                "assets/icons/icona_grenade.tga",
+                "assets/icons/icona_lightning.tga",
+                "assets/icons/icona_machinegun.tga",
+                "assets/icons/icona_plasma.tga",
+                "assets/icons/icona_railgun.tga",
+                "assets/icons/icona_rocket.tga",
+                "assets/icons/icona_shotgun.tga",
+                "assets/icons/iconf_blu.tga",
+                "assets/icons/iconf_blu1.tga",
+                "assets/icons/iconf_blu2.tga",
+                "assets/icons/iconf_blu3.tga",
+                "assets/icons/iconf_blu4.tga",
+                "assets/icons/iconf_neutral1.tga",
+                "assets/icons/iconf_neutral3.tga",
+                "assets/icons/iconf_red.tga",
+                "assets/icons/iconf_red1.tga",
+                "assets/icons/iconf_red2.tga",
+                "assets/icons/iconf_red3.tga",
+                "assets/icons/iconf_red4.tga",
+                "assets/icons/iconh_borb.tga",
+                "assets/icons/iconh_green.tga",
+                "assets/icons/iconh_mega.tga",
+                "assets/icons/iconh_red.tga",
+                "assets/icons/iconh_rorb.tga",
+                "assets/icons/iconh_yellow.tga",
+                "assets/icons/iconr_green.tga",
+                "assets/icons/iconr_red.tga",
+                "assets/icons/iconr_shard.tga",
+                "assets/icons/iconr_yellow.tga",
+                "assets/icons/icont_bfg.tga",
+                "assets/icons/icont_gauntlet.tga",
+                "assets/icons/icont_grapple.tga",
+                "assets/icons/icont_grenade.tga",
+                "assets/icons/icont_lightning.tga",
+                "assets/icons/icont_machinegun.tga",
+                "assets/icons/icont_plasma.tga",
+                "assets/icons/icont_railgun.tga",
+                "assets/icons/icont_rocket.tga",
+                "assets/icons/icont_shotgun.tga",
+                "assets/icons/iconw_bfg.tga",
+                "assets/icons/iconw_gauntlet.tga",
+                "assets/icons/iconw_grapple.tga",
+                "assets/icons/iconw_grapple_hr.tga",
+                "assets/icons/iconw_grenade.tga",
+                "assets/icons/iconw_lightning.tga",
+                "assets/icons/iconw_machinegun.tga",
+                "assets/icons/iconw_plasma.tga",
+                "assets/icons/iconw_railgun.tga",
+                "assets/icons/iconw_rocket.tga",
+                "assets/icons/iconw_shotgun.tga",
+                "assets/icons/invis.tga",
+                "assets/icons/medkit.tga",
+                "assets/icons/noammo.tga",
+                "assets/icons/quad.tga",
+                "assets/icons/regen.tga",
+                "assets/icons/skull_blue.tga",
+                "assets/icons/skull_red.tga",
+                "assets/icons/teleporter.tga",
+                "assets/scripts/iconsdf.shaderx",
+                "code/cgame/cg_ents.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-06": {
+          "date": "2017-09-06",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_players.c"
+          ],
+          "commits": [
+            {
+              "hash": "042e9ae2eabbd46ff58c4fa3156a47fc437833d6",
+              "author": "ec-",
+              "date": "2017-09-06T12:26:45.000Z",
+              "message": "Fix own colors is not set in-game because of cg_teamColors Always use cg_teamColors [4] and [5] during demo playback",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "code/cgame/cg_players.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-05": {
+          "date": "2017-09-05",
+          "heatScore": 18,
+          "linesChanged": 134,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_active.c",
+            "code/game/g_bot.c",
+            "code/game/g_main.c",
+            "code/game/g_team.c",
+            "code/game/g_team.h"
+          ],
+          "commits": [
+            {
+              "hash": "b50546ad0178df23461795183521ec1bfc116496",
+              "author": "ec-",
+              "date": "2017-09-05T18:32:30.000Z",
+              "message": "Fix flags respawn on warmup end Fix crash caused by not updated pmove_msec cvar Reduce string buffers in TeamplayInfoMessage() Code cleanup",
+              "linesAdded": 80,
+              "linesDeleted": 54,
+              "filesChanged": [
+                "code/game/g_active.c",
+                "code/game/g_bot.c",
+                "code/game/g_main.c",
+                "code/game/g_team.c",
+                "code/game/g_team.h"
+              ]
+            }
+          ]
+        },
+        "2017-09-04": {
+          "date": "2017-09-04",
+          "heatScore": 12,
+          "linesChanged": 35,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_view.c",
+            "code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "5ef16bb6d8bc515d463249e37a601f628068c9bb",
+              "author": "ec-",
+              "date": "2017-09-04T19:50:04.000Z",
+              "message": "Move gun forward at lowerer fov Add \\cg_fovAdjust - to automatically rescale cg_fov from desired 4x3 screen ratio to widescreen resolution",
+              "linesAdded": 25,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_view.c",
+                "code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2017-09-01": {
+          "date": "2017-09-01",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_consolecmds.c",
+            "code/cgame/cg_scoreboard.c"
+          ],
+          "commits": [
+            {
+              "hash": "81f879d1f9fb9922f12e0c732cb41cdd4aa2c37c",
+              "author": "ec-",
+              "date": "2017-09-01T21:13:27.000Z",
+              "message": "Always show available scores during demo playback Fix scoreboard fade",
+              "linesAdded": 4,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "code/cgame/cg_consolecmds.c",
+                "code/cgame/cg_scoreboard.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-09-29": {
+          "date": "2017-09-29",
+          "heatScore": 100,
+          "linesChanged": 12547,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/google calendar.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f45190c15ff576b0f1d97a96d0903801be67ba43",
+              "author": "Brian Cullinan",
+              "date": "2017-09-29T22:13:03.000Z",
+              "message": "no message",
+              "linesAdded": 898,
+              "linesDeleted": 11649,
+              "filesChanged": [
+                "Utilities/google calendar.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-09-28": {
+          "date": "2017-09-28",
+          "heatScore": 100,
+          "linesChanged": 2658,
+          "commitCount": 1,
+          "filesEdited": [
+            ".server/render-service.js",
+            ".server/server.0.chunk.js",
+            ".server/server.1.chunk.js",
+            ".server/server.bundle.map",
+            ".server/server.js",
+            "Frameworks/Angular components.ipynb",
+            "Frameworks/display angular.ipynb",
+            "Frameworks/gulp.ipynb",
+            "Selenium/utilities.ipynb",
+            "Utilities/google calendar.ipynb",
+            "public/assets/0.chunk.js",
+            "public/assets/0.map",
+            "public/assets/1.chunk.js",
+            "public/assets/1.map",
+            "public/assets/app.bundle.js",
+            "public/assets/app.map",
+            "public/assets/polyfills.map"
+          ],
+          "commits": [
+            {
+              "hash": "682652c3cd9e3bf0d39e3c33af2c289f76aa59a7",
+              "author": "Brian Cullinan",
+              "date": "2017-09-28T06:20:58.000Z",
+              "message": "no message",
+              "linesAdded": 2546,
+              "linesDeleted": 112,
+              "filesChanged": [
+                ".server/render-service.js",
+                ".server/server.0.chunk.js",
+                ".server/server.1.chunk.js",
+                ".server/server.bundle.map",
+                ".server/server.js",
+                "Frameworks/Angular components.ipynb",
+                "Frameworks/display angular.ipynb",
+                "Frameworks/gulp.ipynb",
+                "Selenium/utilities.ipynb",
+                "Utilities/google calendar.ipynb",
+                "public/assets/0.chunk.js",
+                "public/assets/0.map",
+                "public/assets/1.chunk.js",
+                "public/assets/1.map",
+                "public/assets/app.bundle.js",
+                "public/assets/app.map",
+                "public/assets/polyfills.map"
+              ]
+            }
+          ]
+        },
+        "2017-09-27": {
+          "date": "2017-09-27",
+          "heatScore": 33,
+          "linesChanged": 356,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/Angular components.ipynb",
+            "Frameworks/display angular.ipynb",
+            "Selenium/selenium server.ipynb",
+            "manifest.json",
+            "package-lock.json"
+          ],
+          "commits": [
+            {
+              "hash": "500c082db625e8753b7e567132d51e334563aade",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-09-27T16:09:10.000Z",
+              "message": "no message",
+              "linesAdded": 224,
+              "linesDeleted": 132,
+              "filesChanged": [
+                "Frameworks/Angular components.ipynb",
+                "Frameworks/display angular.ipynb",
+                "Selenium/selenium server.ipynb",
+                "manifest.json",
+                "package-lock.json"
+              ]
+            }
+          ]
+        },
+        "2017-09-26": {
+          "date": "2017-09-26",
+          "heatScore": 67,
+          "linesChanged": 856,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/Angular components.ipynb",
+            "Frameworks/autorewire.ipynb",
+            "Frameworks/display angular.ipynb",
+            "Frameworks/promisify automock socketio.ipynb",
+            "Selenium/webdriver.ipynb",
+            "background.js",
+            "manifest.json",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "45012af90eaa3dd388658fdbc3d353e3bb35e741",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-09-26T20:53:34.000Z",
+              "message": "no message",
+              "linesAdded": 513,
+              "linesDeleted": 343,
+              "filesChanged": [
+                "Frameworks/Angular components.ipynb",
+                "Frameworks/autorewire.ipynb",
+                "Frameworks/display angular.ipynb",
+                "Frameworks/promisify automock socketio.ipynb",
+                "Selenium/webdriver.ipynb",
+                "background.js",
+                "manifest.json",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2017-09-25": {
+          "date": "2017-09-25",
+          "heatScore": 25,
+          "linesChanged": 232,
+          "commitCount": 1,
+          "filesEdited": [
+            ".server/render-service.js",
+            ".server/server.1.chunk.js",
+            ".server/server.bundle.map",
+            ".server/server.js",
+            "Frameworks/display angular.ipynb",
+            "public/assets/1.chunk.js",
+            "public/assets/1.map",
+            "public/assets/app.bundle.js",
+            "public/assets/app.map",
+            "public/assets/polyfills.map"
+          ],
+          "commits": [
+            {
+              "hash": "322b0f21135a65dd2692b966a1babc9c3664834b",
+              "author": "Brian Cullinan",
+              "date": "2017-09-25T05:45:07.000Z",
+              "message": "no message",
+              "linesAdded": 212,
+              "linesDeleted": 20,
+              "filesChanged": [
+                ".server/render-service.js",
+                ".server/server.1.chunk.js",
+                ".server/server.bundle.map",
+                ".server/server.js",
+                "Frameworks/display angular.ipynb",
+                "public/assets/1.chunk.js",
+                "public/assets/1.map",
+                "public/assets/app.bundle.js",
+                "public/assets/app.map",
+                "public/assets/polyfills.map"
+              ]
+            }
+          ]
+        },
+        "2017-09-24": {
+          "date": "2017-09-24",
+          "heatScore": 100,
+          "linesChanged": 2733,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            ".server/render-service.js",
+            ".server/server.0.chunk.js",
+            ".server/server.bundle.map",
+            ".server/server.js",
+            "Frameworks/Angular components.ipynb",
+            "Frameworks/display angular.ipynb",
+            "Utilities/google calendar.ipynb",
+            "Utilities/openssl.ipynb",
+            "background.js",
+            "load_document.js",
+            "manifest.json",
+            "public/assets/0.chunk.js",
+            "public/assets/0.map",
+            "public/assets/app.bundle.js",
+            "public/assets/app.map",
+            "public/assets/polyfills.map",
+            "public/assets/vendor.bundle.js",
+            "public/assets/vendor.map",
+            "public/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "0ddef99c48d99636118883cb7b0da27a2629f8d6",
+              "author": "Brian Cullinan",
+              "date": "2017-09-24T07:19:36.000Z",
+              "message": "Working extension",
+              "linesAdded": 2353,
+              "linesDeleted": 380,
+              "filesChanged": [
+                ".gitignore",
+                ".server/render-service.js",
+                ".server/server.0.chunk.js",
+                ".server/server.bundle.map",
+                ".server/server.js",
+                "Frameworks/Angular components.ipynb",
+                "Frameworks/display angular.ipynb",
+                "Utilities/google calendar.ipynb",
+                "Utilities/openssl.ipynb",
+                "background.js",
+                "load_document.js",
+                "manifest.json",
+                "public/assets/0.chunk.js",
+                "public/assets/0.map",
+                "public/assets/app.bundle.js",
+                "public/assets/app.map",
+                "public/assets/polyfills.map",
+                "public/assets/vendor.bundle.js",
+                "public/assets/vendor.map",
+                "public/index.html"
+              ]
+            }
+          ]
+        },
+        "2017-09-23": {
+          "date": "2017-09-23",
+          "heatScore": 100,
+          "linesChanged": 518483,
+          "commitCount": 1,
+          "filesEdited": [
+            ".server/render-service.js",
+            ".server/server.0.chunk.js",
+            ".server/server.bundle.map",
+            ".server/server.js",
+            "background.js",
+            "load_document.js",
+            "manifest.json",
+            "public/assets/0.chunk.js",
+            "public/assets/0.map",
+            "public/assets/app.bundle.js",
+            "public/assets/app.map",
+            "public/assets/config.json",
+            "public/assets/i18n/en.json",
+            "public/assets/i18n/tr.json",
+            "public/assets/polyfills.bundle.js",
+            "public/assets/polyfills.dll.js",
+            "public/assets/polyfills.dll.js.map",
+            "public/assets/polyfills.map",
+            "public/assets/vendor.bundle.js",
+            "public/assets/vendor.dll.js",
+            "public/assets/vendor.dll.js.map",
+            "public/assets/vendor.map",
+            "public/assets/webpack-assets.json",
+            "public/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d024702ec109d96df3b282eb8c50eb8fcad4ce3b",
+              "author": "Brian Cullinan",
+              "date": "2017-09-23T02:10:57.000Z",
+              "message": "Working component as a web page plugin.",
+              "linesAdded": 518483,
+              "linesDeleted": 0,
+              "filesChanged": [
+                ".server/render-service.js",
+                ".server/server.0.chunk.js",
+                ".server/server.bundle.map",
+                ".server/server.js",
+                "background.js",
+                "load_document.js",
+                "manifest.json",
+                "public/assets/0.chunk.js",
+                "public/assets/0.map",
+                "public/assets/app.bundle.js",
+                "public/assets/app.map",
+                "public/assets/config.json",
+                "public/assets/i18n/en.json",
+                "public/assets/i18n/tr.json",
+                "public/assets/polyfills.bundle.js",
+                "public/assets/polyfills.dll.js",
+                "public/assets/polyfills.dll.js.map",
+                "public/assets/polyfills.map",
+                "public/assets/vendor.bundle.js",
+                "public/assets/vendor.dll.js",
+                "public/assets/vendor.dll.js.map",
+                "public/assets/vendor.map",
+                "public/assets/webpack-assets.json",
+                "public/index.html"
+              ]
+            }
+          ]
+        },
+        "2017-09-22": {
+          "date": "2017-09-22",
+          "heatScore": 100,
+          "linesChanged": 23787,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Selenium/google takeout.ipynb",
+            "Selenium/google timeline.ipynb",
+            "Selenium/utilities.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e4049f3d1fa33d2122a656c75dc00c6d07e28e92",
+              "author": "Brian Cullinan",
+              "date": "2017-09-22T05:36:21.000Z",
+              "message": "no message",
+              "linesAdded": 23707,
+              "linesDeleted": 80,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Selenium/google takeout.ipynb",
+                "Selenium/google timeline.ipynb",
+                "Selenium/utilities.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-09-20": {
+          "date": "2017-09-20",
+          "heatScore": 94,
+          "linesChanged": 1267,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/d3.ipynb",
+            "Selenium/facebook data.ipynb",
+            "Selenium/google takeout.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Utilities/google calendar.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "28de5b47ee28666818753fc63c3c427fe58418e9",
+              "author": "Brian Cullinan",
+              "date": "2017-09-20T04:27:10.000Z",
+              "message": "chrome history pie chart",
+              "linesAdded": 1202,
+              "linesDeleted": 65,
+              "filesChanged": [
+                "Frameworks/d3.ipynb",
+                "Selenium/facebook data.ipynb",
+                "Selenium/google takeout.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Utilities/google calendar.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-09-19": {
+          "date": "2017-09-19",
+          "heatScore": 100,
+          "linesChanged": 4984,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/facebook data.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "7bb7fe665db2bb2552b7c2a32ccbda4916355318",
+              "author": "Brian Cullinan",
+              "date": "2017-09-19T05:17:23.000Z",
+              "message": "no message",
+              "linesAdded": 2423,
+              "linesDeleted": 2561,
+              "filesChanged": [
+                "Selenium/facebook data.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-09-18": {
+          "date": "2017-09-18",
+          "heatScore": 100,
+          "linesChanged": 3609,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/interpret all notebooks.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/facebook data.ipynb",
+            "Utilities/google calendar.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "bb3a51cd3d0d863fb52770d1033d17114d9411b7",
+              "author": "Brian Cullinan",
+              "date": "2017-09-18T05:25:40.000Z",
+              "message": "working calendar command integration",
+              "linesAdded": 3036,
+              "linesDeleted": 573,
+              "filesChanged": [
+                "Core/interpret all notebooks.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/facebook data.ipynb",
+                "Utilities/google calendar.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-09-17": {
+          "date": "2017-09-17",
+          "heatScore": 100,
+          "linesChanged": 2255,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Core/index.js",
+            "Frameworks/node express.ipynb",
+            "Selenium/facebook data.ipynb",
+            "Selenium/github.ipynb",
+            "Selenium/google authorize.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Utilities/google calendar.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "6bca69cdb1a7a044a5a198e62b32e51ebcb57b21",
+              "author": "Brian Cullinan",
+              "date": "2017-09-17T19:57:57.000Z",
+              "message": "no message",
+              "linesAdded": 633,
+              "linesDeleted": 1622,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Core/index.js",
+                "Frameworks/node express.ipynb",
+                "Selenium/facebook data.ipynb",
+                "Selenium/github.ipynb",
+                "Selenium/google authorize.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Utilities/google calendar.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-09-15": {
+          "date": "2017-09-15",
+          "heatScore": 100,
+          "linesChanged": 2237,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/gulp.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/facebook data.ipynb",
+            "Selenium/google authorize.ipynb",
+            "Selenium/google takeout.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Selenium/service auth.ipynb",
+            "Selenium/utilities.ipynb",
+            "Selenium/webdriver.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1b1b5237c1a75e8d0eff961eed5c999ce16cfe45",
+              "author": "Brian Cullinan",
+              "date": "2017-09-15T05:53:36.000Z",
+              "message": "no message",
+              "linesAdded": 1027,
+              "linesDeleted": 1210,
+              "filesChanged": [
+                "Frameworks/gulp.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/facebook data.ipynb",
+                "Selenium/google authorize.ipynb",
+                "Selenium/google takeout.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Selenium/service auth.ipynb",
+                "Selenium/utilities.ipynb",
+                "Selenium/webdriver.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-09-14": {
+          "date": "2017-09-14",
+          "heatScore": 100,
+          "linesChanged": 27657,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Selenium/facebook data.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Utilities/sql to json.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1afe2a5a1cedc23fc8cb655c65075a046782f2c8",
+              "author": "Brian Cullinan",
+              "date": "2017-09-14T05:28:07.000Z",
+              "message": "no message",
+              "linesAdded": 25450,
+              "linesDeleted": 2207,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Selenium/facebook data.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Utilities/sql to json.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-09-11": {
+          "date": "2017-09-11",
+          "heatScore": 100,
+          "linesChanged": 4635,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/facebook data.ipynb",
+            "Selenium/linkedin messages.ipynb",
+            "Utilities/dates.ipynb",
+            "Utilities/google calendar.ipynb",
+            "Utilities/sql to json.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1dc5850636139d382e109b2936f9b5674a7e4c5a",
+              "author": "Brian Cullinan",
+              "date": "2017-09-11T02:57:46.000Z",
+              "message": "no message",
+              "linesAdded": 4115,
+              "linesDeleted": 520,
+              "filesChanged": [
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/facebook data.ipynb",
+                "Selenium/linkedin messages.ipynb",
+                "Utilities/dates.ipynb",
+                "Utilities/google calendar.ipynb",
+                "Utilities/sql to json.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-09-08": {
+          "date": "2017-09-08",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/facebook data.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "fe09e09d8d2d49333e2315e6a10bf2031852c4c2",
+              "author": "Brian Cullinan",
+              "date": "2017-09-08T04:17:21.000Z",
+              "message": "no message",
+              "linesAdded": 14,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "Selenium/facebook data.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-09-02": {
+          "date": "2017-09-02",
+          "heatScore": 47,
+          "linesChanged": 563,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/facebook data.ipynb",
+            "Selenium/linkedin messages.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f8193dcee04bb1d5ee28464b36686269ff20d8c3",
+              "author": "Brian Cullinan",
+              "date": "2017-09-02T02:39:11.000Z",
+              "message": "no message",
+              "linesAdded": 359,
+              "linesDeleted": 204,
+              "filesChanged": [
+                "Selenium/facebook data.ipynb",
+                "Selenium/linkedin messages.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "mediaserver": {
+      "projectName": "mediaserver",
+      "localPath": "C:\\Users\\megam\\mediaserver",
+      "remoteUrl": "git@github.com:briancullinan2/mediaserver.git",
+      "lastUpdated": "2026-09-24T02:37:08.908Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-09-12": {
+          "date": "2017-09-12",
+          "heatScore": 25,
+          "linesChanged": 230,
+          "commitCount": 1,
+          "filesEdited": [
+            "Dockerfile",
+            "Procfile",
+            "README.TXT",
+            "data/Dockerfile",
+            "includes/Config.ini",
+            "includes/SupportedLanguages.php",
+            "includes/bootstrap.inc",
+            "includes/common.inc",
+            "includes/compatibility.inc",
+            "includes/curl.inc",
+            "includes/database.inc",
+            "includes/error.inc",
+            "includes/file.inc",
+            "includes/forms.inc",
+            "includes/language.inc",
+            "includes/menu.inc",
+            "includes/mime.types",
+            "includes/module.inc",
+            "includes/request.inc",
+            "includes/session.inc",
+            "includes/settings.inc",
+            "includes/template.inc",
+            "includes/triggers.inc",
+            "includes/users.inc",
+            "modules/core/select.module",
+            "rebuild.sh",
+            "sites/default/settings.php",
+            "slim-apache.conf",
+            "supervisord.conf",
+            "supervisord.log",
+            "supervisord.pid",
+            "templates/tunegazelle/styles/layout.css",
+            "templates/tunegazelle/theme.php",
+            "templates/tunegazelle/tunegazelle.module"
+          ],
+          "commits": [
+            {
+              "hash": "597254c34712369a09cc8254bd9a034da33e609b",
+              "author": "Brian Cullinan",
+              "date": "2017-09-12T05:47:31.000Z",
+              "message": "no message",
+              "linesAdded": 177,
+              "linesDeleted": 53,
+              "filesChanged": [
+                "Dockerfile",
+                "Procfile",
+                "README.TXT",
+                "data/Dockerfile",
+                "includes/Config.ini",
+                "includes/SupportedLanguages.php",
+                "includes/bootstrap.inc",
+                "includes/common.inc",
+                "includes/compatibility.inc",
+                "includes/curl.inc",
+                "includes/database.inc",
+                "includes/error.inc",
+                "includes/file.inc",
+                "includes/forms.inc",
+                "includes/language.inc",
+                "includes/menu.inc",
+                "includes/mime.types",
+                "includes/module.inc",
+                "includes/request.inc",
+                "includes/session.inc",
+                "includes/settings.inc",
+                "includes/template.inc",
+                "includes/triggers.inc",
+                "includes/users.inc",
+                "modules/core/select.module",
+                "rebuild.sh",
+                "sites/default/settings.php",
+                "slim-apache.conf",
+                "supervisord.conf",
+                "supervisord.log",
+                "supervisord.pid",
+                "templates/tunegazelle/styles/layout.css",
+                "templates/tunegazelle/theme.php",
+                "templates/tunegazelle/tunegazelle.module"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "OpenSfM": {
+      "projectName": "OpenSfM",
+      "localPath": "C:\\Users\\megam\\OpenSfM",
+      "remoteUrl": "git@github.com:briancullinan2/OpenSfM.git",
+      "lastUpdated": "2026-09-24T02:37:18.901Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-09-13": {
+          "date": "2017-09-13",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "opensfm/src/cmake/FindSuiteSparse.cmake"
+          ],
+          "commits": [
+            {
+              "hash": "42ab7d850ad4c9f080a8fb96fab31704f6956482",
+              "author": "Brian Holt",
+              "date": "2017-09-13T09:52:00.000Z",
+              "message": "Find libcxsparse and add it to link line",
+              "linesAdded": 15,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "opensfm/src/cmake/FindSuiteSparse.cmake"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "three.js": {
+      "projectName": "three.js",
+      "localPath": "C:\\Users\\megam\\three.js",
+      "remoteUrl": "git@github.com:mrdoob/three.js.git",
+      "lastUpdated": "2026-09-24T02:37:22.748Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-09-20": {
+          "date": "2017-09-20",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/core/BufferAttribute.js"
+          ],
+          "commits": [
+            {
+              "hash": "03035098e424d888c0288df72e358bf8f53aa15b",
+              "author": "Brian Sheridan",
+              "date": "2017-09-20T22:30:19.000Z",
+              "message": "Modify all typed BufferAttributes to accept 'normalized' as a param.",
+              "linesAdded": 18,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "src/core/BufferAttribute.js"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

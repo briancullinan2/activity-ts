@@ -1,0 +1,993 @@
+{
+  "yearMonth": "2017-07",
+  "generatedAt": "2026-09-24T02:37:24.744Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-07-31": {
+          "date": "2017-07-31",
+          "heatScore": 13,
+          "linesChanged": 45,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_client.c"
+          ],
+          "commits": [
+            {
+              "hash": "eda67bd0eeceb72b82649ac77519ebe2b9972824",
+              "author": "ec-",
+              "date": "2017-07-31T19:12:55.000Z",
+              "message": "Fix client connection Fix redundant connection messages",
+              "linesAdded": 25,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "code/game/g_client.c"
+              ]
+            }
+          ]
+        },
+        "2017-07-28": {
+          "date": "2017-07-28",
+          "heatScore": 11,
+          "linesChanged": 29,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_view.c"
+          ],
+          "commits": [
+            {
+              "hash": "a2f6de0873a404665e08e9fe60827838388cb196",
+              "author": "ec-",
+              "date": "2017-07-28T14:29:30.000Z",
+              "message": "Fix missing vote after \\vid_restart",
+              "linesAdded": 29,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/cgame/cg_servercmds.c",
+                "code/cgame/cg_view.c"
+              ]
+            }
+          ]
+        },
+        "2017-07-25": {
+          "date": "2017-07-25",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_missile.c"
+          ],
+          "commits": [
+            {
+              "hash": "77fe4919e67926bd9639377968e2ba3d93b7321e",
+              "author": "ec-",
+              "date": "2017-07-25T12:17:24.000Z",
+              "message": "Add quad shader to corresponding projectiles",
+              "linesAdded": 9,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/game/g_missile.c"
+              ]
+            }
+          ]
+        },
+        "2017-07-24": {
+          "date": "2017-07-24",
+          "heatScore": 20,
+          "linesChanged": 150,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/ai_dmq3.c",
+            "code/game/ai_dmq3.h",
+            "code/game/g_client.c",
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_session.c",
+            "code/game/g_svcmds.c",
+            "code/game/g_target.c",
+            "code/game/g_team.c",
+            "code/game/g_team.h"
+          ],
+          "commits": [
+            {
+              "hash": "0fbee267f296221e5aca92e14895fe95a311f303",
+              "author": "ec-",
+              "date": "2017-07-24T17:24:42.000Z",
+              "message": "Mute all prints for connecting clients to avoid potential command overflow Move some prints at ClientBegin stage so they're became really visible for target client Code cleanup",
+              "linesAdded": 81,
+              "linesDeleted": 69,
+              "filesChanged": [
+                "code/game/ai_dmq3.c",
+                "code/game/ai_dmq3.h",
+                "code/game/g_client.c",
+                "code/game/g_cmds.c",
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/game/g_session.c",
+                "code/game/g_svcmds.c",
+                "code/game/g_target.c",
+                "code/game/g_team.c",
+                "code/game/g_team.h"
+              ]
+            }
+          ]
+        },
+        "2017-07-22": {
+          "date": "2017-07-22",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_rotation.c"
+          ],
+          "commits": [
+            {
+              "hash": "1f2c3d2a351856035d2602b72cf2498b269fce42",
+              "author": "ec-",
+              "date": "2017-07-22T12:33:22.000Z",
+              "message": "Fix empty g_rotation string",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/game/g_rotation.c"
+              ]
+            }
+          ]
+        },
+        "2017-07-17": {
+          "date": "2017-07-17",
+          "heatScore": 40,
+          "linesChanged": 453,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/q3_ui/ui_atoms.c",
+            "code/q3_ui/ui_demo2.c",
+            "code/q3_ui/ui_servers2.c"
+          ],
+          "commits": [
+            {
+              "hash": "985f5009b0541a1e5cf41e55748fc262b0d8496a",
+              "author": "ec-",
+              "date": "2017-07-17T10:50:40.000Z",
+              "message": "Unlock all options during refresh in server browser, also now mod grabs full server list and sorts items on the fly Add filtering by server name in server browser Fix UI debug cursor positions",
+              "linesAdded": 283,
+              "linesDeleted": 170,
+              "filesChanged": [
+                "code/q3_ui/ui_atoms.c",
+                "code/q3_ui/ui_demo2.c",
+                "code/q3_ui/ui_servers2.c"
+              ]
+            }
+          ]
+        },
+        "2017-07-13": {
+          "date": "2017-07-13",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_cmds.c"
+          ],
+          "commits": [
+            {
+              "hash": "a31a1b03bbd9d8bc4b6809aa586291893f084d37",
+              "author": "ec-",
+              "date": "2017-07-13T14:43:55.000Z",
+              "message": "Add \"nextmap\" to allowed vote commands and substitute it with \"rotate\"",
+              "linesAdded": 6,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/game/g_cmds.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-07-31": {
+          "date": "2017-07-31",
+          "heatScore": 13,
+          "linesChanged": 45,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_client.c"
+          ],
+          "commits": [
+            {
+              "hash": "eda67bd0eeceb72b82649ac77519ebe2b9972824",
+              "author": "ec-",
+              "date": "2017-07-31T19:12:55.000Z",
+              "message": "Fix client connection Fix redundant connection messages",
+              "linesAdded": 25,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "code/game/g_client.c"
+              ]
+            }
+          ]
+        },
+        "2017-07-28": {
+          "date": "2017-07-28",
+          "heatScore": 11,
+          "linesChanged": 29,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_servercmds.c",
+            "code/cgame/cg_view.c"
+          ],
+          "commits": [
+            {
+              "hash": "a2f6de0873a404665e08e9fe60827838388cb196",
+              "author": "ec-",
+              "date": "2017-07-28T14:29:30.000Z",
+              "message": "Fix missing vote after \\vid_restart",
+              "linesAdded": 29,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/cgame/cg_servercmds.c",
+                "code/cgame/cg_view.c"
+              ]
+            }
+          ]
+        },
+        "2017-07-25": {
+          "date": "2017-07-25",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_missile.c"
+          ],
+          "commits": [
+            {
+              "hash": "77fe4919e67926bd9639377968e2ba3d93b7321e",
+              "author": "ec-",
+              "date": "2017-07-25T12:17:24.000Z",
+              "message": "Add quad shader to corresponding projectiles",
+              "linesAdded": 9,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/game/g_missile.c"
+              ]
+            }
+          ]
+        },
+        "2017-07-24": {
+          "date": "2017-07-24",
+          "heatScore": 20,
+          "linesChanged": 150,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/ai_dmq3.c",
+            "code/game/ai_dmq3.h",
+            "code/game/g_client.c",
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_session.c",
+            "code/game/g_svcmds.c",
+            "code/game/g_target.c",
+            "code/game/g_team.c",
+            "code/game/g_team.h"
+          ],
+          "commits": [
+            {
+              "hash": "0fbee267f296221e5aca92e14895fe95a311f303",
+              "author": "ec-",
+              "date": "2017-07-24T17:24:42.000Z",
+              "message": "Mute all prints for connecting clients to avoid potential command overflow Move some prints at ClientBegin stage so they're became really visible for target client Code cleanup",
+              "linesAdded": 81,
+              "linesDeleted": 69,
+              "filesChanged": [
+                "code/game/ai_dmq3.c",
+                "code/game/ai_dmq3.h",
+                "code/game/g_client.c",
+                "code/game/g_cmds.c",
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/game/g_session.c",
+                "code/game/g_svcmds.c",
+                "code/game/g_target.c",
+                "code/game/g_team.c",
+                "code/game/g_team.h"
+              ]
+            }
+          ]
+        },
+        "2017-07-22": {
+          "date": "2017-07-22",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_rotation.c"
+          ],
+          "commits": [
+            {
+              "hash": "1f2c3d2a351856035d2602b72cf2498b269fce42",
+              "author": "ec-",
+              "date": "2017-07-22T12:33:22.000Z",
+              "message": "Fix empty g_rotation string",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/game/g_rotation.c"
+              ]
+            }
+          ]
+        },
+        "2017-07-17": {
+          "date": "2017-07-17",
+          "heatScore": 40,
+          "linesChanged": 453,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/q3_ui/ui_atoms.c",
+            "code/q3_ui/ui_demo2.c",
+            "code/q3_ui/ui_servers2.c"
+          ],
+          "commits": [
+            {
+              "hash": "985f5009b0541a1e5cf41e55748fc262b0d8496a",
+              "author": "ec-",
+              "date": "2017-07-17T10:50:40.000Z",
+              "message": "Unlock all options during refresh in server browser, also now mod grabs full server list and sorts items on the fly Add filtering by server name in server browser Fix UI debug cursor positions",
+              "linesAdded": 283,
+              "linesDeleted": 170,
+              "filesChanged": [
+                "code/q3_ui/ui_atoms.c",
+                "code/q3_ui/ui_demo2.c",
+                "code/q3_ui/ui_servers2.c"
+              ]
+            }
+          ]
+        },
+        "2017-07-13": {
+          "date": "2017-07-13",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_cmds.c"
+          ],
+          "commits": [
+            {
+              "hash": "a31a1b03bbd9d8bc4b6809aa586291893f084d37",
+              "author": "ec-",
+              "date": "2017-07-13T14:43:55.000Z",
+              "message": "Add \"nextmap\" to allowed vote commands and substitute it with \"rotate\"",
+              "linesAdded": 6,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/game/g_cmds.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-07-31": {
+          "date": "2017-07-31",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/git.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "890df88e0150b48b7717354a401ff68b6bb767eb",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-07-31T22:14:29.000Z",
+              "message": "no message",
+              "linesAdded": 3,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "Utilities/git.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-30": {
+          "date": "2017-07-30",
+          "heatScore": 40,
+          "linesChanged": 462,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/d3.ipynb",
+            "Frameworks/gulp.ipynb",
+            "Utilities/file system.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "bc9b897c440fdcb8167c834da5e646355712ddc0",
+              "author": "Brian Cullinan",
+              "date": "2017-07-30T08:39:42.000Z",
+              "message": "no message",
+              "linesAdded": 351,
+              "linesDeleted": 111,
+              "filesChanged": [
+                "Frameworks/d3.ipynb",
+                "Frameworks/gulp.ipynb",
+                "Utilities/file system.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-29": {
+          "date": "2017-07-29",
+          "heatScore": 25,
+          "linesChanged": 225,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/d3.ipynb",
+            "Utilities/file system.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "a8f45ad8b141ad0027524abfe91ff4e336cb2ae8",
+              "author": "Brian Cullinan",
+              "date": "2017-07-29T18:35:37.000Z",
+              "message": "Working tree",
+              "linesAdded": 132,
+              "linesDeleted": 93,
+              "filesChanged": [
+                "Frameworks/d3.ipynb",
+                "Utilities/file system.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-27": {
+          "date": "2017-07-27",
+          "heatScore": 17,
+          "linesChanged": 113,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/git.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "960ecb506544dbff38793d7afa9b9a1f83a4c374",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-07-27T18:19:46.000Z",
+              "message": "no message",
+              "linesAdded": 60,
+              "linesDeleted": 53,
+              "filesChanged": [
+                "Utilities/git.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-22": {
+          "date": "2017-07-22",
+          "heatScore": 50,
+          "linesChanged": 607,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/d3.ipynb",
+            "Frameworks/gulp.ipynb",
+            "Utilities/dates.ipynb",
+            "Utilities/file system.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "17cdf9b07d5d46183f4da5a34bf2cf3d7cd77819",
+              "author": "Brian Cullinan",
+              "date": "2017-07-22T06:26:56.000Z",
+              "message": "Working d3 and gulp service.",
+              "linesAdded": 462,
+              "linesDeleted": 145,
+              "filesChanged": [
+                "Frameworks/d3.ipynb",
+                "Frameworks/gulp.ipynb",
+                "Utilities/dates.ipynb",
+                "Utilities/file system.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-21": {
+          "date": "2017-07-21",
+          "heatScore": 39,
+          "linesChanged": 443,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/angular render service.ipynb",
+            "Frameworks/build Angular components.ipynb",
+            "Frameworks/gulp.ipynb",
+            "Frameworks/promisify automock socketio.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c33fe4b54f5863a01c50f87526875269521f4d48",
+              "author": "Brian Cullinan",
+              "date": "2017-07-21T06:06:58.000Z",
+              "message": "no message",
+              "linesAdded": 221,
+              "linesDeleted": 222,
+              "filesChanged": [
+                "Frameworks/angular render service.ipynb",
+                "Frameworks/build Angular components.ipynb",
+                "Frameworks/gulp.ipynb",
+                "Frameworks/promisify automock socketio.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-20": {
+          "date": "2017-07-20",
+          "heatScore": 34,
+          "linesChanged": 370,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/import notebook.ipynb",
+            "Frameworks/build Angular components.ipynb",
+            "Frameworks/gulp.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "2389e9c77c1aa5a9ee41821b42d318ad3f16727e",
+              "author": "Brian Cullinan",
+              "date": "2017-07-20T06:00:21.000Z",
+              "message": "no message",
+              "linesAdded": 232,
+              "linesDeleted": 138,
+              "filesChanged": [
+                "Core/import notebook.ipynb",
+                "Frameworks/build Angular components.ipynb",
+                "Frameworks/gulp.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-19": {
+          "date": "2017-07-19",
+          "heatScore": 61,
+          "linesChanged": 773,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/angular core modules.ipynb",
+            "Frameworks/angular render service.ipynb",
+            "Frameworks/build Angular components.ipynb",
+            "Frameworks/gulp.ipynb",
+            "Frameworks/promisify automock socketio.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "14ac9913bd4ff0748278c536a834ff0270abb63c",
+              "author": "Brian Cullinan",
+              "date": "2017-07-19T05:09:44.000Z",
+              "message": "working gulp task",
+              "linesAdded": 737,
+              "linesDeleted": 36,
+              "filesChanged": [
+                "Frameworks/angular core modules.ipynb",
+                "Frameworks/angular render service.ipynb",
+                "Frameworks/build Angular components.ipynb",
+                "Frameworks/gulp.ipynb",
+                "Frameworks/promisify automock socketio.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-18": {
+          "date": "2017-07-18",
+          "heatScore": 50,
+          "linesChanged": 602,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/nodejs.ipynb",
+            "Frameworks/promisify automock socketio.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e5a1751d1f179f279d246beb75445b5e21f7876c",
+              "author": "Brian Cullinan",
+              "date": "2017-07-18T16:26:26.000Z",
+              "message": "Sockify server",
+              "linesAdded": 270,
+              "linesDeleted": 332,
+              "filesChanged": [
+                "Frameworks/nodejs.ipynb",
+                "Frameworks/promisify automock socketio.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-17": {
+          "date": "2017-07-17",
+          "heatScore": 19,
+          "linesChanged": 145,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/build Angular components.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "508af7bdc1cb48612536f5e153b2ad9a661c1c00",
+              "author": "Brian Cullinan",
+              "date": "2017-07-17T14:11:40.000Z",
+              "message": "no message",
+              "linesAdded": 95,
+              "linesDeleted": 50,
+              "filesChanged": [
+                "Frameworks/build Angular components.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-15": {
+          "date": "2017-07-15",
+          "heatScore": 90,
+          "linesChanged": 1203,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/build Angular components.ipynb",
+            "Utilities/file system.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "245a32e3b1ecd356b1efe558632cfdf0bf5bfc91",
+              "author": "Brian Cullinan",
+              "date": "2017-07-15T13:52:59.000Z",
+              "message": "no message",
+              "linesAdded": 664,
+              "linesDeleted": 539,
+              "filesChanged": [
+                "Frameworks/build Angular components.ipynb",
+                "Utilities/file system.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-14": {
+          "date": "2017-07-14",
+          "heatScore": 100,
+          "linesChanged": 2363,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/build Angular components.ipynb",
+            "Utilities/file system.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "0ae04af255f01f136a6aae64eb304366bc91c246",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-07-14T22:39:35.000Z",
+              "message": "Working memory-cli.",
+              "linesAdded": 2142,
+              "linesDeleted": 221,
+              "filesChanged": [
+                "Frameworks/build Angular components.ipynb",
+                "Utilities/file system.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2017-07-13": {
+          "date": "2017-07-13",
+          "heatScore": 13,
+          "linesChanged": 49,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/build Angular components.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "8f45b490d425e62f7e0ee90b0491e16b463db6b4",
+              "author": "Brian Cullinan",
+              "date": "2017-07-13T05:41:57.000Z",
+              "message": "no message",
+              "linesAdded": 14,
+              "linesDeleted": 35,
+              "filesChanged": [
+                "Frameworks/build Angular components.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-12": {
+          "date": "2017-07-12",
+          "heatScore": 20,
+          "linesChanged": 156,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/build Angular components.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "47d10ee917456e247d1abafd98c71793947c86fc",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-07-12T23:19:36.000Z",
+              "message": "no message",
+              "linesAdded": 80,
+              "linesDeleted": 76,
+              "filesChanged": [
+                "Frameworks/build Angular components.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-11": {
+          "date": "2017-07-11",
+          "heatScore": 69,
+          "linesChanged": 886,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/{How to read timeline data.ipynb => reconcile timeline data.ipynb}",
+            "Core/{How to import a notebook.ipynb => import notebook.ipynb}",
+            "Core/{How to interpret all notebooks.ipynb => interpret all notebooks.ipynb}",
+            "Core/{How to interpret questions.ipynb => interpret questions.ipynb}",
+            "Core/{How to test import.ipynb => test import.ipynb}",
+            "Docker/{How to use Docker.ipynb => docker commands.ipynb}",
+            "Docker/{What is Docker.ipynb => docker demo.ipynb}",
+            "Docker/{How to install Docker on Mac.ipynb => install Docker on Mac.ipynb}",
+            "Docker/{How to install Docker on Windows.ipynb => install Docker on Windows.ipynb}",
+            "Frameworks/{What is Angular 2.ipynb => Angular 2.ipynb}",
+            "Frameworks/{How should code look.ipynb => How code should look.ipynb}",
+            "Frameworks/{How to build Angular components.ipynb => build Angular components.ipynb}",
+            "Frameworks/{What repositories do we need.ipynb => git repos.ipynb}",
+            "Frameworks/{How to use identity server.ipynb => identity server.ipynb}",
+            "Frameworks/{How to use JSON web tokens in CSharp.ipynb => jwt in csharp.ipynb}",
+            "Frameworks/ngx-translate.ipynb",
+            "Frameworks/{How to use express.ipynb => node express.ipynb}",
+            "Frameworks/{How to install node on Linux.ipynb => node install.ipynb}",
+            "Frameworks/{How to use simple-imap.ipynb => node simple-imap.ipynb}",
+            "Utilities/How to install jupter kernels.ipynb => Frameworks/register jupter kernels.ipynb",
+            "Selenium/{How to authorize Google apps.ipynb => google authorize.ipynb}",
+            "Selenium/{How to download timeline data.ipynb => google timeline.ipynb}",
+            "Selenium/{Selenium Automation.ipynb => selenium commands.ipynb}",
+            "Selenium/{How to run selenium scripts.ipynb => selenium demo.ipynb}",
+            "Selenium/{How to log in to services.ipynb => service auth.ipynb}",
+            "Selenium/{How to start a webdriver service.ipynb => webdriver.ipynb}",
+            "Utilities/What are some common filesystem uses.ipynb",
+            "Utilities/{How to spawn a process.ipynb => child process.ipynb}",
+            "Utilities/{What are some common date uses.ipynb => dates.ipynb}",
+            "Utilities/file system.ipynb",
+            "Utilities/{How to use Git.ipynb => git.ipynb}",
+            "Utilities/{How to use Google Calendar API.ipynb => google calendar.ipynb}",
+            "Utilities/{How to use Google Maps API.ipynb => google maps.ipynb}",
+            "Utilities/{How to use mono.ipynb => mono.ipynb}",
+            "Utilities/npm.ipynb",
+            "Utilities/{What is VNC.ipynb => vnc.ipynb}",
+            "Where to start.ipynb => demo.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "74ad7802fc79407655c1faeede41349de77253e9",
+              "author": "Brian Cullinan",
+              "date": "2017-07-11T23:40:49.000Z",
+              "message": "Big rename.",
+              "linesAdded": 462,
+              "linesDeleted": 424,
+              "filesChanged": [
+                "Analytics/{How to read timeline data.ipynb => reconcile timeline data.ipynb}",
+                "Core/{How to import a notebook.ipynb => import notebook.ipynb}",
+                "Core/{How to interpret all notebooks.ipynb => interpret all notebooks.ipynb}",
+                "Core/{How to interpret questions.ipynb => interpret questions.ipynb}",
+                "Core/{How to test import.ipynb => test import.ipynb}",
+                "Docker/{How to use Docker.ipynb => docker commands.ipynb}",
+                "Docker/{What is Docker.ipynb => docker demo.ipynb}",
+                "Docker/{How to install Docker on Mac.ipynb => install Docker on Mac.ipynb}",
+                "Docker/{How to install Docker on Windows.ipynb => install Docker on Windows.ipynb}",
+                "Frameworks/{What is Angular 2.ipynb => Angular 2.ipynb}",
+                "Frameworks/{How should code look.ipynb => How code should look.ipynb}",
+                "Frameworks/{How to build Angular components.ipynb => build Angular components.ipynb}",
+                "Frameworks/{What repositories do we need.ipynb => git repos.ipynb}",
+                "Frameworks/{How to use identity server.ipynb => identity server.ipynb}",
+                "Frameworks/{How to use JSON web tokens in CSharp.ipynb => jwt in csharp.ipynb}",
+                "Frameworks/ngx-translate.ipynb",
+                "Frameworks/{How to use express.ipynb => node express.ipynb}",
+                "Frameworks/{How to install node on Linux.ipynb => node install.ipynb}",
+                "Frameworks/{How to use simple-imap.ipynb => node simple-imap.ipynb}",
+                "Utilities/How to install jupter kernels.ipynb => Frameworks/register jupter kernels.ipynb",
+                "Selenium/{How to authorize Google apps.ipynb => google authorize.ipynb}",
+                "Selenium/{How to download timeline data.ipynb => google timeline.ipynb}",
+                "Selenium/{Selenium Automation.ipynb => selenium commands.ipynb}",
+                "Selenium/{How to run selenium scripts.ipynb => selenium demo.ipynb}",
+                "Selenium/{How to log in to services.ipynb => service auth.ipynb}",
+                "Selenium/{How to start a webdriver service.ipynb => webdriver.ipynb}",
+                "Utilities/What are some common filesystem uses.ipynb",
+                "Utilities/{How to spawn a process.ipynb => child process.ipynb}",
+                "Utilities/{What are some common date uses.ipynb => dates.ipynb}",
+                "Utilities/file system.ipynb",
+                "Utilities/{How to use Git.ipynb => git.ipynb}",
+                "Utilities/{How to use Google Calendar API.ipynb => google calendar.ipynb}",
+                "Utilities/{How to use Google Maps API.ipynb => google maps.ipynb}",
+                "Utilities/{How to use mono.ipynb => mono.ipynb}",
+                "Utilities/npm.ipynb",
+                "Utilities/{What is VNC.ipynb => vnc.ipynb}",
+                "Where to start.ipynb => demo.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-10": {
+          "date": "2017-07-10",
+          "heatScore": 100,
+          "linesChanged": 2469,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/How to read timeline data.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Utilities/How to use Google Calendar API.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f6972b1cb881f6061eebc9d4b72b6aa381445485",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-07-10T22:37:38.000Z",
+              "message": "no message",
+              "linesAdded": 312,
+              "linesDeleted": 2157,
+              "filesChanged": [
+                "Analytics/How to read timeline data.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Utilities/How to use Google Calendar API.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-06": {
+          "date": "2017-07-06",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/How to use identity server.ipynb",
+            "Utilities/How to use mono.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "7ba32e757b0662915ef4eb0b8d49a0ef09c4cd2f",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-07-06T22:55:53.000Z",
+              "message": "no message",
+              "linesAdded": 36,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "Frameworks/How to use identity server.ipynb",
+                "Utilities/How to use mono.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-05": {
+          "date": "2017-07-05",
+          "heatScore": 58,
+          "linesChanged": 727,
+          "commitCount": 1,
+          "filesEdited": [
+            "Docker/How to use Docker.ipynb",
+            "Selenium/Dockerfile",
+            "Selenium/How to download timeline data.ipynb",
+            "{Utilities => Selenium}/How to run selenium scripts.ipynb",
+            "Selenium/How to start a webdriver service.ipynb",
+            "Selenium/Selenium Automation.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Utilities/Dockerfile",
+            "Utilities/What are some common date uses.ipynb",
+            "Utilities/What is VNC.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "df0c3a857c9010b4a7ec27a0ad34d6cba3024f4d",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-07-05T23:05:12.000Z",
+              "message": "no message",
+              "linesAdded": 662,
+              "linesDeleted": 65,
+              "filesChanged": [
+                "Docker/How to use Docker.ipynb",
+                "Selenium/Dockerfile",
+                "Selenium/How to download timeline data.ipynb",
+                "{Utilities => Selenium}/How to run selenium scripts.ipynb",
+                "Selenium/How to start a webdriver service.ipynb",
+                "Selenium/Selenium Automation.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Utilities/Dockerfile",
+                "Utilities/What are some common date uses.ipynb",
+                "Utilities/What is VNC.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2017-07-04": {
+          "date": "2017-07-04",
+          "heatScore": 100,
+          "linesChanged": 4943,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/How to import a notebook.ipynb",
+            "Core/How to interpret all notebooks.ipynb",
+            "Core/How to interpret questions.ipynb",
+            "Selenium/Dockerfile",
+            "Selenium/Selenium Automation.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Utilities/What is VNC.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "62ec6c3c714f0616a30b470695038c885db7c31c",
+              "author": "Brian Cullinan",
+              "date": "2017-07-04T04:09:53.000Z",
+              "message": "no message",
+              "linesAdded": 630,
+              "linesDeleted": 4313,
+              "filesChanged": [
+                "Core/How to import a notebook.ipynb",
+                "Core/How to interpret all notebooks.ipynb",
+                "Core/How to interpret questions.ipynb",
+                "Selenium/Dockerfile",
+                "Selenium/Selenium Automation.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Utilities/What is VNC.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-07-03": {
+          "date": "2017-07-03",
+          "heatScore": 29,
+          "linesChanged": 288,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            "Core/How to import a notebook.ipynb",
+            "Core/How to interpret all notebooks.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Utilities/How to run selenium scripts.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f9a21ee6efd521091cd15cc66ac3854270789371",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-07-03T21:27:08.000Z",
+              "message": "no message",
+              "linesAdded": 113,
+              "linesDeleted": 175,
+              "filesChanged": [
+                ".gitignore",
+                "Core/How to import a notebook.ipynb",
+                "Core/How to interpret all notebooks.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Utilities/How to run selenium scripts.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

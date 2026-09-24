@@ -1,0 +1,565 @@
+{
+  "yearMonth": "2019-12",
+  "generatedAt": "2026-09-24T02:37:24.723Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-12-31": {
+          "date": "2019-12-31",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_weapons.c",
+            "docs/client.txt"
+          ],
+          "commits": [
+            {
+              "hash": "92d826f8b8b3b63a4dd2c53ff5654add28f740a3",
+              "author": "kameltoe",
+              "date": "2019-12-31T23:38:07.000Z",
+              "message": "add cg_drawWeaponSticky cvar",
+              "linesAdded": 17,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_weapons.c",
+                "docs/client.txt"
+              ]
+            }
+          ]
+        },
+        "2019-12-22": {
+          "date": "2019-12-22",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/q3_ui/ui_servers2.c"
+          ],
+          "commits": [
+            {
+              "hash": "c24e1f78abf421def5adc257b3f7ed304a3cdb27",
+              "author": "Eugene",
+              "date": "2019-12-22T12:28:53.000Z",
+              "message": "More server browser fixes",
+              "linesAdded": 9,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "code/q3_ui/ui_servers2.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-12-31": {
+          "date": "2019-12-31",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_weapons.c",
+            "docs/client.txt"
+          ],
+          "commits": [
+            {
+              "hash": "92d826f8b8b3b63a4dd2c53ff5654add28f740a3",
+              "author": "kameltoe",
+              "date": "2019-12-31T23:38:07.000Z",
+              "message": "add cg_drawWeaponSticky cvar",
+              "linesAdded": 17,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_weapons.c",
+                "docs/client.txt"
+              ]
+            }
+          ]
+        },
+        "2019-12-22": {
+          "date": "2019-12-22",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/q3_ui/ui_servers2.c"
+          ],
+          "commits": [
+            {
+              "hash": "c24e1f78abf421def5adc257b3f7ed304a3cdb27",
+              "author": "Eugene",
+              "date": "2019-12-22T12:28:53.000Z",
+              "message": "More server browser fixes",
+              "linesAdded": 9,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "code/q3_ui/ui_servers2.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-12-31": {
+          "date": "2019-12-31",
+          "heatScore": 12,
+          "linesChanged": 34,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "5dbb1e4d78c9fe8e085edf1dd140620c7e962f81",
+              "author": "Brian Cullinan",
+              "date": "2019-12-31T05:57:44.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 17,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "Core/cache.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-12-30": {
+          "date": "2019-12-30",
+          "heatScore": 36,
+          "linesChanged": 401,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "{Analytics => Frontends}/documentation.ipynb",
+            "Frontends/edit anywhere.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "caf83f7f437f5080d0b6665855ed40fc0862a2f9",
+              "author": "Brian Cullinan",
+              "date": "2019-12-30T00:32:42.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 246,
+              "linesDeleted": 155,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "{Analytics => Frontends}/documentation.ipynb",
+                "Frontends/edit anywhere.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-12-29": {
+          "date": "2019-12-29",
+          "heatScore": 63,
+          "linesChanged": 808,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frontends/edit anywhere.ipynb",
+            "Marketing/convert spreadsheet.ipynb",
+            "report.20191225.170738.74826.0.001.json"
+          ],
+          "commits": [
+            {
+              "hash": "3ea94bdfe48dd87fddf5d751ff9066206fe4bf8a",
+              "author": "Brian Cullinan",
+              "date": "2019-12-29T21:44:38.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 760,
+              "linesDeleted": 48,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frontends/edit anywhere.ipynb",
+                "Marketing/convert spreadsheet.ipynb",
+                "report.20191225.170738.74826.0.001.json"
+              ]
+            }
+          ]
+        },
+        "2019-12-25": {
+          "date": "2019-12-25",
+          "heatScore": 15,
+          "linesChanged": 83,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frontends/edit anywhere.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "fa5d620dc2deed51feeebdee5117f39ba5ab1f6a",
+              "author": "Brian Cullinan",
+              "date": "2019-12-25T01:28:35.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 44,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frontends/edit anywhere.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-12-24": {
+          "date": "2019-12-24",
+          "heatScore": 22,
+          "linesChanged": 182,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/patterns.ipynb",
+            "Frontends/edit anywhere.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "dbc11c0bdd5160c1a7090b598527b939726f8081",
+              "author": "Brian Cullinan",
+              "date": "2019-12-24T19:20:40.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 114,
+              "linesDeleted": 68,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/patterns.ipynb",
+                "Frontends/edit anywhere.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-12-20": {
+          "date": "2019-12-20",
+          "heatScore": 28,
+          "linesChanged": 283,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google rpc.ipynb",
+            "Core/cache.ipynb",
+            "Core/patterns.ipynb",
+            "Core/syntax.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c931355bc22d7a27fd68a1c4d0ebe053d8a24105",
+              "author": "Brian Cullinan",
+              "date": "2019-12-20T20:28:47.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 154,
+              "linesDeleted": 129,
+              "filesChanged": [
+                "Cloud Services/google rpc.ipynb",
+                "Core/cache.ipynb",
+                "Core/patterns.ipynb",
+                "Core/syntax.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-12-19": {
+          "date": "2019-12-19",
+          "heatScore": 24,
+          "linesChanged": 221,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google rpc.ipynb",
+            "Core/cache.ipynb",
+            "Core/syntax.ipynb",
+            "Marketing/{Convert Spreadsheet.ipynb => convert spreadsheet.ipynb}",
+            "Marketing/marketing scripts.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "d7d4d6ca67448634e328b5209f85ca9520e7f636",
+              "author": "Brian Cullinan",
+              "date": "2019-12-19T21:10:52.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 149,
+              "linesDeleted": 72,
+              "filesChanged": [
+                "Cloud Services/google rpc.ipynb",
+                "Core/cache.ipynb",
+                "Core/syntax.ipynb",
+                "Marketing/{Convert Spreadsheet.ipynb => convert spreadsheet.ipynb}",
+                "Marketing/marketing scripts.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-12-18": {
+          "date": "2019-12-18",
+          "heatScore": 82,
+          "linesChanged": 1083,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google rpc.ipynb",
+            "Core/aspects.ipynb",
+            "Core/cache.ipynb",
+            "Core/import.ipynb",
+            "Core/languages.ipynb",
+            "Core/notebook.ipynb",
+            "Core/syntax.ipynb",
+            "Frameworks/de-linting.ipynb",
+            "Frontends/edit anywhere.ipynb",
+            "Languages/balanced.ipynb",
+            "Languages/minimatch.ipynb",
+            "Utilities/packages.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "02584470b9f53051d0151b7f469b2d4f31041d7f",
+              "author": "Brian Cullinan",
+              "date": "2019-12-18T23:02:19.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 385,
+              "linesDeleted": 698,
+              "filesChanged": [
+                "Cloud Services/google rpc.ipynb",
+                "Core/aspects.ipynb",
+                "Core/cache.ipynb",
+                "Core/import.ipynb",
+                "Core/languages.ipynb",
+                "Core/notebook.ipynb",
+                "Core/syntax.ipynb",
+                "Frameworks/de-linting.ipynb",
+                "Frontends/edit anywhere.ipynb",
+                "Languages/balanced.ipynb",
+                "Languages/minimatch.ipynb",
+                "Utilities/packages.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-12-17": {
+          "date": "2019-12-17",
+          "heatScore": 100,
+          "linesChanged": 1604,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/languages.ipynb",
+            "Core/notebook.ipynb",
+            "Core/syntax.ipynb",
+            "Frontends/edit anywhere.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "77b549dcaf64fa972595aa54ecfb7c5acc5cca77",
+              "author": "Brian Cullinan",
+              "date": "2019-12-17T18:24:42.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 246,
+              "linesDeleted": 1358,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/languages.ipynb",
+                "Core/notebook.ipynb",
+                "Core/syntax.ipynb",
+                "Frontends/edit anywhere.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-12-16": {
+          "date": "2019-12-16",
+          "heatScore": 100,
+          "linesChanged": 16514,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/data collection.ipynb",
+            "Core/cache.ipynb",
+            "Core/files.ipynb",
+            "Core/import.ipynb",
+            "Core/notebook.ipynb",
+            "Core/patterns.ipynb",
+            "Core/syntax.ipynb",
+            "Databases/docker ghost.ipynb",
+            "Databases/raid.ipynb",
+            "Frontends/ckeditor git acl.ipynb",
+            "Frontends/edit anywhere.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Marketing/image magik commands.ipynb",
+            "Selenium/data collection.ipynb",
+            "Selenium/utilities.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "0afcc9b9469977c2148362d082c95902b6e6d1b3",
+              "author": "Brian Cullinan",
+              "date": "2019-12-16T23:21:51.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 3872,
+              "linesDeleted": 12642,
+              "filesChanged": [
+                "Analytics/data collection.ipynb",
+                "Core/cache.ipynb",
+                "Core/files.ipynb",
+                "Core/import.ipynb",
+                "Core/notebook.ipynb",
+                "Core/patterns.ipynb",
+                "Core/syntax.ipynb",
+                "Databases/docker ghost.ipynb",
+                "Databases/raid.ipynb",
+                "Frontends/ckeditor git acl.ipynb",
+                "Frontends/edit anywhere.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Marketing/image magik commands.ipynb",
+                "Selenium/data collection.ipynb",
+                "Selenium/utilities.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-12-11": {
+          "date": "2019-12-11",
+          "heatScore": 100,
+          "linesChanged": 9482,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frontends/ckeditor git acl.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "9b2a3f2d3ecee69ee1b263312c892e103e306acf",
+              "author": "Brian Cullinan",
+              "date": "2019-12-11T15:34:44.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 9448,
+              "linesDeleted": 34,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frontends/ckeditor git acl.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-12-10": {
+          "date": "2019-12-10",
+          "heatScore": 56,
+          "linesChanged": 697,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google storage api.ipynb",
+            "Core/cache.ipynb",
+            "Games/quake 3 commands.ipynb",
+            "Google/google calendar graphs.ipynb",
+            "Google/google drive.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Marketing/image magik commands.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e4391a95abfa881fec1adf1a92f62364ad62619d",
+              "author": "Brian Cullinan",
+              "date": "2019-12-10T18:32:38.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 594,
+              "linesDeleted": 103,
+              "filesChanged": [
+                "Cloud Services/google storage api.ipynb",
+                "Core/cache.ipynb",
+                "Games/quake 3 commands.ipynb",
+                "Google/google calendar graphs.ipynb",
+                "Google/google drive.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Marketing/image magik commands.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-12-08": {
+          "date": "2019-12-08",
+          "heatScore": 100,
+          "linesChanged": 1765,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/files.ipynb",
+            "Core/import.ipynb",
+            "Core/rpc.ipynb",
+            "Databases/database commands.ipynb",
+            "Databases/git.ipynb",
+            "Databases/sqlite node.ipynb",
+            "Frameworks/d3 dates.ipynb",
+            "Games/quake 3 commands.ipynb",
+            "Google/google calendar graphs.ipynb",
+            "Google/google calendar.ipynb",
+            "Languages/minimatch.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Resources/Projects/studysauce/Dockerfile",
+            "Resources/Projects/studysauce/mysql2sqlite.sh",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "72172544eb3838a375db673ed02f70f345c4742d",
+              "author": "Brian Cullinan",
+              "date": "2019-12-08T05:54:10.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 1579,
+              "linesDeleted": 186,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/files.ipynb",
+                "Core/import.ipynb",
+                "Core/rpc.ipynb",
+                "Databases/database commands.ipynb",
+                "Databases/git.ipynb",
+                "Databases/sqlite node.ipynb",
+                "Frameworks/d3 dates.ipynb",
+                "Games/quake 3 commands.ipynb",
+                "Google/google calendar graphs.ipynb",
+                "Google/google calendar.ipynb",
+                "Languages/minimatch.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Resources/Projects/studysauce/Dockerfile",
+                "Resources/Projects/studysauce/mysql2sqlite.sh",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

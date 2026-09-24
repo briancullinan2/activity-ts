@@ -1,0 +1,2405 @@
+{
+  "yearMonth": "2026-07",
+  "generatedAt": "2026-09-24T02:37:24.579Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-31": {
+          "date": "2026-07-31",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "a3f205caa35593a9c308fa19352879dda3301e42",
+              "author": "Brian Cullinan",
+              "date": "2026-07-31T23:44:47.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-30": {
+          "date": "2026-07-30",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "77d1c8e3ae2b0ac97de4933b456f4c7501c4a79d",
+              "author": "Brian Cullinan",
+              "date": "2026-07-30T23:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 7,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-29": {
+          "date": "2026-07-29",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d58127b18e7900859bbcc5a0f032eb6fa86dd477",
+              "author": "Brian Cullinan",
+              "date": "2026-07-29T23:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-28": {
+          "date": "2026-07-28",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "52c0cbf17c45ae202d17a574c818074a8d981b05",
+              "author": "Brian Cullinan",
+              "date": "2026-07-28T23:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-27": {
+          "date": "2026-07-27",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "7356be0c0388ce296a4301a74b82754f64135f0c",
+              "author": "Brian Cullinan",
+              "date": "2026-07-27T23:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-26": {
+          "date": "2026-07-26",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "4a914fb119a3734271f54d735e4d6b970b92d031",
+              "author": "Brian Cullinan",
+              "date": "2026-07-26T23:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-25": {
+          "date": "2026-07-25",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "317c0ea9143eb576bb9f33b41767d8192694b1e7",
+              "author": "Brian Cullinan",
+              "date": "2026-07-25T23:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-24": {
+          "date": "2026-07-24",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "b2aab43602ccc9a553830d924af283a626ba9a15",
+              "author": "Brian Cullinan",
+              "date": "2026-07-24T23:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-23": {
+          "date": "2026-07-23",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "9267590937f1dc740e75db1b07fa28fe81651762",
+              "author": "Brian Cullinan",
+              "date": "2026-07-23T23:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-22": {
+          "date": "2026-07-22",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "402b8c9f9b4d96b5006c9fa4cb2f4e6d185aac63",
+              "author": "Brian Cullinan",
+              "date": "2026-07-22T23:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-21": {
+          "date": "2026-07-21",
+          "heatScore": 30,
+          "linesChanged": 311,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "75c43f59c9ba406f0298a7b4242fab8594d79657",
+              "author": "Brian Cullinan",
+              "date": "2026-07-21T23:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 169,
+              "linesDeleted": 142,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-20": {
+          "date": "2026-07-20",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "b0ba4ae377e460ac53721d61faba8d46265d16b5",
+              "author": "Brian Cullinan",
+              "date": "2026-07-20T23:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 15,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-19": {
+          "date": "2026-07-19",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1364c32c158ea60f403fffe556235be1e3224d3c",
+              "author": "Brian Cullinan",
+              "date": "2026-07-19T22:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-18": {
+          "date": "2026-07-18",
+          "heatScore": 12,
+          "linesChanged": 32,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ad0e00892eb7a779c3a8c63b01afc47efe22df11",
+              "author": "Brian Cullinan",
+              "date": "2026-07-18T22:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 31,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-17": {
+          "date": "2026-07-17",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "2d3f2adc409ebbfe46356c1b9de7cceb604441a3",
+              "author": "Brian Cullinan",
+              "date": "2026-07-17T23:44:14.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-16": {
+          "date": "2026-07-16",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6649ee0633f758896cde0106aeaffc2253c21897",
+              "author": "Brian Cullinan",
+              "date": "2026-07-16T23:44:13.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-15": {
+          "date": "2026-07-15",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "c52f3d06191ac44773b7d06e6b7759b26cbc8ee8",
+              "author": "Brian Cullinan",
+              "date": "2026-07-15T23:44:15.000Z",
+              "message": "auto-update",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-14": {
+          "date": "2026-07-14",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d8fdd10ae543b2ab58c87a1161e69749742a8346",
+              "author": "Brian Cullinan",
+              "date": "2026-07-14T23:44:23.000Z",
+              "message": "auto-update",
+              "linesAdded": 3,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-13": {
+          "date": "2026-07-13",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "8a22d9d1b219dbe1f10ff665d4706e83f43c2edf",
+              "author": "Brian Cullinan",
+              "date": "2026-07-13T23:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 2,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-12": {
+          "date": "2026-07-12",
+          "heatScore": 12,
+          "linesChanged": 40,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "bb77312260a78e61b32e5f91c8e24ddb4ae5221b",
+              "author": "Brian Cullinan",
+              "date": "2026-07-12T23:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 9,
+              "linesDeleted": 31,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-11": {
+          "date": "2026-07-11",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "06b4c742106c47329627bd37fd7adb8175c42664",
+              "author": "Brian Cullinan",
+              "date": "2026-07-11T23:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 10,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-10": {
+          "date": "2026-07-10",
+          "heatScore": 15,
+          "linesChanged": 82,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "71417cdbd633980dbf67488f42672e4557039020",
+              "author": "Brian Cullinan",
+              "date": "2026-07-10T23:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 48,
+              "linesDeleted": 34,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-09": {
+          "date": "2026-07-09",
+          "heatScore": 11,
+          "linesChanged": 29,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "35edf992900a68a1b4b7ee373bfb85a254649604",
+              "author": "Brian Cullinan",
+              "date": "2026-07-09T23:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 15,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-08": {
+          "date": "2026-07-08",
+          "heatScore": 12,
+          "linesChanged": 44,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "a8bbaa1d72a3433ebbe6d2b957de3c96c0be4c3d",
+              "author": "Brian Cullinan",
+              "date": "2026-07-08T23:44:20.000Z",
+              "message": "auto-update",
+              "linesAdded": 24,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-07": {
+          "date": "2026-07-07",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "bfe97247eb6b9b176881d3c29f06866f4dc07ac0",
+              "author": "Brian Cullinan",
+              "date": "2026-07-07T23:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 13,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-06": {
+          "date": "2026-07-06",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "c81027fe8a117777c51a2dec41502f47c09efa8e",
+              "author": "Brian Cullinan",
+              "date": "2026-07-06T23:44:48.000Z",
+              "message": "auto-update",
+              "linesAdded": 22,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-05": {
+          "date": "2026-07-05",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "755e0601d0c55bf505d14e4279717efa4e331965",
+              "author": "Brian Cullinan",
+              "date": "2026-07-05T23:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 24,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-04": {
+          "date": "2026-07-04",
+          "heatScore": 12,
+          "linesChanged": 33,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "3d6642edf98ba9174179ed8e286ac155b3f2fe64",
+              "author": "Brian Cullinan",
+              "date": "2026-07-04T23:44:17.000Z",
+              "message": "auto-update",
+              "linesAdded": 12,
+              "linesDeleted": 21,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-03": {
+          "date": "2026-07-03",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d71b0bda1d3ed0bf286966b8860323baa42309a8",
+              "author": "Brian Cullinan",
+              "date": "2026-07-03T23:44:18.000Z",
+              "message": "auto-update",
+              "linesAdded": 6,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-02": {
+          "date": "2026-07-02",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "73c91a4288261c9460c131b0dfc5e4d26e1e8517",
+              "author": "Brian Cullinan",
+              "date": "2026-07-02T23:44:16.000Z",
+              "message": "auto-update",
+              "linesAdded": 19,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-01": {
+          "date": "2026-07-01",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "a1becd0448bbeb32e70f51bf3b05ff18b602bb79",
+              "author": "Brian Cullinan",
+              "date": "2026-07-01T23:44:19.000Z",
+              "message": "auto-update",
+              "linesAdded": 8,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-23": {
+          "date": "2026-07-23",
+          "heatScore": 26,
+          "linesChanged": 249,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_cvar.h",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_syscalls.c"
+          ],
+          "commits": [
+            {
+              "hash": "a6fd05f88cce1ec1f272c0189c9af10cb8b7ff85",
+              "author": "Eugene",
+              "date": "2026-07-23T08:52:31.000Z",
+              "message": "Merge pull request #83 from WofWca/add-cvar-description",
+              "linesAdded": 136,
+              "linesDeleted": 113,
+              "filesChanged": [
+                "code/cgame/cg_cvar.h",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_syscalls.c"
+              ]
+            }
+          ]
+        },
+        "2026-07-22": {
+          "date": "2026-07-22",
+          "heatScore": 26,
+          "linesChanged": 249,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_cvar.h",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_syscalls.c"
+          ],
+          "commits": [
+            {
+              "hash": "a6a90c7fa7d933a7ec7b098607baaa890bee0005",
+              "author": "WofWca",
+              "date": "2026-07-22T15:32:16.000Z",
+              "message": "feat: add a way to add CVAR descriptions in cgame",
+              "linesAdded": 136,
+              "linesDeleted": 113,
+              "filesChanged": [
+                "code/cgame/cg_cvar.h",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_syscalls.c"
+              ]
+            }
+          ]
+        },
+        "2026-07-16": {
+          "date": "2026-07-16",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/q3_ui/ui_cdkey.c"
+          ],
+          "commits": [
+            {
+              "hash": "a6fc0cc2383425c592f8daaba07cd771d84f0bb6",
+              "author": "WofWca",
+              "date": "2026-07-16T08:18:36.000Z",
+              "message": "fix: make CD key UI prevalidation accept uppercase",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/q3_ui/ui_cdkey.c"
+              ]
+            }
+          ]
+        },
+        "2026-07-09": {
+          "date": "2026-07-09",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_syscalls.asm"
+          ],
+          "commits": [
+            {
+              "hash": "66c11093777ddf4142fd4edecbb021ffadb9d01d",
+              "author": "Eugene",
+              "date": "2026-07-09T06:48:07.000Z",
+              "message": "Merge pull request #80 from zturtleman/patch-1",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/game/g_syscalls.asm"
+              ]
+            }
+          ]
+        },
+        "2026-07-08": {
+          "date": "2026-07-08",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_syscalls.asm"
+          ],
+          "commits": [
+            {
+              "hash": "8e566ab26f80f8a8d22410b9a68da67fc6581875",
+              "author": "Zack Middleton",
+              "date": "2026-07-08T22:09:18.000Z",
+              "message": "Fix trap_BotFreeItemWeights() for qagame.qvm",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/game/g_syscalls.asm"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-01": {
+          "date": "2026-07-01",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "AGENTS.md"
+          ],
+          "commits": [
+            {
+              "hash": "d6ecf3b14daffcfce470e5b204066a317058a8d9",
+              "author": "comfyanonymous",
+              "date": "2026-07-01T02:01:00.000Z",
+              "message": "Update AGENTS.md",
+              "linesAdded": 13,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "AGENTS.md"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ETe": {
+      "projectName": "ETe",
+      "localPath": "C:\\Users\\megam\\ETe",
+      "remoteUrl": "git@github.com:briancullinan2/ETe.git",
+      "lastUpdated": "2026-09-24T02:37:05.522Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-06": {
+          "date": "2026-07-06",
+          "heatScore": 41,
+          "linesChanged": 470,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/win32/msvc2017/Splines.vcxproj",
+            "src/win32/msvc2017/cgame.vcxproj",
+            "src/win32/msvc2017/cgame.vcxproj.filters",
+            "src/win32/msvc2017/ete-ded.vcxproj",
+            "src/win32/msvc2017/ete-ded.vcxproj.filters",
+            "src/win32/msvc2017/ete.vcxproj",
+            "src/win32/msvc2017/game.vcxproj",
+            "src/win32/msvc2017/libjpeg.vcxproj",
+            "src/win32/msvc2017/libjpeg.vcxproj.filters",
+            "src/win32/msvc2017/renderer.vcxproj",
+            "src/win32/msvc2017/renderer.vcxproj.filters",
+            "src/win32/msvc2017/renderervk.vcxproj",
+            "src/win32/msvc2017/renderervk.vcxproj.filters",
+            "src/win32/msvc2017/ui.vcxproj",
+            "src/win32/msvc2017/ui.vcxproj.filters"
+          ],
+          "commits": [
+            {
+              "hash": "3d2ab2b65f11ec9a4cb03ce2b36acda14806114f",
+              "author": "Brian Cullinan",
+              "date": "2026-07-06T17:55:31.000Z",
+              "message": "version upgrade",
+              "linesAdded": 152,
+              "linesDeleted": 318,
+              "filesChanged": [
+                "src/win32/msvc2017/Splines.vcxproj",
+                "src/win32/msvc2017/cgame.vcxproj",
+                "src/win32/msvc2017/cgame.vcxproj.filters",
+                "src/win32/msvc2017/ete-ded.vcxproj",
+                "src/win32/msvc2017/ete-ded.vcxproj.filters",
+                "src/win32/msvc2017/ete.vcxproj",
+                "src/win32/msvc2017/game.vcxproj",
+                "src/win32/msvc2017/libjpeg.vcxproj",
+                "src/win32/msvc2017/libjpeg.vcxproj.filters",
+                "src/win32/msvc2017/renderer.vcxproj",
+                "src/win32/msvc2017/renderer.vcxproj.filters",
+                "src/win32/msvc2017/renderervk.vcxproj",
+                "src/win32/msvc2017/renderervk.vcxproj.filters",
+                "src/win32/msvc2017/ui.vcxproj",
+                "src/win32/msvc2017/ui.vcxproj.filters"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "illustrious": {
+      "projectName": "illustrious",
+      "localPath": "C:\\Users\\megam\\illustrious",
+      "remoteUrl": "git@github.com:briancullinan2/illustrious.git",
+      "lastUpdated": "2026-09-24T02:37:06.324Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-06": {
+          "date": "2026-07-06",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "3rdparty/litegraph.js-master.zip",
+            "3rdparty/lumino-main.zip"
+          ],
+          "commits": [
+            {
+              "hash": "0afd9781e70c74345ad591f11a1747ef4af3577a",
+              "author": "Brian Cullinan",
+              "date": "2026-07-06T17:54:11.000Z",
+              "message": "more 3rd party plans",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "3rdparty/litegraph.js-master.zip",
+                "3rdparty/lumino-main.zip"
+              ]
+            }
+          ]
+        },
+        "2026-07-04": {
+          "date": "2026-07-04",
+          "heatScore": 66,
+          "linesChanged": 840,
+          "commitCount": 1,
+          "filesEdited": [
+            "cloud-functions/boot-gpu/chat-agent.py",
+            "cloud-functions/boot-gpu/index.html",
+            "loras/spatial_engine/objaverse-download.py"
+          ],
+          "commits": [
+            {
+              "hash": "24a052947f858164d5eef904a7d4ec12fe7f09ec",
+              "author": "Brian Cullinan",
+              "date": "2026-07-04T22:56:12.000Z",
+              "message": "tried an obj generator, not sure it works",
+              "linesAdded": 434,
+              "linesDeleted": 406,
+              "filesChanged": [
+                "cloud-functions/boot-gpu/chat-agent.py",
+                "cloud-functions/boot-gpu/index.html",
+                "loras/spatial_engine/objaverse-download.py"
+              ]
+            }
+          ]
+        },
+        "2026-07-03": {
+          "date": "2026-07-03",
+          "heatScore": 15,
+          "linesChanged": 83,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/sfm-processor/minecraft-store.md",
+            "loras/spatial_engine/adapter_config.json"
+          ],
+          "commits": [
+            {
+              "hash": "d58c8c3f1643bd3117adebb9fb8e6d6298024c39",
+              "author": "Brian Cullinan",
+              "date": "2026-07-03T23:12:55.000Z",
+              "message": "mine craft server loads lan ONLY if you pay sony extra",
+              "linesAdded": 44,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "components/sfm-processor/minecraft-store.md",
+                "loras/spatial_engine/adapter_config.json"
+              ]
+            }
+          ]
+        },
+        "2026-07-02": {
+          "date": "2026-07-02",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/map-editor/bundle.js"
+          ],
+          "commits": [
+            {
+              "hash": "2e7e89244c3a5041e453f8422ecd3e27ee214a1f",
+              "author": "Brian Cullinan",
+              "date": "2026-07-02T16:59:25.000Z",
+              "message": "backup urls in bsp loader",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "components/map-editor/bundle.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-01": {
+          "date": "2026-07-01",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/map-editor/bundle.js"
+          ],
+          "commits": [
+            {
+              "hash": "058e0eaf7ab9b6087540242c5c2c0f254d5c2f8a",
+              "author": "Brian Cullinan",
+              "date": "2026-07-01T21:25:35.000Z",
+              "message": "fix for q3 shaders",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "components/map-editor/bundle.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-31": {
+          "date": "2026-07-31",
+          "heatScore": 100,
+          "linesChanged": 5372,
+          "commitCount": 1,
+          "filesEdited": [
+            "Resources/Parsers/build/antlr-languages.bundle.js",
+            "Resources/Parsers/creole/creole.g4",
+            "Resources/Parsers/creole/creoleLexer.interp",
+            "Resources/Parsers/creole/creoleLexer.js",
+            "Resources/Parsers/languages-index-browser.js",
+            "Resources/Parsers/make/MakefileLexer.g4",
+            "Resources/Parsers/make/MakefileLexer.interp",
+            "Resources/Parsers/make/MakefileLexer.js",
+            "Resources/Parsers/make/MakefileParser.g4",
+            "Resources/Parsers/make/MakefileParser.interp",
+            "Resources/Parsers/make/MakefileParser.js",
+            "Resources/Parsers/make/MakefileParserListener.js"
+          ],
+          "commits": [
+            {
+              "hash": "267a1ccb3da01a50908a698ee93cd709ec7813c8",
+              "author": "Brian Cullinan",
+              "date": "2026-07-31T22:42:59.000Z",
+              "message": "makefile grammar",
+              "linesAdded": 5326,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "Resources/Parsers/build/antlr-languages.bundle.js",
+                "Resources/Parsers/creole/creole.g4",
+                "Resources/Parsers/creole/creoleLexer.interp",
+                "Resources/Parsers/creole/creoleLexer.js",
+                "Resources/Parsers/languages-index-browser.js",
+                "Resources/Parsers/make/MakefileLexer.g4",
+                "Resources/Parsers/make/MakefileLexer.interp",
+                "Resources/Parsers/make/MakefileLexer.js",
+                "Resources/Parsers/make/MakefileParser.g4",
+                "Resources/Parsers/make/MakefileParser.interp",
+                "Resources/Parsers/make/MakefileParser.js",
+                "Resources/Parsers/make/MakefileParserListener.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-25": {
+          "date": "2026-07-25",
+          "heatScore": 78,
+          "linesChanged": 1025,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/gemini.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "a076c3530f8e399f7554cadc5583c084d5ab3ed4",
+              "author": "Brian Cullinan",
+              "date": "2026-07-25T04:09:13.000Z",
+              "message": "gemini downloader",
+              "linesAdded": 1025,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "Selenium/gemini.ipynb"
+              ]
+            }
+          ]
+        },
+        "2026-07-02": {
+          "date": "2026-07-02",
+          "heatScore": 12,
+          "linesChanged": 43,
+          "commitCount": 1,
+          "filesEdited": [
+            "Databases/registry.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "ad025158adee1ed16ea0c556b69879688332e99a",
+              "author": "Brian Cullinan",
+              "date": "2026-07-02T18:06:25.000Z",
+              "message": "set permissions on registry items so things like edge updates and notepad New Text Document can't be changed by shitty apps",
+              "linesAdded": 42,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "Databases/registry.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "miniPaint": {
+      "projectName": "miniPaint",
+      "localPath": "C:\\Users\\megam\\miniPaint",
+      "remoteUrl": "git@github.com:viliusle/miniPaint.git",
+      "lastUpdated": "2026-09-24T02:37:09.322Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-12": {
+          "date": "2026-07-12",
+          "heatScore": 19,
+          "linesChanged": 143,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/js/global-events.js",
+            "src/js/main.js",
+            "src/js/modules/edit/copy.js",
+            "src/js/modules/edit/undo.js",
+            "src/js/modules/file/open.js",
+            "src/js/modules/file/save.js",
+            "src/js/modules/image/auto_adjust.js",
+            "src/js/modules/image/resize.js",
+            "src/js/modules/image/rotate.js",
+            "src/js/modules/image/trim.js",
+            "src/js/modules/layer/duplicate.js",
+            "src/js/modules/tools/translate.js",
+            "src/js/modules/view/grid.js",
+            "src/js/modules/view/ruler.js",
+            "src/js/tools/shape.js"
+          ],
+          "commits": [
+            {
+              "hash": "8a53c4a6738266475201b87724629733ca0e8fbd",
+              "author": "Brian Cullinan",
+              "date": "2026-07-12T14:39:34.000Z",
+              "message": "fix for some commands",
+              "linesAdded": 84,
+              "linesDeleted": 59,
+              "filesChanged": [
+                "src/js/global-events.js",
+                "src/js/main.js",
+                "src/js/modules/edit/copy.js",
+                "src/js/modules/edit/undo.js",
+                "src/js/modules/file/open.js",
+                "src/js/modules/file/save.js",
+                "src/js/modules/image/auto_adjust.js",
+                "src/js/modules/image/resize.js",
+                "src/js/modules/image/rotate.js",
+                "src/js/modules/image/trim.js",
+                "src/js/modules/layer/duplicate.js",
+                "src/js/modules/tools/translate.js",
+                "src/js/modules/view/grid.js",
+                "src/js/modules/view/ruler.js",
+                "src/js/tools/shape.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-11": {
+          "date": "2026-07-11",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/js/main.js"
+          ],
+          "commits": [
+            {
+              "hash": "490bc5ef5d825a6bbf72116ca8056f674807a1bd",
+              "author": "Brian Cullinan",
+              "date": "2026-07-11T04:48:57.000Z",
+              "message": "whoops",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/js/main.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-10": {
+          "date": "2026-07-10",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/js/core/gui/gui-menu.js"
+          ],
+          "commits": [
+            {
+              "hash": "b0e3bf43f3f8f49d15034bbc1e8fec3d55d73a94",
+              "author": "Brian Cullinan",
+              "date": "2026-07-10T19:42:14.000Z",
+              "message": "menu config exposure for plugin",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/js/core/gui/gui-menu.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "multigame-assets": {
+      "projectName": "multigame-assets",
+      "localPath": "C:\\Users\\megam\\multigame-assets",
+      "remoteUrl": "git@github.com:briancullinan2/multigame-assets.git",
+      "lastUpdated": "2026-09-24T02:37:10.512Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-04": {
+          "date": "2026-07-04",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "*clip6 burner stove front view.png"
+          ],
+          "commits": [
+            {
+              "hash": "da33cd734a175bcc5d93091ca9b0a3e338f739bb",
+              "author": "Brian Cullinan",
+              "date": "2026-07-04T03:47:30.000Z",
+              "message": "Delete *clip6 burner stove front view.png",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "*clip6 burner stove front view.png"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "nunuStudio": {
+      "projectName": "nunuStudio",
+      "localPath": "C:\\Users\\megam\\nunuStudio",
+      "remoteUrl": "git@github.com:tentone/nunuStudio.git",
+      "lastUpdated": "2026-09-24T02:37:10.859Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-04": {
+          "date": "2026-07-04",
+          "heatScore": 13,
+          "linesChanged": 53,
+          "commitCount": 1,
+          "filesEdited": [
+            "source/editor/exporters/MinecraftExporter.js"
+          ],
+          "commits": [
+            {
+              "hash": "1b50e20ec4c82b89e973924ab6a3d417b4085b8e",
+              "author": "Brian Cullinan",
+              "date": "2026-07-04T03:53:38.000Z",
+              "message": "finally works, threejs to minecraft",
+              "linesAdded": 27,
+              "linesDeleted": 26,
+              "filesChanged": [
+                "source/editor/exporters/MinecraftExporter.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-03": {
+          "date": "2026-07-03",
+          "heatScore": 34,
+          "linesChanged": 374,
+          "commitCount": 1,
+          "filesEdited": [
+            "source/editor/gui/MainMenu.js"
+          ],
+          "commits": [
+            {
+              "hash": "36b76b39db621b1cbc221ba58452fb65a35497ef",
+              "author": "Brian Cullinan",
+              "date": "2026-07-03T23:15:52.000Z",
+              "message": "adding minecraft to menu to test with",
+              "linesAdded": 132,
+              "linesDeleted": 242,
+              "filesChanged": [
+                "source/editor/gui/MainMenu.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-02": {
+          "date": "2026-07-02",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "4d71725a7e24a7110ea2d05a2667fb16117f37ed",
+              "author": "Brian Cullinan",
+              "date": "2026-07-02T18:05:37.000Z",
+              "message": "TODO notes",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2026-07-01": {
+          "date": "2026-07-01",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "source/editor/gui/preview/MaterialRenderer.js",
+            "source/editor/loaders/Q3GLShaderLoader.js"
+          ],
+          "commits": [
+            {
+              "hash": "0c846cb5eab6090e281ea93cf47707112cbd3daa",
+              "author": "Brian Cullinan",
+              "date": "2026-07-01T21:25:15.000Z",
+              "message": "fix for asset panel loading q3 shaders",
+              "linesAdded": 35,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "source/editor/gui/preview/MaterialRenderer.js",
+                "source/editor/loaders/Q3GLShaderLoader.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "Quake3e": {
+      "projectName": "Quake3e",
+      "localPath": "C:\\Users\\megam\\Quake3e",
+      "lastUpdated": "2026-09-24T02:37:19.854Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-04": {
+          "date": "2026-07-04",
+          "heatScore": 12,
+          "linesChanged": 34,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/gtag.js",
+            "docs/index.html",
+            "docs/sys_idbfs.js",
+            "womp.LICENSE"
+          ],
+          "commits": [
+            {
+              "hash": "df603811237712315846c8d744a9bfcca2914dd3",
+              "author": "Brian Cullinan",
+              "date": "2026-07-04T00:01:33.000Z",
+              "message": "csp fix",
+              "linesAdded": 24,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/gtag.js",
+                "docs/index.html",
+                "docs/sys_idbfs.js",
+                "womp.LICENSE"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "quedit": {
+      "projectName": "quedit",
+      "localPath": "C:\\Users\\megam\\quedit",
+      "remoteUrl": "git@github.com:briancullinan2/quedit.git",
+      "lastUpdated": "2026-09-24T02:37:20.083Z",
+      "screenshots": [
+        {
+          "filename": "Screenshot 2026-07-28 224334.png",
+          "relativePath": "Screenshot 2026-07-28 224334.png",
+          "date": "2026-07-28T00:00:00.000Z",
+          "source": "filename"
+        },
+        {
+          "filename": "Screenshot 2026-07-08 225309.png",
+          "relativePath": "Screenshot 2026-07-08 225309.png",
+          "date": "2026-07-08T00:00:00.000Z",
+          "source": "filename"
+        }
+      ],
+      "dailyHeat": {
+        "2026-07-31": {
+          "date": "2026-07-31",
+          "heatScore": 12,
+          "linesChanged": 30,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/menu.ts",
+            "components/rosetta/antlr-languages.bundle.js",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ac8730c8242fe9eca18b839db3aabc2993302145",
+              "author": "Brian Cullinan",
+              "date": "2026-07-31T22:44:05.000Z",
+              "message": "language update added makefile",
+              "linesAdded": 20,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/menu.ts",
+                "components/rosetta/antlr-languages.bundle.js",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-30": {
+          "date": "2026-07-30",
+          "heatScore": 20,
+          "linesChanged": 161,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/github-tools.ts",
+            "components/bundle/github.d.ts",
+            "components/bundle/local.d.ts",
+            "components/compiler/make.js",
+            "components/compiler/shared.js",
+            "components/editor/widget-menu.ts",
+            "components/filelist/widget-local.ts",
+            "components/filelist/widget-search.ts",
+            "components/filelist/widget.ts",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "3a90a856a4cbfe85fdf555b5ba2d11aaf7e147a5",
+              "author": "Brian Cullinan",
+              "date": "2026-07-30T22:21:36.000Z",
+              "message": "more typing",
+              "linesAdded": 121,
+              "linesDeleted": 40,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/github-tools.ts",
+                "components/bundle/github.d.ts",
+                "components/bundle/local.d.ts",
+                "components/compiler/make.js",
+                "components/compiler/shared.js",
+                "components/editor/widget-menu.ts",
+                "components/filelist/widget-local.ts",
+                "components/filelist/widget-search.ts",
+                "components/filelist/widget.ts",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-29": {
+          "date": "2026-07-29",
+          "heatScore": 41,
+          "linesChanged": 478,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/github-worker.ts",
+            "components/bundle/lumino-search.ts",
+            "components/bundle/lumino.ts",
+            "components/bundle/menu.d.ts",
+            "components/filelist/widget-github.ts",
+            "components/terminal/commands-build.js",
+            "components/terminal/commands-git.js",
+            "components/terminal/widget.d.ts",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "825742b6db08977253dc43a59a04e6243c963b9c",
+              "author": "Brian Cullinan",
+              "date": "2026-07-29T23:22:26.000Z",
+              "message": "working on github commands",
+              "linesAdded": 302,
+              "linesDeleted": 176,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/github-worker.ts",
+                "components/bundle/lumino-search.ts",
+                "components/bundle/lumino.ts",
+                "components/bundle/menu.d.ts",
+                "components/filelist/widget-github.ts",
+                "components/terminal/commands-build.js",
+                "components/terminal/commands-git.js",
+                "components/terminal/widget.d.ts",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-28": {
+          "date": "2026-07-28",
+          "heatScore": 38,
+          "linesChanged": 422,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/compiler/make-qvm.js",
+            "components/compiler/make-tools.js",
+            "components/compiler/make.d.ts",
+            "components/compiler/make.js",
+            "components/compiler/shared.js",
+            "components/terminal/commands-build.js",
+            "components/terminal/commands-git.js",
+            "components/terminal/commands.js",
+            "components/terminal/widget.d.ts"
+          ],
+          "commits": [
+            {
+              "hash": "8d47b2e8cb5bfcc36124a85538592afb2ea80f1d",
+              "author": "Brian Cullinan",
+              "date": "2026-07-28T23:49:27.000Z",
+              "message": "almost done typing make system",
+              "linesAdded": 307,
+              "linesDeleted": 115,
+              "filesChanged": [
+                "components/compiler/make-qvm.js",
+                "components/compiler/make-tools.js",
+                "components/compiler/make.d.ts",
+                "components/compiler/make.js",
+                "components/compiler/shared.js",
+                "components/terminal/commands-build.js",
+                "components/terminal/commands-git.js",
+                "components/terminal/commands.js",
+                "components/terminal/widget.d.ts"
+              ]
+            }
+          ]
+        },
+        "2026-07-27": {
+          "date": "2026-07-27",
+          "heatScore": 52,
+          "linesChanged": 644,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/bundle/github-api.ts",
+            "components/bundle/github-settings.ts",
+            "components/bundle/github-tools.ts",
+            "components/bundle/github.d.ts",
+            "components/bundle/global-shared.d.ts",
+            "components/bundle/global-worker.d.ts",
+            "components/bundle/global.d.ts",
+            "components/bundle/global.ts",
+            "components/bundle/local.d.ts",
+            "components/bundle/logging.d.ts",
+            "components/bundle/logging.ts",
+            "components/bundle/lumino-files.ts",
+            "components/bundle/lumino.d.ts",
+            "components/bundle/menu.d.ts",
+            "components/compiler/worker.d.ts",
+            "components/compiler/worker.js",
+            "components/filelist/widget.d.ts",
+            "components/filelist/widget.ts"
+          ],
+          "commits": [
+            {
+              "hash": "e4a7e00d67d996af90f2ae35915464db7a3d9038",
+              "author": "Brian Cullinan",
+              "date": "2026-07-27T22:17:02.000Z",
+              "message": "more strong typing, little bit broken atm",
+              "linesAdded": 264,
+              "linesDeleted": 380,
+              "filesChanged": [
+                "components/bundle/github-api.ts",
+                "components/bundle/github-settings.ts",
+                "components/bundle/github-tools.ts",
+                "components/bundle/github.d.ts",
+                "components/bundle/global-shared.d.ts",
+                "components/bundle/global-worker.d.ts",
+                "components/bundle/global.d.ts",
+                "components/bundle/global.ts",
+                "components/bundle/local.d.ts",
+                "components/bundle/logging.d.ts",
+                "components/bundle/logging.ts",
+                "components/bundle/lumino-files.ts",
+                "components/bundle/lumino.d.ts",
+                "components/bundle/menu.d.ts",
+                "components/compiler/worker.d.ts",
+                "components/compiler/worker.js",
+                "components/filelist/widget.d.ts",
+                "components/filelist/widget.ts"
+              ]
+            }
+          ]
+        },
+        "2026-07-26": {
+          "date": "2026-07-26",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/logging.ts",
+            "components/bundle/lumino-resize.ts",
+            "components/terminal/widget.ts",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "8e4e04641ba53e184866384dafd2ae974f7a460f",
+              "author": "Brian Cullinan",
+              "date": "2026-07-26T22:43:02.000Z",
+              "message": "another dumbass resizing bug",
+              "linesAdded": 29,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/logging.ts",
+                "components/bundle/lumino-resize.ts",
+                "components/terminal/widget.ts",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-25": {
+          "date": "2026-07-25",
+          "heatScore": 100,
+          "linesChanged": 1440,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/paint/widget-menu.ts",
+            "components/paint/widget-settings.ts",
+            "components/paint/widget.ts",
+            "components/terminal/commands-complete.ts",
+            "components/terminal/commands.js"
+          ],
+          "commits": [
+            {
+              "hash": "64aab9954060675edaa8a494767248c163b08a28",
+              "author": "Brian Cullinan",
+              "date": "2026-07-25T19:28:44.000Z",
+              "message": "fix for auto-complete",
+              "linesAdded": 726,
+              "linesDeleted": 714,
+              "filesChanged": [
+                "components/paint/widget-menu.ts",
+                "components/paint/widget-settings.ts",
+                "components/paint/widget.ts",
+                "components/terminal/commands-complete.ts",
+                "components/terminal/commands.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-24": {
+          "date": "2026-07-24",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/bundle/github-api.ts",
+            "components/bundle/github-tools.ts",
+            "components/filelist/github.js",
+            "components/filelist/widget-github.ts",
+            "components/terminal/commands-git.js"
+          ],
+          "commits": [
+            {
+              "hash": "61429b66a5af0c40ce93ad247da154e6873cb548",
+              "author": "Brian Cullinan",
+              "date": "2026-07-24T23:47:46.000Z",
+              "message": "github tree fix",
+              "linesAdded": 11,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "components/bundle/github-api.ts",
+                "components/bundle/github-tools.ts",
+                "components/filelist/github.js",
+                "components/filelist/widget-github.ts",
+                "components/terminal/commands-git.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-23": {
+          "date": "2026-07-23",
+          "heatScore": 60,
+          "linesChanged": 753,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/filelist/widget-local.ts",
+            "components/filelist/widget.ts"
+          ],
+          "commits": [
+            {
+              "hash": "de20fdcf3126e22f6c17cb43705f000ebbd8d9e2",
+              "author": "Brian Cullinan",
+              "date": "2026-07-23T23:43:09.000Z",
+              "message": "fix for file loading and organization",
+              "linesAdded": 391,
+              "linesDeleted": 362,
+              "filesChanged": [
+                "components/filelist/widget-local.ts",
+                "components/filelist/widget.ts"
+              ]
+            }
+          ]
+        },
+        "2026-07-22": {
+          "date": "2026-07-22",
+          "heatScore": 35,
+          "linesChanged": 388,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/lumino-resize.ts",
+            "components/bundle/lumino-widget.ts",
+            "components/bundle/menu-app.ts",
+            "components/terminal/widget.ts",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "00e74271e58be4fa9ba4005b7d1f7b1da4a68f92",
+              "author": "Brian Cullinan",
+              "date": "2026-07-22T22:50:57.000Z",
+              "message": "widescreen layouts",
+              "linesAdded": 323,
+              "linesDeleted": 65,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/lumino-resize.ts",
+                "components/bundle/lumino-widget.ts",
+                "components/bundle/menu-app.ts",
+                "components/terminal/widget.ts",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-21": {
+          "date": "2026-07-21",
+          "heatScore": 23,
+          "linesChanged": 200,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/lumino-resize.ts",
+            "components/bundle/lumino-widget.ts",
+            "components/bundle/menu.ts",
+            "components/filelist/widget.ts",
+            "components/terminal/widget.ts",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "48144f03d6dfef6944b3b0445338265ff91a5798",
+              "author": "Brian Cullinan",
+              "date": "2026-07-21T20:50:52.000Z",
+              "message": "collapsing terminal and file lists",
+              "linesAdded": 144,
+              "linesDeleted": 56,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/lumino-resize.ts",
+                "components/bundle/lumino-widget.ts",
+                "components/bundle/menu.ts",
+                "components/filelist/widget.ts",
+                "components/terminal/widget.ts",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-20": {
+          "date": "2026-07-20",
+          "heatScore": 13,
+          "linesChanged": 55,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/menu-engine.ts",
+            "index.html",
+            "service-worker.js"
+          ],
+          "commits": [
+            {
+              "hash": "8d906ae1dd3d2e1ff930f054fcec0e4ee1dfb179",
+              "author": "Brian Cullinan",
+              "date": "2026-07-20T23:23:33.000Z",
+              "message": "still working on damn map loader",
+              "linesAdded": 43,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/menu-engine.ts",
+                "index.html",
+                "service-worker.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-19": {
+          "date": "2026-07-19",
+          "heatScore": 74,
+          "linesChanged": 966,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/map-loader/basis/basis-basics.js",
+            "components/map-loader/q3bsp.js",
+            "components/map-loader/q3glshader.js",
+            "components/map-loader/q3shader.js",
+            "components/map-loader/widget.ts"
+          ],
+          "commits": [
+            {
+              "hash": "ff7a7ecb69b0e47798c67e090c6bb5e81b38cf4b",
+              "author": "Brian Cullinan",
+              "date": "2026-07-19T21:05:52.000Z",
+              "message": "need to fix shitty pre es6 code",
+              "linesAdded": 454,
+              "linesDeleted": 512,
+              "filesChanged": [
+                "components/map-loader/basis/basis-basics.js",
+                "components/map-loader/q3bsp.js",
+                "components/map-loader/q3glshader.js",
+                "components/map-loader/q3shader.js",
+                "components/map-loader/widget.ts"
+              ]
+            }
+          ]
+        },
+        "2026-07-18": {
+          "date": "2026-07-18",
+          "heatScore": 100,
+          "linesChanged": 2977,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/bundle/generate-manifest.ts",
+            "components/filelist/widget-assets.ts",
+            "components/filelist/widget.ts",
+            "file-manifest.js",
+            "package.json",
+            "service-worker.js"
+          ],
+          "commits": [
+            {
+              "hash": "6fc597f85b2d86a35e90db0413396e01912dde8a",
+              "author": "Brian Cullinan",
+              "date": "2026-07-18T21:08:41.000Z",
+              "message": "almost working assets database",
+              "linesAdded": 2938,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "components/bundle/generate-manifest.ts",
+                "components/filelist/widget-assets.ts",
+                "components/filelist/widget.ts",
+                "file-manifest.js",
+                "package.json",
+                "service-worker.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-17": {
+          "date": "2026-07-17",
+          "heatScore": 34,
+          "linesChanged": 369,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/github-api.ts",
+            "components/bundle/github-tools.ts",
+            "components/bundle/github-types.ts",
+            "components/bundle/global.ts",
+            "components/bundle/local.ts",
+            "components/bundle/menu.ts",
+            "components/filelist/widget-database.ts",
+            "components/filelist/widget.ts",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "e91063fbf7124d12e93457abf5c5b401cf9f9034",
+              "author": "Brian Cullinan",
+              "date": "2026-07-17T23:15:35.000Z",
+              "message": "working on displaying IDB database tree list",
+              "linesAdded": 346,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/github-api.ts",
+                "components/bundle/github-tools.ts",
+                "components/bundle/github-types.ts",
+                "components/bundle/global.ts",
+                "components/bundle/local.ts",
+                "components/bundle/menu.ts",
+                "components/filelist/widget-database.ts",
+                "components/filelist/widget.ts",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-15": {
+          "date": "2026-07-15",
+          "heatScore": 100,
+          "linesChanged": 2854,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/bundle/menu.ts",
+            "components/filelist/filelist.js",
+            "components/filelist/widget-assets.ts",
+            "components/filelist/widget-database.ts",
+            "components/filelist/widget.md",
+            "components/map-loader/main.js",
+            "components/map-loader/q3bsp.js",
+            "components/map-loader/widget.ts"
+          ],
+          "commits": [
+            {
+              "hash": "6323a1a934e8adf0a85284a67ee6d5aa8a71dfe1",
+              "author": "Brian Cullinan",
+              "date": "2026-07-15T18:21:27.000Z",
+              "message": "working on toji widget and file lists",
+              "linesAdded": 2181,
+              "linesDeleted": 673,
+              "filesChanged": [
+                "components/bundle/menu.ts",
+                "components/filelist/filelist.js",
+                "components/filelist/widget-assets.ts",
+                "components/filelist/widget-database.ts",
+                "components/filelist/widget.md",
+                "components/map-loader/main.js",
+                "components/map-loader/q3bsp.js",
+                "components/map-loader/widget.ts"
+              ]
+            }
+          ]
+        },
+        "2026-07-14": {
+          "date": "2026-07-14",
+          "heatScore": 14,
+          "linesChanged": 72,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/babel-compile.ts",
+            "components/terminal/events.ts",
+            "components/terminal/history.ts",
+            "components/terminal/render.ts",
+            "components/terminal/search.ts",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "cb3effd873567d45886e708ebe8ccc3beeae7793",
+              "author": "Brian Cullinan",
+              "date": "2026-07-14T22:49:33.000Z",
+              "message": "fix for stupid promises",
+              "linesAdded": 46,
+              "linesDeleted": 26,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/babel-compile.ts",
+                "components/terminal/events.ts",
+                "components/terminal/history.ts",
+                "components/terminal/render.ts",
+                "components/terminal/search.ts",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-13": {
+          "date": "2026-07-13",
+          "heatScore": 100,
+          "linesChanged": 88604,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/core/extensions.js",
+            "components/core/modules.js",
+            "components/core/preambles.js",
+            "components/filelist/iso-git.min.js",
+            "components/paint/paint.js",
+            "components/paint/paint.orig.js",
+            "components/paint/utilities.js",
+            "components/terminal/commands-quake3.js",
+            "components/terminal/events.ts",
+            "components/terminal/render.js",
+            "components/terminal/render.ts",
+            "components/terminal/search.js",
+            "components/terminal/search.ts",
+            "components/terminal/widget.ts"
+          ],
+          "commits": [
+            {
+              "hash": "7c1abbc05914d224d6f36146a347e610fdb6f34e",
+              "author": "Brian Cullinan",
+              "date": "2026-07-13T22:24:17.000Z",
+              "message": "more terminal stuff and cleanup",
+              "linesAdded": 1006,
+              "linesDeleted": 87598,
+              "filesChanged": [
+                "components/core/extensions.js",
+                "components/core/modules.js",
+                "components/core/preambles.js",
+                "components/filelist/iso-git.min.js",
+                "components/paint/paint.js",
+                "components/paint/paint.orig.js",
+                "components/paint/utilities.js",
+                "components/terminal/commands-quake3.js",
+                "components/terminal/events.ts",
+                "components/terminal/render.js",
+                "components/terminal/render.ts",
+                "components/terminal/search.js",
+                "components/terminal/search.ts",
+                "components/terminal/widget.ts"
+              ]
+            }
+          ]
+        },
+        "2026-07-12": {
+          "date": "2026-07-12",
+          "heatScore": 35,
+          "linesChanged": 387,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/menu.ts",
+            "components/terminal/widget.ts",
+            "components/terminal/xterm.js",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d199bf5f149a0a9c235e49bae13a0bcd9df4cc7f",
+              "author": "Brian Cullinan",
+              "date": "2026-07-12T22:29:24.000Z",
+              "message": "xterm widget booting up, now i need to restore log history and console overrides",
+              "linesAdded": 355,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/menu.ts",
+                "components/terminal/widget.ts",
+                "components/terminal/xterm.js",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-11": {
+          "date": "2026-07-11",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/toolbar.css",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "9922809b7988e0a266694028635a347620e7d374",
+              "author": "Brian Cullinan",
+              "date": "2026-07-11T23:37:57.000Z",
+              "message": "slightly better toolbar interaction",
+              "linesAdded": 23,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/toolbar.css",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-10": {
+          "date": "2026-07-10",
+          "heatScore": 24,
+          "linesChanged": 220,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/lumino-widget.ts",
+            "components/bundle/lumino.ts",
+            "components/bundle/menu.css",
+            "components/layout/settings.js",
+            "components/paint/bundle.js",
+            "components/paint/widget.ts",
+            "index.html",
+            "tsconfig.json",
+            "webpack.prod.js"
+          ],
+          "commits": [
+            {
+              "hash": "dfbcf052f41964b3173dfc43372e0e95a9fd8248",
+              "author": "Brian Cullinan",
+              "date": "2026-07-10T20:20:45.000Z",
+              "message": "fantastic menu generation, now just needs to be all in the top bar, and wired up to trigger_link",
+              "linesAdded": 161,
+              "linesDeleted": 59,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/lumino-widget.ts",
+                "components/bundle/lumino.ts",
+                "components/bundle/menu.css",
+                "components/layout/settings.js",
+                "components/paint/bundle.js",
+                "components/paint/widget.ts",
+                "index.html",
+                "tsconfig.json",
+                "webpack.prod.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-09": {
+          "date": "2026-07-09",
+          "heatScore": 16,
+          "linesChanged": 90,
+          "commitCount": 1,
+          "filesEdited": [
+            "app.bundle.js",
+            "components/bundle/lumino-resize.ts",
+            "components/bundle/lumino-widget.ts",
+            "components/bundle/lumino.ts",
+            "components/filelist/widget.ts",
+            "dev.js",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1183a7c1d3251c9865850889b872213fc21f547c",
+              "author": "Brian Cullinan",
+              "date": "2026-07-09T23:57:46.000Z",
+              "message": "resizing works on close and reopen events, trying to make it more responsive",
+              "linesAdded": 82,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "app.bundle.js",
+                "components/bundle/lumino-resize.ts",
+                "components/bundle/lumino-widget.ts",
+                "components/bundle/lumino.ts",
+                "components/filelist/widget.ts",
+                "dev.js",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-08": {
+          "date": "2026-07-08",
+          "heatScore": 21,
+          "linesChanged": 168,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/bundle/controls.css",
+            "components/bundle/menu-history.ts",
+            "components/bundle/toolbar.css",
+            "components/core/history.css",
+            "components/editor/events.js",
+            "components/editor/widget.ts",
+            "components/filelist/widget.ts",
+            "dist/app.bundle.js",
+            "package-lock.json",
+            "package.json",
+            "webpack.prod.js"
+          ],
+          "commits": [
+            {
+              "hash": "c312175cb24f2b6bdf5ed20fad3f1f3f09e0ea4c",
+              "author": "Brian Cullinan",
+              "date": "2026-07-08T22:48:42.000Z",
+              "message": "history toolbar works, needs a little more responsive work, ie. hide file list unless it was the last thing opened in mobile mode",
+              "linesAdded": 124,
+              "linesDeleted": 44,
+              "filesChanged": [
+                "components/bundle/controls.css",
+                "components/bundle/menu-history.ts",
+                "components/bundle/toolbar.css",
+                "components/core/history.css",
+                "components/editor/events.js",
+                "components/editor/widget.ts",
+                "components/filelist/widget.ts",
+                "dist/app.bundle.js",
+                "package-lock.json",
+                "package.json",
+                "webpack.prod.js"
+              ]
+            }
+          ]
+        },
+        "2026-07-07": {
+          "date": "2026-07-07",
+          "heatScore": 46,
+          "linesChanged": 542,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/bundle/controls.css",
+            "components/bundle/lumino.css",
+            "components/bundle/lumino.ts",
+            "components/bundle/menu-repos.ts",
+            "components/bundle/menu.css",
+            "components/bundle/menu.ts",
+            "components/bundle/status.ts",
+            "components/bundle/toolbar.css",
+            "components/bundle/tree.css",
+            "dist/app.bundle.js",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "69ba5a5dda2aa42bbce3a3169c59a0422fdeb0d3",
+              "author": "Brian Cullinan",
+              "date": "2026-07-07T20:34:57.000Z",
+              "message": "automatic resizing, one thing i asked gemini to do actually worked and it only took 3 tries",
+              "linesAdded": 340,
+              "linesDeleted": 202,
+              "filesChanged": [
+                "components/bundle/controls.css",
+                "components/bundle/lumino.css",
+                "components/bundle/lumino.ts",
+                "components/bundle/menu-repos.ts",
+                "components/bundle/menu.css",
+                "components/bundle/menu.ts",
+                "components/bundle/status.ts",
+                "components/bundle/toolbar.css",
+                "components/bundle/tree.css",
+                "dist/app.bundle.js",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2026-07-06": {
+          "date": "2026-07-06",
+          "heatScore": 54,
+          "linesChanged": 673,
+          "commitCount": 1,
+          "filesEdited": [
+            "components/bundle/lumino.css",
+            "components/bundle/lumino.ts",
+            "components/bundle/menu.css",
+            "components/bundle/menu.ts",
+            "components/bundle/toolbar-repos.ts",
+            "dist/app.bundle.js"
+          ],
+          "commits": [
+            {
+              "hash": "3224d973792a934223a8ab2307d287433604fe6d",
+              "author": "Brian Cullinan",
+              "date": "2026-07-06T23:20:28.000Z",
+              "message": "more menu stuff",
+              "linesAdded": 459,
+              "linesDeleted": 214,
+              "filesChanged": [
+                "components/bundle/lumino.css",
+                "components/bundle/lumino.ts",
+                "components/bundle/menu.css",
+                "components/bundle/menu.ts",
+                "components/bundle/toolbar-repos.ts",
+                "dist/app.bundle.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "tremulous-em": {
+      "projectName": "tremulous-em",
+      "localPath": "C:\\Users\\megam\\tremulous-em",
+      "remoteUrl": "git@github.com:AurigaSyno/tremulous-em.git",
+      "lastUpdated": "2026-09-24T02:37:22.989Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-06": {
+          "date": "2026-07-06",
+          "heatScore": 100,
+          "linesChanged": 22644,
+          "commitCount": 1,
+          "filesEdited": [
+            "Makefile",
+            "docs/index.html",
+            "docs/tremulous.js",
+            "docs/tremulous.wasm"
+          ],
+          "commits": [
+            {
+              "hash": "2935fd6be1e29a05a82b642c97650b87b1f7df72",
+              "author": "Brian Cullinan",
+              "date": "2026-07-06T17:59:15.000Z",
+              "message": "couple of compile fixes",
+              "linesAdded": 22643,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "Makefile",
+                "docs/index.html",
+                "docs/tremulous.js",
+                "docs/tremulous.wasm"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "webgl-quake3": {
+      "projectName": "webgl-quake3",
+      "localPath": "C:\\Users\\megam\\webgl-quake3",
+      "remoteUrl": "git@github.com:toji/webgl-quake3.git",
+      "lastUpdated": "2026-09-24T02:37:23.139Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-07-02": {
+          "date": "2026-07-02",
+          "heatScore": 100,
+          "linesChanged": 3480,
+          "commitCount": 1,
+          "filesEdited": [
+            "demo_baseq3/download.ps1",
+            "index.html",
+            "js/basis/basis-basics.js",
+            "js/basis/basis_convert.js",
+            "js/basis/basis_loader.js",
+            "js/basis/basis_transcoder.js",
+            "js/main.js",
+            "js/q3bsp.js",
+            "js/q3bsp_worker.js",
+            "js/q3glshader.js",
+            "js/q3movement.js",
+            "js/q3shader.js",
+            "js/util/webxr-polyfill.min.js",
+            "package-lock.json"
+          ],
+          "commits": [
+            {
+              "hash": "d8d52b21be5fe6cb8f752ea50ece8d1b6a71dab4",
+              "author": "Brian Cullinan",
+              "date": "2026-07-02T17:48:07.000Z",
+              "message": "community large number of vertexes fix, 16 bit to 32 bit, movement corner stuck fix, fetch instead of XHR, download script for demo content",
+              "linesAdded": 2435,
+              "linesDeleted": 1045,
+              "filesChanged": [
+                "demo_baseq3/download.ps1",
+                "index.html",
+                "js/basis/basis-basics.js",
+                "js/basis/basis_convert.js",
+                "js/basis/basis_loader.js",
+                "js/basis/basis_transcoder.js",
+                "js/main.js",
+                "js/q3bsp.js",
+                "js/q3bsp_worker.js",
+                "js/q3glshader.js",
+                "js/q3movement.js",
+                "js/q3shader.js",
+                "js/util/webxr-polyfill.min.js",
+                "package-lock.json"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

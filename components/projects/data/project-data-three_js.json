@@ -1,0 +1,846 @@
+{
+  "projectName": "three.js",
+  "localPath": "C:\\Users\\megam\\three.js",
+  "remoteUrl": "git@github.com:mrdoob/three.js.git",
+  "lastUpdated": "2026-09-24T03:04:16.232Z",
+  "screenshots": [
+    {
+      "filename": "screenshot.jpg",
+      "relativePath": "examples\\models\\gltf\\MaterialsVariantsShoe\\screenshot\\screenshot.jpg",
+      "date": "2026-06-30T17:29:19.698Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.gif",
+      "relativePath": "examples\\models\\gltf\\AnimatedMorphSphere\\screenshot\\screenshot.gif",
+      "date": "2026-06-30T17:29:19.397Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.png",
+      "relativePath": "devtools\\screenshot.png",
+      "date": "2026-06-30T17:29:17.741Z",
+      "source": "mtime"
+    }
+  ],
+  "dailyHeat": {
+    "2021-09-07": {
+      "date": "2021-09-07",
+      "heatScore": 15,
+      "linesChanged": 83,
+      "commitCount": 1,
+      "filesEdited": [
+        "docs/api/en/math/Quaternion.html",
+        "docs/api/en/math/Vector3.html",
+        "src/math/Quaternion.js",
+        "src/math/Vector3.js",
+        "test/unit/src/math/Quaternion.tests.js",
+        "test/unit/src/math/Vector3.tests.js"
+      ],
+      "commits": [
+        {
+          "hash": "0579cdeb721f4748ad5f8c46ca25fe6ecb2e3beb",
+          "author": "Brian Peiris",
+          "date": "2021-09-07T10:38:00.000Z",
+          "message": "Add randomDirection and random methods to Vector3 and Quaternion (#22494)",
+          "linesAdded": 83,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "docs/api/en/math/Quaternion.html",
+            "docs/api/en/math/Vector3.html",
+            "src/math/Quaternion.js",
+            "src/math/Vector3.js",
+            "test/unit/src/math/Quaternion.tests.js",
+            "test/unit/src/math/Vector3.tests.js"
+          ]
+        }
+      ]
+    },
+    "2021-07-19": {
+      "date": "2021-07-19",
+      "heatScore": 13,
+      "linesChanged": 48,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/sounds/Project_Utopia.mp3",
+        "examples/webaudio_sandbox.html"
+      ],
+      "commits": [
+        {
+          "hash": "ca535623582b17c837355f3d945bc9c19c8059e3",
+          "author": "Brian Peiris",
+          "date": "2021-07-19T16:03:31.000Z",
+          "message": "Fix the webaudio sandbox example in Safari (#22149)",
+          "linesAdded": 24,
+          "linesDeleted": 24,
+          "filesChanged": [
+            "examples/sounds/Project_Utopia.mp3",
+            "examples/webaudio_sandbox.html"
+          ]
+        }
+      ]
+    },
+    "2018-06-26": {
+      "date": "2018-06-26",
+      "heatScore": 10,
+      "linesChanged": 0,
+      "commitCount": 1,
+      "filesEdited": [],
+      "commits": [
+        {
+          "hash": "3ac4c045ab22a30961dde1f518f881349eae4f2c",
+          "author": "Brian Peiris",
+          "date": "2018-06-26T21:46:02.000Z",
+          "message": "Merge branch 'hubs-editor/editor-controls' of github.com:mozillareality/three.js into hubs-editor/editor-controls",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": []
+        }
+      ]
+    },
+    "2018-02-23": {
+      "date": "2018-02-23",
+      "heatScore": 10,
+      "linesChanged": 7,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/renderers/webvr/WebVRManager.js"
+      ],
+      "commits": [
+        {
+          "hash": "3ac9c87bd93f11d0fdca9055b187b68b90a5d545",
+          "author": "Brian Peiris",
+          "date": "2018-02-23T20:23:49.000Z",
+          "message": "formatting",
+          "linesAdded": 3,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "src/renderers/webvr/WebVRManager.js"
+          ]
+        }
+      ]
+    },
+    "2018-02-08": {
+      "date": "2018-02-08",
+      "heatScore": 11,
+      "linesChanged": 25,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/webvr_sandbox.html",
+        "src/renderers/webvr/WebVRManager.js"
+      ],
+      "commits": [
+        {
+          "hash": "59c50e7bac2c71463a95a57960118680d1c16d60",
+          "author": "Brian Peiris",
+          "date": "2018-02-08T22:41:40.000Z",
+          "message": "Fix poseObject transform (#2)",
+          "linesAdded": 18,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "examples/webvr_sandbox.html",
+            "src/renderers/webvr/WebVRManager.js"
+          ]
+        }
+      ]
+    },
+    "2017-09-20": {
+      "date": "2017-09-20",
+      "heatScore": 12,
+      "linesChanged": 36,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/core/BufferAttribute.js"
+      ],
+      "commits": [
+        {
+          "hash": "03035098e424d888c0288df72e358bf8f53aa15b",
+          "author": "Brian Sheridan",
+          "date": "2017-09-20T22:30:19.000Z",
+          "message": "Modify all typed BufferAttributes to accept 'normalized' as a param.",
+          "linesAdded": 18,
+          "linesDeleted": 18,
+          "filesChanged": [
+            "src/core/BufferAttribute.js"
+          ]
+        }
+      ]
+    },
+    "2017-03-30": {
+      "date": "2017-03-30",
+      "heatScore": 10,
+      "linesChanged": 4,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/materials/Material.js"
+      ],
+      "commits": [
+        {
+          "hash": "1dd8c69564560a3e2909d696bc3caea7d3623c9a",
+          "author": "Brian Chirls",
+          "date": "2017-03-30T04:58:48.000Z",
+          "message": "Copy Material `dithering` property in `copy` and `toJSON` #11076",
+          "linesAdded": 4,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "src/materials/Material.js"
+          ]
+        }
+      ]
+    },
+    "2017-03-29": {
+      "date": "2017-03-29",
+      "heatScore": 12,
+      "linesChanged": 42,
+      "commitCount": 1,
+      "filesEdited": [
+        "docs/api/materials/Material.html",
+        "examples/webgl_lights_spotlight.html",
+        "src/materials/Material.js",
+        "src/renderers/shaders/ShaderChunk.js",
+        "src/renderers/shaders/ShaderChunk/dithering_fragment.glsl",
+        "src/renderers/shaders/ShaderChunk/{removebanding_pars_fragment.glsl => dithering_pars_fragment.glsl}",
+        "src/renderers/shaders/ShaderChunk/removebanding_fragment.glsl",
+        "src/renderers/shaders/ShaderLib/meshlambert_frag.glsl",
+        "src/renderers/shaders/ShaderLib/meshphong_frag.glsl",
+        "src/renderers/shaders/ShaderLib/meshphysical_frag.glsl",
+        "src/renderers/webgl/WebGLProgram.js",
+        "src/renderers/webgl/WebGLPrograms.js"
+      ],
+      "commits": [
+        {
+          "hash": "e1f2773178d057bd6e8d40bcbc06a7756c150377",
+          "author": "Brian Chirls",
+          "date": "2017-03-29T21:53:10.000Z",
+          "message": "Rename removeBanding to dithering #11076",
+          "linesAdded": 21,
+          "linesDeleted": 21,
+          "filesChanged": [
+            "docs/api/materials/Material.html",
+            "examples/webgl_lights_spotlight.html",
+            "src/materials/Material.js",
+            "src/renderers/shaders/ShaderChunk.js",
+            "src/renderers/shaders/ShaderChunk/dithering_fragment.glsl",
+            "src/renderers/shaders/ShaderChunk/{removebanding_pars_fragment.glsl => dithering_pars_fragment.glsl}",
+            "src/renderers/shaders/ShaderChunk/removebanding_fragment.glsl",
+            "src/renderers/shaders/ShaderLib/meshlambert_frag.glsl",
+            "src/renderers/shaders/ShaderLib/meshphong_frag.glsl",
+            "src/renderers/shaders/ShaderLib/meshphysical_frag.glsl",
+            "src/renderers/webgl/WebGLProgram.js",
+            "src/renderers/webgl/WebGLPrograms.js"
+          ]
+        }
+      ]
+    },
+    "2017-03-28": {
+      "date": "2017-03-28",
+      "heatScore": 13,
+      "linesChanged": 45,
+      "commitCount": 1,
+      "filesEdited": [
+        "docs/api/materials/Material.html",
+        "examples/webgl_lights_spotlight.html",
+        "src/materials/Material.js",
+        "src/renderers/shaders/ShaderChunk.js",
+        "src/renderers/shaders/ShaderChunk/removebanding_fragment.glsl",
+        "src/renderers/shaders/ShaderChunk/removebanding_pars_fragment.glsl",
+        "src/renderers/shaders/ShaderLib/meshlambert_frag.glsl",
+        "src/renderers/shaders/ShaderLib/meshphong_frag.glsl",
+        "src/renderers/shaders/ShaderLib/meshphysical_frag.glsl",
+        "src/renderers/webgl/WebGLProgram.js",
+        "src/renderers/webgl/WebGLPrograms.js"
+      ],
+      "commits": [
+        {
+          "hash": "c40466c4a2f2a1526d2c6bb41804e31db4e620ae",
+          "author": "Brian Chirls",
+          "date": "2017-03-28T12:42:06.000Z",
+          "message": "Add parameter to Material to remove banding with dithering",
+          "linesAdded": 42,
+          "linesDeleted": 3,
+          "filesChanged": [
+            "docs/api/materials/Material.html",
+            "examples/webgl_lights_spotlight.html",
+            "src/materials/Material.js",
+            "src/renderers/shaders/ShaderChunk.js",
+            "src/renderers/shaders/ShaderChunk/removebanding_fragment.glsl",
+            "src/renderers/shaders/ShaderChunk/removebanding_pars_fragment.glsl",
+            "src/renderers/shaders/ShaderLib/meshlambert_frag.glsl",
+            "src/renderers/shaders/ShaderLib/meshphong_frag.glsl",
+            "src/renderers/shaders/ShaderLib/meshphysical_frag.glsl",
+            "src/renderers/webgl/WebGLProgram.js",
+            "src/renderers/webgl/WebGLPrograms.js"
+          ]
+        }
+      ]
+    },
+    "2017-03-27": {
+      "date": "2017-03-27",
+      "heatScore": 10,
+      "linesChanged": 14,
+      "commitCount": 1,
+      "filesEdited": [
+        "docs/api/math/Color.html"
+      ],
+      "commits": [
+        {
+          "hash": "f263d78f9becbe97f6a8e442118c33a28d322d96",
+          "author": "Brian A MacIntosh",
+          "date": "2017-03-27T01:47:01.000Z",
+          "message": "Merge pull request #1 from BrianMacIntosh/dev",
+          "linesAdded": 7,
+          "linesDeleted": 7,
+          "filesChanged": [
+            "docs/api/math/Color.html"
+          ]
+        }
+      ]
+    },
+    "2017-03-26": {
+      "date": "2017-03-26",
+      "heatScore": 14,
+      "linesChanged": 66,
+      "commitCount": 1,
+      "filesEdited": [
+        "docs/api/math/Color.html"
+      ],
+      "commits": [
+        {
+          "hash": "2514bd3f437fc25a071caa760863dfc9c7c62434",
+          "author": "Brian A MacIntosh",
+          "date": "2017-03-26T16:10:24.000Z",
+          "message": "grammar/style copy-edit, a few minor clarifications",
+          "linesAdded": 33,
+          "linesDeleted": 33,
+          "filesChanged": [
+            "docs/api/math/Color.html"
+          ]
+        }
+      ]
+    },
+    "2017-02-20": {
+      "date": "2017-02-20",
+      "heatScore": 10,
+      "linesChanged": 4,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/core/BufferGeometry.js"
+      ],
+      "commits": [
+        {
+          "hash": "8810f7d6635818cc3dcf50c48e8f6ba70c0dc6e2",
+          "author": "Brian Burke",
+          "date": "2017-02-20T16:47:23.000Z",
+          "message": "[BufferGeometry] normalizeNormals",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "src/core/BufferGeometry.js"
+          ]
+        }
+      ]
+    },
+    "2017-02-17": {
+      "date": "2017-02-17",
+      "heatScore": 10,
+      "linesChanged": 14,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/core/BufferGeometry.js"
+      ],
+      "commits": [
+        {
+          "hash": "b0fa17caec8accda1309a1a17dd1cf558b1c761b",
+          "author": "Brian Burke",
+          "date": "2017-02-17T22:04:30.000Z",
+          "message": "[BufferGeometry] normalizeNormals",
+          "linesAdded": 6,
+          "linesDeleted": 8,
+          "filesChanged": [
+            "src/core/BufferGeometry.js"
+          ]
+        }
+      ]
+    },
+    "2017-01-18": {
+      "date": "2017-01-18",
+      "heatScore": 10,
+      "linesChanged": 8,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/js/loaders/FBXLoader.js",
+        "src/geometries/PlaneGeometry.js",
+        "src/geometries/TubeGeometry.js",
+        "src/renderers/webgl/WebGLObjects.js"
+      ],
+      "commits": [
+        {
+          "hash": "441395277a59724cbfceb55ac22c495f59c1a2cd",
+          "author": "Brian Burke",
+          "date": "2017-01-18T22:14:43.000Z",
+          "message": "Correct detection of Uint32BufferAttribute for length of verticies",
+          "linesAdded": 4,
+          "linesDeleted": 4,
+          "filesChanged": [
+            "examples/js/loaders/FBXLoader.js",
+            "src/geometries/PlaneGeometry.js",
+            "src/geometries/TubeGeometry.js",
+            "src/renderers/webgl/WebGLObjects.js"
+          ]
+        }
+      ]
+    },
+    "2016-10-07": {
+      "date": "2016-10-07",
+      "heatScore": 10,
+      "linesChanged": 12,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/js/controls/VRControls.js",
+        "examples/js/effects/VREffect.js"
+      ],
+      "commits": [
+        {
+          "hash": "56a96d88807ac59391e85867ce2beedfa490c095",
+          "author": "Brian Chirls",
+          "date": "2016-10-07T03:59:26.000Z",
+          "message": "VREffect and VRControls: Catch error retreiving VR Displays (#9825)",
+          "linesAdded": 10,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "examples/js/controls/VRControls.js",
+            "examples/js/effects/VREffect.js"
+          ]
+        }
+      ]
+    },
+    "2016-09-27": {
+      "date": "2016-09-27",
+      "heatScore": 12,
+      "linesChanged": 44,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/js/effects/VREffect.js"
+      ],
+      "commits": [
+        {
+          "hash": "43e11a45c9b2e9317c2643c0e30ddc744c6db67a",
+          "author": "Brian Chirls",
+          "date": "2016-09-27T14:16:03.000Z",
+          "message": "VREffect: Check VRLayer configuration on every render (#9778)",
+          "linesAdded": 26,
+          "linesDeleted": 18,
+          "filesChanged": [
+            "examples/js/effects/VREffect.js"
+          ]
+        }
+      ]
+    },
+    "2016-09-22": {
+      "date": "2016-09-22",
+      "heatScore": 25,
+      "linesChanged": 237,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/js/SkyShader.js",
+        "examples/webgl_shaders_sky.html"
+      ],
+      "commits": [
+        {
+          "hash": "16a841963ebd766bdda2cb18a32c9383d48bcebb",
+          "author": "Brian Chirls",
+          "date": "2016-09-22T23:32:10.000Z",
+          "message": "Optimize Sky Shader (#9684)",
+          "linesAdded": 100,
+          "linesDeleted": 137,
+          "filesChanged": [
+            "examples/js/SkyShader.js",
+            "examples/webgl_shaders_sky.html"
+          ]
+        }
+      ]
+    },
+    "2016-09-21": {
+      "date": "2016-09-21",
+      "heatScore": 10,
+      "linesChanged": 6,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/js/effects/VREffect.js"
+      ],
+      "commits": [
+        {
+          "hash": "7979ea61a5dc82fda42ef7773052f2f85b344a2d",
+          "author": "Brian Chirls",
+          "date": "2016-09-21T22:57:57.000Z",
+          "message": "VREffect: handle empty arrays for display bounds (#9732)",
+          "linesAdded": 4,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "examples/js/effects/VREffect.js"
+          ]
+        }
+      ]
+    },
+    "2016-07-07": {
+      "date": "2016-07-07",
+      "heatScore": 13,
+      "linesChanged": 49,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/js/effects/VREffect.js"
+      ],
+      "commits": [
+        {
+          "hash": "5060cdd81a156904ed68bfd7253fbe86c9f3b0fe",
+          "author": "Brian Chirls",
+          "date": "2016-07-07T12:08:30.000Z",
+          "message": "VREffect: Support layer bounds (#9290)",
+          "linesAdded": 35,
+          "linesDeleted": 14,
+          "filesChanged": [
+            "examples/js/effects/VREffect.js"
+          ]
+        }
+      ]
+    },
+    "2016-06-17": {
+      "date": "2016-06-17",
+      "heatScore": 10,
+      "linesChanged": 4,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/renderers/WebGLRenderer.js"
+      ],
+      "commits": [
+        {
+          "hash": "570499d5e68aae790cc9bf9653279fd50421ccd1",
+          "author": "Brian Chirls",
+          "date": "2016-06-17T17:29:42.000Z",
+          "message": "Render sort order should consider shared shaders to minimize switching (#9164)",
+          "linesAdded": 4,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "src/renderers/WebGLRenderer.js"
+          ]
+        }
+      ]
+    },
+    "2016-06-13": {
+      "date": "2016-06-13",
+      "heatScore": 10,
+      "linesChanged": 5,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/js/SkyShader.js"
+      ],
+      "commits": [
+        {
+          "hash": "e62a212bcd32fa063bd6a03746ba9a3b7213a9a7",
+          "author": "Brian Chirls",
+          "date": "2016-06-13T15:42:55.000Z",
+          "message": "Fix Sky Shader on Android/S6 (#8382) (#8614)",
+          "linesAdded": 4,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "examples/js/SkyShader.js"
+          ]
+        }
+      ]
+    },
+    "2016-06-03": {
+      "date": "2016-06-03",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/animation/PropertyBinding.js"
+      ],
+      "commits": [
+        {
+          "hash": "8ff7a4ba0893b17118be7a36d6555a80ff61060e",
+          "author": "Anthony BRIAND",
+          "date": "2016-06-03T16:43:18.000Z",
+          "message": "Refs #9057 : Fix test for property existence in property binding in the case if property is a false boolean or a numeric equal to zero (#9064)",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "src/animation/PropertyBinding.js"
+          ]
+        }
+      ]
+    },
+    "2016-06-02": {
+      "date": "2016-06-02",
+      "heatScore": 100,
+      "linesChanged": 5399,
+      "commitCount": 1,
+      "filesEdited": [
+        "test/benchmark/README.MD",
+        "test/benchmark/benchmark-1.0.0.js",
+        "test/benchmark/benchmark.js",
+        "test/benchmark/benchmarking_float32array.html",
+        "test/benchmark/benchmarking_vector3components.html",
+        "test/benchmark/benchmarking_vector3length.html",
+        "test/benchmark/benchmarking_vector3storage.html",
+        "test/benchmark/benchmarks.html",
+        "test/benchmark/core/Float32Array.js",
+        "test/benchmark/core/Vector3Components.js",
+        "test/benchmark/core/Vector3Length.js",
+        "test/benchmark/core/Vector3Storage.js",
+        "test/benchmark/normalize.css",
+        "test/benchmark/style.css",
+        "test/benchmark/vendor/benchmark-2.1.0.min.js",
+        "test/benchmark/vendor/lodash.min.js"
+      ],
+      "commits": [
+        {
+          "hash": "ef57b34bba915dcd4ece92e8c2bdedf872714d5d",
+          "author": "Brian",
+          "date": "2016-06-02T21:44:29.000Z",
+          "message": "Benchmarks Suite Added (#8999)",
+          "linesAdded": 1048,
+          "linesDeleted": 4351,
+          "filesChanged": [
+            "test/benchmark/README.MD",
+            "test/benchmark/benchmark-1.0.0.js",
+            "test/benchmark/benchmark.js",
+            "test/benchmark/benchmarking_float32array.html",
+            "test/benchmark/benchmarking_vector3components.html",
+            "test/benchmark/benchmarking_vector3length.html",
+            "test/benchmark/benchmarking_vector3storage.html",
+            "test/benchmark/benchmarks.html",
+            "test/benchmark/core/Float32Array.js",
+            "test/benchmark/core/Vector3Components.js",
+            "test/benchmark/core/Vector3Length.js",
+            "test/benchmark/core/Vector3Storage.js",
+            "test/benchmark/normalize.css",
+            "test/benchmark/style.css",
+            "test/benchmark/vendor/benchmark-2.1.0.min.js",
+            "test/benchmark/vendor/lodash.min.js"
+          ]
+        }
+      ]
+    },
+    "2016-05-25": {
+      "date": "2016-05-25",
+      "heatScore": 15,
+      "linesChanged": 82,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/webgl_buffergeometry_instancing_billboards.html"
+      ],
+      "commits": [
+        {
+          "hash": "4d0e1db0483b43fe162428c7fb00d364b220d831",
+          "author": "Brian",
+          "date": "2016-05-25T01:34:07.000Z",
+          "message": "Webgl BufferGeometry Instance Billboard Example GPU Boost (#8965)",
+          "linesAdded": 27,
+          "linesDeleted": 55,
+          "filesChanged": [
+            "examples/webgl_buffergeometry_instancing_billboards.html"
+          ]
+        }
+      ]
+    },
+    "2016-05-03": {
+      "date": "2016-05-03",
+      "heatScore": 13,
+      "linesChanged": 53,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/js/effects/VREffect.js"
+      ],
+      "commits": [
+        {
+          "hash": "91f913dc4e1dd7d7998d1ad9e3e2796c0678e8df",
+          "author": "Brian Chirls",
+          "date": "2016-05-03T00:30:15.000Z",
+          "message": "Fix VREffect handling of full screen state (#8788)",
+          "linesAdded": 28,
+          "linesDeleted": 25,
+          "filesChanged": [
+            "examples/js/effects/VREffect.js"
+          ]
+        }
+      ]
+    },
+    "2016-04-27": {
+      "date": "2016-04-27",
+      "heatScore": 11,
+      "linesChanged": 18,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/js/effects/VREffect.js"
+      ],
+      "commits": [
+        {
+          "hash": "65a16691beded6282cdaee55d94584c8d86bf872",
+          "author": "Brian Chirls",
+          "date": "2016-04-27T04:39:38.000Z",
+          "message": "Fix VREffect support for webvr-polyfill",
+          "linesAdded": 16,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "examples/js/effects/VREffect.js"
+          ]
+        }
+      ]
+    },
+    "2015-04-11": {
+      "date": "2015-04-11",
+      "heatScore": 10,
+      "linesChanged": 4,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/vr_cubes.html"
+      ],
+      "commits": [
+        {
+          "hash": "f6c07e8972d8446b58fe5f677883b22c4a88412a",
+          "author": "Brian Peiris",
+          "date": "2015-04-11T20:19:14.000Z",
+          "message": "Ignore intersections with crosshair",
+          "linesAdded": 3,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "examples/vr_cubes.html"
+          ]
+        }
+      ]
+    },
+    "2015-04-06": {
+      "date": "2015-04-06",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/vr_cubes.html"
+      ],
+      "commits": [
+        {
+          "hash": "85f0f52b37b4da1a20d8f9d1801bce08b27e2bc9",
+          "author": "Brian Peiris",
+          "date": "2015-04-06T20:18:55.000Z",
+          "message": "Use MeshBasicMaterial.",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "examples/vr_cubes.html"
+          ]
+        }
+      ]
+    },
+    "2015-04-05": {
+      "date": "2015-04-05",
+      "heatScore": 10,
+      "linesChanged": 3,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/vr_cubes.html"
+      ],
+      "commits": [
+        {
+          "hash": "5b72603a3feb218113fa54263af449e3a78e6b33",
+          "author": "Brian Peiris",
+          "date": "2015-04-05T22:01:54.000Z",
+          "message": "Bit nicer formatting.",
+          "linesAdded": 3,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "examples/vr_cubes.html"
+          ]
+        }
+      ]
+    },
+    "2014-07-29": {
+      "date": "2014-07-29",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "examples/js/loaders/OBJLoader.js"
+      ],
+      "commits": [
+        {
+          "hash": "a321ba05f02ae3a1586a4060a53f5ad63b90729b",
+          "author": "brian",
+          "date": "2014-07-29T18:29:00.000Z",
+          "message": "handle another case of line continuation",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "examples/js/loaders/OBJLoader.js"
+          ]
+        }
+      ]
+    },
+    "2013-01-05": {
+      "date": "2013-01-05",
+      "heatScore": 17,
+      "linesChanged": 106,
+      "commitCount": 1,
+      "filesEdited": [
+        "test/unit/math/Color.js"
+      ],
+      "commits": [
+        {
+          "hash": "354f8ee37e408ae9e3caa6f18ded678b29914214",
+          "author": "Brian Cajes",
+          "date": "2013-01-05T21:15:52.000Z",
+          "message": "testing with a larger variety of colors",
+          "linesAdded": 50,
+          "linesDeleted": 56,
+          "filesChanged": [
+            "test/unit/math/Color.js"
+          ]
+        }
+      ]
+    },
+    "2012-12-31": {
+      "date": "2012-12-31",
+      "heatScore": 21,
+      "linesChanged": 168,
+      "commitCount": 1,
+      "filesEdited": [
+        "test/unit/math/Color.js"
+      ],
+      "commits": [
+        {
+          "hash": "0642eea18472306bb150db0339533bad93a755d1",
+          "author": "Brian Cajes",
+          "date": "2012-12-31T21:52:27.000Z",
+          "message": "up Color.js test coverage to 78%",
+          "linesAdded": 167,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "test/unit/math/Color.js"
+          ]
+        }
+      ]
+    },
+    "2012-12-30": {
+      "date": "2012-12-30",
+      "heatScore": 10,
+      "linesChanged": 6,
+      "commitCount": 1,
+      "filesEdited": [
+        "test/unit/math/Color.js~"
+      ],
+      "commits": [
+        {
+          "hash": "9265c0170559ba6a89b24a41c115ebe5439a49f2",
+          "author": "Brian Cajes",
+          "date": "2012-12-30T22:31:01.000Z",
+          "message": "started adding Color unit tests",
+          "linesAdded": 0,
+          "linesDeleted": 6,
+          "filesChanged": [
+            "test/unit/math/Color.js~"
+          ]
+        }
+      ]
+    }
+  }
+}

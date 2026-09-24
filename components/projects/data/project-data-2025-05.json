@@ -1,0 +1,1474 @@
+{
+  "yearMonth": "2025-05",
+  "generatedAt": "2026-09-24T02:37:24.591Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-05-31": {
+          "date": "2025-05-31",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "59917e1137ab354cb17282e84f9b88fc1880f9de",
+              "author": "Brian Cullinan",
+              "date": "2025-05-31T18:05:20.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-05-30": {
+          "date": "2025-05-30",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "809b225cbcb1946c93c7738acb6a52e2fe25343b",
+              "author": "Brian Cullinan",
+              "date": "2025-05-30T22:57:13.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-05-29": {
+          "date": "2025-05-29",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "892a00ca083675ffb3d323975ef802473c4909ed",
+              "author": "Brian Cullinan",
+              "date": "2025-05-29T23:39:23.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-05-28": {
+          "date": "2025-05-28",
+          "heatScore": 11,
+          "linesChanged": 25,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "15279a6e488ff4493bcdab81191172dccdfbafdb",
+              "author": "Brian Cullinan",
+              "date": "2025-05-28T22:51:45.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 17,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-05-27": {
+          "date": "2025-05-27",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "74515350dbbd9e801eb66fba235199726f3c93c5",
+              "author": "Brian Cullinan",
+              "date": "2025-05-27T22:08:21.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-05-26": {
+          "date": "2025-05-26",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "7e9266b207b7ed3ba1219b66cf7fa914520a3b14",
+              "author": "Brian Cullinan",
+              "date": "2025-05-26T20:59:58.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-05-24": {
+          "date": "2025-05-24",
+          "heatScore": 17,
+          "linesChanged": 117,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/game/bg_mods.h",
+            "code/game/bg_public.h",
+            "code/game/g_combat.c"
+          ],
+          "commits": [
+            {
+              "hash": "3bdf60961c629a0a14aef0ad74690c0966e015ee",
+              "author": "LegendaryGuard",
+              "date": "2025-05-24T15:37:22.000Z",
+              "message": "Simplify mean of death (MOD_*) declaration to a single line of each",
+              "linesAdded": 54,
+              "linesDeleted": 63,
+              "filesChanged": [
+                "README.md",
+                "code/game/bg_mods.h",
+                "code/game/bg_public.h",
+                "code/game/g_combat.c"
+              ]
+            }
+          ]
+        },
+        "2025-05-23": {
+          "date": "2025-05-23",
+          "heatScore": 18,
+          "linesChanged": 121,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitattributes",
+            ".github/workflows/build.yml",
+            ".gitignore"
+          ],
+          "commits": [
+            {
+              "hash": "16f24ec51d810e858e6428e6c2752a0028138871",
+              "author": "LegendaryGuard",
+              "date": "2025-05-23T23:18:36.000Z",
+              "message": "Add .gitattributes, .gitignore and GitHub build workflows",
+              "linesAdded": 121,
+              "linesDeleted": 0,
+              "filesChanged": [
+                ".gitattributes",
+                ".github/workflows/build.yml",
+                ".gitignore"
+              ]
+            }
+          ]
+        },
+        "2025-05-17": {
+          "date": "2025-05-17",
+          "heatScore": 11,
+          "linesChanged": 24,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/q_math.c",
+            "code/game/q_shared.h"
+          ],
+          "commits": [
+            {
+              "hash": "bcf463a92d7af93dd513d3791417f686c8acbaa5",
+              "author": "Eugene",
+              "date": "2025-05-17T09:17:52.000Z",
+              "message": "Merge pull request #42 from LegendaryGuard/removeDeadCode-BoxOnPlaneSide",
+              "linesAdded": 0,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "code/game/q_math.c",
+                "code/game/q_shared.h"
+              ]
+            }
+          ]
+        },
+        "2025-05-15": {
+          "date": "2025-05-15",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "6fe689cc227b266b8968e568e4b3303ddbcd9d0e",
+              "author": "LegendaryGuard",
+              "date": "2025-05-15T00:21:16.000Z",
+              "message": "Fix grappling hook visual muzzle position, now it's tagged correctly to 'tag_flash' and fix the missing grappling trail shader",
+              "linesAdded": 19,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "README.md",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2025-05-07": {
+          "date": "2025-05-07",
+          "heatScore": 36,
+          "linesChanged": 403,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/q_math.c",
+            "code/game/q_shared.h"
+          ],
+          "commits": [
+            {
+              "hash": "912f31fda1d437e6e37a13c08de028d228c9367d",
+              "author": "Eugene",
+              "date": "2025-05-07T16:39:28.000Z",
+              "message": "Merge pull request #40 from LegendaryGuard/removeDeadCode-BoxOnPlaneSide",
+              "linesAdded": 0,
+              "linesDeleted": 403,
+              "filesChanged": [
+                "code/game/q_math.c",
+                "code/game/q_shared.h"
+              ]
+            }
+          ]
+        },
+        "2025-05-04": {
+          "date": "2025-05-04",
+          "heatScore": 36,
+          "linesChanged": 403,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/q_math.c",
+            "code/game/q_shared.h"
+          ],
+          "commits": [
+            {
+              "hash": "edeea6817606ea13355cd51d802b0b9995b3fdd9",
+              "author": "LegendGuard",
+              "date": "2025-05-04T17:28:02.000Z",
+              "message": "Remove dead code of BoxOnPlaneSide, SetPlaneSignbits and PlaneTypeForNormal, these are used on engine code only",
+              "linesAdded": 0,
+              "linesDeleted": 403,
+              "filesChanged": [
+                "code/game/q_math.c",
+                "code/game/q_shared.h"
+              ]
+            }
+          ]
+        },
+        "2025-05-03": {
+          "date": "2025-05-03",
+          "heatScore": 32,
+          "linesChanged": 333,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/game/bg_events.h",
+            "code/game/bg_misc.c",
+            "code/game/bg_public.h"
+          ],
+          "commits": [
+            {
+              "hash": "ca6ea9a4c41fe49e7cc7c595935fd9d04bcd8e8f",
+              "author": "Eugene",
+              "date": "2025-05-03T20:48:42.000Z",
+              "message": "Merge pull request #38 from LegendaryGuard/bg_events",
+              "linesAdded": 124,
+              "linesDeleted": 209,
+              "filesChanged": [
+                "README.md",
+                "code/game/bg_events.h",
+                "code/game/bg_misc.c",
+                "code/game/bg_public.h"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-05-21": {
+          "date": "2025-05-21",
+          "heatScore": 29,
+          "linesChanged": 292,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "c546b85d81c922040477fcbe29e6f4bb261ea0c4",
+              "author": "dependabot[bot]",
+              "date": "2025-05-21T18:03:16.000Z",
+              "message": "Bump vite from 6.2.5 to 6.3.4 (#68)",
+              "linesAdded": 202,
+              "linesDeleted": 90,
+              "filesChanged": [
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2025-05-20": {
+          "date": "2025-05-20",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/file-menu/export-window/export-window.vue",
+            "src/components/modal/modal.vue",
+            "src/styles/_variables.scss"
+          ],
+          "commits": [
+            {
+              "hash": "0bd2ea4682a9503b3e70c0b300bd27c59f235ede",
+              "author": "Igor Zinken",
+              "date": "2025-05-20T20:26:29.000Z",
+              "message": "Address issue where export window would not display correct height on certain laptop screen sizes",
+              "linesAdded": 11,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "src/components/file-menu/export-window/export-window.vue",
+                "src/components/modal/modal.vue",
+                "src/styles/_variables.scss"
+              ]
+            }
+          ]
+        },
+        "2025-05-19": {
+          "date": "2025-05-19",
+          "heatScore": 44,
+          "linesChanged": 511,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/document-preview/document-preview.vue",
+            "src/components/file-menu/export-window/export-window.vue",
+            "src/components/file-menu/export-window/messages.json",
+            "src/styles/_variables.scss",
+            "src/utils/string-util.ts"
+          ],
+          "commits": [
+            {
+              "hash": "dbcf9b92ce832af680793f684b60de86dfa0b2f3",
+              "author": "Igor Zinken",
+              "date": "2025-05-19T14:31:50.000Z",
+              "message": "Refactored export window to show original and preview side by side. Improved performance of preview rendering",
+              "linesAdded": 367,
+              "linesDeleted": 144,
+              "filesChanged": [
+                "src/components/document-preview/document-preview.vue",
+                "src/components/file-menu/export-window/export-window.vue",
+                "src/components/file-menu/export-window/messages.json",
+                "src/styles/_variables.scss",
+                "src/utils/string-util.ts"
+              ]
+            }
+          ]
+        },
+        "2025-05-14": {
+          "date": "2025-05-14",
+          "heatScore": 13,
+          "linesChanged": 58,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/layer-effects/layer-effects.vue",
+            "src/components/layer-effects/messages.json",
+            "src/definitions/document.ts",
+            "src/factories/filters-factory.ts",
+            "src/rendering/filters/adjustments.ts",
+            "src/workers/filter.worker.ts",
+            "tests/unit/factories/filters-factory.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "4d1e1a8fd68dcfac7230cde8e4d62a5ab80073d5",
+              "author": "Igor Zinken",
+              "date": "2025-05-14T17:45:45.000Z",
+              "message": "Implement color inversion adjustment filter",
+              "linesAdded": 45,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "src/components/layer-effects/layer-effects.vue",
+                "src/components/layer-effects/messages.json",
+                "src/definitions/document.ts",
+                "src/factories/filters-factory.ts",
+                "src/rendering/filters/adjustments.ts",
+                "src/workers/filter.worker.ts",
+                "tests/unit/factories/filters-factory.spec.ts"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-05-31": {
+          "date": "2025-05-31",
+          "heatScore": 11,
+          "linesChanged": 24,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_v3_test.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "8642757971e8de16c72f362851a867f0c647f263",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-05-31T22:32:11.000Z",
+              "message": "Made V3 NODES_LIST work properly",
+              "linesAdded": 13,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "comfy_extras/nodes_v3_test.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-30": {
+          "date": "2025-05-30",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/chroma/layers.py"
+          ],
+          "commits": [
+            {
+              "hash": "08b7cc750681be5abaf31cfa0f7003eb6fc8cf56",
+              "author": "drhead",
+              "date": "2025-05-30T22:09:54.000Z",
+              "message": "use fused multiply-add pointwise ops in chroma (#8279)",
+              "linesAdded": 9,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "comfy/ldm/chroma/layers.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-29": {
+          "date": "2025-05-29",
+          "heatScore": 21,
+          "linesChanged": 169,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/apis/bfl_api.py",
+            "comfy_api_nodes/nodes_bfl.py"
+          ],
+          "commits": [
+            {
+              "hash": "aeba0b3a268eeb66c3a12cae6fd97f7c2d28f36f",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-05-29T21:14:27.000Z",
+              "message": "Reduce code duplication for [pro] and [max], rename Pro and Max to [pro] and [max] to be consistent with other BFL nodes, make default seed for Kontext nodes be 1234. since 0 is interpreted by API as 'choose random seed' (#8337)",
+              "linesAdded": 12,
+              "linesDeleted": 157,
+              "filesChanged": [
+                "comfy_api_nodes/apis/bfl_api.py",
+                "comfy_api_nodes/nodes_bfl.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-28": {
+          "date": "2025-05-28",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/lora.py"
+          ],
+          "commits": [
+            {
+              "hash": "1c1687ab1c3ba5b7d952d92359cfb0acd636da5f",
+              "author": "comfyanonymous",
+              "date": "2025-05-28T22:47:15.000Z",
+              "message": "Support HiDream SimpleTuner loras. (#8318)",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/lora.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-27": {
+          "date": "2025-05-27",
+          "heatScore": 30,
+          "linesChanged": 306,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/v3/io.py"
+          ],
+          "commits": [
+            {
+              "hash": "880f756dc1c776ef2e3a45f7b2fae42699d9a828",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-05-27T22:02:17.000Z",
+              "message": "More progress on V3 definition",
+              "linesAdded": 245,
+              "linesDeleted": 61,
+              "filesChanged": [
+                "comfy_api/v3/io.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-26": {
+          "date": "2025-05-26",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "89a84e32d2a771743ba10d6a6a0634f7e321fef5",
+              "author": "comfyanonymous",
+              "date": "2025-05-26T20:39:27.000Z",
+              "message": "Disable initial GPU load when novram is used. (#8294)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-25": {
+          "date": "2025-05-25",
+          "heatScore": 34,
+          "linesChanged": 366,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "comfy/cli_args.py",
+            "comfy/ldm/chroma/model.py",
+            "comfy/ldm/modules/attention.py",
+            "comfy/ldm/wan/model.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/model_management.py",
+            "comfy_api/torch_helpers/__init__.py",
+            "comfy_api/torch_helpers/torch_compile.py",
+            "comfy_api_nodes/nodes_kling.py",
+            "comfy_api_nodes/util/__init__.py",
+            "comfy_api_nodes/util/validation_utils.py",
+            "comfy_extras/nodes_images.py",
+            "comfy_extras/nodes_load_3d.py",
+            "comfy_extras/nodes_string.py",
+            "comfy_extras/nodes_torch_compile.py",
+            "comfy_extras/nodes_wan.py",
+            "comfyui_version.py",
+            "execution.py",
+            "main.py",
+            "node_helpers.py",
+            "nodes.py",
+            "pyproject.toml",
+            "requirements.txt",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "ef641f3e4bf2e0d743c1d84a0ebc1f85a9487233",
+              "author": "Dr.Lt.Data",
+              "date": "2025-05-25T17:23:34.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 293,
+              "linesDeleted": 73,
+              "filesChanged": [
+                "README.md",
+                "comfy/cli_args.py",
+                "comfy/ldm/chroma/model.py",
+                "comfy/ldm/modules/attention.py",
+                "comfy/ldm/wan/model.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/model_management.py",
+                "comfy_api/torch_helpers/__init__.py",
+                "comfy_api/torch_helpers/torch_compile.py",
+                "comfy_api_nodes/nodes_kling.py",
+                "comfy_api_nodes/util/__init__.py",
+                "comfy_api_nodes/util/validation_utils.py",
+                "comfy_extras/nodes_images.py",
+                "comfy_extras/nodes_load_3d.py",
+                "comfy_extras/nodes_string.py",
+                "comfy_extras/nodes_torch_compile.py",
+                "comfy_extras/nodes_wan.py",
+                "comfyui_version.py",
+                "execution.py",
+                "main.py",
+                "node_helpers.py",
+                "nodes.py",
+                "pyproject.toml",
+                "requirements.txt",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-24": {
+          "date": "2025-05-24",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfyui_version.py",
+            "pyproject.toml"
+          ],
+          "commits": [
+            {
+              "hash": "ad3bd8aa4904de8c3798e148fcf02b00ac14277c",
+              "author": "comfyanonymous",
+              "date": "2025-05-24T21:30:37.000Z",
+              "message": "ComfyUI version 0.3.36",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfyui_version.py",
+                "pyproject.toml"
+              ]
+            }
+          ]
+        },
+        "2025-05-23": {
+          "date": "2025-05-23",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "0b50d4c0db025f4c1ede7d1094567bb22a8901bf",
+              "author": "comfyanonymous",
+              "date": "2025-05-23T21:43:50.000Z",
+              "message": "Add argument to explicitly enable fp8 compute support. (#8257)",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-22": {
+          "date": "2025-05-22",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/wan/model.py",
+            "comfy/model_base.py",
+            "comfy_extras/nodes_wan.py"
+          ],
+          "commits": [
+            {
+              "hash": "f85c08df0615a587e0974678b01199b88a1caae0",
+              "author": "comfyanonymous",
+              "date": "2025-05-22T23:22:26.000Z",
+              "message": "Make VACE conditionings stackable. (#8240)",
+              "linesAdded": 23,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "comfy/ldm/wan/model.py",
+                "comfy/model_base.py",
+                "comfy_extras/nodes_wan.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-21": {
+          "date": "2025-05-21",
+          "heatScore": 18,
+          "linesChanged": 125,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/venv_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "c3f48337aee68d31464f4ec71f40e14756155441",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-05-21T23:27:27.000Z",
+              "message": "Create venv_management.py, add get_bootstrap_requirements_string() to help in bootstrapping a new venv's torch dependencies based on existing venv",
+              "linesAdded": 125,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "app/venv_management.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-20": {
+          "date": "2025-05-20",
+          "heatScore": 48,
+          "linesChanged": 580,
+          "commitCount": 1,
+          "filesEdited": [
+            "tests-api/conftest.py",
+            "tests-api/test_api_by_tag.py",
+            "tests-api/test_endpoint_existence.py",
+            "tests-api/test_schema_validation.py",
+            "tests-api/test_spec_validation.py",
+            "tests-api/utils/schema_utils.py",
+            "tests-api/utils/validation.py"
+          ],
+          "commits": [
+            {
+              "hash": "e8a92e4c9bdd17f464f0eeee864c824e5c3d42d5",
+              "author": "bymyself",
+              "date": "2025-05-20T19:26:56.000Z",
+              "message": "Fix linting issues in API tests",
+              "linesAdded": 288,
+              "linesDeleted": 292,
+              "filesChanged": [
+                "tests-api/conftest.py",
+                "tests-api/test_api_by_tag.py",
+                "tests-api/test_endpoint_existence.py",
+                "tests-api/test_schema_validation.py",
+                "tests-api/test_spec_validation.py",
+                "tests-api/utils/schema_utils.py",
+                "tests-api/utils/validation.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-19": {
+          "date": "2025-05-19",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "4f3b50ba510e02fa3fdd8c755ef9ad319b36bd61",
+              "author": "filtered",
+              "date": "2025-05-19T20:40:55.000Z",
+              "message": "Update README ROCm text to match link (#8199)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2025-05-18": {
+          "date": "2025-05-18",
+          "heatScore": 100,
+          "linesChanged": 3450,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "comfy/comfy_types/node_typing.py",
+            "comfy/ldm/ace/vae/music_vocoder.py",
+            "comfy/ldm/audio/autoencoder.py",
+            "comfy/ldm/hunyuan_video/model.py",
+            "comfy/ldm/wan/model.py",
+            "comfy/lora.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/ops.py",
+            "comfy/rmsnorm.py",
+            "comfy/sd.py",
+            "comfy/supported_models.py",
+            "comfy/utils.py",
+            "comfy_api/input/video_types.py",
+            "comfy_api/input_impl/video_types.py",
+            "comfy_api_nodes/apinode_utils.py",
+            "comfy_api_nodes/apis/client.py",
+            "comfy_api_nodes/apis/request_logger.py",
+            "comfy_api_nodes/nodes_bfl.py",
+            "comfy_api_nodes/nodes_ideogram.py",
+            "comfy_api_nodes/nodes_kling.py",
+            "comfy_api_nodes/nodes_luma.py",
+            "comfy_api_nodes/nodes_minimax.py",
+            "comfy_api_nodes/nodes_openai.py",
+            "comfy_api_nodes/nodes_pika.py",
+            "comfy_api_nodes/nodes_pixverse.py",
+            "comfy_api_nodes/nodes_recraft.py",
+            "comfy_api_nodes/nodes_stability.py",
+            "comfy_api_nodes/nodes_veo2.py",
+            "comfy_extras/nodes_apg.py",
+            "comfy_extras/nodes_audio.py",
+            "comfy_extras/nodes_camera_trajectory.py",
+            "comfy_extras/nodes_cond.py",
+            "comfy_extras/nodes_hunyuan.py",
+            "comfy_extras/nodes_load_3d.py",
+            "comfy_extras/nodes_string.py",
+            "comfy_extras/nodes_wan.py",
+            "comfyui_version.py",
+            "custom_nodes/example_node.py.example",
+            "custom_nodes/websocket_image_save.py",
+            "execution.py",
+            "fix_torch.py",
+            "main.py",
+            "nodes.py",
+            "pyproject.toml",
+            "requirements.txt",
+            "script_examples/basic_api_example.py",
+            "server.py",
+            "tests-unit/comfy_api_test/video_types_test.py"
+          ],
+          "commits": [
+            {
+              "hash": "9ac185456ffe83ec85f82e2155cccfab65ee52c6",
+              "author": "Dr.Lt.Data",
+              "date": "2025-05-18T21:04:10.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 2763,
+              "linesDeleted": 687,
+              "filesChanged": [
+                "README.md",
+                "comfy/comfy_types/node_typing.py",
+                "comfy/ldm/ace/vae/music_vocoder.py",
+                "comfy/ldm/audio/autoencoder.py",
+                "comfy/ldm/hunyuan_video/model.py",
+                "comfy/ldm/wan/model.py",
+                "comfy/lora.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/ops.py",
+                "comfy/rmsnorm.py",
+                "comfy/sd.py",
+                "comfy/supported_models.py",
+                "comfy/utils.py",
+                "comfy_api/input/video_types.py",
+                "comfy_api/input_impl/video_types.py",
+                "comfy_api_nodes/apinode_utils.py",
+                "comfy_api_nodes/apis/client.py",
+                "comfy_api_nodes/apis/request_logger.py",
+                "comfy_api_nodes/nodes_bfl.py",
+                "comfy_api_nodes/nodes_ideogram.py",
+                "comfy_api_nodes/nodes_kling.py",
+                "comfy_api_nodes/nodes_luma.py",
+                "comfy_api_nodes/nodes_minimax.py",
+                "comfy_api_nodes/nodes_openai.py",
+                "comfy_api_nodes/nodes_pika.py",
+                "comfy_api_nodes/nodes_pixverse.py",
+                "comfy_api_nodes/nodes_recraft.py",
+                "comfy_api_nodes/nodes_stability.py",
+                "comfy_api_nodes/nodes_veo2.py",
+                "comfy_extras/nodes_apg.py",
+                "comfy_extras/nodes_audio.py",
+                "comfy_extras/nodes_camera_trajectory.py",
+                "comfy_extras/nodes_cond.py",
+                "comfy_extras/nodes_hunyuan.py",
+                "comfy_extras/nodes_load_3d.py",
+                "comfy_extras/nodes_string.py",
+                "comfy_extras/nodes_wan.py",
+                "comfyui_version.py",
+                "custom_nodes/example_node.py.example",
+                "custom_nodes/websocket_image_save.py",
+                "execution.py",
+                "fix_torch.py",
+                "main.py",
+                "nodes.py",
+                "pyproject.toml",
+                "requirements.txt",
+                "script_examples/basic_api_example.py",
+                "server.py",
+                "tests-unit/comfy_api_test/video_types_test.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-17": {
+          "date": "2025-05-17",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "aee2908d0395577a6e2e13d1307aaf271424108b",
+              "author": "comfyanonymous",
+              "date": "2025-05-17T10:27:34.000Z",
+              "message": "Remove useless log. (#8166)",
+              "linesAdded": 0,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-16": {
+          "date": "2025-05-16",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "dc46db7aa48acd035dfc10730a064a9c994fb76b",
+              "author": "comfyanonymous",
+              "date": "2025-05-16T19:15:55.000Z",
+              "message": "Make ImagePadForOutpaint return a 3 channel mask. (#8157)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-15": {
+          "date": "2025-05-15",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_detection.py",
+            "comfy/supported_models.py",
+            "comfy_extras/nodes_camera_trajectory.py"
+          ],
+          "commits": [
+            {
+              "hash": "1c2d45d2b575c40efcb303a61318d4a415242e52",
+              "author": "comfyanonymous",
+              "date": "2025-05-15T23:02:19.000Z",
+              "message": "Fix typo in last PR. (#8144)",
+              "linesAdded": 5,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/model_detection.py",
+                "comfy/supported_models.py",
+                "comfy_extras/nodes_camera_trajectory.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-14": {
+          "date": "2025-05-14",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "08368f8e00c07d6888907557c5ef1da7a64b5e42",
+              "author": "comfyanonymous",
+              "date": "2025-05-14T21:54:50.000Z",
+              "message": "Update comment on ROCm pytorch attention in README. (#8123)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2025-05-13": {
+          "date": "2025-05-13",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/hunyuan_video/model.py",
+            "comfy/model_base.py",
+            "comfy_extras/nodes_hunyuan.py"
+          ],
+          "commits": [
+            {
+              "hash": "4a9014e201b71dfcf97d59d1086cb451cd40873f",
+              "author": "comfyanonymous",
+              "date": "2025-05-13T19:53:47.000Z",
+              "message": "Hunyuan Custom initial untested implementation. (#8101)",
+              "linesAdded": 26,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy/ldm/hunyuan_video/model.py",
+                "comfy/model_base.py",
+                "comfy_extras/nodes_hunyuan.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-12": {
+          "date": "2025-05-12",
+          "heatScore": 12,
+          "linesChanged": 30,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_load_3d.py"
+          ],
+          "commits": [
+            {
+              "hash": "9ad287ff20daca21e5ab30e82ceb3095fc32c154",
+              "author": "Terry Jia",
+              "date": "2025-05-12T20:47:14.000Z",
+              "message": "add support to record video as output for 3d node (#7927)",
+              "linesAdded": 24,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "comfy_extras/nodes_load_3d.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-11": {
+          "date": "2025-05-11",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "577de83ca9c99e997825439e017113456c4c78f7",
+              "author": "comfyanonymous",
+              "date": "2025-05-11T08:58:00.000Z",
+              "message": "ACE VAE works in fp16. (#8055)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-10": {
+          "date": "2025-05-10",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ops.py"
+          ],
+          "commits": [
+            {
+              "hash": "d42613686f3db1bf55e6dec75434ed2649baa6bc",
+              "author": "comfyanonymous",
+              "date": "2025-05-10T11:52:56.000Z",
+              "message": "Fix issue with fp8 ops on some models. (#8045)",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/ops.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-09": {
+          "date": "2025-05-09",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/ace/attention.py"
+          ],
+          "commits": [
+            {
+              "hash": "42da274717ff75640e1fb50f88d5c117a9c50630",
+              "author": "blepping",
+              "date": "2025-05-09T17:51:02.000Z",
+              "message": "Use normal ComfyUI attention in ACE-Steps model (#8023)",
+              "linesAdded": 4,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "comfy/ldm/ace/attention.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-08": {
+          "date": "2025-05-08",
+          "heatScore": 100,
+          "linesChanged": 35026,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/test-launch.yml",
+            ".github/workflows/update-api-stubs.yml",
+            ".gitignore",
+            "README.md",
+            "app/custom_node_manager.py",
+            "comfy/cli_args.py",
+            "comfy/latent_formats.py",
+            "comfy/ldm/ace/attention.py",
+            "comfy/ldm/ace/lyric_encoder.py",
+            "comfy/ldm/ace/model.py",
+            "comfy/ldm/ace/vae/autoencoder_dc.py",
+            "comfy/ldm/ace/vae/music_dcae_pipeline.py",
+            "comfy/ldm/ace/vae/music_log_mel.py",
+            "comfy/ldm/ace/vae/music_vocoder.py",
+            "comfy/ldm/cosmos/blocks.py",
+            "comfy/ldm/cosmos/model.py",
+            "comfy/ldm/genmo/joint_model/asymm_models_joint.py",
+            "comfy/ldm/genmo/joint_model/layers.py",
+            "comfy/ldm/hydit/models.py",
+            "comfy/ldm/lumina/model.py",
+            "comfy/ldm/wan/model.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/sd.py",
+            "comfy/supported_models.py",
+            "comfy/text_encoders/ace.py",
+            "comfy/text_encoders/ace_lyrics_tokenizer/vocab.json",
+            "comfy/text_encoders/ace_text_cleaners.py",
+            "comfy/text_encoders/umt5_config_base.json",
+            "comfy_api/input_impl/video_types.py",
+            "comfy_api_nodes/README.md",
+            "comfy_api_nodes/apinode_utils.py",
+            "comfy_api_nodes/apis/PixverseController.py",
+            "comfy_api_nodes/apis/PixverseDto.py",
+            "comfy_api_nodes/apis/__init__.py",
+            "comfy_api_nodes/apis/bfl_api.py",
+            "comfy_api_nodes/apis/client.py",
+            "comfy_api_nodes/apis/luma_api.py",
+            "comfy_api_nodes/apis/pixverse_api.py",
+            "comfy_api_nodes/apis/recraft_api.py",
+            "comfy_api_nodes/apis/stability_api.py",
+            "comfy_api_nodes/canary.py",
+            "comfy_api_nodes/mapper_utils.py",
+            "comfy_api_nodes/nodes_api.py",
+            "comfy_api_nodes/nodes_bfl.py",
+            "comfy_api_nodes/nodes_ideogram.py",
+            "comfy_api_nodes/nodes_kling.py",
+            "comfy_api_nodes/nodes_luma.py",
+            "comfy_api_nodes/nodes_minimax.py",
+            "comfy_api_nodes/nodes_openai.py",
+            "comfy_api_nodes/nodes_pika.py",
+            "comfy_api_nodes/nodes_pixverse.py",
+            "comfy_api_nodes/nodes_recraft.py",
+            "comfy_api_nodes/nodes_stability.py",
+            "comfy_api_nodes/nodes_veo2.py",
+            "comfy_api_nodes/redocly-dev.yaml",
+            "comfy_api_nodes/redocly.yaml",
+            "comfy_extras/nodes_ace.py",
+            "comfy_extras/nodes_primitive.py",
+            "comfyui_version.py",
+            "main.py",
+            "nodes.py",
+            "pyproject.toml",
+            "requirements.txt",
+            "tests-unit/comfy_api_nodes_test/mapper_utils_test.py",
+            "tests-unit/comfy_api_test/input_impl_test.py"
+          ],
+          "commits": [
+            {
+              "hash": "31aecbe1ad19624e851f5e7b9c18bc0f6ac17ab9",
+              "author": "Dr.Lt.Data",
+              "date": "2025-05-08T21:38:49.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 34232,
+              "linesDeleted": 794,
+              "filesChanged": [
+                ".github/workflows/test-launch.yml",
+                ".github/workflows/update-api-stubs.yml",
+                ".gitignore",
+                "README.md",
+                "app/custom_node_manager.py",
+                "comfy/cli_args.py",
+                "comfy/latent_formats.py",
+                "comfy/ldm/ace/attention.py",
+                "comfy/ldm/ace/lyric_encoder.py",
+                "comfy/ldm/ace/model.py",
+                "comfy/ldm/ace/vae/autoencoder_dc.py",
+                "comfy/ldm/ace/vae/music_dcae_pipeline.py",
+                "comfy/ldm/ace/vae/music_log_mel.py",
+                "comfy/ldm/ace/vae/music_vocoder.py",
+                "comfy/ldm/cosmos/blocks.py",
+                "comfy/ldm/cosmos/model.py",
+                "comfy/ldm/genmo/joint_model/asymm_models_joint.py",
+                "comfy/ldm/genmo/joint_model/layers.py",
+                "comfy/ldm/hydit/models.py",
+                "comfy/ldm/lumina/model.py",
+                "comfy/ldm/wan/model.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/sd.py",
+                "comfy/supported_models.py",
+                "comfy/text_encoders/ace.py",
+                "comfy/text_encoders/ace_lyrics_tokenizer/vocab.json",
+                "comfy/text_encoders/ace_text_cleaners.py",
+                "comfy/text_encoders/umt5_config_base.json",
+                "comfy_api/input_impl/video_types.py",
+                "comfy_api_nodes/README.md",
+                "comfy_api_nodes/apinode_utils.py",
+                "comfy_api_nodes/apis/PixverseController.py",
+                "comfy_api_nodes/apis/PixverseDto.py",
+                "comfy_api_nodes/apis/__init__.py",
+                "comfy_api_nodes/apis/bfl_api.py",
+                "comfy_api_nodes/apis/client.py",
+                "comfy_api_nodes/apis/luma_api.py",
+                "comfy_api_nodes/apis/pixverse_api.py",
+                "comfy_api_nodes/apis/recraft_api.py",
+                "comfy_api_nodes/apis/stability_api.py",
+                "comfy_api_nodes/canary.py",
+                "comfy_api_nodes/mapper_utils.py",
+                "comfy_api_nodes/nodes_api.py",
+                "comfy_api_nodes/nodes_bfl.py",
+                "comfy_api_nodes/nodes_ideogram.py",
+                "comfy_api_nodes/nodes_kling.py",
+                "comfy_api_nodes/nodes_luma.py",
+                "comfy_api_nodes/nodes_minimax.py",
+                "comfy_api_nodes/nodes_openai.py",
+                "comfy_api_nodes/nodes_pika.py",
+                "comfy_api_nodes/nodes_pixverse.py",
+                "comfy_api_nodes/nodes_recraft.py",
+                "comfy_api_nodes/nodes_stability.py",
+                "comfy_api_nodes/nodes_veo2.py",
+                "comfy_api_nodes/redocly-dev.yaml",
+                "comfy_api_nodes/redocly.yaml",
+                "comfy_extras/nodes_ace.py",
+                "comfy_extras/nodes_primitive.py",
+                "comfyui_version.py",
+                "main.py",
+                "nodes.py",
+                "pyproject.toml",
+                "requirements.txt",
+                "tests-unit/comfy_api_nodes_test/mapper_utils_test.py",
+                "tests-unit/comfy_api_test/input_impl_test.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-07": {
+          "date": "2025-05-07",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/ace/model.py",
+            "comfy/model_base.py",
+            "comfy_extras/nodes_ace.py"
+          ],
+          "commits": [
+            {
+              "hash": "cc33cd3422642445c994b104f0380821043024ec",
+              "author": "comfyanonymous",
+              "date": "2025-05-07T23:22:07.000Z",
+              "message": "Experimental lyrics strength for ACE. (#7984)",
+              "linesAdded": 12,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/ldm/ace/model.py",
+                "comfy/model_base.py",
+                "comfy_extras/nodes_ace.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-06": {
+          "date": "2025-05-06",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/supported_models.py"
+          ],
+          "commits": [
+            {
+              "hash": "271c9c5b9eb027c682161ed7848bbf640253f973",
+              "author": "comfyanonymous",
+              "date": "2025-05-06T13:52:37.000Z",
+              "message": "Better mem estimation for the LTXV 13B model. (#7963)",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/supported_models.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-05": {
+          "date": "2025-05-05",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/custom_node_manager.py"
+          ],
+          "commits": [
+            {
+              "hash": "d9c80a85e54ebdd5aaba3374d76a6e32e1988c97",
+              "author": "comfyanonymous",
+              "date": "2025-05-05T11:49:07.000Z",
+              "message": "This should not be a warning. (#7946)",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "app/custom_node_manager.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-04": {
+          "date": "2025-05-04",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/lumina/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "80a44b97f5cbcb890896e2b9e65d177f1ac6a588",
+              "author": "comfyanonymous",
+              "date": "2025-05-04T10:39:23.000Z",
+              "message": "Change lumina to native RMSNorm. (#7935)",
+              "linesAdded": 9,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "comfy/ldm/lumina/model.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-03": {
+          "date": "2025-05-03",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/genmo/joint_model/asymm_models_joint.py",
+            "comfy/ldm/genmo/joint_model/layers.py",
+            "comfy/ldm/wan/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "3041e5c354511ad8e4a6fe73ed397e41845caae2",
+              "author": "comfyanonymous",
+              "date": "2025-05-03T23:07:55.000Z",
+              "message": "Switch mochi and wan modes to use pytorch RMSNorm. (#7925)",
+              "linesAdded": 7,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "comfy/ldm/genmo/joint_model/asymm_models_joint.py",
+                "comfy/ldm/genmo/joint_model/layers.py",
+                "comfy/ldm/wan/model.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-02": {
+          "date": "2025-05-02",
+          "heatScore": 12,
+          "linesChanged": 44,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_preview_any.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "065d855f14968406051a1340e3f2f26461a00e5d",
+              "author": "Terry Jia",
+              "date": "2025-05-02T17:15:54.000Z",
+              "message": "upstream Preview Any from rgthree-comfy (#7815)",
+              "linesAdded": 44,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_preview_any.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2025-05-01": {
+          "date": "2025-05-01",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_post_processing.py",
+            "comfy_extras/nodes_webcam.py",
+            "pyproject.toml"
+          ],
+          "commits": [
+            {
+              "hash": "8d0661d0ba35fd54a72e4b49f68d4625febafc10",
+              "author": "catboxanon",
+              "date": "2025-05-01T23:32:04.000Z",
+              "message": "Lint instance methods (#7903)",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_post_processing.py",
+                "comfy_extras/nodes_webcam.py",
+                "pyproject.toml"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

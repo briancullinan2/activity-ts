@@ -1,0 +1,833 @@
+{
+  "yearMonth": "2023-02",
+  "generatedAt": "2026-09-24T02:37:24.670Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-02-28": {
+          "date": "2023-02-28",
+          "heatScore": 45,
+          "linesChanged": 533,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "0bdb1c7b44dc76b9687fd2b037c1b1f79db22f1b",
+              "author": "Brian Cullinan",
+              "date": "2023-02-28T18:26:53.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 532,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-23": {
+          "date": "2023-02-23",
+          "heatScore": 23,
+          "linesChanged": 203,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ea1cbea6cbbec59459241b297da9e31b4a88b3d1",
+              "author": "Brian Cullinan",
+              "date": "2023-02-23T03:49:49.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 5,
+              "linesDeleted": 198,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-19": {
+          "date": "2023-02-19",
+          "heatScore": 20,
+          "linesChanged": 151,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "7ee4172bc67771d9d11b859a81e9da51aa30e1e7",
+              "author": "Brian Cullinan",
+              "date": "2023-02-19T22:23:48.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 143,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-16": {
+          "date": "2023-02-16",
+          "heatScore": 68,
+          "linesChanged": 872,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "16f3bf37a3b5041d02d667678286d0b0cbd8b9fe",
+              "author": "Brian Cullinan",
+              "date": "2023-02-16T03:06:28.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 286,
+              "linesDeleted": 586,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-14": {
+          "date": "2023-02-14",
+          "heatScore": 21,
+          "linesChanged": 174,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "aad8e2186dd6950bf0d151a67fc86e0f5c38418b",
+              "author": "Brian Cullinan",
+              "date": "2023-02-14T22:44:24.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 167,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-13": {
+          "date": "2023-02-13",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "47b8747642871ccddcfc06cc052219f8c5000193",
+              "author": "Brian Cullinan",
+              "date": "2023-02-13T03:58:58.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 0,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-06": {
+          "date": "2023-02-06",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "feb80b306acb8bceb285897ddf33325fb7a9613e",
+              "author": "Brian Cullinan",
+              "date": "2023-02-06T16:01:11.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 5,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-03": {
+          "date": "2023-02-03",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "7dba5dd69f4737920245433b41786ef6916c4122",
+              "author": "Brian Cullinan",
+              "date": "2023-02-03T15:51:17.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-02": {
+          "date": "2023-02-02",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "7b894120038f15f6e427bb966f806af2da744b8e",
+              "author": "Brian Cullinan",
+              "date": "2023-02-02T22:26:55.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 8,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-01": {
+          "date": "2023-02-01",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "45d14ed6bfa2cd5ca1836578da69a8edb0c0904e",
+              "author": "Brian Cullinan",
+              "date": "2023-02-01T21:45:28.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 5,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-02-28": {
+          "date": "2023-02-28",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/attention.py"
+          ],
+          "commits": [
+            {
+              "hash": "9502ee45c30fa38f3a4316debd7a63ff96388d57",
+              "author": "comfyanonymous",
+              "date": "2023-02-28T18:48:52.000Z",
+              "message": "Hopefully fix a strange issue with xformers + lowvram.",
+              "linesAdded": 13,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "comfy/ldm/modules/attention.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-27": {
+          "date": "2023-02-27",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "webshit/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "f30a2deb3fd3d04d701aac6868515a12e1a7373e",
+              "author": "comfyanonymous",
+              "date": "2023-02-27T21:13:09.000Z",
+              "message": "Switch the CLIPTextEncode div to a textarea.",
+              "linesAdded": 8,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "webshit/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-26": {
+          "date": "2023-02-26",
+          "heatScore": 23,
+          "linesChanged": 204,
+          "commitCount": 1,
+          "filesEdited": [
+            "webshit/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "666337bff4399d17f987b0aa81090984c5c5d52b",
+              "author": "comfyanonymous",
+              "date": "2023-02-26T22:29:51.000Z",
+              "message": "Merge branch 'batchimagepreview' of https://github.com/pythongosssss/ComfyUI into pythongosssss-batchimagepreview",
+              "linesAdded": 167,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "webshit/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-25": {
+          "date": "2023-02-25",
+          "heatScore": 12,
+          "linesChanged": 40,
+          "commitCount": 1,
+          "filesEdited": [
+            "main.py",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "6de6246dd47840df5a19cfe9590deb1c31011290",
+              "author": "comfyanonymous",
+              "date": "2023-02-25T23:36:29.000Z",
+              "message": "Fix some potential issues related to threads.",
+              "linesAdded": 26,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "main.py",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-24": {
+          "date": "2023-02-24",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cldm/cldm.py"
+          ],
+          "commits": [
+            {
+              "hash": "cf5a211efc2c1f1fb53abbfcddcc6499fdd773de",
+              "author": "comfyanonymous",
+              "date": "2023-02-24T17:36:55.000Z",
+              "message": "Remove some useless imports",
+              "linesAdded": 0,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/cldm/cldm.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-23": {
+          "date": "2023-02-23",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "main.py",
+            "webshit/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "9f391ab656750a414c1a912554a286432c1c47cf",
+              "author": "pythongosssss",
+              "date": "2023-02-23T21:25:08.000Z",
+              "message": "changed to store history by uniqueid fixed removing history items",
+              "linesAdded": 9,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "main.py",
+                "webshit/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-22": {
+          "date": "2023-02-22",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/comfyui_colab.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "218f64315db515d145dd9bfdd97b380f1b0a276e",
+              "author": "comfyanonymous",
+              "date": "2023-02-22T22:15:10.000Z",
+              "message": "Add some text to colab to help people troubleshoot issues.",
+              "linesAdded": 6,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "notebooks/comfyui_colab.ipynb"
+              ]
+            }
+          ]
+        },
+        "2023-02-21": {
+          "date": "2023-02-21",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/extra_samplers/uni_pc.py",
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "a7328e49450c78934ce6ffcbe52067ad9d519bf6",
+              "author": "comfyanonymous",
+              "date": "2023-02-21T21:11:48.000Z",
+              "message": "Add uni_pc bh2 variant.",
+              "linesAdded": 5,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/extra_samplers/uni_pc.py",
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-20": {
+          "date": "2023-02-20",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "3a83da7281b5293e4486bd149d96118ef8e74da0",
+              "author": "masterpiecebestquality",
+              "date": "2023-02-20T18:56:34.000Z",
+              "message": "empty cache after execute()",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-19": {
+          "date": "2023-02-19",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd1_clip.py"
+          ],
+          "commits": [
+            {
+              "hash": "00a9189e303c4e7471da2d799f69853fcf790546",
+              "author": "comfyanonymous",
+              "date": "2023-02-19T21:59:03.000Z",
+              "message": "Support old pytorch.",
+              "linesAdded": 4,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/sd1_clip.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-18": {
+          "date": "2023-02-18",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "d8af7f6ce7b4cc78741a2c7e2728ac7ba7298051",
+              "author": "comfyanonymous",
+              "date": "2023-02-18T03:33:16.000Z",
+              "message": "Update readme.",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2023-02-17": {
+          "date": "2023-02-17",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "webshit/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "f6df7ce075e35c609c679e3f30e0f02869f6f11d",
+              "author": "m957ymj75urz",
+              "date": "2023-02-17T21:44:24.000Z",
+              "message": "Remove seed widget from nodes supporting dynamic prompting",
+              "linesAdded": 1,
+              "linesDeleted": 22,
+              "filesChanged": [
+                "webshit/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-16": {
+          "date": "2023-02-16",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "6135a21ee813bd7bcb11fdfd9f363b469d5dabe1",
+              "author": "comfyanonymous",
+              "date": "2023-02-16T23:08:01.000Z",
+              "message": "Add a way to control controlnet strength.",
+              "linesAdded": 13,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/sd.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-15": {
+          "date": "2023-02-15",
+          "heatScore": 20,
+          "linesChanged": 158,
+          "commitCount": 1,
+          "filesEdited": [
+            "models/configs/v2-inpainting-inference.yaml"
+          ],
+          "commits": [
+            {
+              "hash": "59bef84bc8564f745a83b932537ca9e555d93e51",
+              "author": "comfyanonymous",
+              "date": "2023-02-15T22:52:34.000Z",
+              "message": "Add the config for SD2.x inpainting models.",
+              "linesAdded": 158,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "models/configs/v2-inpainting-inference.yaml"
+              ]
+            }
+          ]
+        },
+        "2023-02-14": {
+          "date": "2023-02-14",
+          "heatScore": 30,
+          "linesChanged": 308,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/extra_samplers/uni_pc.py",
+            "main.py",
+            "requirements.txt",
+            "webshit/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "4b4eae7171781662dcab950a4b2eee43320b9bc7",
+              "author": "Hacker 17082006",
+              "date": "2023-02-14T15:20:53.000Z",
+              "message": "Merge branch 'master' of https://github.com/Fannovel16/ComfyUI",
+              "linesAdded": 215,
+              "linesDeleted": 93,
+              "filesChanged": [
+                "comfy/extra_samplers/uni_pc.py",
+                "main.py",
+                "requirements.txt",
+                "webshit/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-13": {
+          "date": "2023-02-13",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "webshit/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "c1d5810020ba63dfa2778c0b473aa8570cea6d03",
+              "author": "comfyanonymous",
+              "date": "2023-02-13T21:07:34.000Z",
+              "message": "Another small fix.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "webshit/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-12": {
+          "date": "2023-02-12",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "f616dcc81a3e63536bffc6d250118baa3d230e5f",
+              "author": "pythongosssss",
+              "date": "2023-02-12T18:32:20.000Z",
+              "message": "Added handling of missing aiohttp module",
+              "linesAdded": 10,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-11": {
+          "date": "2023-02-11",
+          "heatScore": 13,
+          "linesChanged": 50,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/extra_samplers/uni_pc.py"
+          ],
+          "commits": [
+            {
+              "hash": "f542f248f1438c794990343a17fa0b112a38119d",
+              "author": "comfyanonymous",
+              "date": "2023-02-11T19:59:42.000Z",
+              "message": "Show the right amount of steps in the progress bar for uni_pc.",
+              "linesAdded": 26,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "comfy/extra_samplers/uni_pc.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-10": {
+          "date": "2023-02-10",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/sub_quadratic_attention.py"
+          ],
+          "commits": [
+            {
+              "hash": "1a4edd19cd2cc82f1d7e0796181a826299f7304e",
+              "author": "comfyanonymous",
+              "date": "2023-02-10T16:47:41.000Z",
+              "message": "Fix overflow issue with inplace softmax.",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/ldm/modules/sub_quadratic_attention.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-09": {
+          "date": "2023-02-09",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "e9d3ac2ba0a67c22cb1fea740b31e3d483877684",
+              "author": "comfyanonymous",
+              "date": "2023-02-09T21:31:54.000Z",
+              "message": "Typo.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2023-02-08": {
+          "date": "2023-02-08",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "3fd87cbd21d4834d0cdd8195edc0743dde9e6362",
+              "author": "comfyanonymous",
+              "date": "2023-02-08T22:09:47.000Z",
+              "message": "Slightly smarter batching behaviour.",
+              "linesAdded": 11,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-07": {
+          "date": "2023-02-07",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "webshit/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6e40393b6bb27a3f5211ee6aa10588f6336f830a",
+              "author": "comfyanonymous",
+              "date": "2023-02-07T05:07:31.000Z",
+              "message": "Fix delete sometimes not properly refreshing queue state.",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "webshit/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-02-05": {
+          "date": "2023-02-05",
+          "heatScore": 10,
+          "linesChanged": 11,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "comfy/sd2_clip.py"
+          ],
+          "commits": [
+            {
+              "hash": "b1a7c9ebf616ddeeb8432a48097a214382939e3d",
+              "author": "comfyanonymous",
+              "date": "2023-02-05T20:49:03.000Z",
+              "message": "Embeddings/textual inversion support for SD2.x",
+              "linesAdded": 3,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "comfy/sd.py",
+                "comfy/sd2_clip.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-04": {
+          "date": "2023-02-04",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "3f3d77a32495c1ad6aa8891410c0f13504f36e94",
+              "author": "comfyanonymous",
+              "date": "2023-02-04T21:08:29.000Z",
+              "message": "Fix image node always executing instead of only when the image changed.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2023-02-03": {
+          "date": "2023-02-03",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "41a7532c15178bdd9fafdb61f918df461aa48a89",
+              "author": "comfyanonymous",
+              "date": "2023-02-03T18:56:00.000Z",
+              "message": "A bit bigger.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2023-02-02": {
+          "date": "2023-02-02",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "webshit/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1d84a44b080430f08f5ae6c0591ea1ee0760b2de",
+              "author": "comfyanonymous",
+              "date": "2023-02-02T19:09:14.000Z",
+              "message": "Fix some small annoyances with the UI.",
+              "linesAdded": 8,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "webshit/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

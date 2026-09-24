@@ -1,0 +1,536 @@
+{
+  "yearMonth": "2019-07",
+  "generatedAt": "2026-09-24T02:37:24.726Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-07-01": {
+          "date": "2019-07-01",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_team.h"
+          ],
+          "commits": [
+            {
+              "hash": "fffcb5b609c3afd397b8445ae02188dc0d55952d",
+              "author": "ec-",
+              "date": "2019-07-01T17:11:51.000Z",
+              "message": "Added missing declaration for AddTeamScore()",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/game/g_team.h"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-07-01": {
+          "date": "2019-07-01",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_team.h"
+          ],
+          "commits": [
+            {
+              "hash": "fffcb5b609c3afd397b8445ae02188dc0d55952d",
+              "author": "ec-",
+              "date": "2019-07-01T17:11:51.000Z",
+              "message": "Added missing declaration for AddTeamScore()",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/game/g_team.h"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "dataset_banana": {
+      "projectName": "dataset_banana",
+      "localPath": "C:\\Users\\megam\\dataset_banana",
+      "remoteUrl": "git@github.com:briancullinan2/dataset_banana.git",
+      "lastUpdated": "2026-09-24T02:37:01.657Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-07-11": {
+          "date": "2019-07-11",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "c1c363669fb400bc579baff2e73885da897aaea7",
+              "author": "Piero Toffanin",
+              "date": "2019-07-11T21:15:01.000Z",
+              "message": "Update README.md",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-07-27": {
+          "date": "2019-07-27",
+          "heatScore": 53,
+          "linesChanged": 658,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Google/google calendar.ipynb",
+            "Google/google scheduling.ipynb",
+            "Selenium/google authorize.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "f6a0ce5559a52b2aeab5849b3587e3f33ab8f581",
+              "author": "Brian Cullinan",
+              "date": "2019-07-27T02:38:09.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 547,
+              "linesDeleted": 111,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Google/google calendar.ipynb",
+                "Google/google scheduling.ipynb",
+                "Selenium/google authorize.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-07-25": {
+          "date": "2019-07-25",
+          "heatScore": 100,
+          "linesChanged": 1997,
+          "commitCount": 1,
+          "filesEdited": [
+            "Algorithms/opencv.ipynb",
+            "Core/cache.ipynb",
+            "Core/files.ipynb",
+            "Core/import.ipynb",
+            "Core/patterns.ipynb",
+            "Google/google scheduling.ipynb",
+            "Languages/json.ipynb",
+            "Languages/regexp.ipynb",
+            "Languages/xpath.ipynb",
+            "Selenium/auth.ipynb",
+            "insolent.html"
+          ],
+          "commits": [
+            {
+              "hash": "9bb4e1bf05530c04e1aca0d45610da0985f443e0",
+              "author": "Brian Cullinan",
+              "date": "2019-07-25T21:34:50.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 1729,
+              "linesDeleted": 268,
+              "filesChanged": [
+                "Algorithms/opencv.ipynb",
+                "Core/cache.ipynb",
+                "Core/files.ipynb",
+                "Core/import.ipynb",
+                "Core/patterns.ipynb",
+                "Google/google scheduling.ipynb",
+                "Languages/json.ipynb",
+                "Languages/regexp.ipynb",
+                "Languages/xpath.ipynb",
+                "Selenium/auth.ipynb",
+                "insolent.html"
+              ]
+            }
+          ]
+        },
+        "2019-07-17": {
+          "date": "2019-07-17",
+          "heatScore": 35,
+          "linesChanged": 383,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/import.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "0cdb1617cb998bb97115a111af06a2e7d346df7c",
+              "author": "Brian Cullinan",
+              "date": "2019-07-17T00:35:02.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 182,
+              "linesDeleted": 201,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/import.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-16": {
+          "date": "2019-07-16",
+          "heatScore": 33,
+          "linesChanged": 348,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/files.ipynb",
+            "Core/import.ipynb",
+            "Core/patterns.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "a48c777acaafdad088bc14ceab557824a696d5aa",
+              "author": "Brian Cullinan",
+              "date": "2019-07-16T23:53:48.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 221,
+              "linesDeleted": 127,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/files.ipynb",
+                "Core/import.ipynb",
+                "Core/patterns.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-15": {
+          "date": "2019-07-15",
+          "heatScore": 100,
+          "linesChanged": 31422,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/files.ipynb",
+            "Core/import.ipynb",
+            "Core/syntax.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "639f3d021bdbcb7d107ac56bd040ceac70b23643",
+              "author": "Brian Cullinan",
+              "date": "2019-07-15T22:59:30.000Z",
+              "message": "broken core",
+              "linesAdded": 15529,
+              "linesDeleted": 15893,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/files.ipynb",
+                "Core/import.ipynb",
+                "Core/syntax.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-14": {
+          "date": "2019-07-14",
+          "heatScore": 25,
+          "linesChanged": 234,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/files.ipynb",
+            "Core/import.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f7e8a7c925d6e275fbdc99234efd8ad34a5260ee",
+              "author": "Brian Cullinan",
+              "date": "2019-07-14T23:57:00.000Z",
+              "message": "broken Core, rewriting caching",
+              "linesAdded": 92,
+              "linesDeleted": 142,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/files.ipynb",
+                "Core/import.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-13": {
+          "date": "2019-07-13",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/aspects.ipynb",
+            "Core/syntax.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "0e4151a00785d3832cae4deea4fb8c889d9006d0",
+              "author": "Brian Cullinan",
+              "date": "2019-07-13T22:40:19.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 11,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "Core/aspects.ipynb",
+                "Core/syntax.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-12": {
+          "date": "2019-07-12",
+          "heatScore": 30,
+          "linesChanged": 308,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/languages.ipynb",
+            "Core/notebook.ipynb",
+            "Core/syntax.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "7db8d5836e5e2c3cbc484736349f5681328b5012",
+              "author": "Brian Cullinan",
+              "date": "2019-07-12T21:58:44.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 172,
+              "linesDeleted": 136,
+              "filesChanged": [
+                "Core/languages.ipynb",
+                "Core/notebook.ipynb",
+                "Core/syntax.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-07-11": {
+          "date": "2019-07-11",
+          "heatScore": 29,
+          "linesChanged": 294,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/languages.ipynb",
+            "Core/notebook.ipynb",
+            "Core/rpc.ipynb",
+            "Core/syntax.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "7b9531e235b14fb7e05874760336f2d1ab3eaae0",
+              "author": "Brian Cullinan",
+              "date": "2019-07-11T21:41:28.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 131,
+              "linesDeleted": 163,
+              "filesChanged": [
+                "Core/languages.ipynb",
+                "Core/notebook.ipynb",
+                "Core/rpc.ipynb",
+                "Core/syntax.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-10": {
+          "date": "2019-07-10",
+          "heatScore": 66,
+          "linesChanged": 854,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/notebook.ipynb",
+            "Core/rpc.ipynb",
+            "Core/syntax.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "2fffae468bfc7a32b9caa07d7ccbcabab0b9d748",
+              "author": "Brian Cullinan",
+              "date": "2019-07-10T22:23:02.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 469,
+              "linesDeleted": 385,
+              "filesChanged": [
+                "Core/notebook.ipynb",
+                "Core/rpc.ipynb",
+                "Core/syntax.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-06": {
+          "date": "2019-07-06",
+          "heatScore": 13,
+          "linesChanged": 45,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/syntax.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f0dd93b2db2a75328395775899d6a824a0f96f98",
+              "author": "Brian Cullinan",
+              "date": "2019-07-06T06:26:50.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 28,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "Core/syntax.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-05": {
+          "date": "2019-07-05",
+          "heatScore": 19,
+          "linesChanged": 140,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/patterns.ipynb",
+            "Core/syntax.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "29c4713e45c6d5fda3cab9ff54dffce7aa8b275a",
+              "author": "Brian Cullinan",
+              "date": "2019-07-05T23:54:06.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 107,
+              "linesDeleted": 33,
+              "filesChanged": [
+                "Core/patterns.ipynb",
+                "Core/syntax.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-04": {
+          "date": "2019-07-04",
+          "heatScore": 78,
+          "linesChanged": 1025,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/languages.ipynb",
+            "Core/patterns.ipynb",
+            "Core/syntax.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "3667186bfb639853ad053ad24551942996242965",
+              "author": "Brian Cullinan",
+              "date": "2019-07-04T23:40:04.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 546,
+              "linesDeleted": 479,
+              "filesChanged": [
+                "Core/languages.ipynb",
+                "Core/patterns.ipynb",
+                "Core/syntax.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-03": {
+          "date": "2019-07-03",
+          "heatScore": 17,
+          "linesChanged": 119,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/patterns.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "6b49d2ced6b2b55f1875aff6b1807aa731366371",
+              "author": "Brian Cullinan",
+              "date": "2019-07-03T23:43:22.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 89,
+              "linesDeleted": 30,
+              "filesChanged": [
+                "Core/patterns.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-02": {
+          "date": "2019-07-02",
+          "heatScore": 25,
+          "linesChanged": 230,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/languages.ipynb",
+            "Exercises/fizz buzz.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "dcfd45b6d401705f6d89a94726b07e5d4ea07cd8",
+              "author": "Brian Cullinan",
+              "date": "2019-07-02T23:46:19.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 74,
+              "linesDeleted": 156,
+              "filesChanged": [
+                "Core/languages.ipynb",
+                "Exercises/fizz buzz.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-07-01": {
+          "date": "2019-07-01",
+          "heatScore": 20,
+          "linesChanged": 164,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/kernels.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "6daaa69a7f0f1e909dbe590c5c12b62c3cc79843",
+              "author": "Brian Cullinan",
+              "date": "2019-07-01T23:19:57.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 96,
+              "linesDeleted": 68,
+              "filesChanged": [
+                "Core/kernels.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

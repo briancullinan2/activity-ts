@@ -1,0 +1,1152 @@
+{
+  "yearMonth": "2024-05",
+  "generatedAt": "2026-09-24T02:37:24.632Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-05-31": {
+          "date": "2024-05-31",
+          "heatScore": 11,
+          "linesChanged": 24,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "988dcf1c9b0c658a6cc27cbf7793b0109b9a9c30",
+              "author": "Brian Cullinan",
+              "date": "2024-05-31T23:12:22.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-30": {
+          "date": "2024-05-30",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "32c56e70f971673dfb882e646cf22d4a60962c66",
+              "author": "Brian Cullinan",
+              "date": "2024-05-30T19:26:56.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-29": {
+          "date": "2024-05-29",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "3d5ad63ed4e54caf3fe535272e9c0a109894ae30",
+              "author": "Brian Cullinan",
+              "date": "2024-05-29T23:39:05.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 25,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-28": {
+          "date": "2024-05-28",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6f6d9a5d3b6e1a29be55dcd1f1cff1f15eab03c6",
+              "author": "Brian Cullinan",
+              "date": "2024-05-28T18:59:00.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 9,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-22": {
+          "date": "2024-05-22",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "4cd3c2746ce3af5b53f91572903dc75e928f190f",
+              "author": "Brian Cullinan",
+              "date": "2024-05-22T13:33:19.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-20": {
+          "date": "2024-05-20",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1677bae6168dace7636e0edae288d9dc832bd0f7",
+              "author": "Brian Cullinan",
+              "date": "2024-05-20T15:32:58.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-18": {
+          "date": "2024-05-18",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "103bc9743a5979a50ee63cb803629eca5febbc26",
+              "author": "Brian Cullinan",
+              "date": "2024-05-18T21:17:18.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-17": {
+          "date": "2024-05-17",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "b2f763651a33f2d65c1bc26cd8e801dd0ad15843",
+              "author": "Brian Cullinan",
+              "date": "2024-05-17T19:55:26.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-16": {
+          "date": "2024-05-16",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "7fde0bf3e3297c7833d2171da326af6a7eae550d",
+              "author": "Brian Cullinan",
+              "date": "2024-05-16T21:21:30.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-15": {
+          "date": "2024-05-15",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1943f0a6c924ab47682a59d2469354d3ee39ef2e",
+              "author": "Brian Cullinan",
+              "date": "2024-05-15T19:39:56.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 20,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-13": {
+          "date": "2024-05-13",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "3d1895000e5a12ec34c2f66a383bde9aee3e582e",
+              "author": "Brian Cullinan",
+              "date": "2024-05-13T10:12:32.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-11": {
+          "date": "2024-05-11",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "a6268c5d6c802ac6a2e81fc1f040b53b68a232b9",
+              "author": "Brian Cullinan",
+              "date": "2024-05-11T18:37:04.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-10": {
+          "date": "2024-05-10",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "afba29435648d252b560ef9c18606da20c65e4e2",
+              "author": "Brian Cullinan",
+              "date": "2024-05-10T02:44:04.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-08": {
+          "date": "2024-05-08",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "72b11c01923a8901cfd5389f1ca875339b57c21d",
+              "author": "Brian Cullinan",
+              "date": "2024-05-08T06:18:10.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-06": {
+          "date": "2024-05-06",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "5beb0a5600a5d3208eb61f3a04d9792ee60d1190",
+              "author": "Brian Cullinan",
+              "date": "2024-05-06T13:38:02.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-05": {
+          "date": "2024-05-05",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "94f8b69411bf0a5477bbc4faaa299f9a937bf193",
+              "author": "Brian Cullinan",
+              "date": "2024-05-05T20:59:32.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-04": {
+          "date": "2024-05-04",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "0418f9052eb7bbf8c1e33f4946ef2169fdaef693",
+              "author": "Brian Cullinan",
+              "date": "2024-05-04T15:21:16.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-03": {
+          "date": "2024-05-03",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "89bae4b77dc126db85dd4f6a331abb37cab5d497",
+              "author": "Brian Cullinan",
+              "date": "2024-05-03T00:44:58.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-05-01": {
+          "date": "2024-05-01",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "2a2cd6c39cc2940641f7184310ffd0214a0cdb71",
+              "author": "Brian Cullinan",
+              "date": "2024-05-01T06:33:25.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-05-12": {
+          "date": "2024-05-12",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "dockerfile"
+          ],
+          "commits": [
+            {
+              "hash": "0d0140b8e7debe6911184752eb575bb6bb1801e9",
+              "author": "kenn",
+              "date": "2024-05-12T08:41:56.000Z",
+              "message": "Allow dockerfile to build (#33)",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "dockerfile"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-05-31": {
+          "date": "2024-05-31",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "latent_preview.py"
+          ],
+          "commits": [
+            {
+              "hash": "04b308229ee59b5aebc0c78ea416e0b3ac22c146",
+              "author": "comfyanonymous",
+              "date": "2024-05-31T15:18:37.000Z",
+              "message": "Small refactor of preview code.",
+              "linesAdded": 10,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "latent_preview.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-30": {
+          "date": "2024-05-30",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "bf3e334d468876bbf69d022e7a6770b0c52dd615",
+              "author": "comfyanonymous",
+              "date": "2024-05-30T15:07:38.000Z",
+              "message": "Disable non_blocking when --deterministic or directml.",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-29": {
+          "date": "2024-05-29",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "71ec5b144ee2c46ee12f1035782d6cb4bc84cca9",
+              "author": "comfyanonymous",
+              "date": "2024-05-29T04:19:30.000Z",
+              "message": "Update commands to install nightly pytorch in readme.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2024-05-28": {
+          "date": "2024-05-28",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_upscale_model.py"
+          ],
+          "commits": [
+            {
+              "hash": "91542d4f8b99dfb65a3f5c56cc24fea91d93858a",
+              "author": "comfyanonymous",
+              "date": "2024-05-28T05:37:40.000Z",
+              "message": "Import spandrel_extra_arches if present.",
+              "linesAdded": 9,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_upscale_model.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-27": {
+          "date": "2024-05-27",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/types.py"
+          ],
+          "commits": [
+            {
+              "hash": "b26da2245fbc65e003889539fc352bf14370cded",
+              "author": "JettHu",
+              "date": "2024-05-27T23:30:35.000Z",
+              "message": "Fix UnetParams annotation typo (#3589)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/types.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-26": {
+          "date": "2024-05-26",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/chainner_models/model_loading.py"
+          ],
+          "commits": [
+            {
+              "hash": "16a493a19042227baadd939fc095305716ae58db",
+              "author": "comfyanonymous",
+              "date": "2024-05-26T19:37:24.000Z",
+              "message": "Keep compatibility with some custom nodes.",
+              "linesAdded": 5,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/chainner_models/model_loading.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-25": {
+          "date": "2024-05-25",
+          "heatScore": 14,
+          "linesChanged": 68,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_patcher.py"
+          ],
+          "commits": [
+            {
+              "hash": "ffc4b7c30e35eb2773ace52a0b00e0ca5c1f4362",
+              "author": "comfyanonymous",
+              "date": "2024-05-25T06:31:23.000Z",
+              "message": "Fix DORA strength.",
+              "linesAdded": 48,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "comfy/model_patcher.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-24": {
+          "date": "2024-05-24",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "latent_preview.py"
+          ],
+          "commits": [
+            {
+              "hash": "58c9838274f53c6aa8912992db9f73e9a0721227",
+              "author": "comfyanonymous",
+              "date": "2024-05-24T06:37:57.000Z",
+              "message": "Speed up TAESD preview.",
+              "linesAdded": 2,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "latent_preview.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-23": {
+          "date": "2024-05-23",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_freelunch.py"
+          ],
+          "commits": [
+            {
+              "hash": "b02bcced05dcc2d09a0358eff6393c5641485878",
+              "author": "comfyanonymous",
+              "date": "2024-05-23T15:47:43.000Z",
+              "message": "Fix FreeU not working when shape is tensor.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy_extras/nodes_freelunch.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-22": {
+          "date": "2024-05-22",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py",
+            "comfy/ops.py",
+            "latent_preview.py"
+          ],
+          "commits": [
+            {
+              "hash": "6c23854f54edb51643026b7b10d1ae9e34cfd3d6",
+              "author": "comfyanonymous",
+              "date": "2024-05-22T17:56:28.000Z",
+              "message": "Fix OSX latent2rgb previews.",
+              "linesAdded": 11,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/model_management.py",
+                "comfy/ops.py",
+                "latent_preview.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-21": {
+          "date": "2024-05-21",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/attention.py",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "8508df25691b0c9213049ab0d723610d3d8f9136",
+              "author": "comfyanonymous",
+              "date": "2024-05-21T20:56:33.000Z",
+              "message": "Work around black image bug on Mac 14.5 by forcing attention upcasting.",
+              "linesAdded": 16,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/ldm/modules/attention.py",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-20": {
+          "date": "2024-05-20",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/attention.py"
+          ],
+          "commits": [
+            {
+              "hash": "1900e5119f70d6db0677fe91194050be3c4476c4",
+              "author": "comfyanonymous",
+              "date": "2024-05-20T12:19:54.000Z",
+              "message": "Fix potential issue.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/ldm/modules/attention.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-19": {
+          "date": "2024-05-19",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cldm/cldm.py"
+          ],
+          "commits": [
+            {
+              "hash": "11a2ad5110a96ac5895e889d455c227d1b80dd30",
+              "author": "comfyanonymous",
+              "date": "2024-05-19T21:58:03.000Z",
+              "message": "Fix controlnet not upcasting on models that have it enabled.",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/cldm/cldm.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-18": {
+          "date": "2024-05-18",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/attention.py",
+            "comfy/ldm/modules/diffusionmodules/openaimodel.py"
+          ],
+          "commits": [
+            {
+              "hash": "0bdc2b15c75426af75a326d5966ad47aab5b76d3",
+              "author": "comfyanonymous",
+              "date": "2024-05-18T14:11:44.000Z",
+              "message": "Cleanup.",
+              "linesAdded": 4,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "comfy/ldm/modules/attention.py",
+                "comfy/ldm/modules/diffusionmodules/openaimodel.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-17": {
+          "date": "2024-05-17",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/webcamCapture.js"
+          ],
+          "commits": [
+            {
+              "hash": "1c4af5918a5ffb022606e56ab2d31e510dcccec2",
+              "author": "comfyanonymous",
+              "date": "2024-05-17T18:02:09.000Z",
+              "message": "Better error message if the webcam node doesn't work.",
+              "linesAdded": 7,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/extensions/core/webcamCapture.js"
+              ]
+            }
+          ]
+        },
+        "2024-05-16": {
+          "date": "2024-05-16",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy/ldm/modules/attention.py"
+          ],
+          "commits": [
+            {
+              "hash": "46daf0a9a7c02e7652e60f3a7af898e2f6594c2e",
+              "author": "comfyanonymous",
+              "date": "2024-05-16T08:09:41.000Z",
+              "message": "Add debug options to force on and off attention upcasting.",
+              "linesAdded": 19,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy/ldm/modules/attention.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-15": {
+          "date": "2024-05-15",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_patcher.py"
+          ],
+          "commits": [
+            {
+              "hash": "2d4164271634476627aae31fbec251ca748a0ae0",
+              "author": "comfyanonymous",
+              "date": "2024-05-15T06:40:06.000Z",
+              "message": "Fix lowvram dora issue.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_patcher.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-14": {
+          "date": "2024-05-14",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/attention.py",
+            "comfy_extras/nodes_sag.py"
+          ],
+          "commits": [
+            {
+              "hash": "ec6f16adb607fa8d14b26670106e1a09d8401e20",
+              "author": "comfyanonymous",
+              "date": "2024-05-14T22:02:27.000Z",
+              "message": "Fix SAG.",
+              "linesAdded": 9,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "comfy/ldm/modules/attention.py",
+                "comfy_extras/nodes_sag.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-13": {
+          "date": "2024-05-13",
+          "heatScore": 13,
+          "linesChanged": 48,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "cf6e1efb69a17cdaad509e665ad53b0e031b4807",
+              "author": "freakabcd",
+              "date": "2024-05-13T19:22:22.000Z",
+              "message": "Show message on error when loading wf from file (works on drag and drop) (#3466)",
+              "linesAdded": 30,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2024-05-12": {
+          "date": "2024-05-12",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/windows_release_nightly_pytorch.yml"
+          ],
+          "commits": [
+            {
+              "hash": "ece5acb8e8025d8ca26aa880f604d971d245475d",
+              "author": "comfyanonymous",
+              "date": "2024-05-12T20:05:10.000Z",
+              "message": "Fix nightly package workflow.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                ".github/workflows/windows_release_nightly_pytorch.yml"
+              ]
+            }
+          ]
+        },
+        "2024-05-10": {
+          "date": "2024-05-10",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js",
+            "web/scripts/ui.js"
+          ],
+          "commits": [
+            {
+              "hash": "4f63ee99f185db316a017520570310d094efffba",
+              "author": "comfyanonymous",
+              "date": "2024-05-10T21:30:52.000Z",
+              "message": "Add a button to reset the view.",
+              "linesAdded": 13,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/scripts/app.js",
+                "web/scripts/ui.js"
+              ]
+            }
+          ]
+        },
+        "2024-05-09": {
+          "date": "2024-05-09",
+          "heatScore": 12,
+          "linesChanged": 30,
+          "commitCount": 1,
+          "filesEdited": [
+            "node_helpers.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "0fecfd2b1a2794b77277c7e256c84de54a63d860",
+              "author": "shawnington",
+              "date": "2024-05-09T09:38:00.000Z",
+              "message": "Added generic wrapper function node_helpers.pillow to fix PIL issues #4472 and #2445 (#3422)",
+              "linesAdded": 10,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "node_helpers.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-08": {
+          "date": "2024-05-08",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_base.py"
+          ],
+          "commits": [
+            {
+              "hash": "cd07340d96e26319d4fae5ea54b16001fe55e772",
+              "author": "comfyanonymous",
+              "date": "2024-05-08T22:36:56.000Z",
+              "message": "Typo fix.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_base.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-07": {
+          "date": "2024-05-07",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "c33412288fbdcd132265c9029a38001fd9696aa5",
+              "author": "comfyanonymous",
+              "date": "2024-05-07T09:41:06.000Z",
+              "message": "Fix issue with loading some JPG: #3416",
+              "linesAdded": 12,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-06": {
+          "date": "2024-05-06",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_model_downscale.py"
+          ],
+          "commits": [
+            {
+              "hash": "3787b4f246e05302c4502be116a2bc1a15d03ab1",
+              "author": "Pam",
+              "date": "2024-05-06T22:39:39.000Z",
+              "message": "Use get_model_object in Deep Shrink node (#3408)",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy_extras/nodes_model_downscale.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-05": {
+          "date": "2024-05-05",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_custom_sampler.py"
+          ],
+          "commits": [
+            {
+              "hash": "565eb6d176d2c1c25382585379c4007436aba438",
+              "author": "comfyanonymous",
+              "date": "2024-05-05T09:24:36.000Z",
+              "message": "Add a SplitSigmasDenoise node as an alternative to SplitSigmas.",
+              "linesAdded": 23,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_custom_sampler.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-04": {
+          "date": "2024-05-04",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "node_helpers.py"
+          ],
+          "commits": [
+            {
+              "hash": "72508a8d19121e2814ea4dfbce8a5311f37dcd61",
+              "author": "comfyanonymous",
+              "date": "2024-05-04T07:39:37.000Z",
+              "message": "Only set LOAD_TRUNCATED_IMAGES when if the Image open fails.",
+              "linesAdded": 8,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "node_helpers.py"
+              ]
+            }
+          ]
+        },
+        "2024-05-03": {
+          "date": "2024-05-03",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "daa92a8ff4d3e75a3b17bb1a6b6c508b27264ff5",
+              "author": "comfyanonymous",
+              "date": "2024-05-03T09:49:21.000Z",
+              "message": "Fix potential issues with the int rounding fix.",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2024-05-02": {
+          "date": "2024-05-02",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "89d0e9abeb31e44cccef46537cd10d8812130ef3",
+              "author": "comfyanonymous",
+              "date": "2024-05-02T07:34:19.000Z",
+              "message": "Fix int widgets rounding.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2024-05-01": {
+          "date": "2024-05-01",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py",
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "f81a6fade86bfaec91a115284745d9f95b74e265",
+              "author": "comfyanonymous",
+              "date": "2024-05-01T21:05:30.000Z",
+              "message": "Fix some edge cases with samplers and arrays with a single sigma.",
+              "linesAdded": 23,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py",
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}
