@@ -1,11 +1,8 @@
 import { Message } from '@lumino/messaging';
 import { Widget } from '@lumino/widgets';
-import { GoogleDriveWidget } from '../filelist/widget-google';
+import { GOOGLE_CLOUD_API_KEY, GoogleDriveWidget, PUBLIC_GOOGLE_DRIVE_FOLDER_ID } from '../filelist/widget-google';
 import type { LuminoLayoutWindow } from '../bundle/lumino.d';
 import type { GlobalToolbarsWindow } from '../bundle/menu.d';
-
-const GOOGLE_CLOUD_API_KEY = 'AIzaSyAsZR_uPzhdnkNktP8CGKbooWndEUYaq9I';
-const PUBLIC_GOOGLE_DRIVE_FOLDER_ID = '1iZXcde4zeQmFJoCedo70wu0ouZ1QF0Se'; // Clean Folder ID
 
 const widgetSelf = self as unknown as LuminoLayoutWindow & GlobalToolbarsWindow & {
 	GoogleDriveWidget?: typeof GoogleDriveWidget;
@@ -28,22 +25,30 @@ interface DriveFile
 	webContentLink?: string;
 }
 
-interface CategoryStructure
+interface DriveFolderMeta
 {
 	id: string;
-	name: string;
-	substyles: { [styleName: string]: DriveFile[]; };
+	rawName: string;
+	category: string;
+	style: string;
 }
 
 export class ArtWidget extends Widget
 {
 	private apiKey: string;
 	private rootFolderId: string;
-	private categories: CategoryStructure[] = [];
-	private activeCategoryIdx: number = 0;
-	private activeStyleName: string | null = null;
-	private activeImageIdx: number = 0;
 	private _googleWidget: GoogleDriveWidget | undefined;
+
+	// Parsed folder metadata map: category -> style -> folder metadata
+	private categoryMap: { [category: string]: { [style: string]: DriveFolderMeta; }; } = {};
+	// Lazy image cache indexed by folder ID
+	private imageCache: { [folderId: string]: DriveFile[]; } = {};
+	// Cache for local Blob URLs to fix COEP / CORS cross-origin image blocks
+	private blobUrlCache: { [fileId: string]: string; } = {};
+
+	private activeCategory: string = '';
+	private activeStyle: string = '';
+	private activeImageIdx: number = 0;
 
 	constructor(title?: string, config?: GoogleDriveClipartConfig)
 	{
@@ -64,18 +69,18 @@ export class ArtWidget extends Widget
 	}
 
 	/**
-	 * Spawns the ExhaustiveSkillsWidget as a sidebar panel inside the main DockPanel layout
+	 * Spawns the GoogleDriveWidget as a sidebar panel inside the main DockPanel layout
 	 */
 	private _openGoogleSidebar(): void
 	{
 		this._googleWidget ??= widgetSelf.GoogleDriveWidget
 			? new widgetSelf.GoogleDriveWidget('Generations', this.rootFolderId)
 			: undefined;
+
 		if(!widgetSelf.mainDock || !this._googleWidget)
 		{
 			return;
 		}
-		// Check if layout adjuster and main dock panel exist globally
 
 		if(!this._googleWidget.isAttached)
 		{
@@ -92,14 +97,13 @@ export class ArtWidget extends Widget
 	protected override onAfterAttach(msg: Message): void
 	{
 		super.onAfterAttach(msg);
-		this.node.innerHTML = `<div class="loading-state">Loading gallery from Google Drive...</div>`;
+		this.node.innerHTML = `<div class="loading-state">Loading gallery structure...</div>`;
 		this.loadDriveGallery().catch(err =>
 		{
 			console.error('Error loading Google Drive gallery:', err);
 			this.node.innerHTML = `<div class="error-state">Failed to load clipart: ${err.message}</div>`;
 		});
 		this._openGoogleSidebar();
-
 	}
 
 	protected onActivateRequest(msg: Message): void
@@ -117,6 +121,9 @@ export class ArtWidget extends Widget
 	protected override onBeforeDetach(msg: Message): void
 	{
 		this._googleWidget?.close();
+		// Clean up Object Blob URLs from memory on widget detachment
+		Object.values(this.blobUrlCache).forEach(url => URL.revokeObjectURL(url));
+		this.blobUrlCache = {};
 		super.onBeforeDetach(msg);
 	}
 
@@ -132,70 +139,77 @@ export class ArtWidget extends Widget
 		return lower.includes('urpm') || lower.includes('naked') || lower.includes('x-rated') || lower.includes('nsfw');
 	}
 
+	/**
+	 * Single API call to fetch all category subfolders and parse them synchronously
+	 */
 	private async loadDriveGallery(): Promise<void>
 	{
-		// Fetch subdirectories (Top-Level Categories) inside the root folder
 		const subfolders = await this.fetchDriveFiles(
 			`'${this.rootFolderId}' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false`
 		);
 
-		const filteredCategories = subfolders.filter(f => !f.name.startsWith('.') && !this.isForbidden(f.name));
+		const cleanFolders = subfolders.filter(f => !f.name.startsWith('.') && !this.isForbidden(f.name));
 
-		if(filteredCategories.length === 0)
+		if(cleanFolders.length === 0)
 		{
 			this.node.innerHTML = `<div class="empty-state">No valid categories found in Google Drive folder.</div>`;
 			return;
 		}
 
-		// Build 2-tier tree: Category -> Files (or Sub-style Folders)
-		this.categories = await Promise.all(
-			filteredCategories.map(async catFolder =>
+		// Parse category and style synchronously from folder names
+		this.categoryMap = {};
+
+		cleanFolders.forEach(folder =>
+		{
+			const meta = this.parseFolderName(folder.id, folder.name);
+			if(!this.categoryMap[meta.category])
 			{
-				const childItems = await this.fetchDriveFiles(`'${catFolder.id}' in parents and trashed = false`);
-				const substyles: { [styleName: string]: DriveFile[]; } = {};
-
-				const directImages = childItems.filter(
-					item => item.mimeType.startsWith('image/') && !item.name.startsWith('.') && !this.isForbidden(item.name)
-				);
-
-				if(directImages.length > 0)
-				{
-					substyles['General'] = directImages;
-				}
-
-				// Parse nested folders as distinct style presets
-				const subFolders = childItems.filter(
-					item => item.mimeType === 'application/vnd.google-apps.folder' && !item.name.startsWith('.') && !this.isForbidden(item.name)
-				);
-
-				await Promise.all(
-					subFolders.map(async subF =>
-					{
-						const styleImgs = await this.fetchDriveFiles(
-							`'${subF.id}' in parents and (mimeType contains 'image/') and trashed = false`
-						);
-						const cleanImgs = styleImgs.filter(i => !i.name.startsWith('.') && !this.isForbidden(i.name));
-						if(cleanImgs.length > 0)
-						{
-							substyles[subF.name] = cleanImgs;
-						}
-					})
-				);
-
-				return { id: catFolder.id, name: catFolder.name, substyles };
-			})
-		);
+				this.categoryMap[meta.category] = {};
+			}
+			this.categoryMap[meta.category][meta.style] = meta;
+		});
 
 		this.renderWidgetFrame();
 	}
 
+	/**
+	 * Splits folder names like "animals fauvism" -> Category: "Animals", Style: "Fauvism"
+	 */
+	private parseFolderName(id: string, rawName: string): DriveFolderMeta
+	{
+		const parts = rawName.trim().split(/\s+/);
+
+		const rawCat = parts[0] || 'Other';
+		const category = rawCat.charAt(0).toUpperCase() + rawCat.slice(1).toLowerCase();
+
+		const rawStyle = parts.slice(1).join(' ');
+		const style = rawStyle ? rawStyle.charAt(0).toUpperCase() + rawStyle.slice(1) : 'General';
+
+		return { id, rawName, category, style };
+	}
+
 	private async fetchDriveFiles(query: string): Promise<DriveFile[]>
 	{
-		const fields = encodeURIComponent('files(id, name, mimeType, thumbnailLink, webContentLink)');
-		const q = encodeURIComponent(query);
-		const url = `https://www.googleapis.com/drive/v3/files?q=${q}&fields=${fields}&key=${this.apiKey}&pageSize=1000`;
+		// Added thumbnailLink to requested fields
+		const fields = 'files(id, name, mimeType, thumbnailLink, webContentLink, parents)';
 
-		const response = await fetch(url);
+		const params = new URLSearchParams({
+			q: query,
+			fields: fields,
+			key: this.apiKey,
+			pageSize: '1000',
+			includeItemsFromAllDrives: 'true',
+			supportsAllDrives: 'true'
+		});
+
+		const url = `https://www.googleapis.com/drive/v3/files?${params.toString()}`;
+
+		const response = await fetch(url, {
+			method: 'GET',
+			mode: 'cors',
+			credentials: 'omit'
+		});
+
 		if(!response.ok)
 		{
 			const errJson = await response.json().catch(() => ({}));
@@ -204,6 +218,36 @@ export class ArtWidget extends Widget
 
 		const data = await response.json();
 		return data.files || [];
+	}
+
+	/**
+	 * Fetches high-res CDN thumbnail binary via CORS fetch and generates local Blob URL
+	 */
+	private async getDriveImageBlobUrl(file: DriveFile): Promise<string>
+	{
+		if(this.blobUrlCache[file.id])
+		{
+			return this.blobUrlCache[file.id];
+		}
+
+		// Fallback: If thumbnailLink is missing, use Google's direct public thumbnail URL format
+		let rawThumbnail = file.thumbnailLink || `https://lh3.googleusercontent.com/d/${file.id}`;
+
+		// Replace default size parameter (=s220) with high resolution (=s1200)
+		const highResUrl = rawThumbnail.replace(/=s\d+$/, '=s1200');
+
+		const response = await fetch(highResUrl, {
+			method: 'GET',
+			mode: 'cors',
+			credentials: 'omit'
+		});
+
+		if(!response.ok) throw new Error(`HTTP ${response.status}`);
+
+		const blob = await response.blob();
+		const objectUrl = URL.createObjectURL(blob);
+		this.blobUrlCache[file.id] = objectUrl;
+		return objectUrl;
 	}
 
 	private renderWidgetFrame(): void
@@ -231,20 +275,24 @@ export class ArtWidget extends Widget
 		this.node.querySelector('#cf-prev')?.addEventListener('click', () => this.rotateCoverflow(-1));
 		this.node.querySelector('#cf-next')?.addEventListener('click', () => this.rotateCoverflow(1));
 
-		this.renderCategoryPills();
-		this.selectCategory(0);
+		const categories = Object.keys(this.categoryMap);
+		if(categories.length > 0)
+		{
+			this.renderCategoryPills(categories);
+			this.selectCategory(categories[0]);
+		}
 	}
 
-	private renderCategoryPills(): void
+	private renderCategoryPills(categories: string[]): void
 	{
 		const container = this.node.querySelector('#category-pills');
 		if(!container) return;
 
-		container.innerHTML = this.categories
+		container.innerHTML = categories
 			.map(
-				(cat, idx) => `
-            <button class="art-pill ${idx === this.activeCategoryIdx ? 'active' : ''}" data-idx="${idx}">
-                ${cat.name}
+				cat => `
+            <button class="art-pill ${cat === this.activeCategory ? 'active' : ''}" data-cat="${cat}">
+                ${cat}
             </button>
         `
 			)
@@ -254,42 +302,45 @@ export class ArtWidget extends Widget
 		{
 			btn.addEventListener('click', e =>
 			{
-				const idx = parseInt((e.currentTarget as HTMLElement).dataset.idx || '0', 10);
-				this.selectCategory(idx);
+				const cat = (e.currentTarget as HTMLElement).dataset.cat || '';
+				this.selectCategory(cat);
 			});
 		});
 	}
 
-	private selectCategory(idx: number): void
+	private selectCategory(category: string): void
 	{
-		this.activeCategoryIdx = idx;
-		this.renderCategoryPills();
+		this.activeCategory = category;
+		const categories = Object.keys(this.categoryMap);
+		this.renderCategoryPills(categories);
 
-		const category = this.categories[idx];
-		const styleNames = Object.keys(category.substyles);
-		this.activeStyleName = styleNames.length > 0 ? styleNames[0] : null;
+		const stylesObj = this.categoryMap[category] || {};
+		const styles = Object.keys(stylesObj);
 
-		this.renderStyleTags(styleNames);
-		this.updateCarouselImages();
+		this.renderStyleTags(styles);
+		if(styles.length > 0)
+		{
+			this.selectStyle(styles[0]);
+		}
 	}
 
-	private renderStyleTags(styleNames: string[]): void
+	private renderStyleTags(styles: string[]): void
 	{
 		const container = this.node.querySelector('#style-tags');
 		const section = this.node.querySelector('#styles-section') as HTMLElement;
 		if(!container || !section) return;
 
-		if(styleNames.length <= 1 && styleNames[0] === 'General')
+		if(styles.length === 1 && styles[0] === 'General')
 		{
 			section.style.display = 'none';
 			return;
 		}
 
 		section.style.display = 'block';
-		container.innerHTML = styleNames
+		container.innerHTML = styles
 			.map(
 				style => `
-            <button class="art-style-tag ${style === this.activeStyleName ? 'active' : ''}" data-style="${style}">
+            <button class="art-style-tag ${style === this.activeStyle ? 'active' : ''}" data-style="${style}">
                 ${style}
             </button>
         `
@@ -300,24 +351,55 @@ export class ArtWidget extends Widget
 		{
 			btn.addEventListener('click', e =>
 			{
-				this.activeStyleName = (e.currentTarget as HTMLElement).dataset.style || null;
-				this.renderStyleTags(styleNames);
-				this.updateCarouselImages();
+				const style = (e.currentTarget as HTMLElement).dataset.style || '';
+				this.selectStyle(style);
 			});
 		});
 	}
 
-	private getActiveImages(): DriveFile[]
+	private async selectStyle(style: string): Promise<void>
 	{
-		if(!this.categories[this.activeCategoryIdx] || !this.activeStyleName) return [];
-		return this.categories[this.activeCategoryIdx].substyles[this.activeStyleName] || [];
-	}
+		this.activeStyle = style;
+		const styles = Object.keys(this.categoryMap[this.activeCategory] || {});
+		this.renderStyleTags(styles);
 
-	private updateCarouselImages(): void
-	{
-		const images = this.getActiveImages();
+		const folderMeta = this.categoryMap[this.activeCategory]?.[style];
+		if(!folderMeta) return;
+
+		const stage = this.node.querySelector('#coverflow-container');
+		if(stage)
+		{
+			stage.innerHTML = `<div class="loading-state">Loading images for ${style}...</div>`;
+		}
+
+		const images = await this.loadFolderImagesLazy(folderMeta.id);
 		this.activeImageIdx = 0;
 		this.renderCoverflow(images);
+	}
+
+	/**
+	 * Lazily fetches images for a selected style folder with memory caching
+	 */
+	private async loadFolderImagesLazy(folderId: string): Promise<DriveFile[]>
+	{
+		if(this.imageCache[folderId])
+		{
+			return this.imageCache[folderId];
+		}
+
+		const query = `'${folderId}' in parents and (mimeType contains 'image/') and trashed = false`;
+		const images = await this.fetchDriveFiles(query);
+		const cleanImages = images.filter(i => !i.name.startsWith('.') && !this.isForbidden(i.name));
+
+		this.imageCache[folderId] = cleanImages;
+		return cleanImages;
+	}
+
+	private getActiveImages(): DriveFile[]
+	{
+		const folderMeta = this.categoryMap[this.activeCategory]?.[this.activeStyle];
+		if(!folderMeta) return [];
+		return this.imageCache[folderMeta.id] || [];
 	}
 
 	private renderCoverflow(images: DriveFile[]): void
@@ -333,15 +415,11 @@ export class ArtWidget extends Widget
 		}
 
 		container.innerHTML = images
-			.map((img, idx) =>
-			{
-				const src = `https://www.googleapis.com/drive/v3/files/${img.id}?alt=media&key=${this.apiKey}`;
-				return `
-                <div class="coverflow-card" data-idx="${idx}" style="background-image: url('${src}');">
+			.map((img, idx) => `
+                <div class="coverflow-card" data-idx="${idx}" id="cf-card-${idx}">
                     <div class="coverflow-card-label">${img.name}</div>
                 </div>
-            `;
-			})
+            `)
 			.join('');
 
 		container.querySelectorAll('.coverflow-card').forEach(card =>
@@ -355,6 +433,24 @@ export class ArtWidget extends Widget
 		});
 
 		this.applyCoverflowTransforms();
+
+		// Fetch binary image blobs asynchronously using CDN thumbnails
+		images.forEach(async (img, idx) =>
+		{
+			try
+			{
+				const blobUrl = await this.getDriveImageBlobUrl(img);
+				const cardNode = this.node.querySelector(`#cf-card-${idx}`) as HTMLElement;
+				if(cardNode)
+				{
+					cardNode.style.backgroundImage = `url('${blobUrl}')`;
+				}
+			}
+			catch(err)
+			{
+				console.error(`Failed to load image blob for ${img.name}:`, err);
+			}
+		});
 	}
 
 	private rotateCoverflow(direction: number): void
@@ -369,7 +465,6 @@ export class ArtWidget extends Widget
 	private applyCoverflowTransforms(): void
 	{
 		const cards = this.node.querySelectorAll('.coverflow-card');
-		const total = cards.length;
 
 		cards.forEach((card, idx) =>
 		{
@@ -400,7 +495,7 @@ export class ArtWidget extends Widget
 		const activeImg = this.getActiveImages()[this.activeImageIdx];
 		if(activeImg)
 		{
-			const tokens = `${this.categories[this.activeCategoryIdx].name} ${this.activeStyleName || ''} ${activeImg.name}`
+			const tokens = `${this.activeCategory} ${this.activeStyle} ${activeImg.name}`
 				.toLowerCase()
 				.split(/[^a-z0-9]/gi)
 				.filter((v, i, a) => v.length > 2 && a.indexOf(v) === i);
