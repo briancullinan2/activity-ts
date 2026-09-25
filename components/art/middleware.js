@@ -2,11 +2,11 @@
 // @ts-check
 /// <reference types="node" />
 
-import serveIndex from 'serve-index';
-import serveStatic from 'serve-static';
-import fs from 'fs';
-import path from 'path';
-import { IncomingMessage, ServerResponse } from 'http';
+const serveIndex = require('serve-index');
+const serveStatic = require('serve-static');
+const fs = require('fs');
+const path = require('path');
+const { IncomingMessage, ServerResponse } = require('http');
 
 // Set your removable storage path (e.g., /media/usb, /Volumes/ExternalDrive, or E:\)
 const REMOVABLE_DRIVE_PATH = process.platform === 'win32'
@@ -35,14 +35,15 @@ const indexMiddleware = serveIndex(TARGET_DIR, {
  * @param {Function} next
  * @returns {void | any}
  */
-export function removableStorageMiddleware(req, res, next)
+function removableStorageMiddleware(req, res, next)
 {
 	const url = req.url || '';
 
-	if(!url.startsWith(path.join('/clipart')))
+	if(!url.startsWith('/clipart'))
 	{
-		return;
+		return next();
 	}
+	console.log('Middling: ' + url);
 
 	// Check if the drive/directory exists on every incoming request
 	try
@@ -50,6 +51,7 @@ export function removableStorageMiddleware(req, res, next)
 		if(!fs.existsSync(TARGET_DIR))
 		{
 			res.statusCode = 500;
+			res.setHeader('Content-Type', 'text/json');
 			return res.end(JSON.stringify({
 				error: 'Storage Unavailable',
 				message: 'The removable storage device is currently disconnected or unmounted.',
@@ -68,6 +70,7 @@ export function removableStorageMiddleware(req, res, next)
 			console.warn(`[Storage Warning] Drive access failed: ${err.message}`);
 		}
 		res.statusCode = 500;
+		res.setHeader('Content-Type', 'text/json');
 		return res.end(JSON.stringify({
 			error: 'Storage I/O Error',
 			message: 'Removable drive is attached but unreadable.',
@@ -81,3 +84,7 @@ export function removableStorageMiddleware(req, res, next)
 		indexMiddleware(req, res, next);
 	});
 }
+
+module.exports = {
+	removableStorageMiddleware
+};
