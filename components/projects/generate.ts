@@ -10,6 +10,7 @@ export const AUTHOR_MATCHES = [
 	'brian cullinan',
 	'megamindbrian@gmail.com',
 	'bjcullinan@gmail.com',
+	'bjcullinan@bjcullinan.com',
 	'megamind'
 ];
 
@@ -105,7 +106,7 @@ export interface MonthlyProjectRegistry
 const MASTER_OUTPUT_FILE = path.join(__dirname, 'projects-data.json');
 const CACHE_DIR = __dirname;
 const GITHUB_USERNAME = process.env.GITHUB_USERNAME || 'briancullinan2';
-const SEARCH_ROOTS = [
+export const SEARCH_ROOTS = [
 	os.homedir(),
 	path.join(__dirname, '..')
 ];
@@ -150,7 +151,7 @@ function writeProjectCache(projectData: ProjectData): void
 /**
  * Helper to recursively scan directories for .git repositories
  */
-function findGitRepositories(dir: string, depth = 0, maxDepth = 4): string[]
+export function findGitRepositories(dir: string, depth = 0, maxDepth = 4): string[]
 {
 	if(depth > maxDepth) return [];
 	const gitRepos: string[] = [];

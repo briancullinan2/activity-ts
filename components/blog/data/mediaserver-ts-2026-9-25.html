@@ -1,0 +1,47 @@
+<h2>components/bundle/menu.ts</h2>
+<p>Well, folks, it's like we've got a code problem on our hands! Let me explain it to you.</p>
+<p>We've got this TypeScript file <code>components/bundle/menu.ts</code> and we're adding some new components to our menu. It's like we're putting some new faces in the menu to make it more interesting.</p>
+<p>Here are the additions:</p>
+<pre><code class="language-typescript">'tools': { label: 'Tools', url: './components/tools/widget.ts', className: 'ToolsWidget', iconClass: 'bx bx-rename' },
+'settings': { label: 'Edit Settings', url: './components/editor/widget-settings.ts', className: 'SettingsWidget', iconClass: 'bx bx-gear' },
+};
+
+export const TOOLS_REGISTRY: Record&lt;string, ComponentRoute&gt; = {
+'torrent': { label: 'Torrent Procurement', url: './components/tools/widget-torrent.ts', className: 'TorrentWidget', iconClass: 'bx bx-cloud-download' },
+'nzb': { label: 'NZB &amp; Usenet Engine', url: './components/tools/widget-nzb.ts', className: 'NzbWidget', iconClass: 'bx bx-news' },
+'movies': { label: 'Movie Procurement &amp; Matching', url: './components/tools/widget-movies.ts', className: 'MoviesWidget', iconClass: 'bx bx-film' },
+'tv': { label: 'TV Shows &amp; MyEpisodes Sync', url: './components/tools/widget-tv.ts', className: 'TvWidget', iconClass: 'bx bx-tv' },
+'renamer': { label: 'Batch File &amp; Path Renamer', url: './components/tools/widget-renamer.ts', className: 'RenamerWidget', iconClass: 'bx bx-rename' },
+};
+</code></pre>
+<p>This is like we're adding some new components to the menu. It's like we're adding some new faces to the menu to make it more interesting and functional.</p>
+<p>Then, we're deleting some old routes:</p>
+<pre><code class="language-typescript">export const EDIT_REGISTRY: Record&lt;string, ComponentRoute&gt; = {
+  'torrent': { label: 'Torrent Procurement', url: './components/tools/widget-torrent.ts', className: 'TorrentWidget', iconClass: 'bx bx-cloud-download' },
+  'nzb': { label: 'NZB &amp; Usenet Engine', url: './components/tools/widget-nzb.ts', className: 'NzbWidget', iconClass: 'bx bx-news' },
+  'movies
+
+## Summary of Changes
+
+Well, folks, it's like we've got some new additions to our menu system! Let me explain it to you.
+
+We've got this TypeScript file `components/bundle/menu.ts` and we've got some new features to add to our menu. It's like we're adding some new faces to the menu to make it more interesting and functional.
+
+Here are the additions:
+
+```typescript
+'tools': { label: 'Tools', url: './components/tools/widget.ts', className: 'ToolsWidget', iconClass: 'bx bx-rename' },
+'settings': { label: 'Edit Settings', url: './components/editor/widget-settings.ts', className: 'SettingsWidget', iconClass: 'bx bx-gear' },
+</code></pre>
+<p>This is like we're adding some new components to the menu. It's like we're adding some new faces to the menu to make it more interesting and functional.</p>
+<p>Next up, we've got some deletions:</p>
+<pre><code class="language-typescript">export const TOOLS_REGISTRY: Record&lt;string, ComponentRoute&gt; = {
+  'torrent': { label: 'Torrent Procurement', url: './components/tools/widget-torrent.ts', className: 'TorrentWidget', iconClass: 'bx bx-cloud-download' },
+  'nzb': { label: 'NZB &amp; Usenet Engine', url: './components/tools/widget-nzb.ts', className: 'NzbWidget', iconClass: 'bx bx-news' },
+  'movies': { label: 'Movie Procurement &amp; Matching', url: './components/tools/widget-movies.ts', className: 'MoviesWidget', iconClass: 'bx bx-film' },
+  'tv': { label: 'TV Shows &amp; MyEpisodes Sync', url: './components/tools/widget-tv.ts', className: 'TvWidget', iconClass: 'bx bx-tv' },
+  'renamer': { label: 'Batch File &amp; Path Renamer', url: './components/tools/widget-renamer.ts', className: 'RenamerWidget', iconClass: 'bx bx-rename' },
+};
+</code></pre>
+<p>This is like we're removing some old components from the menu. It's like we're removing some old faces from the menu to simplify it and make it more functional.</p>
+<p>So, we've got some new additions and some old deletions. That's like we're adding some new features and removing some old ones to make our menu system more robust and functional.</p>

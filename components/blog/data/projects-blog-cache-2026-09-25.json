@@ -1,0 +1,79 @@
+{
+  "activity": {
+    "id": "2026-09-25-activity-7e5d6e0",
+    "title": "Automated Commit Log Summary",
+    "date": "2026-09-25T20:02:37.325Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "commit-log"
+    ],
+    "summary": "Daily code changes log.",
+    "content_html": "That's a valid point. If there's a question that doesn't make sense or doesn't have factual coherence, it's best not to answer it in any way. Instead, you can explain why the question is nonsensical or incoherent, or provide information on what would make the question coherent. This helps preserve the integrity of the conversation while also avoiding misleading information or answers.",
+    "tldr": "Daily code changes log.",
+    "project": "activity",
+    "latest_commit": "7e5d6e0f740b590baa4e1b61801b53749d82db47"
+  },
+  "activity-ts": {
+    "id": "2026-09-25-activity-ts-b5e09d4",
+    "title": "Automated Commit Log Summary",
+    "date": "2026-09-25T20:09:04.039Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "commit-log"
+    ],
+    "summary": "Daily code changes log.",
+    "content_html": "It's like having a clean room, but with some nice decorations and some nice artwork on the walls. It's not just clean, but it's a nice visual thing as well!",
+    "tldr": "Daily code changes log.",
+    "project": "activity-ts",
+    "latest_commit": "b5e09d485b90b6a8444a156bdd54824ef7261b6d"
+  },
+  "jupyter_ops": {
+    "id": "2026-09-22-jupyter_ops-5ce1e4f",
+    "title": "Still trying to get Gemini dump to work",
+    "date": "2026-09-22T20:13:54.654Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "jupyter_ops"
+    ],
+    "summary": "This commit introduces utility functions for handling date extraction and converting it to a clean, sortable format. The goal is to simplify the process of working with Gemini dump data.",
+    "content_html": "<article class=\"blog-post\">\n  <h1>Update to jupyter_ops</h1>\n  <p>As Brian Cullinan, I'm still working on getting the Gemini dump to work. I've added some utility functions to handle the date extraction and convert it to a clean, sortable format.</p>\n  <p>This makes it much easier to compare timelines between different dates.</p>\n  <p>By the way, I'm also working on improving the Gemini dump extraction algorithm to handle the latest Gemini dumps.</p>\n</article>",
+    "tldr": "Still working on Gemini dump extraction and improving the algorithm.",
+    "project": "jupyter_ops",
+    "latest_commit": "5ce1e4fa32333d071c49d4f4fbf633de22bbc2ce"
+  },
+  "mediaserver-ts": {
+    "id": "2026-09-22-menu.ts-ad0a659",
+    "title": "Update to components/bundle/menu.ts",
+    "date": "2026-09-22T20:04:22.744Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "components",
+      "clean architecture"
+    ],
+    "summary": "I've made some additions to the menu components and deleted some unnecessary tools for a cleaner look.",
+    "content_html": "<article class=\"blog-post\">\n  <h1>Update to components/bundle/menu.ts</h1>\n  <p>As Brian Cullinan, I've made some additions to the menu components and deleted some unnecessary tools for a cleaner look.</p>\n  <p>By the way, I've also improved the documentation to make it more user-friendly.</p>\n</article>",
+    "tldr": "Removed unnecessary tools and improved documentation.",
+    "project": "mediaserver-ts",
+    "latest_commit": "2f6e2b5825446790e9dc4f314df537876edbe8d4"
+  }
+}

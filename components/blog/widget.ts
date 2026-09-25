@@ -96,6 +96,12 @@ export class BlogWidget extends Widget
 		}
 	}
 
+	protected onResize(msg: Widget.ResizeMessage): void
+	{
+		super.onResize(msg);
+		this._renderD3WordCloud();
+	}
+
 	/**
 	 * Aggregates unique years and months from _data.posts and populates the filter toolbar
 	 */
@@ -343,7 +349,7 @@ export class BlogWidget extends Widget
 		article.appendChild(header);
 		article.appendChild(bodyNode);
 
-		if(post.modern_insight_2026)
+		if(post.modern_insight_2026 || post.tldr)
 		{
 			const insightNode = document.createElement('div');
 			insightNode.className = 'post-card-insight-2026';
@@ -353,7 +359,13 @@ export class BlogWidget extends Widget
 			badge.textContent = 'TLDR';
 
 			const text = document.createElement('p');
-			text.textContent = post.modern_insight_2026;
+			if(post.modern_insight_2026)
+			{
+				text.textContent = post.modern_insight_2026;
+			} else if(post.tldr)
+			{
+				text.textContent = post.tldr;
+			}
 
 			insightNode.appendChild(badge);
 			insightNode.appendChild(text);
@@ -396,7 +408,7 @@ export class BlogWidget extends Widget
 		}
 
 		const width = this._tagCloudContainer.clientWidth || 600;
-		const height = 140;
+		const height = this._tagCloudContainer.clientWidth ? (this._tagCloudContainer.clientWidth / 5) : 140;
 
 		const words = this._data.tags.map(t => ({
 			text: t.text,

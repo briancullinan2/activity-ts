@@ -1,0 +1,36 @@
+<h2>Selenium/gemini.ipynb</h2>
+<p>Well, this is some serious project progress we've got here, folks! I'm just a software engineer and hardware hacker here, but I've got to admit, these commits have been a real brain teaser. Let me break it down for you.</p>
+<p>First up, we've got a new friend named <code>Selenium/gemini.ipynb</code>, which is a notebook dedicated to our Selenium project. We've made some exciting changes to it. Let's dive right into the action.</p>
+<p>We added some code that takes this crazy JSON blob and turns it into a proper date string. It's like we took a bunch of random numbers and turned them into a proper timeline. Let me explain it to you in a way that's easy to understand:</p>
+<pre><code>const month = String(d.getMonth() + 1).padStart(2, &quot;0&quot;);
+const day = String(d.getDate()).padStart(2, &quot;0&quot;);
+return `${year}-${month}-${day}`;
+</code></pre>
+<p>This is like taking our random numbers and putting them into a proper structure. We make sure the month and day are in the right format and add zeros if they don't have any. It's like we're cleaning up our timeline and making sure it's ready for a proper show.</p>
+<p>Then, we're extracting the Unix timestamp, which is like a magical number that tells us what time it is. We do this by checking if the input is a string or an array, and then we try to find the right number in the JSON. It's like we're searching for the right number in a big treasure hunt.</p>
+<p>Now, let's talk about the deletions. We've got some old code that was used to find new conversations in the sidebar. It's like we're looking for a specific section in a big room, and we've found it. We've made some changes to how we find these new conversations, and it's all done in a way that's easy to understand.</p>
+<p>I hope this helps you understand what's going on with our Selenium project. If you have any questions or want to know more, don't hesitate to ask!</p>
+<h2>Summary of Changes</h2>
+<p>Well, folks, I've got this code commit issue on my hands! Let me break it down for you.</p>
+<p>We've got this file <code>Selenium/gemini.ipynb</code>, and we're trying to get it to work with this JSON dump of gemini. It's like we've got a puzzle to solve, but it's not easy, folks!</p>
+<p>Let's dive into the code:</p>
+<pre><code class="language-javascript">const month = String(d.getMonth() + 1).padStart(2, &quot;0&quot;);
+const day = String(d.getDate()).padStart(2, &quot;0&quot;);
+return `${year}-${month}-${day}`;
+</code></pre>
+<p>This is like we're taking some random numbers and turning them into a proper date format. It's like we're cleaning up our timeline and making sure it's ready for a proper show.</p>
+<p>Then, we're extracting the Unix timestamp, which is like a magical number that tells us what time it is. It's like we're searching for the right number in a big treasure hunt.</p>
+<p>Now, let's talk about the deletions:</p>
+<pre><code class="language-javascript">const hrefTarget = document.querySelector(
+  &quot;a[href='/app'], a[href*='/app?'], a[href='/']&quot;
+);
+const sidebar = document.querySelector(
+  &quot;mat-sidenav, nav, .side-nav, [role='navigation']&quot;
+);
+if (expandBtn &amp;&amp; (!sidebar || sidebar.clientWidth === 0)) {
+  expandBtn.click();
+  await sleep(1000);
+}
+</code></pre>
+<p>These lines of code are like we're looking for a specific section in a big room, and we've found it. We've made some changes to how we find these new conversations, and it's all done in a way that's easy to understand.</p>
+<p>I hope this helps you understand what's going on with our Selenium project. If you have any questions or want to know more, don't hesitate to ask!</p>

@@ -21,6 +21,7 @@
 		"generate-timeline": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/timeline/generate.ts",
 		"generate-blog": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/blog/generate.ts",
 		"generate-post": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/blog/generate-post.ts",
+		"generate-code": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/blog/generate-code.ts",
 		"build": "webpack --config webpack.prod.js",
 		"set-google": "gcloud storage buckets update gs://quake.games --cors-file=cors-json-file.json"
 	},
@@ -33,6 +34,7 @@
 		"@lumino/widgets": "^2.9.0",
 		"@types/d3": "^7.4.3",
 		"@types/d3-cloud": "^1.2.9",
+		"@types/remarkable": "^2.0.8",
 		"ace-builds": "^1.44.0",
 		"d3": "^7.9.0",
 		"d3-cloud": "^1.2.9",
@@ -42,6 +44,7 @@
 		"live-server": "^1.2.2",
 		"node-ical": "^0.27.2",
 		"node-llama-cpp": "^3.21.1",
+		"remarkable": "^2.0.1",
 		"vis-data": "^8.0.5",
 		"vis-timeline": "^8.5.4",
 		"wasm-git": "^0.0.17"

@@ -14,6 +14,9 @@ export interface IBlogPost
 	summary: string;
 	content_html: string;
 	modern_insight_2026?: string;
+	tldr?: string;
+	project?: string;
+	latest_commit?: string;
 }
 
 export interface ITagWeight
