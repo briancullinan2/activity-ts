@@ -55,5 +55,43 @@
     "tldr": "Still trying to get Gemini dump to work. Added structural match for epoch and updated array match to handle 10-digit epoch values.",
     "project": "jupyter_ops",
     "latest_commit": "5ce1e4fa32333d071c49d4f4fbf633de22bbc2ce"
+  },
+  {
+    "id": "2026-09-22-mediaserver-ts",
+    "title": "Update to mediaserver-ts",
+    "date": "2026-09-22T23:07:25Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "mediaserver-ts"
+    ],
+    "summary": "Changes in mediaserver-ts include updates to the menu components, as well as the addition of a new 'more tools' option. The 'more tools' option provides additional functionality and an organized interface for accessing tools and settings.",
+    "content_html": "<article class=\"blog-post\">Changes in mediaserver-ts include updates to the menu components, as well as the addition of a new 'more tools' option. The 'more tools' option provides additional functionality and an organized interface for accessing tools and settings.</article>",
+    "tldr": "Changes in mediaserver-ts include updates to the menu components and a new 'more tools' option for a more organized and user-friendly interface.",
+    "project": "mediaserver-ts",
+    "latest_commit": "2f6e2b5825446790e9dc4f314df537876edbe8d4"
+  },
+  {
+    "id": "2026-09-25-parrotpi-de6008f",
+    "title": "Update to parrotpi",
+    "date": "2026-09-25T20:42:55.351Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "parrotpi"
+    ],
+    "summary": "Summary of changes made to parrotpi.",
+    "content_html": "<article class=\"blog-post\">I've been diving into the `app.bundle.js` codebase, and I've got a story to tell. Let's take a trip through the changes we've made over these days.\n\nWe've got a few commits under our belt, each marking a new chapter in our journey. Let's start with the **dev port** commit, which is like a new chapter that sets the stage for our adventure. This commit is about **dev port**.\n\nThen, there's the **trimming down tool** commit. This one is about **trimming down tool**. It's like we're going on a mission to simplify our tools, making them lean and efficient.\n\nNext, we've got the **renaming default repo** commit, which is like a name change. We're going to make this process faster and more streamlined.\n\nMoving on, we've got the **fixing git log on mac** commit, which is about **fixing git log on mac**. It's important to make sure our tools work seamlessly across different platforms.\n\nLastly, we've got the **fixing git log on linux** commit, which is about **fixing git log on linux**. Just like the mac commit, we need to ensure our tools work well on all platforms.\n\nAll of these changes are part of our journey to improve the `app.bundle.js` codebase and make the `parrotpi` experience better for everyone. We're excited to see how these changes will impact the future of `parrotpi`. Keep an eye out for the next update, and thanks for reading.",
+    "tldr": "Summary of changes made to parrotpi.",
+    "project": "parrotpi",
+    "latest_commit": "de6008f62f1d4a1af8eef9214d3846be4a1595c2"
   }
 ]

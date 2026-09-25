@@ -45,6 +45,7 @@
 		"node-ical": "^0.27.2",
 		"node-llama-cpp": "^3.21.1",
 		"remarkable": "^2.0.1",
+		"serve-static": "^2.2.1",
 		"vis-data": "^8.0.5",
 		"vis-timeline": "^8.5.4",
 		"wasm-git": "^0.0.17"

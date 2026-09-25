@@ -1,4 +1,5 @@
 // @ts-check
+/// <reference types="node" />
 
 import { IncomingMessage, ServerResponse } from 'http';
 import * as fs from 'fs';
