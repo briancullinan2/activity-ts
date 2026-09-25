@@ -1,0 +1,48 @@
+[
+	{
+		"id": "2008-11-25-getting-a-job-interviewer-perspective",
+		"title": "Getting a Job: How to Crash and Burn in Tech Interviews (Guest Post)",
+		"date": "2008-11-25T00:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Career",
+			"General",
+			"Interviewing"
+		],
+		"tags": [
+			"interviews",
+			"hiring",
+			"resume-tips",
+			"ebsco",
+			"career-advice",
+			"soft-skills"
+		],
+		"summary": "Guest wisdom from EBSCO AVP Roger Rohweder on how tech candidates spectacularly blow job interviews by sending generic resumes, lacking basic eye contact, and failing to research the company.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Getting a Job: How to Crash and Burn in Tech Interviews</h1><p class=\"byline\">Published on November 25, 2008 by <strong>Brian Cullinan</strong> (featuring Roger Rohweder)</p></header><div class=\"post-media\"><img src=\"image_agent_tag_3834410376172727781\" alt=\"Tech interview rejection meme step by step\" class=\"hero-image\"/><p class=\"caption\">A visual guide to the brutal lifecycle of entry-level technical interviews.</p></div><section class=\"post-body\"><p>This week I'm sharing insights from Roger Rohweder, Assistant Vice President at EBSCO Industries, who recently watched a fresh Computer Science graduate completely implode during a tech support interview.</p><h2>How to Guarantee You Won't Get Hired</h2><ul><li><strong>The Generic Blast Resume:</strong> Submitting an uncustomized, generic resume with no cover letter signals instantly that you applied to 400 positions in an automated batch run without caring about this specific job.</li><li><strong>Mumbling in the Corner:</strong> Being soft-spoken in a mousy, hyper-geeky way does not work when applying for roles that require communicating with real humans or running customer training sessions.</li><li><strong>Expecting Mind Reading:</strong> Coming to an interview expecting the hiring manager to figure out your skill set for you, rather than actively demonstrating what problems you can solve.</li></li><strong>Faking Competence:</strong> Trying to fake knowledge when asked about a technology you don't know. The interviewer is an expert and will instantly smell the desperation.</li></ul><h2>The Bare Minimum Requirements</h2><p>Do basic background research on the company, look the interviewer in the eye, ask insightful questions about their technical stack, and write a follow-up email making your case. It is incredible how low the bar is, yet candidates still manage to trip over it.</p></section></article>",
+		"modern_insight_2026": "Back in 2008, failing an interview meant mumbling in a conference room and sending an uncustomized PDF. In 2026, candidates get rejected by automated AI ATS screeners before a human ever reads their resume, and then face 5 rounds of LeetCode hard problems just to land a junior tech support role."
+	},
+	{
+		"id": "2008-11-05-hack-of-the-week-ssh-proxy",
+		"title": "Hack of the Week: Bypassing Campus Network Throttling with SSH & Local SOCKS Tunnels",
+		"date": "2008-11-05T00:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Hacking",
+			"Networking",
+			"Linux"
+		],
+		"tags": [
+			"ssh",
+			"squid",
+			"putty",
+			"port-forwarding",
+			"websense",
+			"circumvention",
+			"ubuntu",
+			"1337"
+		],
+		"summary": "Routing local browser traffic through an encrypted SSH tunnel bound to port 1337 to bypass university WebSense filters, bandwidth throttling, and firewall inspection.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Hack of the Week: Bypassing Campus Network Throttling with SSH & Local SOCKS Tunnels</h1><p class=\"byline\">Published on November 5, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_3834410376172725004\" alt=\"Offensive security guide to SSH tunnels and proxies diagram\" class=\"hero-image\"/><p class=\"caption\">Tunneling encrypted traffic through custom ports to defeat university firewalls.</p></div><section class=\"post-body\"><p>Campus network administrators love deploying WebSense content filters and throttling common proxy ports like <code>3128</code> and <code>8080</code>. Here is how to route all your browser traffic through an encrypted SSH tunnel and bypass their oppressive rules entirely.</p><h2>The Circumvention Blueprint</h2><ol><li><strong>Server Setup:</strong> Spin up a basic Squid proxy on a remote Ubuntu box.</li><li><strong>Port Evasion:</strong> Configure PuTTY to establish an SSH tunnel mapping local port <code>1337</code> directly to <code>localhost:3128</code> on the remote box—dodging standard proxy port inspection.</li><li><strong>Browser Re-routing:</strong> Set Firefox's connection settings to forward HTTP traffic through <code>localhost:1337</code>.</li></ol><p>Sure, encryption adds a slight overhead latency, but watching blocked sites load at un-throttled speeds right past campus IT security makes it totally worth it.</p></section></article>",
+		"modern_insight_2026": "Binding an unencrypted Squid proxy over SSH on port 1337 was classic 2000s script-kiddie gold. Today's enterprise deep packet inspection (DPI) and Zero Trust Network Access (ZTNA) engines would flag and terminate an un-whitelisted SSH tunnel in milliseconds."
+	}
+]

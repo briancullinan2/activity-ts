@@ -48,7 +48,7 @@ export class TimelineWidget extends Widget
 		super();
 		this.addClass('jp-ActivityTimelineWidget');
 		this.title.label = 'Activity Timeline';
-		this.title.iconClass = 'fa fa-clock-o';
+		this.title.iconClass = 'bx bx-history';
 		this.title.closable = true;
 
 		this.node.appendChild(this._buildHeaderToolbar());
@@ -533,8 +533,41 @@ export class TimelineWidget extends Widget
 			this._legendContainer.appendChild(item);
 		});
 
+		// 3. Right-hand View Mode Switcher Buttons
+		const viewSwitcherGroup = document.createElement('div');
+		viewSwitcherGroup.className = 'view-switcher-group';
+
+		const calendarBtn = document.createElement('a');
+		calendarBtn.href = '#calendar';
+		calendarBtn.className = 'bx bx-calendar-alt';
+
+		const timelineBtn = document.createElement('button');
+		timelineBtn.disabled = true; // Active view is disabled
+		timelineBtn.className = 'view-btn active bx bx-history';
+		timelineBtn.title = 'Switch to Timeline View (2 weeks - 1 day)';
+		timelineBtn.addEventListener('click', () =>
+		{
+			console.log('[View Switcher] Trigger switch to TimelineWidget');
+		});
+
+		const projectsBtn = document.createElement('a');
+		projectsBtn.className = 'view-btn';
+		projectsBtn.href = '#projects';
+		projectsBtn.className = 'bx bx-briefcase-alt';
+		projectsBtn.title = 'Switch to Projects Vertical List View';
+		projectsBtn.addEventListener('click', () =>
+		{
+			console.log('[View Switcher] Trigger switch to ProjectsWidget');
+		});
+
+		viewSwitcherGroup.appendChild(calendarBtn);
+		viewSwitcherGroup.appendChild(timelineBtn);
+		viewSwitcherGroup.appendChild(projectsBtn);
+
+
 		toolbar.appendChild(navGroup);
 		toolbar.appendChild(this._legendContainer);
+		toolbar.appendChild(viewSwitcherGroup);
 
 		return toolbar;
 	}

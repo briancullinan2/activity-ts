@@ -1,0 +1,1802 @@
+{
+  "generatedAt": "2026-09-25T03:33:25.932Z",
+  "totalPosts": 21,
+  "tags": [
+    {
+      "text": "software architecture",
+      "count": 7,
+      "size": 48,
+      "postIds": [
+        "2008-03-16-mfg-now-in-3d",
+        "2008-03-10-progress-on-my-first-game",
+        "2009-11-10-autofill-sso",
+        "2009-11-10-intelligent-design",
+        "2009-11-10-automatic-updates",
+        "2009-11-10-autofill-sso",
+        "2009-11-10-automatic-updates"
+      ]
+    },
+    {
+      "text": "general",
+      "count": 6,
+      "size": 42,
+      "postIds": [
+        "2008-04-23-friends",
+        "2008-04-20-relationship-advice-young-hearted",
+        "2008-10-30-operating-system-independence",
+        "2008-10-14-computer-science-do-it-yourself",
+        "2008-11-25-getting-a-job-interviewer-perspective",
+        "2009-10-08-blog-changes"
+      ]
+    },
+    {
+      "text": "hardware",
+      "count": 6,
+      "size": 42,
+      "postIds": [
+        "2008-10-25-making-a-batman-costume-preface",
+        "2008-10-23-computer-coffee-table",
+        "2008-12-19-car-streaming-hack",
+        "2009-11-05-batman-costume",
+        "2009-11-05-hard-drive-clocks",
+        "2009-11-05-batman-costume"
+      ]
+    },
+    {
+      "text": "web dev",
+      "count": 5,
+      "size": 36,
+      "postIds": [
+        "2008-03-07-i-have-standards-how-about-you",
+        "2009-11-12-drupal-glory",
+        "2009-11-10-autofill-sso",
+        "2009-11-12-drupal-glory",
+        "2009-11-10-autofill-sso"
+      ]
+    },
+    {
+      "text": "abandoned projects",
+      "count": 5,
+      "size": 36,
+      "postIds": [
+        "2008-10-25-making-a-batman-costume-preface",
+        "2009-10-08-blog-changes",
+        "2009-11-05-batman-costume",
+        "2009-11-05-hard-drive-clocks",
+        "2009-11-05-batman-costume"
+      ]
+    },
+    {
+      "text": "drupal",
+      "count": 5,
+      "size": 36,
+      "postIds": [
+        "2009-10-08-blog-changes",
+        "2009-11-12-drupal-glory",
+        "2009-11-12-drupal-glory",
+        "2009-11-12-drupal-glory",
+        "2009-11-12-drupal-glory"
+      ]
+    },
+    {
+      "text": "ux",
+      "count": 5,
+      "size": 36,
+      "postIds": [
+        "2009-11-10-autofill-sso",
+        "2009-11-10-intelligent-design",
+        "2009-11-10-automatic-updates",
+        "2009-11-10-autofill-sso",
+        "2009-11-10-automatic-updates"
+      ]
+    },
+    {
+      "text": "ldap",
+      "count": 4,
+      "size": 30,
+      "postIds": [
+        "2009-11-12-drupal-glory",
+        "2009-11-10-autofill-sso",
+        "2009-11-12-drupal-glory",
+        "2009-11-10-autofill-sso"
+      ]
+    },
+    {
+      "text": "cas",
+      "count": 4,
+      "size": 30,
+      "postIds": [
+        "2009-11-12-drupal-glory",
+        "2009-11-10-autofill-sso",
+        "2009-11-12-drupal-glory",
+        "2009-11-10-autofill-sso"
+      ]
+    },
+    {
+      "text": "personal",
+      "count": 3,
+      "size": 24,
+      "postIds": [
+        "2008-04-23-friends",
+        "2008-04-20-relationship-advice-young-hearted",
+        "2010-12-27-academia"
+      ]
+    },
+    {
+      "text": "windows",
+      "count": 3,
+      "size": 24,
+      "postIds": [
+        "2008-10-30-operating-system-independence",
+        "2009-11-10-automatic-updates",
+        "2009-11-10-automatic-updates"
+      ]
+    },
+    {
+      "text": "linux",
+      "count": 3,
+      "size": 24,
+      "postIds": [
+        "2008-10-30-operating-system-independence",
+        "2008-10-23-setting-up-a-dns-server",
+        "2008-11-05-hack-of-the-week-ssh-proxy"
+      ]
+    },
+    {
+      "text": "operating systems",
+      "count": 3,
+      "size": 24,
+      "postIds": [
+        "2008-10-30-operating-system-independence",
+        "2009-11-10-automatic-updates",
+        "2009-11-10-automatic-updates"
+      ]
+    },
+    {
+      "text": "batman",
+      "count": 3,
+      "size": 24,
+      "postIds": [
+        "2008-10-25-making-a-batman-costume-preface",
+        "2009-11-05-batman-costume",
+        "2009-11-05-batman-costume"
+      ]
+    },
+    {
+      "text": "cosplay engineering",
+      "count": 3,
+      "size": 24,
+      "postIds": [
+        "2008-10-25-making-a-batman-costume-preface",
+        "2009-11-05-batman-costume",
+        "2009-11-05-batman-costume"
+      ]
+    },
+    {
+      "text": "academia",
+      "count": 3,
+      "size": 24,
+      "postIds": [
+        "2008-10-14-computer-science-do-it-yourself",
+        "2010-12-27-academia",
+        "2010-12-27-academia"
+      ]
+    },
+    {
+      "text": "hacking",
+      "count": 3,
+      "size": 24,
+      "postIds": [
+        "2008-11-05-hack-of-the-week-ssh-proxy",
+        "2008-12-19-car-streaming-hack",
+        "2010-12-27-academia"
+      ]
+    },
+    {
+      "text": "security",
+      "count": 3,
+      "size": 24,
+      "postIds": [
+        "2009-11-10-autofill-sso",
+        "2010-12-27-academia",
+        "2009-11-10-autofill-sso"
+      ]
+    },
+    {
+      "text": "ux design",
+      "count": 3,
+      "size": 24,
+      "postIds": [
+        "2009-11-10-intelligent-design",
+        "2009-11-10-automatic-updates",
+        "2009-11-10-automatic-updates"
+      ]
+    },
+    {
+      "text": "game-dev",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2008-03-16-mfg-now-in-3d",
+        "2008-03-10-progress-on-my-first-game"
+      ]
+    },
+    {
+      "text": "mfg",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2008-03-16-mfg-now-in-3d",
+        "2008-03-10-progress-on-my-first-game"
+      ]
+    },
+    {
+      "text": "gaming",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2008-03-16-mfg-now-in-3d",
+        "2008-03-10-progress-on-my-first-game"
+      ]
+    },
+    {
+      "text": "game dev",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2008-03-16-mfg-now-in-3d",
+        "2008-03-10-progress-on-my-first-game"
+      ]
+    },
+    {
+      "text": "xhtml",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2008-03-07-i-have-standards-how-about-you",
+        "2008-03-07-i-have-standards-how-about-you"
+      ]
+    },
+    {
+      "text": "relationships",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2008-04-23-friends",
+        "2008-04-20-relationship-advice-young-hearted"
+      ]
+    },
+    {
+      "text": "virtualization",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2008-10-30-operating-system-independence",
+        "2008-10-30-operating-system-independence"
+      ]
+    },
+    {
+      "text": "diy",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2008-10-23-computer-coffee-table",
+        "2008-12-19-car-streaming-hack"
+      ]
+    },
+    {
+      "text": "ubuntu",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2008-10-23-setting-up-a-dns-server",
+        "2008-11-05-hack-of-the-week-ssh-proxy"
+      ]
+    },
+    {
+      "text": "networking",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2008-10-23-setting-up-a-dns-server",
+        "2008-11-05-hack-of-the-week-ssh-proxy"
+      ]
+    },
+    {
+      "text": "php",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-12-drupal-glory",
+        "2009-11-12-drupal-glory"
+      ]
+    },
+    {
+      "text": "modules",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-12-drupal-glory",
+        "2009-11-12-drupal-glory"
+      ]
+    },
+    {
+      "text": "pathauto",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-12-drupal-glory",
+        "2009-11-12-drupal-glory"
+      ]
+    },
+    {
+      "text": "wysiwyg",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-12-drupal-glory",
+        "2009-11-12-drupal-glory"
+      ]
+    },
+    {
+      "text": "views",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-12-drupal-glory",
+        "2009-11-12-drupal-glory"
+      ]
+    },
+    {
+      "text": "cms",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-12-drupal-glory",
+        "2009-11-12-drupal-glory"
+      ]
+    },
+    {
+      "text": "sso",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-10-autofill-sso",
+        "2009-11-10-autofill-sso"
+      ]
+    },
+    {
+      "text": "identity",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-10-autofill-sso",
+        "2009-11-10-autofill-sso"
+      ]
+    },
+    {
+      "text": "autofill",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-10-autofill-sso",
+        "2009-11-10-autofill-sso"
+      ]
+    },
+    {
+      "text": "apis",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-10-autofill-sso",
+        "2009-11-10-autofill-sso"
+      ]
+    },
+    {
+      "text": "updates",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-10-automatic-updates",
+        "2009-11-10-automatic-updates"
+      ]
+    },
+    {
+      "text": "firefox",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-10-automatic-updates",
+        "2009-11-10-automatic-updates"
+      ]
+    },
+    {
+      "text": "itunes",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-10-automatic-updates",
+        "2009-11-10-automatic-updates"
+      ]
+    },
+    {
+      "text": "background-jobs",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-10-automatic-updates",
+        "2009-11-10-automatic-updates"
+      ]
+    },
+    {
+      "text": "armor",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-05-batman-costume",
+        "2009-11-05-batman-costume"
+      ]
+    },
+    {
+      "text": "molding",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-05-batman-costume",
+        "2009-11-05-batman-costume"
+      ]
+    },
+    {
+      "text": "silicone",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-05-batman-costume",
+        "2009-11-05-batman-costume"
+      ]
+    },
+    {
+      "text": "wetsuit",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-05-batman-costume",
+        "2009-11-05-batman-costume"
+      ]
+    },
+    {
+      "text": "materials-science",
+      "count": 2,
+      "size": 18,
+      "postIds": [
+        "2009-11-05-batman-costume",
+        "2009-11-05-batman-costume"
+      ]
+    },
+    {
+      "text": "3d-engine",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-16-mfg-now-in-3d"
+      ]
+    },
+    {
+      "text": "perspective-projection",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-16-mfg-now-in-3d"
+      ]
+    },
+    {
+      "text": "matrix-math",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-16-mfg-now-in-3d"
+      ]
+    },
+    {
+      "text": "slagcore",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-16-mfg-now-in-3d"
+      ]
+    },
+    {
+      "text": "fps-lag",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-16-mfg-now-in-3d"
+      ]
+    },
+    {
+      "text": "collision-detection",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-10-progress-on-my-first-game"
+      ]
+    },
+    {
+      "text": "quadrant-culling",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-10-progress-on-my-first-game"
+      ]
+    },
+    {
+      "text": "binary-serialization",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-10-progress-on-my-first-game"
+      ]
+    },
+    {
+      "text": "attract-mode",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-10-progress-on-my-first-game"
+      ]
+    },
+    {
+      "text": "w3c",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-07-i-have-standards-how-about-you"
+      ]
+    },
+    {
+      "text": "web-standards",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-07-i-have-standards-how-about-you"
+      ]
+    },
+    {
+      "text": "ampersand-escaping",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-07-i-have-standards-how-about-you"
+      ]
+    },
+    {
+      "text": "cdata",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-07-i-have-standards-how-about-you"
+      ]
+    },
+    {
+      "text": "self-closing-tags",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-07-i-have-standards-how-about-you"
+      ]
+    },
+    {
+      "text": "slashdot",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-07-i-have-standards-how-about-you"
+      ]
+    },
+    {
+      "text": "standards",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-03-07-i-have-standards-how-about-you"
+      ]
+    },
+    {
+      "text": "friends",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-23-friends"
+      ]
+    },
+    {
+      "text": "criticism",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-23-friends"
+      ]
+    },
+    {
+      "text": "intellect",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-23-friends"
+      ]
+    },
+    {
+      "text": "social-graph",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-23-friends"
+      ]
+    },
+    {
+      "text": "livejournal",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-23-friends"
+      ]
+    },
+    {
+      "text": "philosophy",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-23-friends"
+      ]
+    },
+    {
+      "text": "dating",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-20-relationship-advice-young-hearted"
+      ]
+    },
+    {
+      "text": "scrubs",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-20-relationship-advice-young-hearted"
+      ]
+    },
+    {
+      "text": "shakespeare",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-20-relationship-advice-young-hearted"
+      ]
+    },
+    {
+      "text": "johnny-cash",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-20-relationship-advice-young-hearted"
+      ]
+    },
+    {
+      "text": "communication",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-20-relationship-advice-young-hearted"
+      ]
+    },
+    {
+      "text": "date-night",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-20-relationship-advice-young-hearted"
+      ]
+    },
+    {
+      "text": "life advice",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-04-20-relationship-advice-young-hearted"
+      ]
+    },
+    {
+      "text": "mac",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-30-operating-system-independence"
+      ]
+    },
+    {
+      "text": "cygwin",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-30-operating-system-independence"
+      ]
+    },
+    {
+      "text": "cloud-computing",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-30-operating-system-independence"
+      ]
+    },
+    {
+      "text": "wine",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-30-operating-system-independence"
+      ]
+    },
+    {
+      "text": "mono",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-30-operating-system-independence"
+      ]
+    },
+    {
+      "text": "dark-knight",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-25-making-a-batman-costume-preface"
+      ]
+    },
+    {
+      "text": "rubber-molding",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-25-making-a-batman-costume-preface"
+      ]
+    },
+    {
+      "text": "clay-sculpting",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-25-making-a-batman-costume-preface"
+      ]
+    },
+    {
+      "text": "defcon",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-25-making-a-batman-costume-preface"
+      ]
+    },
+    {
+      "text": "costume",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-25-making-a-batman-costume-preface"
+      ]
+    },
+    {
+      "text": "coffee-table-pc",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-computer-coffee-table"
+      ]
+    },
+    {
+      "text": "cold-cathodes",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-computer-coffee-table"
+      ]
+    },
+    {
+      "text": "tempered-glass",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-computer-coffee-table"
+      ]
+    },
+    {
+      "text": "audigy3",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-computer-coffee-table"
+      ]
+    },
+    {
+      "text": "htpc",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-computer-coffee-table"
+      ]
+    },
+    {
+      "text": "logitech",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-computer-coffee-table"
+      ]
+    },
+    {
+      "text": "media server",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-computer-coffee-table"
+      ]
+    },
+    {
+      "text": "bind9",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-setting-up-a-dns-server"
+      ]
+    },
+    {
+      "text": "dns",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-setting-up-a-dns-server"
+      ]
+    },
+    {
+      "text": "glue-records",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-setting-up-a-dns-server"
+      ]
+    },
+    {
+      "text": "zone-files",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-setting-up-a-dns-server"
+      ]
+    },
+    {
+      "text": "self-hosted",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-setting-up-a-dns-server"
+      ]
+    },
+    {
+      "text": "tld",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-setting-up-a-dns-server"
+      ]
+    },
+    {
+      "text": "sysadmin",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-23-setting-up-a-dns-server"
+      ]
+    },
+    {
+      "text": "computer-science",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-14-computer-science-do-it-yourself"
+      ]
+    },
+    {
+      "text": "von-neumann",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-14-computer-science-do-it-yourself"
+      ]
+    },
+    {
+      "text": "compilers",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-14-computer-science-do-it-yourself"
+      ]
+    },
+    {
+      "text": "stacks-grow-down",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-14-computer-science-do-it-yourself"
+      ]
+    },
+    {
+      "text": "pokedex",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-14-computer-science-do-it-yourself"
+      ]
+    },
+    {
+      "text": "dijkstra",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-14-computer-science-do-it-yourself"
+      ]
+    },
+    {
+      "text": "computer science",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-10-14-computer-science-do-it-yourself"
+      ]
+    },
+    {
+      "text": "interviews",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-25-getting-a-job-interviewer-perspective"
+      ]
+    },
+    {
+      "text": "hiring",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-25-getting-a-job-interviewer-perspective"
+      ]
+    },
+    {
+      "text": "resume-tips",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-25-getting-a-job-interviewer-perspective"
+      ]
+    },
+    {
+      "text": "ebsco",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-25-getting-a-job-interviewer-perspective"
+      ]
+    },
+    {
+      "text": "career-advice",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-25-getting-a-job-interviewer-perspective"
+      ]
+    },
+    {
+      "text": "soft-skills",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-25-getting-a-job-interviewer-perspective"
+      ]
+    },
+    {
+      "text": "career",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-25-getting-a-job-interviewer-perspective"
+      ]
+    },
+    {
+      "text": "interviewing",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-25-getting-a-job-interviewer-perspective"
+      ]
+    },
+    {
+      "text": "ssh",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-05-hack-of-the-week-ssh-proxy"
+      ]
+    },
+    {
+      "text": "squid",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-05-hack-of-the-week-ssh-proxy"
+      ]
+    },
+    {
+      "text": "putty",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-05-hack-of-the-week-ssh-proxy"
+      ]
+    },
+    {
+      "text": "port-forwarding",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-05-hack-of-the-week-ssh-proxy"
+      ]
+    },
+    {
+      "text": "websense",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-05-hack-of-the-week-ssh-proxy"
+      ]
+    },
+    {
+      "text": "circumvention",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-05-hack-of-the-week-ssh-proxy"
+      ]
+    },
+    {
+      "text": "1337",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-11-05-hack-of-the-week-ssh-proxy"
+      ]
+    },
+    {
+      "text": "blag",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-10-08-blog-changes"
+      ]
+    },
+    {
+      "text": "wordpress",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-10-08-blog-changes"
+      ]
+    },
+    {
+      "text": "abandoned-projects",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-10-08-blog-changes"
+      ]
+    },
+    {
+      "text": "procrastination",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-10-08-blog-changes"
+      ]
+    },
+    {
+      "text": "software-graveyard",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-10-08-blog-changes"
+      ]
+    },
+    {
+      "text": "meta",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-10-08-blog-changes"
+      ]
+    },
+    {
+      "text": "treo700wx",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-12-19-car-streaming-hack"
+      ]
+    },
+    {
+      "text": "vlc",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-12-19-car-streaming-hack"
+      ]
+    },
+    {
+      "text": "mmsh",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-12-19-car-streaming-hack"
+      ]
+    },
+    {
+      "text": "tcpmp",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-12-19-car-streaming-hack"
+      ]
+    },
+    {
+      "text": "cassette-adapter",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-12-19-car-streaming-hack"
+      ]
+    },
+    {
+      "text": "soldering",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-12-19-car-streaming-hack"
+      ]
+    },
+    {
+      "text": "cellular-data",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-12-19-car-streaming-hack"
+      ]
+    },
+    {
+      "text": "audio engineering",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2008-12-19-car-streaming-hack"
+      ]
+    },
+    {
+      "text": "ui",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-11-10-intelligent-design"
+      ]
+    },
+    {
+      "text": "intelligent-design",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-11-10-intelligent-design"
+      ]
+    },
+    {
+      "text": "software-quality",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-11-10-intelligent-design"
+      ]
+    },
+    {
+      "text": "clock",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-11-05-hard-drive-clocks"
+      ]
+    },
+    {
+      "text": "hard-drive",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-11-05-hard-drive-clocks"
+      ]
+    },
+    {
+      "text": "led",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-11-05-hard-drive-clocks"
+      ]
+    },
+    {
+      "text": "msp430",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-11-05-hard-drive-clocks"
+      ]
+    },
+    {
+      "text": "pov",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-11-05-hard-drive-clocks"
+      ]
+    },
+    {
+      "text": "stroboscopic",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-11-05-hard-drive-clocks"
+      ]
+    },
+    {
+      "text": "embedded",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-11-05-hard-drive-clocks"
+      ]
+    },
+    {
+      "text": "embedded systems",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2009-11-05-hard-drive-clocks"
+      ]
+    },
+    {
+      "text": "nau",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2010-12-27-academia"
+      ]
+    },
+    {
+      "text": "rfid",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2010-12-27-academia"
+      ]
+    },
+    {
+      "text": "bureaucracy",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2010-12-27-academia"
+      ]
+    },
+    {
+      "text": "moodle",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2010-12-27-academia"
+      ]
+    },
+    {
+      "text": "blackboard",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2010-12-27-academia"
+      ]
+    },
+    {
+      "text": "engineering",
+      "count": 1,
+      "size": 12,
+      "postIds": [
+        "2010-12-27-academia"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": "2010-12-27-academia",
+      "title": "Academia Sucks: Institutional Inertia & Misplaced Authority",
+      "date": "2010-12-27T01:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Academia",
+        "Hacking",
+        "Personal",
+        "Engineering"
+      ],
+      "tags": [
+        "nau",
+        "academia",
+        "security",
+        "rfid",
+        "bureaucracy",
+        "moodle",
+        "blackboard"
+      ],
+      "summary": "Reflections on 5.5 years inside higher education support, detailing systemic administrative friction, software procurement blunders, and the pushback against student security research.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Academia Sucks: Institutional Inertia & Misplaced Authority</h1><p class=\"byline\">Published on December 27, 2010 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_10529643214702414859\" alt=\"Northern Arizona University campus during winter\" class=\"hero-image\"/><p class=\"caption\">Northern Arizona University campus, where technical ambitions frequently collide with institutional bureaucracy.</p></div><section class=\"post-body\"><p>I have spent the entire duration of my college career—a mere 5.5 years—working for various campus technical groups while completing my degree in Computer Science. Starting out at ResNet providing student computer support, moving on to the local ACM chapter, and eventually settling into the Engineering IT help desk, my day-to-day involved debugging hardware, configuring shared drives, and sifting through support queues.</p><h2>The Bureaucracy Engine</h2><p>In my experience, academic IT infrastructure suffers from severe structural apathy. Central ITS routinely opts for bloatware contracts like Blackboard rather than leveraging open-source platforms like Moodle—where the Computer Science department could directly contribute, inspect security models, and extend functionality for free. Instead, intuitive proposals like unifying campus feeds via API integrations get discarded in favor of proprietary, underutilized student portal software.</p><h2>The Blockade of Misplaced Authority</h2><p>Systemic roadblocks exist purely through institutional inertia:</p><ul><li><strong>Arbitrary Overrides:</strong> Dedicated student leaders managing campus infrastructure (such as rebuilding the KJAK radio station hardware from scratch) regularly face bureaucratic denials for course overrides signed off by department heads.</li><li><strong>Degree Deadlocks:</strong> Students attempting to accelerate graduation timelines encounter missing class substitutions, unresponsive advisors on leave, and administrative deadlocks that enforce delay over flexibility.</li></ul><h2>Security Research & Uncomfortable Truths</h2><p>Preparing technical talks on computer security, RFID vulnerability surfaces, and network exploits revealed a fundamental cultural divide. Academic institutions often restrict student-led security research until it is validated by major external conferences like DEF CON, viewing internal vulnerability disclosure as a liability rather than an educational asset.</p></section></article>",
+      "modern_insight_2026": "Looking back from 2026, this early frustration with monolithic university IT directly predicted the shift toward decentralized open-source platforms, local-first computing, and modern AppSec disclosure paradigms. Today's ecosystem favors zero-trust architectures and student-driven open source contributions over proprietary walled gardens."
+    },
+    {
+      "id": "2009-11-12-drupal-glory",
+      "title": "The Glory of Drupal: Modular Architecture & Community Driven Security",
+      "date": "2009-11-12T12:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Web Dev",
+        "Drupal",
+        "CMS"
+      ],
+      "tags": [
+        "drupal",
+        "php",
+        "ldap",
+        "cas",
+        "modules",
+        "pathauto",
+        "wysiwyg",
+        "views"
+      ],
+      "summary": "A deep dive into why Drupal's modular hook ecosystem, structured API layers, and enterprise authentication integration outperform contemporary alternatives like WordPress and Joomla.",
+      "content_html": "<article class=\"blog-post\"><header><h1>The Glory of Drupal: Modular Architecture & Community Driven Security</h1><p class=\"byline\">Published on November 12, 2009 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_10529643214702412517\" alt=\"Drupal open source CMS logo display\" class=\"hero-image\"/><p class=\"caption\">Drupal's hook-based architectural model provided unprecedented control for university portal customization.</p></div><section class=\"post-body\"><p>Drupal stands out among Content Management Systems due to its strict separation of core execution, modular extensibility, and community-driven security review. Unlike monolithic web platforms, Drupal's module architecture enforces clean isolation across runtime features.</p><h2>Core Modular Mechanics</h2><p>Extending functional capabilities requires simply placing module trees into designated runtime directories. Key operational modules include:</p><ul><li><strong>Views:</strong> Query builder and template engine for extracting and presenting node collections dynamically based on route parameters.</li><li><strong>CAS & LDAP:</strong> Seamless single sign-on integration mapping university credentials directly to local Drupal roles without requiring manual user registration pipelines.</li><li><strong>FeedAPI:</strong> Dynamic ingestion layer used to synchronize external Google Calendars directly into site-wide event displays.</li><li><strong>PathAuto:</strong> Automated URI generation utilizing tokenized node titles for clean, SEO-friendly routing.</li></ul><h2>Architectural Flexibility</h2><p>By leveraging sub-theming environments like the Zen Suite, structural layout is fully decoupled from content generation, relying heavily on modular CSS overrides rather than hardcoded inline presentation styles.</p></section></article>",
+      "modern_insight_2026": "While monolithic PHP CMS platforms dominated the late 2000s, the underlying concepts—modular API hooks, dynamic route parameter generation, and central SSO integrations—laid the foundation for modern headless CMS engines, Jamstack deployments, and component-driven web architectures."
+    },
+    {
+      "id": "2009-11-10-intelligent-design",
+      "title": "Intelligent Design in Software & User Interfaces",
+      "date": "2009-11-10T18:08:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "UX Design",
+        "Software Architecture"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "intelligent-design",
+        "software-quality"
+      ],
+      "summary": "Establishing a foundational lens for analyzing human-computer interaction, highlighting high-friction UI anti-patterns versus seamless, intuitive user workflows.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Intelligent Design in Software & User Interfaces</h1><p class=\"byline\">Published on November 10, 2009 by <strong>Brian Cullinan</strong></p></header><section class=\"post-body\"><p>Creating a dedicated category for analyzing software architectures and graphical user interfaces that display exceptional execution. Intelligent design is defined by software that anticipates user intent, reduces cognitive load, and operates without unnecessary friction.</p><h2>Core Focus Areas</h2><ul><li><strong>Intuitive Interaction:</strong> Highlighting GUIs that provide clear feedback loops and seamless input navigation.</li><li><strong>Architecture Critiques:</strong> Dissecting legacy software flaws and proposing optimized alternative designs.</li></ul></section></article>",
+      "modern_insight_2026": "This focus on software friction directly maps to modern Developer Experience (DX) and Human Interface Guidelines (HIG), where stateful reactivity, zero-latency interactions, and intelligent defaults define world-class application design."
+    },
+    {
+      "id": "2009-11-10-autofill-sso",
+      "title": "Autofill & Federated Identity: Eliminating Repetitive Data Entry",
+      "date": "2009-11-10T15:30:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Web Dev",
+        "Software Architecture",
+        "Security"
+      ],
+      "tags": [
+        "cas",
+        "ldap",
+        "sso",
+        "identity",
+        "autofill",
+        "apis",
+        "ux"
+      ],
+      "summary": "Exploring LDAP directory queries, Central Authentication Services (CAS), and remote user profile synchronization to design zero-friction form prefilling.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Autofill & Federated Identity: Eliminating Repetitive Data Entry</h1><p class=\"byline\">Published on November 10, 2009 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_10529643214702411934\" alt=\"Cybersecurity network infrastructure diagram\" class=\"hero-image\"/><p class=\"caption\">Federated authentication allows secure directory lookups, automating repetitive user data input.</p></div><section class=\"post-body\"><p>Administrative web interfaces frequently demand that logged-in users manually enter institutional record details—such as phone numbers, department affiliations, and official addresses—despite those data points already residing within active directory services.</p><h2>The Intelligent Design Solution</h2><p>Instead of forcing manual re-entry, intelligent application pipelines should integrate single-sign-on (SSO) authentication with active LDAP query resolution:</p><ol><li>Authenticate the user via Central Authentication Service (CAS).</li><li>Execute a background LDAP lookup against the user's primary identifier.</li><li>Pre-populate standard directory fields onto the client form automatically.</li><li>Require the user only to review accuracy and append domain-specific payload fields before submission.</li></ol><h2>Cross-Platform Profile Syncing</h2><p>Managing disparate professional profiles across platforms (LinkedIn, Google, GitHub) introduces data redundancy. Web applications should leverage authorized OAuth profile APIs to sync public bio metrics and contact information automatically rather than asking users to maintain isolated data silos.</p></section></article>",
+      "modern_insight_2026": "This analysis anticipated modern OAuth2 / OpenID Connect (OIDC) identity providers and browser-level passkey autofill standards. Today's identity architectures rely on tokenized JWT payloads to pass authenticated user claims across distinct service boundaries seamlessly."
+    },
+    {
+      "id": "2009-11-10-automatic-updates",
+      "title": "Automatic Updates: Designing Non-Intrusive Background Maintenance",
+      "date": "2009-11-10T10:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Software Architecture",
+        "UX Design",
+        "Operating Systems"
+      ],
+      "tags": [
+        "ux",
+        "updates",
+        "windows",
+        "firefox",
+        "itunes",
+        "background-jobs"
+      ],
+      "summary": "A critique of intrusive software update loops in legacy desktop operating systems versus seamless background state preservation models.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Automatic Updates: Designing Non-Intrusive Background Maintenance</h1><p class=\"byline\">Published on November 10, 2009 by <strong>Brian Cullinan</strong></p></header><section class=\"post-body\"><p>Modern software systems are layered stacks running interconnected executables. To patch vulnerabilities and roll out features, automated update mechanisms are essential. However, user experience design often fails when updates interrupt active workflows.</p><h2>The Bad: Aggressive Restart Prompts</h2><p>Legacy system updaters, such as older Windows restart dialogs or background media service updaters, disrupt users with repeated modal overlays, force immediate system reboots, or spawn tray popups despite user configuration overrides. Worse, updaters that fail to detect active file handles often fail silently after lengthy download processes.</p><h2>The Ideal Model: Firefox Process Deferral</h2><p>Firefox implemented the gold standard for background application updates:</p><ul><li>Fetch binary packages silently in background threads.</li><li>Stage installation payloads without locking active runtime memory.</li><li>Defer application replacement until the user naturally terminates or explicitly restarts the browser.</li><li>Preserve session state (open tabs, scroll positions, form data) seamlessly upon restart.</li></ul><h2>Engineering Best Practices</h2><p>Software update systems must run quietly in background system trays, avoid stealing OS focus, defer mandatory reboots until natural system idle times occur, and automatically restore application execution context upon restart.</p></section></article>",
+      "modern_insight_2026": "Firefox's non-disruptive update pattern eventually evolved into modern atomic OS deployment strategies (such as OSTree/Flatpak containerized updates, ChromeOS dual-boot partition swapping, and web service worker caching APIs), where client software updates in place without killing state."
+    },
+    {
+      "id": "2009-11-05-batman-costume",
+      "title": "Engineering a Movie-Accurate Tactical Batman Suit: Armor Molding & Materials",
+      "date": "2009-11-05T18:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Hardware",
+        "Cosplay Engineering",
+        "Abandoned Projects"
+      ],
+      "tags": [
+        "batman",
+        "armor",
+        "molding",
+        "silicone",
+        "wetsuit",
+        "materials-science"
+      ],
+      "summary": "A technical design blueprint for constructing a flexible, modular Batman suit using sculpted clay prototypes, plaster negative molds, poured rubber plates, and snap-fastened mesh sub-layers.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Engineering a Movie-Accurate Tactical Batman Suit: Armor Molding & Materials</h1><p class=\"byline\">Published on November 5, 2009 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_10529643214702413688\" alt=\"Movie accurate Dark Knight Batman armor suit display\" class=\"hero-image\"/><p class=\"caption\">Tactical armor suit assembly combining flexible undersuits with rigid polyurethane outer plating.</p></div><section class=\"post-body\"><p>Designing a screen-accurate tactical Batsuit requires balancing structural flexibility, armor rigidity, and thermal ventilation. The proposed architectural spec relies on a multi-tier modular construction.</p><h2>Material & Assembly Specification</h2><ul><li><strong>Base Layer:</strong> Neoprene wetsuit encased within a tight-fitting metallic silver mesh to match film production texturing.</li><li><strong>Armor Plating:</strong> Custom-molded high-density rubber/polyurethane plates attached to the neoprene sub-layer via reinforced mechanical snap buttons, enabling easy removal for cleaning and suit maintenance.</li><li><strong>Headpiece & Accessories:</strong> Multi-piece snap-interlocking hard rubber helmet paired with hand-crafted armored gauntlets and a cast rubber utility belt finished in metallic bronze/gold coating.</li></ul><h2>Fabrication Workflow</h2><ol><li>Sculpt 24 lbs of oil-based sulfur-free clay into precise anatomical armor plates.</li><li>Cast negative impressions using high-strength plaster/matrix molds.</li><li>Embed heavy-duty fabric backing with female snap hardware directly into the plaster cavity during rubber compound pouring.</li><li>Cure flexible urethane elastomer to yield impact-resistant, modular armor segments.</li></ol><h2>Project Economics & Pause</h2><p>Estimated material costs (~$400 for liquid silicone/urethane elastomers, $200 for base suit and mesh, plus specialized casting supplies) totaled ~$1,000 alongside hundreds of manual sculpting hours. Due to initial mold failures and time constraints, raw materials (24 lbs of clay and precision carving gouges) were shelved into the abandoned projects log for future iteration.</p></section></article>",
+      "modern_insight_2026": "The 2009 approach of manual clay sculpting and plaster casting has been completely revolutionized by 3D scanning, parametric CAD modeling, and direct additive manufacturing using flexible TPU filaments—drastically lowering prototyping iteration costs and weight."
+    },
+    {
+      "id": "2009-11-05-hard-drive-clocks",
+      "title": "Stroboscopic Hard Drive Clock: Persistence-of-Vision (POV) & MCU Timing Limits",
+      "date": "2009-11-05T15:12:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Hardware",
+        "Embedded Systems",
+        "Abandoned Projects"
+      ],
+      "tags": [
+        "clock",
+        "hard-drive",
+        "led",
+        "msp430",
+        "pov",
+        "stroboscopic",
+        "embedded"
+      ],
+      "summary": "Engineering analysis of a persistence-of-vision (POV) stroboscopic clock using a salvaged 7200 RPM hard drive platter, high-speed RGB LEDs, and Texas Instruments MSP430 timer constraints.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Stroboscopic Hard Drive Clock: Persistence-of-Vision (POV) & MCU Timing Limits</h1><p class=\"byline\">Published on November 5, 2009 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_18348703295076666423\" alt=\"Hard drive persistence of vision stroboscopic RGB clock display\" class=\"hero-image\"/><p class=\"caption\">Persistence-of-Vision (POV) stroboscopic clock created by flashing RGB LEDs behind a spinning hard drive platter slot.</p></div><section class=\"post-body\"><p>Constructing a stroboscopic clock out of a salvaged hard drive relies on the Persistence-of-Vision (POV) effect. By cutting a narrow radial slit into the magnetic aluminum platter and spinning it at high rotational velocity, high-speed RGB LEDs pulsed behind the platter project distinct radial patterns and hour/minute hands into human visual perception.</p><div class=\"post-media\"><img src=\"image_agent_tag_18348703295076665908\" alt=\"Texas Instruments MSP430 microcontroller development board\" class=\"hero-image\"/><p class=\"caption\">Texas Instruments MSP430 LaunchPad microcontroller board evaluated for microsecond interrupt timing.</p></div><h2>Hardware & Timing Bottlenecks</h2><ul><li><strong>Rotational Speed & Resolution:</strong> A standard 7200 RPM drive platter completes 120 rotations per second (8.33 ms per revolution). Mapping a 360-degree radial clock face requires strobing RGB states every 23 microseconds.</li><li><strong>MCU Clock Constraints:</strong> The TI MSP430 microcontroller running at basic clock frequencies offers a strict microsecond budget per position tick—yielding roughly 16 CPU cycles to calculate multiplexed RGB state switching and drive high-side transistors.</li><li><strong>Voltage & Current Switching:</strong> Interfacing 3.3V logic outputs to drive 9V high-brightness RGB LED arrays requires low-latency N-channel MOSFETs or fast bipolar junction transistors (BJTs) capable of switching high collector currents without severe rise/fall signal propagation delay.</li></ul><h2>Project Shelving</h2><p>Due to MCU timer interrupt limitations and discrete driver transistor rise-time delays, the project was put on hold alongside salvaged drive assemblies in the hardware experiments bin pending higher-frequency MCU platforms.</p></section></article>",
+      "modern_insight_2026": "Today's low-cost 32-bit microcontrollers (such as ESP32 or RP2040) feature dedicated programmable I/O state machines (PIO) and high-frequency DMA controllers, completely eliminating timing bottlenecks for high-speed stroboscopic POV hardware."
+    },
+    {
+      "id": "2009-10-08-blog-changes",
+      "title": "Blog Changes: Rebranding to 'Blag' & The Sacred Abandoned Projects Bucket",
+      "date": "2009-10-08T00:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "General",
+        "Meta",
+        "Abandoned Projects"
+      ],
+      "tags": [
+        "blag",
+        "drupal",
+        "wordpress",
+        "abandoned-projects",
+        "procrastination",
+        "software-graveyard"
+      ],
+      "summary": "An unsparingly honest meta-update admitting that 'blog' is too energetic a term for a site that mostly documents half-baked hardware side quests and incomplete code repos.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Blog Changes: Rebranding to 'Blag' & The Sacred Abandoned Projects Bucket</h1><p class=\"byline\">Published on October 8, 2009 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_10027022592707875336\" alt=\"Dusty warehouse filled with abandoned storage boxes\" class=\"hero-image\"/><p class=\"caption\">An accurate visual representation of the Abandoned Projects Bucket where ambitious ideas go to rot.</p></div><section class=\"post-body\"><p>As anyone with a pulse may have noticed, the title of this digital wasteland has been officially rebranded to <strong>Brian Cullinan’s Blag</strong>. This architectural naming decision wasn't made lightly—it was forged in the fires of complete operational collapse.</p><h2>Why 'Blag'?</h2><ol><li><strong>Zero Throughput:</strong> I ran out of actual completed projects to boast about at the exact moment I ran out of free time to start new ones.</li><li><strong>Chronological Latency:</strong> It's literally a <em>blag</em> because it <em>lags</em> behind reality by weeks, months, or geological epochs.</li><li><strong>CMS Snobbery:</strong> I migrated from WordPress to the vastly more complex, over-engineered world of Drupal, because why use a simple publishing platform when you can spend 40 hours configuring database hooks instead of actually writing?</li></ol><h2>The Anatomy of an Abandoned Project</h2><p>My standard development workflow follows a predictable arc: get struck by a wave of genius, buy $200 worth of components, complete 35% of the build, hit an impossible hardware or software bottleneck, realize the scope is utterly absurd, and throw everything directly into the physical <strong>Abandoned Projects Bucket</strong>. What follows on this blag will be the post-mortem eulogies for those forgotten scraps.</p></section></article>",
+      "modern_insight_2026": "Rebranding a site because you lack the discipline to update it is the ultimate peak 2000s developer move. Ditching WordPress for Drupal just to post about uncompleted microcontrollers proved early on that tinkering with the publishing stack is always more appealing than actually shipping content."
+    },
+    {
+      "id": "2008-12-19-car-streaming-hack",
+      "title": "Hack of the Week: Poor Man's Pandora on a Treo 700WX with Soldered Cassette Adapters",
+      "date": "2008-12-19T00:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Hacking",
+        "Hardware",
+        "Audio Engineering"
+      ],
+      "tags": [
+        "treo700wx",
+        "vlc",
+        "mmsh",
+        "tcpmp",
+        "cassette-adapter",
+        "soldering",
+        "cellular-data",
+        "diy"
+      ],
+      "summary": "Refusing to pay AT&T for an overpriced iPhone, I wired up a Palm Treo 700WX, a gutted cassette tape adapter, and a home-brewed VLC streaming server to build a janky 2-channel in-car audio system.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Hack of the Week: Poor Man's Pandora on a Treo 700WX with Soldered Cassette Adapters</h1><p class=\"byline\">Published on December 19, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_8361718985261916155\" alt=\"Palm Treo 700wx smartphone running Windows Mobile\" class=\"hero-image\"/><p class=\"caption\">The Palm Treo 700WX: Proof that Windows Mobile and a 2.5mm jack can defeat Steve Jobs' closed ecosystem.</p></div><section class=\"post-body\"><p>Some of us refuse to fork over our life savings to AT&amp;T for the privilege of carrying an iPhone on their notoriously fragile 3G network. Instead of surrendering to Apple’s walled garden, I decided to engineer a completely ridiculous, over-complicated alternative using a Palm Treo 700WX on Verizon’s $30 unlimited plan.</p><h2>The Hardware: TRRS Wiring Hell</h2><p>The Treo 700WX outputs stereo audio, but Palm used a non-standard 2.5mm 4-segment (TRRS) pinout where the tip is the right channel and the first ring is the left channel—meaning standard 3.5mm stereo jacks short out or drop a channel entirely. The fix? <em>Surgical modification.</em></p><div class=\"post-media\"><img src=\"image_agent_tag_8361718985261912316\" alt=\"Cassette tape adapter with exposed aux cable\" class=\"hero-image\"/><p class=\"caption\">A mechanically gutted cassette adapter, stripped of its auto-reverse locking gears.</p></div><h2>The Tape Deck Surgical Procedure</h2><ol><li><strong>Gutting the Gears:</strong> Cheap tape adapters contain an auto-reverse mechanism with locking gears that freeze stock car stereos. I tore the casing open and ripped out the internal gear cluster so the head spins freely without triggering an auto-eject.</li><li><strong>Solder Surgery:</strong> I desoldered the standard 3.5mm plug and hand-soldered hair-thin earbud wires directly to the tape head lead wires at awkward vertical angles using a multimeter and sheer willpower.</li></ol><h2>The Streaming Backend: VLC &amp; MMSH</h2><p>On the server side, I spun up a headless VLC instance on my home rig, transcoding a continuous looping playlist into an <code>mmsh-asfh</code> stream over TCP. On the phone, TCPMP connects to the home server over 1xRTT/EV-DO data, giving me pristine 2-channel audio streamed live to a 1990s dashboard cassette deck.</p></section></article>",
+      "modern_insight_2026": "Building a custom Linux VLC server, re-soldering 2.5mm TRRS pinouts, and gutting cassette auto-reverse gears just to avoid paying $70/month for an iPhone 3G is the ultimate badge of honor. Today's Bluetooth 5.4 auto-pairing makes us soft; back then, if you wanted music in your car, you had to perform open-heart surgery on a tape deck."
+    },
+    {
+      "id": "2008-11-25-getting-a-job-interviewer-perspective",
+      "title": "Getting a Job: How to Crash and Burn in Tech Interviews (Guest Post)",
+      "date": "2008-11-25T00:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Career",
+        "General",
+        "Interviewing"
+      ],
+      "tags": [
+        "interviews",
+        "hiring",
+        "resume-tips",
+        "ebsco",
+        "career-advice",
+        "soft-skills"
+      ],
+      "summary": "Guest wisdom from EBSCO AVP Roger Rohweder on how tech candidates spectacularly blow job interviews by sending generic resumes, lacking basic eye contact, and failing to research the company.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Getting a Job: How to Crash and Burn in Tech Interviews</h1><p class=\"byline\">Published on November 25, 2008 by <strong>Brian Cullinan</strong> (featuring Roger Rohweder)</p></header><div class=\"post-media\"><img src=\"image_agent_tag_3834410376172727781\" alt=\"Tech interview rejection meme step by step\" class=\"hero-image\"/><p class=\"caption\">A visual guide to the brutal lifecycle of entry-level technical interviews.</p></div><section class=\"post-body\"><p>This week I'm sharing insights from Roger Rohweder, Assistant Vice President at EBSCO Industries, who recently watched a fresh Computer Science graduate completely implode during a tech support interview.</p><h2>How to Guarantee You Won't Get Hired</h2><ul><li><strong>The Generic Blast Resume:</strong> Submitting an uncustomized, generic resume with no cover letter signals instantly that you applied to 400 positions in an automated batch run without caring about this specific job.</li><li><strong>Mumbling in the Corner:</strong> Being soft-spoken in a mousy, hyper-geeky way does not work when applying for roles that require communicating with real humans or running customer training sessions.</li><li><strong>Expecting Mind Reading:</strong> Coming to an interview expecting the hiring manager to figure out your skill set for you, rather than actively demonstrating what problems you can solve.</li></li><strong>Faking Competence:</strong> Trying to fake knowledge when asked about a technology you don't know. The interviewer is an expert and will instantly smell the desperation.</li></ul><h2>The Bare Minimum Requirements</h2><p>Do basic background research on the company, look the interviewer in the eye, ask insightful questions about their technical stack, and write a follow-up email making your case. It is incredible how low the bar is, yet candidates still manage to trip over it.</p></section></article>",
+      "modern_insight_2026": "Back in 2008, failing an interview meant mumbling in a conference room and sending an uncustomized PDF. In 2026, candidates get rejected by automated AI ATS screeners before a human ever reads their resume, and then face 5 rounds of LeetCode hard problems just to land a junior tech support role."
+    },
+    {
+      "id": "2008-11-05-hack-of-the-week-ssh-proxy",
+      "title": "Hack of the Week: Bypassing Campus Network Throttling with SSH & Local SOCKS Tunnels",
+      "date": "2008-11-05T00:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Hacking",
+        "Networking",
+        "Linux"
+      ],
+      "tags": [
+        "ssh",
+        "squid",
+        "putty",
+        "port-forwarding",
+        "websense",
+        "circumvention",
+        "ubuntu",
+        "1337"
+      ],
+      "summary": "Routing local browser traffic through an encrypted SSH tunnel bound to port 1337 to bypass university WebSense filters, bandwidth throttling, and firewall inspection.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Hack of the Week: Bypassing Campus Network Throttling with SSH & Local SOCKS Tunnels</h1><p class=\"byline\">Published on November 5, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_3834410376172725004\" alt=\"Offensive security guide to SSH tunnels and proxies diagram\" class=\"hero-image\"/><p class=\"caption\">Tunneling encrypted traffic through custom ports to defeat university firewalls.</p></div><section class=\"post-body\"><p>Campus network administrators love deploying WebSense content filters and throttling common proxy ports like <code>3128</code> and <code>8080</code>. Here is how to route all your browser traffic through an encrypted SSH tunnel and bypass their oppressive rules entirely.</p><h2>The Circumvention Blueprint</h2><ol><li><strong>Server Setup:</strong> Spin up a basic Squid proxy on a remote Ubuntu box.</li><li><strong>Port Evasion:</strong> Configure PuTTY to establish an SSH tunnel mapping local port <code>1337</code> directly to <code>localhost:3128</code> on the remote box—dodging standard proxy port inspection.</li><li><strong>Browser Re-routing:</strong> Set Firefox's connection settings to forward HTTP traffic through <code>localhost:1337</code>.</li></ol><p>Sure, encryption adds a slight overhead latency, but watching blocked sites load at un-throttled speeds right past campus IT security makes it totally worth it.</p></section></article>",
+      "modern_insight_2026": "Binding an unencrypted Squid proxy over SSH on port 1337 was classic 2000s script-kiddie gold. Today's enterprise deep packet inspection (DPI) and Zero Trust Network Access (ZTNA) engines would flag and terminate an un-whitelisted SSH tunnel in milliseconds."
+    },
+    {
+      "id": "2008-10-30-operating-system-independence",
+      "title": "Operating System Independence: Escaping OS Dogma with Virtualization & Cloud Bloat",
+      "date": "2008-10-30T00:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "General",
+        "Operating Systems",
+        "Virtualization"
+      ],
+      "tags": [
+        "windows",
+        "linux",
+        "mac",
+        "virtualization",
+        "cygwin",
+        "cloud-computing",
+        "wine",
+        "mono"
+      ],
+      "summary": "Why pledging allegiance to a single OS is a rookie mistake, and how to stay productive across Windows, macOS, and Linux using early virtualization, Cygwin, Wine, and web desktops.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Operating System Independence: Escaping OS Dogma with Virtualization & Cloud Bloat</h1><p class=\"byline\">Published on October 30, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_14300300171228588529\" alt=\"Operating system virtualization software running multiple virtual machines diagram\" class=\"hero-image\"/><p class=\"caption\">Running multiple guest OS instances inside a host hypervisor to break operating system lock-in.</p></div><section class=\"post-body\"><p>Operating system zealots love arguing over Windows vs. Mac vs. Linux. Meanwhile, true power users realized long ago that locking yourself into a single OS ecosystem just destroys your productivity when forced to switch environments.</p><h2>Breaking the Platform Wall</h2><ul><li><strong>GUI Reskinning &amp; Shells:</strong> If you miss the Mac dock or Linux widgets on Windows, Stardock, TweakUI, or Google Desktop can transform your desktop shell. If you miss Unix bash, Cygwin and PowerShell bridge the gap.</li><li><strong>Cross-Platform Web Apps:</strong> Cloud platforms like Google Apps prove that the browser itself is becoming the meta-OS, making the underlying host kernel irrelevant.</li><li><strong>Linux Emulation Warfare:</strong> Running Adobe Creative Suite or .NET software on Linux used to mean wrestling with Wine, MonoDevelop, or paying TransGaming Cedega to translate DirectX calls to OpenGL.</li></ul></section></article>",
+      "modern_insight_2026": "The dream of OS independence back in 2008 meant hacky Wine configs, Mono, and Cygwin wrappers. Today, WSL2, Docker containers, WASM/WASI, and Electron/WebGPU apps have made the underlying desktop OS virtually invisible to software engineers."
+    },
+    {
+      "id": "2008-10-25-making-a-batman-costume-preface",
+      "title": "Engineering a Dark Knight Batsuit: The Preface to 24 lbs of Clay & Regret",
+      "date": "2008-10-25T00:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Hardware",
+        "Cosplay Engineering",
+        "Abandoned Projects"
+      ],
+      "tags": [
+        "batman",
+        "dark-knight",
+        "rubber-molding",
+        "clay-sculpting",
+        "defcon",
+        "costume"
+      ],
+      "summary": "Announcing a multi-stage, year-long quest to build a movie-accurate Dark Knight suit using custom clay sculpts, plaster molds, and multi-durometer liquid rubber.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Engineering a Dark Knight Batsuit: The Preface to 24 lbs of Clay & Regret</h1><p class=\"byline\">Published on October 25, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_14300300171228588506\" alt=\"Movie accurate Dark Knight Batman suit display\" class=\"hero-image\"/><p class=\"caption\">The Dark Knight suit reference: multi-segment flexible rubber plates mounted over breathable mesh.</p></div><section class=\"post-body\"><p>I decided to blog about this because all my real-life friends are completely exhausted from hearing me talk about it. Luckily, none of them read my blog anyway.</p><h2>The Grand Plan</h2><p>Ever since seeing Christopher Nolan’s <em>The Dark Knight</em> in theaters, I became obsessed with building a screen-accurate suit. After flipping through behind-the-scenes production interviews, I discovered the secret: the armor isn't metal or fiberglass—it's custom molded flexible rubber.</p><p>The roadmap: hand-sculpt every armor segment out of oil-based clay, pour negative plaster molds, and cast varying strengths of liquid rubber plates fitted with mechanical snap buttons onto a silver mesh wetsuit. What could possibly go wrong?</p></section></article>",
+      "modern_insight_2026": "Documenting an over-ambitious year-long hardware build right before it inevitably lands in the 'Abandoned Projects Bucket' is a canon event for every computer science major."
+    },
+    {
+      "id": "2008-10-23-computer-coffee-table",
+      "title": "The $300 PC Coffee Table: Tempered Glass, Sound-Activated Cathodes & Living Room Media Servers",
+      "date": "2008-10-23T00:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Hardware",
+        "Media Server",
+        "DIY"
+      ],
+      "tags": [
+        "coffee-table-pc",
+        "cold-cathodes",
+        "tempered-glass",
+        "audigy3",
+        "htpc",
+        "logitech"
+      ],
+      "summary": "Building a custom 4x2ft living room coffee table with 3/8-inch tempered glass housing a full HTPC media server, Audigy 3 coax audio, and sound-reactive cold cathode lighting.",
+      "content_html": "<article class=\"blog-post\"><header><h1>The $300 PC Coffee Table: Tempered Glass, Sound-Activated Cathodes & Living Room Media Servers</h1><p class=\"byline\">Published on October 23, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_14300300171228588500\" alt=\"Custom PC built inside a glass top coffee table with lighting\" class=\"hero-image\"/><p class=\"caption\">Custom PC built directly inside a living room coffee table with tempered glass and cold cathode lighting.</p></div><section class=\"post-body\"><p>Why buy a normal coffee table when you can build a 4x2ft custom wooden chassis topped with 3/8-inch tempered glass that houses your entire home media server? Originally budgeted at $100, the project ballooned to $300—and it was worth every penny.</p><h2>Living Room Hardware Rig</h2><ul><li><strong>A/V Output:</strong> Long DVI-to-HDMI cable feeding the receiver, paired with coaxial digital audio driven by a Creative Sound Blaster Audigy card.</li><li><strong>Couch Controls:</strong> Wireless Logitech keyboard and trackball combo.</li><li><strong>Visual Flare:</strong> Internal sound-activated cold cathode tubes that flash to the beat whenever heavy sub-bass plays through the speakers.</li></ul></section></article>",
+      "modern_insight_2026": "In 2008, living room media required a 50lb wooden coffee table equipped with cold cathode neon tubes, DVI converters, and wireless trackballs. Today, a $30 Raspberry Pi or Apple TV running Plex replaces the whole rig silently."
+    },
+    {
+      "id": "2008-10-23-setting-up-a-dns-server",
+      "title": "Self-Hosting BIND9: Glue Records, DNS TLD Hierarchy & Taming Local Zone Files",
+      "date": "2008-10-23T00:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Networking",
+        "Linux",
+        "SysAdmin"
+      ],
+      "tags": [
+        "bind9",
+        "dns",
+        "glue-records",
+        "ubuntu",
+        "zone-files",
+        "self-hosted",
+        "tld"
+      ],
+      "summary": "Demystifying DNS root servers, TLD resolution, circular glue record resolution, and manually writing BIND9 named.conf zone files on Ubuntu.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Self-Hosting BIND9: Glue Records, DNS TLD Hierarchy & Taming Local Zone Files</h1><p class=\"byline\">Published on October 23, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_14300300171228588523\" alt=\"Domain Name System DNS resolution waterfall hierarchy diagram\" class=\"hero-image\"/><p class=\"caption\">Domain Name System (DNS) resolution hierarchy from root servers down to authoritative name servers.</p></div><section class=\"post-body\"><p>Tired of relying on third-party domain registrars for sub-domain forwarding, I spent the night configuring my own authoritative BIND9 DNS server on Ubuntu.</p><h2>The Circular Glue Record Problem</h2><p>Setting up <code>ns1.bjcullinan.com</code> to serve records for <code>bjcullinan.com</code> creates a classic chicken-and-egg paradox: to resolve the domain, the internet needs to resolve the nameserver, but resolving the nameserver requires querying the domain! The fix? Registering an official <strong>Glue Record</strong> with the TLD registry to map <code>ns1</code> directly to a static IP address.</p><h2>Zone File Anatomy</h2><p>Hand-crafting <code>/etc/bind/zones/bjcullinan.com.db</code> requires setting TTLs, SOA serial dates (which must increment on every edit so external recursive resolvers invalidate cached records), and binding A records directly to host IPs.</p></section></article>",
+      "modern_insight_2026": "Hand-writing BIND9 zone files and fighting with glue records on a residential IP was the classic trial-by-fire for self-hosters in 2008. Today, Cloudflare, Route53, and automated ACME DNS-01 challenges handle domain propagation instantly behind global edge networks."
+    },
+    {
+      "id": "2008-10-14-computer-science-do-it-yourself",
+      "title": "Computer Science Is Not Just Coding: Von Neumann Architectures, Compilers & Stack growth",
+      "date": "2008-10-14T00:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Computer Science",
+        "General",
+        "Academia"
+      ],
+      "tags": [
+        "computer-science",
+        "von-neumann",
+        "compilers",
+        "stacks-grow-down",
+        "pokedex",
+        "dijkstra"
+      ],
+      "summary": "Reflections on CS education: from building a Visual Basic Pokedex at age 12 to understanding theoretical abstractions, memory management, and writing custom compilers.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Computer Science Is Not Just Coding: Von Neumann Architectures, Compilers & Stack Growth</h1><p class=\"byline\">Published on October 14, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_14300300171228588522\" alt=\"Call stack memory growth diagram showing stack growing downward\" class=\"hero-image\"/><p class=\"caption\">Computer science fundamentals: inverted data trees and call stacks growing downward toward heap memory.</p></div><section class=\"post-body\"><p>Many people think Computer Science is just writing code or making video games. Programming is actually the easy part—understanding high-level theoretical abstractions, processor pipelines, and algorithmic complexity is the real work.</p><h2>From VB4 Pokedex to Compiler Design</h2><p>My coding journey started at age 12 building a custom Pokédex app in Visual Basic 4. Now in college, I'm writing custom programming languages in Compilers class, analyzing why we still rely on Von Neumann architecture, and learning why call stacks grow downward in memory spaces.</p><p>In an industry that moves at breakneck speeds, CS majors who only learn syntax get filtered out instantly. You have to understand how the underlying machine actually works.</p></section></article>",
+      "modern_insight_2026": "Writing 'memory management is frivolous' in 2008 was a bold take right before mobile hardware constraints and modern WebAssembly / Rust systems brought low-level memory safety and zero-cost abstractions right back to the forefront of computer engineering."
+    },
+    {
+      "id": "2008-04-23-friends",
+      "title": "Friends: Treating Social Networks Like Side Projects",
+      "date": "2008-04-23T00:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "General",
+        "Personal",
+        "Philosophy"
+      ],
+      "tags": [
+        "friends",
+        "relationships",
+        "criticism",
+        "intellect",
+        "social-graph",
+        "livejournal"
+      ],
+      "summary": "Philosophizing on friendship dynamics: treating relationships like engineering projects and surrounding yourself with vocal critics who won't hesitate to point out your bugs.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Friends: Treating Social Networks Like Side Projects</h1><p class=\"byline\">Published on April 23, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_4298174259219283708\" alt=\"Group of college friends sitting together and discussing\" class=\"hero-image\"/><p class=\"caption\">Managing real-world peer networks: surrounding yourself with people who aren't afraid to call out your flawed logic.</p></div><section class=\"post-body\"><p>Disclaimer: This isn't LiveJournal, so I'll keep the emo-rambling to a minimum. But managing your personal network is essentially a long-term engineering project.</p><h2>The Peer Review Process</h2><p>Forget generic motivational quotes—we are the product of aspirations inspired by our friends. The best friends aren't the ones who validate every foolish idea you have; they are the harsh code reviewers of your life. They offer blunt criticism, call out bad logic, and force you to hold yourself to a higher standard.</p><p>If your inner circle isn't articulate, intelligent, and ready to stand up for their principles, it's time to refactor your social graph.</p></section></article>",
+      "modern_insight_2026": "A 21-year-old undergrad writing 'managing your relationships is a project' is peak CS major behavior. Treating friendships like peer code reviews and bug reports was just an early sign of an engineer who approaches every human interaction like a system optimization problem."
+    },
+    {
+      "id": "2008-04-20-relationship-advice-young-hearted",
+      "title": "Relationship Advice for the Young Hearted: Quoting Scrubs, Johnny Cash & Shakespeare",
+      "date": "2008-04-20T00:00:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "General",
+        "Life Advice",
+        "Personal"
+      ],
+      "tags": [
+        "relationships",
+        "dating",
+        "scrubs",
+        "shakespeare",
+        "johnny-cash",
+        "communication",
+        "date-night"
+      ],
+      "summary": "An epic manifesto on surviving college relationships: managing crazy in small doses, avoiding grass-is-greener lust traps, and scheduling date nights like production cron jobs.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Relationship Advice for the Young Hearted: Quoting Scrubs, Johnny Cash & Shakespeare</h1><p class=\"byline\">Published on April 20, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_4298174259219280171\" alt=\"Couple enjoying a candlelit date night dinner\" class=\"hero-image\"/><p class=\"caption\">Scheduling date nights: bringing structural predictability and execution discipline to romantic partnerships.</p></div><section class=\"post-body\"><p>After navigating a few relationship landmines, I felt compelled to drop some unsolicited relationship wisdom on my readers. Take it or throw it in the trash.</p><h2>Rule 1: Dole Out the Crazy in Small Pieces</h2><p>As Carla wisely told the Janitor on <em>Scrubs</em>: <em>\"You have to dole out your crazy in little pieces, you can't do it all at once.\"</em> Dump your full list of weird hobbies and quirks on someone during week one, and they will run for the hills.</p><h2>Rule 2: The Grass Is Greener Delusion</h2><p>Breaking off an existing relationship just because you caught feelings for someone new is almost always a trap. Lust blinds you to red flags (as Shakespeare pointed out). In most cases, once you actually get to know the 'shiny new person,' you realize they have just as many bugs as anyone else.</p><h2>Rule 3: Schedule Date Nights Like System Maintenance</h2><p>To keep the fire burning (cue Johnny Cash's <em>Ring of Fire</em>), you have to balance work, school, and social circles. Lock down a recurring Date Night calendar block to keep the core thread alive without burning out.</p></section></article>",
+      "modern_insight_2026": "Quoting Carla from Scrubs, Johnny Cash, and Shakespeare in a single college blog post to explain relationship dynamics is hilarious. But recommending structured date nights and active communication actually held up pretty well over time."
+    },
+    {
+      "id": "2008-03-16-mfg-now-in-3d",
+      "title": "MFG Now in 3D: Matrix Math Lag, 12-Piece Sprites & Perspective Debugging",
+      "date": "2008-03-16T13:42:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Gaming",
+        "Software Architecture",
+        "Game Dev"
+      ],
+      "tags": [
+        "game-dev",
+        "3d-engine",
+        "mfg",
+        "perspective-projection",
+        "matrix-math",
+        "slagcore",
+        "fps-lag"
+      ],
+      "summary": "Achieving perspective projection in a custom game engine, coping with CPU-bound 3D matrix math lag at 60 FPS, and planning multi-jointed 2D paper-doll character models.",
+      "content_html": "<article class=\"blog-post\"><header><h1>MFG Now in 3D: Matrix Math Lag, 12-Piece Sprites & Perspective Debugging</h1><p class=\"byline\">Published on March 16, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_8348833339209307707\" alt=\"Retro 3D game engine wireframe perspective projection\" class=\"hero-image\"/><p class=\"caption\">Faking 3D perspective projection in software before hardware acceleration saved the day.</p></div>&lt section class=\"post-body\"><p>I've finally forced pseudo-3D perspective into my game engine. The projection vectors actually line up without warping, which means I can start assembling player entities using modular 2D sprite segments (think 12 tiny image parts connected at the shoulders and waist).</p><h2>The Performance Wall</h2><p>My major headache is raw frame rate. Software-calculating 144 tile points 60 times per second in Slagcore is causing noticeable frame stutter—proving once again that running matrix transformations in un-optimized script layers instead of native code will crush your engine before you even place your first enemy.</p><h2>Development TODO List</h2><ul><li><strong>Entity Models:</strong> Slice character sprites into modular joint pieces.</li><li><strong>Wall Collisions:</strong> Handle entity-to-environment spatial bounding box hitboxes.</li><li><strong>Culling System:</strong> Implement a 2D array for dead entities to skip rendering off-screen objects.</li></ul></section></article>",
+      "modern_insight_2026": "Sweating over 144 CPU matrix calculations per frame at 60 FPS in 2008 is hilarious given today's WebGPU and SIMD shaders handle millions of vertex transformations per millisecond without kicking the fan on."
+    },
+    {
+      "id": "2008-03-10-progress-on-my-first-game",
+      "title": "Progress on My First Game: Quadrant Collision Culling & Attract Mode Replays",
+      "date": "2008-03-10T13:29:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Gaming",
+        "Software Architecture",
+        "Game Dev"
+      ],
+      "tags": [
+        "game-dev",
+        "collision-detection",
+        "quadrant-culling",
+        "binary-serialization",
+        "attract-mode",
+        "mfg"
+      ],
+      "summary": "Optimizing spatial bounding boxes with quadrant collision culling, building a lightning-fast binary playback mode for attract screens, and faking 3D depth with stretched 5-sided box textures.",
+      "content_html": "<article class=\"blog-post\"><header><h1>Progress on My First Game: Quadrant Collision Culling & Attract Mode Replays</h1><p class=\"byline\">Published on March 10, 2008 by <strong>Brian Cullinan</strong></p></header><section class=\"post-body\"><p>Wall collision detection is finally running smoothly by restricting bounding box checks strictly to tiles in the player's active quadrant. On the flip side, landscape rendering looks mediocre, so I'm considering faking 3D environments using 5-sided box projections that scale texture coordinates based on distance from the camera center.</p><h2>Major Engineering Wins</h2><ul><li><strong>Binary Serialization:</strong> Built a binary input recorder that streams player input to disk, allowing instant, zero-overhead attract-mode demo replays on the main menu.</li><li><strong>Spatial Partitioning:</strong> Eliminating off-quadrant collision passes saved enough CPU cycles to keep movement fluid.</li></ul></section></article>",
+      "modern_insight_2026": "Building a custom binary input recorder for arcade-style attract modes before fixing basic spatial collision checks is the purest expression of game dev priorities."
+    },
+    {
+      "id": "2008-03-07-i-have-standards-how-about-you",
+      "title": "I Have Standards, How 'Bout You? XHTML Compliance & The CDATA Hack",
+      "date": "2008-03-07T14:03:00Z",
+      "author": "Brian Cullinan",
+      "categories": [
+        "Web Dev",
+        "Standards",
+        "XHTML"
+      ],
+      "tags": [
+        "xhtml",
+        "w3c",
+        "web-standards",
+        "ampersand-escaping",
+        "cdata",
+        "self-closing-tags",
+        "slashdot"
+      ],
+      "summary": "Ranting about prominent tech sites like Slashdot failing W3C XHTML validation, self-closing tag rules, ampersand escaping in URLs, and inline script CDATA comment blocks.",
+      "content_html": "<article class=\"blog-post\"><header><h1>I Have Standards, How 'Bout You? XHTML Compliance & The CDATA Hack</h1><p class=\"byline\">Published on March 7, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_8348833339209309206\" alt=\"W3C Valid XHTML 1.1 validator badge\" class=\"hero-image\"/><p class=\"caption\">The ultimate late-2000s web dev flex: the green W3C Valid XHTML 1.1 badge.</p></div><section class=\"post-body\"><p>Across the web, far too few sites bother to pass W3C XHTML validation. It’s downright embarrassing when flagship tech destinations like Slashdot fail basic well-formed XML syntax checks.</p><h2>Common XML Syntax Sins</h2><ul><li><strong>Unescaped Ampersands:</strong> Raw <code>&amp;</code> characters in hyperlink query strings break XML parsers. Use <code>&amp;amp;</code> everywhere!</li><li><strong>Unclosed Void Elements:</strong> Tags like <code>&lt;img&gt;</code>, <code>&lt;input&gt;</code>, and <code>&lt;br&gt;</code> must strictly end with a self-closing slash (<code>&lt;br /&gt;</code>).</li><li><strong>Inline Script Leaks:</strong> If you insist on putting JavaScript in body templates, wrap it in CDATA comment blocks (<code>//&lt;![CDATA[ ... //]]&gt;</code>) so the W3C validator treats it as an unparsed string.</li></ul></section></article>",
+      "modern_insight_2026": "In 2008, developers would lose sleep over missing self-closing slashes on `&lt;html&gt;` tags to earn a W3C badge. Today, HTML5 forgiving parsers and JSX/TSX build tools handle node validation automatically behind the scenes."
+    }
+  ]
+}

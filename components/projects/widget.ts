@@ -83,10 +83,42 @@ export class ProjectsWidget extends Widget
 		nextBtn.innerHTML = 'Next &#9654;';
 		nextBtn.onclick = () => this._navigateMonth(1);
 
+		// 3. Right-hand View Mode Switcher Buttons
+		const viewSwitcherGroup = document.createElement('div');
+		viewSwitcherGroup.className = 'view-switcher-group';
+
+		const calendarBtn = document.createElement('a');
+		calendarBtn.href = '#calendar';
+		calendarBtn.className = 'view-btn bx bx-calendar-alt';
+		calendarBtn.title = 'Switch to Calendar View (Monthly)';
+
+		const timelineBtn = document.createElement('a');
+		timelineBtn.href = '#timeline';
+		timelineBtn.className = 'view-btn bx bx-history';
+		timelineBtn.title = 'Switch to Timeline View (2 weeks - 1 day)';
+		timelineBtn.addEventListener('click', () =>
+		{
+			console.log('[View Switcher] Trigger switch to TimelineWidget');
+		});
+
+		const projectsBtn = document.createElement('button');
+		projectsBtn.disabled = true; // Active view is disabled
+		projectsBtn.className = 'view-btn active bx bx-briefcase-alt';
+		projectsBtn.title = 'Switch to Projects Vertical List View';
+		projectsBtn.addEventListener('click', () =>
+		{
+			console.log('[View Switcher] Trigger switch to ProjectsWidget');
+		});
+
+		viewSwitcherGroup.appendChild(calendarBtn);
+		viewSwitcherGroup.appendChild(timelineBtn);
+		viewSwitcherGroup.appendChild(projectsBtn);
+
 		controlsBar.appendChild(prevBtn);
 		controlsBar.appendChild(yearSelect);
 		controlsBar.appendChild(monthSelect);
 		controlsBar.appendChild(nextBtn);
+		controlsBar.appendChild(viewSwitcherGroup);
 
 		this._headerElem = controlsBar;
 		this.node.appendChild(this._headerElem);
