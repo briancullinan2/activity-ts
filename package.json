@@ -20,6 +20,7 @@
 		"generate-events": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/timeline/generate-events.ts",
 		"generate-timeline": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/timeline/generate.ts",
 		"generate-blog": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/blog/generate.ts",
+		"generate-post": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/blog/generate-post.ts",
 		"build": "webpack --config webpack.prod.js",
 		"set-google": "gcloud storage buckets update gs://quake.games --cors-file=cors-json-file.json"
 	},
@@ -40,6 +41,7 @@
 		"litegraph.js": "^0.7.18",
 		"live-server": "^1.2.2",
 		"node-ical": "^0.27.2",
+		"node-llama-cpp": "^3.21.1",
 		"vis-data": "^8.0.5",
 		"vis-timeline": "^8.5.4",
 		"wasm-git": "^0.0.17"

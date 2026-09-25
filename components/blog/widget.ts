@@ -331,7 +331,7 @@ export class BlogWidget extends Widget
 			month: 'long',
 			day: 'numeric'
 		});
-		metaNode.textContent = `By ${post.author} •${formattedDate}`;
+		metaNode.textContent = `By ${post.author} • ${formattedDate}`;
 
 		header.appendChild(titleNode);
 		header.appendChild(metaNode);
