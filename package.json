@@ -14,10 +14,16 @@
 		"generate-status": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/status/generate.ts",
 		"generate-gps": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/gps/generate.ts",
 		"generate-projects": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/projects/generate.ts",
+		"generate-bookmarks": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/timeline/generate-bookmarks.ts",
+		"generate-history": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/timeline/generate-history.ts",
+		"generate-locations": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/timeline/generate-locations.ts",
+		"generate-events": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/timeline/generate-events.ts",
+		"generate-timeline": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\",\\\"moduleResolution\\\":\\\"node\\\"}\" components/timeline/generate.ts",
 		"build": "webpack --config webpack.prod.js",
 		"set-google": "gcloud storage buckets update gs://quake.games --cors-file=cors-json-file.json"
 	},
 	"dependencies": {
+		"@libsql/client": "^0.18.0",
 		"@lumino/commands": "^2.3.4",
 		"@lumino/datagrid": "^2.5.8",
 		"@lumino/default-theme": "^2.1.16",
@@ -30,6 +36,9 @@
 		"jszip": "^3.10.1",
 		"litegraph.js": "^0.7.18",
 		"live-server": "^1.2.2",
+		"node-ical": "^0.27.2",
+		"vis-data": "^8.0.5",
+		"vis-timeline": "^8.5.4",
 		"wasm-git": "^0.0.17"
 	},
 	"devDependencies": {

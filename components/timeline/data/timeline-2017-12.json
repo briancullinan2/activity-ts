@@ -1,0 +1,3329 @@
+[
+  {
+    "id": "event-61j3cd9k61im6b9m70r36b9k60o30bb26phj0bb469ij8o9kcdh3gdr470@google.com",
+    "category": "events",
+    "timestamp": "2017-12-01T14:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-01T14:00:00.000Z",
+      "end": "2017-12-01T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-4082",
+    "category": "bookmarks",
+    "timestamp": "2017-12-01T14:45:47.000Z",
+    "title": "[Computability] dastergon/awesome-chaos-engineering: A curated list of awesome Chaos Engineering resources",
+    "detail": {
+      "name": "dastergon/awesome-chaos-engineering: A curated list of awesome Chaos Engineering resources",
+      "url": "https://github.com/dastergon/awesome-chaos-engineering",
+      "folderPath": "Computer Science/Theory/Computability",
+      "lastFolder": "Computability",
+      "timeUsec": 13156613147000000
+    }
+  },
+  {
+    "id": "bookmark-14152",
+    "category": "bookmarks",
+    "timestamp": "2017-12-01T14:45:47.027Z",
+    "title": "[Computability] dastergon/awesome-chaos-engineering: A curated list of awesome Chaos Engineering resources",
+    "detail": {
+      "name": "dastergon/awesome-chaos-engineering: A curated list of awesome Chaos Engineering resources",
+      "url": "https://github.com/dastergon/awesome-chaos-engineering",
+      "folderPath": "Computer Science/Theory/Computability",
+      "lastFolder": "Computability",
+      "timeUsec": 13156613147027710
+    }
+  },
+  {
+    "id": "bookmark-1708",
+    "category": "bookmarks",
+    "timestamp": "2017-12-01T14:49:07.000Z",
+    "title": "[Gaming] Flaque/merchant.js: A Javascript framework for creating idle games",
+    "detail": {
+      "name": "Flaque/merchant.js: A Javascript framework for creating idle games",
+      "url": "https://github.com/Flaque/merchant.js",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13156613347000000
+    }
+  },
+  {
+    "id": "bookmark-11910",
+    "category": "bookmarks",
+    "timestamp": "2017-12-01T14:49:07.705Z",
+    "title": "[Gaming] Flaque/merchant.js: A Javascript framework for creating idle games",
+    "detail": {
+      "name": "Flaque/merchant.js: A Javascript framework for creating idle games",
+      "url": "https://github.com/Flaque/merchant.js",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13156613347705196
+    }
+  },
+  {
+    "id": "bookmark-2266",
+    "category": "bookmarks",
+    "timestamp": "2017-12-01T15:53:21.000Z",
+    "title": "[Data analytics] Geocoding Paradise Papers Addresses In Neo4j To Build Interactive Geographical Data Visualizations · William Lyon",
+    "detail": {
+      "name": "Geocoding Paradise Papers Addresses In Neo4j To Build Interactive Geographical Data Visualizations · William Lyon",
+      "url": "http://www.lyonwj.com/2017/11/28/geocoding-paradise-papers-neo4j-spatial-visualization/",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13156617201000000
+    }
+  },
+  {
+    "id": "bookmark-12477",
+    "category": "bookmarks",
+    "timestamp": "2017-12-01T15:53:21.454Z",
+    "title": "[Data analytics] Geocoding Paradise Papers Addresses In Neo4j To Build Interactive Geographical Data Visualizations · William Lyon",
+    "detail": {
+      "name": "Geocoding Paradise Papers Addresses In Neo4j To Build Interactive Geographical Data Visualizations · William Lyon",
+      "url": "http://www.lyonwj.com/2017/11/28/geocoding-paradise-papers-neo4j-spatial-visualization/",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13156617201454028
+    }
+  },
+  {
+    "id": "event-2dgqh0vs8ki8v15cefcmfl22qs@google.com",
+    "category": "events",
+    "timestamp": "2017-12-01T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-01T18:00:00.000Z",
+      "end": "2017-12-01T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-64ojgdphc9gj8b9k64q6ab9k6cpm2bb26grm6bb5clj66cb674s3ioj4cg@google.com",
+    "category": "events",
+    "timestamp": "2017-12-01T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-01T18:00:00.000Z",
+      "end": "2017-12-01T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-77lltm5m5t8ggm62ud2cr9s8hl@google.com",
+    "category": "events",
+    "timestamp": "2017-12-01T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-01T19:00:00.000Z",
+      "end": "2017-12-01T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7327",
+    "category": "bookmarks",
+    "timestamp": "2017-12-01T23:35:21.000Z",
+    "title": "[Recording] (22) The Darkness - Love Is Only A Feeling (Official Music Video) - YouTube",
+    "detail": {
+      "name": "(22) The Darkness - Love Is Only A Feeling (Official Music Video) - YouTube",
+      "url": "https://www.youtube.com/watch?v=QSGa1dW_KoE",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13156644921000000
+    }
+  },
+  {
+    "id": "bookmark-17235",
+    "category": "bookmarks",
+    "timestamp": "2017-12-01T23:35:21.776Z",
+    "title": "[Recording] (22) The Darkness - Love Is Only A Feeling (Official Music Video) - YouTube",
+    "detail": {
+      "name": "(22) The Darkness - Love Is Only A Feeling (Official Music Video) - YouTube",
+      "url": "https://www.youtube.com/watch?v=QSGa1dW_KoE",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13156644921776462
+    }
+  },
+  {
+    "id": "bookmark-4109",
+    "category": "bookmarks",
+    "timestamp": "2017-12-02T14:58:36.000Z",
+    "title": "[Computability] Unrolled thread from @patio11 - 23 tweets",
+    "detail": {
+      "name": "Unrolled thread from @patio11 - 23 tweets",
+      "url": "https://threadreaderapp.com/thread/936615043126370306",
+      "folderPath": "Computer Science/Theory/Computability",
+      "lastFolder": "Computability",
+      "timeUsec": 13156700316000000
+    }
+  },
+  {
+    "id": "bookmark-14179",
+    "category": "bookmarks",
+    "timestamp": "2017-12-02T14:58:36.413Z",
+    "title": "[Computability] Unrolled thread from @patio11 - 23 tweets",
+    "detail": {
+      "name": "Unrolled thread from @patio11 - 23 tweets",
+      "url": "https://threadreaderapp.com/thread/936615043126370306",
+      "folderPath": "Computer Science/Theory/Computability",
+      "lastFolder": "Computability",
+      "timeUsec": 13156700316413796
+    }
+  },
+  {
+    "id": "bookmark-372",
+    "category": "bookmarks",
+    "timestamp": "2017-12-02T15:24:43.000Z",
+    "title": "[CEO] High-Performance-Organizations-Reading-List/README.md at master · pdfernhout/High-Performance-Organizations-Reading-List",
+    "detail": {
+      "name": "High-Performance-Organizations-Reading-List/README.md at master · pdfernhout/High-Performance-Organizations-Reading-List",
+      "url": "https://github.com/pdfernhout/High-Performance-Organizations-Reading-List/blob/master/README.md",
+      "folderPath": "CEO",
+      "lastFolder": "CEO",
+      "timeUsec": 13156701883000000
+    }
+  },
+  {
+    "id": "bookmark-10772",
+    "category": "bookmarks",
+    "timestamp": "2017-12-02T15:24:43.859Z",
+    "title": "[CEO] High-Performance-Organizations-Reading-List/README.md at master · pdfernhout/High-Performance-Organizations-Reading-List",
+    "detail": {
+      "name": "High-Performance-Organizations-Reading-List/README.md at master · pdfernhout/High-Performance-Organizations-Reading-List",
+      "url": "https://github.com/pdfernhout/High-Performance-Organizations-Reading-List/blob/master/README.md",
+      "folderPath": "CEO",
+      "lastFolder": "CEO",
+      "timeUsec": 13156701883859516
+    }
+  },
+  {
+    "id": "event-33qouav2unesqme7f62b36b1j5@google.com",
+    "category": "events",
+    "timestamp": "2017-12-03T20:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-03T20:30:00.000Z",
+      "end": "2017-12-03T21:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-s1svcebqob5t3ua7tr8hnkgg5o@google.com",
+    "category": "events",
+    "timestamp": "2017-12-04T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-04T19:00:00.000Z",
+      "end": "2017-12-04T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-9518",
+    "category": "bookmarks",
+    "timestamp": "2017-12-04T21:01:20.000Z",
+    "title": "[Hinduism] Portal:Jainism - Wikipedia",
+    "detail": {
+      "name": "Portal:Jainism - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Portal:Jainism",
+      "folderPath": "Theology/Hinduism",
+      "lastFolder": "Hinduism",
+      "timeUsec": 13156894880000000
+    }
+  },
+  {
+    "id": "bookmark-19256",
+    "category": "bookmarks",
+    "timestamp": "2017-12-04T21:01:20.724Z",
+    "title": "[Hinduism] Portal:Jainism - Wikipedia",
+    "detail": {
+      "name": "Portal:Jainism - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Portal:Jainism",
+      "folderPath": "Theology/Hinduism",
+      "lastFolder": "Hinduism",
+      "timeUsec": 13156894880724180
+    }
+  },
+  {
+    "id": "bookmark-9682",
+    "category": "bookmarks",
+    "timestamp": "2017-12-04T23:19:27.000Z",
+    "title": "[Old Testament] Halakha - Wikipedia",
+    "detail": {
+      "name": "Halakha - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Halakha",
+      "folderPath": "Theology/Old Testament",
+      "lastFolder": "Old Testament",
+      "timeUsec": 13156903167000000
+    }
+  },
+  {
+    "id": "bookmark-19406",
+    "category": "bookmarks",
+    "timestamp": "2017-12-04T23:19:27.967Z",
+    "title": "[Old Testament] Halakha - Wikipedia",
+    "detail": {
+      "name": "Halakha - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Halakha",
+      "folderPath": "Theology/Old Testament",
+      "lastFolder": "Old Testament",
+      "timeUsec": 13156903167967248
+    }
+  },
+  {
+    "id": "bookmark-9683",
+    "category": "bookmarks",
+    "timestamp": "2017-12-04T23:19:52.000Z",
+    "title": "[Old Testament] Talmud - Wikipedia",
+    "detail": {
+      "name": "Talmud - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Talmud",
+      "folderPath": "Theology/Old Testament",
+      "lastFolder": "Old Testament",
+      "timeUsec": 13156903192000000
+    }
+  },
+  {
+    "id": "bookmark-19407",
+    "category": "bookmarks",
+    "timestamp": "2017-12-04T23:19:52.971Z",
+    "title": "[Old Testament] Talmud - Wikipedia",
+    "detail": {
+      "name": "Talmud - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Talmud",
+      "folderPath": "Theology/Old Testament",
+      "lastFolder": "Old Testament",
+      "timeUsec": 13156903192971454
+    }
+  },
+  {
+    "id": "bookmark-9684",
+    "category": "bookmarks",
+    "timestamp": "2017-12-04T23:20:39.000Z",
+    "title": "[Old Testament] Torah - Wikipedia",
+    "detail": {
+      "name": "Torah - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Torah",
+      "folderPath": "Theology/Old Testament",
+      "lastFolder": "Old Testament",
+      "timeUsec": 13156903239000000
+    }
+  },
+  {
+    "id": "bookmark-19408",
+    "category": "bookmarks",
+    "timestamp": "2017-12-04T23:20:39.806Z",
+    "title": "[Old Testament] Torah - Wikipedia",
+    "detail": {
+      "name": "Torah - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Torah",
+      "folderPath": "Theology/Old Testament",
+      "lastFolder": "Old Testament",
+      "timeUsec": 13156903239806068
+    }
+  },
+  {
+    "id": "bookmark-7328",
+    "category": "bookmarks",
+    "timestamp": "2017-12-05T00:14:04.000Z",
+    "title": "[Recording] Another world - Chemical Brothers - YouTube",
+    "detail": {
+      "name": "Another world - Chemical Brothers - YouTube",
+      "url": "https://www.youtube.com/watch?v=iK-vOxzYWWI",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13156906444000000
+    }
+  },
+  {
+    "id": "bookmark-17236",
+    "category": "bookmarks",
+    "timestamp": "2017-12-05T00:14:04.350Z",
+    "title": "[Recording] Another world - Chemical Brothers - YouTube",
+    "detail": {
+      "name": "Another world - Chemical Brothers - YouTube",
+      "url": "https://www.youtube.com/watch?v=iK-vOxzYWWI",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13156906444350292
+    }
+  },
+  {
+    "id": "bookmark-7329",
+    "category": "bookmarks",
+    "timestamp": "2017-12-05T06:17:08.000Z",
+    "title": "[Recording] Phutureprimitive - Lucid Dream (Official Video) HD - YouTube",
+    "detail": {
+      "name": "Phutureprimitive - Lucid Dream (Official Video) HD - YouTube",
+      "url": "https://www.youtube.com/watch?v=vPR-SAHZpRo",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13156928228000000
+    }
+  },
+  {
+    "id": "bookmark-17237",
+    "category": "bookmarks",
+    "timestamp": "2017-12-05T06:17:08.335Z",
+    "title": "[Recording] Phutureprimitive - Lucid Dream (Official Video) HD - YouTube",
+    "detail": {
+      "name": "Phutureprimitive - Lucid Dream (Official Video) HD - YouTube",
+      "url": "https://www.youtube.com/watch?v=vPR-SAHZpRo",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13156928228335844
+    }
+  },
+  {
+    "id": "event-7s8rhjjgi5haeq113lguqm67ta@google.com",
+    "category": "events",
+    "timestamp": "2017-12-05T15:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-05T15:30:00.000Z",
+      "end": "2017-12-05T16:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7v2jm7hk005jor6kpnntgskarg@google.com",
+    "category": "events",
+    "timestamp": "2017-12-05T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-05T19:00:00.000Z",
+      "end": "2017-12-05T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1ubefptk72b5uo4vpjf69pt367@google.com",
+    "category": "events",
+    "timestamp": "2017-12-05T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-05T20:00:00.000Z",
+      "end": "2017-12-05T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5l53hgcio6v6ht7n2ouo2i6b91@google.com",
+    "category": "events",
+    "timestamp": "2017-12-05T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-05T23:00:00.000Z",
+      "end": "2017-12-06T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-9872",
+    "category": "bookmarks",
+    "timestamp": "2017-12-06T01:20:02.000Z",
+    "title": "[Theology] If There Is No God, Murder Isn't Wrong - YouTube",
+    "detail": {
+      "name": "If There Is No God, Murder Isn't Wrong - YouTube",
+      "url": "https://www.youtube.com/watch?v=yrcQ_PTkVD4&feature=youtu.be",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13156996802000000
+    }
+  },
+  {
+    "id": "bookmark-19591",
+    "category": "bookmarks",
+    "timestamp": "2017-12-06T01:20:02.910Z",
+    "title": "[Theology] If There Is No God, Murder Isn't Wrong - YouTube",
+    "detail": {
+      "name": "If There Is No God, Murder Isn't Wrong - YouTube",
+      "url": "https://www.youtube.com/watch?v=yrcQ_PTkVD4&feature=youtu.be",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13156996802910756
+    }
+  },
+  {
+    "id": "event-c4om6c1pcpgmab9icdi32b9k70qjebb1c9j34bb16srm4p1kcoom2o9lcc@google.com",
+    "category": "events",
+    "timestamp": "2017-12-06T13:00:00.000Z",
+    "title": "[Predictions] Weird dream plants growing crooked",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Weird dream plants growing crooked",
+      "description": "",
+      "location": "",
+      "start": "2017-12-06T13:00:00.000Z",
+      "end": "2017-12-06T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6vr15e9bpqfdhr3e2bialemgkj@google.com",
+    "category": "events",
+    "timestamp": "2017-12-06T14:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-06T14:00:00.000Z",
+      "end": "2017-12-06T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-215q38oerqh0fp69no9h3ch0ig@google.com",
+    "category": "events",
+    "timestamp": "2017-12-06T15:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-06T15:30:00.000Z",
+      "end": "2017-12-06T16:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-04gq3t2u0rv93l5mrck6f33tvq@google.com",
+    "category": "events",
+    "timestamp": "2017-12-06T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-06T17:00:00.000Z",
+      "end": "2017-12-06T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2amrbdcmltu3lqhjqdcblj3srh@google.com",
+    "category": "events",
+    "timestamp": "2017-12-06T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-06T18:00:00.000Z",
+      "end": "2017-12-06T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0rgt4vl5bkvpom61mgp1ke5kjf@google.com",
+    "category": "events",
+    "timestamp": "2017-12-06T21:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-06T21:30:00.000Z",
+      "end": "2017-12-06T22:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4mvbde4mpuk1ke87ke32lpi00c@google.com",
+    "category": "events",
+    "timestamp": "2017-12-06T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-06T23:00:00.000Z",
+      "end": "2017-12-07T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-52",
+    "category": "bookmarks",
+    "timestamp": "2017-12-06T23:06:05.000Z",
+    "title": "[Entertainment] Tzara, \"Dadaism\"",
+    "detail": {
+      "name": "Tzara, \"Dadaism\"",
+      "url": "http://www.english.upenn.edu/~jenglish/English104/tzara.html",
+      "folderPath": "Arts/Entertainment",
+      "lastFolder": "Entertainment",
+      "timeUsec": 13157075165000000
+    }
+  },
+  {
+    "id": "bookmark-10394",
+    "category": "bookmarks",
+    "timestamp": "2017-12-06T23:06:05.781Z",
+    "title": "[Entertainment] Tzara, \"Dadaism\"",
+    "detail": {
+      "name": "Tzara, \"Dadaism\"",
+      "url": "http://www.english.upenn.edu/~jenglish/English104/tzara.html",
+      "folderPath": "Arts/Entertainment",
+      "lastFolder": "Entertainment",
+      "timeUsec": 13157075165781244
+    }
+  },
+  {
+    "id": "bookmark-3739",
+    "category": "bookmarks",
+    "timestamp": "2017-12-06T23:28:04.000Z",
+    "title": "[Privacy] FBI using cell phone microphones to eavesdrop | Ars Technica",
+    "detail": {
+      "name": "FBI using cell phone microphones to eavesdrop | Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2006/12/8343/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13157076484000000
+    }
+  },
+  {
+    "id": "bookmark-13798",
+    "category": "bookmarks",
+    "timestamp": "2017-12-06T23:28:04.876Z",
+    "title": "[Privacy] FBI using cell phone microphones to eavesdrop | Ars Technica",
+    "detail": {
+      "name": "FBI using cell phone microphones to eavesdrop | Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2006/12/8343/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13157076484876660
+    }
+  },
+  {
+    "id": "bookmark-4072",
+    "category": "bookmarks",
+    "timestamp": "2017-12-06T23:56:20.000Z",
+    "title": "[Computability] Fizz Buzz Test",
+    "detail": {
+      "name": "Fizz Buzz Test",
+      "url": "http://wiki.c2.com/?FizzBuzzTest",
+      "folderPath": "Computer Science/Theory/Computability",
+      "lastFolder": "Computability",
+      "timeUsec": 13157078180000000
+    }
+  },
+  {
+    "id": "bookmark-14142",
+    "category": "bookmarks",
+    "timestamp": "2017-12-06T23:56:20.920Z",
+    "title": "[Computability] Fizz Buzz Test",
+    "detail": {
+      "name": "Fizz Buzz Test",
+      "url": "http://wiki.c2.com/?FizzBuzzTest",
+      "folderPath": "Computer Science/Theory/Computability",
+      "lastFolder": "Computability",
+      "timeUsec": 13157078180920880
+    }
+  },
+  {
+    "id": "event-6e4mldoi2j9i8cp15hun06qbon@google.com",
+    "category": "events",
+    "timestamp": "2017-12-07T00:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-07T00:00:00.000Z",
+      "end": "2017-12-07T01:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7657",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T01:50:41.000Z",
+    "title": "[Family] Spanking a child can lead to dating violence when they’re older - NY Daily News",
+    "detail": {
+      "name": "Spanking a child can lead to dating violence when they’re older - NY Daily News",
+      "url": "http://www.nydailynews.com/life-style/spanking-child-leads-dating-violence-older-article-1.3679432",
+      "folderPath": "Parenting/Family",
+      "lastFolder": "Family",
+      "timeUsec": 13157085041000000
+    }
+  },
+  {
+    "id": "bookmark-17546",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T01:50:41.696Z",
+    "title": "[Parenting] Spanking a child can lead to dating violence when they’re older - NY Daily News",
+    "detail": {
+      "name": "Spanking a child can lead to dating violence when they’re older - NY Daily News",
+      "url": "http://www.nydailynews.com/life-style/spanking-child-leads-dating-violence-older-article-1.3679432",
+      "folderPath": "Parenting",
+      "lastFolder": "Parenting",
+      "timeUsec": 13157085041696010
+    }
+  },
+  {
+    "id": "event-3fc1sl7gpth58eb1ia9bec9jls@google.com",
+    "category": "events",
+    "timestamp": "2017-12-07T02:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-07T02:00:00.000Z",
+      "end": "2017-12-07T03:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7823",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T02:07:20.000Z",
+    "title": "[Philosophy] Drift (catch my) « The Word Detective",
+    "detail": {
+      "name": "Drift (catch my) « The Word Detective",
+      "url": "http://www.word-detective.com/2010/03/drift-catch-my/",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13157086040000000
+    }
+  },
+  {
+    "id": "bookmark-17705",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T02:07:20.251Z",
+    "title": "[Philosophy] Drift (catch my) « The Word Detective",
+    "detail": {
+      "name": "Drift (catch my) « The Word Detective",
+      "url": "http://www.word-detective.com/2010/03/drift-catch-my/",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13157086040251056
+    }
+  },
+  {
+    "id": "bookmark-5165",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T02:11:01.000Z",
+    "title": "[Nutrition] Vaccine Ingredients - Aluminum | Children's Hospital of Philadelphia",
+    "detail": {
+      "name": "Vaccine Ingredients - Aluminum | Children's Hospital of Philadelphia",
+      "url": "http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum",
+      "folderPath": "Food/Health/Nutrition",
+      "lastFolder": "Nutrition",
+      "timeUsec": 13157086261000000
+    }
+  },
+  {
+    "id": "bookmark-15284",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T02:11:01.142Z",
+    "title": "[Nutrition] Vaccine Ingredients - Aluminum | Children's Hospital of Philadelphia",
+    "detail": {
+      "name": "Vaccine Ingredients - Aluminum | Children's Hospital of Philadelphia",
+      "url": "http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum",
+      "folderPath": "Food/Health/Nutrition",
+      "lastFolder": "Nutrition",
+      "timeUsec": 13157086261142890
+    }
+  },
+  {
+    "id": "bookmark-8954",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T02:15:17.000Z",
+    "title": "[Politics] Millions Are Hounded for Debt They Don’t Owe. One Victim Fought Back, With a Vengeance - Bloomberg",
+    "detail": {
+      "name": "Millions Are Hounded for Debt They Don’t Owe. One Victim Fought Back, With a Vengeance - Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2017-12-06/millions-are-hounded-for-debt-they-don-t-owe-one-victim-fought-back-with-a-vengeance",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157086517000000
+    }
+  },
+  {
+    "id": "bookmark-18724",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T02:15:17.986Z",
+    "title": "[Politics] Millions Are Hounded for Debt They Don’t Owe. One Victim Fought Back, With a Vengeance - Bloomberg",
+    "detail": {
+      "name": "Millions Are Hounded for Debt They Don’t Owe. One Victim Fought Back, With a Vengeance - Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2017-12-06/millions-are-hounded-for-debt-they-don-t-owe-one-victim-fought-back-with-a-vengeance",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157086517986048
+    }
+  },
+  {
+    "id": "bookmark-7330",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T03:12:54.000Z",
+    "title": "[Recording] Parsons code - Wikipedia",
+    "detail": {
+      "name": "Parsons code - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parsons_code",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13157089974000000
+    }
+  },
+  {
+    "id": "bookmark-17238",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T03:12:54.299Z",
+    "title": "[Recording] Parsons code - Wikipedia",
+    "detail": {
+      "name": "Parsons code - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parsons_code",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13157089974299528
+    }
+  },
+  {
+    "id": "bookmark-8955",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T03:13:52.000Z",
+    "title": "[Politics] A simple theory of Moore's Law and social media - Marginal REVOLUTION",
+    "detail": {
+      "name": "A simple theory of Moore's Law and social media - Marginal REVOLUTION",
+      "url": "http://marginalrevolution.com/marginalrevolution/2017/12/simple-theory-moores-law-social-media.html",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157090032000000
+    }
+  },
+  {
+    "id": "bookmark-18725",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T03:13:52.361Z",
+    "title": "[Politics] A simple theory of Moore's Law and social media - Marginal REVOLUTION",
+    "detail": {
+      "name": "A simple theory of Moore's Law and social media - Marginal REVOLUTION",
+      "url": "http://marginalrevolution.com/marginalrevolution/2017/12/simple-theory-moores-law-social-media.html",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157090032361198
+    }
+  },
+  {
+    "id": "bookmark-2248",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T05:14:20.000Z",
+    "title": "[Data analytics] 51 Artificial Intelligence (AI) Predictions For 2018",
+    "detail": {
+      "name": "51 Artificial Intelligence (AI) Predictions For 2018",
+      "url": "https://www.forbes.com/sites/gilpress/2017/11/28/51-artificial-intelligence-ai-predictions-for-2018/#a053ea3582a0",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13157097260000000
+    }
+  },
+  {
+    "id": "bookmark-12459",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T05:14:20.928Z",
+    "title": "[Data analytics] 51 Artificial Intelligence (AI) Predictions For 2018",
+    "detail": {
+      "name": "51 Artificial Intelligence (AI) Predictions For 2018",
+      "url": "https://www.forbes.com/sites/gilpress/2017/11/28/51-artificial-intelligence-ai-predictions-for-2018/#a053ea3582a0",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13157097260928708
+    }
+  },
+  {
+    "id": "bookmark-8956",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T05:22:40.000Z",
+    "title": "[Politics] jillhubley.com/project/nyclanguages/#close",
+    "detail": {
+      "name": "jillhubley.com/project/nyclanguages/#close",
+      "url": "http://jillhubley.com/project/nyclanguages/#close",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157097760000000
+    }
+  },
+  {
+    "id": "bookmark-18726",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T05:22:40.351Z",
+    "title": "[Politics] jillhubley.com/project/nyclanguages/#close",
+    "detail": {
+      "name": "jillhubley.com/project/nyclanguages/#close",
+      "url": "http://jillhubley.com/project/nyclanguages/#close",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157097760351648
+    }
+  },
+  {
+    "id": "bookmark-9846",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T05:47:14.000Z",
+    "title": "[Theology] Bushido - Wikipedia",
+    "detail": {
+      "name": "Bushido - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Bushido",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13157099234000000
+    }
+  },
+  {
+    "id": "bookmark-19565",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T05:47:14.011Z",
+    "title": "[Theology] Bushido - Wikipedia",
+    "detail": {
+      "name": "Bushido - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Bushido",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13157099234011686
+    }
+  },
+  {
+    "id": "event-5g7kbm4in7vsrll9kkpmjro49m@google.com",
+    "category": "events",
+    "timestamp": "2017-12-07T14:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-07T14:30:00.000Z",
+      "end": "2017-12-07T15:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3740",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T15:11:05.000Z",
+    "title": "[Privacy] Explosive blog",
+    "detail": {
+      "name": "Explosive blog",
+      "url": "https://bo0om.ru/en/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13157133065000000
+    }
+  },
+  {
+    "id": "bookmark-13799",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T15:11:05.573Z",
+    "title": "[Privacy] Explosive blog",
+    "detail": {
+      "name": "Explosive blog",
+      "url": "https://bo0om.ru/en/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13157133065573192
+    }
+  },
+  {
+    "id": "bookmark-7448",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T15:12:05.000Z",
+    "title": "[Natural Science] What Is It Like to Be a Bee? - Atlas Obscura",
+    "detail": {
+      "name": "What Is It Like to Be a Bee? - Atlas Obscura",
+      "url": "https://www.atlasobscura.com/articles/what-is-it-like-to-be-a-bee",
+      "folderPath": "Natural Science",
+      "lastFolder": "Natural Science",
+      "timeUsec": 13157133125000000
+    }
+  },
+  {
+    "id": "bookmark-17337",
+    "category": "bookmarks",
+    "timestamp": "2017-12-07T15:12:05.811Z",
+    "title": "[Natural Science] What Is It Like to Be a Bee? - Atlas Obscura",
+    "detail": {
+      "name": "What Is It Like to Be a Bee? - Atlas Obscura",
+      "url": "https://www.atlasobscura.com/articles/what-is-it-like-to-be-a-bee",
+      "folderPath": "Natural Science",
+      "lastFolder": "Natural Science",
+      "timeUsec": 13157133125811182
+    }
+  },
+  {
+    "id": "bookmark-8957",
+    "category": "bookmarks",
+    "timestamp": "2017-12-08T02:11:07.000Z",
+    "title": "[Politics] www.firstpost.com/india/man-attacked-with-axe-and-burnt-alive-in-rajasthans-rajsamand-district-over-love-jihad-police-arrest-accused-4246763.html",
+    "detail": {
+      "name": "www.firstpost.com/india/man-attacked-with-axe-and-burnt-alive-in-rajasthans-rajsamand-district-over-love-jihad-police-arrest-accused-4246763.html",
+      "url": "http://www.firstpost.com/india/man-attacked-with-axe-and-burnt-alive-in-rajasthans-rajsamand-district-over-love-jihad-police-arrest-accused-4246763.html",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157172667000000
+    }
+  },
+  {
+    "id": "bookmark-18727",
+    "category": "bookmarks",
+    "timestamp": "2017-12-08T02:11:07.860Z",
+    "title": "[Politics] www.firstpost.com/india/man-attacked-with-axe-and-burnt-alive-in-rajasthans-rajsamand-district-over-love-jihad-police-arrest-accused-4246763.html",
+    "detail": {
+      "name": "www.firstpost.com/india/man-attacked-with-axe-and-burnt-alive-in-rajasthans-rajsamand-district-over-love-jihad-police-arrest-accused-4246763.html",
+      "url": "http://www.firstpost.com/india/man-attacked-with-axe-and-burnt-alive-in-rajasthans-rajsamand-district-over-love-jihad-police-arrest-accused-4246763.html",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157172667860456
+    }
+  },
+  {
+    "id": "event-1rdsn0ai6ffn44ehs1ujbc45lg@google.com",
+    "category": "events",
+    "timestamp": "2017-12-08T16:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-08T16:30:00.000Z",
+      "end": "2017-12-08T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2249",
+    "category": "bookmarks",
+    "timestamp": "2017-12-08T20:44:57.000Z",
+    "title": "[Data analytics] Max Ogden Blogotronz",
+    "detail": {
+      "name": "Max Ogden Blogotronz",
+      "url": "https://maxogden.com/scraping-with-node.html",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13157239497000000
+    }
+  },
+  {
+    "id": "bookmark-12460",
+    "category": "bookmarks",
+    "timestamp": "2017-12-08T20:44:57.472Z",
+    "title": "[Data analytics] Max Ogden Blogotronz",
+    "detail": {
+      "name": "Max Ogden Blogotronz",
+      "url": "https://maxogden.com/scraping-with-node.html",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13157239497472606
+    }
+  },
+  {
+    "id": "event-0ujfhpljec1da8av3bhnb56f2q@google.com",
+    "category": "events",
+    "timestamp": "2017-12-08T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-08T22:00:00.000Z",
+      "end": "2017-12-08T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7449",
+    "category": "bookmarks",
+    "timestamp": "2017-12-08T22:55:35.000Z",
+    "title": "[Natural Science] We finally know how water bears became so damn unkillable",
+    "detail": {
+      "name": "We finally know how water bears became so damn unkillable",
+      "url": "https://www.sciencealert.com/new-study-finally-reveals-how-water-bears-have-become-so-damn-indestructible",
+      "folderPath": "Natural Science",
+      "lastFolder": "Natural Science",
+      "timeUsec": 13157247335000000
+    }
+  },
+  {
+    "id": "bookmark-17338",
+    "category": "bookmarks",
+    "timestamp": "2017-12-08T22:55:35.788Z",
+    "title": "[Natural Science] We finally know how water bears became so damn unkillable",
+    "detail": {
+      "name": "We finally know how water bears became so damn unkillable",
+      "url": "https://www.sciencealert.com/new-study-finally-reveals-how-water-bears-have-become-so-damn-indestructible",
+      "folderPath": "Natural Science",
+      "lastFolder": "Natural Science",
+      "timeUsec": 13157247335788956
+    }
+  },
+  {
+    "id": "bookmark-9559",
+    "category": "bookmarks",
+    "timestamp": "2017-12-08T23:44:51.000Z",
+    "title": "[New Testament] 5 Bible Verses About Sharing the Word of God",
+    "detail": {
+      "name": "5 Bible Verses About Sharing the Word of God",
+      "url": "https://www.endtime.com/blog/5-bible-verses-sharing-word-god/",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157250291000000
+    }
+  },
+  {
+    "id": "bookmark-19293",
+    "category": "bookmarks",
+    "timestamp": "2017-12-08T23:44:51.081Z",
+    "title": "[New Testament] 5 Bible Verses About Sharing the Word of God",
+    "detail": {
+      "name": "5 Bible Verses About Sharing the Word of God",
+      "url": "https://www.endtime.com/blog/5-bible-verses-sharing-word-god/",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157250291081500
+    }
+  },
+  {
+    "id": "bookmark-7624",
+    "category": "bookmarks",
+    "timestamp": "2017-12-08T23:45:00.000Z",
+    "title": "[Brain Science] Victims of mystery attacks in Cuba left with anomalies in brain tissue | Ars Technica",
+    "detail": {
+      "name": "Victims of mystery attacks in Cuba left with anomalies in brain tissue | Ars Technica",
+      "url": "https://arstechnica.com/science/2017/12/victims-of-mystery-attacks-in-cuba-have-anomalies-in-brain-white-matter/",
+      "folderPath": "Neuroscience/Brain Science",
+      "lastFolder": "Brain Science",
+      "timeUsec": 13157250300000000
+    }
+  },
+  {
+    "id": "bookmark-17514",
+    "category": "bookmarks",
+    "timestamp": "2017-12-08T23:45:00.635Z",
+    "title": "[Brain Science] Victims of mystery attacks in Cuba left with anomalies in brain tissue | Ars Technica",
+    "detail": {
+      "name": "Victims of mystery attacks in Cuba left with anomalies in brain tissue | Ars Technica",
+      "url": "https://arstechnica.com/science/2017/12/victims-of-mystery-attacks-in-cuba-have-anomalies-in-brain-white-matter/",
+      "folderPath": "Neuroscience/Brain Science",
+      "lastFolder": "Brain Science",
+      "timeUsec": 13157250300635500
+    }
+  },
+  {
+    "id": "event-20g2j9qq1mrpr8it9pns9eu781@google.com",
+    "category": "events",
+    "timestamp": "2017-12-09T14:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-09T14:30:00.000Z",
+      "end": "2017-12-09T15:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-8201",
+    "category": "bookmarks",
+    "timestamp": "2017-12-09T15:37:30.000Z",
+    "title": "[Psychology] 6 Tactics Narcissists Will Use To Silence You",
+    "detail": {
+      "name": "6 Tactics Narcissists Will Use To Silence You",
+      "url": "http://www.urbo.com/content/tactics-used-by-narcissists-to-silence-you?rtg=intelligenceissexy-0fR4QL&param4=urbo-fni-fbss-2871-us-de-pengage&param5=10154340703146186&param6=23842673665840369",
+      "folderPath": "Psychology",
+      "lastFolder": "Psychology",
+      "timeUsec": 13157307450000000
+    }
+  },
+  {
+    "id": "bookmark-18035",
+    "category": "bookmarks",
+    "timestamp": "2017-12-09T15:37:30.275Z",
+    "title": "[Psychology] 6 Tactics Narcissists Will Use To Silence You",
+    "detail": {
+      "name": "6 Tactics Narcissists Will Use To Silence You",
+      "url": "http://www.urbo.com/content/tactics-used-by-narcissists-to-silence-you?rtg=intelligenceissexy-0fR4QL&param4=urbo-fni-fbss-2871-us-de-pengage&param5=10154340703146186&param6=23842673665840369",
+      "folderPath": "Psychology",
+      "lastFolder": "Psychology",
+      "timeUsec": 13157307450275622
+    }
+  },
+  {
+    "id": "bookmark-8958",
+    "category": "bookmarks",
+    "timestamp": "2017-12-09T17:31:02.000Z",
+    "title": "[Politics] Assassins Kill 'Panama Papers' Journalist Who Linked Ivanka Trump To Russian Money Launderers",
+    "detail": {
+      "name": "Assassins Kill 'Panama Papers' Journalist Who Linked Ivanka Trump To Russian Money Launderers",
+      "url": "http://politicaldig.com/assassins-killed-panama-papers-journalist-linked-ivanka-trump-russian-money-launderers/",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157314262000000
+    }
+  },
+  {
+    "id": "bookmark-18728",
+    "category": "bookmarks",
+    "timestamp": "2017-12-09T17:31:02.284Z",
+    "title": "[Politics] Assassins Kill 'Panama Papers' Journalist Who Linked Ivanka Trump To Russian Money Launderers",
+    "detail": {
+      "name": "Assassins Kill 'Panama Papers' Journalist Who Linked Ivanka Trump To Russian Money Launderers",
+      "url": "http://politicaldig.com/assassins-killed-panama-papers-journalist-linked-ivanka-trump-russian-money-launderers/",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157314262284884
+    }
+  },
+  {
+    "id": "bookmark-8959",
+    "category": "bookmarks",
+    "timestamp": "2017-12-09T17:39:23.000Z",
+    "title": "[Politics] Study: Spanking kids linked to mental health issues in adulthood - Story | KSAZ",
+    "detail": {
+      "name": "Study: Spanking kids linked to mental health issues in adulthood - Story | KSAZ",
+      "url": "http://www.fox10phoenix.com/news/study-spanking-linked-to-mental-health-issues-in-adulthood",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157314763000000
+    }
+  },
+  {
+    "id": "bookmark-18729",
+    "category": "bookmarks",
+    "timestamp": "2017-12-09T17:39:23.218Z",
+    "title": "[Politics] Study: Spanking kids linked to mental health issues in adulthood - Story | KSAZ",
+    "detail": {
+      "name": "Study: Spanking kids linked to mental health issues in adulthood - Story | KSAZ",
+      "url": "http://www.fox10phoenix.com/news/study-spanking-linked-to-mental-health-issues-in-adulthood",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157314763218156
+    }
+  },
+  {
+    "id": "bookmark-8960",
+    "category": "bookmarks",
+    "timestamp": "2017-12-10T16:16:29.000Z",
+    "title": "[Politics] Thinking Complete: Unusual motivational thoughts",
+    "detail": {
+      "name": "Thinking Complete: Unusual motivational thoughts",
+      "url": "http://thinkingcomplete.blogspot.com/2017/12/unusual-motivational-thoughts.html?m=1",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157396189000000
+    }
+  },
+  {
+    "id": "bookmark-18730",
+    "category": "bookmarks",
+    "timestamp": "2017-12-10T16:16:29.117Z",
+    "title": "[Politics] Thinking Complete: Unusual motivational thoughts",
+    "detail": {
+      "name": "Thinking Complete: Unusual motivational thoughts",
+      "url": "http://thinkingcomplete.blogspot.com/2017/12/unusual-motivational-thoughts.html?m=1",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157396189117524
+    }
+  },
+  {
+    "id": "bookmark-7451",
+    "category": "bookmarks",
+    "timestamp": "2017-12-10T18:10:31.000Z",
+    "title": "[Natural Science] BBC - Earth - Many animals seem to kill themselves, but it is not suicide",
+    "detail": {
+      "name": "BBC - Earth - Many animals seem to kill themselves, but it is not suicide",
+      "url": "http://www.bbc.com/earth/story/20160705-many-animals-seem-to-kill-themselves-but-it-is-not-suicide",
+      "folderPath": "Natural Science",
+      "lastFolder": "Natural Science",
+      "timeUsec": 13157403031000000
+    }
+  },
+  {
+    "id": "bookmark-17340",
+    "category": "bookmarks",
+    "timestamp": "2017-12-10T18:10:31.180Z",
+    "title": "[Natural Science] BBC - Earth - Many animals seem to kill themselves, but it is not suicide",
+    "detail": {
+      "name": "BBC - Earth - Many animals seem to kill themselves, but it is not suicide",
+      "url": "http://www.bbc.com/earth/story/20160705-many-animals-seem-to-kill-themselves-but-it-is-not-suicide",
+      "folderPath": "Natural Science",
+      "lastFolder": "Natural Science",
+      "timeUsec": 13157403031180288
+    }
+  },
+  {
+    "id": "bookmark-7450",
+    "category": "bookmarks",
+    "timestamp": "2017-12-10T18:12:16.000Z",
+    "title": "[Natural Science] What do animals know of death? « Why Evolution Is True",
+    "detail": {
+      "name": "What do animals know of death? « Why Evolution Is True",
+      "url": "https://whyevolutionistrue.wordpress.com/2012/08/21/what-do-animals-know-of-death/",
+      "folderPath": "Natural Science",
+      "lastFolder": "Natural Science",
+      "timeUsec": 13157403136000000
+    }
+  },
+  {
+    "id": "bookmark-17339",
+    "category": "bookmarks",
+    "timestamp": "2017-12-10T18:12:16.943Z",
+    "title": "[Natural Science] What do animals know of death? « Why Evolution Is True",
+    "detail": {
+      "name": "What do animals know of death? « Why Evolution Is True",
+      "url": "https://whyevolutionistrue.wordpress.com/2012/08/21/what-do-animals-know-of-death/",
+      "folderPath": "Natural Science",
+      "lastFolder": "Natural Science",
+      "timeUsec": 13157403136943068
+    }
+  },
+  {
+    "id": "bookmark-5766",
+    "category": "bookmarks",
+    "timestamp": "2017-12-11T05:25:45.000Z",
+    "title": "[Legal] Supplying Legal Notices for Free Software in your Products - IPWatchdog.com | Patents & Patent Law",
+    "detail": {
+      "name": "Supplying Legal Notices for Free Software in your Products - IPWatchdog.com | Patents & Patent Law",
+      "url": "http://www.ipwatchdog.com/2017/12/02/supplying-legal-notices-free-software/",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13157443545000000
+    }
+  },
+  {
+    "id": "bookmark-15813",
+    "category": "bookmarks",
+    "timestamp": "2017-12-11T05:25:45.227Z",
+    "title": "[Legal] Supplying Legal Notices for Free Software in your Products - IPWatchdog.com | Patents & Patent Law",
+    "detail": {
+      "name": "Supplying Legal Notices for Free Software in your Products - IPWatchdog.com | Patents & Patent Law",
+      "url": "http://www.ipwatchdog.com/2017/12/02/supplying-legal-notices-free-software/",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13157443545227488
+    }
+  },
+  {
+    "id": "event-c8rjcp9nccr3gbb160p6ab9k6so32bb16krjcb9j6timacr170smcp9p6c@google.com",
+    "category": "events",
+    "timestamp": "2017-12-11T15:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-11T15:00:00.000Z",
+      "end": "2017-12-11T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-782h89k6r3g07evv102e9g6emm@google.com",
+    "category": "events",
+    "timestamp": "2017-12-11T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-11T17:30:00.000Z",
+      "end": "2017-12-11T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-00bjgdj6u43tqcgu0kumn2rtme@google.com",
+    "category": "events",
+    "timestamp": "2017-12-11T18:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-11T18:30:00.000Z",
+      "end": "2017-12-11T19:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-br1lthsseuhv2lq0ibhqbh52ck@google.com",
+    "category": "events",
+    "timestamp": "2017-12-11T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "work?",
+      "start": "2017-12-11T19:00:00.000Z",
+      "end": "2017-12-11T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckqjipb6cco3cb9j60rjab9kcoo3ib9oc9gjab9jcgo30d1h6dgjecb46k@google.com",
+    "category": "events",
+    "timestamp": "2017-12-12T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-12T06:00:00.000Z",
+      "end": "2017-12-12T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5rb2155lspq82tkqk0er29hnsc@google.com",
+    "category": "events",
+    "timestamp": "2017-12-12T15:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-12T15:30:00.000Z",
+      "end": "2017-12-12T16:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-62nogc6eq72siehjftqjlita2h@google.com",
+    "category": "events",
+    "timestamp": "2017-12-12T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-12T16:00:00.000Z",
+      "end": "2017-12-12T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-47u3oqqub5vis92q25hi1npnrp@google.com",
+    "category": "events",
+    "timestamp": "2017-12-12T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-12T18:00:00.000Z",
+      "end": "2017-12-12T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-29eqodglsp90m2i9kkafqsc0tp@google.com",
+    "category": "events",
+    "timestamp": "2017-12-12T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-12T19:00:00.000Z",
+      "end": "2017-12-12T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1q5igt4h2v0r35bjmjbrorogev@google.com",
+    "category": "events",
+    "timestamp": "2017-12-13T06:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-13T06:30:00.000Z",
+      "end": "2017-12-13T07:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3ike7ssuetggbfvue7vln3n14s@google.com",
+    "category": "events",
+    "timestamp": "2017-12-13T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-13T16:00:00.000Z",
+      "end": "2017-12-13T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6bqfr0mimohdv1r6croh87fu1e@google.com",
+    "category": "events",
+    "timestamp": "2017-12-14T01:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-14T01:30:00.000Z",
+      "end": "2017-12-14T02:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-8961",
+    "category": "bookmarks",
+    "timestamp": "2017-12-14T23:57:29.000Z",
+    "title": "[Politics] For Trump, a Moment of Defeat but Maybe Not Recalibration - The New York Times",
+    "detail": {
+      "name": "For Trump, a Moment of Defeat but Maybe Not Recalibration - The New York Times",
+      "url": "https://www.nytimes.com/2017/12/13/us/trump-moore-loss-alabama.html",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157769449000000
+    }
+  },
+  {
+    "id": "bookmark-18731",
+    "category": "bookmarks",
+    "timestamp": "2017-12-14T23:57:29.553Z",
+    "title": "[Politics] For Trump, a Moment of Defeat but Maybe Not Recalibration - The New York Times",
+    "detail": {
+      "name": "For Trump, a Moment of Defeat but Maybe Not Recalibration - The New York Times",
+      "url": "https://www.nytimes.com/2017/12/13/us/trump-moore-loss-alabama.html",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13157769449553956
+    }
+  },
+  {
+    "id": "bookmark-157",
+    "category": "bookmarks",
+    "timestamp": "2017-12-14T23:58:03.000Z",
+    "title": "[Books] Amazon.com: Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100 (9780307473332): Michio Kaku: Books",
+    "detail": {
+      "name": "Amazon.com: Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100 (9780307473332): Michio Kaku: Books",
+      "url": "https://www.amazon.com/dp/0307473333/ref=cm_sw_r_cp_api_znHmAbK1PWCF3",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13157769483000000
+    }
+  },
+  {
+    "id": "bookmark-10497",
+    "category": "bookmarks",
+    "timestamp": "2017-12-14T23:58:03.749Z",
+    "title": "[Books] Amazon.com: Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100 (9780307473332): Michio Kaku: Books",
+    "detail": {
+      "name": "Amazon.com: Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100 (9780307473332): Michio Kaku: Books",
+      "url": "https://www.amazon.com/dp/0307473333/ref=cm_sw_r_cp_api_znHmAbK1PWCF3",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13157769483749158
+    }
+  },
+  {
+    "id": "event-6ds86o7qt748chrp6uodr2766s@google.com",
+    "category": "events",
+    "timestamp": "2017-12-15T00:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-15T00:00:00.000Z",
+      "end": "2017-12-15T02:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-158",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T00:00:54.000Z",
+    "title": "[Books] Amazon.com: teaching students how to learn: Books",
+    "detail": {
+      "name": "Amazon.com: teaching students how to learn: Books",
+      "url": "https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dstripbooks&field-keywords=teaching+students+how+to+learn",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13157769654000000
+    }
+  },
+  {
+    "id": "bookmark-10498",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T00:00:54.936Z",
+    "title": "[Books] Amazon.com: teaching students how to learn: Books",
+    "detail": {
+      "name": "Amazon.com: teaching students how to learn: Books",
+      "url": "https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dstripbooks&field-keywords=teaching+students+how+to+learn",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13157769654936712
+    }
+  },
+  {
+    "id": "bookmark-7452",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T00:01:22.000Z",
+    "title": "[Natural Science] Video shows 'panicked' deer jump to their deaths | Daily Mail Online",
+    "detail": {
+      "name": "Video shows 'panicked' deer jump to their deaths | Daily Mail Online",
+      "url": "http://www.dailymail.co.uk/news/article-5176265/Video-shows-panicked-deer-jump-deaths.html",
+      "folderPath": "Natural Science",
+      "lastFolder": "Natural Science",
+      "timeUsec": 13157769682000000
+    }
+  },
+  {
+    "id": "bookmark-17341",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T00:01:22.264Z",
+    "title": "[Natural Science] Video shows 'panicked' deer jump to their deaths | Daily Mail Online",
+    "detail": {
+      "name": "Video shows 'panicked' deer jump to their deaths | Daily Mail Online",
+      "url": "http://www.dailymail.co.uk/news/article-5176265/Video-shows-panicked-deer-jump-deaths.html",
+      "folderPath": "Natural Science",
+      "lastFolder": "Natural Science",
+      "timeUsec": 13157769682264680
+    }
+  },
+  {
+    "id": "bookmark-159",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T00:02:29.000Z",
+    "title": "[Books] Amazon.com: How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life eBook: Scott Adams: Kindle Store",
+    "detail": {
+      "name": "Amazon.com: How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life eBook: Scott Adams: Kindle Store",
+      "url": "https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13157769749000000
+    }
+  },
+  {
+    "id": "bookmark-10499",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T00:02:29.229Z",
+    "title": "[Books] Amazon.com: How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life eBook: Scott Adams: Kindle Store",
+    "detail": {
+      "name": "Amazon.com: How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life eBook: Scott Adams: Kindle Store",
+      "url": "https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13157769749229764
+    }
+  },
+  {
+    "id": "bookmark-160",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T00:05:34.000Z",
+    "title": "[Books] Amazon.com: Wake Up Happy: The Dream Big, Win Big Guide to Transforming Your Life (9781476775685): Michael Strahan, Veronica Chambers: Books",
+    "detail": {
+      "name": "Amazon.com: Wake Up Happy: The Dream Big, Win Big Guide to Transforming Your Life (9781476775685): Michael Strahan, Veronica Chambers: Books",
+      "url": "https://www.amazon.com/Wake-Up-Happy-Dream-Transforming/dp/1476775680",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13157769934000000
+    }
+  },
+  {
+    "id": "bookmark-10500",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T00:05:34.620Z",
+    "title": "[Books] Amazon.com: Wake Up Happy: The Dream Big, Win Big Guide to Transforming Your Life (9781476775685): Michael Strahan, Veronica Chambers: Books",
+    "detail": {
+      "name": "Amazon.com: Wake Up Happy: The Dream Big, Win Big Guide to Transforming Your Life (9781476775685): Michael Strahan, Veronica Chambers: Books",
+      "url": "https://www.amazon.com/Wake-Up-Happy-Dream-Transforming/dp/1476775680",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13157769934620058
+    }
+  },
+  {
+    "id": "bookmark-9560",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:00:33.000Z",
+    "title": "[New Testament] Proverbs 8:17 ESV - I love those who love me, and those who - Bible Gateway",
+    "detail": {
+      "name": "Proverbs 8:17 ESV - I love those who love me, and those who - Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Proverbs+8%3A17&version=ESV",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157773233000000
+    }
+  },
+  {
+    "id": "bookmark-19294",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:00:33.115Z",
+    "title": "[New Testament] Proverbs 8:17 ESV - I love those who love me, and those who - Bible Gateway",
+    "detail": {
+      "name": "Proverbs 8:17 ESV - I love those who love me, and those who - Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Proverbs+8%3A17&version=ESV",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157773233115252
+    }
+  },
+  {
+    "id": "bookmark-9561",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:00:41.000Z",
+    "title": "[New Testament] 1 John 2:15 ESV - Do Not Love the World - Do not love the - Bible Gateway",
+    "detail": {
+      "name": "1 John 2:15 ESV - Do Not Love the World - Do not love the - Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=1+John+2%3A15&version=ESV",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157773241000000
+    }
+  },
+  {
+    "id": "bookmark-19295",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:00:41.687Z",
+    "title": "[New Testament] 1 John 2:15 ESV - Do Not Love the World - Do not love the - Bible Gateway",
+    "detail": {
+      "name": "1 John 2:15 ESV - Do Not Love the World - Do not love the - Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=1+John+2%3A15&version=ESV",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157773241687460
+    }
+  },
+  {
+    "id": "bookmark-9562",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:00:43.000Z",
+    "title": "[New Testament] 1 John 4:8 ESV - Anyone who does not love does not know - Bible Gateway",
+    "detail": {
+      "name": "1 John 4:8 ESV - Anyone who does not love does not know - Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=1+John+4%3A8&version=ESV",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157773243000000
+    }
+  },
+  {
+    "id": "bookmark-19296",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:00:43.293Z",
+    "title": "[New Testament] 1 John 4:8 ESV - Anyone who does not love does not know - Bible Gateway",
+    "detail": {
+      "name": "1 John 4:8 ESV - Anyone who does not love does not know - Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=1+John+4%3A8&version=ESV",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157773243293258
+    }
+  },
+  {
+    "id": "bookmark-9563",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:27:38.000Z",
+    "title": "[New Testament] 2 Timothy 4:2 Preach the word; be prepared in season and out of season; correct, rebuke and encourage--with great patience and careful instruction.",
+    "detail": {
+      "name": "2 Timothy 4:2 Preach the word; be prepared in season and out of season; correct, rebuke and encourage--with great patience and careful instruction.",
+      "url": "http://biblehub.com/2_timothy/4-2.htm",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157774858000000
+    }
+  },
+  {
+    "id": "bookmark-19297",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:27:38.206Z",
+    "title": "[New Testament] 2 Timothy 4:2 Preach the word; be prepared in season and out of season; correct, rebuke and encourage--with great patience and careful instruction.",
+    "detail": {
+      "name": "2 Timothy 4:2 Preach the word; be prepared in season and out of season; correct, rebuke and encourage--with great patience and careful instruction.",
+      "url": "http://biblehub.com/2_timothy/4-2.htm",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157774858206476
+    }
+  },
+  {
+    "id": "bookmark-9564",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:28:48.000Z",
+    "title": "[New Testament] Romans 14 - NLT Bible - Bible Study Tools",
+    "detail": {
+      "name": "Romans 14 - NLT Bible - Bible Study Tools",
+      "url": "https://www.biblestudytools.com/nlt/romans/14.html",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157774928000000
+    }
+  },
+  {
+    "id": "bookmark-19298",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:28:48.318Z",
+    "title": "[New Testament] Romans 14 - NLT Bible - Bible Study Tools",
+    "detail": {
+      "name": "Romans 14 - NLT Bible - Bible Study Tools",
+      "url": "https://www.biblestudytools.com/nlt/romans/14.html",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157774928318844
+    }
+  },
+  {
+    "id": "bookmark-9565",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:45:59.000Z",
+    "title": "[New Testament] What Does the Bible Say About Twisting Gods Word?",
+    "detail": {
+      "name": "What Does the Bible Say About Twisting Gods Word?",
+      "url": "https://www.openbible.info/topics/twisting_gods_word",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157775959000000
+    }
+  },
+  {
+    "id": "bookmark-19299",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:45:59.815Z",
+    "title": "[New Testament] What Does the Bible Say About Twisting Gods Word?",
+    "detail": {
+      "name": "What Does the Bible Say About Twisting Gods Word?",
+      "url": "https://www.openbible.info/topics/twisting_gods_word",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157775959815296
+    }
+  },
+  {
+    "id": "bookmark-9566",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:46:07.000Z",
+    "title": "[New Testament] Genesis 39 ESV - Joseph and Potiphar's Wife - Now - Bible Gateway",
+    "detail": {
+      "name": "Genesis 39 ESV - Joseph and Potiphar's Wife - Now - Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Genesis+39&version=ESV",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157775967000000
+    }
+  },
+  {
+    "id": "bookmark-19300",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:46:07.801Z",
+    "title": "[New Testament] Genesis 39 ESV - Joseph and Potiphar's Wife - Now - Bible Gateway",
+    "detail": {
+      "name": "Genesis 39 ESV - Joseph and Potiphar's Wife - Now - Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Genesis+39&version=ESV",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157775967801500
+    }
+  },
+  {
+    "id": "bookmark-9567",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:46:10.000Z",
+    "title": "[New Testament] What Does the Bible Say About Spilling Your Seed In Whore?",
+    "detail": {
+      "name": "What Does the Bible Say About Spilling Your Seed In Whore?",
+      "url": "https://www.openbible.info/topics/spilling_your_seed_in_whore",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157775970000000
+    }
+  },
+  {
+    "id": "bookmark-19301",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:46:10.858Z",
+    "title": "[New Testament] What Does the Bible Say About Spilling Your Seed In Whore?",
+    "detail": {
+      "name": "What Does the Bible Say About Spilling Your Seed In Whore?",
+      "url": "https://www.openbible.info/topics/spilling_your_seed_in_whore",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157775970858640
+    }
+  },
+  {
+    "id": "bookmark-9568",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:47:49.000Z",
+    "title": "[New Testament] -Don’t Argue About Scripture!",
+    "detail": {
+      "name": "-Don’t Argue About Scripture!",
+      "url": "https://tafj.org/2011/08/18/don%E2%80%99t-argue-about-scripture/",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157776069000000
+    }
+  },
+  {
+    "id": "bookmark-19302",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:47:49.074Z",
+    "title": "[New Testament] -Don’t Argue About Scripture!",
+    "detail": {
+      "name": "-Don’t Argue About Scripture!",
+      "url": "https://tafj.org/2011/08/18/don%E2%80%99t-argue-about-scripture/",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157776069074288
+    }
+  },
+  {
+    "id": "bookmark-9569",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:52:07.000Z",
+    "title": "[New Testament] God Will Not Be Used | Unlocking the Bible",
+    "detail": {
+      "name": "God Will Not Be Used | Unlocking the Bible",
+      "url": "http://unlockingthebible.org/2016/09/god-will-not-be-used/",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157776327000000
+    }
+  },
+  {
+    "id": "bookmark-19303",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T01:52:07.376Z",
+    "title": "[New Testament] God Will Not Be Used | Unlocking the Bible",
+    "detail": {
+      "name": "God Will Not Be Used | Unlocking the Bible",
+      "url": "http://unlockingthebible.org/2016/09/god-will-not-be-used/",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157776327376178
+    }
+  },
+  {
+    "id": "bookmark-5731",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T02:28:16.000Z",
+    "title": "[Job sites] OpenCollective - A New Form of Association, Transparent by Design",
+    "detail": {
+      "name": "OpenCollective - A New Form of Association, Transparent by Design",
+      "url": "https://opencollective.com/",
+      "folderPath": "Job sites",
+      "lastFolder": "Job sites",
+      "timeUsec": 13157778496000000
+    }
+  },
+  {
+    "id": "bookmark-15778",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T02:28:16.869Z",
+    "title": "[Job sites] OpenCollective - A New Form of Association, Transparent by Design",
+    "detail": {
+      "name": "OpenCollective - A New Form of Association, Transparent by Design",
+      "url": "https://opencollective.com/",
+      "folderPath": "Job sites",
+      "lastFolder": "Job sites",
+      "timeUsec": 13157778496869766
+    }
+  },
+  {
+    "id": "bookmark-9570",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T02:56:07.000Z",
+    "title": "[New Testament] Fit to be Used | 2 Timothy 2:20-22 | RayStedman.org",
+    "detail": {
+      "name": "Fit to be Used | 2 Timothy 2:20-22 | RayStedman.org",
+      "url": "https://www.raystedman.org/new-testament/timothy/fit-to-be-used",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157780167000000
+    }
+  },
+  {
+    "id": "bookmark-19304",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T02:56:07.237Z",
+    "title": "[New Testament] Fit to be Used | 2 Timothy 2:20-22 | RayStedman.org",
+    "detail": {
+      "name": "Fit to be Used | 2 Timothy 2:20-22 | RayStedman.org",
+      "url": "https://www.raystedman.org/new-testament/timothy/fit-to-be-used",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13157780167237792
+    }
+  },
+  {
+    "id": "bookmark-1421",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T03:18:16.000Z",
+    "title": "[Frameworks] Backend Apps with Webpack (Part I)",
+    "detail": {
+      "name": "Backend Apps with Webpack (Part I)",
+      "url": "http://jlongster.com/Backend-Apps-with-Webpack--Part-I",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13157781496000000
+    }
+  },
+  {
+    "id": "bookmark-11618",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T03:18:16.040Z",
+    "title": "[Frameworks] Backend Apps with Webpack (Part I)",
+    "detail": {
+      "name": "Backend Apps with Webpack (Part I)",
+      "url": "http://jlongster.com/Backend-Apps-with-Webpack--Part-I",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13157781496040340
+    }
+  },
+  {
+    "id": "event-7vl85uv6og9fckisnuj14t1hjr@google.com",
+    "category": "events",
+    "timestamp": "2017-12-15T05:30:00.000Z",
+    "title": "[Diet] Ate too late",
+    "detail": {
+      "calendar": "Diet",
+      "summary": "Ate too late",
+      "description": "",
+      "location": "",
+      "start": "2017-12-15T05:30:00.000Z",
+      "end": "2017-12-15T06:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-37hb17016u84jdrq7o5huc2t7t@google.com",
+    "category": "events",
+    "timestamp": "2017-12-15T09:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-15T09:00:00.000Z",
+      "end": "2017-12-15T10:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5n62fshqdsvhbjvkc4od0s5kfl@google.com",
+    "category": "events",
+    "timestamp": "2017-12-15T10:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-15T10:00:00.000Z",
+      "end": "2017-12-15T11:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0k5703bqmf99v0m6b6lo7los3o@google.com",
+    "category": "events",
+    "timestamp": "2017-12-15T11:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-15T11:00:00.000Z",
+      "end": "2017-12-15T12:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-07leqbq53f7apgs1pugk8n68ej@google.com",
+    "category": "events",
+    "timestamp": "2017-12-15T12:00:00.000Z",
+    "title": "[Predictions] Weird dream about growling at a cat",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Weird dream about growling at a cat",
+      "description": "",
+      "location": "",
+      "start": "2017-12-15T12:00:00.000Z",
+      "end": "2017-12-15T13:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-1295",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T23:29:59.000Z",
+    "title": "[DevOps] dwyl/learn-aws-lambda: Learn how to use AWS Lambda to easily create infinitely scalable web services",
+    "detail": {
+      "name": "dwyl/learn-aws-lambda: Learn how to use AWS Lambda to easily create infinitely scalable web services",
+      "url": "https://github.com/dwyl/learn-aws-lambda#hello-world-example-zip",
+      "folderPath": "Computer Science/DevOps",
+      "lastFolder": "DevOps",
+      "timeUsec": 13157854199000000
+    }
+  },
+  {
+    "id": "bookmark-11492",
+    "category": "bookmarks",
+    "timestamp": "2017-12-15T23:29:59.342Z",
+    "title": "[DevOps] dwyl/learn-aws-lambda: Learn how to use AWS Lambda to easily create infinitely scalable web services",
+    "detail": {
+      "name": "dwyl/learn-aws-lambda: Learn how to use AWS Lambda to easily create infinitely scalable web services",
+      "url": "https://github.com/dwyl/learn-aws-lambda#hello-world-example-zip",
+      "folderPath": "Computer Science/DevOps",
+      "lastFolder": "DevOps",
+      "timeUsec": 13157854199342104
+    }
+  },
+  {
+    "id": "bookmark-5166",
+    "category": "bookmarks",
+    "timestamp": "2017-12-16T01:42:38.000Z",
+    "title": "[Nutrition] Great Smog of London - Wikipedia",
+    "detail": {
+      "name": "Great Smog of London - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Smog_of_London",
+      "folderPath": "Food/Health/Nutrition",
+      "lastFolder": "Nutrition",
+      "timeUsec": 13157862158000000
+    }
+  },
+  {
+    "id": "bookmark-15285",
+    "category": "bookmarks",
+    "timestamp": "2017-12-16T01:42:38.230Z",
+    "title": "[Nutrition] Great Smog of London - Wikipedia",
+    "detail": {
+      "name": "Great Smog of London - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Smog_of_London",
+      "folderPath": "Food/Health/Nutrition",
+      "lastFolder": "Nutrition",
+      "timeUsec": 13157862158230956
+    }
+  },
+  {
+    "id": "event-70qjgo9mc5i64b9icoq38b9k74qjebb1c5gj4bb670qjapj2chgjcdhp6o@google.com",
+    "category": "events",
+    "timestamp": "2017-12-16T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-16T06:00:00.000Z",
+      "end": "2017-12-16T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3jacsdnon95u77auqselg2ddjv@google.com",
+    "category": "events",
+    "timestamp": "2017-12-16T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-16T16:00:00.000Z",
+      "end": "2017-12-16T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6dim8p9hc4pm6b9p6sp3gb9kchh3eb9pc9gm4b9n61i32d9j60omacpj6g@google.com",
+    "category": "events",
+    "timestamp": "2017-12-18T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-18T06:00:00.000Z",
+      "end": "2017-12-18T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7pa5u69c7j9juqijh992sugaqo@google.com",
+    "category": "events",
+    "timestamp": "2017-12-18T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-18T19:00:00.000Z",
+      "end": "2017-12-18T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6ppqvs648eaeuchcndl8tbqr3d@google.com",
+    "category": "events",
+    "timestamp": "2017-12-18T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-18T20:00:00.000Z",
+      "end": "2017-12-18T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2dcodp8o7ftg11ucadhspp7it4@google.com",
+    "category": "events",
+    "timestamp": "2017-12-18T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-18T21:00:00.000Z",
+      "end": "2017-12-18T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2kg734c59p3msedqmp7grpidsu@google.com",
+    "category": "events",
+    "timestamp": "2017-12-19T16:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-19T16:00:00.000Z",
+      "end": "2017-12-19T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-chijic9oc8rjabb56cp38b9kccq3ib9o64pj6b9h6osmachoc9i3epj660@google.com",
+    "category": "events",
+    "timestamp": "2017-12-20T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-20T15:00:00.000Z",
+      "end": "2017-12-20T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7331",
+    "category": "bookmarks",
+    "timestamp": "2017-12-20T15:00:14.000Z",
+    "title": "[Recording] Ahuacatl by Electrocado on SoundCloud - Hear the world’s sounds",
+    "detail": {
+      "name": "Ahuacatl by Electrocado on SoundCloud - Hear the world’s sounds",
+      "url": "https://m.soundcloud.com/electrocado/ahuacatl",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13158255614000000
+    }
+  },
+  {
+    "id": "bookmark-17239",
+    "category": "bookmarks",
+    "timestamp": "2017-12-20T15:00:14.881Z",
+    "title": "[Recording] Ahuacatl by Electrocado on SoundCloud - Hear the world’s sounds",
+    "detail": {
+      "name": "Ahuacatl by Electrocado on SoundCloud - Hear the world’s sounds",
+      "url": "https://m.soundcloud.com/electrocado/ahuacatl",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13158255614881748
+    }
+  },
+  {
+    "id": "bookmark-5732",
+    "category": "bookmarks",
+    "timestamp": "2017-12-20T15:53:18.000Z",
+    "title": "[Job sites] Funding Yourself As A Free Software Developer",
+    "detail": {
+      "name": "Funding Yourself As A Free Software Developer",
+      "url": "https://tyil.nl/articles/funding-yourself-as-free-software-developer.html",
+      "folderPath": "Job sites",
+      "lastFolder": "Job sites",
+      "timeUsec": 13158258798000000
+    }
+  },
+  {
+    "id": "bookmark-15779",
+    "category": "bookmarks",
+    "timestamp": "2017-12-20T15:53:18.540Z",
+    "title": "[Job sites] Funding Yourself As A Free Software Developer",
+    "detail": {
+      "name": "Funding Yourself As A Free Software Developer",
+      "url": "https://tyil.nl/articles/funding-yourself-as-free-software-developer.html",
+      "folderPath": "Job sites",
+      "lastFolder": "Job sites",
+      "timeUsec": 13158258798540006
+    }
+  },
+  {
+    "id": "event-47qmo0tdbnqhpson75a84usdd1@google.com",
+    "category": "events",
+    "timestamp": "2017-12-20T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-20T16:00:00.000Z",
+      "end": "2017-12-20T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-1296",
+    "category": "bookmarks",
+    "timestamp": "2017-12-20T19:13:54.000Z",
+    "title": "[DevOps] mishoo/UglifyJS2 at harmony",
+    "detail": {
+      "name": "mishoo/UglifyJS2 at harmony",
+      "url": "https://github.com/mishoo/UglifyJS2/tree/harmony#compress-options",
+      "folderPath": "Computer Science/DevOps",
+      "lastFolder": "DevOps",
+      "timeUsec": 13158270834000000
+    }
+  },
+  {
+    "id": "bookmark-11493",
+    "category": "bookmarks",
+    "timestamp": "2017-12-20T19:13:54.785Z",
+    "title": "[DevOps] mishoo/UglifyJS2 at harmony",
+    "detail": {
+      "name": "mishoo/UglifyJS2 at harmony",
+      "url": "https://github.com/mishoo/UglifyJS2/tree/harmony#compress-options",
+      "folderPath": "Computer Science/DevOps",
+      "lastFolder": "DevOps",
+      "timeUsec": 13158270834785924
+    }
+  },
+  {
+    "id": "bookmark-3741",
+    "category": "bookmarks",
+    "timestamp": "2017-12-20T20:06:40.000Z",
+    "title": "[Privacy] Veles - Binary Analysis Tool - CodiSec CodiSec",
+    "detail": {
+      "name": "Veles - Binary Analysis Tool - CodiSec CodiSec",
+      "url": "https://codisec.com/veles/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13158274000000000
+    }
+  },
+  {
+    "id": "bookmark-13800",
+    "category": "bookmarks",
+    "timestamp": "2017-12-20T20:06:40.055Z",
+    "title": "[Privacy] Veles - Binary Analysis Tool - CodiSec CodiSec",
+    "detail": {
+      "name": "Veles - Binary Analysis Tool - CodiSec CodiSec",
+      "url": "https://codisec.com/veles/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13158274000055316
+    }
+  },
+  {
+    "id": "event-6sa65e8d4bmdv0j3nnn944meo7@google.com",
+    "category": "events",
+    "timestamp": "2017-12-21T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-21T05:30:00.000Z",
+      "end": "2017-12-21T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4dbk2f68v6r4cv7igmtdv2k7vq@google.com",
+    "category": "events",
+    "timestamp": "2017-12-21T11:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-21T11:30:00.000Z",
+      "end": "2017-12-21T12:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0riemqdlt4s3vjc8ou19q626aa@google.com",
+    "category": "events",
+    "timestamp": "2017-12-21T14:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-21T14:00:00.000Z",
+      "end": "2017-12-21T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-41perh0gk4e659o9f01jvsq1nf@google.com",
+    "category": "events",
+    "timestamp": "2017-12-21T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-21T15:00:00.000Z",
+      "end": "2017-12-21T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0hplcjraq1757t6g0q5ltehjs4@google.com",
+    "category": "events",
+    "timestamp": "2017-12-21T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-21T16:00:00.000Z",
+      "end": "2017-12-21T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0a31kn3h13rfl3q9lkllsqfsid@google.com",
+    "category": "events",
+    "timestamp": "2017-12-21T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-21T17:00:00.000Z",
+      "end": "2017-12-21T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-5167",
+    "category": "bookmarks",
+    "timestamp": "2017-12-21T19:50:36.000Z",
+    "title": "[Nutrition] A Federal Ban on Making Lethal Viruses Is Lifted - The New York Times",
+    "detail": {
+      "name": "A Federal Ban on Making Lethal Viruses Is Lifted - The New York Times",
+      "url": "https://www.nytimes.com/2017/12/19/health/lethal-viruses-nih.html",
+      "folderPath": "Food/Health/Nutrition",
+      "lastFolder": "Nutrition",
+      "timeUsec": 13158359436000000
+    }
+  },
+  {
+    "id": "bookmark-15286",
+    "category": "bookmarks",
+    "timestamp": "2017-12-21T19:50:36.717Z",
+    "title": "[Nutrition] A Federal Ban on Making Lethal Viruses Is Lifted - The New York Times",
+    "detail": {
+      "name": "A Federal Ban on Making Lethal Viruses Is Lifted - The New York Times",
+      "url": "https://www.nytimes.com/2017/12/19/health/lethal-viruses-nih.html",
+      "folderPath": "Food/Health/Nutrition",
+      "lastFolder": "Nutrition",
+      "timeUsec": 13158359436717532
+    }
+  },
+  {
+    "id": "bookmark-8962",
+    "category": "bookmarks",
+    "timestamp": "2017-12-21T20:11:06.000Z",
+    "title": "[Politics] This Brilliant Comic Strip On Rich Vs Poor Upbringing Will Humble You",
+    "detail": {
+      "name": "This Brilliant Comic Strip On Rich Vs Poor Upbringing Will Humble You",
+      "url": "https://digitalsynopsis.com/inspiration/privileged-kids-on-a-plate-pencilsword-toby-morris/",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13158360666000000
+    }
+  },
+  {
+    "id": "bookmark-18732",
+    "category": "bookmarks",
+    "timestamp": "2017-12-21T20:11:06.955Z",
+    "title": "[Politics] This Brilliant Comic Strip On Rich Vs Poor Upbringing Will Humble You",
+    "detail": {
+      "name": "This Brilliant Comic Strip On Rich Vs Poor Upbringing Will Humble You",
+      "url": "https://digitalsynopsis.com/inspiration/privileged-kids-on-a-plate-pencilsword-toby-morris/",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13158360666955892
+    }
+  },
+  {
+    "id": "bookmark-9877",
+    "category": "bookmarks",
+    "timestamp": "2017-12-21T23:44:52.000Z",
+    "title": "[Theology] Microsoft Word - A Boiled Seed Cannot Sprout.doc",
+    "detail": {
+      "name": "Microsoft Word - A Boiled Seed Cannot Sprout.doc",
+      "url": "http://www.greatexpectations.org/Websites/greatexpectations/images/pdf/exp8/A%20Boiled%20Seed%20Cannot%20Sprout.pdf",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13158373492000000
+    }
+  },
+  {
+    "id": "bookmark-19596",
+    "category": "bookmarks",
+    "timestamp": "2017-12-21T23:44:52.109Z",
+    "title": "[Theology] Microsoft Word - A Boiled Seed Cannot Sprout.doc",
+    "detail": {
+      "name": "Microsoft Word - A Boiled Seed Cannot Sprout.doc",
+      "url": "http://www.greatexpectations.org/Websites/greatexpectations/images/pdf/exp8/A%20Boiled%20Seed%20Cannot%20Sprout.pdf",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13158373492109312
+    }
+  },
+  {
+    "id": "event-36cv2m4bnoaoofetuceofrnv5r@google.com",
+    "category": "events",
+    "timestamp": "2017-12-22T03:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-22T03:00:00.000Z",
+      "end": "2017-12-22T04:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6kqj6cj6cgq6cbb2ccsm8b9k75gm8bb16ksj0bb16sqm4d9g65gmce9mc4@google.com",
+    "category": "events",
+    "timestamp": "2017-12-22T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-22T06:00:00.000Z",
+      "end": "2017-12-22T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-9882",
+    "category": "bookmarks",
+    "timestamp": "2017-12-22T18:59:35.000Z",
+    "title": "[Theology] Number of Abortions in US & Worldwide - Number of abortions since 1973",
+    "detail": {
+      "name": "Number of Abortions in US & Worldwide - Number of abortions since 1973",
+      "url": "http://www.numberofabortions.com/",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13158442775000000
+    }
+  },
+  {
+    "id": "bookmark-19601",
+    "category": "bookmarks",
+    "timestamp": "2017-12-22T18:59:35.150Z",
+    "title": "[Theology] Number of Abortions in US & Worldwide - Number of abortions since 1973",
+    "detail": {
+      "name": "Number of Abortions in US & Worldwide - Number of abortions since 1973",
+      "url": "http://www.numberofabortions.com/",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13158442775150740
+    }
+  },
+  {
+    "id": "bookmark-4107",
+    "category": "bookmarks",
+    "timestamp": "2017-12-22T19:54:51.000Z",
+    "title": "[Computability] Remarks at the SASE Panel On The Moral Economy of Tech",
+    "detail": {
+      "name": "Remarks at the SASE Panel On The Moral Economy of Tech",
+      "url": "http://idlewords.com/talks/sase_panel.htm",
+      "folderPath": "Computer Science/Theory/Computability",
+      "lastFolder": "Computability",
+      "timeUsec": 13158446091000000
+    }
+  },
+  {
+    "id": "bookmark-14177",
+    "category": "bookmarks",
+    "timestamp": "2017-12-22T19:54:51.427Z",
+    "title": "[Computability] Remarks at the SASE Panel On The Moral Economy of Tech",
+    "detail": {
+      "name": "Remarks at the SASE Panel On The Moral Economy of Tech",
+      "url": "http://idlewords.com/talks/sase_panel.htm",
+      "folderPath": "Computer Science/Theory/Computability",
+      "lastFolder": "Computability",
+      "timeUsec": 13158446091427078
+    }
+  },
+  {
+    "id": "event-ckqm2ohk6hh3abb574o36b9k6gqmcb9pcgr6cbb374rmcchj60p34c9jc4@google.com",
+    "category": "events",
+    "timestamp": "2017-12-23T15:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-23T15:00:00.000Z",
+      "end": "2017-12-23T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-8963",
+    "category": "bookmarks",
+    "timestamp": "2017-12-23T22:35:32.000Z",
+    "title": "[Politics] Ethereum (ETH) $755.82 (8.10%) | CoinMarketCap",
+    "detail": {
+      "name": "Ethereum (ETH) $755.82 (8.10%) | CoinMarketCap",
+      "url": "https://coinmarketcap.com/currencies/ethereum/#markets",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13158542132000000
+    }
+  },
+  {
+    "id": "bookmark-18733",
+    "category": "bookmarks",
+    "timestamp": "2017-12-23T22:35:32.038Z",
+    "title": "[Politics] Ethereum (ETH) $755.82 (8.10%) | CoinMarketCap",
+    "detail": {
+      "name": "Ethereum (ETH) $755.82 (8.10%) | CoinMarketCap",
+      "url": "https://coinmarketcap.com/currencies/ethereum/#markets",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13158542132038988
+    }
+  },
+  {
+    "id": "bookmark-7332",
+    "category": "bookmarks",
+    "timestamp": "2017-12-24T00:50:39.000Z",
+    "title": "[Recording] M83 'Midnight City' Official video - YouTube",
+    "detail": {
+      "name": "M83 'Midnight City' Official video - YouTube",
+      "url": "https://www.youtube.com/watch?v=dX3k_QDnzHE",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13158550239000000
+    }
+  },
+  {
+    "id": "bookmark-17240",
+    "category": "bookmarks",
+    "timestamp": "2017-12-24T00:50:39.389Z",
+    "title": "[Recording] M83 'Midnight City' Official video - YouTube",
+    "detail": {
+      "name": "M83 'Midnight City' Official video - YouTube",
+      "url": "https://www.youtube.com/watch?v=dX3k_QDnzHE",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13158550239389546
+    }
+  },
+  {
+    "id": "bookmark-53",
+    "category": "bookmarks",
+    "timestamp": "2017-12-24T01:07:39.000Z",
+    "title": "[Entertainment] Alexandra Marzella's Unapologetic Nude Self-Portraits | Like Art - YouTube",
+    "detail": {
+      "name": "Alexandra Marzella's Unapologetic Nude Self-Portraits | Like Art - YouTube",
+      "url": "https://www.youtube.com/watch?v=4vCXYHkQsPs",
+      "folderPath": "Arts/Entertainment",
+      "lastFolder": "Entertainment",
+      "timeUsec": 13158551259000000
+    }
+  },
+  {
+    "id": "bookmark-10395",
+    "category": "bookmarks",
+    "timestamp": "2017-12-24T01:07:39.171Z",
+    "title": "[Entertainment] Alexandra Marzella's Unapologetic Nude Self-Portraits | Like Art - YouTube",
+    "detail": {
+      "name": "Alexandra Marzella's Unapologetic Nude Self-Portraits | Like Art - YouTube",
+      "url": "https://www.youtube.com/watch?v=4vCXYHkQsPs",
+      "folderPath": "Arts/Entertainment",
+      "lastFolder": "Entertainment",
+      "timeUsec": 13158551259171194
+    }
+  },
+  {
+    "id": "event-6ibg2mp7rofrer773cqer8p35o@google.com",
+    "category": "events",
+    "timestamp": "2017-12-24T23:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-24T23:30:00.000Z",
+      "end": "2017-12-25T00:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7333",
+    "category": "bookmarks",
+    "timestamp": "2017-12-25T07:46:47.000Z",
+    "title": "[Recording] Hodgy, Domo Genesis And Tyler, The Creator- Rella - YouTube",
+    "detail": {
+      "name": "Hodgy, Domo Genesis And Tyler, The Creator- Rella - YouTube",
+      "url": "https://www.youtube.com/watch?v=fN-xq7t6pKw",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13158661607000000
+    }
+  },
+  {
+    "id": "bookmark-17241",
+    "category": "bookmarks",
+    "timestamp": "2017-12-25T07:46:47.709Z",
+    "title": "[Recording] Hodgy, Domo Genesis And Tyler, The Creator- Rella - YouTube",
+    "detail": {
+      "name": "Hodgy, Domo Genesis And Tyler, The Creator- Rella - YouTube",
+      "url": "https://www.youtube.com/watch?v=fN-xq7t6pKw",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13158661607709264
+    }
+  },
+  {
+    "id": "bookmark-7334",
+    "category": "bookmarks",
+    "timestamp": "2017-12-25T07:50:34.000Z",
+    "title": "[Recording] Dirt Nasty - \"1980\" - YouTube",
+    "detail": {
+      "name": "Dirt Nasty - \"1980\" - YouTube",
+      "url": "https://www.youtube.com/watch?v=xfNluQ888g4",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13158661834000000
+    }
+  },
+  {
+    "id": "bookmark-17242",
+    "category": "bookmarks",
+    "timestamp": "2017-12-25T07:50:34.971Z",
+    "title": "[Recording] Dirt Nasty - \"1980\" - YouTube",
+    "detail": {
+      "name": "Dirt Nasty - \"1980\" - YouTube",
+      "url": "https://www.youtube.com/watch?v=xfNluQ888g4",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13158661834971748
+    }
+  },
+  {
+    "id": "bookmark-7335",
+    "category": "bookmarks",
+    "timestamp": "2017-12-25T07:52:56.000Z",
+    "title": "[Recording] NEATO - Three Loco - OFFICIAL MUSIC VIDEO - YouTube",
+    "detail": {
+      "name": "NEATO - Three Loco - OFFICIAL MUSIC VIDEO - YouTube",
+      "url": "https://www.youtube.com/watch?v=Gkxolne0U5U",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13158661976000000
+    }
+  },
+  {
+    "id": "bookmark-17243",
+    "category": "bookmarks",
+    "timestamp": "2017-12-25T07:52:56.646Z",
+    "title": "[Recording] NEATO - Three Loco - OFFICIAL MUSIC VIDEO - YouTube",
+    "detail": {
+      "name": "NEATO - Three Loco - OFFICIAL MUSIC VIDEO - YouTube",
+      "url": "https://www.youtube.com/watch?v=Gkxolne0U5U",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13158661976646608
+    }
+  },
+  {
+    "id": "event-fd6hmpfujug6k3nbq1urkv969o@google.com",
+    "category": "events",
+    "timestamp": "2017-12-25T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-25T19:00:00.000Z",
+      "end": "2017-12-25T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6hib5jcqavq0m1jrjleupidpl3@google.com",
+    "category": "events",
+    "timestamp": "2017-12-26T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-26T05:00:00.000Z",
+      "end": "2017-12-26T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70bu8fno8pmmsrc2aulpks36av@google.com",
+    "category": "events",
+    "timestamp": "2017-12-26T14:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-26T14:00:00.000Z",
+      "end": "2017-12-26T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-6590",
+    "category": "bookmarks",
+    "timestamp": "2017-12-26T15:50:12.000Z",
+    "title": "[SEO] Net Promoter Score Considered Harmful (and What UX Professionals Can Do About It)",
+    "detail": {
+      "name": "Net Promoter Score Considered Harmful (and What UX Professionals Can Do About It)",
+      "url": "https://blog.usejournal.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430",
+      "folderPath": "Marketing/SEO",
+      "lastFolder": "SEO",
+      "timeUsec": 13158777012000000
+    }
+  },
+  {
+    "id": "bookmark-16570",
+    "category": "bookmarks",
+    "timestamp": "2017-12-26T15:50:12.447Z",
+    "title": "[SEO] Net Promoter Score Considered Harmful (and What UX Professionals Can Do About It)",
+    "detail": {
+      "name": "Net Promoter Score Considered Harmful (and What UX Professionals Can Do About It)",
+      "url": "https://blog.usejournal.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430",
+      "folderPath": "Marketing/SEO",
+      "lastFolder": "SEO",
+      "timeUsec": 13158777012447756
+    }
+  },
+  {
+    "id": "event-5hoiqvve2fgagm2pp6oqcbdr08@google.com",
+    "category": "events",
+    "timestamp": "2017-12-26T16:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-26T16:30:00.000Z",
+      "end": "2017-12-26T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3ss9pnoc63agglj84vo569hneh@google.com",
+    "category": "events",
+    "timestamp": "2017-12-26T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-26T17:30:00.000Z",
+      "end": "2017-12-26T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4ld3l9377ll4ik17n0eshqtsph@google.com",
+    "category": "events",
+    "timestamp": "2017-12-27T14:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-27T14:30:00.000Z",
+      "end": "2017-12-27T15:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2403",
+    "category": "bookmarks",
+    "timestamp": "2017-12-27T14:56:48.000Z",
+    "title": "[Languages] A pattern language for microservices",
+    "detail": {
+      "name": "A pattern language for microservices",
+      "url": "http://microservices.io/patterns/",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13158860208000000
+    }
+  },
+  {
+    "id": "bookmark-12605",
+    "category": "bookmarks",
+    "timestamp": "2017-12-27T14:56:48.162Z",
+    "title": "[Languages] A pattern language for microservices",
+    "detail": {
+      "name": "A pattern language for microservices",
+      "url": "http://microservices.io/patterns/",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13158860208162656
+    }
+  },
+  {
+    "id": "bookmark-1162",
+    "category": "bookmarks",
+    "timestamp": "2017-12-27T17:18:24.000Z",
+    "title": "[Databases] GitBook · Documentation made easy",
+    "detail": {
+      "name": "GitBook · Documentation made easy",
+      "url": "https://www.gitbook.com/",
+      "folderPath": "Computer Science/Databases",
+      "lastFolder": "Databases",
+      "timeUsec": 13158868704000000
+    }
+  },
+  {
+    "id": "bookmark-11358",
+    "category": "bookmarks",
+    "timestamp": "2017-12-27T17:18:24.936Z",
+    "title": "[Databases] GitBook · Documentation made easy",
+    "detail": {
+      "name": "GitBook · Documentation made easy",
+      "url": "https://www.gitbook.com/",
+      "folderPath": "Computer Science/Databases",
+      "lastFolder": "Databases",
+      "timeUsec": 13158868704936304
+    }
+  },
+  {
+    "id": "event-c8r38cj4cpgjib9m69hjeb9k6orjebb2cli34bb66or3gd3274p6cd3464@google.com",
+    "category": "events",
+    "timestamp": "2017-12-27T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-27T20:00:00.000Z",
+      "end": "2017-12-27T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c5h6cdr560qm2b9m6dj3cb9kcdh62bb2cdij6bb46pj34c9pccq68d9h6g@google.com",
+    "category": "events",
+    "timestamp": "2017-12-27T23:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-27T23:00:00.000Z",
+      "end": "2017-12-28T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7658",
+    "category": "bookmarks",
+    "timestamp": "2017-12-28T01:00:04.000Z",
+    "title": "[Family] Debunking Myths About Estrangement - The New York Times",
+    "detail": {
+      "name": "Debunking Myths About Estrangement - The New York Times",
+      "url": "https://www.nytimes.com/2017/12/20/well/family/debunking-myths-about-estrangement.html?smprod=nytcore-ipad&smid=nytcore-ipad-share",
+      "folderPath": "Parenting/Family",
+      "lastFolder": "Family",
+      "timeUsec": 13158896404000000
+    }
+  },
+  {
+    "id": "bookmark-17547",
+    "category": "bookmarks",
+    "timestamp": "2017-12-28T01:00:04.371Z",
+    "title": "[Parenting] Debunking Myths About Estrangement - The New York Times",
+    "detail": {
+      "name": "Debunking Myths About Estrangement - The New York Times",
+      "url": "https://www.nytimes.com/2017/12/20/well/family/debunking-myths-about-estrangement.html?smprod=nytcore-ipad&smid=nytcore-ipad-share",
+      "folderPath": "Parenting",
+      "lastFolder": "Parenting",
+      "timeUsec": 13158896404371770
+    }
+  },
+  {
+    "id": "bookmark-8964",
+    "category": "bookmarks",
+    "timestamp": "2017-12-28T01:00:33.000Z",
+    "title": "[Politics] How Facebook’s Political Unit Enables the Dark Art of Digital Propaganda - Bloomberg",
+    "detail": {
+      "name": "How Facebook’s Political Unit Enables the Dark Art of Digital Propaganda - Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2017-12-21/inside-the-facebook-team-helping-regimes-that-reach-out-and-crack-down",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13158896433000000
+    }
+  },
+  {
+    "id": "bookmark-18734",
+    "category": "bookmarks",
+    "timestamp": "2017-12-28T01:00:33.493Z",
+    "title": "[Politics] How Facebook’s Political Unit Enables the Dark Art of Digital Propaganda - Bloomberg",
+    "detail": {
+      "name": "How Facebook’s Political Unit Enables the Dark Art of Digital Propaganda - Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2017-12-21/inside-the-facebook-team-helping-regimes-that-reach-out-and-crack-down",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13158896433493022
+    }
+  },
+  {
+    "id": "bookmark-465",
+    "category": "bookmarks",
+    "timestamp": "2017-12-28T14:58:54.000Z",
+    "title": "[Machine learning] Understanding image histograms with OpenCV",
+    "detail": {
+      "name": "Understanding image histograms with OpenCV",
+      "url": "http://lmcaraig.com/image-histograms-histograms-equalization-and-histograms-comparison/",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13158946734000000
+    }
+  },
+  {
+    "id": "bookmark-10865",
+    "category": "bookmarks",
+    "timestamp": "2017-12-28T14:58:54.965Z",
+    "title": "[Machine learning] Understanding image histograms with OpenCV",
+    "detail": {
+      "name": "Understanding image histograms with OpenCV",
+      "url": "http://lmcaraig.com/image-histograms-histograms-equalization-and-histograms-comparison/",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13158946734965956
+    }
+  },
+  {
+    "id": "bookmark-4708",
+    "category": "bookmarks",
+    "timestamp": "2017-12-28T15:03:04.000Z",
+    "title": "[Education] “Build an audience? Bah. I’m a nobody.” – Signal v. Noise",
+    "detail": {
+      "name": "“Build an audience? Bah. I’m a nobody.” – Signal v. Noise",
+      "url": "https://m.signalvnoise.com/build-an-audience-bah-im-a-nobody-2cbb4429fab0",
+      "folderPath": "Education",
+      "lastFolder": "Education",
+      "timeUsec": 13158946984000000
+    }
+  },
+  {
+    "id": "bookmark-14835",
+    "category": "bookmarks",
+    "timestamp": "2017-12-28T15:03:04.409Z",
+    "title": "[Education] “Build an audience? Bah. I’m a nobody.” – Signal v. Noise",
+    "detail": {
+      "name": "“Build an audience? Bah. I’m a nobody.” – Signal v. Noise",
+      "url": "https://m.signalvnoise.com/build-an-audience-bah-im-a-nobody-2cbb4429fab0",
+      "folderPath": "Education",
+      "lastFolder": "Education",
+      "timeUsec": 13158946984409686
+    }
+  },
+  {
+    "id": "bookmark-1422",
+    "category": "bookmarks",
+    "timestamp": "2017-12-29T03:49:30.000Z",
+    "title": "[Frameworks] Angular: Dynamically inserting SVG into an element",
+    "detail": {
+      "name": "Angular: Dynamically inserting SVG into an element",
+      "url": "http://www.chrisjmendez.com/2017/06/17/angular-dynamically-inserting-svg-into-an-element/",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13158992970000000
+    }
+  },
+  {
+    "id": "bookmark-11619",
+    "category": "bookmarks",
+    "timestamp": "2017-12-29T03:49:30.512Z",
+    "title": "[Frameworks] Angular: Dynamically inserting SVG into an element",
+    "detail": {
+      "name": "Angular: Dynamically inserting SVG into an element",
+      "url": "http://www.chrisjmendez.com/2017/06/17/angular-dynamically-inserting-svg-into-an-element/",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13158992970512498
+    }
+  },
+  {
+    "id": "event-68q6acr3cpi68b9h6gs3ab9kckpjgb9p6opm4b9n6hhj4phgclijiopp6o@google.com",
+    "category": "events",
+    "timestamp": "2017-12-30T00:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-30T00:00:00.000Z",
+      "end": "2017-12-30T01:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-8965",
+    "category": "bookmarks",
+    "timestamp": "2017-12-30T17:03:32.000Z",
+    "title": "[Politics] media.ccc.de - Dude, you broke the Future!",
+    "detail": {
+      "name": "media.ccc.de - Dude, you broke the Future!",
+      "url": "https://media.ccc.de/v/34c3-9270-dude_you_broke_the_future#t=2",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13159127012000000
+    }
+  },
+  {
+    "id": "bookmark-18735",
+    "category": "bookmarks",
+    "timestamp": "2017-12-30T17:03:32.955Z",
+    "title": "[Politics] media.ccc.de - Dude, you broke the Future!",
+    "detail": {
+      "name": "media.ccc.de - Dude, you broke the Future!",
+      "url": "https://media.ccc.de/v/34c3-9270-dude_you_broke_the_future#t=2",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13159127012955388
+    }
+  },
+  {
+    "id": "bookmark-3742",
+    "category": "bookmarks",
+    "timestamp": "2017-12-31T02:16:09.000Z",
+    "title": "[Privacy] Spamnesty - Home",
+    "detail": {
+      "name": "Spamnesty - Home",
+      "url": "https://spa.mnesty.com/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13159160169000000
+    }
+  },
+  {
+    "id": "bookmark-13801",
+    "category": "bookmarks",
+    "timestamp": "2017-12-31T02:16:09.038Z",
+    "title": "[Privacy] Spamnesty - Home",
+    "detail": {
+      "name": "Spamnesty - Home",
+      "url": "https://spa.mnesty.com/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13159160169038508
+    }
+  },
+  {
+    "id": "event-c9hj4or6clh64b9i6srj8b9kckr38bb168qm8b9j60qm6d9i65gj8ohg6k@google.com",
+    "category": "events",
+    "timestamp": "2017-12-31T15:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-12-31T15:00:00.000Z",
+      "end": "2017-12-31T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-450",
+    "category": "bookmarks",
+    "timestamp": "2017-12-31T17:04:21.000Z",
+    "title": "[Machine learning] Automatically Detect and Recognize Text in Natural Images - MATLAB & Simulink",
+    "detail": {
+      "name": "Automatically Detect and Recognize Text in Natural Images - MATLAB & Simulink",
+      "url": "https://www.mathworks.com/help/vision/examples/automatically-detect-and-recognize-text-in-natural-images.html?s_tid=gn_loc_drop",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13159213461000000
+    }
+  },
+  {
+    "id": "bookmark-10850",
+    "category": "bookmarks",
+    "timestamp": "2017-12-31T17:04:21.204Z",
+    "title": "[Machine learning] Automatically Detect and Recognize Text in Natural Images - MATLAB & Simulink",
+    "detail": {
+      "name": "Automatically Detect and Recognize Text in Natural Images - MATLAB & Simulink",
+      "url": "https://www.mathworks.com/help/vision/examples/automatically-detect-and-recognize-text-in-natural-images.html?s_tid=gn_loc_drop",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13159213461204448
+    }
+  },
+  {
+    "id": "bookmark-573",
+    "category": "bookmarks",
+    "timestamp": "2017-12-31T17:09:19.000Z",
+    "title": "[Data structures] In python, how can I distinguish between a human readible word and random string? - Stack Overflow",
+    "detail": {
+      "name": "In python, how can I distinguish between a human readible word and random string? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/18717536/in-python-how-can-i-distinguish-between-a-human-readible-word-and-random-string",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13159213759000000
+    }
+  },
+  {
+    "id": "bookmark-11013",
+    "category": "bookmarks",
+    "timestamp": "2017-12-31T17:09:19.842Z",
+    "title": "[Data structures] In python, how can I distinguish between a human readible word and random string? - Stack Overflow",
+    "detail": {
+      "name": "In python, how can I distinguish between a human readible word and random string? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/18717536/in-python-how-can-i-distinguish-between-a-human-readible-word-and-random-string",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13159213759842306
+    }
+  },
+  {
+    "id": "event-0l9pglg4ge6p0k1crmnimgge44@google.com",
+    "category": "events",
+    "timestamp": "2018-01-01T04:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-01T04:00:00.000Z",
+      "end": "2018-01-01T05:00:00.000Z",
+      "isPublic": false
+    }
+  }
+]

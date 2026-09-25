@@ -1,0 +1,17 @@
+[
+  {
+    "id": "event-{bef0243c-09a5-422a-8c9e-58379a09046f}",
+    "category": "events",
+    "timestamp": "2012-08-02T20:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "Pinnacle Nissan with Noel Estrada",
+      "start": "2012-08-02T20:30:00.000Z",
+      "end": "2012-08-02T21:00:00.000Z",
+      "isPublic": false
+    }
+  }
+]

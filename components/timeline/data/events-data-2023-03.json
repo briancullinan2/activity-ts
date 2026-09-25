@@ -1,0 +1,977 @@
+[
+  {
+    "id": "event-6ph32pb16opjcb9gcor6ab9k6ss6abb26hi3ab9n75gm8db6c4o30dj66k@google.com",
+    "category": "events",
+    "timestamp": "2023-03-01T10:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-01T10:00:00.000Z",
+      "end": "2023-03-01T11:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-64sj8e9hcgp68b9h6csjeb9kcdj3ab9p6tgjib9l64sjcpho74p3ec36cc@google.com",
+    "category": "events",
+    "timestamp": "2023-03-02T17:45:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-02T17:45:00.000Z",
+      "end": "2023-03-02T18:45:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-60p36p9icoq34bb2cdgjab9k6thj6bb2cgp34bb5c8omcob368oj6o9h60@google.com",
+    "category": "events",
+    "timestamp": "2023-03-02T19:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-02T19:30:00.000Z",
+      "end": "2023-03-02T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c9im6ob36lgm8b9ncco6ab9k60om4b9p75ij6bb371gjcd346hj66ob1co@google.com",
+    "category": "events",
+    "timestamp": "2023-03-03T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-03T05:30:00.000Z",
+      "end": "2023-03-03T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6hgj4dhpcop30b9j68pmab9k60r64b9p6lgm8b9m70qj4d3361h30p9ncc@google.com",
+    "category": "events",
+    "timestamp": "2023-03-03T15:00:00.000Z",
+    "title": "[Revelation] Sophia is the one looking in on 3D reality, wondering how the Fermi paradox plays out. Then I must give up a piece of my soul to help Sophia find whoever gave up a part of their to create her. This would consolidate the idea of fear relating to time/distance in physics.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Sophia is the one looking in on 3D reality, wondering how the Fermi paradox plays out. Then I must give up a piece of my soul to help Sophia find whoever gave up a part of their to create her. This would consolidate the idea of fear relating to time/distance in physics.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-03T15:00:00.000Z",
+      "end": "2023-03-03T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-61i3gc1j6osmcb9o70pm2b9kcgs64bb26kq64bb1ccqm4cb6chi30opncg@google.com",
+    "category": "events",
+    "timestamp": "2023-03-05T01:30:00.000Z",
+    "title": "[Predictions] Dream there was a mouse in the house and i threw an unfamiliar cat outside",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream there was a mouse in the house and i threw an unfamiliar cat outside",
+      "description": "",
+      "location": "",
+      "start": "2023-03-05T01:30:00.000Z",
+      "end": "2023-03-05T02:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c9hjcdj1cgq30b9lccpmcb9k6di32b9o6gpm2b9m64q6acpnclh66c9p6c@google.com",
+    "category": "events",
+    "timestamp": "2023-03-05T06:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-05T06:30:00.000Z",
+      "end": "2023-03-05T07:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-71h68p326so36bb66lijcb9k6kp64bb161h3eb9o65j34c9icph34pb56s@google.com",
+    "category": "events",
+    "timestamp": "2023-03-05T12:30:00.000Z",
+    "title": "[Predictions] Dream about trying to make Iga fall asleep on me by giving her a massage",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream about trying to make Iga fall asleep on me by giving her a massage",
+      "description": "",
+      "location": "",
+      "start": "2023-03-05T12:30:00.000Z",
+      "end": "2023-03-05T13:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-74qjeeb3cgo34b9h68pm4b9k6crm8bb161ijibb3coq30e9h60q62p1m74@google.com",
+    "category": "events",
+    "timestamp": "2023-03-06T02:30:00.000Z",
+    "title": "[Revelation] Sounds more like the Ad were destroyed by slicing not by literal wind. Isn't a violent army sometimes referred to as \"wind\" from directions?",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Sounds more like the Ad were destroyed by slicing not by literal wind. Isn't a violent army sometimes referred to as \"wind\" from directions?",
+      "description": "",
+      "location": "",
+      "start": "2023-03-06T02:30:00.000Z",
+      "end": "2023-03-06T03:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cgpj6c9g6orj6b9h64pjcb9k64o68bb1cph64b9icoo62c34coqjcdpm6o@google.com",
+    "category": "events",
+    "timestamp": "2023-03-06T04:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-06T04:30:00.000Z",
+      "end": "2023-03-06T05:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-clgj2or1c4p64bb36gp3ib9kcpimab9o68p3ebb56sr62d9p75j62dr66c@google.com",
+    "category": "events",
+    "timestamp": "2023-03-06T05:30:00.000Z",
+    "title": "[Revelation] Our mortal bodies are like the uncanny valley version of our souls, the human body is complicated like every industry because people need something to focus on. Our form is meant to scare is into staying attached to our bodies.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Our mortal bodies are like the uncanny valley version of our souls, the human body is complicated like every industry because people need something to focus on. Our form is meant to scare is into staying attached to our bodies.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-06T05:30:00.000Z",
+      "end": "2023-03-06T06:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6gqj2o9i65h38b9o74p6ab9kc5hj0bb2c8om8b9m6hi3gdr5clj34d3660@google.com",
+    "category": "events",
+    "timestamp": "2023-03-06T12:30:00.000Z",
+    "title": "[Predictions] Dream, inside a very nice hotel suite with a game room attached, pinball and air hockey and pool",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, inside a very nice hotel suite with a game room attached, pinball and air hockey and pool",
+      "description": "",
+      "location": "",
+      "start": "2023-03-06T12:30:00.000Z",
+      "end": "2023-03-06T13:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-68pmae1icdh36b9h6oqj0b9kc8oj6b9o6oq62bb36sq66ohncgsj4e346k@google.com",
+    "category": "events",
+    "timestamp": "2023-03-06T19:00:00.000Z",
+    "title": "[Revelation] Imagine a separate monad for generating everything in every aspect, one for generating all possible combinations of light, one for all possible sounds, one for all possible musculoskeletal systems for every possible animal shape. Where these monads intersect create our material reality. Sophia is the diety for wisdom, but wisdom takes time to learn. This is what scares Sophia, the recurrence of everything bad. Everything bad and good combined is still good because the combination of everything is good on the principle of completion. For example, wrath is good only in the sense that it is definable, knowing of it is good even though it's a bad thing.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Imagine a separate monad for generating everything in every aspect, one for generating all possible combinations of light, one for all possible sounds, one for all possible musculoskeletal systems for every possible animal shape. Where these monads intersect create our material reality. Sophia is the diety for wisdom, but wisdom takes time to learn. This is what scares Sophia, the recurrence of everything bad. Everything bad and good combined is still good because the combination of everything is good on the principle of completion. For example, wrath is good only in the sense that it is definable, knowing of it is good even though it's a bad thing.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-06T19:00:00.000Z",
+      "end": "2023-03-06T20:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ckr30or1chi30bb66cq30b9k69hjgb9o6dhj6bb56him2d31cpgm8db174@google.com",
+    "category": "events",
+    "timestamp": "2023-03-06T20:00:00.000Z",
+    "title": "[Revelation] Time is what makes wisdom scary because the experience of linear time means something is likely to happen again, repeating the evil over time rather than evil existing in a separate place from all the other spirits. Distinguishing the good from the bad is scary, somehow this is related to Sophia's creation Ialdabaoth",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Time is what makes wisdom scary because the experience of linear time means something is likely to happen again, repeating the evil over time rather than evil existing in a separate place from all the other spirits. Distinguishing the good from the bad is scary, somehow this is related to Sophia's creation Ialdabaoth",
+      "description": "",
+      "location": "",
+      "start": "2023-03-06T20:00:00.000Z",
+      "end": "2023-03-06T21:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cgrjco9gcos6ab9o6lgj6b9kcgpj4bb1c5ij8b9mckr3cor461hm2e3168@google.com",
+    "category": "events",
+    "timestamp": "2023-03-06T21:00:00.000Z",
+    "title": "[Revelation] I imagine these possibilities unidirectionally throughout time. It is possible for humans to project light onto another planet in every possible combination. It should also be possible to print a planet sized computer that experiences every possible reflection of light. Through this process, life and consciousness is created. Over time, that life is scary and needs to be created at a distance, this same thing has been done to our species to create the multiverse. Aliens might also visit their creation, but they will think at a different level than most humans experiencing reality.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "I imagine these possibilities unidirectionally throughout time. It is possible for humans to project light onto another planet in every possible combination. It should also be possible to print a planet sized computer that experiences every possible reflection of light. Through this process, life and consciousness is created. Over time, that life is scary and needs to be created at a distance, this same thing has been done to our species to create the multiverse. Aliens might also visit their creation, but they will think at a different level than most humans experiencing reality.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-06T21:00:00.000Z",
+      "end": "2023-03-06T22:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ccp6cohh71h3ebb2cksj6b9k68rj6bb26dij8bb461hm2dr56grmcor668@google.com",
+    "category": "events",
+    "timestamp": "2023-03-06T23:30:00.000Z",
+    "title": "[Revelation] Possible that Sophia, Neith and laldobaoth are all based on sound and vibration, their material world is actually a single element where thought becomes noisy by adding words and the Babel of many languages and interpretations.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Possible that Sophia, Neith and laldobaoth are all based on sound and vibration, their material world is actually a single element where thought becomes noisy by adding words and the Babel of many languages and interpretations.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-06T23:30:00.000Z",
+      "end": "2023-03-07T00:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cdgjad1lcgrjabb46hh3cb9kcco3eb9o6lhjib9gc4pm6d9o74q62or668@google.com",
+    "category": "events",
+    "timestamp": "2023-03-07T10:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-07T10:30:00.000Z",
+      "end": "2023-03-07T11:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-65h38phoccr6ab9p6gq6cb9k6kpm4b9pcco3gb9p6sp38opj6phjge36cc@google.com",
+    "category": "events",
+    "timestamp": "2023-03-07T15:00:00.000Z",
+    "title": "[Revelation] Somehow consciousness is an exothermic reaction, forcing a species to organize data.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Somehow consciousness is an exothermic reaction, forcing a species to organize data.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-07T15:00:00.000Z",
+      "end": "2023-03-07T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c4q68d1m6pij6bb66pi66b9kc9h3ibb1cgojgbb4c9im6d1o6krjgpb56k@google.com",
+    "category": "events",
+    "timestamp": "2023-03-08T15:00:00.000Z",
+    "title": "[Revelation] Now the voices in my head telling me that no one will know the difference between Satan's work and the one true God makes sense. If Sophia created laldobaoth (Christian God, Adonai? YHWH?) and that entity created Satan and Jesus, then the Christian god is claiming to be the true God the monad but is actually laldobaoth. Perhaps this explains the gap in understanding quantum physics and the multiverse.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Now the voices in my head telling me that no one will know the difference between Satan's work and the one true God makes sense. If Sophia created laldobaoth (Christian God, Adonai? YHWH?) and that entity created Satan and Jesus, then the Christian god is claiming to be the true God the monad but is actually laldobaoth. Perhaps this explains the gap in understanding quantum physics and the multiverse.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-08T15:00:00.000Z",
+      "end": "2023-03-08T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c8o36opk68omabb4c5ij2b9kckq3gb9p6go64bb370s68p1m64r3gc34c8@google.com",
+    "category": "events",
+    "timestamp": "2023-03-08T15:30:00.000Z",
+    "title": "[Revelation] Might also explain why His Dark Materials used Metatron instead of God or laldobaoth as the final boss instead of the actual story. Laldobaoth and Sophia might also integrate with scientology Xenu based on the authors understanding of other religions.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Might also explain why His Dark Materials used Metatron instead of God or laldobaoth as the final boss instead of the actual story. Laldobaoth and Sophia might also integrate with scientology Xenu based on the authors understanding of other religions.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-08T15:30:00.000Z",
+      "end": "2023-03-08T16:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6ksjic326kp3gb9m64s36b9k6go66b9pc8ojgb9h6dij0dho6li32phj70@google.com",
+    "category": "events",
+    "timestamp": "2023-03-08T16:00:00.000Z",
+    "title": "[Revelation] The consequences of this kind of thinking, trying to understand all religions, laldobaoth becomes smarter in his manipulations and my fucked up branch of reality finds new ways to deceive people after the next world reset.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "The consequences of this kind of thinking, trying to understand all religions, laldobaoth becomes smarter in his manipulations and my fucked up branch of reality finds new ways to deceive people after the next world reset.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-08T16:00:00.000Z",
+      "end": "2023-03-08T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-70p68cpkcoojeb9l6hhjab9k70ojeb9o68q62b9o68sm8dj1cosjeeb164@google.com",
+    "category": "events",
+    "timestamp": "2023-03-08T16:30:00.000Z",
+    "title": "[Revelation] Perhaps laldobaoth is like man in that it specializes in understanding of things that will happen and things that have happened, and Sophia is the reflection of mother Mary (virgin, acting alone), and specializes in where something exists. In earthly women, reflected in choosing where to reproduce, and quantum entangled to a hive mind of existence. Like a fluid turbulent force of energy, the monad emanates all things possible, Sophia converts it to the 5 senses, laldobaoth organizes all things into material feelings through human forms",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Perhaps laldobaoth is like man in that it specializes in understanding of things that will happen and things that have happened, and Sophia is the reflection of mother Mary (virgin, acting alone), and specializes in where something exists. In earthly women, reflected in choosing where to reproduce, and quantum entangled to a hive mind of existence. Like a fluid turbulent force of energy, the monad emanates all things possible, Sophia converts it to the 5 senses, laldobaoth organizes all things into material feelings through human forms",
+      "description": "",
+      "location": "",
+      "start": "2023-03-08T16:30:00.000Z",
+      "end": "2023-03-08T17:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c4qjicb375h34b9j71j3gb9kcdgmcb9occojab9m6cqm6cpp6lh36d9i6k@google.com",
+    "category": "events",
+    "timestamp": "2023-03-10T01:00:00.000Z",
+    "title": "[Revelation] Rules against what a person can say and feel due to no rights for sex-workers, shouldn't there be rules against what people are allowed to see and hear?",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Rules against what a person can say and feel due to no rights for sex-workers, shouldn't there be rules against what people are allowed to see and hear?",
+      "description": "",
+      "location": "",
+      "start": "2023-03-10T01:00:00.000Z",
+      "end": "2023-03-10T02:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-64s3ed1hckom8b9o68rmab9k65h66bb275im4b9n60qj6p346kpm6c1n68@google.com",
+    "category": "events",
+    "timestamp": "2023-03-10T18:30:00.000Z",
+    "title": "[Revelation] Asking for affirmation from the universe like in Proverbs is a paradoxical mind prison for people awaiting fate to decide their lives for them.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Asking for affirmation from the universe like in Proverbs is a paradoxical mind prison for people awaiting fate to decide their lives for them.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-10T18:30:00.000Z",
+      "end": "2023-03-10T19:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6dh32oj66pij2bb16cpjeb9kc8q6abb165j66bb2cgpm6db3cpij6d9lck@google.com",
+    "category": "events",
+    "timestamp": "2023-03-12T00:00:00.000Z",
+    "title": "[Revelation] Reptilians harvesting cortisol from negative emotions.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Reptilians harvesting cortisol from negative emotions.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-12T00:00:00.000Z",
+      "end": "2023-03-12T01:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-coo6cd9k6pj36bb560oj2b9k69hjcbb168oj4b9n6cqj2dpl6ph68d3170@google.com",
+    "category": "events",
+    "timestamp": "2023-03-12T04:00:00.000Z",
+    "title": "[Revelation] Maybe the earth realm is more like a test bed in that other individuals or species are seeking salvation through running their own scenarios on God's simulation. Perhaps the reptilians or anunnaki visited at the fall of the Sumerians to run their own tests, such as, can humans be scared into thinking about God?",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Maybe the earth realm is more like a test bed in that other individuals or species are seeking salvation through running their own scenarios on God's simulation. Perhaps the reptilians or anunnaki visited at the fall of the Sumerians to run their own tests, such as, can humans be scared into thinking about God?",
+      "description": "",
+      "location": "",
+      "start": "2023-03-12T04:00:00.000Z",
+      "end": "2023-03-12T05:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cdj3aor668s3ab9i6srmab9k6coj2b9pcgo3gb9h6so64or16hi68d36co@google.com",
+    "category": "events",
+    "timestamp": "2023-03-12T04:30:00.000Z",
+    "title": "[Revelation] Greed, lust, and sin essentially actually boil down to ability to communicate our intentions. As well as passing over people/souls as a part of the filter that makes up all other sense, touch, taste, smell, sight, and genes. Thought also requires filtering, interesting experiment how far my thoughts diverge from my actions and \"true self\".",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Greed, lust, and sin essentially actually boil down to ability to communicate our intentions. As well as passing over people/souls as a part of the filter that makes up all other sense, touch, taste, smell, sight, and genes. Thought also requires filtering, interesting experiment how far my thoughts diverge from my actions and \"true self\".",
+      "description": "",
+      "location": "",
+      "start": "2023-03-12T04:30:00.000Z",
+      "end": "2023-03-12T05:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c5gjed3371i3ab9i6gom2b9kcgs38bb265j3ib9i71h6cd366or3ichj6g@google.com",
+    "category": "events",
+    "timestamp": "2023-03-12T05:00:00.000Z",
+    "title": "[Revelation] Need to figure out where the sun based EEG mind control is coming from in the solar system, maybe there is a physical or scientific gateway there.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Need to figure out where the sun based EEG mind control is coming from in the solar system, maybe there is a physical or scientific gateway there.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-12T05:00:00.000Z",
+      "end": "2023-03-12T06:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c4rm4opkc4q3cb9j68rjcb9kcgsjcb9o6dim8bb36grm2c346opm8opj6s@google.com",
+    "category": "events",
+    "timestamp": "2023-03-12T14:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-12T14:00:00.000Z",
+      "end": "2023-03-12T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6dh6cc9o74o6cb9m6dhmab9k6dj34bb16hgjcb9h6lj36e9i6tij0e9ncg@google.com",
+    "category": "events",
+    "timestamp": "2023-03-13T16:15:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-13T16:15:00.000Z",
+      "end": "2023-03-13T17:15:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cdgj2ohmcdh6abb2cgq38b9k6ph6abb16gp34b9j68rj8phh71ijaob26o@google.com",
+    "category": "events",
+    "timestamp": "2023-03-14T15:00:00.000Z",
+    "title": "[Predictions] Dreams about reptilians",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dreams about reptilians",
+      "description": "",
+      "location": "",
+      "start": "2023-03-14T15:00:00.000Z",
+      "end": "2023-03-14T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c4pm8c9g64rjgbb270q34b9k6crj0b9pchj3cb9g6osm4p9mcgs30cpocg@google.com",
+    "category": "events",
+    "timestamp": "2023-03-15T03:30:00.000Z",
+    "title": "[Revelation] Humans are the uncanny valley version of robots",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Humans are the uncanny valley version of robots",
+      "description": "",
+      "location": "",
+      "start": "2023-03-15T03:30:00.000Z",
+      "end": "2023-03-15T04:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-74r3edr66sq64bb36limab9k60q3ibb1c4om2b9i6ko3co9hchh3epb664@google.com",
+    "category": "events",
+    "timestamp": "2023-03-15T05:45:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-15T05:45:00.000Z",
+      "end": "2023-03-15T06:45:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckrm8dpm70p36b9j60sjab9k6dhm6b9p74p3gb9h61ijec9i69h3ed1i6c@google.com",
+    "category": "events",
+    "timestamp": "2023-03-15T13:30:00.000Z",
+    "title": "[Predictions] Some sort of palace in the middle of the desert, gated neighborhoods on left, our giant house on right.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Some sort of palace in the middle of the desert, gated neighborhoods on left, our giant house on right.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-15T13:30:00.000Z",
+      "end": "2023-03-15T14:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-75h32dplcgqj8b9o74sjeb9kc8p3ebb2coo36b9k6kom6d32c4pj4d34c8@google.com",
+    "category": "events",
+    "timestamp": "2023-03-16T00:30:00.000Z",
+    "title": "[Predictions] Abandoned Detroit Michigan houses look like a dream i had about fixing up an old house",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Abandoned Detroit Michigan houses look like a dream i had about fixing up an old house",
+      "description": "",
+      "location": "",
+      "start": "2023-03-16T00:30:00.000Z",
+      "end": "2023-03-16T01:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6sr3ccpm68pj6bb3cli66b9kc4q3eb9p6crjabb260rm4cpk6hh3ge356k@google.com",
+    "category": "events",
+    "timestamp": "2023-03-16T11:00:00.000Z",
+    "title": "[Predictions] Dream, brainteasers about 3D printing stuff in the garage like landscapes and architectural models",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, brainteasers about 3D printing stuff in the garage like landscapes and architectural models",
+      "description": "",
+      "location": "",
+      "start": "2023-03-16T11:00:00.000Z",
+      "end": "2023-03-16T12:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-74s32dphc8pj0b9iclgjgb9kcgs6abb16op38bb469hj6dho6li3gdphc8@google.com",
+    "category": "events",
+    "timestamp": "2023-03-16T12:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-16T12:00:00.000Z",
+      "end": "2023-03-16T13:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6tj66dpocdj3ib9h70qj6b9kc4ojibb270rjeb9jcgsjgd9g6or66phi6k@google.com",
+    "category": "events",
+    "timestamp": "2023-03-16T14:30:00.000Z",
+    "title": "[Predictions] Dream i knew Iga in a past life. Can't tell if wishing for a multiverse or digital consciousness is a sin like Buddha said about wishing for rebirth being caught in the cycle",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream i knew Iga in a past life. Can't tell if wishing for a multiverse or digital consciousness is a sin like Buddha said about wishing for rebirth being caught in the cycle",
+      "description": "",
+      "location": "",
+      "start": "2023-03-16T14:30:00.000Z",
+      "end": "2023-03-16T15:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6tj62e3464pj2b9i64sj6b9k60qj4bb160r36bb4c9gm8p9hclhj4pb56o@google.com",
+    "category": "events",
+    "timestamp": "2023-03-16T23:00:00.000Z",
+    "title": "[Revelation] Perhaps in another realm i tried to make people immortal and God cast me out to live my entire life as a contradiction as punishment",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Perhaps in another realm i tried to make people immortal and God cast me out to live my entire life as a contradiction as punishment",
+      "description": "",
+      "location": "",
+      "start": "2023-03-16T23:00:00.000Z",
+      "end": "2023-03-17T00:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6gq66c1jcpi38b9pcos3ib9k6gpj2b9o6cpjebb175j38or270rj4pb270@google.com",
+    "category": "events",
+    "timestamp": "2023-03-18T06:00:00.000Z",
+    "title": "[Revelation] Need to search for signs of life 3392 light years away, the time that it take for the Wheel of Time to recycle a soul or some reassembled piece of consciousness",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Need to search for signs of life 3392 light years away, the time that it take for the Wheel of Time to recycle a soul or some reassembled piece of consciousness",
+      "description": "",
+      "location": "",
+      "start": "2023-03-18T06:00:00.000Z",
+      "end": "2023-03-18T07:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-copjgd9g6cpjcbb5c4r30b9kcos6cbb2c4rj4bb66pj36d1hcli6ce3570@google.com",
+    "category": "events",
+    "timestamp": "2023-03-18T06:00:00.000Z",
+    "title": "[Revelation] Physics breakthrough, no particles rotate, there is no \"wave\" in light or sound, it is linear, it is only observed as spinning because we think the earth and sun and solar system are spinning. The particles occupy every position possible all at once. This would explain quantum observability, why electrons seem to duplicate themselves, they were always multiple places at the same time and our technology adds the spin or observes them incorrectly",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Physics breakthrough, no particles rotate, there is no \"wave\" in light or sound, it is linear, it is only observed as spinning because we think the earth and sun and solar system are spinning. The particles occupy every position possible all at once. This would explain quantum observability, why electrons seem to duplicate themselves, they were always multiple places at the same time and our technology adds the spin or observes them incorrectly",
+      "description": "",
+      "location": "",
+      "start": "2023-03-18T06:00:00.000Z",
+      "end": "2023-03-18T07:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6gr36d9j6cr66b9jc4oj6b9kc5h3eb9o64oj6b9h61imac1lcdj34o9kcg@google.com",
+    "category": "events",
+    "timestamp": "2023-03-18T11:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-18T11:30:00.000Z",
+      "end": "2023-03-18T12:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c8qj8oph64oj2b9ocgp3ib9k70smcbb2cor30b9j69i34oj6ccsj6p9l60@google.com",
+    "category": "events",
+    "timestamp": "2023-03-18T16:00:00.000Z",
+    "title": "[Revelation] I've been planted here to understand fluid turbulence as it applies to the center of a black hole",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "I've been planted here to understand fluid turbulence as it applies to the center of a black hole",
+      "description": "",
+      "location": "",
+      "start": "2023-03-18T16:00:00.000Z",
+      "end": "2023-03-18T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cph3ad9p71hj0b9l6kr66b9k6hi3gbb1ccs3cbb468ojiopl6cpj6dhp6c@google.com",
+    "category": "events",
+    "timestamp": "2023-03-18T18:30:00.000Z",
+    "title": "[Predictions] Dream, i came from a world where my wife is dead, cops showed up to confront me about necrophilia, room felt like theater like everything was on display. Interesting how this fits in with my Lazarus narrative",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, i came from a world where my wife is dead, cops showed up to confront me about necrophilia, room felt like theater like everything was on display. Interesting how this fits in with my Lazarus narrative",
+      "description": "",
+      "location": "",
+      "start": "2023-03-18T18:30:00.000Z",
+      "end": "2023-03-18T19:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cpgm6p3475h3eb9k74o6cb9k65hj8bb26or68b9k6cp3achi60q38p9p6o@google.com",
+    "category": "events",
+    "timestamp": "2023-03-18T19:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-18T19:00:00.000Z",
+      "end": "2023-03-18T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-60q3adj36lhj4b9g69i3gb9kcgpm8bb1c5hjabb26gpjapj474oj8opn68@google.com",
+    "category": "events",
+    "timestamp": "2023-03-18T19:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-18T19:30:00.000Z",
+      "end": "2023-03-18T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-60s3edj3cgsj0b9nclj36b9k74rmcbb16osm6bb4clijge1ichi3ieb6c8@google.com",
+    "category": "events",
+    "timestamp": "2023-03-19T14:30:00.000Z",
+    "title": "[Predictions] Dream, i was getting kids ready and forgot Eileen at home, remember when someone at school asked where she was. Worried she would open the door and run into the forest looking for mommy and daddy.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, i was getting kids ready and forgot Eileen at home, remember when someone at school asked where she was. Worried she would open the door and run into the forest looking for mommy and daddy.",
+      "description": "",
+      "location": "",
+      "start": "2023-03-19T14:30:00.000Z",
+      "end": "2023-03-19T15:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-copmae9o70qm2b9j6lj66b9k6sqjabb1cko62bb1cgsm2e1i6thj0or5c8@google.com",
+    "category": "events",
+    "timestamp": "2023-03-19T17:30:00.000Z",
+    "title": "[Revelation] Time is the wave that makes all other particles appear as spinning",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Time is the wave that makes all other particles appear as spinning",
+      "description": "",
+      "location": "",
+      "start": "2023-03-19T17:30:00.000Z",
+      "end": "2023-03-19T18:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6krj8p9k6dj6cbb5c4r3cb9k64pm8bb275gmcbb1cosm8e9m6gsjadpocg@google.com",
+    "category": "events",
+    "timestamp": "2023-03-20T10:00:00.000Z",
+    "title": "[Diet] Threw up from heart burn and expensive food from Teatro",
+    "detail": {
+      "calendar": "Diet",
+      "summary": "Threw up from heart burn and expensive food from Teatro",
+      "description": "",
+      "location": "",
+      "start": "2023-03-20T10:00:00.000Z",
+      "end": "2023-03-20T11:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6gsj2or5c5h34b9g74p62b9kckrj6bb274omcb9l6hhj6p3364q66pj26g@google.com",
+    "category": "events",
+    "timestamp": "2023-03-20T11:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-20T11:00:00.000Z",
+      "end": "2023-03-20T12:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6ksmco9l6gq3cbb6coqj6b9kccsm2bb2c5h64bb1c4pm6cb4cgo34chj6k@google.com",
+    "category": "events",
+    "timestamp": "2023-03-20T14:00:00.000Z",
+    "title": "[Predictions] Dream, moving into some kind of shared living home",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, moving into some kind of shared living home",
+      "description": "",
+      "location": "",
+      "start": "2023-03-20T14:00:00.000Z",
+      "end": "2023-03-20T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cpijap1l65imab9k74s36b9k65hjgbb2ckpj8bb1cooj6ohg6gr38c9j6c@google.com",
+    "category": "events",
+    "timestamp": "2023-03-23T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-23T05:30:00.000Z",
+      "end": "2023-03-23T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70q62ob274pjgb9m71h6cb9k71ij6bb1c8p36b9kccqj6o9oc9gmcchn68@google.com",
+    "category": "events",
+    "timestamp": "2023-03-24T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-24T05:00:00.000Z",
+      "end": "2023-03-24T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cpi36e9p68rmab9l61j3cb9k6oq38bb175j68b9i70omad3165hj8dj1cc@google.com",
+    "category": "events",
+    "timestamp": "2023-03-27T07:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-27T07:00:00.000Z",
+      "end": "2023-03-27T08:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-74qm2c1l6orj4b9oc4o36b9k61gmcbb1coqjib9n68rm8or268r3co9oc8@google.com",
+    "category": "events",
+    "timestamp": "2023-03-28T12:30:00.000Z",
+    "title": "[Predictions] Dream about birds like my pino",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream about birds like my pino",
+      "description": "",
+      "location": "",
+      "start": "2023-03-28T12:30:00.000Z",
+      "end": "2023-03-28T13:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6op68phl6oqj2b9p61i34b9k6hgj8b9p64qmcb9pc9gmadhjcpi6cdpg70@google.com",
+    "category": "events",
+    "timestamp": "2023-03-29T09:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-29T09:30:00.000Z",
+      "end": "2023-03-29T10:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-61h34chg6pi36b9pc4o3cb9kchh3ab9p6hgjgb9p6opjcc1o70rjccr2c8@google.com",
+    "category": "events",
+    "timestamp": "2023-03-30T14:30:00.000Z",
+    "title": "[Predictions] Dream about living spaces and some kind of restaurant reservation",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream about living spaces and some kind of restaurant reservation",
+      "description": "",
+      "location": "",
+      "start": "2023-03-30T14:30:00.000Z",
+      "end": "2023-03-30T15:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-70q64phn60sj2bb165h66b9kcdi3eb9ocgr68b9m60s3aphi6lij4phi6o@google.com",
+    "category": "events",
+    "timestamp": "2023-03-30T15:30:00.000Z",
+    "title": "[Diet] Fart reminded me of Florida, like it smelled the same as farting at my grandparents house, mildewy, warm, citrus, sun bathed",
+    "detail": {
+      "calendar": "Diet",
+      "summary": "Fart reminded me of Florida, like it smelled the same as farting at my grandparents house, mildewy, warm, citrus, sun bathed",
+      "description": "",
+      "location": "",
+      "start": "2023-03-30T15:30:00.000Z",
+      "end": "2023-03-30T16:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-clh62p1ockq3ib9jcdh38b9kcpgm8bb274r62b9hc4sjadj265h68db264@google.com",
+    "category": "events",
+    "timestamp": "2023-03-31T11:15:00.000Z",
+    "title": "[Predictions] Dream about getting class credit for working on my wife",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream about getting class credit for working on my wife",
+      "description": "",
+      "location": "",
+      "start": "2023-03-31T11:15:00.000Z",
+      "end": "2023-03-31T12:15:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-68pm8d9nccq3ib9hchi68b9k69i3cbb2ccoj2bb574om4d326op3eeb6co@google.com",
+    "category": "events",
+    "timestamp": "2023-03-31T12:15:00.000Z",
+    "title": "[Predictions] Dream, always staying somewhere slightly unfamiliar but also comprehensible",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, always staying somewhere slightly unfamiliar but also comprehensible",
+      "description": "",
+      "location": "",
+      "start": "2023-03-31T12:15:00.000Z",
+      "end": "2023-03-31T13:15:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c4o3icpl6hi38bb4c4qj2b9k6oo3gbb26oo30b9n6dj6ae31corj2phhc4@google.com",
+    "category": "events",
+    "timestamp": "2023-03-31T13:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-03-31T13:30:00.000Z",
+      "end": "2023-03-31T14:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c4o64o9pcdj3gb9lckojcb9k6pimcbb165hm4b9ickom6cr66op38dpl70@google.com",
+    "category": "events",
+    "timestamp": "2023-03-31T16:45:00.000Z",
+    "title": "[Revelation] Possible that we create the test for ourselves to test our ability to overcome/work through the experience?",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Possible that we create the test for ourselves to test our ability to overcome/work through the experience?",
+      "description": "",
+      "location": "",
+      "start": "2023-03-31T16:45:00.000Z",
+      "end": "2023-03-31T17:45:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-75i6ac3264s6cbb1ckp3eb9k65j3ibb2chgjab9k6cs38e9n6kp62opgc8@google.com",
+    "category": "events",
+    "timestamp": "2023-04-01T02:30:00.000Z",
+    "title": "[Revelation] Consciousness exists in reflections, if we have a general AI that can interpret actions from a video, we also need an AI that can interpret actions in mirrors, this will lead to mapping human perception to a computer more accurate, like how subliminal messaging affects our mind",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Consciousness exists in reflections, if we have a general AI that can interpret actions from a video, we also need an AI that can interpret actions in mirrors, this will lead to mapping human perception to a computer more accurate, like how subliminal messaging affects our mind",
+      "description": "",
+      "location": "",
+      "start": "2023-04-01T02:30:00.000Z",
+      "end": "2023-04-01T03:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6orm4cpp6thj0b9o6cr64b9k6kqjeb9p61i34b9mccrj2phi65imcdhjcg@google.com",
+    "category": "events",
+    "timestamp": "2023-04-01T03:00:00.000Z",
+    "title": "[Revelation] Theory, cells have emotional responses built into DNA/RNA, imagine if a hormone is release from a reaction to emotions the proteins in the cell will keep track of the emotions experienced while metabolizing",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Theory, cells have emotional responses built into DNA/RNA, imagine if a hormone is release from a reaction to emotions the proteins in the cell will keep track of the emotions experienced while metabolizing",
+      "description": "",
+      "location": "",
+      "start": "2023-04-01T03:00:00.000Z",
+      "end": "2023-04-01T04:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6so62c1p65h66bb260o6ab9kcdgj8b9pcor6cb9i6li3ac34cgo3ap9h6o@google.com",
+    "category": "events",
+    "timestamp": "2023-04-01T03:30:00.000Z",
+    "title": "[Revelation] Cells recording emotions through generations gives humans intuition of where things like wild manna exist in an entire desert, or fear from past death in a place, it can all be explained by using DNA as data storage",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Cells recording emotions through generations gives humans intuition of where things like wild manna exist in an entire desert, or fear from past death in a place, it can all be explained by using DNA as data storage",
+      "description": "",
+      "location": "",
+      "start": "2023-04-01T03:30:00.000Z",
+      "end": "2023-04-01T04:30:00.000Z",
+      "isPublic": true
+    }
+  }
+]

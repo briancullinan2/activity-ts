@@ -1,0 +1,737 @@
+[
+  {
+    "id": "event-6tj6ac9n69j3cb9m64s64b9k6lijcbb26ss3ib9ic5i34p33c4p3gdj2co@google.com",
+    "category": "events",
+    "timestamp": "2021-07-01T14:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-01T14:00:00.000Z",
+      "end": "2021-07-01T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckpm2e9jclhjgb9lcdh34b9k6pijeb9pcksmabb274qmadpg75i34dpp6c@google.com",
+    "category": "events",
+    "timestamp": "2021-07-01T15:00:00.000Z",
+    "title": "[Predictions] Dream, somewhere tropical like Hawaii",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, somewhere tropical like Hawaii",
+      "description": "",
+      "location": "",
+      "start": "2021-07-01T15:00:00.000Z",
+      "end": "2021-07-01T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-60pmadhm6go3ibb461hm4b9kcoo3cb9pcli68bb66tgj0cb56sqm6cppc4@google.com",
+    "category": "events",
+    "timestamp": "2021-07-02T15:30:00.000Z",
+    "title": "[Predictions] Dream, nightmare, Iga plying for art school, teeth falling out, new gums problem so swollen can even speak, exploding with puss",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, nightmare, Iga plying for art school, teeth falling out, new gums problem so swollen can even speak, exploding with puss",
+      "description": "",
+      "location": "",
+      "start": "2021-07-02T15:30:00.000Z",
+      "end": "2021-07-02T16:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6krj6ohg6co62b9mcor3eb9k6cr3cbb26cq66bb660rjcopk6cqmadr570@google.com",
+    "category": "events",
+    "timestamp": "2021-07-02T16:30:00.000Z",
+    "title": "[Predictions] Dream ugly dog throwing up on me, needed water. Weird buildings some of the reoccurring, not at NAU but resembled older buildings like the one south of English building for offices.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream ugly dog throwing up on me, needed water. Weird buildings some of the reoccurring, not at NAU but resembled older buildings like the one south of English building for offices.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-02T16:30:00.000Z",
+      "end": "2021-07-02T17:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cgs34d9gcks6cbb3c9i3ib9k6pij2bb16ss38b9jckr3idpn6tgmachi74@google.com",
+    "category": "events",
+    "timestamp": "2021-07-03T07:45:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-03T07:45:00.000Z",
+      "end": "2021-07-03T08:45:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6oq66cr2ccom2b9l6so66b9k60sm6b9p64r64b9ocpgm2phn6li36cr460@google.com",
+    "category": "events",
+    "timestamp": "2021-07-03T16:00:00.000Z",
+    "title": "[Predictions] Dream, reoccurring beach house, roller coaster comes crashing down, trying to ship myself somewhere",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, reoccurring beach house, roller coaster comes crashing down, trying to ship myself somewhere",
+      "description": "",
+      "location": "",
+      "start": "2021-07-03T16:00:00.000Z",
+      "end": "2021-07-03T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6ti38c9lcpi3cb9hcorj8b9k6oqj0b9pcoo32bb26oqj8d31c5h38eb270@google.com",
+    "category": "events",
+    "timestamp": "2021-07-04T16:30:00.000Z",
+    "title": "[Predictions] Weird dream about warming up pizza for parents in microwave.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Weird dream about warming up pizza for parents in microwave.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-04T16:30:00.000Z",
+      "end": "2021-07-04T17:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6ooj4cb3c9gj0bb268o3ib9k68om8bb26cs3cb9l68qjcdpn74ojedhl6g@google.com",
+    "category": "events",
+    "timestamp": "2021-07-05T07:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-05T07:30:00.000Z",
+      "end": "2021-07-05T08:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6lijacho60p36b9m6ks3cb9k65h36bb270r62b9m70o6ao9gcoqm4dhj6k@google.com",
+    "category": "events",
+    "timestamp": "2021-07-06T14:30:00.000Z",
+    "title": "[Predictions] Dream that Rus was trying to take my Legos for his fartwork",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream that Rus was trying to take my Legos for his fartwork",
+      "description": "",
+      "location": "",
+      "start": "2021-07-06T14:30:00.000Z",
+      "end": "2021-07-06T15:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-65i38ohm71gmabb16di3gb9kcli32bb275hjeb9kcgsj0p9j6spj0ohgcg@google.com",
+    "category": "events",
+    "timestamp": "2021-07-07T15:00:00.000Z",
+    "title": "[Predictions] Dream, Eddie was a teenager and dating some pimply faced short girl.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Eddie was a teenager and dating some pimply faced short girl.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-07T15:00:00.000Z",
+      "end": "2021-07-07T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c5gm8ophcgs68b9hc5hm6b9k60sjibb16cp38b9j61h34p32cor3cohhcg@google.com",
+    "category": "events",
+    "timestamp": "2021-07-07T16:00:00.000Z",
+    "title": "[Predictions] Dream in a house with a lot of bedrooms and narrow hallways like a trailer, trying to drive around, running but out of energy, passed by cops arresting some other freaks. Trying to get home to Iga, worried all the time.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream in a house with a lot of bedrooms and narrow hallways like a trailer, trying to drive around, running but out of energy, passed by cops arresting some other freaks. Trying to get home to Iga, worried all the time.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-07T16:00:00.000Z",
+      "end": "2021-07-07T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-clh3ep9n75hjgbb369imab9k6cs68b9p70rm4bb660om8c35ccpjad9p6s@google.com",
+    "category": "events",
+    "timestamp": "2021-07-07T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-07T17:00:00.000Z",
+      "end": "2021-07-07T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckrm4e9h6cp68b9i6os66b9kcpi62bb164pj8b9m6kom8dho61ij2dplck@google.com",
+    "category": "events",
+    "timestamp": "2021-07-08T15:00:00.000Z",
+    "title": "[Predictions] Dream with David setting up internet in an apartment building, lots of parties around, driving a car Ike James bond Aston Martin.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream with David setting up internet in an apartment building, lots of parties around, driving a car Ike James bond Aston Martin.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-08T15:00:00.000Z",
+      "end": "2021-07-08T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c8r3cdhm6kr3ab9o6kqjeb9k6ksj6b9pcgo68b9k6sp3ccpmccpjipj36k@google.com",
+    "category": "events",
+    "timestamp": "2021-07-09T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-09T06:00:00.000Z",
+      "end": "2021-07-09T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-68q62ohkcoojib9i68p3ib9k6hgjeb9pcoo36bb6c8rj4cb460r3gcpo6c@google.com",
+    "category": "events",
+    "timestamp": "2021-07-10T14:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-10T14:30:00.000Z",
+      "end": "2021-07-10T15:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-74o3ac9i65gj6b9mc4p38b9k68qm2b9pc4o66b9i69hmce336pgmcc9nck@google.com",
+    "category": "events",
+    "timestamp": "2021-07-12T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-12T05:30:00.000Z",
+      "end": "2021-07-12T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-74s6cc1o70o38b9pc9hm6b9k65hjibb26osm8b9iccomcc3469i6adj46g@google.com",
+    "category": "events",
+    "timestamp": "2021-07-13T13:00:00.000Z",
+    "title": "[Predictions] Dream, strange huge house staying in with an OCD guy. Trying to get toys from my dad and Olena trying to steal from me, nice restaurant with friends behind another restaurant in Flagstaff, room with very tight entrance and could barely fit through.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, strange huge house staying in with an OCD guy. Trying to get toys from my dad and Olena trying to steal from me, nice restaurant with friends behind another restaurant in Flagstaff, room with very tight entrance and could barely fit through.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-13T13:00:00.000Z",
+      "end": "2021-07-13T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-chh3icb4cgr66b9l6ksj4b9kcoqjcb9p75j3ib9l6gs64cpm6ssj8o9pc8@google.com",
+    "category": "events",
+    "timestamp": "2021-07-14T21:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-14T21:30:00.000Z",
+      "end": "2021-07-14T22:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cphj0e1mcopjgbb4cgr3eb9k6hi62bb26ssj6b9j74oj2cr46coj4dhmc8@google.com",
+    "category": "events",
+    "timestamp": "2021-07-17T02:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-17T02:30:00.000Z",
+      "end": "2021-07-17T03:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6com8c9n74o3ebb474r66b9k70s38bb16ph6ab9l6hi3cd9hc8omcdj26o@google.com",
+    "category": "events",
+    "timestamp": "2021-07-17T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-17T05:30:00.000Z",
+      "end": "2021-07-17T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckqjcpb160qjibb36sqm2b9k6opj6b9p6tgjgb9n71gj2dhj70q62chj74@google.com",
+    "category": "events",
+    "timestamp": "2021-07-17T15:00:00.000Z",
+    "title": "[Predictions] Dream, Sneaking in to the staging room in an apartment building high rise with a bunch of friends. Trying to stay there for free, made friends with the sales people to not get kicked out.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Sneaking in to the staging room in an apartment building high rise with a bunch of friends. Trying to stay there for free, made friends with the sales people to not get kicked out.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-17T15:00:00.000Z",
+      "end": "2021-07-17T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6di3gchn6so30b9m68sj6b9kcgp3ibb1cgr36bb56hgmaphg6cqmac36co@google.com",
+    "category": "events",
+    "timestamp": "2021-07-17T16:30:00.000Z",
+    "title": "[Predictions] Dream, In some strange city like Portland with Chase, had no money for hot chocolate, didn't want to make it because it was late and would keep me awake, Iga and Jessie pimply and fatter moved back to the same town, scared I was going to lose Iga in a dance club.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, In some strange city like Portland with Chase, had no money for hot chocolate, didn't want to make it because it was late and would keep me awake, Iga and Jessie pimply and fatter moved back to the same town, scared I was going to lose Iga in a dance club.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-17T16:30:00.000Z",
+      "end": "2021-07-17T17:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c4o6cd9p68p3gb9hcph3gb9kcdgm2bb1ccr3abb1ccs3eob4c8rjao9g74@google.com",
+    "category": "events",
+    "timestamp": "2021-07-18T16:30:00.000Z",
+    "title": "[Predictions] Dream, on a boat, on an island getting groceries, in a store mad at Iga for checking out early, lots of meat and sausage",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, on a boat, on an island getting groceries, in a store mad at Iga for checking out early, lots of meat and sausage",
+      "description": "",
+      "location": "",
+      "start": "2021-07-18T16:30:00.000Z",
+      "end": "2021-07-18T17:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-clhm6p9l6tijabb1chimab9k6kpjgb9o70qjeb9ncgr6acb575i68c1pco@google.com",
+    "category": "events",
+    "timestamp": "2021-07-18T19:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-18T19:30:00.000Z",
+      "end": "2021-07-18T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6pi34e1ic4q62b9i6pgm4b9k70qjabb260pjibb574p64c366sp3ge9nco@google.com",
+    "category": "events",
+    "timestamp": "2021-07-19T15:30:00.000Z",
+    "title": "[Predictions] Dream hiking stuck on top of mountain went to someone's palace built in to the hill, didn't seem to mind a bunch of people around",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream hiking stuck on top of mountain went to someone's palace built in to the hill, didn't seem to mind a bunch of people around",
+      "description": "",
+      "location": "",
+      "start": "2021-07-19T15:30:00.000Z",
+      "end": "2021-07-19T16:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-75i32c1h69j3eb9h6oo3cb9k6ko68bb274sjabb565i3edj474o32e1kc8@google.com",
+    "category": "events",
+    "timestamp": "2021-07-21T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-21T06:00:00.000Z",
+      "end": "2021-07-21T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6op30chg6gr3ibb6c4rj0b9k6soj8bb271j30b9o68s3go9g60p6adb3co@google.com",
+    "category": "events",
+    "timestamp": "2021-07-21T17:00:00.000Z",
+    "title": "[Predictions] Weird dream around friends, but trying to avoid some",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Weird dream around friends, but trying to avoid some",
+      "description": "",
+      "location": "",
+      "start": "2021-07-21T17:00:00.000Z",
+      "end": "2021-07-21T18:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6go68cpg6opj8b9k74q66b9k70o66b9o6sp66b9m64r34db671imcd1lc8@google.com",
+    "category": "events",
+    "timestamp": "2021-07-22T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-22T18:00:00.000Z",
+      "end": "2021-07-22T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cojeor168sm6b9icor32b9k6so3gbb2c8p62b9hcgo36c3470pjip1i6c@google.com",
+    "category": "events",
+    "timestamp": "2021-07-23T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-23T19:00:00.000Z",
+      "end": "2021-07-23T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70ojep31coqj2b9pc8rjgb9k69ij2bb2chhmab9mchgmad9g74s68dj36k@google.com",
+    "category": "events",
+    "timestamp": "2021-07-23T21:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-23T21:30:00.000Z",
+      "end": "2021-07-23T22:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6gq36cpp64rj4b9l6hi6cb9k6sqj0bb2chhjeb9mcooj0opnc8p3ge9i70@google.com",
+    "category": "events",
+    "timestamp": "2021-07-24T14:00:00.000Z",
+    "title": "[Predictions] Dream, visiting vera, went to a movie with Corinne, driving a giant truck but it's diesel, weird acceleration",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, visiting vera, went to a movie with Corinne, driving a giant truck but it's diesel, weird acceleration",
+      "description": "",
+      "location": "",
+      "start": "2021-07-24T14:00:00.000Z",
+      "end": "2021-07-24T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cphj6d346lgj4b9j71gjgb9kc5h3ib9ocgs62b9h69i6ap9i6orjgor6c4@google.com",
+    "category": "events",
+    "timestamp": "2021-07-24T15:00:00.000Z",
+    "title": "[Predictions] Dream, party outside flipping a bottle of vodka, weird physics, slow down time, heard my name being called",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, party outside flipping a bottle of vodka, weird physics, slow down time, heard my name being called",
+      "description": "",
+      "location": "",
+      "start": "2021-07-24T15:00:00.000Z",
+      "end": "2021-07-24T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6hhjgp9m60oj8bb36grj2b9k6ph3cb9o6or68bb674omcphhckrmcdr274@google.com",
+    "category": "events",
+    "timestamp": "2021-07-25T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-25T05:00:00.000Z",
+      "end": "2021-07-25T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cor3ep34chi3eb9n6tj64b9k60sjib9pcopjebb36orj4phnccs34cj66k@google.com",
+    "category": "events",
+    "timestamp": "2021-07-25T14:00:00.000Z",
+    "title": "[Predictions] Dream, had a bunch of weed cartridges and was chewing on it, had too much, looking for food woth Travis after a movie but places were closed at 9:58",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, had a bunch of weed cartridges and was chewing on it, had too much, looking for food woth Travis after a movie but places were closed at 9:58",
+      "description": "",
+      "location": "",
+      "start": "2021-07-25T14:00:00.000Z",
+      "end": "2021-07-25T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6or3idpj68o68bb470s6cb9kcosjib9o70om2b9p64sj8d1h64r3ie9o74@google.com",
+    "category": "events",
+    "timestamp": "2021-07-26T13:30:00.000Z",
+    "title": "[Predictions] Dream about tripping over the tree I have to plant",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream about tripping over the tree I have to plant",
+      "description": "",
+      "location": "",
+      "start": "2021-07-26T13:30:00.000Z",
+      "end": "2021-07-26T14:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ccs3idhg6kp6cb9m6osj6b9k6phm2b9p74o66b9l6sp3ae1j74rjioj1c4@google.com",
+    "category": "events",
+    "timestamp": "2021-07-27T04:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-27T04:30:00.000Z",
+      "end": "2021-07-27T05:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-60r34o9hchh68bb360p6cb9kc9gj4bb26sq3ibb6c8o30chp61i3ce9hcg@google.com",
+    "category": "events",
+    "timestamp": "2021-07-27T13:00:00.000Z",
+    "title": "[Predictions] Dream, worried i have cancer and in a department store with Iga",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, worried i have cancer and in a department store with Iga",
+      "description": "",
+      "location": "",
+      "start": "2021-07-27T13:00:00.000Z",
+      "end": "2021-07-27T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-3he811q6glatu6h2l44vfpfig5@google.com",
+    "category": "events",
+    "timestamp": "2021-07-27T14:00:00.000Z",
+    "title": "[Predictions] Dream, worried i have cancer and in a department store with Iga",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, worried i have cancer and in a department store with Iga",
+      "description": "",
+      "location": "",
+      "start": "2021-07-27T14:00:00.000Z",
+      "end": "2021-07-27T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ccr32phgcgo6ab9j69j32b9kccqm8bb1ccs3gbb471i3ccb16sr36ob26c@google.com",
+    "category": "events",
+    "timestamp": "2021-07-28T15:30:00.000Z",
+    "title": "[Predictions] Dream, someone made a brisket that go thrown out because other animals were eating it.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, someone made a brisket that go thrown out because other animals were eating it.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-28T15:30:00.000Z",
+      "end": "2021-07-28T16:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-copjgpb460q38bb5clhj4b9k60sj0b9ocphjib9nchhm4e1g65i36ob26k@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T03:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-29T03:30:00.000Z",
+      "end": "2021-07-29T04:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6hgjacpj68r30b9oc5j34b9k64qjcb9p6gq3ib9i74s36c1m64s34ob2cg@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T14:00:00.000Z",
+    "title": "[Predictions] Dream, Eddie choking",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Eddie choking",
+      "description": "",
+      "location": "",
+      "start": "2021-07-29T14:00:00.000Z",
+      "end": "2021-07-29T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6oqjcphi75i3cbb369j38b9k6cpm8bb2cor68b9n6srj8cppc5i62d1p60@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T15:00:00.000Z",
+    "title": "[Predictions] Dream having a party with people and movies",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream having a party with people and movies",
+      "description": "",
+      "location": "",
+      "start": "2021-07-29T15:00:00.000Z",
+      "end": "2021-07-29T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-75hjecb2c9gj8b9g6him2b9kcdj68b9o68sjib9m6os3cp9o6somcc31cc@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T16:00:00.000Z",
+    "title": "[Predictions] Dream, Dr Haskell's quake 3 server, game was what I wanted to make, lost of levels from previous games all played in series",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Dr Haskell's quake 3 server, game was what I wanted to make, lost of levels from previous games all played in series",
+      "description": "",
+      "location": "",
+      "start": "2021-07-29T16:00:00.000Z",
+      "end": "2021-07-29T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6li30eb4cdj34b9ichgj6b9k70pj4bb275h36b9lc4qjcp9kc4p6cp1h6o@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T17:00:00.000Z",
+    "title": "[Predictions] Dream some old attic with a computer. Mouse problem, needed a firmware upgrade but only runs on Windows, problems booting up, had to rewire a appliances couldn't boot computer on the same line as the dryer, Iga went to make chocolate milk.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream some old attic with a computer. Mouse problem, needed a firmware upgrade but only runs on Windows, problems booting up, had to rewire a appliances couldn't boot computer on the same line as the dryer, Iga went to make chocolate milk.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-29T17:00:00.000Z",
+      "end": "2021-07-29T18:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c5hm4d3274o66bb56li3ib9kcoo3abb261j62b9lc9gjcpb164o6acb660@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T18:00:00.000Z",
+    "title": "[Predictions] Dream All the weapons were combined into one game, somebody else made it and I was mad because it wasn't me. All the weapons from dooms/quakes were playable. It played demos and movies in between downloading content. The server was called Dr Haskell's game server.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream All the weapons were combined into one game, somebody else made it and I was mad because it wasn't me. All the weapons from dooms/quakes were playable. It played demos and movies in between downloading content. The server was called Dr Haskell's game server.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-29T18:00:00.000Z",
+      "end": "2021-07-29T19:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-74s64ohhcor62bb46somcb9k6krj6b9p6somcb9l74p30d1k6pj36o9k74@google.com",
+    "category": "events",
+    "timestamp": "2021-07-30T12:00:00.000Z",
+    "title": "[Predictions] Dream, in some kind of strange Airbnb, hostel with lots of people, no privacy, lots of beds, one lower and one in a high loft, afraid to walk on the floor at first though the entire room was upside down",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, in some kind of strange Airbnb, hostel with lots of people, no privacy, lots of beds, one lower and one in a high loft, afraid to walk on the floor at first though the entire room was upside down",
+      "description": "",
+      "location": "",
+      "start": "2021-07-30T12:00:00.000Z",
+      "end": "2021-07-30T13:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c8s3aohhc4s38b9kckqjib9k6pi3gb9p70q32b9l6gojcopg6ks3edpk6s@google.com",
+    "category": "events",
+    "timestamp": "2021-07-30T13:00:00.000Z",
+    "title": "[Predictions] Dream coming out of a restaurant with Iga could barely afford to pay, with some weird tweaker guy, walked to Jeff Kalina office inside a corner of a mall",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream coming out of a restaurant with Iga could barely afford to pay, with some weird tweaker guy, walked to Jeff Kalina office inside a corner of a mall",
+      "description": "",
+      "location": "",
+      "start": "2021-07-30T13:00:00.000Z",
+      "end": "2021-07-30T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-70p32ob170q3ib9h61j62b9k61i66bb1cgp3abb4cdgm4db16cqm2dr160@google.com",
+    "category": "events",
+    "timestamp": "2021-07-30T14:00:00.000Z",
+    "title": "[Predictions] Dream, some weird UN conference in front of a mall about solving big problems, someone talking about solving swage problems, looked underground and saw a clear sewer pipe with nothing flowing through it, something wrong.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, some weird UN conference in front of a mall about solving big problems, someone talking about solving swage problems, looked underground and saw a clear sewer pipe with nothing flowing through it, something wrong.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-30T14:00:00.000Z",
+      "end": "2021-07-30T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6phj6or26hgj2b9h70pjib9k6kpmcbb2chh64b9g71j3cc1l70pm2chk70@google.com",
+    "category": "events",
+    "timestamp": "2021-07-31T02:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-31T02:00:00.000Z",
+      "end": "2021-07-31T03:00:00.000Z",
+      "isPublic": false
+    }
+  }
+]

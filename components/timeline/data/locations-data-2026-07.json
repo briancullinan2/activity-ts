@@ -1,0 +1,212 @@
+[
+  {
+    "id": "loc-stop-1784932664000-0",
+    "category": "locations",
+    "timestamp": "2026-07-24T22:37:44.000Z",
+    "title": "Stopped at East Inwood Way (1053 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.209599755820896,
+      "lng": -111.58506043999994,
+      "durationMins": 1053,
+      "time": "2026-07-24T22:37:44.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1784996286000-1",
+    "category": "locations",
+    "timestamp": "2026-07-25T16:18:06.000Z",
+    "title": "Stopped at East Bear Paw Drive (105 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Bear Paw Drive",
+      "lat": 35.19945281891892,
+      "lng": -111.57490190945948,
+      "durationMins": 105,
+      "time": "2026-07-25T16:18:06.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785002962000-2",
+    "category": "locations",
+    "timestamp": "2026-07-25T18:09:22.000Z",
+    "title": "Stopped at East Inwood Way (387 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20960078879999,
+      "lng": -111.585066868,
+      "durationMins": 387,
+      "time": "2026-07-25T18:09:22.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785027282000-3",
+    "category": "locations",
+    "timestamp": "2026-07-26T00:54:42.000Z",
+    "title": "Stopped at East Inwood Way (2529 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.209593256790065,
+      "lng": -111.58507128000016,
+      "durationMins": 2529,
+      "time": "2026-07-26T00:54:42.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785180087000-4",
+    "category": "locations",
+    "timestamp": "2026-07-27T19:21:27.000Z",
+    "title": "Stopped at East Inwood Way (332 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.209593774257385,
+      "lng": -111.58513794752476,
+      "durationMins": 332,
+      "time": "2026-07-27T19:21:27.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785200999000-5",
+    "category": "locations",
+    "timestamp": "2026-07-28T01:09:59.000Z",
+    "title": "Stopped at East Inwood Way (122 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20957791041668,
+      "lng": -111.58505681666668,
+      "durationMins": 122,
+      "time": "2026-07-28T01:09:59.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1785208589000-1530",
+    "category": "locations",
+    "timestamp": "2026-07-28T03:16:29.000Z",
+    "title": "Traveled to 1699-1601 N Continental Dr",
+    "detail": {
+      "type": "travel",
+      "destination": "1699-1601 N Continental Dr",
+      "lat": 35.1968034,
+      "lng": -111.5930699,
+      "distanceKmFromLast": 1.6,
+      "time": "2026-07-28T03:16:29.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785209135000-6",
+    "category": "locations",
+    "timestamp": "2026-07-28T03:25:35.000Z",
+    "title": "Stopped at In-N-Out Burger (15 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "In-N-Out Burger",
+      "lat": 35.18175913157895,
+      "lng": -111.66058064736843,
+      "durationMins": 15,
+      "time": "2026-07-28T03:25:35.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1785209204000-1545",
+    "category": "locations",
+    "timestamp": "2026-07-28T03:26:44.000Z",
+    "title": "Traveled to Flagstaff",
+    "detail": {
+      "type": "travel",
+      "destination": "Flagstaff",
+      "lat": 35.1821339,
+      "lng": -111.6601137,
+      "distanceKmFromLast": 6.31,
+      "time": "2026-07-28T03:26:44.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1785210818000-1575",
+    "category": "locations",
+    "timestamp": "2026-07-28T03:53:38.000Z",
+    "title": "Traveled to 4007-4233 E Butler Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "4007-4233 E Butler Ave",
+      "lat": 35.1963404,
+      "lng": -111.5976954,
+      "distanceKmFromLast": 5.89,
+      "time": "2026-07-28T03:53:38.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785211066000-7",
+    "category": "locations",
+    "timestamp": "2026-07-28T03:57:46.000Z",
+    "title": "Stopped at East Inwood Way (1217 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.209606810282835,
+      "lng": -111.58505780334195,
+      "durationMins": 1217,
+      "time": "2026-07-28T03:57:46.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1785212135000-1590",
+    "category": "locations",
+    "timestamp": "2026-07-28T04:15:35.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2095645,
+      "lng": -111.5850807,
+      "distanceKmFromLast": 1.86,
+      "time": "2026-07-28T04:15:35.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785284941000-8",
+    "category": "locations",
+    "timestamp": "2026-07-29T00:29:01.000Z",
+    "title": "Stopped at East Inwood Way (907 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20959116744968,
+      "lng": -111.58506261879202,
+      "durationMins": 907,
+      "time": "2026-07-29T00:29:01.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785340600000-9",
+    "category": "locations",
+    "timestamp": "2026-07-29T15:56:40.000Z",
+    "title": "Stopped at East Inwood Way (280 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20958832386362,
+      "lng": -111.58509056590925,
+      "durationMins": 280,
+      "time": "2026-07-29T15:56:40.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785358701000-10",
+    "category": "locations",
+    "timestamp": "2026-07-29T20:58:21.000Z",
+    "title": "Stopped at East Inwood Way (5547 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20959922406936,
+      "lng": -111.58505900464054,
+      "durationMins": 5547,
+      "time": "2026-07-29T20:58:21.000Z"
+    }
+  }
+]

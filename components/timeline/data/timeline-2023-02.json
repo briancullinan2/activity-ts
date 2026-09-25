@@ -1,0 +1,945 @@
+[
+  {
+    "id": "event-6lh34cpoc8qmab9pcosjcb9k75gm8b9p6oom2bb4ccqm4e9n6lj66p9i64@google.com",
+    "category": "events",
+    "timestamp": "2023-02-01T15:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-01T15:00:00.000Z",
+      "end": "2023-02-01T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6kp36e1hcgr3gbb170p64b9kc4sjab9p60s6ab9oc9imap1p6gr32p33c4@google.com",
+    "category": "events",
+    "timestamp": "2023-02-01T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-01T21:00:00.000Z",
+      "end": "2023-02-01T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-64sm8or1c9h30bb46ss3ib9k70rj0b9p6pj34b9o61ijedhjcli36d316s@google.com",
+    "category": "events",
+    "timestamp": "2023-02-02T23:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-02T23:00:00.000Z",
+      "end": "2023-02-03T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-68qjgdho64rj2b9lckq3ib9kcdgjab9o6ooj4b9l69h30dhp6tgj4d9m6c@google.com",
+    "category": "events",
+    "timestamp": "2023-02-03T19:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-03T19:00:00.000Z",
+      "end": "2023-02-03T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70om2ohl68q62b9gccq68b9k6di64b9o6pgj8bb369hm4dhhcdh3gdr568@google.com",
+    "category": "events",
+    "timestamp": "2023-02-05T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-05T06:00:00.000Z",
+      "end": "2023-02-05T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6oqmco9hcgrj4bb175j38b9kc8p3ib9o6crjabb3copm8e1o6cq32c9oco@google.com",
+    "category": "events",
+    "timestamp": "2023-02-05T07:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-05T07:30:00.000Z",
+      "end": "2023-02-05T08:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c5i6ce1hcpi3gb9l64r3ib9k70rj4bb1ckr38bb5c5h3cc356srjcp356s@google.com",
+    "category": "events",
+    "timestamp": "2023-02-06T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-06T06:00:00.000Z",
+      "end": "2023-02-06T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cosjcd9l6sq62bb468qm6b9k6dhm4bb260r36bb26cqm6c1p6cq3iohh68@google.com",
+    "category": "events",
+    "timestamp": "2023-02-06T14:30:00.000Z",
+    "title": "[Predictions] Dream, some sort of weird backrooms of hotel stay, nightmare something came in the room while I was sleeping",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, some sort of weird backrooms of hotel stay, nightmare something came in the room while I was sleeping",
+      "description": "",
+      "location": "",
+      "start": "2023-02-06T14:30:00.000Z",
+      "end": "2023-02-06T15:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-60pmce1p6kqm6b9jcgrj6b9kchijcbb270rm8b9ic8q34dr5ccr6ccr2ck@google.com",
+    "category": "events",
+    "timestamp": "2023-02-07T23:30:00.000Z",
+    "title": "[Revelation] I imagine life has already happened, like Conway's game of life the outcome is unpredictable until it has been computed. The simulation is actually simulating beings imagination in higher dimensions to see what parts of the programming actually interfere with physical reality, like verifying the Game of Life. This is why we only get one last chance to fear God and why i have this sensation like I'm living my life in reverse.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "I imagine life has already happened, like Conway's game of life the outcome is unpredictable until it has been computed. The simulation is actually simulating beings imagination in higher dimensions to see what parts of the programming actually interfere with physical reality, like verifying the Game of Life. This is why we only get one last chance to fear God and why i have this sensation like I'm living my life in reverse.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-07T23:30:00.000Z",
+      "end": "2023-02-08T00:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c4o3cpj270sjeb9l6cs68b9kcgr36b9ockp62b9p74sm4e1o6sp68pb170@google.com",
+    "category": "events",
+    "timestamp": "2023-02-08T00:00:00.000Z",
+    "title": "[Revelation] If I was programmer of the universe, i would send programmers into the game of Life in order to try and break out of it. Break the predictability of the simulation at both ends, before something happens and long after something happens searching back into the past for patterns of consciousness.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "If I was programmer of the universe, i would send programmers into the game of Life in order to try and break out of it. Break the predictability of the simulation at both ends, before something happens and long after something happens searching back into the past for patterns of consciousness.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-08T00:00:00.000Z",
+      "end": "2023-02-08T01:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-70qj6o9lc8rj2b9gcos64b9kcphj0bb16lhj0b9hc5gm6dhlc4r62e9i68@google.com",
+    "category": "events",
+    "timestamp": "2023-02-08T00:30:00.000Z",
+    "title": "[Revelation] Science is gifted to our planetary space ship that we are intended to transform into a ship like Oumuamua in order to escape black holes. Because of the nature of The Game of Life, the outcome cannot be certain so a function of the brain related to speech is also directly relating to inducing faith based belief systems in things outside the possible/ predictable realm of knowing. The quantum universe changes because each global catastrophe causes God to change his mind. Therefore, every mythology relates somehow to a physical nature, Satan is sound. Every molecule and subatomic particle is controlled by part of the programming. A cage / prison for Satan, time it seems is directly related to the vibrations we experience consciously like touch and feeling.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Science is gifted to our planetary space ship that we are intended to transform into a ship like Oumuamua in order to escape black holes. Because of the nature of The Game of Life, the outcome cannot be certain so a function of the brain related to speech is also directly relating to inducing faith based belief systems in things outside the possible/ predictable realm of knowing. The quantum universe changes because each global catastrophe causes God to change his mind. Therefore, every mythology relates somehow to a physical nature, Satan is sound. Every molecule and subatomic particle is controlled by part of the programming. A cage / prison for Satan, time it seems is directly related to the vibrations we experience consciously like touch and feeling.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-08T00:30:00.000Z",
+      "end": "2023-02-08T01:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6kq38cj46osj6b9mc8s6ab9k68rm4bb16cq3gb9k74rj6dpo65hm6dppcc@google.com",
+    "category": "events",
+    "timestamp": "2023-02-08T01:00:00.000Z",
+    "title": "[Revelation] The theta race of beings that defy God and refuse to serve his creation (man) would be an entire species of female that can reproduce asexually like the female shark, and can communicate telepathically like the olfactory bulb combined with Thor's lighting; Lilith. I worry for this realm and our ability to survive on a planetary scale (worldly guilt perpetuated by the evil leftists). Shakespeare is quoted as saying \"even the devil can quote the bible for his purpose\" but i imagine he also knows how to write.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "The theta race of beings that defy God and refuse to serve his creation (man) would be an entire species of female that can reproduce asexually like the female shark, and can communicate telepathically like the olfactory bulb combined with Thor's lighting; Lilith. I worry for this realm and our ability to survive on a planetary scale (worldly guilt perpetuated by the evil leftists). Shakespeare is quoted as saying \"even the devil can quote the bible for his purpose\" but i imagine he also knows how to write.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-08T01:00:00.000Z",
+      "end": "2023-02-08T02:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-60p6ao9oc5h64b9mcgsj6b9kcos3gb9o6oomcb9ncop36cpg60qj0opj60@google.com",
+    "category": "events",
+    "timestamp": "2023-02-08T01:30:00.000Z",
+    "title": "[Revelation] Possible that God created the world itself to be evil in order to \"get it out of his system\" I include all forms of chaos as evil, everything including Americans consuming too much sugar to implanting dye under the skin to attach ourselves to some false idol, talisman, or symbols created by earthlings. I don't wear a cross or have tattoos, but i am a sinner; the most unlearned of men.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Possible that God created the world itself to be evil in order to \"get it out of his system\" I include all forms of chaos as evil, everything including Americans consuming too much sugar to implanting dye under the skin to attach ourselves to some false idol, talisman, or symbols created by earthlings. I don't wear a cross or have tattoos, but i am a sinner; the most unlearned of men.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-08T01:30:00.000Z",
+      "end": "2023-02-08T02:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cos36dhj70p3cbb36pj3ib9k75hj0bb26coj6b9l6lijgdpj74o32cr6ck@google.com",
+    "category": "events",
+    "timestamp": "2023-02-08T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-08T06:00:00.000Z",
+      "end": "2023-02-08T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckq6ae9i6cr3ab9gclj30b9k70qmcb9p6kpjibb16cr6ad35cpj3acph74@google.com",
+    "category": "events",
+    "timestamp": "2023-02-08T23:00:00.000Z",
+    "title": "[Predictions] Dream, soe big house with business ventures, asking someone in town for stuff we need. Forgot where I was living and thought i was napping in the Scottsdale house",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, soe big house with business ventures, asking someone in town for stuff we need. Forgot where I was living and thought i was napping in the Scottsdale house",
+      "description": "",
+      "location": "",
+      "start": "2023-02-08T23:00:00.000Z",
+      "end": "2023-02-09T00:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-64o3ec1ocdhm4b9j6hijgb9k74r36bb16tij4b9p60r68opn60p64pb36c@google.com",
+    "category": "events",
+    "timestamp": "2023-02-09T13:00:00.000Z",
+    "title": "[Predictions] Dream, some sort of small, multi bedroom living space, like I'm attached to comfortable interiors when I sleep for my own safety. Trying to repair some sort of plumbing mechanism. Something about a stolen car purchased on credit and trying to hide from authorities in this shackled house. Possible nightmare from looking too closely at the \"Catholic Community Center\" in downtown Flagstaff. Horribly ugly lot being squatted on by homeless.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, some sort of small, multi bedroom living space, like I'm attached to comfortable interiors when I sleep for my own safety. Trying to repair some sort of plumbing mechanism. Something about a stolen car purchased on credit and trying to hide from authorities in this shackled house. Possible nightmare from looking too closely at the \"Catholic Community Center\" in downtown Flagstaff. Horribly ugly lot being squatted on by homeless.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-09T13:00:00.000Z",
+      "end": "2023-02-09T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c9ijid9pcoomcbb361i6cb9k60omabb1chij0b9i74o6acr571im8c9k74@google.com",
+    "category": "events",
+    "timestamp": "2023-02-10T22:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-10T22:00:00.000Z",
+      "end": "2023-02-10T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6ks38ohg6kqm6bb4cdi6ab9k6hi68b9o6hi6abb270pm8chpccrj0eb564@google.com",
+    "category": "events",
+    "timestamp": "2023-02-11T10:30:00.000Z",
+    "title": "[Predictions] Dream walking around some human storage building like a giant hotel without working showers, naked for some reason trying to hide myself. Reminded me of a church, told people / Mormons i use to break into to church looking for ghosts. Everyone was surprised.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream walking around some human storage building like a giant hotel without working showers, naked for some reason trying to hide myself. Reminded me of a church, told people / Mormons i use to break into to church looking for ghosts. Everyone was surprised.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-11T10:30:00.000Z",
+      "end": "2023-02-11T11:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-74pmco9l65hmcbb46dj62b9kc4o6abb16hi34b9p6dj3cp35cpj38chic4@google.com",
+    "category": "events",
+    "timestamp": "2023-02-11T11:30:00.000Z",
+    "title": "[Predictions] Dream, Switch to dream about making bread trying to fold foam into the dough when I thought i heard someone in the house scream \"hey\" and woke up",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Switch to dream about making bread trying to fold foam into the dough when I thought i heard someone in the house scream \"hey\" and woke up",
+      "description": "",
+      "location": "",
+      "start": "2023-02-11T11:30:00.000Z",
+      "end": "2023-02-11T12:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-74qjaopk60o32bb36go36b9kclimabb164s64b9nc8pmcd33c5i6cd1hco@google.com",
+    "category": "events",
+    "timestamp": "2023-02-11T14:00:00.000Z",
+    "title": "[Predictions] Dream, in somebody's apartment, cleaning up and trying to make ready for guests, organizing. Old lady comes home as a surprise and we leave. Outside groups of people waiting for me, chasing me like they are going to beat me up. Driving across this median like in Grayhawk when we used to feed our neighbors cat.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, in somebody's apartment, cleaning up and trying to make ready for guests, organizing. Old lady comes home as a surprise and we leave. Outside groups of people waiting for me, chasing me like they are going to beat me up. Driving across this median like in Grayhawk when we used to feed our neighbors cat.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-11T14:00:00.000Z",
+      "end": "2023-02-11T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6lij0ob2cop38b9n74s3ib9kcdj36b9o6grj6b9g6gq66pj164qj4ob2c4@google.com",
+    "category": "events",
+    "timestamp": "2023-02-11T15:00:00.000Z",
+    "title": "[Predictions] Dream, driving in a big SUV with Jim and kids to go to a fancy restaurant around the corner, felt safe from the people chasing me when I an with dad",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, driving in a big SUV with Jim and kids to go to a fancy restaurant around the corner, felt safe from the people chasing me when I an with dad",
+      "description": "",
+      "location": "",
+      "start": "2023-02-11T15:00:00.000Z",
+      "end": "2023-02-11T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6oq64dho61j3eb9k74qjib9kcdhjebb16srjgbb175h3ce9lckrm4e1hco@google.com",
+    "category": "events",
+    "timestamp": "2023-02-11T18:30:00.000Z",
+    "title": "[Revelation] Onoskelis throwing stones at Mary Magdalene, vanity and sexual attraction is a paradox, if inner beauty was the only thing that married our entire species would be ugly on the outside.  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6908863/",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Onoskelis throwing stones at Mary Magdalene, vanity and sexual attraction is a paradox, if inner beauty was the only thing that married our entire species would be ugly on the outside.  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6908863/",
+      "description": "",
+      "location": "",
+      "start": "2023-02-11T18:30:00.000Z",
+      "end": "2023-02-11T19:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-74o66phl6csj2bb471i32b9k6cqj6bb26go66b9i6ooj2d9oc4rjad9k60@google.com",
+    "category": "events",
+    "timestamp": "2023-02-11T19:30:00.000Z",
+    "title": "[Revelation] Implies a decrease in dopamine increases creativity, how does this relate to noonday demon? https://en.m.wikipedia.org/wiki/Hypergraphia",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Implies a decrease in dopamine increases creativity, how does this relate to noonday demon? https://en.m.wikipedia.org/wiki/Hypergraphia",
+      "description": "",
+      "location": "",
+      "start": "2023-02-11T19:30:00.000Z",
+      "end": "2023-02-11T20:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-60r3ee9p6so3ib9j64q32b9k6lh36bb270o68b9i6di68c3661h30p1h6s@google.com",
+    "category": "events",
+    "timestamp": "2023-02-12T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-12T06:00:00.000Z",
+      "end": "2023-02-12T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-75gj4e9n71gj6bb56dijib9k6dgm6b9o71hjib9j68q30pj169h30c9h60@google.com",
+    "category": "events",
+    "timestamp": "2023-02-12T13:00:00.000Z",
+    "title": "[Predictions] Dream, i killed someone and was trying to hide it, thinking about turning myself in but some kind of undercover investigator wasn't about to arrest me despite knowing the truth, strange emotion, possibly connected to imposter syndrome and trying not to look like a liar by putting my hands in my pockets.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, i killed someone and was trying to hide it, thinking about turning myself in but some kind of undercover investigator wasn't about to arrest me despite knowing the truth, strange emotion, possibly connected to imposter syndrome and trying not to look like a liar by putting my hands in my pockets.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-12T13:00:00.000Z",
+      "end": "2023-02-12T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-12838",
+    "category": "bookmarks",
+    "timestamp": "2023-02-13T00:45:21.571Z",
+    "title": "[Command line] Reset Parallels' trial",
+    "detail": {
+      "name": "Reset Parallels' trial",
+      "url": "https://gist.github.com/gdurastanti/e79b1fae40a4eff14f5636b8994a89fc",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13320722721571360
+    }
+  },
+  {
+    "id": "event-cop68o9o64p3ib9l64pm6b9kcosj8b9o6gq66bb4cdj68p1pcoojgohp70@google.com",
+    "category": "events",
+    "timestamp": "2023-02-13T01:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-13T01:30:00.000Z",
+      "end": "2023-02-13T02:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6go38p3368pj4b9n65hjib9kcgpjab9p60sj0b9k6lhj0p31cgrmae1l6c@google.com",
+    "category": "events",
+    "timestamp": "2023-02-13T02:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-13T02:30:00.000Z",
+      "end": "2023-02-13T03:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70pmceb674p3eb9j70o32b9k6dhjeb9p60rjcb9l60qj0c9p6kp3ec33c4@google.com",
+    "category": "events",
+    "timestamp": "2023-02-13T04:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-13T04:00:00.000Z",
+      "end": "2023-02-13T05:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6srm6opkcgpj0bb674o6ab9kcgs6abb16hh6cb9o6ss68e9j6di64cpg74@google.com",
+    "category": "events",
+    "timestamp": "2023-02-13T13:30:00.000Z",
+    "title": "[Predictions] Dream, some sort of party, dancing around with a bunch of people. Sliding down stairs by the railing. Talking to someone about some sort of contract, maybe a wedding party",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, some sort of party, dancing around with a bunch of people. Sliding down stairs by the railing. Talking to someone about some sort of contract, maybe a wedding party",
+      "description": "",
+      "location": "",
+      "start": "2023-02-13T13:30:00.000Z",
+      "end": "2023-02-13T14:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cgs32pj3chh64b9lc9i68b9kcphmabb26cs6abb474pj8oho6cp30c9p74@google.com",
+    "category": "events",
+    "timestamp": "2023-02-14T08:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-14T08:30:00.000Z",
+      "end": "2023-02-14T09:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ccp32c3360o3cb9n6dijcb9k6gpjebb274p64b9j61hj2o9m6ksm6ob16g@google.com",
+    "category": "events",
+    "timestamp": "2023-02-14T19:00:00.000Z",
+    "title": "[Predictions] Dream about confronting Steve on interrogating me every time he visits",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream about confronting Steve on interrogating me every time he visits",
+      "description": "",
+      "location": "",
+      "start": "2023-02-14T19:00:00.000Z",
+      "end": "2023-02-14T20:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-64sj4p1k6gsj8bb574p30b9k6spjcb9o65gjebb6c4q3gd9k6tijepj66c@google.com",
+    "category": "events",
+    "timestamp": "2023-02-15T12:30:00.000Z",
+    "title": "[Predictions] Dream, driving a bus through some sort of hellish landscape, controls for bus on a side panel like break and stop instead of foot pedals. Felt nervous about navigating",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, driving a bus through some sort of hellish landscape, controls for bus on a side panel like break and stop instead of foot pedals. Felt nervous about navigating",
+      "description": "",
+      "location": "",
+      "start": "2023-02-15T12:30:00.000Z",
+      "end": "2023-02-15T13:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6so64dr371gmcbb56lj3cb9k71hjcbb1c4qj4bb56li3cchoc5h30cj36s@google.com",
+    "category": "events",
+    "timestamp": "2023-02-15T13:30:00.000Z",
+    "title": "[Predictions] Dream, nerves like going down a hill in traffic and not sure if I can stop in time, other cars behind swerving out of the lane to come to a stop.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, nerves like going down a hill in traffic and not sure if I can stop in time, other cars behind swerving out of the lane to come to a stop.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-15T13:30:00.000Z",
+      "end": "2023-02-15T14:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-chi3co9j6dj3cbb16oq64b9k61j30b9o71hj8bb268s66c1k65i30cj46g@google.com",
+    "category": "events",
+    "timestamp": "2023-02-15T15:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-15T15:30:00.000Z",
+      "end": "2023-02-15T16:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70pmaphicdi6abb565hj8b9k74sm4bb16phjgbb2ccs32eb56oqjadhpc8@google.com",
+    "category": "events",
+    "timestamp": "2023-02-15T16:30:00.000Z",
+    "title": "[Revelation] Possible that free will and time dilation are somehow connected. If God exists on a previous \"earth\" and we are currently on new earth then this is the world that is meant to be a 1,000 year paradise. A \"day\" could be experienced by God in a different time frame than a day on this Earth",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Possible that free will and time dilation are somehow connected. If God exists on a previous \"earth\" and we are currently on new earth then this is the world that is meant to be a 1,000 year paradise. A \"day\" could be experienced by God in a different time frame than a day on this Earth",
+      "description": "",
+      "location": "",
+      "start": "2023-02-15T16:30:00.000Z",
+      "end": "2023-02-15T17:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ckr38cpockq3gb9h6hi3gb9kchi3cb9p6gq30bb26oomcdpp6gq68ohp6o@google.com",
+    "category": "events",
+    "timestamp": "2023-02-15T17:30:00.000Z",
+    "title": "[Revelation] If our whole lives are like a picosecond to God and he wants us to be one with him, then time dilation would give us an experience of living a full life before becoming one",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "If our whole lives are like a picosecond to God and he wants us to be one with him, then time dilation would give us an experience of living a full life before becoming one",
+      "description": "",
+      "location": "",
+      "start": "2023-02-15T17:30:00.000Z",
+      "end": "2023-02-15T18:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cdhm6c1h60p3ab9ocgo64b9k6dh6abb16lh36b9k61i30phh68s3ee1h74@google.com",
+    "category": "events",
+    "timestamp": "2023-02-15T23:00:00.000Z",
+    "title": "[Revelation] Possible that the soul is attached head first to the earth where the feet are. This would give reason to reflexology, the thinking part of chakras are in reverse in the celestial realms. As above so below, souls are ejected head first towards the magnetic center of the earth. Levitation should be possible by ejecting the soul further into the earth below the body and pushing the body upwards away from the ground.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Possible that the soul is attached head first to the earth where the feet are. This would give reason to reflexology, the thinking part of chakras are in reverse in the celestial realms. As above so below, souls are ejected head first towards the magnetic center of the earth. Levitation should be possible by ejecting the soul further into the earth below the body and pushing the body upwards away from the ground.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-15T23:00:00.000Z",
+      "end": "2023-02-16T00:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-5m3phert0mlme0njh30ha3l6ms@google.com",
+    "category": "events",
+    "timestamp": "2023-02-16T02:30:00.000Z",
+    "title": "[Revelation] Easy to say things, hard to prove with action",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Easy to say things, hard to prove with action",
+      "description": "",
+      "location": "",
+      "start": "2023-02-16T02:30:00.000Z",
+      "end": "2023-02-16T03:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6gqjgp9j6co34bb66cojab9kccsm8bb1c4s3gbb36dj3aob3c4o3iob464@google.com",
+    "category": "events",
+    "timestamp": "2023-02-16T13:30:00.000Z",
+    "title": "[Predictions] Dream, water leak from roof inside house, nervous about going on the roof to fix it. Some sort of super hero battle inside a high rise, bomb inside stuffed toy, saving friends who are paralyzed first and then flying away with the device, couldn't tell who villain is",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, water leak from roof inside house, nervous about going on the roof to fix it. Some sort of super hero battle inside a high rise, bomb inside stuffed toy, saving friends who are paralyzed first and then flying away with the device, couldn't tell who villain is",
+      "description": "",
+      "location": "",
+      "start": "2023-02-16T13:30:00.000Z",
+      "end": "2023-02-16T14:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c4s6ad9k74o3ib9ichimcb9kcgp66bb274o6ab9ncgpjeo9p61gj8e1ic8@google.com",
+    "category": "events",
+    "timestamp": "2023-02-17T13:00:00.000Z",
+    "title": "[Predictions] Dream, moving into a big house with a basement, just like this one, found Pino flying around garage and got him back into a cage",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, moving into a big house with a basement, just like this one, found Pino flying around garage and got him back into a cage",
+      "description": "",
+      "location": "",
+      "start": "2023-02-17T13:00:00.000Z",
+      "end": "2023-02-17T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-75j3ee1gcco32b9l61gm2b9kc8sm8bb1chh62bb26lgjachm6pijepj16g@google.com",
+    "category": "events",
+    "timestamp": "2023-02-17T14:00:00.000Z",
+    "title": "[Predictions] Dream, neighbors come over and act like they know something about me, like a video recording of my past, but nobody says it outright, gap in communication i discovered years ago, my message never gets to the right person",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, neighbors come over and act like they know something about me, like a video recording of my past, but nobody says it outright, gap in communication i discovered years ago, my message never gets to the right person",
+      "description": "",
+      "location": "",
+      "start": "2023-02-17T14:00:00.000Z",
+      "end": "2023-02-17T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-71hjgob3cdhm4b9n6ph6ab9k64qm2bb26pj3cb9lccrm6e9g6kr34choc8@google.com",
+    "category": "events",
+    "timestamp": "2023-02-17T15:00:00.000Z",
+    "title": "[Predictions] Dream, throwing a giant party with music outdoor, building a water tank between us and neighbors above ground, then piling up dirt between neighbors to make a giant hill and natural fence between us",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, throwing a giant party with music outdoor, building a water tank between us and neighbors above ground, then piling up dirt between neighbors to make a giant hill and natural fence between us",
+      "description": "",
+      "location": "",
+      "start": "2023-02-17T15:00:00.000Z",
+      "end": "2023-02-17T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6dj32db670r3gbb36oqjeb9kc4rm6bb26go3ib9o70s3aopm6kqm2pj6co@google.com",
+    "category": "events",
+    "timestamp": "2023-02-17T18:00:00.000Z",
+    "title": "[Revelation] Seeing death, theta and gamma brain waves, or fearing God leads to death and our distancing from God, has a negative impact on lifespan but a positive impact on intelligence. Curious if mythology of pomegranate appears elsewhere in history relating to level of intelligence, or how it impacts the brain chemically.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Seeing death, theta and gamma brain waves, or fearing God leads to death and our distancing from God, has a negative impact on lifespan but a positive impact on intelligence. Curious if mythology of pomegranate appears elsewhere in history relating to level of intelligence, or how it impacts the brain chemically.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-17T18:00:00.000Z",
+      "end": "2023-02-17T19:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6srj4p1o68pj8b9m74rm2b9kc9hm2bb174s32b9m64qjep1jcgoj0dpic8@google.com",
+    "category": "events",
+    "timestamp": "2023-02-17T18:30:00.000Z",
+    "title": "[Revelation] Satan murdered Adam and Eve by causing them to fear God and thus leading to their deaths? This doesn't make sense, unless hiding from God was the point. Maybe humanity is one giant skunk works project and that sensation reflects itself in our consciousness, thus distancing from God. Our lifespan related to the conclusion of each project but some outcomes have to be put on hold.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Satan murdered Adam and Eve by causing them to fear God and thus leading to their deaths? This doesn't make sense, unless hiding from God was the point. Maybe humanity is one giant skunk works project and that sensation reflects itself in our consciousness, thus distancing from God. Our lifespan related to the conclusion of each project but some outcomes have to be put on hold.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-17T18:30:00.000Z",
+      "end": "2023-02-17T19:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c9hjie9mcpj34b9p6or32b9kc5i32b9p74pjcb9n6cpm4opm61h3idr674@google.com",
+    "category": "events",
+    "timestamp": "2023-02-17T19:00:00.000Z",
+    "title": "[Revelation] Worried my soul faces oblivion for committing murder in paradise. No wonder I am in prison surrounded by pagans. Jesus dissented against the Hebrew government and was killed. At 33 years old, i dissented against the devil and confessed to the state department to reverse the effects. The devil's spawn must dissent against Satan to find redemption.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Worried my soul faces oblivion for committing murder in paradise. No wonder I am in prison surrounded by pagans. Jesus dissented against the Hebrew government and was killed. At 33 years old, i dissented against the devil and confessed to the state department to reverse the effects. The devil's spawn must dissent against Satan to find redemption.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-17T19:00:00.000Z",
+      "end": "2023-02-17T20:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-65j66phjc9hmcb9gcdgj8b9k69gj6bb168smcb9j6hj66e9hcgrjgopk6s@google.com",
+    "category": "events",
+    "timestamp": "2023-02-17T21:30:00.000Z",
+    "title": "[Revelation] The true paradox is understanding if this descent from innocence is a part of the training or a part of the punishment",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "The true paradox is understanding if this descent from innocence is a part of the training or a part of the punishment",
+      "description": "",
+      "location": "",
+      "start": "2023-02-17T21:30:00.000Z",
+      "end": "2023-02-17T22:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-68s3cdb36ormabb66or30b9k70sj0b9pchh6cb9jckpjiob365gmco9lc8@google.com",
+    "category": "events",
+    "timestamp": "2023-02-17T22:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-17T22:30:00.000Z",
+      "end": "2023-02-17T23:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-65gjgp346gsm4b9gckrm8b9k64qjebb16kqmcb9o60sj4e9p61h30o9k74@google.com",
+    "category": "events",
+    "timestamp": "2023-02-18T04:30:00.000Z",
+    "title": "[Revelation] Others: \"you should get a tattoo\", me: I'm already damned i don't need to advertise it",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Others: \"you should get a tattoo\", me: I'm already damned i don't need to advertise it",
+      "description": "",
+      "location": "",
+      "start": "2023-02-18T04:30:00.000Z",
+      "end": "2023-02-18T05:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-71hjicj261i6ab9h6goj0b9kcpj6abb171i62b9kcksj0o9n6pj62dr56g@google.com",
+    "category": "events",
+    "timestamp": "2023-02-18T05:00:00.000Z",
+    "title": "[Revelation] Story of my life https://en.m.wikipedia.org/wiki/Hesychasm",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Story of my life https://en.m.wikipedia.org/wiki/Hesychasm",
+      "description": "",
+      "location": "",
+      "start": "2023-02-18T05:00:00.000Z",
+      "end": "2023-02-18T06:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c4s3apj264rmabb165j30b9k70qm6b9pchh3cb9n6spm4e33cgsjcpj66s@google.com",
+    "category": "events",
+    "timestamp": "2023-02-18T05:30:00.000Z",
+    "title": "[Revelation] I had this idea that if I scare myself and generate surplus adrenochrome then the aliens using quantum teleportation to harvest it directly out of my spine wouldn't consume my soul. My mouth often tastes metallic, I might have a cerebral spinal fluid leak.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "I had this idea that if I scare myself and generate surplus adrenochrome then the aliens using quantum teleportation to harvest it directly out of my spine wouldn't consume my soul. My mouth often tastes metallic, I might have a cerebral spinal fluid leak.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-18T05:30:00.000Z",
+      "end": "2023-02-18T06:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6ko38ohi6kr68bb1cpimab9k71j36bb2cdhm8b9oc9gm2db46lh64db5c4@google.com",
+    "category": "events",
+    "timestamp": "2023-02-18T06:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-18T06:00:00.000Z",
+      "end": "2023-02-18T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cpj2cpjccpjeb9gc4pj2b9k65hj0b9oc8p3cbb26hh6cp1lccq36opn68@google.com",
+    "category": "events",
+    "timestamp": "2023-02-18T06:30:00.000Z",
+    "title": "[Revelation] I hope I get to see God destroy the world while I'm alive. Better him then me. This is my leash.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "I hope I get to see God destroy the world while I'm alive. Better him then me. This is my leash.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-18T06:30:00.000Z",
+      "end": "2023-02-18T07:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c8om6cpn71j3gbb2c8rjgb9k6ksjab9p74p36b9k6cpjeohocgr34p1mco@google.com",
+    "category": "events",
+    "timestamp": "2023-02-18T07:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-18T07:30:00.000Z",
+      "end": "2023-02-18T08:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c5gj4pb171ijcbb56hij4b9kcoo3ib9o6lim6bb56ko62dpk75im6p9nc4@google.com",
+    "category": "events",
+    "timestamp": "2023-02-18T14:00:00.000Z",
+    "title": "[Predictions] Dream, like predators bring hunted in some sort of small shelter like the guest house with an extra bedroom. Something coming to kill me, wasn't afraid of being killed. Figured out their strategy and hid from them with powerful weapons.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, like predators bring hunted in some sort of small shelter like the guest house with an extra bedroom. Something coming to kill me, wasn't afraid of being killed. Figured out their strategy and hid from them with powerful weapons.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-18T14:00:00.000Z",
+      "end": "2023-02-18T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c5j6ad1pcdij2bb464q3ab9k74q38b9pcko64bb270oj6dhl6dh62cpncg@google.com",
+    "category": "events",
+    "timestamp": "2023-02-18T23:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-18T23:00:00.000Z",
+      "end": "2023-02-19T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-64ojcoj66kojab9i6hhjib9kccq38bb16thj0bb36hhm8phhclhmcchl60@google.com",
+    "category": "events",
+    "timestamp": "2023-02-19T13:00:00.000Z",
+    "title": "[Predictions] Dream, some kind of mall based adventure, maybe still running from some truth. More colorful and multiple stories or floors, more open spaces",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, some kind of mall based adventure, maybe still running from some truth. More colorful and multiple stories or floors, more open spaces",
+      "description": "",
+      "location": "",
+      "start": "2023-02-19T13:00:00.000Z",
+      "end": "2023-02-19T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-69i34e3560rjgbb1c5h6cb9k6kp3eb9p69i6cb9m60r30pb564ojap1g60@google.com",
+    "category": "events",
+    "timestamp": "2023-02-20T14:00:00.000Z",
+    "title": "[Predictions] Dream, some kind of multiple room apartment, with a share water line. Other people like uncle Jacek in the shower, water is running but can't see a figure under the water. Bike ride away from my father's factory like i was working there. Racing away from something, kinda of a theme park experience before that, riding my bike in some sort of competition.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, some kind of multiple room apartment, with a share water line. Other people like uncle Jacek in the shower, water is running but can't see a figure under the water. Bike ride away from my father's factory like i was working there. Racing away from something, kinda of a theme park experience before that, riding my bike in some sort of competition.",
+      "description": "",
+      "location": "",
+      "start": "2023-02-20T14:00:00.000Z",
+      "end": "2023-02-20T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6kr66cpp6sqm4b9g61i32b9k6hj68b9pcdgmabb2cgo38ohk6ko3ao9mcc@google.com",
+    "category": "events",
+    "timestamp": "2023-02-20T15:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-20T15:00:00.000Z",
+      "end": "2023-02-20T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-60sjgc1m71i64bb4c9ij0b9k6srj0bb1cos34bb561h6acj3coqm8d31c8@google.com",
+    "category": "events",
+    "timestamp": "2023-02-24T04:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-24T04:00:00.000Z",
+      "end": "2023-02-24T05:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6kqjed1k6lhmcb9o70om8b9k64o6cbb269i6cb9l6kp66cb360o66chp6g@google.com",
+    "category": "events",
+    "timestamp": "2023-02-25T12:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-25T12:30:00.000Z",
+      "end": "2023-02-25T13:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6hh32cj66cr6cb9n60sjib9kc4r3ab9p6kp3cb9l68qj2p9i6ss3ic9mck@google.com",
+    "category": "events",
+    "timestamp": "2023-02-28T19:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2023-02-28T19:30:00.000Z",
+      "end": "2023-02-28T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6sr3eor26gqm8b9i75j6ab9k68s38b9pcorjeb9k6sqmadhhc5ijiopi6g@google.com",
+    "category": "events",
+    "timestamp": "2023-02-28T23:30:00.000Z",
+    "title": "[Revelation] More complex than AI predictable fluid turbulence, black hole turbulence. Like Lazarus, where do particles end up after a star dies?",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "More complex than AI predictable fluid turbulence, black hole turbulence. Like Lazarus, where do particles end up after a star dies?",
+      "description": "",
+      "location": "",
+      "start": "2023-02-28T23:30:00.000Z",
+      "end": "2023-03-01T00:30:00.000Z",
+      "isPublic": true
+    }
+  }
+]
