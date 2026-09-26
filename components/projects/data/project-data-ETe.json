@@ -1,8 +1,8 @@
 {
   "projectName": "ETe",
-  "localPath": "C:\\Users\\megam\\ETe",
-  "remoteUrl": "git@github.com:briancullinan2/ETe.git",
-  "lastUpdated": "2026-09-24T17:52:27.709Z",
+  "localPath": "D:\\ETe",
+  "remoteUrl": "git@github.com:etfdevs/ETe.git",
+  "lastUpdated": "2026-09-26T04:42:38.486Z",
   "screenshots": [],
   "dailyHeat": {
     "2026-07-06": {
@@ -51,6 +51,94 @@
             "src/win32/msvc2017/renderervk.vcxproj.filters",
             "src/win32/msvc2017/ui.vcxproj",
             "src/win32/msvc2017/ui.vcxproj.filters"
+          ]
+        }
+      ]
+    },
+    "2024-12-17": {
+      "date": "2024-12-17",
+      "heatScore": 10,
+      "linesChanged": 4,
+      "commitCount": 1,
+      "filesEdited": [
+        "src/unix/unix_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "065478ef31dcef96dd5171af9cfead30d937c255",
+          "author": "Brian Cullinan",
+          "date": "2024-12-17T21:14:22.000Z",
+          "message": "load dylib instead",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "src/unix/unix_main.c"
+          ]
+        }
+      ]
+    },
+    "2024-08-23": {
+      "date": "2024-08-23",
+      "heatScore": 51,
+      "linesChanged": 19,
+      "commitCount": 5,
+      "filesEdited": [
+        ".github/workflows/ci.yml"
+      ],
+      "commits": [
+        {
+          "hash": "a40de68a02c6ebaf9426c3d579909e041e9aedbf",
+          "author": "Brian Cullinan",
+          "date": "2024-08-24T02:59:49.000Z",
+          "message": "weird bug in arch cmake",
+          "linesAdded": 3,
+          "linesDeleted": 1,
+          "filesChanged": [
+            ".github/workflows/ci.yml"
+          ]
+        },
+        {
+          "hash": "739c2ea53bb1c3e406c8392b3fb00f74957d1058",
+          "author": "Brian Cullinan",
+          "date": "2024-08-24T02:55:33.000Z",
+          "message": "skip md5 for now",
+          "linesAdded": 0,
+          "linesDeleted": 2,
+          "filesChanged": [
+            ".github/workflows/ci.yml"
+          ]
+        },
+        {
+          "hash": "2833c926ec994d35b5ff0f9fdd88bd14c23501c4",
+          "author": "Brian Cullinan",
+          "date": "2024-08-24T02:44:28.000Z",
+          "message": "arch exe name",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            ".github/workflows/ci.yml"
+          ]
+        },
+        {
+          "hash": "7d421685de5fa86e51a03cb645ac108da0d2a8d7",
+          "author": "Brian Cullinan",
+          "date": "2024-08-24T02:39:04.000Z",
+          "message": "moving arch?",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            ".github/workflows/ci.yml"
+          ]
+        },
+        {
+          "hash": "d6cecf6b08e93c87c48b9e5670e08907f323e9fa",
+          "author": "Brian Cullinan",
+          "date": "2024-08-24T02:35:55.000Z",
+          "message": "adding mac",
+          "linesAdded": 6,
+          "linesDeleted": 1,
+          "filesChanged": [
+            ".github/workflows/ci.yml"
           ]
         }
       ]

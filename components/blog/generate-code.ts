@@ -302,7 +302,7 @@ export async function blogAboutCode(
 Write a technical blog post entry analyzing these code files changes and do not repeat this information back, make it purely analysis and examplary. Do not over explain every single commit:
 File name for reference: ${file}
 Commits for reference:
-${commits}
+${commits.substring(0, 1000)}
 Additions for reference:
 ${summary.files[file].additions.join('\n').substring(0, 1000)}
 Deletions for reference:

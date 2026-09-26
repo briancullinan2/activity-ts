@@ -1,0 +1,122 @@
+{
+  "projectName": "minetest",
+  "localPath": "D:\\minetest",
+  "remoteUrl": "git@github.com:minetest/minetest.git",
+  "lastUpdated": "2026-09-26T04:42:48.801Z",
+  "screenshots": [
+    {
+      "filename": "no_screenshot.png",
+      "relativePath": "textures\\base\\pack\\no_screenshot.png",
+      "date": "2023-12-20T01:47:16.140Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "error_screenshot.png",
+      "relativePath": "textures\\base\\pack\\error_screenshot.png",
+      "date": "2023-12-20T01:47:16.140Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "loading_screenshot.png",
+      "relativePath": "textures\\base\\pack\\loading_screenshot.png",
+      "date": "2023-12-20T01:47:16.140Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.png",
+      "relativePath": "games\\devtest\\screenshot.png",
+      "date": "2023-12-20T01:47:16.030Z",
+      "source": "mtime"
+    }
+  ],
+  "dailyHeat": {
+    "2023-10-09": {
+      "date": "2023-10-09",
+      "heatScore": 100,
+      "linesChanged": 6236,
+      "commitCount": 1,
+      "filesEdited": [
+        "po/jv/minetest.po"
+      ],
+      "commits": [
+        {
+          "hash": "3127dd902ac8e9a36b7c9604457576e2160a7f6c",
+          "author": "Christian Elbrianno",
+          "date": "2023-10-09T13:05:13.000Z",
+          "message": "Added translation using Weblate (Javanese)",
+          "linesAdded": 6236,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "po/jv/minetest.po"
+          ]
+        }
+      ]
+    },
+    "2021-04-10": {
+      "date": "2021-04-10",
+      "heatScore": 22,
+      "linesChanged": 34,
+      "commitCount": 2,
+      "filesEdited": [
+        "po/fr/minetest.po"
+      ],
+      "commits": [
+        {
+          "hash": "d3fb83db6bf302802ecea531437c1bd3cc192915",
+          "author": "Brian Gaucher",
+          "date": "2021-04-10T12:00:16.000Z",
+          "message": "Translated using Weblate (French)",
+          "linesAdded": 8,
+          "linesDeleted": 9,
+          "filesChanged": [
+            "po/fr/minetest.po"
+          ]
+        },
+        {
+          "hash": "b7c502c8d1eb7a85af972c2c900f3385d3f6e30d",
+          "author": "Brian Gaucher",
+          "date": "2021-04-10T12:00:16.000Z",
+          "message": "Translated using Weblate (French)",
+          "linesAdded": 8,
+          "linesDeleted": 9,
+          "filesChanged": [
+            "po/fr/minetest.po"
+          ]
+        }
+      ]
+    },
+    "2020-08-13": {
+      "date": "2020-08-13",
+      "heatScore": 23,
+      "linesChanged": 46,
+      "commitCount": 2,
+      "filesEdited": [
+        "po/fr/minetest.po"
+      ],
+      "commits": [
+        {
+          "hash": "6cca7c19962213a3e4fa35b0814287c5792ed311",
+          "author": "Brian Gaucher",
+          "date": "2020-08-14T02:45:57.000Z",
+          "message": "Translated using Weblate (French)",
+          "linesAdded": 10,
+          "linesDeleted": 10,
+          "filesChanged": [
+            "po/fr/minetest.po"
+          ]
+        },
+        {
+          "hash": "683cc45a5c7287109f4e6600ef39207c9c150fe5",
+          "author": "Brian Gaucher",
+          "date": "2020-08-14T02:27:14.000Z",
+          "message": "Translated using Weblate (French)",
+          "linesAdded": 13,
+          "linesDeleted": 13,
+          "filesChanged": [
+            "po/fr/minetest.po"
+          ]
+        }
+      ]
+    }
+  }
+}

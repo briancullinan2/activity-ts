@@ -1,0 +1,59 @@
+{
+  "projectName": "jupyter_test",
+  "localPath": "D:\\jupyter_test",
+  "remoteUrl": "https://git.pryor.games/briancullinan/jupyter_slim.git",
+  "lastUpdated": "2026-09-26T04:42:44.499Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2025-04-14": {
+      "date": "2025-04-14",
+      "heatScore": 100,
+      "linesChanged": 17750,
+      "commitCount": 1,
+      "filesEdited": [
+        ".gitignore",
+        "Core/__init__.py",
+        "Core/balanced.ipynb",
+        "Core/cache.ipynb",
+        "Core/documentation.ipynb",
+        "Core/files.ipynb",
+        "Core/import.ipynb",
+        "Core/index.js",
+        "Core/levenshtein.ipynb",
+        "Core/minimatch.ipynb",
+        "Core/node express.ipynb",
+        "Core/patterns.ipynb",
+        "Core/pyimport.ipynb",
+        "Core/syntax.ipynb",
+        "package.json"
+      ],
+      "commits": [
+        {
+          "hash": "33c8cf0063a35d7a7cebc8a9ce8c03fb40f0c681",
+          "author": "Brian Cullinan",
+          "date": "2025-04-14T17:33:25.000Z",
+          "message": "initial commit",
+          "linesAdded": 17750,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".gitignore",
+            "Core/__init__.py",
+            "Core/balanced.ipynb",
+            "Core/cache.ipynb",
+            "Core/documentation.ipynb",
+            "Core/files.ipynb",
+            "Core/import.ipynb",
+            "Core/index.js",
+            "Core/levenshtein.ipynb",
+            "Core/minimatch.ipynb",
+            "Core/node express.ipynb",
+            "Core/patterns.ipynb",
+            "Core/pyimport.ipynb",
+            "Core/syntax.ipynb",
+            "package.json"
+          ]
+        }
+      ]
+    }
+  }
+}

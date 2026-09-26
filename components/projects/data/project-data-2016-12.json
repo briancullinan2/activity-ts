@@ -1,0 +1,86 @@
+{
+  "yearMonth": "2016-12",
+  "generatedAt": "2026-09-26T04:31:28.808Z",
+  "username": "briancullinan2",
+  "projects": {
+    "studysauce3": {
+      "projectName": "studysauce3",
+      "localPath": "D:\\studysauce3",
+      "remoteUrl": "git@bitbucket.org:StudySauce/studysauce3.git",
+      "lastUpdated": "2026-09-26T04:30:48.213Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2016-12-27": {
+          "date": "2016-12-27",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/StudySauce/Bundle/Resources/public/js/sauce.js"
+          ],
+          "commits": [
+            {
+              "hash": "af8c983947d4e5bd7c33640a107f4a428ee8b0ec",
+              "author": "bjcullinan",
+              "date": "2016-12-27T22:40:18.000Z",
+              "message": "no message",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/public/js/sauce.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "studysauceapp": {
+      "projectName": "studysauceapp",
+      "localPath": "D:\\studysauceapp",
+      "remoteUrl": "https://bjcullinan@bitbucket.org/studysauce/studysauceapp",
+      "lastUpdated": "2026-09-26T04:31:17.427Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2016-12-11": {
+          "date": "2016-12-11",
+          "heatScore": 74,
+          "linesChanged": 814,
+          "commitCount": 2,
+          "filesEdited": [
+            "StudySauce/Info.plist",
+            "StudySauce/AppDelegate+Theme.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/UserAddController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "038d1550cbcd705b87b3fd0abd5d73be77a96f47",
+              "author": "bjcullinan",
+              "date": "2016-12-12T05:39:55.000Z",
+              "message": "no message",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "StudySauce/Info.plist"
+              ]
+            },
+            {
+              "hash": "013f4b4471845a29eff1ad11b40de243b475ce2d",
+              "author": "bjcullinan",
+              "date": "2016-12-11T17:12:34.000Z",
+              "message": "no message",
+              "linesAdded": 403,
+              "linesDeleted": 409,
+              "filesChanged": [
+                "StudySauce/AppDelegate+Theme.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Info.plist",
+                "StudySauce/UserAddController.swift"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

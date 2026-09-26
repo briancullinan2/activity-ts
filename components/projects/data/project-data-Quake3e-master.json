@@ -1,0 +1,43 @@
+{
+  "projectName": "Quake3e-master",
+  "localPath": "D:\\Quake3e-master",
+  "remoteUrl": "git@github.com:ec-/Quake3e.git",
+  "lastUpdated": "2026-09-26T04:46:16.953Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2022-06-16": {
+      "date": "2022-06-16",
+      "heatScore": 12,
+      "linesChanged": 36,
+      "commitCount": 1,
+      "filesEdited": [
+        "Makefile",
+        "code/renderer2/qgl.h",
+        "code/renderer2/tr_bsp.c",
+        "code/renderer2/tr_dsa.c",
+        "code/renderer2/tr_image.c",
+        "code/renderer2/tr_shader.c",
+        "code/renderer2/tr_surface.c"
+      ],
+      "commits": [
+        {
+          "hash": "9b99868dce06cb60212cc98a444a420956508859",
+          "author": "megamind",
+          "date": "2022-06-16T18:50:24.000Z",
+          "message": "renderer fixes for dark models left over from changes some time ago",
+          "linesAdded": 24,
+          "linesDeleted": 12,
+          "filesChanged": [
+            "Makefile",
+            "code/renderer2/qgl.h",
+            "code/renderer2/tr_bsp.c",
+            "code/renderer2/tr_dsa.c",
+            "code/renderer2/tr_image.c",
+            "code/renderer2/tr_shader.c",
+            "code/renderer2/tr_surface.c"
+          ]
+        }
+      ]
+    }
+  }
+}

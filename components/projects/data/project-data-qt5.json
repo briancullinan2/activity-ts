@@ -1,0 +1,129 @@
+{
+  "projectName": "qt5",
+  "localPath": "D:\\qt5",
+  "remoteUrl": "git@github.com:qt/qt5.git",
+  "lastUpdated": "2026-09-26T04:45:40.934Z",
+  "screenshots": [
+    {
+      "filename": "wayland-screenshot.jpg",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\third_party\\weston\\src\\doc\\wayland-screenshot.jpg",
+      "date": "2024-09-02T02:39:34.820Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.png",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\third_party\\quic_trace\\src\\examples\\screenshot.png",
+      "date": "2024-09-02T02:39:32.910Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "profile-screenshot.png",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\docs\\media\\profile-screenshot.png",
+      "date": "2024-09-02T02:39:22.970Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "notification_screenshot_icon.png",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\chrome\\app\\theme\\default_200_percent\\common\\notification_screenshot_icon.png",
+      "date": "2024-09-02T02:39:20.450Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "standalone-screenshot.png",
+      "relativePath": "qtwebchannel\\examples\\webchannel\\standalone\\doc\\images\\standalone-screenshot.png",
+      "date": "2024-09-02T02:30:20.180Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "rgbController-screenshot.png",
+      "relativePath": "qttools\\src\\designer\\src\\designer\\doc\\images\\rgbController-screenshot.png",
+      "date": "2024-09-02T02:30:19.490Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "qtdesignerscreenshot.png",
+      "relativePath": "qttools\\src\\designer\\src\\designer\\doc\\images\\qtdesignerscreenshot.png",
+      "date": "2024-09-02T02:30:19.490Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "designer-screenshot.png",
+      "relativePath": "qttools\\src\\designer\\src\\designer\\doc\\images\\designer-screenshot.png",
+      "date": "2024-09-02T02:30:19.480Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "designer-multiple-screenshot.png",
+      "relativePath": "qttools\\src\\designer\\src\\designer\\doc\\images\\designer-multiple-screenshot.png",
+      "date": "2024-09-02T02:30:19.480Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot_3_bananas.jpeg",
+      "relativePath": "qtquick3d\\src\\3rdparty\\assimp\\src\\test\\models-nonbsd\\AMF\\screenshot_3_bananas.jpeg",
+      "date": "2024-09-02T02:30:17.550Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "3d_viewer_screenshot.png",
+      "relativePath": "qtquick3d\\src\\3rdparty\\assimp\\src\\port\\PyAssimp\\3d_viewer_screenshot.png",
+      "date": "2024-09-02T02:30:17.520Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-screenshot.png",
+      "relativePath": "qtbase\\src\\widgets\\doc\\images\\addressbook-tutorial-screenshot.png",
+      "date": "2024-09-02T02:29:13.990Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part3-screenshot.png",
+      "relativePath": "qtbase\\src\\widgets\\doc\\images\\addressbook-tutorial-part3-screenshot.png",
+      "date": "2024-09-02T02:29:13.990Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part5-screenshot.png",
+      "relativePath": "qtbase\\src\\widgets\\doc\\images\\addressbook-tutorial-part5-screenshot.png",
+      "date": "2024-09-02T02:29:13.990Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part7-screenshot.png",
+      "relativePath": "qtbase\\src\\widgets\\doc\\images\\addressbook-tutorial-part7-screenshot.png",
+      "date": "2024-09-02T02:29:13.990Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part6-screenshot.png",
+      "relativePath": "qtbase\\src\\widgets\\doc\\images\\addressbook-tutorial-part6-screenshot.png",
+      "date": "2024-09-02T02:29:13.990Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part1-labeled-screenshot.png",
+      "relativePath": "qtbase\\src\\widgets\\doc\\images\\addressbook-tutorial-part1-labeled-screenshot.png",
+      "date": "2024-09-02T02:29:13.990Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part1-screenshot.png",
+      "relativePath": "qtbase\\src\\widgets\\doc\\images\\addressbook-tutorial-part1-screenshot.png",
+      "date": "2024-09-02T02:29:13.990Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "xmlstreamexample-screenshot.png",
+      "relativePath": "qtbase\\examples\\xml\\streambookmarks\\doc\\images\\xmlstreamexample-screenshot.png",
+      "date": "2024-09-02T02:29:12.960Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-example.png",
+      "relativePath": "qtbase\\doc\\src\\images\\screenshot-example.png",
+      "date": "2024-09-02T02:29:12.640Z",
+      "source": "mtime"
+    }
+  ],
+  "dailyHeat": {}
+}

@@ -1,12 +1,18 @@
 {
   "projectName": "mediaserver",
-  "localPath": "C:\\Users\\megam\\mediaserver",
+  "localPath": "D:\\mediaserver",
   "remoteUrl": "git@github.com:briancullinan2/mediaserver.git",
-  "lastUpdated": "2026-09-24T17:52:31.070Z",
+  "lastUpdated": "2026-09-26T04:42:47.795Z",
   "screenshots": [
     {
       "filename": "Screenshot 2025-04-03 at 11.56.18 AM.png",
       "relativePath": "Screenshot 2025-04-03 at 11.56.18 AM.png",
+      "date": "2025-04-03T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "._Screenshot 2025-04-03 at 11.56.18 AM.png",
+      "relativePath": "._Screenshot 2025-04-03 at 11.56.18 AM.png",
       "date": "2025-04-03T00:00:00.000Z",
       "source": "filename"
     },
@@ -17,8 +23,20 @@
       "source": "filename"
     },
     {
+      "filename": "._Screenshot 2025-04-03 at 11.59.11 AM.png",
+      "relativePath": "._Screenshot 2025-04-03 at 11.59.11 AM.png",
+      "date": "2025-04-03T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
       "filename": "Screenshot 2025-04-03 at 12.03.16 PM.png",
       "relativePath": "Screenshot 2025-04-03 at 12.03.16 PM.png",
+      "date": "2025-04-03T00:00:00.000Z",
+      "source": "filename"
+    },
+    {
+      "filename": "._Screenshot 2025-04-03 at 12.03.16 PM.png",
+      "relativePath": "._Screenshot 2025-04-03 at 12.03.16 PM.png",
       "date": "2025-04-03T00:00:00.000Z",
       "source": "filename"
     }

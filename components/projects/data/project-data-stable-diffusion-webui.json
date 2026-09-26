@@ -1,0 +1,105 @@
+{
+  "projectName": "stable-diffusion-webui",
+  "localPath": "D:\\stable-diffusion-webui",
+  "remoteUrl": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "lastUpdated": "2026-09-26T04:46:33.502Z",
+  "screenshots": [
+    {
+      "filename": "sketcher_ui_screenshot.jpg",
+      "relativePath": "extensions\\sd-webui-panorama-tools\\images\\sketcher_ui_screenshot.jpg",
+      "date": "2024-12-12T22:32:22.310Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "viewer_ui_screenshot.jpg",
+      "relativePath": "extensions\\sd-webui-panorama-tools\\images\\viewer_ui_screenshot.jpg",
+      "date": "2024-12-12T22:32:22.310Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "panorama_tools_ui_screenshot.jpg",
+      "relativePath": "extensions\\sd-webui-panorama-tools\\images\\panorama_tools_ui_screenshot.jpg",
+      "date": "2024-12-12T22:32:22.300Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "cubemap_generator_screenshot.JPG",
+      "relativePath": "extensions\\sd-webui-panorama-tools\\images\\cubemap_generator_screenshot.JPG",
+      "date": "2024-12-12T22:32:22.280Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "2d_preview_screenshot.JPG",
+      "relativePath": "extensions\\sd-webui-panorama-tools\\images\\2d_preview_screenshot.JPG",
+      "date": "2024-12-12T22:32:22.280Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.png",
+      "relativePath": "screenshot.png",
+      "date": "2024-10-07T16:28:41.330Z",
+      "source": "mtime"
+    }
+  ],
+  "dailyHeat": {
+    "2022-09-17": {
+      "date": "2022-09-17",
+      "heatScore": 41,
+      "linesChanged": 22,
+      "commitCount": 4,
+      "filesEdited": [
+        "scripts/loopback.py",
+        "scripts/batch.py",
+        "modules/processing.py"
+      ],
+      "commits": [
+        {
+          "hash": "2dbc9c5903cd2788f4ef21fe8ebfdd8e62f642cb",
+          "author": "Brian Drupieski",
+          "date": "2022-09-17T22:20:43.000Z",
+          "message": "only set loopback color corrections if corrections enabled",
+          "linesAdded": 3,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "scripts/loopback.py"
+          ]
+        },
+        {
+          "hash": "cf70528bceba6f636a2c96ceedc985f662877da3",
+          "author": "Brian Drupieski",
+          "date": "2022-09-17T22:19:21.000Z",
+          "message": "remove whitespace",
+          "linesAdded": 0,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "scripts/batch.py"
+          ]
+        },
+        {
+          "hash": "7bc5739fe27809802ed24d1833b0ef443ec64aa9",
+          "author": "Brian Drupieski",
+          "date": "2022-09-17T22:18:30.000Z",
+          "message": "set loopback color corrections on each iteration",
+          "linesAdded": 5,
+          "linesDeleted": 6,
+          "filesChanged": [
+            "modules/processing.py",
+            "scripts/batch.py",
+            "scripts/loopback.py"
+          ]
+        },
+        {
+          "hash": "663af7c1c8bb5aa8ccd6bb1634b51f7ed7a32740",
+          "author": "Brian Drupieski",
+          "date": "2022-09-17T17:57:01.000Z",
+          "message": "fix batch color correction",
+          "linesAdded": 5,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "scripts/batch.py"
+          ]
+        }
+      ]
+    }
+  }
+}

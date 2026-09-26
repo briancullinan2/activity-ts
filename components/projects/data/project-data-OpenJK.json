@@ -1,0 +1,65 @@
+{
+  "projectName": "OpenJK",
+  "localPath": "D:\\OpenJK",
+  "remoteUrl": "git@github.com:JKSunny/OpenJK.git",
+  "lastUpdated": "2026-09-26T04:42:56.359Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2024-12-28": {
+      "date": "2024-12-28",
+      "heatScore": 100,
+      "linesChanged": 15568,
+      "commitCount": 1,
+      "filesEdited": [
+        "CMakeLists.txt",
+        "code/CMakeLists.txt",
+        "code/qcommon/q_shared.h",
+        "codemp/CMakeLists.txt",
+        "codemp/game/CMakeLists.txt",
+        "codemp/qcommon/net_ip.cpp",
+        "codemp/rd-rend2/CMakeLists.txt",
+        "codemp/rd-rend2/glsl/compact.cpp",
+        "codemp/rd-rend2/qgl.h",
+        "codemp/wasm/gl.h",
+        "codemp/wasm/glext.h",
+        "codemp/wasm/khrplatform.h",
+        "lib/libpng/CMakeLists.txt",
+        "lib/zlib/gzlib.c",
+        "lib/zlib/gzread.c",
+        "lib/zlib/gzwrite.c",
+        "shared/qcommon/q_platform.h",
+        "shared/sys/sys_loadlib.h"
+      ],
+      "commits": [
+        {
+          "hash": "12183dad887ec609fe05fd26f8dfca3fe5839a28",
+          "author": "Brian Cullinan",
+          "date": "2024-12-29T04:42:32.000Z",
+          "message": "wasi toolchain, linking client, game, renderer needs abi from emscripten",
+          "linesAdded": 15546,
+          "linesDeleted": 22,
+          "filesChanged": [
+            "CMakeLists.txt",
+            "code/CMakeLists.txt",
+            "code/qcommon/q_shared.h",
+            "codemp/CMakeLists.txt",
+            "codemp/game/CMakeLists.txt",
+            "codemp/qcommon/net_ip.cpp",
+            "codemp/rd-rend2/CMakeLists.txt",
+            "codemp/rd-rend2/glsl/compact.cpp",
+            "codemp/rd-rend2/qgl.h",
+            "codemp/wasm/gl.h",
+            "codemp/wasm/glext.h",
+            "codemp/wasm/khrplatform.h",
+            "lib/libpng/CMakeLists.txt",
+            "lib/zlib/gzlib.c",
+            "lib/zlib/gzread.c",
+            "lib/zlib/gzwrite.c",
+            "shared/qcommon/q_platform.h",
+            "shared/sys/sys_loadlib.h"
+          ]
+        }
+      ]
+    }
+  }
+}

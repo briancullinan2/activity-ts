@@ -195,8 +195,8 @@ export class ResumeWidget extends Widget
 	{
 		super.onAfterAttach(msg);
 		this._buildUI();
-		this._generateSyntheticGitHistory();
-		this._renderD3Heatmap();
+		//this._generateSyntheticGitHistory();
+		//this._renderD3Heatmap();
 		this._openSkillsSidebar();
 		this._fetchResumeData();
 	}
@@ -238,7 +238,7 @@ export class ResumeWidget extends Widget
 	protected onResize(msg: Widget.ResizeMessage): void
 	{
 		super.onResize(msg);
-		this._renderD3Heatmap();
+		//this._renderD3Heatmap();
 	}
 
 	public dispose(): void
@@ -461,6 +461,7 @@ export class ResumeWidget extends Widget
 		return { wrapper, content };
 	}
 
+	/*
 	private _generateSyntheticGitHistory(): void
 	{
 		this._gitEvents = [];
@@ -483,7 +484,7 @@ export class ResumeWidget extends Widget
 			}
 		}
 	}
-
+	*/
 
 
 	/**
@@ -518,6 +519,7 @@ export class ResumeWidget extends Widget
 	/**
 	 * Renders a single-year D3 Git Heatmap into a target SVG element
 	 */
+	/*
 	private _renderD3HeatmapForYear(svgEl: SVGSVGElement, year: number): void
 	{
 		if(typeof d3 === 'undefined' || !svgEl) return;
@@ -586,8 +588,9 @@ export class ResumeWidget extends Widget
 			.append('title')
 			.text((d: Date) => `${d3.timeFormat('%Y-%m-%d')(d)}: Activity Recorded`);
 	}
+	*/
 
-
+	/*
 	private _renderD3Heatmap(): void
 	{
 		// Primary single-year heatmap call wrapper (re-rendered during cards layout pass)
@@ -597,6 +600,7 @@ export class ResumeWidget extends Widget
 			this._renderD3HeatmapForYear(this._heatmapSvgEl, currentYear);
 		}
 	}
+	*/
 
 	/**
 	 * Scans the full master resume dataset across all sections to find
@@ -650,15 +654,17 @@ export class ResumeWidget extends Widget
 			const heatmapCard = this._createGlassCard(`Work Activity — Year of ${year}`, 'bx bx-calendar');
 			heatmapCard.wrapper.classList.add('no-print', 'resume-entry-card', 'year-heatmap-card');
 
-			const yearSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+			const yearSvg = document.createElement('img'); // document.createElementNS('http://www.w3.org/2000/svg', 'svg');
 			yearSvg.style.width = '100%';
 			yearSvg.style.height = '100%';
 			yearSvg.style.minHeight = '80px';
+			yearSvg.onerror = () => yearSvg.parentElement?.removeChild(yearSvg);
+			yearSvg.src = '/components/projects/heat-maps/heatmap-' + year + '.svg' + (year === (new Date).getFullYear() ? '?t=' + Date.now() : '');
 
 			heatmapCard.content.appendChild(yearSvg);
 			this._cardsContainerEl.appendChild(heatmapCard.wrapper);
 
-			this._renderD3HeatmapForYear(yearSvg, year);
+			//this._renderD3HeatmapForYear(yearSvg, year);
 		};
 
 		if(shouldShowHeatmaps)

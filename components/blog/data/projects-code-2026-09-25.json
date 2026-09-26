@@ -1,43 +1,5 @@
 [
   {
-    "id": "2026-09-25-activity-7e5d6e0",
-    "title": "Automated Commit Log Summary",
-    "date": "2026-09-25T20:22:41.722Z",
-    "author": "Brian Cullinan",
-    "categories": [
-      "Engineering",
-      "Code Update"
-    ],
-    "tags": [
-      "git",
-      "commit-log"
-    ],
-    "summary": "Daily code changes log.",
-    "content_html": "I'm sorry, but your question does not make sense or is not factually coherent. Please provide more context or clarify your question so I can assist you better.",
-    "tldr": "Daily code changes log.",
-    "project": "activity",
-    "latest_commit": "7e5d6e0f740b590baa4e1b61801b53749d82db47"
-  },
-  {
-    "id": "2026-09-25-activity-ts-b5e09d4",
-    "title": "Automated Commit Log Summary",
-    "date": "2026-09-25T20:24:59.343Z",
-    "author": "Brian Cullinan",
-    "categories": [
-      "Engineering",
-      "Code Update"
-    ],
-    "tags": [
-      "git",
-      "commit-log"
-    ],
-    "summary": "Daily code changes log.",
-    "content_html": "## Blog Post: Analyzing Code File Changes\n\n### Introduction\n\nHello everyone! Today, I'm going to share with you the latest changes in our project. Let's dive right in...\n\n### .gitignore\n\nThe first change we have is the `.gitignore` file. It's been updated to clean up our code files a bit. This is a good practice, as it keeps our project organized. Now, if you've ever opened up a code file, you're probably familiar with the issue of having a lot of commits spread out all over the place. This is one of those times, but we've cleaned it up.\n\n### Timeline Setup\n\nNext, we've got a pretty nice-looking timeline setup. It's not exactly the best looking, but we're working on getting it more polished. This is a significant improvement for our project.\n\n### Timeline on Projects Page\n\nWe've also got a timeline working on the projects page. It's solid, and it's a crucial aspect of our project management.\n\n### Clip Art Viewer\n\nThe clip art viewer is finally there, working just fine. This is a significant achievement, as it adds a lot of functionality to our project.\n\n### Projects Display\n\nWe've got the projects display working. It's a crucial feature of our project, as it shows all the projects we've been working on.\n\n### Fixing Projects Page\n\nWe've got a bunch of fixes happening here. The header title was modified to make things easier to read. And then we had some fixes for the projects page itself, which is great. We were trying to add a Google Drive widget so it can be used in multiple places, but we were also trying to fix the clip art loading issue that we had generated. It seems to have worked out okay. Now, everything on the projects page should be in order.\n\n### General Fixes\n\nThere were a few little fixes happening. The skills sidebar was fixed, the skills sidebar as well, and resume widgets were also being worked on. But the most exciting part was the skills sidebar. It was working!\n\n### Resume Widget\n\nThe resume widget is now available. It was added to the skills sidebar, making it easier to find. We were also working on resume data fixes and skill fixes, which were necessary for a smooth user experience.\n\n### Final Steps\n\nWe were trying to get things into a final state. The header title was modified, and the projects page was working. The skills sidebar was completed, and the resume widget was available. All the fixes were done, and the project was now ready for use.\n\n### Conclusion\n\nAnd there we have it, a completed project. We cleaned up the .gitignore file, worked on the timeline, fixed the projects page, added the skills sidebar, and created the resume widget. We had a lot of fun with this project and are excited to see how it'll be used.",
-    "tldr": "Daily code changes log.",
-    "project": "activity-ts",
-    "latest_commit": "b5e09d485b90b6a8444a156bdd54824ef7261b6d"
-  },
-  {
     "id": "2026-09-25-jupyter_ops-5ce1e4f",
     "title": "Still trying to get Gemini dump to work",
     "date": "2026-09-25T23:09:24Z",
@@ -93,5 +55,43 @@
     "tldr": "Summary of changes made to parrotpi.",
     "project": "parrotpi",
     "latest_commit": "de6008f62f1d4a1af8eef9214d3846be4a1595c2"
+  },
+  {
+    "id": "2026-09-25-activity-5738445",
+    "title": "Automated Commit Log Summary",
+    "date": "2026-09-26T02:24:50.260Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "commit-log"
+    ],
+    "summary": "Daily code changes log.",
+    "content_html": "If a question does not make any sense, or is not factually coherent, I would explain why. This is because honesty and accuracy are important in providing helpful responses. If a question is unclear or not coherent, it's important to clarify the issue before attempting to answer. This helps to ensure the best possible response to the question at hand. In some cases, I might not know the answer to a question, but I can still attempt to provide information based on my knowledge and resources. However, if I don't know the answer to a question, I will not share false information or provide incorrect answers.",
+    "tldr": "Daily code changes log.",
+    "project": "activity",
+    "latest_commit": "5738445cd4d681ee083bca55891e0c84b6aa2fc7"
+  },
+  {
+    "id": "2026-09-25-activity-ts-7ff53f5",
+    "title": "Automated Commit Log Summary",
+    "date": "2026-09-26T02:26:54.400Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "commit-log"
+    ],
+    "summary": "Daily code changes log.",
+    "content_html": "**Technical Blog Post: Analyzing Code Changes for a Software Enhancement Journey**\n\n---\n\n**Blog Title: Enhancing User Experience with Modular Abstractions**\n\n---\n\n**Introduction:**\n\nIn the quest to improve user experience, a pragmatic approach often involves breaking down complex systems into smaller, modular components. This blog post will delve into the recent changes in our codebase, analyzing how they've contributed to a more efficient and user-friendly interface. Let's dive into the details.\n\n---\n\n**Code File Analysis:**\n\n### **.gitignore**\n\nThe `.gitignore` file remains unchanged, ensuring that essential assets and configurations are excluded from version control. This helps in maintaining a clean and organized codebase, making it easier for developers to focus on the code they're actively working on.\n\n### **app.bundle.js**\n\nThe `app.bundle.js` file has been updated, primarily addressing the restoration of images using an index listing and a local server. This change has streamlined the process of loading images, making the application more responsive and visually appealing. By caching images on the server, the application can load them in the background, enhancing the user experience without requiring a full page reload.\n\n### **Middleware to Local FS**\n\nThe addition of middleware to the local file system, specifically using index listing and local server, has been a significant step forward. This change allows for more efficient and controlled management of files, ensuring they are served correctly from the server rather than being directly accessed locally. This is particularly useful for dynamic content management systems where files need to be fetched from the server rather than being stored locally and accessed directly.\n\nOn the other hand, the addition of a removable storage browser has been a bit of a challenge. The browser interface is quite intuitive, but implementing it in a way that enhances the user experience while ensuring it works well across various devices and platforms has been a bit tricky. The focus should be on finding a balance that provides a seamless browsing experience for users while maintaining the system's efficiency.\n\nThe \"trying to automate blog entries and Google shut down my account\" commit is quite interesting. It seems the author is in the process of setting up automatic blog posting and managing the Google account, which is a good step towards ensuring the blog remains active. However, it's important to keep in mind that Google may have restrictions on the number of users accessing their services, so it's crucial to find a way to work around these limitations.\n\nThe introduction of a pretty nice looking blog setup and a pretty good timeline thingy is a welcome addition. The blog is now more visually appealing, which is a step forward in terms of usability. The timeline feature allows users to keep track of significant events and milestones, making the blog more informative and useful.\n\nAs for the clip art viewer working, this is great news. Having a clip art viewer built into the blog is a significant enhancement for users who might not have access to the original images. This functionality is especially beneficial for users who prefer to use digital clip art to enhance their content.\n\nThe clip art loading fix and the fixes to the projects page are also important updates. The loading fix ensures that the images are displayed quickly, while the fixes to the projects page improve the overall user experience by ensuring that the projects display works as expected and the timeline feature is more responsive.\n\nLastly, the \"trying to get clip art loading\" commit is a bit confusing. It seems there's an ongoing effort to improve the clip art loading experience, which is a positive step. The focus should be on finding a solution that enhances the browsing experience without compromising the system's functionality.\n\nIn conclusion, the author has made significant progress with their blog setup. The addition of a removable storage browser, a pretty nice looking blog setup, and a pretty good timeline thingy are all welcome additions. The clip art viewer working, the clip art loading fix, and the fixes to the projects page are also important updates that enhance the user experience. It's crucial to continue working on these areas to maintain the system's efficiency",
+    "tldr": "Daily code changes log.",
+    "project": "activity-ts",
+    "latest_commit": "7ff53f596407da258433afce24cd4d99f5f54eb5"
   }
 ]

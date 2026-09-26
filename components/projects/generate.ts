@@ -11,7 +11,8 @@ export const AUTHOR_MATCHES = [
 	'megamindbrian@gmail.com',
 	'bjcullinan@gmail.com',
 	'bjcullinan@bjcullinan.com',
-	'megamind'
+	'megamind',
+	'bjcullinan'
 ];
 
 export interface CommitActivity
@@ -108,7 +109,8 @@ const CACHE_DIR = __dirname;
 const GITHUB_USERNAME = process.env.GITHUB_USERNAME || 'briancullinan2';
 export const SEARCH_ROOTS = [
 	os.homedir(),
-	path.join(__dirname, '..')
+	path.join(__dirname, '..'),
+	'D:'
 ];
 
 /**
@@ -167,7 +169,8 @@ export function findGitRepositories(dir: string, depth = 0, maxDepth = 4): strin
 
 		for(const entry of entries)
 		{
-			if(entry.isDirectory() && !entry.name.startsWith('.') && entry.name !== 'node_modules')
+			if(entry.isDirectory() && !entry.name.startsWith('.') && entry.name !== 'node_modules'
+				&& entry.name !== 'Downloads')
 			{
 				const fullPath = path.join(dir, entry.name);
 				gitRepos.push(...findGitRepositories(fullPath, depth + 1, maxDepth));
@@ -244,7 +247,7 @@ function extractScreenshots(repoPath: string): ScreenshotAsset[]
  */
 function processLocalGitHistory(repoPath: string, existingData: ProjectData | null): Record<string, DailyHeatData | undefined>
 {
-	const dailyHeatMap: Record<string, DailyHeatData | undefined> = {};
+	const dailyHeatMap: Record<string, DailyHeatData | undefined> = existingData?.dailyHeat ?? {};
 
 	// Build a fast commit cache lookup from existing data
 	const cachedCommitMap = new Map<string, CommitActivity>();
@@ -271,7 +274,11 @@ function processLocalGitHistory(repoPath: string, existingData: ProjectData | nu
 	try
 	{
 		console.log(logCmd);
-		rawLog = execSync(logCmd, { cwd: repoPath, encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 });
+		rawLog = execSync(logCmd, {
+			cwd: repoPath,
+			encoding: 'utf-8',
+			maxBuffer: 50 * 1024 * 1024
+		});
 	} catch(e)
 	{
 		return dailyHeatMap;
@@ -320,7 +327,11 @@ function processLocalGitHistory(repoPath: string, existingData: ProjectData | nu
 			let numstatRaw = '';
 			try
 			{
-				numstatRaw = execSync(statCmd, { cwd: repoPath, encoding: 'utf-8' });
+				numstatRaw = execSync(statCmd, {
+					cwd: repoPath,
+					maxBuffer: 50 * 1024 * 1024,
+					encoding: 'utf-8'
+				});
 			} catch(e)
 			{
 				console.warn(e);
@@ -528,7 +539,9 @@ export async function generate()
 		let remoteUrl = '';
 		try
 		{
-			remoteUrl = execSync('git config --get remote.origin.url', { cwd: repoPath, encoding: 'utf-8' }).trim();
+			remoteUrl = execSync('git config --get remote.origin.url', {
+				cwd: repoPath, encoding: 'utf-8'
+			}).trim();
 		} catch(e) { }
 
 		const existingCache = readProjectCache(projectName);

@@ -1,0 +1,171 @@
+{
+  "projectName": "qt6",
+  "localPath": "D:\\qt6",
+  "remoteUrl": "git@github.com:qt/qt5.git",
+  "lastUpdated": "2026-09-26T04:46:11.960Z",
+  "screenshots": [
+    {
+      "filename": "wayland-screenshot.jpg",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\third_party\\weston\\src\\doc\\wayland-screenshot.jpg",
+      "date": "2024-09-02T04:53:02.090Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.png",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\third_party\\speedometer\\v3.0\\resources\\todomvc\\todomvc-css\\screenshot.png",
+      "date": "2024-09-02T04:52:59.080Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.png",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\third_party\\speedometer\\v3.0\\resources\\todomvc\\screenshot.png",
+      "date": "2024-09-02T04:52:59.070Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.jpg",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\third_party\\speedometer\\v3.0\\resources\\editors\\screenshot.jpg",
+      "date": "2024-09-02T04:52:58.930Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.png",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\third_party\\quic_trace\\src\\examples\\screenshot.png",
+      "date": "2024-09-02T04:52:57.780Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "perfetto-ui-screenshot.png",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\third_party\\perfetto\\docs\\images\\perfetto-ui-screenshot.png",
+      "date": "2024-09-02T04:52:56.950Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "warning_screenshot.png",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\docs\\security\\safe_browsing\\warning_screenshot.png",
+      "date": "2024-09-02T04:52:37.810Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "profile-screenshot.png",
+      "relativePath": "qtwebengine\\src\\3rdparty\\chromium\\docs\\media\\profile-screenshot.png",
+      "date": "2024-09-02T04:52:37.780Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "standalone-screenshot.png",
+      "relativePath": "qtwebchannel\\examples\\webchannel\\standalone\\doc\\images\\standalone-screenshot.png",
+      "date": "2024-09-02T04:45:32.750Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "rgbController-screenshot.png",
+      "relativePath": "qttools\\src\\designer\\src\\designer\\doc\\images\\rgbController-screenshot.png",
+      "date": "2024-09-02T04:45:27.410Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "qtdesignerscreenshot.png",
+      "relativePath": "qttools\\src\\designer\\src\\designer\\doc\\images\\qtdesignerscreenshot.png",
+      "date": "2024-09-02T04:45:27.410Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "designer-screenshot.png",
+      "relativePath": "qttools\\src\\designer\\src\\designer\\doc\\images\\designer-screenshot.png",
+      "date": "2024-09-02T04:45:27.400Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "designer-multiple-screenshot.png",
+      "relativePath": "qttools\\src\\designer\\src\\designer\\doc\\images\\designer-multiple-screenshot.png",
+      "date": "2024-09-02T04:45:27.390Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "3d_viewer_screenshot.png",
+      "relativePath": "qtquick3d\\src\\3rdparty\\assimp\\src\\port\\PyAssimp\\3d_viewer_screenshot.png",
+      "date": "2024-09-02T04:45:25.350Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "txtviewer_screenshot.png",
+      "relativePath": "qtdoc\\examples\\demos\\documentviewer\\doc\\images\\txtviewer_screenshot.png",
+      "date": "2024-09-02T04:45:05.140Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "dice-screenshot.webp",
+      "relativePath": "qtdoc\\examples\\demos\\dice\\doc\\images\\dice-screenshot.webp",
+      "date": "2024-09-02T04:45:05.120Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-screenshot.png",
+      "relativePath": "qtbase\\tests\\manual\\examples\\widgets\\tutorials\\addressbook\\addressbook-tutorial-screenshot.png",
+      "date": "2024-09-02T04:44:41.970Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part3-screenshot.png",
+      "relativePath": "qtbase\\tests\\manual\\examples\\widgets\\tutorials\\addressbook\\addressbook-tutorial-part3-screenshot.png",
+      "date": "2024-09-02T04:44:41.970Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part5-screenshot.png",
+      "relativePath": "qtbase\\tests\\manual\\examples\\widgets\\tutorials\\addressbook\\addressbook-tutorial-part5-screenshot.png",
+      "date": "2024-09-02T04:44:41.970Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part7-screenshot.png",
+      "relativePath": "qtbase\\tests\\manual\\examples\\widgets\\tutorials\\addressbook\\addressbook-tutorial-part7-screenshot.png",
+      "date": "2024-09-02T04:44:41.970Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part6-screenshot.png",
+      "relativePath": "qtbase\\tests\\manual\\examples\\widgets\\tutorials\\addressbook\\addressbook-tutorial-part6-screenshot.png",
+      "date": "2024-09-02T04:44:41.970Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part1-labeled-screenshot.png",
+      "relativePath": "qtbase\\tests\\manual\\examples\\widgets\\tutorials\\addressbook\\addressbook-tutorial-part1-labeled-screenshot.png",
+      "date": "2024-09-02T04:44:41.960Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "addressbook-tutorial-part1-screenshot.png",
+      "relativePath": "qtbase\\tests\\manual\\examples\\widgets\\tutorials\\addressbook\\addressbook-tutorial-part1-screenshot.png",
+      "date": "2024-09-02T04:44:41.960Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.png",
+      "relativePath": "qtbase\\examples\\xml\\dombookmarks\\doc\\images\\screenshot.png",
+      "date": "2024-09-02T04:44:39.090Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.png",
+      "relativePath": "qtbase\\examples\\corelib\\serialization\\streambookmarks\\doc\\images\\screenshot.png",
+      "date": "2024-09-02T04:44:38.880Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-example.png",
+      "relativePath": "qtbase\\doc\\src\\images\\screenshot-example.png",
+      "date": "2024-09-02T04:44:38.840Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "3d_viewer_screenshot.png",
+      "relativePath": "qt3d\\src\\3rdparty\\assimp\\src\\port\\PyAssimp\\3d_viewer_screenshot.png",
+      "date": "2024-09-02T04:44:37.710Z",
+      "source": "mtime"
+    }
+  ],
+  "dailyHeat": {}
+}

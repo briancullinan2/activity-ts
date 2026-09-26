@@ -1,0 +1,103 @@
+{
+  "projectName": "mm3d",
+  "localPath": "D:\\mm3d",
+  "remoteUrl": "git@github.com:zturtleman/mm3d.git",
+  "lastUpdated": "2026-09-26T04:42:51.578Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2024-09-03": {
+      "date": "2024-09-03",
+      "heatScore": 100,
+      "linesChanged": 33518,
+      "commitCount": 3,
+      "filesEdited": [
+        "configure",
+        "wasm/GL/freeglut_std.h",
+        "wasm/GL/gl.h",
+        "wasm/GL/glew.h",
+        "wasm/GL/glext.h",
+        "wasm/GL/glfw.h",
+        "wasm/GL/glu.h",
+        "wasm/GL/glut.h",
+        "wasm/GLES3/gl2ext.h",
+        "wasm/GLES3/gl3.h",
+        "wasm/GLES3/gl31.h",
+        "wasm/GLES3/gl32.h",
+        "wasm/GLES3/gl3platform.h",
+        "wasm/KHR/khrplatform.h",
+        ".github/workflows/build.yml",
+        "ChangeLog",
+        "Makefile.am",
+        "Makefile.generic",
+        "configure.ac",
+        "desktop/moe.clover.mm3d.metainfo.xml",
+        "doc/html/template.htm",
+        "mm3d-win32-installer.nsi",
+        "src/implui/aboutwin.cc",
+        "src/mm3dcore/version.h",
+        "src/win_resource.rc",
+        ".gitignore",
+        "src/implui/paintwidget.cc"
+      ],
+      "commits": [
+        {
+          "hash": "51d00d5825787dd6fb1c0e60e41449dc3bed343e",
+          "author": "Brian Cullinan",
+          "date": "2024-09-03T15:37:30.000Z",
+          "message": "attempt at building to web assembly",
+          "linesAdded": 33400,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "configure",
+            "wasm/GL/freeglut_std.h",
+            "wasm/GL/gl.h",
+            "wasm/GL/glew.h",
+            "wasm/GL/glext.h",
+            "wasm/GL/glfw.h",
+            "wasm/GL/glu.h",
+            "wasm/GL/glut.h",
+            "wasm/GLES3/gl2ext.h",
+            "wasm/GLES3/gl3.h",
+            "wasm/GLES3/gl31.h",
+            "wasm/GLES3/gl32.h",
+            "wasm/GLES3/gl3platform.h",
+            "wasm/KHR/khrplatform.h"
+          ]
+        },
+        {
+          "hash": "c79eabfef67b08815908f2f487ffeef46d669dbd",
+          "author": "Brian Cullinan",
+          "date": "2024-09-03T15:37:11.000Z",
+          "message": "Merge branch 'master' of github.com:briancullinan2/mm3d",
+          "linesAdded": 99,
+          "linesDeleted": 15,
+          "filesChanged": [
+            ".github/workflows/build.yml",
+            "ChangeLog",
+            "Makefile.am",
+            "Makefile.generic",
+            "configure.ac",
+            "desktop/moe.clover.mm3d.metainfo.xml",
+            "doc/html/template.htm",
+            "mm3d-win32-installer.nsi",
+            "src/implui/aboutwin.cc",
+            "src/mm3dcore/version.h",
+            "src/win_resource.rc"
+          ]
+        },
+        {
+          "hash": "07c1719292f630ef9ef4577f638f145c9697ad48",
+          "author": "Brian Cullinan",
+          "date": "2024-09-03T15:36:06.000Z",
+          "message": "missing include and don't commit built files",
+          "linesAdded": 4,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".gitignore",
+            "src/implui/paintwidget.cc"
+          ]
+        }
+      ]
+    }
+  }
+}

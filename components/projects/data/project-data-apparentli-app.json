@@ -1,0 +1,873 @@
+{
+  "projectName": "apparentli-app",
+  "localPath": "D:\\grafana\\apparentli-app",
+  "remoteUrl": "git@github.com:briancullinan2/apparentli.git",
+  "lastUpdated": "2026-09-26T04:42:40.939Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2025-04-11": {
+      "date": "2025-04-11",
+      "heatScore": 30,
+      "linesChanged": 161,
+      "commitCount": 2,
+      "filesEdited": [
+        ".config/grafana.db",
+        "README.md",
+        "src/controls/message.tsx",
+        "src/services/function.tsx",
+        "src/services/metrics.tsx",
+        "src/services/openai.tsx",
+        "src/services/send.tsx",
+        "package-lock.json",
+        "package.json"
+      ],
+      "commits": [
+        {
+          "hash": "84c1a0afa37eb445acd651c3bf256d9c20536d78",
+          "author": "Brian Cullinan",
+          "date": "2025-04-11T17:41:53.000Z",
+          "message": "bug fixes and better batching for metrics service",
+          "linesAdded": 48,
+          "linesDeleted": 26,
+          "filesChanged": [
+            ".config/grafana.db",
+            "README.md",
+            "src/controls/message.tsx",
+            "src/services/function.tsx",
+            "src/services/metrics.tsx",
+            "src/services/openai.tsx",
+            "src/services/send.tsx"
+          ]
+        },
+        {
+          "hash": "01de615c61ce84fba2a6369447d13fe0a90827fe",
+          "author": "Brian Cullinan",
+          "date": "2025-04-11T16:40:18.000Z",
+          "message": "better chit chat into functions to lead to the next prompt",
+          "linesAdded": 73,
+          "linesDeleted": 14,
+          "filesChanged": [
+            ".config/grafana.db",
+            "README.md",
+            "package-lock.json",
+            "package.json",
+            "src/controls/message.tsx",
+            "src/services/function.tsx",
+            "src/services/openai.tsx",
+            "src/services/send.tsx"
+          ]
+        }
+      ]
+    },
+    "2025-04-10": {
+      "date": "2025-04-10",
+      "heatScore": 100,
+      "linesChanged": 793,
+      "commitCount": 11,
+      "filesEdited": [
+        ".config/grafana.db",
+        "src/chat/Chat.tsx",
+        "src/services/dashboard.tsx",
+        "src/services/function.tsx",
+        "src/services/graph.tsx",
+        "src/services/metrics.tsx",
+        "src/services/openai.tsx",
+        "src/services/runner.tsx",
+        "src/services/send.tsx",
+        "src/controls/message.tsx",
+        "src/services/query.tsx",
+        "README.md",
+        "src/controls/graph.tsx",
+        "src/controls/refresh.tsx",
+        "src/services/builder.tsx",
+        "src/controls/controls.tsx",
+        "src/controls/scene.tsx",
+        "src/styles/message.tsx",
+        "src/controls/data.tsx"
+      ],
+      "commits": [
+        {
+          "hash": "a9d078a43ca3ce693e77a4d0411ae5c38ba41744",
+          "author": "Brian Cullinan",
+          "date": "2025-04-11T02:41:18.000Z",
+          "message": "possible solution for really long queries, clearer prompts for ai",
+          "linesAdded": 49,
+          "linesDeleted": 36,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/chat/Chat.tsx",
+            "src/services/dashboard.tsx",
+            "src/services/function.tsx",
+            "src/services/graph.tsx",
+            "src/services/metrics.tsx",
+            "src/services/openai.tsx",
+            "src/services/runner.tsx",
+            "src/services/send.tsx"
+          ]
+        },
+        {
+          "hash": "97d311908329f567410d6454106d4c6e0551bf2b",
+          "author": "Brian Cullinan",
+          "date": "2025-04-11T00:36:10.000Z",
+          "message": "working querying for existing dashboards",
+          "linesAdded": 93,
+          "linesDeleted": 44,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/controls/message.tsx",
+            "src/services/dashboard.tsx",
+            "src/services/function.tsx",
+            "src/services/metrics.tsx",
+            "src/services/openai.tsx",
+            "src/services/query.tsx",
+            "src/services/runner.tsx",
+            "src/services/send.tsx"
+          ]
+        },
+        {
+          "hash": "2010f9d9c9c596646f14da14dd0c1b049341363f",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T21:19:11.000Z",
+          "message": "notes",
+          "linesAdded": 4,
+          "linesDeleted": 1,
+          "filesChanged": [
+            ".config/grafana.db",
+            "README.md",
+            "src/services/function.tsx"
+          ]
+        },
+        {
+          "hash": "dbb978431e5724fc095521849c64269a96b548f5",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T21:16:19.000Z",
+          "message": "basic function query",
+          "linesAdded": 25,
+          "linesDeleted": 1,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/services/function.tsx",
+            "src/services/graph.tsx"
+          ]
+        },
+        {
+          "hash": "7d54f8d02b19f311889511bfc6754c1a70e1aa3a",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T21:03:35.000Z",
+          "message": "need correct graph type names from json",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/controls/graph.tsx",
+            "src/services/runner.tsx"
+          ]
+        },
+        {
+          "hash": "a6cbfbc9bd6d2081a6f16c0be45bb4b49f02ed79",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T20:57:55.000Z",
+          "message": "compatibility with dashboard json",
+          "linesAdded": 25,
+          "linesDeleted": 13,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/chat/Chat.tsx",
+            "src/controls/refresh.tsx",
+            "src/services/builder.tsx",
+            "src/services/graph.tsx",
+            "src/services/runner.tsx",
+            "src/services/send.tsx"
+          ]
+        },
+        {
+          "hash": "b8adc1aad64e6bc28be4d8b2fc58397313c4be8f",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T20:01:11.000Z",
+          "message": "might be useful to pull prompt data off of dashboards",
+          "linesAdded": 46,
+          "linesDeleted": 4,
+          "filesChanged": [
+            ".config/grafana.db",
+            "README.md",
+            "src/services/dashboard.tsx",
+            "src/services/send.tsx"
+          ]
+        },
+        {
+          "hash": "ce65f7717c656456367a83bf2e5f6ebad3ff0436",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T18:58:46.000Z",
+          "message": "proper edit button",
+          "linesAdded": 69,
+          "linesDeleted": 25,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/chat/Chat.tsx",
+            "src/controls/controls.tsx",
+            "src/controls/message.tsx",
+            "src/controls/scene.tsx",
+            "src/services/runner.tsx"
+          ]
+        },
+        {
+          "hash": "8c2337b806074bd8a71324714700604f711cfa38",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T17:14:46.000Z",
+          "message": "generic board layout, need to modify based on queries",
+          "linesAdded": 51,
+          "linesDeleted": 24,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/chat/Chat.tsx",
+            "src/controls/scene.tsx",
+            "src/styles/message.tsx"
+          ]
+        },
+        {
+          "hash": "2374d471dd1c38f7e2ab34e0e21c0d568ba3176d",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T16:43:25.000Z",
+          "message": "small refactoring to expand prompting",
+          "linesAdded": 128,
+          "linesDeleted": 96,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/services/graph.tsx",
+            "src/services/metrics.tsx",
+            "src/services/openai.tsx",
+            "src/services/send.tsx"
+          ]
+        },
+        {
+          "hash": "210ed6be13dcf2a9e5b1ba7c306d5ef121d17d55",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T16:05:26.000Z",
+          "message": "flex layout",
+          "linesAdded": 38,
+          "linesDeleted": 17,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/controls/controls.tsx",
+            "src/controls/data.tsx",
+            "src/controls/graph.tsx",
+            "src/controls/refresh.tsx"
+          ]
+        }
+      ]
+    },
+    "2025-04-09": {
+      "date": "2025-04-09",
+      "heatScore": 100,
+      "linesChanged": 1060,
+      "commitCount": 10,
+      "filesEdited": [
+        ".config/grafana.db",
+        "src/controls/controls.tsx",
+        "src/controls/refresh.tsx",
+        "src/controls/scene.tsx",
+        "src/services/runner.tsx",
+        ".DS_Store",
+        ".config/.DS_Store",
+        ".config/jest/.DS_Store",
+        ".github/.DS_Store",
+        ".gitignore",
+        "src/.DS_Store",
+        "src/components/.DS_Store",
+        "src/controls/graph.tsx",
+        "src/chat/Chat.tsx",
+        "src/{utils => controls}/controls.tsx",
+        "src/{utils => controls}/data.tsx",
+        "src/{utils => controls}/graph.tsx",
+        "src/{utils => controls}/message.tsx",
+        "src/{utils => controls}/scene.tsx",
+        "src/{utils => services}/builder.tsx",
+        "src/{utils => services}/query.tsx",
+        "src/{utils => services}/send.tsx",
+        "src/{styles.tsx => styles/chat.tsx}",
+        "src/styles/message.tsx",
+        "src/utils/message.tsx",
+        "src/utils/{scenes.tsx => scene.tsx}",
+        "src/utils/send.tsx",
+        "src/utils/controls.tsx",
+        "src/utils/scenes.tsx",
+        "src/utils/graph.tsx",
+        "src/utils/{scenes.ts => scenes.tsx}"
+      ],
+      "commits": [
+        {
+          "hash": "3199cbfb8d432f0fee100f98d458541bc637f93a",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T05:39:12.000Z",
+          "message": "refresh setting",
+          "linesAdded": 198,
+          "linesDeleted": 90,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/controls/controls.tsx",
+            "src/controls/refresh.tsx",
+            "src/controls/scene.tsx",
+            "src/services/runner.tsx"
+          ]
+        },
+        {
+          "hash": "4bae19dc623d63666ff478d7e208f4800b2cbde8",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T02:19:39.000Z",
+          "message": "forcing data time update",
+          "linesAdded": 25,
+          "linesDeleted": 15,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/controls/controls.tsx",
+            "src/controls/refresh.tsx",
+            "src/controls/scene.tsx"
+          ]
+        },
+        {
+          "hash": "c61a1ee97247592bd8512fe63fb416dc1d590a7f",
+          "author": "Brian Cullinan",
+          "date": "2025-04-10T01:31:47.000Z",
+          "message": "fix for refresh select and individual refresh time",
+          "linesAdded": 74,
+          "linesDeleted": 49,
+          "filesChanged": [
+            ".DS_Store",
+            ".config/.DS_Store",
+            ".config/grafana.db",
+            ".config/jest/.DS_Store",
+            ".github/.DS_Store",
+            ".gitignore",
+            "src/.DS_Store",
+            "src/components/.DS_Store",
+            "src/controls/controls.tsx",
+            "src/controls/refresh.tsx",
+            "src/controls/scene.tsx"
+          ]
+        },
+        {
+          "hash": "3b8442bb7ba6d968b62a94289b82cfa03bc340d4",
+          "author": "Brian Cullinan",
+          "date": "2025-04-09T23:47:40.000Z",
+          "message": "trying to add a refresh component",
+          "linesAdded": 136,
+          "linesDeleted": 4,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/controls/controls.tsx",
+            "src/controls/graph.tsx",
+            "src/controls/refresh.tsx"
+          ]
+        },
+        {
+          "hash": "16da0220d3566538bbad9e1f95833c3f5197ff47",
+          "author": "Brian Cullinan",
+          "date": "2025-04-09T22:07:35.000Z",
+          "message": "more refactoring",
+          "linesAdded": 5,
+          "linesDeleted": 5,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/chat/Chat.tsx",
+            "src/{utils => controls}/controls.tsx",
+            "src/{utils => controls}/data.tsx",
+            "src/{utils => controls}/graph.tsx",
+            "src/{utils => controls}/message.tsx",
+            "src/{utils => controls}/scene.tsx",
+            "src/{utils => services}/builder.tsx",
+            "src/{utils => services}/query.tsx",
+            "src/{utils => services}/send.tsx"
+          ]
+        },
+        {
+          "hash": "b8f99cc15342523d4fa43c1113b4c683733efa78",
+          "author": "Brian Cullinan",
+          "date": "2025-04-09T21:51:32.000Z",
+          "message": "linting bugs",
+          "linesAdded": 5,
+          "linesDeleted": 3,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/chat/Chat.tsx"
+          ]
+        },
+        {
+          "hash": "0dd26dcf8c1311d89d259adea1d0521081515f51",
+          "author": "Brian Cullinan",
+          "date": "2025-04-09T21:46:48.000Z",
+          "message": "more refactoring, weird flicker bug typing, fixed with memo",
+          "linesAdded": 105,
+          "linesDeleted": 82,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/chat/Chat.tsx",
+            "src/{styles.tsx => styles/chat.tsx}",
+            "src/styles/message.tsx",
+            "src/utils/message.tsx",
+            "src/utils/{scenes.tsx => scene.tsx}",
+            "src/utils/send.tsx"
+          ]
+        },
+        {
+          "hash": "fb85dc98036075662708b4009351d16e94b91f2b",
+          "author": "Brian Cullinan",
+          "date": "2025-04-09T20:40:42.000Z",
+          "message": "more cleanup, default graphs for \"hello\" command",
+          "linesAdded": 42,
+          "linesDeleted": 22,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/chat/Chat.tsx",
+            "src/utils/controls.tsx",
+            "src/utils/scenes.tsx"
+          ]
+        },
+        {
+          "hash": "4c4976bf0477d0efc1e3584236f0ab0470480672",
+          "author": "Brian Cullinan",
+          "date": "2025-04-09T19:53:05.000Z",
+          "message": "new controls panel",
+          "linesAdded": 55,
+          "linesDeleted": 43,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/utils/controls.tsx",
+            "src/utils/graph.tsx",
+            "src/utils/scenes.tsx"
+          ]
+        },
+        {
+          "hash": "9521a14d542a80875f28d88c0ad14a0812476eed",
+          "author": "Brian Cullinan",
+          "date": "2025-04-09T19:33:09.000Z",
+          "message": "refactoring state",
+          "linesAdded": 73,
+          "linesDeleted": 29,
+          "filesChanged": [
+            ".DS_Store",
+            ".config/.DS_Store",
+            ".config/grafana.db",
+            ".config/jest/.DS_Store",
+            "src/.DS_Store",
+            "src/chat/Chat.tsx",
+            "src/utils/controls.tsx",
+            "src/utils/graph.tsx",
+            "src/utils/message.tsx",
+            "src/utils/{scenes.ts => scenes.tsx}",
+            "src/utils/send.tsx"
+          ]
+        }
+      ]
+    },
+    "2025-04-08": {
+      "date": "2025-04-08",
+      "heatScore": 100,
+      "linesChanged": 2088,
+      "commitCount": 8,
+      "filesEdited": [
+        ".config/grafana.db",
+        "src/utils/query.tsx",
+        "src/utils/scenes.ts",
+        "src/utils/send.tsx",
+        "README.md",
+        "src/.DS_Store",
+        "src/chat/Chat.tsx",
+        "src/utils/builder.tsx",
+        "src/utils/message.tsx",
+        "package-lock.json",
+        "package.json",
+        "src/utils/graph.tsx",
+        "src/components/App/App.tsx",
+        "src/pages/PageFour.tsx",
+        "src/pages/PageOne.tsx",
+        "src/pages/PageThree.tsx",
+        "src/pages/PageTwo.tsx",
+        "src/styles.tsx",
+        "src/utils/data.tsx"
+      ],
+      "commits": [
+        {
+          "hash": "40b5b6899e1e9553557f5739b6c0e3ce148509a1",
+          "author": "Brian Cullinan",
+          "date": "2025-04-09T04:14:22.000Z",
+          "message": "gets a list of metrics and passes it to the model",
+          "linesAdded": 105,
+          "linesDeleted": 48,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/utils/query.tsx",
+            "src/utils/scenes.ts",
+            "src/utils/send.tsx"
+          ]
+        },
+        {
+          "hash": "b170b45ab23d39b82ff6b2314d44484fdbaeb60d",
+          "author": "Brian Cullinan",
+          "date": "2025-04-09T02:40:19.000Z",
+          "message": "multiquery graphing and formulated response from AI",
+          "linesAdded": 154,
+          "linesDeleted": 40,
+          "filesChanged": [
+            ".config/grafana.db",
+            "README.md",
+            "src/.DS_Store",
+            "src/chat/Chat.tsx",
+            "src/utils/builder.tsx",
+            "src/utils/message.tsx",
+            "src/utils/query.tsx",
+            "src/utils/scenes.ts",
+            "src/utils/send.tsx"
+          ]
+        },
+        {
+          "hash": "d992e8832b36d0d8be8c02c3691a4d2261a41b10",
+          "author": "Brian Cullinan",
+          "date": "2025-04-09T00:04:36.000Z",
+          "message": "open api plugin connection instead of fetch",
+          "linesAdded": 776,
+          "linesDeleted": 98,
+          "filesChanged": [
+            ".config/grafana.db",
+            "README.md",
+            "package-lock.json",
+            "package.json",
+            "src/utils/builder.tsx",
+            "src/utils/scenes.ts",
+            "src/utils/send.tsx"
+          ]
+        },
+        {
+          "hash": "3c9d28cc141406b96160c564298b9316b1a21909",
+          "author": "Brian Cullinan",
+          "date": "2025-04-08T21:38:09.000Z",
+          "message": "multi graph type selection drop down",
+          "linesAdded": 204,
+          "linesDeleted": 28,
+          "filesChanged": [
+            ".config/grafana.db",
+            "README.md",
+            "src/chat/Chat.tsx",
+            "src/utils/graph.tsx",
+            "src/utils/message.tsx",
+            "src/utils/scenes.ts"
+          ]
+        },
+        {
+          "hash": "a6b5b78edfe776396feaa851c619765b497e9c2f",
+          "author": "Brian Cullinan",
+          "date": "2025-04-08T19:13:38.000Z",
+          "message": "chat cleanup",
+          "linesAdded": 226,
+          "linesDeleted": 293,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/chat/Chat.tsx",
+            "src/components/App/App.tsx",
+            "src/pages/PageFour.tsx",
+            "src/pages/PageOne.tsx",
+            "src/pages/PageThree.tsx",
+            "src/pages/PageTwo.tsx",
+            "src/styles.tsx",
+            "src/utils/message.tsx",
+            "src/utils/scenes.ts",
+            "src/utils/send.tsx"
+          ]
+        },
+        {
+          "hash": "4f49c32498584c3e51f581248fb644885389e3ab",
+          "author": "Brian Cullinan",
+          "date": "2025-04-08T16:53:23.000Z",
+          "message": "whoops, cleared up console bugs, needs theme fixes",
+          "linesAdded": 10,
+          "linesDeleted": 5,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/pages/PageFour.tsx"
+          ]
+        },
+        {
+          "hash": "3a03086d625b18b4f04db1df39ff1a523e65f782",
+          "author": "Brian Cullinan",
+          "date": "2025-04-08T16:39:45.000Z",
+          "message": "updating the list of messages based on chosen data source",
+          "linesAdded": 57,
+          "linesDeleted": 29,
+          "filesChanged": [
+            ".config/grafana.db",
+            "package-lock.json",
+            "package.json",
+            "src/pages/PageFour.tsx"
+          ]
+        },
+        {
+          "hash": "068cff1f0c6270ca6f5ed683043bfbc9a54b6251",
+          "author": "Brian Cullinan",
+          "date": "2025-04-08T07:05:10.000Z",
+          "message": "fix for data sources control using uid",
+          "linesAdded": 11,
+          "linesDeleted": 4,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/pages/PageFour.tsx",
+            "src/utils/data.tsx"
+          ]
+        }
+      ]
+    },
+    "2025-04-07": {
+      "date": "2025-04-07",
+      "heatScore": 100,
+      "linesChanged": 28170,
+      "commitCount": 6,
+      "filesEdited": [
+        ".config/grafana.db",
+        "src/pages/PageFour.tsx",
+        "src/utils/data.tsx",
+        "src/utils/scenes.ts",
+        ".config/docker-compose-base.yaml",
+        "package-lock.json",
+        "package.json",
+        "prometheus.json",
+        "src/dashboards/dashboard.yaml",
+        "src/dashboards/overview.json",
+        "src/plugin.json",
+        "src/components/App/App.tsx",
+        "src/module.tsx",
+        "src/pages/ChatClient.tsx",
+        "README.md",
+        "pkg/plugin/app.go",
+        "pkg/plugin/resources.go",
+        "provisioning/plugins/apps.yaml",
+        ".DS_Store",
+        ".config/.DS_Store",
+        ".config/.cprc.json",
+        ".config/.eslintrc",
+        ".config/.prettierrc.js",
+        ".config/Dockerfile",
+        ".config/README.md",
+        ".config/entrypoint.sh",
+        ".config/jest-setup.js",
+        ".config/jest.config.js",
+        ".config/jest/mocks/react-inlinesvg.tsx",
+        ".config/jest/utils.js",
+        ".config/supervisord/supervisord.conf",
+        ".config/tsconfig.json",
+        ".config/types/custom.d.ts",
+        ".config/webpack/BuildModeWebpackPlugin.ts",
+        ".config/webpack/constants.ts",
+        ".config/webpack/utils.ts",
+        ".config/webpack/webpack.config.ts",
+        ".cprc.json",
+        ".eslintrc",
+        ".github/.DS_Store",
+        ".github/workflows/bundle-stats.yml",
+        ".github/workflows/ci.yml",
+        ".github/workflows/cp-update.yml",
+        ".github/workflows/is-compatible.yml",
+        ".github/workflows/release.yml",
+        ".gitignore",
+        ".nvmrc",
+        ".prettierrc.js",
+        ".vscode/launch.json",
+        "CHANGELOG.md",
+        "LICENSE",
+        "Magefile.go",
+        "docker-compose.yaml",
+        "go.mod",
+        "go.sum",
+        "grafana-agent.yaml",
+        "grafana.ini",
+        "jest-setup.js",
+        "jest.config.js",
+        "pkg/main.go",
+        "pkg/plugin/resources_test.go",
+        "pkg/plugin/rest.go",
+        "playwright.config.ts",
+        "provisioning/plugins/README.md",
+        "src/.DS_Store",
+        "src/README.md",
+        "src/components/.DS_Store",
+        "src/components/App/App.test.tsx",
+        "src/components/AppConfig/AppConfig.test.tsx",
+        "src/components/AppConfig/AppConfig.tsx",
+        "src/components/testIds.ts",
+        "src/constants.ts",
+        "src/img/logo.svg",
+        "src/pages/PageOne.tsx",
+        "src/pages/PageThree.tsx",
+        "src/pages/PageTwo.tsx",
+        "src/utils/utils.routing.ts",
+        "tests/appConfig.spec.ts",
+        "tests/appNavigation.spec.ts",
+        "tests/fixtures.ts",
+        "tsconfig.json"
+      ],
+      "commits": [
+        {
+          "hash": "2a70e77310068defb7579057782696c8429510bb",
+          "author": "Brian Cullinan",
+          "date": "2025-04-08T06:49:12.000Z",
+          "message": "data source selector",
+          "linesAdded": 85,
+          "linesDeleted": 4,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/pages/PageFour.tsx",
+            "src/utils/data.tsx",
+            "src/utils/scenes.ts"
+          ]
+        },
+        {
+          "hash": "84f470c4c2e71d320aa4b389815febe312883865",
+          "author": "Brian Cullinan",
+          "date": "2025-04-08T06:00:01.000Z",
+          "message": "panel controls",
+          "linesAdded": 3,
+          "linesDeleted": 2,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/utils/scenes.ts"
+          ]
+        },
+        {
+          "hash": "66a2c64b95e920e389eaa18c78c29e4593921d4f",
+          "author": "Brian Cullinan",
+          "date": "2025-04-08T05:49:10.000Z",
+          "message": "embedded scene in chat",
+          "linesAdded": 3085,
+          "linesDeleted": 27,
+          "filesChanged": [
+            ".config/docker-compose-base.yaml",
+            ".config/grafana.db",
+            "package-lock.json",
+            "package.json",
+            "prometheus.json",
+            "src/dashboards/dashboard.yaml",
+            "src/dashboards/overview.json",
+            "src/pages/PageFour.tsx",
+            "src/plugin.json",
+            "src/utils/scenes.ts"
+          ]
+        },
+        {
+          "hash": "1e80ab81509ca0b66b652d72211bf5b817f07712",
+          "author": "Brian Cullinan",
+          "date": "2025-04-08T01:31:23.000Z",
+          "message": "minor bug fixes and cleanup",
+          "linesAdded": 15,
+          "linesDeleted": 175,
+          "filesChanged": [
+            ".config/grafana.db",
+            "src/components/App/App.tsx",
+            "src/module.tsx",
+            "src/pages/ChatClient.tsx",
+            "src/pages/PageFour.tsx"
+          ]
+        },
+        {
+          "hash": "ce63e329b493444122558c8b7fe86b8a1f568c05",
+          "author": "Brian Cullinan",
+          "date": "2025-04-08T01:07:31.000Z",
+          "message": "working chat api callback, still needs JSON, history, RAG context, etc",
+          "linesAdded": 36,
+          "linesDeleted": 7,
+          "filesChanged": [
+            ".config/grafana.db",
+            "README.md",
+            "pkg/plugin/app.go",
+            "pkg/plugin/resources.go",
+            "provisioning/plugins/apps.yaml",
+            "src/pages/PageFour.tsx"
+          ]
+        },
+        {
+          "hash": "3c09baf68d02e21e489ec9a9868f3152cc5f30aa",
+          "author": "Brian Cullinan",
+          "date": "2025-04-07T23:46:12.000Z",
+          "message": "grafana AI plugin",
+          "linesAdded": 24731,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".DS_Store",
+            ".config/.DS_Store",
+            ".config/.cprc.json",
+            ".config/.eslintrc",
+            ".config/.prettierrc.js",
+            ".config/Dockerfile",
+            ".config/README.md",
+            ".config/docker-compose-base.yaml",
+            ".config/entrypoint.sh",
+            ".config/grafana.db",
+            ".config/jest-setup.js",
+            ".config/jest.config.js",
+            ".config/jest/mocks/react-inlinesvg.tsx",
+            ".config/jest/utils.js",
+            ".config/supervisord/supervisord.conf",
+            ".config/tsconfig.json",
+            ".config/types/custom.d.ts",
+            ".config/webpack/BuildModeWebpackPlugin.ts",
+            ".config/webpack/constants.ts",
+            ".config/webpack/utils.ts",
+            ".config/webpack/webpack.config.ts",
+            ".cprc.json",
+            ".eslintrc",
+            ".github/.DS_Store",
+            ".github/workflows/bundle-stats.yml",
+            ".github/workflows/ci.yml",
+            ".github/workflows/cp-update.yml",
+            ".github/workflows/is-compatible.yml",
+            ".github/workflows/release.yml",
+            ".gitignore",
+            ".nvmrc",
+            ".prettierrc.js",
+            ".vscode/launch.json",
+            "CHANGELOG.md",
+            "LICENSE",
+            "Magefile.go",
+            "README.md",
+            "docker-compose.yaml",
+            "go.mod",
+            "go.sum",
+            "grafana-agent.yaml",
+            "grafana.ini",
+            "jest-setup.js",
+            "jest.config.js",
+            "package-lock.json",
+            "package.json",
+            "pkg/main.go",
+            "pkg/plugin/app.go",
+            "pkg/plugin/resources.go",
+            "pkg/plugin/resources_test.go",
+            "pkg/plugin/rest.go",
+            "playwright.config.ts",
+            "prometheus.json",
+            "provisioning/plugins/README.md",
+            "provisioning/plugins/apps.yaml",
+            "src/.DS_Store",
+            "src/README.md",
+            "src/components/.DS_Store",
+            "src/components/App/App.test.tsx",
+            "src/components/App/App.tsx",
+            "src/components/AppConfig/AppConfig.test.tsx",
+            "src/components/AppConfig/AppConfig.tsx",
+            "src/components/testIds.ts",
+            "src/constants.ts",
+            "src/img/logo.svg",
+            "src/module.tsx",
+            "src/pages/ChatClient.tsx",
+            "src/pages/PageFour.tsx",
+            "src/pages/PageOne.tsx",
+            "src/pages/PageThree.tsx",
+            "src/pages/PageTwo.tsx",
+            "src/plugin.json",
+            "src/utils/utils.routing.ts",
+            "tests/appConfig.spec.ts",
+            "tests/appNavigation.spec.ts",
+            "tests/fixtures.ts",
+            "tsconfig.json"
+          ]
+        }
+      ]
+    }
+  }
+}

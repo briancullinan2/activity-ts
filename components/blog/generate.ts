@@ -51,7 +51,7 @@ export function generateBlogData(): IBlogAggregateData
 	const dataDir = path.join(__dirname, 'data');
 	const files = fs.readdirSync(dataDir);
 
-	const filePattern = /^blog-data-\d{4}-\d{1,2}\.json$/i;
+	const filePattern = /^blog-data-\d{4}-\d{1,2}\.json|projects-code-\d{4}-\d{1,2}-\d{1,2}\.json$/i;
 	const targetFiles = files.filter(f => filePattern.test(f));
 
 	const postsMap = new Map();

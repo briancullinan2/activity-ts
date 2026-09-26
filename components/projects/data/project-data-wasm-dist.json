@@ -1,0 +1,354 @@
+{
+  "projectName": "wasm-dist",
+  "localPath": "D:\\wasm-dist",
+  "remoteUrl": "git@github.com:briancullinan2/wasm-dist.git",
+  "lastUpdated": "2026-09-26T04:47:02.821Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2024-12-28": {
+      "date": "2024-12-28",
+      "heatScore": 100,
+      "linesChanged": 11134,
+      "commitCount": 1,
+      "filesEdited": [
+        "cmake/wasi-sdk-unlinked.cmake",
+        "libc/README.md",
+        "libc/libharfbuzz-subset.a",
+        "libc/libharfbuzz.a",
+        "libc/liblibmm3d.a",
+        "libc/liblibmm3d.h",
+        "libc/libpcre2-prefix.a",
+        "package.json",
+        "runtimes/QQuickStaticHelloWorld.html",
+        "runtimes/QQuickStaticHelloWorld.js",
+        "runtimes/QQuickStaticHelloWorld.wasm",
+        "runtimes/README.md",
+        "runtimes/bin/seabios.bin",
+        "runtimes/bin/v86-linux.iso",
+        "runtimes/bin/vgabios.bin",
+        "runtimes/buildroot-menuconfig.254446bd.png",
+        "runtimes/favicon.e3d557d6.ico",
+        "runtimes/index.html",
+        "runtimes/mm3d.html",
+        "runtimes/mm3d.js",
+        "runtimes/mm3d.wasm",
+        "runtimes/nohost-sw.js",
+        "runtimes/nohost-sw.map",
+        "runtimes/qtloader.html",
+        "runtimes/qtloader.js",
+        "runtimes/qtlogo.svg",
+        "runtimes/spaceglenda.19f5b4f7.jpg",
+        "runtimes/src.97d3ff8f.js",
+        "runtimes/src.97d3ff8f.js.map",
+        "runtimes/styles.2abdb9ea.css",
+        "runtimes/styles.2abdb9ea.css.map",
+        "runtimes/thimble.ef9c6777.png",
+        "runtimes/upload-cloud.7470c644.svg",
+        "runtimes/xterm.4848a0c4.css",
+        "runtimes/xterm.4848a0c4.css.map"
+      ],
+      "commits": [
+        {
+          "hash": "471cb1207b6d1e93ae55b664847969730fd31932",
+          "author": "Brian Cullinan",
+          "date": "2024-12-29T05:46:30.000Z",
+          "message": "attempt to compile mm3d and Qt demo",
+          "linesAdded": 11132,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "cmake/wasi-sdk-unlinked.cmake",
+            "libc/README.md",
+            "libc/libharfbuzz-subset.a",
+            "libc/libharfbuzz.a",
+            "libc/liblibmm3d.a",
+            "libc/liblibmm3d.h",
+            "libc/libpcre2-prefix.a",
+            "package.json",
+            "runtimes/QQuickStaticHelloWorld.html",
+            "runtimes/QQuickStaticHelloWorld.js",
+            "runtimes/QQuickStaticHelloWorld.wasm",
+            "runtimes/README.md",
+            "runtimes/bin/seabios.bin",
+            "runtimes/bin/v86-linux.iso",
+            "runtimes/bin/vgabios.bin",
+            "runtimes/buildroot-menuconfig.254446bd.png",
+            "runtimes/favicon.e3d557d6.ico",
+            "runtimes/index.html",
+            "runtimes/mm3d.html",
+            "runtimes/mm3d.js",
+            "runtimes/mm3d.wasm",
+            "runtimes/nohost-sw.js",
+            "runtimes/nohost-sw.map",
+            "runtimes/qtloader.html",
+            "runtimes/qtloader.js",
+            "runtimes/qtlogo.svg",
+            "runtimes/spaceglenda.19f5b4f7.jpg",
+            "runtimes/src.97d3ff8f.js",
+            "runtimes/src.97d3ff8f.js.map",
+            "runtimes/styles.2abdb9ea.css",
+            "runtimes/styles.2abdb9ea.css.map",
+            "runtimes/thimble.ef9c6777.png",
+            "runtimes/upload-cloud.7470c644.svg",
+            "runtimes/xterm.4848a0c4.css",
+            "runtimes/xterm.4848a0c4.css.map"
+          ]
+        }
+      ]
+    },
+    "2024-09-03": {
+      "date": "2024-09-03",
+      "heatScore": 100,
+      "linesChanged": 6257,
+      "commitCount": 1,
+      "filesEdited": [
+        "cmake/Platform/Emscripten.cmake",
+        "cmake/Platform/WASI.cmake",
+        "cmake/wasi-sdk-pthread.cmake",
+        "cmake/wasi-sdk-unlinked.cmake",
+        "cmake/wasi-sdk.cmake",
+        "libc++/README.md",
+        "libc++/assimp.pc",
+        "libc++/libassimp.a",
+        "libc++/libassimp.so",
+        "libc++/libtinyxml2.a",
+        "libc++/tinyxml2.h",
+        "libc/README.md",
+        "libc/libfmt.a",
+        "libc/libminiz.a",
+        "libc/miniz.h",
+        "libc/miniz_common.h",
+        "libc/miniz_export.h",
+        "libc/miniz_tdef.h",
+        "libc/miniz_tinfl.h",
+        "libc/miniz_zip.h",
+        "runtimes/README.md",
+        "wasms/README.md",
+        "wasms/ftconfig.h",
+        "wasms/ftoption.h",
+        "wasms/jansson.h",
+        "wasms/jansson_config.h",
+        "wasms/libFreeImage.a",
+        "wasms/libfreetype.a",
+        "wasms/libjansson.a"
+      ],
+      "commits": [
+        {
+          "hash": "f5ab9932dddda17fd14ed1af02ddea8746d377d8",
+          "author": "Brian Cullinan",
+          "date": "2024-09-03T15:49:20.000Z",
+          "message": "growing my library of wasms",
+          "linesAdded": 6257,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "cmake/Platform/Emscripten.cmake",
+            "cmake/Platform/WASI.cmake",
+            "cmake/wasi-sdk-pthread.cmake",
+            "cmake/wasi-sdk-unlinked.cmake",
+            "cmake/wasi-sdk.cmake",
+            "libc++/README.md",
+            "libc++/assimp.pc",
+            "libc++/libassimp.a",
+            "libc++/libassimp.so",
+            "libc++/libtinyxml2.a",
+            "libc++/tinyxml2.h",
+            "libc/README.md",
+            "libc/libfmt.a",
+            "libc/libminiz.a",
+            "libc/miniz.h",
+            "libc/miniz_common.h",
+            "libc/miniz_export.h",
+            "libc/miniz_tdef.h",
+            "libc/miniz_tinfl.h",
+            "libc/miniz_zip.h",
+            "runtimes/README.md",
+            "wasms/README.md",
+            "wasms/ftconfig.h",
+            "wasms/ftoption.h",
+            "wasms/jansson.h",
+            "wasms/jansson_config.h",
+            "wasms/libFreeImage.a",
+            "wasms/libfreetype.a",
+            "wasms/libjansson.a"
+          ]
+        }
+      ]
+    },
+    "2024-09-02": {
+      "date": "2024-09-02",
+      "heatScore": 100,
+      "linesChanged": 16879,
+      "commitCount": 6,
+      "filesEdited": [
+        ".gitignore",
+        "libc/liblibpng16.so",
+        "libc/liblibpng16_static.a",
+        "libc/libpcre2-8.a",
+        "libc/libpcre2-posix.a",
+        "libc/libzlib.so",
+        "libc/libzlibstatic.a",
+        "libc/pcre2-config",
+        "libc/pcre2.h",
+        "libc/pnglibconf.c",
+        "libc/pnglibconf.h",
+        "libc/pngprefix.h",
+        "wasms/liblibpng16.so",
+        "wasms/liblibpng16_static.a",
+        "wasms/libpcre2-8.a",
+        "wasms/libpcre2-posix.a",
+        "wasms/libzlib.so",
+        "wasms/libzlibstatic.a",
+        "wasms/pcre2-config",
+        "wasms/pcre2.h",
+        "wasms/pnglibconf.c",
+        "wasms/pnglibconf.h",
+        "wasms/pngprefix.h",
+        "README.md"
+      ],
+      "commits": [
+        {
+          "hash": "9634ff536f6986fe6efb788e933a1ae70650cec9",
+          "author": "Brian Cullinan",
+          "date": "2024-09-02T19:09:14.000Z",
+          "message": "Merge branch 'main' of github.com:briancullinan2/wasm-dist",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": []
+        },
+        {
+          "hash": "499dc7865b5d9073eb3a8692d6f2a181624f2712",
+          "author": "Brian Cullinan",
+          "date": "2024-09-02T19:08:43.000Z",
+          "message": "growing library collection",
+          "linesAdded": 16875,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".gitignore",
+            "libc/liblibpng16.so",
+            "libc/liblibpng16_static.a",
+            "libc/libpcre2-8.a",
+            "libc/libpcre2-posix.a",
+            "libc/libzlib.so",
+            "libc/libzlibstatic.a",
+            "libc/pcre2-config",
+            "libc/pcre2.h",
+            "libc/pnglibconf.c",
+            "libc/pnglibconf.h",
+            "libc/pngprefix.h",
+            "wasms/liblibpng16.so",
+            "wasms/liblibpng16_static.a",
+            "wasms/libpcre2-8.a",
+            "wasms/libpcre2-posix.a",
+            "wasms/libzlib.so",
+            "wasms/libzlibstatic.a",
+            "wasms/pcre2-config",
+            "wasms/pcre2.h",
+            "wasms/pnglibconf.c",
+            "wasms/pnglibconf.h",
+            "wasms/pngprefix.h"
+          ]
+        },
+        {
+          "hash": "ccd02901a4c89def48de4e97552067b1c5053ac8",
+          "author": "Brian Cullinan",
+          "date": "2024-09-02T17:47:25.000Z",
+          "message": "second",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "wasms/liblibpng16.so",
+            "wasms/liblibpng16_static.a"
+          ]
+        },
+        {
+          "hash": "61f957037a87d4547055de1904fcb2293fb0b19e",
+          "author": "Brian Cullinan",
+          "date": "2024-09-02T17:04:26.000Z",
+          "message": "first",
+          "linesAdded": 0,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "wasms/libzlib.so",
+            "wasms/libzlibstatic.a"
+          ]
+        },
+        {
+          "hash": "e6d376d286bcb2b145b1a6a206765b805c41bd3e",
+          "author": "Brian Cullinan",
+          "date": "2024-09-02T16:50:18.000Z",
+          "message": "Update README.md",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "cf134a8c3716160d8da565b65bfd46abce66fa00",
+          "author": "Brian Cullinan",
+          "date": "2024-09-02T16:49:12.000Z",
+          "message": "Update README.md",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "README.md"
+          ]
+        }
+      ]
+    },
+    "2024-09-01": {
+      "date": "2024-09-01",
+      "heatScore": 32,
+      "linesChanged": 30,
+      "commitCount": 3,
+      "filesEdited": [
+        "README.md",
+        "apps/README.md",
+        "libc++/README.md",
+        "libc/README.md",
+        "runtimes/README.md",
+        "wasms => wasms/README.md",
+        "wasms"
+      ],
+      "commits": [
+        {
+          "hash": "9a840f0a64c2a860ab0910f54b7213ecabd21ef1",
+          "author": "Brian Cullinan",
+          "date": "2024-09-01T19:10:33.000Z",
+          "message": "readmes, intentions",
+          "linesAdded": 27,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md",
+            "apps/README.md",
+            "libc++/README.md",
+            "libc/README.md",
+            "runtimes/README.md",
+            "wasms => wasms/README.md"
+          ]
+        },
+        {
+          "hash": "7c701d074141eb7856567872ce5bc95f752521a0",
+          "author": "Brian Cullinan",
+          "date": "2024-09-01T19:03:17.000Z",
+          "message": "Create wasms",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "wasms"
+          ]
+        },
+        {
+          "hash": "018155fee070a3030234a930266712cb764ed330",
+          "author": "Brian Cullinan",
+          "date": "2024-09-01T19:00:48.000Z",
+          "message": "Initial commit",
+          "linesAdded": 2,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        }
+      ]
+    }
+  }
+}

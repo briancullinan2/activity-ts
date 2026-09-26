@@ -1,0 +1,53 @@
+{
+  "projectName": "OpsTelTimerService",
+  "localPath": "D:\\Visual Studio 2012\\Projects\\OpsTelTimerService",
+  "remoteUrl": "https://github.com/paulprinke/OpsTelTimerService",
+  "lastUpdated": "2026-09-26T04:47:02.253Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2014-08-17": {
+      "date": "2014-08-17",
+      "heatScore": 37,
+      "linesChanged": 406,
+      "commitCount": 1,
+      "filesEdited": [
+        "OpsTelTimerSrv/App.Debug.config",
+        "OpsTelTimerSrv/App.Release.config",
+        "OpsTelTimerSrv/App.config",
+        "OpsTelTimerSrv/OpsTelTimerSrv.csproj",
+        "OpsTelTimerSrv/OpsTelTimerSrv.sln",
+        "OpsTelTimerSrv/Program.cs",
+        "OpsTelTimerSrv/ProjectInstaller.Designer.cs",
+        "OpsTelTimerSrv/ProjectInstaller.cs",
+        "OpsTelTimerSrv/ProjectInstaller.resx",
+        "OpsTelTimerSrv/Properties/AssemblyInfo.cs",
+        "OpsTelTimerSrv/Service1.cs",
+        "OpsTelTimerSrv/log4net.xml"
+      ],
+      "commits": [
+        {
+          "hash": "fee7dab2e0dea4a8910a96c65c623ec9b19f5a5c",
+          "author": "bjcullinan",
+          "date": "2014-08-17T20:09:26.000Z",
+          "message": "first draft",
+          "linesAdded": 359,
+          "linesDeleted": 47,
+          "filesChanged": [
+            "OpsTelTimerSrv/App.Debug.config",
+            "OpsTelTimerSrv/App.Release.config",
+            "OpsTelTimerSrv/App.config",
+            "OpsTelTimerSrv/OpsTelTimerSrv.csproj",
+            "OpsTelTimerSrv/OpsTelTimerSrv.sln",
+            "OpsTelTimerSrv/Program.cs",
+            "OpsTelTimerSrv/ProjectInstaller.Designer.cs",
+            "OpsTelTimerSrv/ProjectInstaller.cs",
+            "OpsTelTimerSrv/ProjectInstaller.resx",
+            "OpsTelTimerSrv/Properties/AssemblyInfo.cs",
+            "OpsTelTimerSrv/Service1.cs",
+            "OpsTelTimerSrv/log4net.xml"
+          ]
+        }
+      ]
+    }
+  }
+}

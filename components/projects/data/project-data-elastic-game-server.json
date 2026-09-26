@@ -1,0 +1,356 @@
+{
+  "projectName": "elastic-game-server",
+  "localPath": "D:\\elastic-game-server",
+  "remoteUrl": "git@github.com:briancullinan2/elastic-game-server.git",
+  "lastUpdated": "2026-09-26T04:42:33.201Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2022-08-18": {
+      "date": "2022-08-18",
+      "heatScore": 10,
+      "linesChanged": 3,
+      "commitCount": 1,
+      "filesEdited": [
+        "engines/serve-engines.js"
+      ],
+      "commits": [
+        {
+          "hash": "b1af1c27f1487c6cdc87cd0dafb4563c38ceebba",
+          "author": "megamind",
+          "date": "2022-08-18T21:26:11.000Z",
+          "message": "too weird, brave inspector wont break",
+          "linesAdded": 3,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "engines/serve-engines.js"
+          ]
+        }
+      ]
+    },
+    "2022-08-17": {
+      "date": "2022-08-17",
+      "heatScore": 10,
+      "linesChanged": 7,
+      "commitCount": 1,
+      "filesEdited": [
+        "engines/serve-engines.js",
+        "index.js",
+        "settings.json"
+      ],
+      "commits": [
+        {
+          "hash": "6e978965279480c6335125f1f759b03997e22a34",
+          "author": "megamind",
+          "date": "2022-08-17T23:10:45.000Z",
+          "message": "fix for trem",
+          "linesAdded": 4,
+          "linesDeleted": 3,
+          "filesChanged": [
+            "engines/serve-engines.js",
+            "index.js",
+            "settings.json"
+          ]
+        }
+      ]
+    },
+    "2022-08-15": {
+      "date": "2022-08-15",
+      "heatScore": 18,
+      "linesChanged": 126,
+      "commitCount": 1,
+      "filesEdited": [
+        "engines/nintendo64/script.js",
+        "engines/serve-engines.js",
+        "engines/skyemu/SkyEmu.js",
+        "engines/skyemu/SkyEmu.wasm",
+        "engines/skyemu/script.js",
+        "package.json",
+        "settings.json"
+      ],
+      "commits": [
+        {
+          "hash": "3df6b54717b7bc453d097da86d97c91130375b82",
+          "author": "megamind",
+          "date": "2022-08-16T05:31:58.000Z",
+          "message": "trying to support trem",
+          "linesAdded": 117,
+          "linesDeleted": 9,
+          "filesChanged": [
+            "engines/nintendo64/script.js",
+            "engines/serve-engines.js",
+            "engines/skyemu/SkyEmu.js",
+            "engines/skyemu/SkyEmu.wasm",
+            "engines/skyemu/script.js",
+            "package.json",
+            "settings.json"
+          ]
+        }
+      ]
+    },
+    "2022-08-07": {
+      "date": "2022-08-07",
+      "heatScore": 100,
+      "linesChanged": 2636,
+      "commitCount": 1,
+      "filesEdited": [
+        "README.md",
+        "engines/nintendo64/assets.zip",
+        "engines/nintendo64/assets/overlay.png",
+        "engines/nintendo64/assets/res/arial.ttf",
+        "engines/nintendo64/assets/res/font.ttf",
+        "engines/nintendo64/assets/shader_frag.hlsl",
+        "engines/nintendo64/assets/shader_vert.hlsl",
+        "engines/nintendo64/github_logo.png",
+        "engines/nintendo64/index.html",
+        "engines/nintendo64/input_controller.js",
+        "engines/nintendo64/jquery-3.3.1.min.js",
+        "engines/nintendo64/n64wasm.js",
+        "engines/nintendo64/n64wasm.wasm",
+        "engines/nintendo64/rivets.bundled.min.js",
+        "engines/nintendo64/romlist.js",
+        "engines/nintendo64/script.js",
+        "engines/nintendo64/settings.js",
+        "engines/serve-engines.js",
+        "settings.json"
+      ],
+      "commits": [
+        {
+          "hash": "1a9b4fb45cc677ce37782a68ae911dc476ba270f",
+          "author": "megamind",
+          "date": "2022-08-08T00:14:51.000Z",
+          "message": "working multiengine",
+          "linesAdded": 2631,
+          "linesDeleted": 5,
+          "filesChanged": [
+            "README.md",
+            "engines/nintendo64/assets.zip",
+            "engines/nintendo64/assets/overlay.png",
+            "engines/nintendo64/assets/res/arial.ttf",
+            "engines/nintendo64/assets/res/font.ttf",
+            "engines/nintendo64/assets/shader_frag.hlsl",
+            "engines/nintendo64/assets/shader_vert.hlsl",
+            "engines/nintendo64/github_logo.png",
+            "engines/nintendo64/index.html",
+            "engines/nintendo64/input_controller.js",
+            "engines/nintendo64/jquery-3.3.1.min.js",
+            "engines/nintendo64/n64wasm.js",
+            "engines/nintendo64/n64wasm.wasm",
+            "engines/nintendo64/rivets.bundled.min.js",
+            "engines/nintendo64/romlist.js",
+            "engines/nintendo64/script.js",
+            "engines/nintendo64/settings.js",
+            "engines/serve-engines.js",
+            "settings.json"
+          ]
+        }
+      ]
+    },
+    "2022-08-06": {
+      "date": "2022-08-06",
+      "heatScore": 30,
+      "linesChanged": 164,
+      "commitCount": 2,
+      "filesEdited": [
+        "docs/CNAME",
+        "engines/list-engines.js",
+        "engines/serve-engines.js",
+        "index.js",
+        "package.json",
+        "settings.json",
+        "streaming/events.js",
+        "utilities/build.js"
+      ],
+      "commits": [
+        {
+          "hash": "3a91290be1771f890e3088c4ba0cae35c5faa11c",
+          "author": "megamind",
+          "date": "2022-08-06T22:00:03.000Z",
+          "message": "Merge branch 'main' of github.com:briancullinan/elastic-game-server",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "docs/CNAME"
+          ]
+        },
+        {
+          "hash": "b55f0173d2dc459ee070ea5f900f8a8afaf3ddfa",
+          "author": "megamind",
+          "date": "2022-08-06T21:59:30.000Z",
+          "message": "trying to get new engine switching module working",
+          "linesAdded": 134,
+          "linesDeleted": 29,
+          "filesChanged": [
+            "engines/list-engines.js",
+            "engines/serve-engines.js",
+            "index.js",
+            "package.json",
+            "settings.json",
+            "streaming/events.js",
+            "utilities/build.js"
+          ]
+        }
+      ]
+    },
+    "2022-08-05": {
+      "date": "2022-08-05",
+      "heatScore": 62,
+      "linesChanged": 194,
+      "commitCount": 5,
+      "filesEdited": [
+        "docs/CNAME",
+        "README.md",
+        "aquisition/scan.js",
+        "engines/adventure-games.js",
+        "engines/call-of-duty.js",
+        "engines/half-life.js",
+        "engines/list-engines.js",
+        "engines/vscode.js",
+        "engines/winter-mute.js",
+        "index.js",
+        "package.json",
+        "settings.json",
+        "streaming/events.js",
+        "utilities/git-checkout.js",
+        "aquisition/find-game.js",
+        "aquisition/first-sale.js",
+        "aquisition/load-balancer.js",
+        "aquisition/purchase.js",
+        "engines/discord.js",
+        "engines/doom3.js",
+        "engines/gameboy.js",
+        "engines/nintendo64.js",
+        "engines/proxy.js",
+        "engines/quake3.js",
+        "engines/scummvm.js",
+        "streaming/broadcast.js",
+        "streaming/demos.js",
+        "templates/bezel.js",
+        "templates/engines.js",
+        "templates/markdown.js",
+        "templates/mustache.js"
+      ],
+      "commits": [
+        {
+          "hash": "77c74d26cddd00522494446592b1c761869b386f",
+          "author": "Brian Cullinan",
+          "date": "2022-08-05T21:21:27.000Z",
+          "message": "Create CNAME",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "docs/CNAME"
+          ]
+        },
+        {
+          "hash": "206f58d70677b19650030b94848e4987d52fd445",
+          "author": "megamind",
+          "date": "2022-08-05T20:48:25.000Z",
+          "message": "outline",
+          "linesAdded": 95,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "README.md",
+            "aquisition/scan.js",
+            "engines/adventure-games.js",
+            "engines/call-of-duty.js",
+            "engines/half-life.js",
+            "engines/list-engines.js",
+            "engines/vscode.js",
+            "engines/winter-mute.js",
+            "index.js",
+            "package.json",
+            "settings.json",
+            "streaming/events.js",
+            "utilities/git-checkout.js"
+          ]
+        },
+        {
+          "hash": "048278579baa3792b5e387e117b70b416008a99e",
+          "author": "megamind",
+          "date": "2022-08-05T17:52:25.000Z",
+          "message": "more outline notes",
+          "linesAdded": 6,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "7910de5d43db9b8443435da4ee8f06ec1d00d099",
+          "author": "megamind",
+          "date": "2022-08-05T17:35:11.000Z",
+          "message": "more outline notes",
+          "linesAdded": 18,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "f5dc6cd1775f37eda5c02ae1c675576add070988",
+          "author": "megamind",
+          "date": "2022-08-05T17:25:05.000Z",
+          "message": "outline for game sharing mesh network",
+          "linesAdded": 72,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md",
+            "aquisition/find-game.js",
+            "aquisition/first-sale.js",
+            "aquisition/load-balancer.js",
+            "aquisition/purchase.js",
+            "engines/discord.js",
+            "engines/doom3.js",
+            "engines/gameboy.js",
+            "engines/nintendo64.js",
+            "engines/proxy.js",
+            "engines/quake3.js",
+            "engines/scummvm.js",
+            "engines/vscode.js",
+            "index.js",
+            "package.json",
+            "streaming/broadcast.js",
+            "streaming/demos.js",
+            "templates/bezel.js",
+            "templates/engines.js",
+            "templates/markdown.js",
+            "templates/mustache.js"
+          ]
+        }
+      ]
+    },
+    "2022-07-26": {
+      "date": "2022-07-26",
+      "heatScore": 20,
+      "linesChanged": 9,
+      "commitCount": 2,
+      "filesEdited": [
+        "README.md"
+      ],
+      "commits": [
+        {
+          "hash": "1f377536b52562bd685f924a003bfed22fbb8829",
+          "author": "Brian Cullinan",
+          "date": "2022-07-26T19:10:29.000Z",
+          "message": "Update README.md",
+          "linesAdded": 7,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "b704ad62689a742a416ad7fc7462e9576e9d33fd",
+          "author": "Brian Cullinan",
+          "date": "2022-07-26T19:04:35.000Z",
+          "message": "Initial commit",
+          "linesAdded": 2,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        }
+      ]
+    }
+  }
+}

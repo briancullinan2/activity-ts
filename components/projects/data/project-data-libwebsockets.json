@@ -1,0 +1,42 @@
+{
+  "projectName": "libwebsockets",
+  "localPath": "D:\\libwebsockets",
+  "remoteUrl": "git@github.com:warmcat/libwebsockets.git",
+  "lastUpdated": "2026-09-26T04:42:45.922Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2019-03-13": {
+      "date": "2019-03-13",
+      "heatScore": 20,
+      "linesChanged": 2,
+      "commitCount": 2,
+      "filesEdited": [
+        "minimal-examples/dbus-client/minimal-dbus-client/minimal-dbus-client.c"
+      ],
+      "commits": [
+        {
+          "hash": "4c5caf47fb69bf99b4ec1a573b7bd0ca7092bd39",
+          "author": "Brian Lee",
+          "date": "2019-03-13T14:29:18.000Z",
+          "message": "dbus: signal.h needed explicitly on some platforms",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "minimal-examples/dbus-client/minimal-dbus-client/minimal-dbus-client.c"
+          ]
+        },
+        {
+          "hash": "ce273b1c4f6b3b0e9f0451b21e4d0fc31f7ebaed",
+          "author": "Brian Lee",
+          "date": "2019-03-13T14:29:18.000Z",
+          "message": "dbus: signal.h needed explicitly on some platforms",
+          "linesAdded": 1,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "minimal-examples/dbus-client/minimal-dbus-client/minimal-dbus-client.c"
+          ]
+        }
+      ]
+    }
+  }
+}

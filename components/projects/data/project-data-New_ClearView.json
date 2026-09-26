@@ -1,0 +1,77 @@
+{
+  "projectName": "New ClearView",
+  "localPath": "D:\\Visual Studio 2012\\Projects\\New ClearView",
+  "remoteUrl": "git@github.com:briancullinan/newclearview.git",
+  "lastUpdated": "2026-09-26T04:47:02.435Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2020-01-19": {
+      "date": "2020-01-19",
+      "heatScore": 100,
+      "linesChanged": 23096,
+      "commitCount": 1,
+      "filesEdited": [
+        "bin/x86/Debug/CData.mat",
+        "bin/x86/Debug/CalibrationAnalysisNative.dll",
+        "bin/x86/Debug/CameraInterface.dll",
+        "bin/x86/Debug/CameraInterface.pdb",
+        "bin/x86/Debug/CameraInterface.xml",
+        "bin/x86/Debug/DeviceInterface.dll",
+        "bin/x86/Debug/DeviceInterface.pdb",
+        "bin/x86/Debug/DeviceInterface.xml",
+        "bin/x86/Debug/DirectShowLib-2005.dll",
+        "bin/x86/Debug/EPICAnalysis.dll",
+        "bin/x86/Debug/EPICAnalysis.pdb",
+        "bin/x86/Debug/EPICAnalysis.xml",
+        "bin/x86/Debug/EPICClearView.exe",
+        "bin/x86/Debug/EPICClearView.exe.config",
+        "bin/x86/Debug/Elysium.dll",
+        "bin/x86/Debug/Emgu.CV.License.txt",
+        "bin/x86/Debug/Emgu.CV.dll",
+        "bin/x86/Debug/Emgu.CV.pdb",
+        "bin/x86/Debug/Emgu.CV.xml",
+        "bin/x86/Debug/Emgu.Util.dll",
+        "bin/x86/Debug/Emgu.Util.pdb",
+        "bin/x86/Debug/Emgu.Util.xml",
+        "bin/x86/Debug/de/System.Windows.Interactivity.resources.dll",
+        "bin/x86/Debug/en/System.Windows.Interactivity.resources.dll"
+      ],
+      "commits": [
+        {
+          "hash": "5683959bc4e31ffa515759c60559fea6e3798572",
+          "author": "Brian",
+          "date": "2020-01-19T07:53:46.000Z",
+          "message": "Initial commit",
+          "linesAdded": 23096,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "bin/x86/Debug/CData.mat",
+            "bin/x86/Debug/CalibrationAnalysisNative.dll",
+            "bin/x86/Debug/CameraInterface.dll",
+            "bin/x86/Debug/CameraInterface.pdb",
+            "bin/x86/Debug/CameraInterface.xml",
+            "bin/x86/Debug/DeviceInterface.dll",
+            "bin/x86/Debug/DeviceInterface.pdb",
+            "bin/x86/Debug/DeviceInterface.xml",
+            "bin/x86/Debug/DirectShowLib-2005.dll",
+            "bin/x86/Debug/EPICAnalysis.dll",
+            "bin/x86/Debug/EPICAnalysis.pdb",
+            "bin/x86/Debug/EPICAnalysis.xml",
+            "bin/x86/Debug/EPICClearView.exe",
+            "bin/x86/Debug/EPICClearView.exe.config",
+            "bin/x86/Debug/Elysium.dll",
+            "bin/x86/Debug/Emgu.CV.License.txt",
+            "bin/x86/Debug/Emgu.CV.dll",
+            "bin/x86/Debug/Emgu.CV.pdb",
+            "bin/x86/Debug/Emgu.CV.xml",
+            "bin/x86/Debug/Emgu.Util.dll",
+            "bin/x86/Debug/Emgu.Util.pdb",
+            "bin/x86/Debug/Emgu.Util.xml",
+            "bin/x86/Debug/de/System.Windows.Interactivity.resources.dll",
+            "bin/x86/Debug/en/System.Windows.Interactivity.resources.dll"
+          ]
+        }
+      ]
+    }
+  }
+}

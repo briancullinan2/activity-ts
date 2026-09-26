@@ -1,67 +1,67 @@
 {
   "projectName": "emsdk",
-  "localPath": "C:\\Users\\megam\\emsdk",
+  "localPath": "D:\\emsdk",
   "remoteUrl": "https://github.com/emscripten-core/emsdk.git",
-  "lastUpdated": "2026-09-24T17:52:27.170Z",
+  "lastUpdated": "2026-09-26T04:42:38.204Z",
   "screenshots": [
     {
       "filename": "screenshot.webp",
-      "relativePath": "upstream\\emscripten\\test\\browser\\screenshot.webp",
-      "date": "2026-07-04T23:10:43.354Z",
-      "source": "mtime"
-    },
-    {
-      "filename": "screenshot.jpg",
-      "relativePath": "upstream\\emscripten\\test\\browser\\screenshot.jpg",
-      "date": "2026-07-04T23:10:43.352Z",
-      "source": "mtime"
-    },
-    {
-      "filename": "screenshot.png",
-      "relativePath": "upstream\\emscripten\\test\\browser\\screenshot.png",
-      "date": "2026-07-04T23:10:43.352Z",
-      "source": "mtime"
-    },
-    {
-      "filename": "screenshot-gray.png",
-      "relativePath": "upstream\\emscripten\\test\\browser\\screenshot-gray.png",
-      "date": "2026-07-04T23:10:43.349Z",
-      "source": "mtime"
-    },
-    {
-      "filename": "screenshot-fog-negative.png",
-      "relativePath": "upstream\\emscripten\\test\\browser\\screenshot-fog-negative.png",
-      "date": "2026-07-04T23:10:43.342Z",
-      "source": "mtime"
-    },
-    {
-      "filename": "screenshot-fog-simple.png",
-      "relativePath": "upstream\\emscripten\\test\\browser\\screenshot-fog-simple.png",
-      "date": "2026-07-04T23:10:43.342Z",
-      "source": "mtime"
-    },
-    {
-      "filename": "screenshot-gray-purple.png",
-      "relativePath": "upstream\\emscripten\\test\\browser\\screenshot-gray-purple.png",
-      "date": "2026-07-04T23:10:43.342Z",
-      "source": "mtime"
-    },
-    {
-      "filename": "screenshot-fog-exp2.png",
-      "relativePath": "upstream\\emscripten\\test\\browser\\screenshot-fog-exp2.png",
-      "date": "2026-07-04T23:10:43.340Z",
+      "relativePath": "upstream\\emscripten\\test\\screenshot.webp",
+      "date": "2024-08-01T06:19:37.000Z",
       "source": "mtime"
     },
     {
       "filename": "screenshot-fog-linear.png",
-      "relativePath": "upstream\\emscripten\\test\\browser\\screenshot-fog-linear.png",
-      "date": "2026-07-04T23:10:43.340Z",
+      "relativePath": "upstream\\emscripten\\test\\screenshot-fog-linear.png",
+      "date": "2024-07-18T04:15:48.000Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-gray-purple.png",
+      "relativePath": "upstream\\emscripten\\test\\screenshot-gray-purple.png",
+      "date": "2024-07-18T04:15:48.000Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-gray.png",
+      "relativePath": "upstream\\emscripten\\test\\screenshot-gray.png",
+      "date": "2024-07-18T04:15:48.000Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-fog-exp2.png",
+      "relativePath": "upstream\\emscripten\\test\\screenshot-fog-exp2.png",
+      "date": "2024-07-18T04:15:48.000Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-fog-simple.png",
+      "relativePath": "upstream\\emscripten\\test\\screenshot-fog-simple.png",
+      "date": "2024-07-18T04:15:48.000Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.png",
+      "relativePath": "upstream\\emscripten\\test\\screenshot.png",
+      "date": "2024-07-18T04:15:48.000Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot.jpg",
+      "relativePath": "upstream\\emscripten\\test\\screenshot.jpg",
+      "date": "2024-07-18T04:15:48.000Z",
       "source": "mtime"
     },
     {
       "filename": "screenshot-fog-density.png",
-      "relativePath": "upstream\\emscripten\\test\\browser\\screenshot-fog-density.png",
-      "date": "2026-07-04T23:10:43.338Z",
+      "relativePath": "upstream\\emscripten\\test\\screenshot-fog-density.png",
+      "date": "2024-07-18T04:15:48.000Z",
+      "source": "mtime"
+    },
+    {
+      "filename": "screenshot-fog-negative.png",
+      "relativePath": "upstream\\emscripten\\test\\screenshot-fog-negative.png",
+      "date": "2024-07-18T04:15:48.000Z",
       "source": "mtime"
     }
   ],

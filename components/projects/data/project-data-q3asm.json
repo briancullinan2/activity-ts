@@ -1,0 +1,94 @@
+{
+  "projectName": "q3asm",
+  "localPath": "D:\\q3asm",
+  "remoteUrl": "git@github.com:briancullinan2/q3asm.git",
+  "lastUpdated": "2026-09-26T04:44:46.497Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2023-12-10": {
+      "date": "2023-12-10",
+      "heatScore": 81,
+      "linesChanged": 626,
+      "commitCount": 4,
+      "filesEdited": [
+        ".gitignore",
+        "README.Id",
+        "cmdlib.c",
+        "cmdlib.h",
+        "lib.txt",
+        "notes.txt",
+        "ops.txt",
+        "opstrings.h",
+        "q3asm.c",
+        "q3vm.c",
+        "qvm.h",
+        "readme.md",
+        "vs2005/q3asm.sln",
+        "vs2005/q3asm.vcproj",
+        "Makefile",
+        "vs2017/q3asm.vcxproj",
+        ".github/workflows/build.yml"
+      ],
+      "commits": [
+        {
+          "hash": "140bb34aede67ca80fef3dd68216254fcb0b848e",
+          "author": "Brian Cullinan",
+          "date": "2023-12-11T01:08:01.000Z",
+          "message": "fix for mac",
+          "linesAdded": 2,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".gitignore",
+            "README.Id",
+            "cmdlib.c",
+            "cmdlib.h",
+            "lib.txt",
+            "notes.txt",
+            "ops.txt",
+            "opstrings.h",
+            "q3asm.c",
+            "q3vm.c",
+            "qvm.h",
+            "readme.md",
+            "vs2005/q3asm.sln",
+            "vs2005/q3asm.vcproj"
+          ]
+        },
+        {
+          "hash": "305c0ca1088bf1523fef96bc53368835f9a382f0",
+          "author": "Brian Cullinan",
+          "date": "2023-12-11T00:54:40.000Z",
+          "message": "make fix",
+          "linesAdded": 10,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "Makefile"
+          ]
+        },
+        {
+          "hash": "da66dbf0df1cfb1731b8f046c3196da359d8aec1",
+          "author": "Brian Cullinan",
+          "date": "2023-12-11T00:51:22.000Z",
+          "message": "build files",
+          "linesAdded": 284,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".gitignore",
+            "vs2017/q3asm.vcxproj"
+          ]
+        },
+        {
+          "hash": "7470a27419cad92d0b181a99538251880718fb3d",
+          "author": "Brian Cullinan",
+          "date": "2023-12-11T00:38:02.000Z",
+          "message": "auto-build",
+          "linesAdded": 329,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".github/workflows/build.yml"
+          ]
+        }
+      ]
+    }
+  }
+}

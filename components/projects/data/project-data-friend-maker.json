@@ -1,0 +1,207 @@
+{
+  "projectName": "friend-maker",
+  "localPath": "D:\\friend-maker",
+  "remoteUrl": "git@github.com:briancullinan2/friend-maker.git",
+  "lastUpdated": "2026-09-26T04:42:40.761Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2025-02-05": {
+      "date": "2025-02-05",
+      "heatScore": 24,
+      "linesChanged": 213,
+      "commitCount": 1,
+      "filesEdited": [
+        "chatgpt.html",
+        "facebook-photos.js",
+        "facebook-post.js",
+        "facebook-posts.js",
+        "openai-quine.js",
+        "package.json",
+        "util-getall.js",
+        "webdriver.js"
+      ],
+      "commits": [
+        {
+          "hash": "9517b13c9b9b090a515439de0caa48d45b118169",
+          "author": "Brian Cullinan",
+          "date": "2025-02-05T17:46:38.000Z",
+          "message": "more friendly selenium code",
+          "linesAdded": 201,
+          "linesDeleted": 12,
+          "filesChanged": [
+            "chatgpt.html",
+            "facebook-photos.js",
+            "facebook-post.js",
+            "facebook-posts.js",
+            "openai-quine.js",
+            "package.json",
+            "util-getall.js",
+            "webdriver.js"
+          ]
+        }
+      ]
+    },
+    "2024-06-04": {
+      "date": "2024-06-04",
+      "heatScore": 69,
+      "linesChanged": 887,
+      "commitCount": 1,
+      "filesEdited": [
+        "config.js",
+        "credentials.js",
+        "facebook-auth.js",
+        "facebook-connect.js",
+        "facebook-friends.js",
+        "facebook-like.js",
+        "facebook-photos.js",
+        "linkedin-auth.js",
+        "linkedin-comment.js",
+        "linkedin-post.js",
+        "openai-chat.js",
+        "package-lock.json",
+        "package.json",
+        "util-getall.js",
+        "webdriver.js"
+      ],
+      "commits": [
+        {
+          "hash": "596ead87cb910690c5a75ea499f34e45ac3f3210",
+          "author": "Brian Cullinan",
+          "date": "2024-06-05T00:31:02.000Z",
+          "message": "facebook automations",
+          "linesAdded": 870,
+          "linesDeleted": 17,
+          "filesChanged": [
+            "config.js",
+            "credentials.js",
+            "facebook-auth.js",
+            "facebook-connect.js",
+            "facebook-friends.js",
+            "facebook-like.js",
+            "facebook-photos.js",
+            "linkedin-auth.js",
+            "linkedin-comment.js",
+            "linkedin-post.js",
+            "openai-chat.js",
+            "package-lock.json",
+            "package.json",
+            "util-getall.js",
+            "webdriver.js"
+          ]
+        }
+      ]
+    },
+    "2024-06-02": {
+      "date": "2024-06-02",
+      "heatScore": 40,
+      "linesChanged": 452,
+      "commitCount": 1,
+      "filesEdited": [
+        "config.js",
+        "linkedin-connect.js",
+        "linkedin-connections.js",
+        "linkedin-post.js",
+        "linkedin-profile.js",
+        "package.json",
+        "sessions.js",
+        "util-getall.js",
+        "util-searchall.js"
+      ],
+      "commits": [
+        {
+          "hash": "8e386fe88e99d5eea0918b4d1cc5a873db30e41e",
+          "author": "Brian Cullinan",
+          "date": "2024-06-03T04:47:59.000Z",
+          "message": "linkedin post automation and automatically connecting to people",
+          "linesAdded": 435,
+          "linesDeleted": 17,
+          "filesChanged": [
+            "config.js",
+            "linkedin-connect.js",
+            "linkedin-connections.js",
+            "linkedin-post.js",
+            "linkedin-profile.js",
+            "package.json",
+            "sessions.js",
+            "util-getall.js",
+            "util-searchall.js"
+          ]
+        }
+      ]
+    },
+    "2024-06-01": {
+      "date": "2024-06-01",
+      "heatScore": 100,
+      "linesChanged": 6854,
+      "commitCount": 4,
+      "filesEdited": [
+        ".gitignore",
+        "credentials.js",
+        "linkedin-auth.js",
+        "linkedin-connections.js",
+        "package-lock.json",
+        "package.json",
+        "sessions.js",
+        "util-getall.js",
+        "util-walktree.js",
+        "webdriver.js",
+        "README.md"
+      ],
+      "commits": [
+        {
+          "hash": "c8ce764bdcf1b632644e0e2d00ba032fc227ab72",
+          "author": "Brian Cullinan",
+          "date": "2024-06-02T06:16:17.000Z",
+          "message": "working login and connections scrape",
+          "linesAdded": 6845,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".gitignore",
+            "credentials.js",
+            "linkedin-auth.js",
+            "linkedin-connections.js",
+            "package-lock.json",
+            "package.json",
+            "sessions.js",
+            "util-getall.js",
+            "util-walktree.js",
+            "webdriver.js"
+          ]
+        },
+        {
+          "hash": "975b260bcd01e794ddff577385159f2ea1482431",
+          "author": "Brian Cullinan",
+          "date": "2024-06-01T19:00:05.000Z",
+          "message": "Update README.md",
+          "linesAdded": 2,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "9adf0a661b77277c66144486c29414167a5a5ca5",
+          "author": "Brian Cullinan",
+          "date": "2024-06-01T18:59:16.000Z",
+          "message": "Update README.md",
+          "linesAdded": 4,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "217f0b3452512deabc34e2f534a659c796090036",
+          "author": "Brian Cullinan",
+          "date": "2024-06-01T18:58:26.000Z",
+          "message": "Initial commit",
+          "linesAdded": 2,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "projectName": "jansson",
+  "localPath": "D:\\jansson",
+  "remoteUrl": "git@github.com:akheron/jansson.git",
+  "lastUpdated": "2026-09-26T04:42:42.760Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2016-11-12": {
+      "date": "2016-11-12",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "CMakeLists.txt"
+      ],
+      "commits": [
+        {
+          "hash": "2af820fb9914318942433a6a5a1dda1c03b57fdd",
+          "author": "Brian Armstrong",
+          "date": "2016-11-13T02:58:38.000Z",
+          "message": "parens for LONG_LONG_INT in cmake",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "CMakeLists.txt"
+          ]
+        }
+      ]
+    }
+  }
+}

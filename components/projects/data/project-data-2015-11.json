@@ -1,0 +1,1582 @@
+{
+  "yearMonth": "2015-11",
+  "generatedAt": "2026-09-26T04:31:28.820Z",
+  "username": "briancullinan2",
+  "projects": {
+    "studysauce3": {
+      "projectName": "studysauce3",
+      "localPath": "D:\\studysauce3",
+      "remoteUrl": "git@bitbucket.org:StudySauce/studysauce3.git",
+      "lastUpdated": "2026-09-26T04:30:48.213Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2015-11-10": {
+          "date": "2015-11-10",
+          "heatScore": 35,
+          "linesChanged": 385,
+          "commitCount": 1,
+          "filesEdited": [
+            "composer.json",
+            "src/Admin/Bundle/Resources/public/js/admin.js",
+            "src/StudySauce/Bundle/Controller/PacksController.php",
+            "src/StudySauce/Bundle/Entity/Answer.php",
+            "src/StudySauce/Bundle/Entity/Card.php",
+            "src/StudySauce/Bundle/Resources/config/routing.php",
+            "src/StudySauce/Bundle/Resources/public/css/dialog.css",
+            "src/StudySauce/Bundle/Resources/public/css/packs.css",
+            "src/StudySauce/Bundle/Resources/public/js/packs.js",
+            "src/StudySauce/Bundle/Resources/views/Dialogs/confirm-remove-pack.html.php",
+            "src/StudySauce/Bundle/Resources/views/Packs/tab.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "a6e10da1c3a63f290bfb40b9b7723e7027e6f067",
+              "author": "bjcullinan",
+              "date": "2015-11-11T04:57:20.000Z",
+              "message": "pack fixes",
+              "linesAdded": 291,
+              "linesDeleted": 94,
+              "filesChanged": [
+                "composer.json",
+                "src/Admin/Bundle/Resources/public/js/admin.js",
+                "src/StudySauce/Bundle/Controller/PacksController.php",
+                "src/StudySauce/Bundle/Entity/Answer.php",
+                "src/StudySauce/Bundle/Entity/Card.php",
+                "src/StudySauce/Bundle/Resources/config/routing.php",
+                "src/StudySauce/Bundle/Resources/public/css/dialog.css",
+                "src/StudySauce/Bundle/Resources/public/css/packs.css",
+                "src/StudySauce/Bundle/Resources/public/js/packs.js",
+                "src/StudySauce/Bundle/Resources/views/Dialogs/confirm-remove-pack.html.php",
+                "src/StudySauce/Bundle/Resources/views/Packs/tab.html.php"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "studysauceapp": {
+      "projectName": "studysauceapp",
+      "localPath": "D:\\studysauceapp",
+      "remoteUrl": "https://bjcullinan@bitbucket.org/studysauce/studysauceapp",
+      "lastUpdated": "2026-09-26T04:31:17.427Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2015-11-24": {
+          "date": "2015-11-24",
+          "heatScore": 17,
+          "linesChanged": 105,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce/CardSegue.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/NSDate.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/User.swift",
+            "StudySauce/UserPack.swift"
+          ],
+          "commits": [
+            {
+              "hash": "73838365242e5a719c818610e8191bfbe4436a4c",
+              "author": "bjcullinan",
+              "date": "2015-11-25T04:50:52.000Z",
+              "message": "response syncing and transition fix",
+              "linesAdded": 59,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "StudySauce/CardSegue.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/NSDate.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/User.swift",
+                "StudySauce/UserPack.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-27": {
+          "date": "2015-11-27",
+          "heatScore": 21,
+          "linesChanged": 167,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Card.swift",
+            "StudySauce/CardController.swift",
+            "StudySauce/CardTrueFalseController.swift",
+            "StudySauce/NSDate.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/UserPack.swift"
+          ],
+          "commits": [
+            {
+              "hash": "eb2a5eb2dc11d9035236984a70bf0d04b931b39d",
+              "author": "bjcullinan",
+              "date": "2015-11-27T18:43:08.000Z",
+              "message": "timing fix",
+              "linesAdded": 99,
+              "linesDeleted": 68,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Card.swift",
+                "StudySauce/CardController.swift",
+                "StudySauce/CardTrueFalseController.swift",
+                "StudySauce/NSDate.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/UserPack.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-23": {
+          "date": "2015-11-23",
+          "heatScore": 100,
+          "linesChanged": 439,
+          "commitCount": 8,
+          "filesEdited": [
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/CardMultipleController.swift",
+            "StudySauce/CardSelfController.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/UIViewController.swift",
+            "StudySauce/User.swift",
+            "StudySauce/UserPack.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/CardSegue.swift",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/DismissSegue.swift",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/UserLoginController.swift",
+            "StudySauce/UserSettingsController.swift",
+            "StudySauce/HomeController.swift",
+            "StudySauce/PackSummaryController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "caa44bfd4912f6963e5d14739e0654203200549b",
+              "author": "bjcullinan",
+              "date": "2015-11-24T03:58:50.000Z",
+              "message": "incorrect fix",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "7c558273d4d5d8db3ad3b33a21135b48205be348",
+              "author": "bjcullinan",
+              "date": "2015-11-24T02:14:27.000Z",
+              "message": "single gesture recognizer",
+              "linesAdded": 89,
+              "linesDeleted": 74,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardMultipleController.swift",
+                "StudySauce/CardSelfController.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/UIViewController.swift"
+              ]
+            },
+            {
+              "hash": "a054cf02cd9b966bd07aae60227a31a5f5c9404c",
+              "author": "bjcullinan",
+              "date": "2015-11-24T00:44:14.000Z",
+              "message": "shuffle fix",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "StudySauce/User.swift",
+                "StudySauce/UserPack.swift"
+              ]
+            },
+            {
+              "hash": "47172487c95879870663e638dc6be60229b41327",
+              "author": "bjcullinan",
+              "date": "2015-11-24T00:20:38.000Z",
+              "message": "timing fix",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "StudySauce/UserPack.swift"
+              ]
+            },
+            {
+              "hash": "8d5332609b3b8967e0fabb084ff804658838849a",
+              "author": "bjcullinan",
+              "date": "2015-11-24T00:14:48.000Z",
+              "message": "time interval fix",
+              "linesAdded": 26,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/UserPack.swift"
+              ]
+            },
+            {
+              "hash": "8b6f4de06bd1045df84384a15697c261fc7ae09b",
+              "author": "bjcullinan",
+              "date": "2015-11-23T21:29:47.000Z",
+              "message": "transition fix",
+              "linesAdded": 9,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "StudySauce/CardSegue.swift",
+                "StudySauce/CardTransitionManager.swift"
+              ]
+            },
+            {
+              "hash": "cc3d0094de301a79e4e590e51ae61cb486624d9f",
+              "author": "bjcullinan",
+              "date": "2015-11-23T20:46:39.000Z",
+              "message": "dismiss fix",
+              "linesAdded": 81,
+              "linesDeleted": 81,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardMultipleController.swift",
+                "StudySauce/CardSelfController.swift",
+                "StudySauce/DismissSegue.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserSettingsController.swift"
+              ]
+            },
+            {
+              "hash": "94ca804b7079ed6104e09839f04f43a86c022167",
+              "author": "bjcullinan",
+              "date": "2015-11-23T19:55:20.000Z",
+              "message": "transition fix",
+              "linesAdded": 26,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardSegue.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/PackSummaryController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-22": {
+          "date": "2015-11-22",
+          "heatScore": 44,
+          "linesChanged": 74,
+          "commitCount": 4,
+          "filesEdited": [
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/DismissSegue.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/User.swift",
+            "StudySauce/UserPack.swift",
+            ".gitignore",
+            "StudySauce/Base.lproj/Main.storyboard"
+          ],
+          "commits": [
+            {
+              "hash": "7e9c0bf04cf533160c6945b8b8070129271e8a47",
+              "author": "bjcullinan",
+              "date": "2015-11-23T04:14:55.000Z",
+              "message": "try this",
+              "linesAdded": 13,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/DismissSegue.swift"
+              ]
+            },
+            {
+              "hash": "828a090f64e7a6c4e1cbf04bbaae965098f6e886",
+              "author": "bjcullinan",
+              "date": "2015-11-23T03:07:06.000Z",
+              "message": "retry fix",
+              "linesAdded": 5,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/User.swift",
+                "StudySauce/UserPack.swift"
+              ]
+            },
+            {
+              "hash": "48a6ce1357cde39e96e641f010683c24780dd046",
+              "author": "bjcullinan",
+              "date": "2015-11-23T02:26:37.000Z",
+              "message": "retries fix",
+              "linesAdded": 7,
+              "linesDeleted": 5,
+              "filesChanged": [
+                ".gitignore",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/PackResultsController.swift"
+              ]
+            },
+            {
+              "hash": "da0ea6337d390590810930cfed64a03ac6e9bff0",
+              "author": "bjcullinan",
+              "date": "2015-11-22T21:42:57.000Z",
+              "message": "doesn't re-use gesture recognizer, moving between cards dismisses from parent VC",
+              "linesAdded": 16,
+              "linesDeleted": 21,
+              "filesChanged": [
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/DismissSegue.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-21": {
+          "date": "2015-11-21",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/JSON.swift",
+            "StudySauce/UserPack.swift"
+          ],
+          "commits": [
+            {
+              "hash": "9790a22ef5ebfec0d36fa30ec963ca3d59d55f12",
+              "author": "bjcullinan",
+              "date": "2015-11-22T02:41:38.000Z",
+              "message": "time interval fix",
+              "linesAdded": 10,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/JSON.swift",
+                "StudySauce/UserPack.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-20": {
+          "date": "2015-11-20",
+          "heatScore": 100,
+          "linesChanged": 423,
+          "commitCount": 9,
+          "filesEdited": [
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/HomeController.swift",
+            "StudySauce/JSON.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/UIViewController.swift",
+            "StudySauce/User.swift",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/Card.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/UserPack.swift",
+            "StudySauce/CardController.swift",
+            "StudySauce/CardSegue.swift",
+            "StudySauce/DismissSegue.swift",
+            "StudySauce/NSDate.swift",
+            "StudySauce/PackSummaryController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "b1778d20118cd09e6cc7a343676f200ca9b0f0b7",
+              "author": "bjcullinan",
+              "date": "2015-11-21T03:16:40.000Z",
+              "message": "bug fixes",
+              "linesAdded": 47,
+              "linesDeleted": 38,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/JSON.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/User.swift",
+                "StudySauce/UserInviteController.swift"
+              ]
+            },
+            {
+              "hash": "d3678ba7da491b150ad453d9440f4b9a6bd66557",
+              "author": "bjcullinan",
+              "date": "2015-11-21T01:49:07.000Z",
+              "message": "retry fix",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "StudySauce/Card.swift"
+              ]
+            },
+            {
+              "hash": "179f2c889df2893cd18f0fa65efa2ee42e7cf66e",
+              "author": "bjcullinan",
+              "date": "2015-11-21T01:31:36.000Z",
+              "message": "button fix",
+              "linesAdded": 17,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "b1707b5f9ba05a72c8ea2874b7bf37a30eb0a75b",
+              "author": "bjcullinan",
+              "date": "2015-11-21T00:47:18.000Z",
+              "message": "card correctness bug fix",
+              "linesAdded": 9,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "StudySauce/Card.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/UserPack.swift"
+              ]
+            },
+            {
+              "hash": "6b3e9bfb646990f90f685c5bccd60c05e07a598c",
+              "author": "bjcullinan",
+              "date": "2015-11-21T00:19:27.000Z",
+              "message": "due today fix",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "StudySauce/UserPack.swift"
+              ]
+            },
+            {
+              "hash": "21dcb417e391a587238f2a41b81504f59bfc85e7",
+              "author": "bjcullinan",
+              "date": "2015-11-20T22:32:06.000Z",
+              "message": "user pack error",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "StudySauce/UserPack.swift"
+              ]
+            },
+            {
+              "hash": "c827fdf97730c3afa20f8280c3f0348c87859d02",
+              "author": "bjcullinan",
+              "date": "2015-11-20T22:26:49.000Z",
+              "message": "pack fix",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "StudySauce/User.swift"
+              ]
+            },
+            {
+              "hash": "af57af755ff894cf65cd028d6264499cf93465ff",
+              "author": "bjcullinan",
+              "date": "2015-11-20T22:12:29.000Z",
+              "message": "retention pack fixes",
+              "linesAdded": 150,
+              "linesDeleted": 119,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardController.swift",
+                "StudySauce/CardSegue.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/DismissSegue.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/NSDate.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/UIViewController.swift"
+              ]
+            },
+            {
+              "hash": "44e55bb7a5db1bfdad0ae83c444d1ad7cdebf8a0",
+              "author": "bjcullinan",
+              "date": "2015-11-20T16:22:08.000Z",
+              "message": "transition fix",
+              "linesAdded": 8,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/DismissSegue.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-19": {
+          "date": "2015-11-19",
+          "heatScore": 65,
+          "linesChanged": 533,
+          "commitCount": 3,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AppDelegate+Theme.swift",
+            "StudySauce/HomeController.swift",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/BetaSignupController.swift",
+            "StudySauce/DialogController.swift",
+            "StudySauce/Images.xcassets/bigbutton.imageset/bigbutton.png",
+            "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/100px-gray-Study-packs-icon-with-clear-center.png",
+            "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/Contents.json",
+            "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/gray Study packs icon with clear center.png",
+            "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/100px gray settings icon with clear center.png",
+            "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/Contents.json",
+            "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/gray settings icon with clear center.png",
+            "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/Contents.json",
+            "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/StudySauce Logo (with text in Avenir heavy).png",
+            "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/side-by-side-logo-(all-orange).png",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/UserLoginController.swift",
+            "StudySauce/UserRegisterController.swift",
+            "StudySauce/UserResetController.swift",
+            "StudySauce/CardController.swift",
+            "StudySauce/ContactUsController.swift",
+            "StudySauce/JSON.swift",
+            "StudySauce/NSDate.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/UIViewController.swift",
+            "StudySauce/User.swift",
+            "StudySauce/UserSettingsController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "271b553d0baaeb8e99a445dd650e23bcb486de3c",
+              "author": "bjcullinan",
+              "date": "2015-11-19T23:37:48.000Z",
+              "message": "home fixes",
+              "linesAdded": 10,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate+Theme.swift",
+                "StudySauce/HomeController.swift"
+              ]
+            },
+            {
+              "hash": "24de53d214e137758e8bdbe176d8ea3de6088e0f",
+              "author": "bjcullinan",
+              "date": "2015-11-19T23:09:30.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 67,
+              "linesDeleted": 90,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate+Theme.swift",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/BetaSignupController.swift",
+                "StudySauce/DialogController.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/Images.xcassets/bigbutton.imageset/bigbutton.png",
+                "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/100px-gray-Study-packs-icon-with-clear-center.png",
+                "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/Contents.json",
+                "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/gray Study packs icon with clear center.png",
+                "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/100px gray settings icon with clear center.png",
+                "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/Contents.json",
+                "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/gray settings icon with clear center.png",
+                "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/Contents.json",
+                "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/StudySauce Logo (with text in Avenir heavy).png",
+                "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/side-by-side-logo-(all-orange).png",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserRegisterController.swift",
+                "StudySauce/UserResetController.swift"
+              ]
+            },
+            {
+              "hash": "515d406630b89528b030dcceffcd6e6e46eb32c4",
+              "author": "bjcullinan",
+              "date": "2015-11-19T22:56:20.000Z",
+              "message": "rotation animation",
+              "linesAdded": 224,
+              "linesDeleted": 137,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate+Theme.swift",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/BetaSignupController.swift",
+                "StudySauce/CardController.swift",
+                "StudySauce/ContactUsController.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/JSON.swift",
+                "StudySauce/NSDate.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/User.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserRegisterController.swift",
+                "StudySauce/UserResetController.swift",
+                "StudySauce/UserSettingsController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-18": {
+          "date": "2015-11-18",
+          "heatScore": 44,
+          "linesChanged": 521,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce/AppDelegate+Theme.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardController.swift",
+            "StudySauce/CardSegue.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/HomeController.swift",
+            "StudySauce/Pack.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/PackRetentionCell.swift",
+            "StudySauce/PackSummaryCell.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/TQuery.swift",
+            "StudySauce/TQueryOperators.swift",
+            "StudySauce/User.swift",
+            "StudySauce/UserPack.swift",
+            "StudySauce/UserSettingsController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "9b403daaaadee3a5ae2b3a91cd4155b5ef6cd9aa",
+              "author": "bjcullinan",
+              "date": "2015-11-19T05:49:15.000Z",
+              "message": "bug fixes",
+              "linesAdded": 292,
+              "linesDeleted": 229,
+              "filesChanged": [
+                "StudySauce/AppDelegate+Theme.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardController.swift",
+                "StudySauce/CardSegue.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackRetentionCell.swift",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/TQuery.swift",
+                "StudySauce/TQueryOperators.swift",
+                "StudySauce/User.swift",
+                "StudySauce/UserPack.swift",
+                "StudySauce/UserSettingsController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-17": {
+          "date": "2015-11-17",
+          "heatScore": 100,
+          "linesChanged": 790,
+          "commitCount": 5,
+          "filesEdited": [
+            "StudySauce/AppDelegate+Theme.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/File.swift",
+            "StudySauce/PackSummaryCell.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/User.swift",
+            "StudySauce/CardSegue.swift",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/CardController.swift",
+            "StudySauce/File+CoreDataProperties.swift",
+            "StudySauce/NSManagedObjectContext.swift",
+            "StudySauce/Pack.swift",
+            "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+            "StudySauce/CardMultipleController.swift",
+            "StudySauce/CardSelfController.swift",
+            "StudySauce/CardTrueFalseController.swift",
+            "StudySauce/HomeController.swift",
+            "StudySauce/Info.plist",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/PackRetentionCell.swift",
+            "StudySauce/TQuery.swift",
+            "StudySauce/TQueryOperators.swift",
+            "StudySauce/UIViewController.swift",
+            "StudySauce/UserLoginController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "d32c344235c7fb20da0a8b50bcba87c011cfd716",
+              "author": "bjcullinan",
+              "date": "2015-11-18T05:42:19.000Z",
+              "message": "style fixes",
+              "linesAdded": 78,
+              "linesDeleted": 70,
+              "filesChanged": [
+                "StudySauce/AppDelegate+Theme.swift",
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "7f1e3e7bc6a2bf38189fbdaf57b4fbe2382c340e",
+              "author": "bjcullinan",
+              "date": "2015-11-18T00:54:30.000Z",
+              "message": "download fix, speed fix from iPad testing",
+              "linesAdded": 16,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "StudySauce/File.swift",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/User.swift"
+              ]
+            },
+            {
+              "hash": "87cd1edddcb315be6e045cb7aea835ba66eaef8b",
+              "author": "bjcullinan",
+              "date": "2015-11-17T23:24:16.000Z",
+              "message": "count fix",
+              "linesAdded": 12,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "StudySauce/CardSegue.swift",
+                "StudySauce/User.swift"
+              ]
+            },
+            {
+              "hash": "d1eed00738ce02c03aaba70ac0672fe43145d374",
+              "author": "bjcullinan",
+              "date": "2015-11-17T22:43:59.000Z",
+              "message": "logo downloading on separate thread, big button fix",
+              "linesAdded": 142,
+              "linesDeleted": 33,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate+Theme.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardController.swift",
+                "StudySauce/File+CoreDataProperties.swift",
+                "StudySauce/File.swift",
+                "StudySauce/NSManagedObjectContext.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+                "StudySauce/User.swift"
+              ]
+            },
+            {
+              "hash": "65e8d923e7413d9b0bd95a4c11935682ce71e0c1",
+              "author": "bjcullinan",
+              "date": "2015-11-17T17:55:05.000Z",
+              "message": "style fixes, syncing fixes",
+              "linesAdded": 255,
+              "linesDeleted": 175,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate+Theme.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardMultipleController.swift",
+                "StudySauce/CardSelfController.swift",
+                "StudySauce/CardTrueFalseController.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/Info.plist",
+                "StudySauce/NSManagedObjectContext.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackRetentionCell.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/TQuery.swift",
+                "StudySauce/TQueryOperators.swift",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/UserLoginController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-16": {
+          "date": "2015-11-16",
+          "heatScore": 24,
+          "linesChanged": 221,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce/AnyObject.swift",
+            "StudySauce/AppDelegate+Theme.swift",
+            "StudySauce/AutoSizingTextView.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardController.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/HomeController.swift",
+            "StudySauce/TQueryOperators.swift",
+            "StudySauce/User.swift",
+            "StudySauce/UserPack.swift"
+          ],
+          "commits": [
+            {
+              "hash": "3e49d3372bd40fffa322a804b7c707e584f370c1",
+              "author": "bjcullinan",
+              "date": "2015-11-16T20:23:40.000Z",
+              "message": "tons of bug fixes",
+              "linesAdded": 142,
+              "linesDeleted": 79,
+              "filesChanged": [
+                "StudySauce/AnyObject.swift",
+                "StudySauce/AppDelegate+Theme.swift",
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardController.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/TQueryOperators.swift",
+                "StudySauce/User.swift",
+                "StudySauce/UserPack.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-15": {
+          "date": "2015-11-15",
+          "heatScore": 40,
+          "linesChanged": 452,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AnyObject.swift",
+            "StudySauce/{AppDelegateTheme.swift => AppDelegate+Theme.swift}",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/HomeController.swift",
+            "StudySauce/TQuery.swift",
+            "StudySauce/TQueryOperators.swift",
+            "StudySauce/UIView.swift"
+          ],
+          "commits": [
+            {
+              "hash": "7c49867bda733a5e1ce493beb519dc617af5f373",
+              "author": "bjcullinan",
+              "date": "2015-11-15T08:34:38.000Z",
+              "message": "query fixes",
+              "linesAdded": 259,
+              "linesDeleted": 193,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AnyObject.swift",
+                "StudySauce/{AppDelegateTheme.swift => AppDelegate+Theme.swift}",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/HomeController.swift",
+                "StudySauce/TQuery.swift",
+                "StudySauce/TQueryOperators.swift",
+                "StudySauce/UIView.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-13": {
+          "date": "2015-11-13",
+          "heatScore": 84,
+          "linesChanged": 822,
+          "commitCount": 3,
+          "filesEdited": [
+            "StudySauce/AppDelegateTheme.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/HomeController.swift",
+            "StudySauce/UIView.swift",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/TQuery.swift",
+            "StudySauce/UIButton.swift",
+            "StudySauce/UITableViewHeaderFooterView.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/UIColor.swift",
+            "StudySauce/UILabel.swift",
+            "StudySauce/UITextField.swift",
+            "StudySauce/UITextView.swift"
+          ],
+          "commits": [
+            {
+              "hash": "706cd437b9362737c99464af0f34c5486e723c7e",
+              "author": "bjcullinan",
+              "date": "2015-11-14T00:24:15.000Z",
+              "message": "theme fixes",
+              "linesAdded": 67,
+              "linesDeleted": 28,
+              "filesChanged": [
+                "StudySauce/AppDelegateTheme.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/HomeController.swift",
+                "StudySauce/UIView.swift"
+              ]
+            },
+            {
+              "hash": "4a96152fc0bb12f7daf26d267a85e7e41a945515",
+              "author": "bjcullinan",
+              "date": "2015-11-13T19:16:18.000Z",
+              "message": "appearance fixes",
+              "linesAdded": 220,
+              "linesDeleted": 135,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegateTheme.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/TQuery.swift",
+                "StudySauce/UIButton.swift",
+                "StudySauce/UITableViewHeaderFooterView.swift",
+                "StudySauce/UIView.swift"
+              ]
+            },
+            {
+              "hash": "e238b08b514fd06c3415d7d7747cc2f5e88a3825",
+              "author": "bjcullinan",
+              "date": "2015-11-13T08:35:00.000Z",
+              "message": "new appearance query language",
+              "linesAdded": 254,
+              "linesDeleted": 118,
+              "filesChanged": [
+                "StudySauce/AppDelegateTheme.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/TQuery.swift",
+                "StudySauce/UIButton.swift",
+                "StudySauce/UIColor.swift",
+                "StudySauce/UILabel.swift",
+                "StudySauce/UITextField.swift",
+                "StudySauce/UITextView.swift",
+                "StudySauce/UIView.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-12": {
+          "date": "2015-11-12",
+          "heatScore": 31,
+          "linesChanged": 169,
+          "commitCount": 2,
+          "filesEdited": [
+            "StudySauce/Images.xcassets/AppIcon.appiconset/Contents.json",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (29 px)-1.png",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (29 px)-2.png",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (29 px)-3.png",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (29 px).png",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (60 px)-1.png",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (60 px).png",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (40 px)-1.png",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (40 px)-2.png",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (40 px)-3.png",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (40 px).png",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (76 px)-1.png",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (76 px).png",
+            "StudySauce/Images.xcassets/Logo.imageset/Contents.json",
+            "StudySauce/Images.xcassets/Logo.imageset/Study Sauce Logo.png",
+            "StudySauce/Images.xcassets/Logo.imageset/logo.pdf",
+            "StudySauce/Images.xcassets/StudySauce Sketch.imageset/StudySauce Sketch.png",
+            "StudySauce/Images.xcassets/StudySauceBackArrow-2.imageset/Contents.json",
+            "StudySauce/Images.xcassets/StudySauceBackArrow-2.imageset/StudySauceBackArrow.png",
+            "StudySauce/Images.xcassets/bigbutton.imageset/Button with engraving effect logo.png",
+            "StudySauce/Images.xcassets/bigbutton.imageset/Contents.json",
+            "StudySauce/Images.xcassets/bigbutton.imageset/bigbutton.png",
+            "StudySauce/Images.xcassets/bigbuttonpressed.imageset/Button with engraving effect logo (depressed).png",
+            "StudySauce/Images.xcassets/bigbuttonpressed.imageset/Contents.json",
+            "StudySauce/Images.xcassets/bigbuttonpressed.imageset/bigbuttonpressed.png",
+            "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/gray Study packs icon with clear center.png",
+            "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/gray settings icon with clear center.png",
+            "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/Contents.json",
+            "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/StudySauce Logo (with text in Avenir heavy).png",
+            "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/side-by-side logo (all orange).png",
+            "StudySauce/AppDelegateTheme.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/TQuery.swift",
+            "StudySauce/UIView.swift"
+          ],
+          "commits": [
+            {
+              "hash": "ef25161a37b6f354f1d5d75c31d8526cbb34f74f",
+              "author": "bjcullinan",
+              "date": "2015-11-12T07:14:27.000Z",
+              "message": "Merge branches 'master' and 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 88,
+              "linesDeleted": 26,
+              "filesChanged": [
+                "StudySauce/Images.xcassets/AppIcon.appiconset/Contents.json",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (29 px)-1.png",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (29 px)-2.png",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (29 px)-3.png",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (29 px).png",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (60 px)-1.png",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App Icon (60 px).png",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (40 px)-1.png",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (40 px)-2.png",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (40 px)-3.png",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (40 px).png",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (76 px)-1.png",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/StudySauce App icon (76 px).png",
+                "StudySauce/Images.xcassets/Logo.imageset/Contents.json",
+                "StudySauce/Images.xcassets/Logo.imageset/Study Sauce Logo.png",
+                "StudySauce/Images.xcassets/Logo.imageset/logo.pdf",
+                "StudySauce/Images.xcassets/StudySauce Sketch.imageset/StudySauce Sketch.png",
+                "StudySauce/Images.xcassets/StudySauceBackArrow-2.imageset/Contents.json",
+                "StudySauce/Images.xcassets/StudySauceBackArrow-2.imageset/StudySauceBackArrow.png",
+                "StudySauce/Images.xcassets/bigbutton.imageset/Button with engraving effect logo.png",
+                "StudySauce/Images.xcassets/bigbutton.imageset/Contents.json",
+                "StudySauce/Images.xcassets/bigbutton.imageset/bigbutton.png",
+                "StudySauce/Images.xcassets/bigbuttonpressed.imageset/Button with engraving effect logo (depressed).png",
+                "StudySauce/Images.xcassets/bigbuttonpressed.imageset/Contents.json",
+                "StudySauce/Images.xcassets/bigbuttonpressed.imageset/bigbuttonpressed.png",
+                "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/gray Study packs icon with clear center.png",
+                "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/gray settings icon with clear center.png",
+                "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/Contents.json",
+                "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/StudySauce Logo (with text in Avenir heavy).png",
+                "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/side-by-side logo (all orange).png"
+              ]
+            },
+            {
+              "hash": "9a825f1a40f6605e58475095cf38e2f9c25e751e",
+              "author": "bjcullinan",
+              "date": "2015-11-12T07:13:33.000Z",
+              "message": "saucy selectors",
+              "linesAdded": 40,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "StudySauce/AppDelegateTheme.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/TQuery.swift",
+                "StudySauce/UIView.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-11": {
+          "date": "2015-11-11",
+          "heatScore": 70,
+          "linesChanged": 456,
+          "commitCount": 4,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AppDelegateTheme.swift",
+            "StudySauce/Base.lproj/LaunchScreen.xib",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/TQuery.swift",
+            "StudySauce/UIButton.swift",
+            "StudySauce/UILabel.swift",
+            "StudySauce/UITextView.swift",
+            "StudySauce/UIView.swift",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/UserPack.swift",
+            "StudySauce/UserSettingsController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "b2fe27a249705253f21256f0ce9d0ff858e417de",
+              "author": "bjcullinan",
+              "date": "2015-11-12T06:50:57.000Z",
+              "message": "New appearance query language",
+              "linesAdded": 236,
+              "linesDeleted": 60,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegateTheme.swift",
+                "StudySauce/Base.lproj/LaunchScreen.xib",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/TQuery.swift",
+                "StudySauce/UIButton.swift",
+                "StudySauce/UILabel.swift",
+                "StudySauce/UITextView.swift",
+                "StudySauce/UIView.swift"
+              ]
+            },
+            {
+              "hash": "9201b396985c7cfed664aed5eb59f126eefce3b8",
+              "author": "bjcullinan",
+              "date": "2015-11-11T19:37:13.000Z",
+              "message": "theme updates",
+              "linesAdded": 45,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/UIButton.swift",
+                "StudySauce/UILabel.swift"
+              ]
+            },
+            {
+              "hash": "1e3e107476276eb96cc55d4af1b5b0b470c59f8e",
+              "author": "bjcullinan",
+              "date": "2015-11-11T17:24:23.000Z",
+              "message": "retry bug",
+              "linesAdded": 40,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/UserPack.swift"
+              ]
+            },
+            {
+              "hash": "4a524c93ff6358ef4101aa242da3bd7b8d4da67a",
+              "author": "bjcullinan",
+              "date": "2015-11-11T16:51:27.000Z",
+              "message": "bug fixes",
+              "linesAdded": 26,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/UserSettingsController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-10": {
+          "date": "2015-11-10",
+          "heatScore": 56,
+          "linesChanged": 690,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/BetaSignupController.swift",
+            "StudySauce/Card.swift",
+            "StudySauce/CardController.swift",
+            "StudySauce/CardSegue.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/CollectionType.swift",
+            "StudySauce/DialogController.swift",
+            "StudySauce/HomeController.swift",
+            "StudySauce/Pack.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/SaucyButton.swift",
+            "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+            "StudySauce/UIViewController.swift",
+            "StudySauce/User+CoreDataProperties.swift",
+            "StudySauce/User.swift",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/UserLoginController.swift",
+            "StudySauce/UserPack.swift",
+            "StudySauce/UserRegisterController.swift",
+            "StudySauce/UserResetController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "5e63696d16c5fedd7fe4827925f39bcdaca7864c",
+              "author": "bjcullinan",
+              "date": "2015-11-11T05:00:12.000Z",
+              "message": "New home page, algorithm for retaining card knowledge, bug fixes, neural fixes, status bar light content fix",
+              "linesAdded": 446,
+              "linesDeleted": 244,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/BetaSignupController.swift",
+                "StudySauce/Card.swift",
+                "StudySauce/CardController.swift",
+                "StudySauce/CardSegue.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/CollectionType.swift",
+                "StudySauce/DialogController.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/SaucyButton.swift",
+                "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/User+CoreDataProperties.swift",
+                "StudySauce/User.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserPack.swift",
+                "StudySauce/UserRegisterController.swift",
+                "StudySauce/UserResetController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-09": {
+          "date": "2015-11-09",
+          "heatScore": 78,
+          "linesChanged": 873,
+          "commitCount": 2,
+          "filesEdited": [
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardController.swift",
+            "StudySauce/CardSegue.swift",
+            "StudySauce/HomeController.swift",
+            "StudySauce/HomeController.swift.orig",
+            "StudySauce/Pack.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/PackSummaryCell.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+            "StudySauce/UserPack+CoreDataProperties.swift",
+            "StudySauce/UserPack.swift",
+            "StudySauce/NSDate.swift",
+            "StudySauce/PackRetentionCell.swift"
+          ],
+          "commits": [
+            {
+              "hash": "5967e623e42f486e9d84b048fed6a605ed6e0c30",
+              "author": "bjcullinan",
+              "date": "2015-11-10T06:57:37.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 415,
+              "linesDeleted": 199,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardController.swift",
+                "StudySauce/CardSegue.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/HomeController.swift.orig",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+                "StudySauce/UserPack+CoreDataProperties.swift",
+                "StudySauce/UserPack.swift"
+              ]
+            },
+            {
+              "hash": "5b7391e46cdd2775ce8e8c633a22f7d2d2531cf5",
+              "author": "bjcullinan",
+              "date": "2015-11-09T20:03:07.000Z",
+              "message": "new home controller",
+              "linesAdded": 89,
+              "linesDeleted": 170,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/HomeController.swift",
+                "StudySauce/NSDate.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackRetentionCell.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-06": {
+          "date": "2015-11-06",
+          "heatScore": 35,
+          "linesChanged": 232,
+          "commitCount": 2,
+          "filesEdited": [
+            "StudySauce/ContactUsController.swift",
+            "StudySauce/HomeController.swift",
+            "StudySauce/Images.xcassets/{Button with engraving effect logo.imageset => bigbutton.imageset}/Button with engraving effect logo.png",
+            "StudySauce/Images.xcassets/{Button with engraving effect logo.imageset => bigbutton.imageset}/Contents.json",
+            "StudySauce/Images.xcassets/{Button with engraving effect logo (depressed).imageset => bigbuttonpressed.imageset}/Button with engraving effect logo (depressed).png",
+            "StudySauce/Images.xcassets/{Button with engraving effect logo (depressed).imageset => bigbuttonpressed.imageset}/Contents.json",
+            "StudySauce/UserRegisterController.swift",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/PackRetentionCell.swift",
+            "StudySauce/PackSummaryCell.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/UserInviteController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "08fd1c1653d3785ae133c26f2c3404b6238f45a4",
+              "author": "bjcullinan",
+              "date": "2015-11-06T16:56:13.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 36,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "StudySauce/ContactUsController.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/Images.xcassets/{Button with engraving effect logo.imageset => bigbutton.imageset}/Button with engraving effect logo.png",
+                "StudySauce/Images.xcassets/{Button with engraving effect logo.imageset => bigbutton.imageset}/Contents.json",
+                "StudySauce/Images.xcassets/{Button with engraving effect logo (depressed).imageset => bigbuttonpressed.imageset}/Button with engraving effect logo (depressed).png",
+                "StudySauce/Images.xcassets/{Button with engraving effect logo (depressed).imageset => bigbuttonpressed.imageset}/Contents.json",
+                "StudySauce/UserRegisterController.swift"
+              ]
+            },
+            {
+              "hash": "ea30350565c7a2625fcd602976021e055206c160",
+              "author": "bjcullinan",
+              "date": "2015-11-06T16:45:05.000Z",
+              "message": "fixed segues",
+              "linesAdded": 149,
+              "linesDeleted": 43,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/HomeController.swift",
+                "StudySauce/PackRetentionCell.swift",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserRegisterController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-05": {
+          "date": "2015-11-05",
+          "heatScore": 100,
+          "linesChanged": 5611,
+          "commitCount": 3,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardSegue.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/HomeController.swift",
+            "StudySauce/IQKeyboardManagerSwift/Categories/IQNSArray+Sort.swift",
+            "StudySauce/IQKeyboardManagerSwift/Categories/IQUITextFieldView+Additions.swift",
+            "StudySauce/IQKeyboardManagerSwift/Categories/IQUIView+Hierarchy.swift",
+            "StudySauce/IQKeyboardManagerSwift/Categories/IQUIViewController+Additions.swift",
+            "StudySauce/IQKeyboardManagerSwift/Categories/IQUIWindow+Hierarchy.swift",
+            "StudySauce/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstants.swift",
+            "StudySauce/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstantsInternal.swift",
+            "StudySauce/IQKeyboardManagerSwift/IQKeyboardManager.swift",
+            "StudySauce/IQKeyboardManagerSwift/IQKeyboardReturnKeyHandler.swift",
+            "StudySauce/IQKeyboardManagerSwift/IQTextView/IQTextView.swift",
+            "StudySauce/IQKeyboardManagerSwift/IQToolbar/IQBarButtonItem.swift",
+            "StudySauce/IQKeyboardManagerSwift/IQToolbar/IQTitleBarButtonItem.swift",
+            "StudySauce/IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift",
+            "StudySauce/IQKeyboardManagerSwift/IQToolbar/IQUIView+IQKeyboardToolbar.swift",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowLeft.png",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowRight.png",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/de.lproj/IQKeyboardManager.strings",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/en.lproj/IQKeyboardManager.strings",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/es.lproj/IQKeyboardManager.strings",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/fr.lproj/IQKeyboardManager.strings",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/zh-Hans/IQKeyboardManager.strings",
+            "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/zh-Hant/IQKeyboardManager.strings",
+            "StudySauce/IQKeyboardManagerSwift/Resources/Info.plist",
+            "StudySauce/Info.plist",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/UserResetController.swift",
+            "StudySauce/Base.lproj/LaunchScreen.xib",
+            "StudySauce/Images.xcassets/Button with engraving effect logo (depressed).imageset/Button with engraving effect logo (depressed).png",
+            "StudySauce/Images.xcassets/Button with engraving effect logo (depressed).imageset/Contents.json",
+            "StudySauce/Images.xcassets/Button with engraving effect logo.imageset/Button with engraving effect logo.png",
+            "StudySauce/Images.xcassets/Button with engraving effect logo.imageset/Contents.json",
+            "StudySauce/Images.xcassets/Side by side logo.imageset/Contents.json",
+            "StudySauce/Images.xcassets/Side by side logo.imageset/side-by-side logo.png",
+            "StudySauce/Images.xcassets/StudySauceBackArrow-2.imageset/Contents.json",
+            "StudySauce/Images.xcassets/StudySauceBackArrow-2.imageset/StudySauceBackArrow.png",
+            "StudySauce/Images.xcassets/StudySauceBackArrow.imageset/StudySauceBackArrow.png",
+            "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/Contents.json",
+            "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/gray Study packs icon with clear center.png",
+            "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/Contents.json",
+            "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/gray settings icon with clear center.png",
+            "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/Contents.json",
+            "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/side-by-side logo (all orange).png",
+            "StudySauce/AutoSizingTextView.swift"
+          ],
+          "commits": [
+            {
+              "hash": "481cfaf42f972284a4c2ac963d1af2565b90c9e7",
+              "author": "bjcullinan",
+              "date": "2015-11-05T23:04:54.000Z",
+              "message": "keyboard manager add on",
+              "linesAdded": 4823,
+              "linesDeleted": 192,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardSegue.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/IQKeyboardManagerSwift/Categories/IQNSArray+Sort.swift",
+                "StudySauce/IQKeyboardManagerSwift/Categories/IQUITextFieldView+Additions.swift",
+                "StudySauce/IQKeyboardManagerSwift/Categories/IQUIView+Hierarchy.swift",
+                "StudySauce/IQKeyboardManagerSwift/Categories/IQUIViewController+Additions.swift",
+                "StudySauce/IQKeyboardManagerSwift/Categories/IQUIWindow+Hierarchy.swift",
+                "StudySauce/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstants.swift",
+                "StudySauce/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstantsInternal.swift",
+                "StudySauce/IQKeyboardManagerSwift/IQKeyboardManager.swift",
+                "StudySauce/IQKeyboardManagerSwift/IQKeyboardReturnKeyHandler.swift",
+                "StudySauce/IQKeyboardManagerSwift/IQTextView/IQTextView.swift",
+                "StudySauce/IQKeyboardManagerSwift/IQToolbar/IQBarButtonItem.swift",
+                "StudySauce/IQKeyboardManagerSwift/IQToolbar/IQTitleBarButtonItem.swift",
+                "StudySauce/IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift",
+                "StudySauce/IQKeyboardManagerSwift/IQToolbar/IQUIView+IQKeyboardToolbar.swift",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowLeft.png",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowRight.png",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/de.lproj/IQKeyboardManager.strings",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/en.lproj/IQKeyboardManager.strings",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/es.lproj/IQKeyboardManager.strings",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/fr.lproj/IQKeyboardManager.strings",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/zh-Hans/IQKeyboardManager.strings",
+                "StudySauce/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle/zh-Hant/IQKeyboardManager.strings",
+                "StudySauce/IQKeyboardManagerSwift/Resources/Info.plist",
+                "StudySauce/Info.plist",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/UserResetController.swift"
+              ]
+            },
+            {
+              "hash": "2d90c502e32d30721a9e37f944f52db0e01cee0c",
+              "author": "bjcullinan",
+              "date": "2015-11-05T17:16:08.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 423,
+              "linesDeleted": 77,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/LaunchScreen.xib",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Images.xcassets/Button with engraving effect logo (depressed).imageset/Button with engraving effect logo (depressed).png",
+                "StudySauce/Images.xcassets/Button with engraving effect logo (depressed).imageset/Contents.json",
+                "StudySauce/Images.xcassets/Button with engraving effect logo.imageset/Button with engraving effect logo.png",
+                "StudySauce/Images.xcassets/Button with engraving effect logo.imageset/Contents.json",
+                "StudySauce/Images.xcassets/Side by side logo.imageset/Contents.json",
+                "StudySauce/Images.xcassets/Side by side logo.imageset/side-by-side logo.png",
+                "StudySauce/Images.xcassets/StudySauceBackArrow-2.imageset/Contents.json",
+                "StudySauce/Images.xcassets/StudySauceBackArrow-2.imageset/StudySauceBackArrow.png",
+                "StudySauce/Images.xcassets/StudySauceBackArrow.imageset/StudySauceBackArrow.png",
+                "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/Contents.json",
+                "StudySauce/Images.xcassets/gray Study packs icon with clear center.imageset/gray Study packs icon with clear center.png",
+                "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/Contents.json",
+                "StudySauce/Images.xcassets/gray settings icon with clear center.imageset/gray settings icon with clear center.png",
+                "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/Contents.json",
+                "StudySauce/Images.xcassets/side-by-side logo (all orange).imageset/side-by-side logo (all orange).png"
+              ]
+            },
+            {
+              "hash": "ce01b90b29fce3f17c92402e3d318d18b6164819",
+              "author": "bjcullinan",
+              "date": "2015-11-05T17:15:35.000Z",
+              "message": "transition and autosizing fixed",
+              "linesAdded": 61,
+              "linesDeleted": 35,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/HomeController.swift",
+                "StudySauce/Info.plist"
+              ]
+            }
+          ]
+        },
+        "2015-11-04": {
+          "date": "2015-11-04",
+          "heatScore": 26,
+          "linesChanged": 98,
+          "commitCount": 2,
+          "filesEdited": [
+            "StudySauce/AutoSizingTextView.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardSelfController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "b3c8de16e2ccb6ef2a1397f2341f1e879dfcfc69",
+              "author": "bjcullinan",
+              "date": "2015-11-04T17:04:03.000Z",
+              "message": "swipe fix, font fix",
+              "linesAdded": 16,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/CardTransitionManager.swift"
+              ]
+            },
+            {
+              "hash": "2968421984be036264c9f1a1ff2a54fc582de98d",
+              "author": "bjcullinan",
+              "date": "2015-11-04T15:49:29.000Z",
+              "message": "flash",
+              "linesAdded": 34,
+              "linesDeleted": 31,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardSelfController.swift",
+                "StudySauce/CardTransitionManager.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-03": {
+          "date": "2015-11-03",
+          "heatScore": 35,
+          "linesChanged": 376,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AutoSizingTextView.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardController.swift",
+            "StudySauce/CardMultipleController.swift",
+            "StudySauce/CardSegue.swift",
+            "StudySauce/CardSelfController.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/DismissSegue.swift",
+            "StudySauce/NSObject.swift"
+          ],
+          "commits": [
+            {
+              "hash": "5ed74ca9c3afdbd13a4cd95ee65d9e7d6480de6c",
+              "author": "bjcullinan",
+              "date": "2015-11-04T00:32:20.000Z",
+              "message": "transition fixes",
+              "linesAdded": 220,
+              "linesDeleted": 156,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardController.swift",
+                "StudySauce/CardMultipleController.swift",
+                "StudySauce/CardSegue.swift",
+                "StudySauce/CardSelfController.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/DismissSegue.swift",
+                "StudySauce/NSObject.swift"
+              ]
+            }
+          ]
+        },
+        "2015-11-02": {
+          "date": "2015-11-02",
+          "heatScore": 27,
+          "linesChanged": 265,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce/AutoSizingTextView.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardController.swift",
+            "StudySauce/CardMultipleController.swift",
+            "StudySauce/CardSegue.swift",
+            "StudySauce/CardSelfController.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/CardTrueFalseController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "40adb3dea49d947929e492aeefd7281193aa87f5",
+              "author": "bjcullinan",
+              "date": "2015-11-02T23:19:12.000Z",
+              "message": "transition fixes",
+              "linesAdded": 154,
+              "linesDeleted": 111,
+              "filesChanged": [
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardController.swift",
+                "StudySauce/CardMultipleController.swift",
+                "StudySauce/CardSegue.swift",
+                "StudySauce/CardSelfController.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/CardTrueFalseController.swift"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

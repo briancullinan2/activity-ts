@@ -1,0 +1,68 @@
+{
+  "projectName": "QQuickStaticHelloWorld-master",
+  "localPath": "D:\\QQuickStaticHelloWorld-master",
+  "lastUpdated": "2026-09-26T04:45:22.264Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2024-09-03": {
+      "date": "2024-09-03",
+      "heatScore": 100,
+      "linesChanged": 22731,
+      "commitCount": 1,
+      "filesEdited": [
+        ".gitignore",
+        "CMakeLists.txt",
+        "wasm/Frameworks/OpenGL.framework/Headers/GL/freeglut_std.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/GL/gl.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/GL/glew.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/GL/glext.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/GL/glfw.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/GL/glu.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/GL/glut.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/GLES3/gl2ext.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/GLES3/gl3.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/GLES3/gl31.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/GLES3/gl32.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/GLES3/gl3platform.h",
+        "wasm/Frameworks/OpenGL.framework/Headers/KHR/khrplatform.h",
+        "wasm/Platform/WASI.cmake",
+        "wasm/QtWasmCMake.cmake",
+        "wasm/wasi-sdk-pthread.cmake",
+        "wasm/wasi-sdk.cmake",
+        "wasm/wasm.syms"
+      ],
+      "commits": [
+        {
+          "hash": "c8fd1048900f0dbfb2620b6014f34c965cde15a5",
+          "author": "Brian Cullinan",
+          "date": "2024-09-03T18:17:10.000Z",
+          "message": "wasm test",
+          "linesAdded": 22731,
+          "linesDeleted": 0,
+          "filesChanged": [
+            ".gitignore",
+            "CMakeLists.txt",
+            "wasm/Frameworks/OpenGL.framework/Headers/GL/freeglut_std.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/GL/gl.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/GL/glew.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/GL/glext.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/GL/glfw.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/GL/glu.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/GL/glut.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/GLES3/gl2ext.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/GLES3/gl3.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/GLES3/gl31.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/GLES3/gl32.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/GLES3/gl3platform.h",
+            "wasm/Frameworks/OpenGL.framework/Headers/KHR/khrplatform.h",
+            "wasm/Platform/WASI.cmake",
+            "wasm/QtWasmCMake.cmake",
+            "wasm/wasi-sdk-pthread.cmake",
+            "wasm/wasi-sdk.cmake",
+            "wasm/wasm.syms"
+          ]
+        }
+      ]
+    }
+  }
+}

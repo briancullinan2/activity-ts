@@ -1,0 +1,46 @@
+{
+  "projectName": "llama-gpt",
+  "localPath": "D:\\llama-gpt",
+  "remoteUrl": "git@github.com:getumbrel/llama-gpt.git",
+  "lastUpdated": "2026-09-26T04:42:46.106Z",
+  "screenshots": [
+    {
+      "filename": "screenshot.png",
+      "relativePath": "ui\\public\\screenshot.png",
+      "date": "2024-10-15T05:07:20.650Z",
+      "source": "mtime"
+    }
+  ],
+  "dailyHeat": {
+    "2023-03-25": {
+      "date": "2023-03-25",
+      "heatScore": 13,
+      "linesChanged": 45,
+      "commitCount": 1,
+      "filesEdited": [
+        "next-i18next.config.js",
+        "public/locales/ko/chat.json",
+        "public/locales/ko/common.json",
+        "public/locales/ko/markdown.json",
+        "public/locales/ko/sidebar.json"
+      ],
+      "commits": [
+        {
+          "hash": "d281c161a2d59bfc7eb2bd74e22b148d67d2d4c5",
+          "author": "Brian Kim",
+          "date": "2023-03-26T04:06:50.000Z",
+          "message": "locale ko (#166)",
+          "linesAdded": 44,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "next-i18next.config.js",
+            "public/locales/ko/chat.json",
+            "public/locales/ko/common.json",
+            "public/locales/ko/markdown.json",
+            "public/locales/ko/sidebar.json"
+          ]
+        }
+      ]
+    }
+  }
+}

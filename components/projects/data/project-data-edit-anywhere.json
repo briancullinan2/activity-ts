@@ -1,0 +1,188 @@
+{
+  "projectName": "edit-anywhere",
+  "localPath": "D:\\edit-anywhere",
+  "remoteUrl": "git@github.com:briancullinan2/edit-anywhere.git",
+  "lastUpdated": "2026-09-26T04:42:33.063Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2023-02-03": {
+      "date": "2023-02-03",
+      "heatScore": 15,
+      "linesChanged": 87,
+      "commitCount": 1,
+      "filesEdited": [
+        "docs/index.html",
+        "package.json",
+        "render-dom.js",
+        "render-page.js"
+      ],
+      "commits": [
+        {
+          "hash": "6cbd5d4f07cf5dbd4b4bc0b1c333a7d65ca40e50",
+          "author": "Brian Cullinan",
+          "date": "2023-02-03T16:22:18.000Z",
+          "message": "fix recursive templates, needs content filtering",
+          "linesAdded": 79,
+          "linesDeleted": 8,
+          "filesChanged": [
+            "docs/index.html",
+            "package.json",
+            "render-dom.js",
+            "render-page.js"
+          ]
+        }
+      ]
+    },
+    "2023-02-01": {
+      "date": "2023-02-01",
+      "heatScore": 20,
+      "linesChanged": 164,
+      "commitCount": 1,
+      "filesEdited": [
+        "docs/index.html",
+        "render-page.js"
+      ],
+      "commits": [
+        {
+          "hash": "5ed9eeb398e614b5c042aa84e7e8cd5eb4e772e8",
+          "author": "Brian Cullinan",
+          "date": "2023-02-01T21:48:43.000Z",
+          "message": "recursive template, need to fix css list",
+          "linesAdded": 47,
+          "linesDeleted": 117,
+          "filesChanged": [
+            "docs/index.html",
+            "render-page.js"
+          ]
+        }
+      ]
+    },
+    "2023-01-31": {
+      "date": "2023-01-31",
+      "heatScore": 26,
+      "linesChanged": 245,
+      "commitCount": 1,
+      "filesEdited": [
+        "blog/home.html",
+        "blog/index.html",
+        "docs/index.html",
+        "index.js",
+        "render-dom.js",
+        "render-page.js"
+      ],
+      "commits": [
+        {
+          "hash": "e51bd415b15e1f2521631c017b69e45c306a2ae7",
+          "author": "Brian Cullinan",
+          "date": "2023-02-01T03:52:50.000Z",
+          "message": "template engine closer, needs file lookups",
+          "linesAdded": 175,
+          "linesDeleted": 70,
+          "filesChanged": [
+            "blog/home.html",
+            "blog/index.html",
+            "docs/index.html",
+            "index.js",
+            "render-dom.js",
+            "render-page.js"
+          ]
+        }
+      ]
+    },
+    "2023-01-30": {
+      "date": "2023-01-30",
+      "heatScore": 100,
+      "linesChanged": 7560,
+      "commitCount": 1,
+      "filesEdited": [
+        ".DS_Store",
+        ".gitignore",
+        "README.md",
+        "blog/article.html",
+        "blog/bjcullinan-script.js",
+        "blog/bjcullinan-style.css",
+        "blog/category.html",
+        "blog/connect.html",
+        "blog/home.html",
+        "blog/index.html",
+        "blog/menu.html",
+        "docs/index.html",
+        "index.js",
+        "package-lock.json",
+        "package.json",
+        "render-dom.js",
+        "render-page.js",
+        "select-dom.js",
+        "settings.json",
+        "sheet-authorize.js",
+        "sheet-database.js"
+      ],
+      "commits": [
+        {
+          "hash": "975f31c8aa5725fd02f26c2bce494529ee586e3f",
+          "author": "Brian Cullinan",
+          "date": "2023-01-31T04:41:09.000Z",
+          "message": "close to generating need to connect database to mustache",
+          "linesAdded": 7559,
+          "linesDeleted": 1,
+          "filesChanged": [
+            ".DS_Store",
+            ".gitignore",
+            "README.md",
+            "blog/article.html",
+            "blog/bjcullinan-script.js",
+            "blog/bjcullinan-style.css",
+            "blog/category.html",
+            "blog/connect.html",
+            "blog/home.html",
+            "blog/index.html",
+            "blog/menu.html",
+            "docs/index.html",
+            "index.js",
+            "package-lock.json",
+            "package.json",
+            "render-dom.js",
+            "render-page.js",
+            "select-dom.js",
+            "settings.json",
+            "sheet-authorize.js",
+            "sheet-database.js"
+          ]
+        }
+      ]
+    },
+    "2023-01-28": {
+      "date": "2023-01-28",
+      "heatScore": 21,
+      "linesChanged": 18,
+      "commitCount": 2,
+      "filesEdited": [
+        "README.md"
+      ],
+      "commits": [
+        {
+          "hash": "3e3cc0450b553f0dec2a9141b5bde93b64286662",
+          "author": "Brian Cullinan",
+          "date": "2023-01-29T05:49:28.000Z",
+          "message": "wa",
+          "linesAdded": 16,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        },
+        {
+          "hash": "6e7a5d89a47be7369de069939061aef58db42f3d",
+          "author": "Brian Cullinan",
+          "date": "2023-01-29T05:07:41.000Z",
+          "message": "Initial commit",
+          "linesAdded": 2,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "README.md"
+          ]
+        }
+      ]
+    }
+  }
+}
