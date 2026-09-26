@@ -7,6 +7,7 @@ import * as commands from '@lumino/commands';
 import * as widgets from '@lumino/widgets';
 import * as messaging from '@lumino/messaging';
 import * as datagrid from '@lumino/datagrid';
+import * as signaling from '@lumino/signaling';
 import { createTopBar, initializeMenus, MODULE_REGISTRY, renderHashCommand, TERMINAL_REGISTRY, triggerPanelRoute } from './menu';
 import { StatusBarWidget } from './status';
 import { ServiceWorkerManager } from './worker';
@@ -29,7 +30,8 @@ luminoSelf.Lumino = {
 	widgets,
 	messaging,
 	commands,
-	datagrid
+	datagrid,
+	signaling
 };
 luminoSelf.JSZip = JSZip;
 

@@ -431,6 +431,9 @@ export function transpileTypescriptWidget(rawCode: string, baseRoute: string): a
 								} else if(moduleName === '@lumino/messaging')
 								{
 									path.replaceWithSourceString('window.Lumino.messaging');
+								} else if(moduleName === '@lumino/signaling')
+								{
+									path.replaceWithSourceString('window.Lumino.signaling');
 								} else if(moduleName === '@lumino/commands')
 								{
 									path.replaceWithSourceString('window.Lumino.commands');
@@ -474,6 +477,12 @@ export function transpileTypescriptWidget(rawCode: string, baseRoute: string): a
 								globalExpression = t.memberExpression(
 									t.memberExpression(t.identifier('window'), t.identifier('Lumino')),
 									t.identifier('datagrid')
+								);
+							} else if(moduleName === '@lumino/signaling')
+							{
+								globalExpression = t.memberExpression(
+									t.memberExpression(t.identifier('window'), t.identifier('Lumino')),
+									t.identifier('signaling')
 								);
 							} else if(moduleName === 'ace-builds')
 							{

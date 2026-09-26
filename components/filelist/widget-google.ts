@@ -5,8 +5,11 @@ import type { GlobalToolbarsWindow } from "../bundle/menu.d";
 import type { GithubWindow } from "../bundle/github.d";
 import type { BuildWindow } from "../bundle/make.d";
 import type { SettingConfig, Settings } from "../bundle/settings.js";
+import { Signal, ISignal } from '@lumino/signaling';
+import { Widget } from "@lumino/widgets";
+import type { DriveFile, FilelistWindow, WidgetErrorEventArgs } from "./widget.d";
 
-const filelistSelf: GlobalToolbarsWindow & GithubWindow & BuildWindow & {
+const filelistSelf: GlobalToolbarsWindow & GithubWindow & BuildWindow & FilelistWindow & {
 	settingsManager: Settings;
 	GoogleDriveWidget: typeof GoogleDriveWidget;
 } = self as unknown as any;
@@ -14,6 +17,22 @@ const filelistSelf: GlobalToolbarsWindow & GithubWindow & BuildWindow & {
 export class GoogleDriveWidget extends FileListWidget
 {
 	private rootFolderName: string | null = null;
+	private _errorOccurred = new Signal<this, WidgetErrorEventArgs>(this);
+
+	get errorOccurred(): ISignal<this, WidgetErrorEventArgs>
+	{
+		return this._errorOccurred;
+	}
+
+	constructor(titleStr?: string, source?: string)
+	{
+		const existing = filelistSelf.fileListWidgets?.find(f => f.constructor.name === GoogleDriveWidget.name);
+		if(existing)
+		{
+			return existing as GoogleDriveWidget;
+		}
+		super(titleStr, source);
+	}
 
 	/**
 	 * Extracts a raw Google Drive Folder ID from a full share URL or path
@@ -27,24 +46,54 @@ export class GoogleDriveWidget extends FileListWidget
 		return rawSource.replace(/^GoogleDrive\//i, '').trim();
 	}
 
+	public static async fetchDriveFiles(query: string): Promise<DriveFile[]>
+	{
+		const apiKey = filelistSelf.settingsManager?.get('filelist', 'google_key') || GOOGLE_CLOUD_API_KEY;
+		// Added thumbnailLink to requested fields
+		const fields = 'files(id, name, mimeType, size, thumbnailLink, webContentLink, parents)';
+
+		const params = new URLSearchParams({
+			q: query,
+			fields: fields,
+			key: apiKey,
+			pageSize: '1000',
+			includeItemsFromAllDrives: 'true',
+			supportsAllDrives: 'true'
+		});
+
+		const url = `https://www.googleapis.com/drive/v3/files?${params.toString()}`;
+
+		const response = await fetch(url, {
+			method: 'GET',
+			mode: 'cors',
+			credentials: 'omit'
+		});
+
+		if(!response.ok)
+		{
+			const errJson = await response.json().catch(() => ({}));
+			throw new Error(errJson.error?.message || `HTTP ${response.status}`);
+		}
+
+		const data = await response.json();
+
+		if(!data.files.length)
+		{
+			throw new Error(`No Drive files! status: ${response.status}`);
+		}
+
+		return data.files || [];
+	}
+
 	/**
 	 * Shared helper to query Drive API and map results into NestedTreeNode instances
 	 */
 	private async fetchDriveFolderNodes(parentDriveId: string, baseNodePath: string, database: string): Promise<NestedTreeNode[]>
 	{
-		const apiKey = filelistSelf.settingsManager?.get('filelist', 'google_key') || GOOGLE_CLOUD_API_KEY;
 		const q = encodeURIComponent(`'${parentDriveId}' in parents and trashed = false`);
-		const fields = encodeURIComponent('files(id, name, mimeType, size)');
-		const url = `https://www.googleapis.com/drive/v3/files?q=${q}&fields=${fields}&includeItemsFromAllDrives=true&supportsAllDrives=true&key=${apiKey}&pageSize=1000`;
 
-		const response = await fetch(url);
-		if(!response.ok)
-		{
-			throw new Error(`Drive HTTP error! status: ${response.status}`);
-		}
+		const driveFiles: Array<{ id: string; name: string; mimeType: string; }> = await GoogleDriveWidget.fetchDriveFiles(q);
 
-		const data = await response.json();
-		const driveFiles: Array<{ id: string; name: string; mimeType: string; }> = data.files || [];
 
 		if(filelistSelf.filesRepo && !filelistSelf.filesRepo[database])
 		{
@@ -75,7 +124,7 @@ export class GoogleDriveWidget extends FileListWidget
 			if(filelistSelf.filesRepo?.[database] && filelistSelf.FS)
 			{
 				filelistSelf.filesRepo[database][nodePath] = filelistSelf.FS.virtual[nodePath] = Object.assign(newNode, {
-					mode: isDir ? (filelistSelf.ST_DIR ?? 0o040000) : (filelistSelf.FS_FILE ?? (0o100000 | 0o666)),
+					mode: isDir ? (filelistSelf.FS_DIR ?? 0o040000) : (filelistSelf.FS_FILE ?? (0o100000 | 0o666)),
 					driveId: file.id
 				});
 			}
@@ -231,12 +280,19 @@ export class GoogleDriveWidget extends FileListWidget
 		} catch(err: any)
 		{
 			console.error(`Failed to load Drive tree node: ${err.message}`);
+			this._errorOccurred.emit({
+				source: this,
+				error: err instanceof Error ? err : String(err),
+				fallbackType: 'http-index'
+			});
 			this.loadedDatabases[folderId] = {
-				text: 'Error loading drive files',
-				id: 'err',
-				path: 'err',
-				status: 0,
-				state: { open: false, expanded: false }
+				children: [{
+					text: 'Error loading drive files',
+					id: 'err',
+					path: 'err',
+					status: 0,
+					state: { open: false, expanded: false }
+				} as NestedTreeNode]
 			} as NestedTreeNode;
 		}
 
@@ -295,6 +351,12 @@ export class GoogleDriveWidget extends FileListWidget
 			catch(err)
 			{
 				console.error('Failed to initialize top-level Google Drive children:', err);
+				this._errorOccurred.emit({
+					source: this,
+					error: err instanceof Error ? err : String(err),
+					fallbackType: 'http-index'
+				});
+				return;
 			}
 
 			this.loadedDatabases[database] = {

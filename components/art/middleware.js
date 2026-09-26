@@ -1,4 +1,3 @@
-
 // @ts-check
 /// <reference types="node" />
 
@@ -10,11 +9,11 @@ const { IncomingMessage, ServerResponse } = require('http');
 
 // Set your removable storage path (e.g., /media/usb, /Volumes/ExternalDrive, or E:\)
 const REMOVABLE_DRIVE_PATH = process.platform === 'win32'
-	? 'E:\\'
-	: '/mnt/MyDrive';
+	? 'D:\\'
+	: '/mnt/T7';
 
 // Subpath on the drive you want to index
-const TARGET_DIR = path.join(REMOVABLE_DRIVE_PATH, 'public_files');
+const TARGET_DIR = path.join(REMOVABLE_DRIVE_PATH, 'stable-diffusion-webui', 'outputs', 'txt2img-images');
 
 // Pre-configure the static and index middleware targeting the drive directory
 const staticMiddleware = serveStatic(TARGET_DIR);
@@ -27,8 +26,6 @@ const indexMiddleware = serveIndex(TARGET_DIR, {
 /**
  * Custom Dynamic Health-Checking Middleware
  * Validates drive availability per request before executing serve-index / serve-static
- */
-/**
  *
  * @param {IncomingMessage} req
  * @param {ServerResponse} res
@@ -37,21 +34,30 @@ const indexMiddleware = serveIndex(TARGET_DIR, {
  */
 function removableStorageMiddleware(req, res, next)
 {
-	const url = req.url || '';
+	const originalUrl = req.url || '';
 
-	if(!url.startsWith('/clipart'))
+	// Only intercept requests starting with /clipart
+	if(!originalUrl.startsWith('/clipart'))
 	{
 		return next();
 	}
-	console.log('Middling: ' + url);
+
+	// 1. Fix missing trailing slash on directory root (/clipart -> /clipart/)
+	// serve-index will 404 or emit broken links if accessed without a trailing slash
+	if(originalUrl === '/clipart')
+	{
+		res.statusCode = 301;
+		res.setHeader('Location', '/clipart/');
+		return res.end();
+	}
 
 	// Check if the drive/directory exists on every incoming request
 	try
 	{
 		if(!fs.existsSync(TARGET_DIR))
 		{
-			res.statusCode = 500;
-			res.setHeader('Content-Type', 'text/json');
+			res.statusCode = 503;
+			res.setHeader('Content-Type', 'application/json');
 			return res.end(JSON.stringify({
 				error: 'Storage Unavailable',
 				message: 'The removable storage device is currently disconnected or unmounted.',
@@ -59,18 +65,17 @@ function removableStorageMiddleware(req, res, next)
 			}));
 		}
 
-		// Optional: Validate read permissions/accessibility
+		// Validate read permissions/accessibility
 		fs.accessSync(TARGET_DIR, fs.constants.R_OK);
 
 	} catch(err)
 	{
-		// Fails properly if the drive is unmounted, offline, or experiencing I/O errors
 		if(err instanceof Error)
 		{
 			console.warn(`[Storage Warning] Drive access failed: ${err.message}`);
 		}
-		res.statusCode = 500;
-		res.setHeader('Content-Type', 'text/json');
+		res.statusCode = 503;
+		res.setHeader('Content-Type', 'application/json');
 		return res.end(JSON.stringify({
 			error: 'Storage I/O Error',
 			message: 'Removable drive is attached but unreadable.',
@@ -78,10 +83,25 @@ function removableStorageMiddleware(req, res, next)
 		}));
 	}
 
-	// Drive is connected and readable: pass through to serve-static first, then serve-index
+	// 2. STRIP THE ROUTE PREFIX
+	// /clipart/subfolder/file.png -> /subfolder/file.png
+	// /clipart/                  -> /
+	const strippedUrl = originalUrl.replace(/^\/clipart\/*/, '') || '/';
+
+	// Temporarily rewrite req.url for serve-static and serve-index
+	req.url = strippedUrl;
+
+	console.log(`[Storage] Serving ${originalUrl} -> ${path.join(TARGET_DIR, strippedUrl)}`);
+
+	// Drive is connected and readable: pass through static first, then index
 	staticMiddleware(req, res, () =>
 	{
-		indexMiddleware(req, res, next);
+		indexMiddleware(req, res, (/** @type {any} */ err) =>
+		{
+			// Restore req.url in case subsequent downstream middlewares read it
+			req.url = originalUrl;
+			next(err);
+		});
 	});
 }
 

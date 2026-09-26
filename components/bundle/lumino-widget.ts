@@ -81,11 +81,12 @@ export function updateHashFromWidget(shownWidget: Widget)
 	} else // if(OUTLINE_WIDGET_TYPES.includes(widgetTypeName))
 	{
 		const widgetKey = Object.keys(MODULE_REGISTRY).find(key => MODULE_REGISTRY[key].className === widgetTypeName);
-
-		const title = `${widgetKey ? MODULE_REGISTRY[widgetKey].label : shownWidget.title.label} · ${SHORT_NAME}`;
-		document.title = title;
-		history.pushState({ location: '/#' + widgetKey, title: title }, title, '#' + widgetKey);
-
+		if(widgetKey)
+		{
+			const title = `${widgetKey ? MODULE_REGISTRY[widgetKey].label : shownWidget.title.label} · ${SHORT_NAME}`;
+			document.title = title;
+			history.pushState({ location: '/#' + widgetKey, title: title }, title, '#' + widgetKey);
+		}
 	}
 }
 
