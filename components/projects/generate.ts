@@ -684,11 +684,11 @@ export async function generate()
 
 			// Skip re-rendering historical years if SVG already exists and is not the current year
 			const currentYearNum = new Date().getFullYear();
-			if(fs.existsSync(svgFilePath) && year !== currentYearNum)
-			{
-				svgFilesSkipped++;
-				continue;
-			}
+			//if(fs.existsSync(svgFilePath) && year !== currentYearNum)
+			//{
+			//	svgFilesSkipped++;
+			//	continue;
+			//}
 
 			const svgString = renderD3HeatmapForYearSVG(projData.dailyHeat, year);
 			fs.writeFileSync(svgFilePath, svgString, 'utf-8');
@@ -729,11 +729,11 @@ export async function generate()
 		const globalSvgFilePath = path.join(CACHE_DIR, 'heat-maps', globalSvgFileName);
 
 		// Skip historical years if already generated
-		if(fs.existsSync(globalSvgFilePath) && year !== currentYearNum)
-		{
-			globalSvgSkipped++;
-			continue;
-		}
+		//if(fs.existsSync(globalSvgFilePath) && year !== currentYearNum)
+		//{
+		//	globalSvgSkipped++;
+		//	continue;
+		//}
 
 		// Aggregate dailyHeat map across ALL projects for this year
 		const combinedDailyHeat: Record<string, DailyHeatData> = {};
