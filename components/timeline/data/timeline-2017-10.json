@@ -1,0 +1,2763 @@
+[
+  {
+    "id": "bookmark-8926",
+    "category": "bookmarks",
+    "timestamp": "2017-10-01T18:43:08.000Z",
+    "title": "[Politics] https://en.wikipedia.org/wiki/Noam_Chomsky#Political_views",
+    "detail": {
+      "name": "https://en.wikipedia.org/wiki/Noam_Chomsky#Political_views",
+      "url": "https://en.wikipedia.org/wiki/Noam_Chomsky#Political_views",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13151356988000000
+    }
+  },
+  {
+    "id": "bookmark-18696",
+    "category": "bookmarks",
+    "timestamp": "2017-10-01T18:43:08.394Z",
+    "title": "[Politics] https://en.wikipedia.org/wiki/Noam_Chomsky#Political_views",
+    "detail": {
+      "name": "https://en.wikipedia.org/wiki/Noam_Chomsky#Political_views",
+      "url": "https://en.wikipedia.org/wiki/Noam_Chomsky#Political_views",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13151356988394636
+    }
+  },
+  {
+    "id": "event-c4sjce31cph62b9gcdij4b9kc5i3ab9pcosjibb460q3ee9i6kp3ie9k6g@google.com",
+    "category": "events",
+    "timestamp": "2017-10-02T05:00:00.000Z",
+    "title": "[Diet] Ate too much chocolate brownie",
+    "detail": {
+      "calendar": "Diet",
+      "summary": "Ate too much chocolate brownie",
+      "description": "",
+      "location": "",
+      "start": "2017-10-02T05:00:00.000Z",
+      "end": "2017-10-02T06:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6pgjie31ckr62b9m6sojeb9k6lhmabb2ccpj6b9j70s3cdr6c4sjeopi6k@google.com",
+    "category": "events",
+    "timestamp": "2017-10-02T12:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-02T12:00:00.000Z",
+      "end": "2017-10-02T13:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4rta6bmidf6hjj77dnd34ke36l@google.com",
+    "category": "events",
+    "timestamp": "2017-10-02T17:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-02T17:00:00.000Z",
+      "end": "2017-10-02T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-79db5l465d7vu1vuud2ogo82k4@google.com",
+    "category": "events",
+    "timestamp": "2017-10-02T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-02T19:00:00.000Z",
+      "end": "2017-10-02T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-64o32phoc4rj6bb660qjcb9k68omabb2c4o64b9l6srm8cj36cq30ob370@google.com",
+    "category": "events",
+    "timestamp": "2017-10-02T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-02T20:00:00.000Z",
+      "end": "2017-10-02T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-46sf714m9ochjd7sv6953dfbth@google.com",
+    "category": "events",
+    "timestamp": "2017-10-03T04:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-03T04:00:00.000Z",
+      "end": "2017-10-03T05:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0r9dvd2p8gn78p4ta0bl0o74ji@google.com",
+    "category": "events",
+    "timestamp": "2017-10-03T13:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-03T13:30:00.000Z",
+      "end": "2017-10-03T14:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4tctls1qkkjrhh9d2sf4eq91b5@google.com",
+    "category": "events",
+    "timestamp": "2017-10-03T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-03T16:00:00.000Z",
+      "end": "2017-10-03T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-07m789o49ii21it1ontn2euc41@google.com",
+    "category": "events",
+    "timestamp": "2017-10-03T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-03T17:00:00.000Z",
+      "end": "2017-10-03T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3mkpkcrnqfgrg3n3d90u36no50@google.com",
+    "category": "events",
+    "timestamp": "2017-10-03T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-03T17:00:00.000Z",
+      "end": "2017-10-03T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3bad87kui4kdtkll4t51do01vm@google.com",
+    "category": "events",
+    "timestamp": "2017-10-03T18:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-03T18:30:00.000Z",
+      "end": "2017-10-03T19:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-73hsfs75o1iob5rto9i54tg175@google.com",
+    "category": "events",
+    "timestamp": "2017-10-04T01:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-04T01:00:00.000Z",
+      "end": "2017-10-04T02:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-8927",
+    "category": "bookmarks",
+    "timestamp": "2017-10-04T04:12:02.000Z",
+    "title": "[Politics] www.patheos.com/blogs/laughingindisbelief/2017/08/iceland-bans-american-televangelists/",
+    "detail": {
+      "name": "www.patheos.com/blogs/laughingindisbelief/2017/08/iceland-bans-american-televangelists/",
+      "url": "http://www.patheos.com/blogs/laughingindisbelief/2017/08/iceland-bans-american-televangelists/",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13151563922000000
+    }
+  },
+  {
+    "id": "bookmark-18697",
+    "category": "bookmarks",
+    "timestamp": "2017-10-04T04:12:02.613Z",
+    "title": "[Politics] www.patheos.com/blogs/laughingindisbelief/2017/08/iceland-bans-american-televangelists/",
+    "detail": {
+      "name": "www.patheos.com/blogs/laughingindisbelief/2017/08/iceland-bans-american-televangelists/",
+      "url": "http://www.patheos.com/blogs/laughingindisbelief/2017/08/iceland-bans-american-televangelists/",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13151563922613984
+    }
+  },
+  {
+    "id": "bookmark-7317",
+    "category": "bookmarks",
+    "timestamp": "2017-10-04T05:26:10.000Z",
+    "title": "[Recording] (27) Imagine Dragons - Thunder - YouTube",
+    "detail": {
+      "name": "(27) Imagine Dragons - Thunder - YouTube",
+      "url": "https://www.youtube.com/watch?v=fKopy74weus",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13151568370000000
+    }
+  },
+  {
+    "id": "bookmark-17225",
+    "category": "bookmarks",
+    "timestamp": "2017-10-04T05:26:10.846Z",
+    "title": "[Recording] (27) Imagine Dragons - Thunder - YouTube",
+    "detail": {
+      "name": "(27) Imagine Dragons - Thunder - YouTube",
+      "url": "https://www.youtube.com/watch?v=fKopy74weus",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13151568370846868
+    }
+  },
+  {
+    "id": "event-5in4o50i79002vs99oucqb87nv@google.com",
+    "category": "events",
+    "timestamp": "2017-10-04T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-04T21:00:00.000Z",
+      "end": "2017-10-04T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-247ii53nf0teqiokfgbulq43tv@google.com",
+    "category": "events",
+    "timestamp": "2017-10-05T00:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-05T00:30:00.000Z",
+      "end": "2017-10-05T01:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cgrjcc9i65hjeb9hc9h62b9k6spj2bb26orj2b9m6dj3aopgccpjcd366c@google.com",
+    "category": "events",
+    "timestamp": "2017-10-05T02:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-05T02:00:00.000Z",
+      "end": "2017-10-05T03:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-74q6cphpcdj3ib9g71i3gb9kccp68bb16gojcbb1c4s32dj26gomacb46c@google.com",
+    "category": "events",
+    "timestamp": "2017-10-05T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-05T05:00:00.000Z",
+      "end": "2017-10-05T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3731",
+    "category": "bookmarks",
+    "timestamp": "2017-10-05T16:00:52.000Z",
+    "title": "[Privacy] Strategies for offline PGP key storage [LWN.net]",
+    "detail": {
+      "name": "Strategies for offline PGP key storage [LWN.net]",
+      "url": "https://lwn.net/SubscriberLink/734767/b8509e00378301f9/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13151692852000000
+    }
+  },
+  {
+    "id": "bookmark-13790",
+    "category": "bookmarks",
+    "timestamp": "2017-10-05T16:00:52.720Z",
+    "title": "[Privacy] Strategies for offline PGP key storage [LWN.net]",
+    "detail": {
+      "name": "Strategies for offline PGP key storage [LWN.net]",
+      "url": "https://lwn.net/SubscriberLink/734767/b8509e00378301f9/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13151692852720276
+    }
+  },
+  {
+    "id": "bookmark-8198",
+    "category": "bookmarks",
+    "timestamp": "2017-10-05T16:18:41.000Z",
+    "title": "[Psychology] Unselfish People Are More Likely to Wind Up With Depression - Motherboard",
+    "detail": {
+      "name": "Unselfish People Are More Likely to Wind Up With Depression - Motherboard",
+      "url": "https://motherboard.vice.com/en_us/article/43a5y9/unselfish-people-are-more-likely-to-wind-up-with-depression",
+      "folderPath": "Psychology",
+      "lastFolder": "Psychology",
+      "timeUsec": 13151693921000000
+    }
+  },
+  {
+    "id": "bookmark-18032",
+    "category": "bookmarks",
+    "timestamp": "2017-10-05T16:18:41.588Z",
+    "title": "[Psychology] Unselfish People Are More Likely to Wind Up With Depression - Motherboard",
+    "detail": {
+      "name": "Unselfish People Are More Likely to Wind Up With Depression - Motherboard",
+      "url": "https://motherboard.vice.com/en_us/article/43a5y9/unselfish-people-are-more-likely-to-wind-up-with-depression",
+      "folderPath": "Psychology",
+      "lastFolder": "Psychology",
+      "timeUsec": 13151693921588916
+    }
+  },
+  {
+    "id": "bookmark-7820",
+    "category": "bookmarks",
+    "timestamp": "2017-10-05T16:19:11.000Z",
+    "title": "[Philosophy] Rock star philosopher – TheTLS",
+    "detail": {
+      "name": "Rock star philosopher – TheTLS",
+      "url": "https://www.the-tls.co.uk/articles/public/roland-barthes-afterlife/",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13151693951000000
+    }
+  },
+  {
+    "id": "bookmark-17702",
+    "category": "bookmarks",
+    "timestamp": "2017-10-05T16:19:11.970Z",
+    "title": "[Philosophy] Rock star philosopher – TheTLS",
+    "detail": {
+      "name": "Rock star philosopher – TheTLS",
+      "url": "https://www.the-tls.co.uk/articles/public/roland-barthes-afterlife/",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13151693951970116
+    }
+  },
+  {
+    "id": "event-2jbe93ds9t4ld1q8qc5c0ea0bc@google.com",
+    "category": "events",
+    "timestamp": "2017-10-05T22:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-05T22:30:00.000Z",
+      "end": "2017-10-05T23:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-1280",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T03:36:06.000Z",
+    "title": "[DevOps] https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html",
+    "detail": {
+      "name": "https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html",
+      "url": "https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html",
+      "folderPath": "Computer Science/DevOps",
+      "lastFolder": "DevOps",
+      "timeUsec": 13151734566000000
+    }
+  },
+  {
+    "id": "bookmark-11477",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T03:36:06.580Z",
+    "title": "[DevOps] https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html",
+    "detail": {
+      "name": "https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html",
+      "url": "https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html",
+      "folderPath": "Computer Science/DevOps",
+      "lastFolder": "DevOps",
+      "timeUsec": 13151734566580780
+    }
+  },
+  {
+    "id": "bookmark-1281",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T03:39:57.000Z",
+    "title": "[DevOps] https://github.com/RaiMan/SikuliX-2014/blob/develop/API/src/main/java/org/sikuli/script/Screen.java",
+    "detail": {
+      "name": "https://github.com/RaiMan/SikuliX-2014/blob/develop/API/src/main/java/org/sikuli/script/Screen.java",
+      "url": "https://github.com/RaiMan/SikuliX-2014/blob/develop/API/src/main/java/org/sikuli/script/Screen.java",
+      "folderPath": "Computer Science/DevOps",
+      "lastFolder": "DevOps",
+      "timeUsec": 13151734797000000
+    }
+  },
+  {
+    "id": "bookmark-11478",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T03:39:57.787Z",
+    "title": "[DevOps] https://github.com/RaiMan/SikuliX-2014/blob/develop/API/src/main/java/org/sikuli/script/Screen.java",
+    "detail": {
+      "name": "https://github.com/RaiMan/SikuliX-2014/blob/develop/API/src/main/java/org/sikuli/script/Screen.java",
+      "url": "https://github.com/RaiMan/SikuliX-2014/blob/develop/API/src/main/java/org/sikuli/script/Screen.java",
+      "folderPath": "Computer Science/DevOps",
+      "lastFolder": "DevOps",
+      "timeUsec": 13151734797787034
+    }
+  },
+  {
+    "id": "event-cormae1h61j3eb9m6thmcb9kcph6cb9o75gm8b9k6dgjgp9l6so3eoj560@google.com",
+    "category": "events",
+    "timestamp": "2017-10-06T06:00:00.000Z",
+    "title": "[Diet] Ate late",
+    "detail": {
+      "calendar": "Diet",
+      "summary": "Ate late",
+      "description": "",
+      "location": "",
+      "start": "2017-10-06T06:00:00.000Z",
+      "end": "2017-10-06T07:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-60om8pb269ij6bb46srjeb9k60q66bb268qjeb9hc8o6ao9o60p3ep9j64@google.com",
+    "category": "events",
+    "timestamp": "2017-10-06T12:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-06T12:00:00.000Z",
+      "end": "2017-10-06T13:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-8928",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T14:58:51.000Z",
+    "title": "[Politics] The Four Horsemen: Amazon/Apple/Facebook & Google - Who Wins/Loses (Scott Galloway, L2 Inc.) | DLD15 - YouTube",
+    "detail": {
+      "name": "The Four Horsemen: Amazon/Apple/Facebook & Google - Who Wins/Loses (Scott Galloway, L2 Inc.) | DLD15 - YouTube",
+      "url": "https://www.youtube.com/watch?v=XCvwCcEP74Q&feature=youtu.be",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13151775531000000
+    }
+  },
+  {
+    "id": "bookmark-18698",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T14:58:51.503Z",
+    "title": "[Politics] The Four Horsemen: Amazon/Apple/Facebook & Google - Who Wins/Loses (Scott Galloway, L2 Inc.) | DLD15 - YouTube",
+    "detail": {
+      "name": "The Four Horsemen: Amazon/Apple/Facebook & Google - Who Wins/Loses (Scott Galloway, L2 Inc.) | DLD15 - YouTube",
+      "url": "https://www.youtube.com/watch?v=XCvwCcEP74Q&feature=youtu.be",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13151775531503920
+    }
+  },
+  {
+    "id": "bookmark-2564",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T22:37:04.000Z",
+    "title": "[Command line] https://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files-in-system-error-on-os-x-10-7-1",
+    "detail": {
+      "name": "https://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files-in-system-error-on-os-x-10-7-1",
+      "url": "https://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files-in-system-error-on-os-x-10-7-1",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13151803024000000
+    }
+  },
+  {
+    "id": "bookmark-12744",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T22:37:04.624Z",
+    "title": "[Command line] https://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files-in-system-error-on-os-x-10-7-1",
+    "detail": {
+      "name": "https://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files-in-system-error-on-os-x-10-7-1",
+      "url": "https://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files-in-system-error-on-os-x-10-7-1",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13151803024624940
+    }
+  },
+  {
+    "id": "bookmark-3788",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T22:57:28.000Z",
+    "title": "[Privacy] www.tech-faq.com/implementing-and-managing-group-policy-objects-gpos.html",
+    "detail": {
+      "name": "www.tech-faq.com/implementing-and-managing-group-policy-objects-gpos.html",
+      "url": "http://www.tech-faq.com/implementing-and-managing-group-policy-objects-gpos.html",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13151804248000000
+    }
+  },
+  {
+    "id": "bookmark-13847",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T22:57:28.305Z",
+    "title": "[Privacy] www.tech-faq.com/implementing-and-managing-group-policy-objects-gpos.html",
+    "detail": {
+      "name": "www.tech-faq.com/implementing-and-managing-group-policy-objects-gpos.html",
+      "url": "http://www.tech-faq.com/implementing-and-managing-group-policy-objects-gpos.html",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13151804248305320
+    }
+  },
+  {
+    "id": "bookmark-2702",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T22:59:36.000Z",
+    "title": "[Networking] https://www.npmjs.com/package/dnsd",
+    "detail": {
+      "name": "https://www.npmjs.com/package/dnsd",
+      "url": "https://www.npmjs.com/package/dnsd",
+      "folderPath": "Computer Science/Networking",
+      "lastFolder": "Networking",
+      "timeUsec": 13151804376000000
+    }
+  },
+  {
+    "id": "bookmark-12907",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T22:59:36.055Z",
+    "title": "[Networking] https://www.npmjs.com/package/dnsd",
+    "detail": {
+      "name": "https://www.npmjs.com/package/dnsd",
+      "url": "https://www.npmjs.com/package/dnsd",
+      "folderPath": "Computer Science/Networking",
+      "lastFolder": "Networking",
+      "timeUsec": 13151804376055308
+    }
+  },
+  {
+    "id": "bookmark-2718",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T22:59:51.000Z",
+    "title": "[Networking] https://github.com/retailnext/node-radius",
+    "detail": {
+      "name": "https://github.com/retailnext/node-radius",
+      "url": "https://github.com/retailnext/node-radius",
+      "folderPath": "Computer Science/Networking",
+      "lastFolder": "Networking",
+      "timeUsec": 13151804391000000
+    }
+  },
+  {
+    "id": "bookmark-12923",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T22:59:51.959Z",
+    "title": "[Networking] https://github.com/retailnext/node-radius",
+    "detail": {
+      "name": "https://github.com/retailnext/node-radius",
+      "url": "https://github.com/retailnext/node-radius",
+      "folderPath": "Computer Science/Networking",
+      "lastFolder": "Networking",
+      "timeUsec": 13151804391959268
+    }
+  },
+  {
+    "id": "bookmark-1159",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T23:04:30.000Z",
+    "title": "[Databases] ldapjs.org/guide.html",
+    "detail": {
+      "name": "ldapjs.org/guide.html",
+      "url": "http://ldapjs.org/guide.html",
+      "folderPath": "Computer Science/Databases",
+      "lastFolder": "Databases",
+      "timeUsec": 13151804670000000
+    }
+  },
+  {
+    "id": "bookmark-11355",
+    "category": "bookmarks",
+    "timestamp": "2017-10-06T23:04:30.793Z",
+    "title": "[Databases] ldapjs.org/guide.html",
+    "detail": {
+      "name": "ldapjs.org/guide.html",
+      "url": "http://ldapjs.org/guide.html",
+      "folderPath": "Computer Science/Databases",
+      "lastFolder": "Databases",
+      "timeUsec": 13151804670793876
+    }
+  },
+  {
+    "id": "bookmark-2278",
+    "category": "bookmarks",
+    "timestamp": "2017-10-07T00:05:06.000Z",
+    "title": "[Data analytics] thehill.com/policy/technology/346545-federal-judge-says-linkedin-cant-keep-startup-from-public-user-data",
+    "detail": {
+      "name": "thehill.com/policy/technology/346545-federal-judge-says-linkedin-cant-keep-startup-from-public-user-data",
+      "url": "http://thehill.com/policy/technology/346545-federal-judge-says-linkedin-cant-keep-startup-from-public-user-data",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13151808306000000
+    }
+  },
+  {
+    "id": "bookmark-12489",
+    "category": "bookmarks",
+    "timestamp": "2017-10-07T00:05:06.888Z",
+    "title": "[Data analytics] thehill.com/policy/technology/346545-federal-judge-says-linkedin-cant-keep-startup-from-public-user-data",
+    "detail": {
+      "name": "thehill.com/policy/technology/346545-federal-judge-says-linkedin-cant-keep-startup-from-public-user-data",
+      "url": "http://thehill.com/policy/technology/346545-federal-judge-says-linkedin-cant-keep-startup-from-public-user-data",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13151808306888924
+    }
+  },
+  {
+    "id": "bookmark-5725",
+    "category": "bookmarks",
+    "timestamp": "2017-10-07T00:32:46.000Z",
+    "title": "[Job sites] https://www.dice.com",
+    "detail": {
+      "name": "https://www.dice.com",
+      "url": "https://www.dice.com/",
+      "folderPath": "Job sites",
+      "lastFolder": "Job sites",
+      "timeUsec": 13151809966000000
+    }
+  },
+  {
+    "id": "bookmark-15772",
+    "category": "bookmarks",
+    "timestamp": "2017-10-07T00:32:46.185Z",
+    "title": "[Job sites] https://www.dice.com",
+    "detail": {
+      "name": "https://www.dice.com",
+      "url": "https://www.dice.com/",
+      "folderPath": "Job sites",
+      "lastFolder": "Job sites",
+      "timeUsec": 13151809966185706
+    }
+  },
+  {
+    "id": "event-5q90jtieidadhhp5kcbrf7f8on@google.com",
+    "category": "events",
+    "timestamp": "2017-10-07T13:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-07T13:00:00.000Z",
+      "end": "2017-10-07T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3732",
+    "category": "bookmarks",
+    "timestamp": "2017-10-07T21:25:36.000Z",
+    "title": "[Privacy] Secure coding in Java: Bad online advice and confusing APIs - Help Net Security",
+    "detail": {
+      "name": "Secure coding in Java: Bad online advice and confusing APIs - Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2017/10/03/secure-coding-java/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13151885136000000
+    }
+  },
+  {
+    "id": "bookmark-13791",
+    "category": "bookmarks",
+    "timestamp": "2017-10-07T21:25:36.536Z",
+    "title": "[Privacy] Secure coding in Java: Bad online advice and confusing APIs - Help Net Security",
+    "detail": {
+      "name": "Secure coding in Java: Bad online advice and confusing APIs - Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2017/10/03/secure-coding-java/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13151885136536964
+    }
+  },
+  {
+    "id": "event-786aclq72i3tkhrgvqfurr74rb@google.com",
+    "category": "events",
+    "timestamp": "2017-10-08T04:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-08T04:00:00.000Z",
+      "end": "2017-10-08T05:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7cujg2s3o3fu09b5q48e2o60q7@google.com",
+    "category": "events",
+    "timestamp": "2017-10-09T01:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-09T01:30:00.000Z",
+      "end": "2017-10-09T02:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2ooccvug0qeda2ctv28aoadgo0@google.com",
+    "category": "events",
+    "timestamp": "2017-10-09T17:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-09T17:00:00.000Z",
+      "end": "2017-10-09T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-5760",
+    "category": "bookmarks",
+    "timestamp": "2017-10-09T18:53:59.000Z",
+    "title": "[Legal] https://en.wiktionary.org/wiki/weasel_clause",
+    "detail": {
+      "name": "https://en.wiktionary.org/wiki/weasel_clause",
+      "url": "https://en.wiktionary.org/wiki/weasel_clause",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13152048839000000
+    }
+  },
+  {
+    "id": "bookmark-15807",
+    "category": "bookmarks",
+    "timestamp": "2017-10-09T18:53:59.181Z",
+    "title": "[Legal] https://en.wiktionary.org/wiki/weasel_clause",
+    "detail": {
+      "name": "https://en.wiktionary.org/wiki/weasel_clause",
+      "url": "https://en.wiktionary.org/wiki/weasel_clause",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13152048839181948
+    }
+  },
+  {
+    "id": "event-t1skmjcv7aoingde04e2dcruig@google.com",
+    "category": "events",
+    "timestamp": "2017-10-09T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-09T19:00:00.000Z",
+      "end": "2017-10-09T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-1092",
+    "category": "bookmarks",
+    "timestamp": "2017-10-09T19:19:09.000Z",
+    "title": "[Cloud providers] https://www.bluestacks.com/#gref",
+    "detail": {
+      "name": "https://www.bluestacks.com/#gref",
+      "url": "https://www.bluestacks.com/#gref",
+      "folderPath": "Computer Science/Cloud providers",
+      "lastFolder": "Cloud providers",
+      "timeUsec": 13152050349000000
+    }
+  },
+  {
+    "id": "bookmark-11288",
+    "category": "bookmarks",
+    "timestamp": "2017-10-09T19:19:09.384Z",
+    "title": "[Cloud providers] https://www.bluestacks.com/#gref",
+    "detail": {
+      "name": "https://www.bluestacks.com/#gref",
+      "url": "https://www.bluestacks.com/#gref",
+      "folderPath": "Computer Science/Cloud providers",
+      "lastFolder": "Cloud providers",
+      "timeUsec": 13152050349384578
+    }
+  },
+  {
+    "id": "bookmark-6588",
+    "category": "bookmarks",
+    "timestamp": "2017-10-09T19:19:24.000Z",
+    "title": "[SEO] https://elink.io",
+    "detail": {
+      "name": "https://elink.io",
+      "url": "https://elink.io/",
+      "folderPath": "Marketing/SEO",
+      "lastFolder": "SEO",
+      "timeUsec": 13152050364000000
+    }
+  },
+  {
+    "id": "bookmark-16568",
+    "category": "bookmarks",
+    "timestamp": "2017-10-09T19:19:24.901Z",
+    "title": "[SEO] https://elink.io",
+    "detail": {
+      "name": "https://elink.io",
+      "url": "https://elink.io/",
+      "folderPath": "Marketing/SEO",
+      "lastFolder": "SEO",
+      "timeUsec": 13152050364901396
+    }
+  },
+  {
+    "id": "bookmark-2243",
+    "category": "bookmarks",
+    "timestamp": "2017-10-09T19:30:42.000Z",
+    "title": "[Data analytics] https://catalog.data.gov/dataset?q=-aapi+api+OR++res_format%3Aapi&page=843",
+    "detail": {
+      "name": "https://catalog.data.gov/dataset?q=-aapi+api+OR++res_format%3Aapi&page=843",
+      "url": "https://catalog.data.gov/dataset?q=-aapi+api+OR++res_format%3Aapi&page=843",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13152051042000000
+    }
+  },
+  {
+    "id": "bookmark-12454",
+    "category": "bookmarks",
+    "timestamp": "2017-10-09T19:30:42.599Z",
+    "title": "[Data analytics] https://catalog.data.gov/dataset?q=-aapi+api+OR++res_format%3Aapi&page=843",
+    "detail": {
+      "name": "https://catalog.data.gov/dataset?q=-aapi+api+OR++res_format%3Aapi&page=843",
+      "url": "https://catalog.data.gov/dataset?q=-aapi+api+OR++res_format%3Aapi&page=843",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13152051042599644
+    }
+  },
+  {
+    "id": "bookmark-8199",
+    "category": "bookmarks",
+    "timestamp": "2017-10-10T02:38:44.000Z",
+    "title": "[Psychology] Understanding the dynamics of crowd behaviour",
+    "detail": {
+      "name": "Understanding the dynamics of crowd behaviour",
+      "url": "http://www.ucl.ac.uk/news/news-articles/0316/090316-crowd-control",
+      "folderPath": "Psychology",
+      "lastFolder": "Psychology",
+      "timeUsec": 13152076724000000
+    }
+  },
+  {
+    "id": "bookmark-18033",
+    "category": "bookmarks",
+    "timestamp": "2017-10-10T02:38:44.011Z",
+    "title": "[Psychology] Understanding the dynamics of crowd behaviour",
+    "detail": {
+      "name": "Understanding the dynamics of crowd behaviour",
+      "url": "http://www.ucl.ac.uk/news/news-articles/0316/090316-crowd-control",
+      "folderPath": "Psychology",
+      "lastFolder": "Psychology",
+      "timeUsec": 13152076724011568
+    }
+  },
+  {
+    "id": "event-6cf0bo64fncuuhp478dms1p3f9@google.com",
+    "category": "events",
+    "timestamp": "2017-10-10T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-10T05:00:00.000Z",
+      "end": "2017-10-10T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1v3i026o4tsim6plt1d1qi82d9@google.com",
+    "category": "events",
+    "timestamp": "2017-10-10T15:00:00.000Z",
+    "title": "[Revelation] Sad for hurting Iga, realized there are a lot more attractive people in the world without a hurtful past",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Sad for hurting Iga, realized there are a lot more attractive people in the world without a hurtful past",
+      "description": "",
+      "location": "the world without a hurtful past",
+      "start": "2017-10-10T15:00:00.000Z",
+      "end": "2017-10-10T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-0jq9nsff63c36uvmq5p74hucoo@google.com",
+    "category": "events",
+    "timestamp": "2017-10-10T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-10T17:30:00.000Z",
+      "end": "2017-10-10T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7cjora8006edc9t1phnbon3o99@google.com",
+    "category": "events",
+    "timestamp": "2017-10-10T18:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-10T18:30:00.000Z",
+      "end": "2017-10-10T19:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7rat5pm37por26j4crl0d2d56m@google.com",
+    "category": "events",
+    "timestamp": "2017-10-10T20:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-10T20:30:00.000Z",
+      "end": "2017-10-10T21:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6djn1679p3plvros7mhp66kgpk@google.com",
+    "category": "events",
+    "timestamp": "2017-10-10T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-10T22:00:00.000Z",
+      "end": "2017-10-10T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-5761",
+    "category": "bookmarks",
+    "timestamp": "2017-10-11T03:20:37.000Z",
+    "title": "[Legal] https://www.businessattorneyinaustin.com/annoying-email-confidentiality-disclaimers/",
+    "detail": {
+      "name": "https://www.businessattorneyinaustin.com/annoying-email-confidentiality-disclaimers/",
+      "url": "https://www.businessattorneyinaustin.com/annoying-email-confidentiality-disclaimers/",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13152165637000000
+    }
+  },
+  {
+    "id": "bookmark-15808",
+    "category": "bookmarks",
+    "timestamp": "2017-10-11T03:20:37.644Z",
+    "title": "[Legal] https://www.businessattorneyinaustin.com/annoying-email-confidentiality-disclaimers/",
+    "detail": {
+      "name": "https://www.businessattorneyinaustin.com/annoying-email-confidentiality-disclaimers/",
+      "url": "https://www.businessattorneyinaustin.com/annoying-email-confidentiality-disclaimers/",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13152165637644792
+    }
+  },
+  {
+    "id": "event-6hijic1k69hjab9gcos30b9k68q6cbb2c8rjebb2ccqjgdpnckr64chgc8@google.com",
+    "category": "events",
+    "timestamp": "2017-10-11T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-11T06:00:00.000Z",
+      "end": "2017-10-11T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1i13kt8b6ck97d8mf688ivim7u@google.com",
+    "category": "events",
+    "timestamp": "2017-10-11T18:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "support of football for recruiting, free advertising",
+      "start": "2017-10-11T18:30:00.000Z",
+      "end": "2017-10-11T19:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3sgg11psfmi0q1liv96qv41qp7@google.com",
+    "category": "events",
+    "timestamp": "2017-10-11T20:30:00.000Z",
+    "title": "[Revelation] Weird, worried I might be fired, Phil smirked when I asked for extra work. Maybe they've realized my utility isn't worth the cost, losing faith in me?",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Weird, worried I might be fired, Phil smirked when I asked for extra work. Maybe they've realized my utility isn't worth the cost, losing faith in me?",
+      "description": "Can never complete a task.  Just keeps dragging on and on because of indecision.  Lack of direction, lack of design, lack of authority, lack of communication.\n\n",
+      "location": "",
+      "start": "2017-10-11T20:30:00.000Z",
+      "end": "2017-10-11T21:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-65737od767n1g2h9e8us08fepc@google.com",
+    "category": "events",
+    "timestamp": "2017-10-11T22:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-11T22:30:00.000Z",
+      "end": "2017-10-11T23:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-58vd6bseau1l95tqm4hn4vfure@google.com",
+    "category": "events",
+    "timestamp": "2017-10-11T23:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-11T23:30:00.000Z",
+      "end": "2017-10-12T00:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2244",
+    "category": "bookmarks",
+    "timestamp": "2017-10-12T04:45:44.000Z",
+    "title": "[Data analytics] https://aws.amazon.com/blogs/compute/create-and-deploy-a-chat-bot-to-aws-lambda-in-five-minutes/",
+    "detail": {
+      "name": "https://aws.amazon.com/blogs/compute/create-and-deploy-a-chat-bot-to-aws-lambda-in-five-minutes/",
+      "url": "https://aws.amazon.com/blogs/compute/create-and-deploy-a-chat-bot-to-aws-lambda-in-five-minutes/",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13152257144000000
+    }
+  },
+  {
+    "id": "bookmark-12455",
+    "category": "bookmarks",
+    "timestamp": "2017-10-12T04:45:44.695Z",
+    "title": "[Data analytics] https://aws.amazon.com/blogs/compute/create-and-deploy-a-chat-bot-to-aws-lambda-in-five-minutes/",
+    "detail": {
+      "name": "https://aws.amazon.com/blogs/compute/create-and-deploy-a-chat-bot-to-aws-lambda-in-five-minutes/",
+      "url": "https://aws.amazon.com/blogs/compute/create-and-deploy-a-chat-bot-to-aws-lambda-in-five-minutes/",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13152257144695150
+    }
+  },
+  {
+    "id": "event-38rfn66r5vp3mhdv09d0n682ge@google.com",
+    "category": "events",
+    "timestamp": "2017-10-12T05:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-12T05:00:00.000Z",
+      "end": "2017-10-12T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1meqk0rtt6nuokditbrdk1e4ek@google.com",
+    "category": "events",
+    "timestamp": "2017-10-12T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-12T05:30:00.000Z",
+      "end": "2017-10-12T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2030",
+    "category": "bookmarks",
+    "timestamp": "2017-10-12T13:28:46.000Z",
+    "title": "[Generative art] https://www.bitmoji.com",
+    "detail": {
+      "name": "https://www.bitmoji.com",
+      "url": "https://www.bitmoji.com/",
+      "folderPath": "Computer Science/Graphics/Generative art",
+      "lastFolder": "Generative art",
+      "timeUsec": 13152288526000000
+    }
+  },
+  {
+    "id": "bookmark-12257",
+    "category": "bookmarks",
+    "timestamp": "2017-10-12T13:28:46.721Z",
+    "title": "[Generative art] https://www.bitmoji.com",
+    "detail": {
+      "name": "https://www.bitmoji.com",
+      "url": "https://www.bitmoji.com/",
+      "folderPath": "Computer Science/Graphics/Generative art",
+      "lastFolder": "Generative art",
+      "timeUsec": 13152288526721128
+    }
+  },
+  {
+    "id": "event-49cipgetu3jq96q144p24hg3lk@google.com",
+    "category": "events",
+    "timestamp": "2017-10-12T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-12T23:00:00.000Z",
+      "end": "2017-10-13T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5l8l4pvg5d753eab4nivben6h9@google.com",
+    "category": "events",
+    "timestamp": "2017-10-13T13:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-13T13:00:00.000Z",
+      "end": "2017-10-13T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1kokibiqmes3b9jp2h1nrt049b@google.com",
+    "category": "events",
+    "timestamp": "2017-10-13T16:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-13T16:30:00.000Z",
+      "end": "2017-10-13T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0ssbtjp412v6s5eog6asul3hak@google.com",
+    "category": "events",
+    "timestamp": "2017-10-13T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-13T17:30:00.000Z",
+      "end": "2017-10-13T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7656",
+    "category": "bookmarks",
+    "timestamp": "2017-10-13T18:38:30.000Z",
+    "title": "[Family] How to Provide the Validation Your Child Needs | For Parents | US News",
+    "detail": {
+      "name": "How to Provide the Validation Your Child Needs | For Parents | US News",
+      "url": "https://health.usnews.com/wellness/for-parents/articles/2017-01-31/how-to-provide-the-validation-your-child-needs",
+      "folderPath": "Parenting/Family",
+      "lastFolder": "Family",
+      "timeUsec": 13152393510000000
+    }
+  },
+  {
+    "id": "bookmark-17545",
+    "category": "bookmarks",
+    "timestamp": "2017-10-13T18:38:30.056Z",
+    "title": "[Parenting] How to Provide the Validation Your Child Needs | For Parents | US News",
+    "detail": {
+      "name": "How to Provide the Validation Your Child Needs | For Parents | US News",
+      "url": "https://health.usnews.com/wellness/for-parents/articles/2017-01-31/how-to-provide-the-validation-your-child-needs",
+      "folderPath": "Parenting",
+      "lastFolder": "Parenting",
+      "timeUsec": 13152393510056860
+    }
+  },
+  {
+    "id": "bookmark-8929",
+    "category": "bookmarks",
+    "timestamp": "2017-10-14T00:49:45.000Z",
+    "title": "[Politics] The scientists persuading terrorists to spill their secrets | News | The Guardian",
+    "detail": {
+      "name": "The scientists persuading terrorists to spill their secrets | News | The Guardian",
+      "url": "https://www.theguardian.com/news/2017/oct/13/the-scientists-persuading-terrorists-to-spill-their-secrets",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13152415785000000
+    }
+  },
+  {
+    "id": "bookmark-18699",
+    "category": "bookmarks",
+    "timestamp": "2017-10-14T00:49:45.336Z",
+    "title": "[Politics] The scientists persuading terrorists to spill their secrets | News | The Guardian",
+    "detail": {
+      "name": "The scientists persuading terrorists to spill their secrets | News | The Guardian",
+      "url": "https://www.theguardian.com/news/2017/oct/13/the-scientists-persuading-terrorists-to-spill-their-secrets",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13152415785336898
+    }
+  },
+  {
+    "id": "event-6lj38cho60sjib9nccpj0b9kccr68b9p6cq3eb9j65hj6e9j6kp68p1j6k@google.com",
+    "category": "events",
+    "timestamp": "2017-10-14T01:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-14T01:00:00.000Z",
+      "end": "2017-10-14T02:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7gff3g12qsrmv28sj1dleupu5p@google.com",
+    "category": "events",
+    "timestamp": "2017-10-14T02:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-14T02:00:00.000Z",
+      "end": "2017-10-14T03:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3733",
+    "category": "bookmarks",
+    "timestamp": "2017-10-14T18:06:19.000Z",
+    "title": "[Privacy] TorFlow",
+    "detail": {
+      "name": "TorFlow",
+      "url": "https://torflow.uncharted.software/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13152477979000000
+    }
+  },
+  {
+    "id": "bookmark-13792",
+    "category": "bookmarks",
+    "timestamp": "2017-10-14T18:06:19.241Z",
+    "title": "[Privacy] TorFlow",
+    "detail": {
+      "name": "TorFlow",
+      "url": "https://torflow.uncharted.software/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13152477979241834
+    }
+  },
+  {
+    "id": "bookmark-2720",
+    "category": "bookmarks",
+    "timestamp": "2017-10-14T19:35:47.000Z",
+    "title": "[Networking] grudgedu.synchro.net",
+    "detail": {
+      "name": "grudgedu.synchro.net",
+      "url": "http://grudgedu.synchro.net/",
+      "folderPath": "Computer Science/Networking",
+      "lastFolder": "Networking",
+      "timeUsec": 13152483347000000
+    }
+  },
+  {
+    "id": "bookmark-12925",
+    "category": "bookmarks",
+    "timestamp": "2017-10-14T19:35:47.811Z",
+    "title": "[Networking] grudgedu.synchro.net",
+    "detail": {
+      "name": "grudgedu.synchro.net",
+      "url": "http://grudgedu.synchro.net/",
+      "folderPath": "Computer Science/Networking",
+      "lastFolder": "Networking",
+      "timeUsec": 13152483347811794
+    }
+  },
+  {
+    "id": "event-7hu7ecc9p5hgtbvjbe4ro7lk6t@google.com",
+    "category": "events",
+    "timestamp": "2017-10-15T01:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "California",
+      "start": "2017-10-15T01:00:00.000Z",
+      "end": "2017-10-15T02:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-194",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T03:58:56.000Z",
+    "title": "[Books] https://en.wikipedia.org/wiki/The_Destructors",
+    "detail": {
+      "name": "https://en.wikipedia.org/wiki/The_Destructors",
+      "url": "https://en.wikipedia.org/wiki/The_Destructors",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13152513536000000
+    }
+  },
+  {
+    "id": "bookmark-10534",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T03:58:56.780Z",
+    "title": "[Books] https://en.wikipedia.org/wiki/The_Destructors",
+    "detail": {
+      "name": "https://en.wikipedia.org/wiki/The_Destructors",
+      "url": "https://en.wikipedia.org/wiki/The_Destructors",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13152513536780740
+    }
+  },
+  {
+    "id": "event-463dooir18fe7lnrfqub6ijt48@google.com",
+    "category": "events",
+    "timestamp": "2017-10-15T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-15T05:00:00.000Z",
+      "end": "2017-10-15T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cs64db6cgpm8bb56krj4b9k6opj6b9o60s3ebb36oo62d31c4rj6d9i60@google.com",
+    "category": "events",
+    "timestamp": "2017-10-15T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-15T06:00:00.000Z",
+      "end": "2017-10-15T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6hn1mg6d24u130e8hl054ha9hk@google.com",
+    "category": "events",
+    "timestamp": "2017-10-15T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-15T15:00:00.000Z",
+      "end": "2017-10-15T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6t6lc5kkhdeda6eafpvd05uedk@google.com",
+    "category": "events",
+    "timestamp": "2017-10-15T16:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-15T16:00:00.000Z",
+      "end": "2017-10-15T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3792",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T16:16:00.000Z",
+    "title": "[Privacy] https://github.com/hgranillo/squid-easylist",
+    "detail": {
+      "name": "https://github.com/hgranillo/squid-easylist",
+      "url": "https://github.com/hgranillo/squid-easylist",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13152557760000000
+    }
+  },
+  {
+    "id": "bookmark-13851",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T16:16:00.795Z",
+    "title": "[Privacy] https://github.com/hgranillo/squid-easylist",
+    "detail": {
+      "name": "https://github.com/hgranillo/squid-easylist",
+      "url": "https://github.com/hgranillo/squid-easylist",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13152557760795134
+    }
+  },
+  {
+    "id": "bookmark-1087",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T20:55:48.000Z",
+    "title": "[Cloud providers] https://www.vultr.com",
+    "detail": {
+      "name": "https://www.vultr.com",
+      "url": "https://www.vultr.com/",
+      "folderPath": "Computer Science/Cloud providers",
+      "lastFolder": "Cloud providers",
+      "timeUsec": 13152574548000000
+    }
+  },
+  {
+    "id": "bookmark-11283",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T20:55:48.287Z",
+    "title": "[Cloud providers] https://www.vultr.com",
+    "detail": {
+      "name": "https://www.vultr.com",
+      "url": "https://www.vultr.com/",
+      "folderPath": "Computer Science/Cloud providers",
+      "lastFolder": "Cloud providers",
+      "timeUsec": 13152574548287852
+    }
+  },
+  {
+    "id": "bookmark-8930",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T22:20:15.000Z",
+    "title": "[Politics] https://bost.ocks.org/mike/example/",
+    "detail": {
+      "name": "https://bost.ocks.org/mike/example/",
+      "url": "https://bost.ocks.org/mike/example/",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13152579615000000
+    }
+  },
+  {
+    "id": "bookmark-18700",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T22:20:15.437Z",
+    "title": "[Politics] https://bost.ocks.org/mike/example/",
+    "detail": {
+      "name": "https://bost.ocks.org/mike/example/",
+      "url": "https://bost.ocks.org/mike/example/",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13152579615437656
+    }
+  },
+  {
+    "id": "bookmark-50",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T22:42:56.000Z",
+    "title": "[Entertainment] ewatchseries.to",
+    "detail": {
+      "name": "ewatchseries.to",
+      "url": "http://ewatchseries.to/",
+      "folderPath": "Arts/Entertainment",
+      "lastFolder": "Entertainment",
+      "timeUsec": 13152580976000000
+    }
+  },
+  {
+    "id": "bookmark-10392",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T22:42:56.977Z",
+    "title": "[Entertainment] ewatchseries.to",
+    "detail": {
+      "name": "ewatchseries.to",
+      "url": "http://ewatchseries.to/",
+      "folderPath": "Arts/Entertainment",
+      "lastFolder": "Entertainment",
+      "timeUsec": 13152580976977484
+    }
+  },
+  {
+    "id": "bookmark-51",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T22:49:13.000Z",
+    "title": "[Entertainment] https://xkcd.com/657/large/",
+    "detail": {
+      "name": "https://xkcd.com/657/large/",
+      "url": "https://xkcd.com/657/large/",
+      "folderPath": "Arts/Entertainment",
+      "lastFolder": "Entertainment",
+      "timeUsec": 13152581353000000
+    }
+  },
+  {
+    "id": "bookmark-10393",
+    "category": "bookmarks",
+    "timestamp": "2017-10-15T22:49:13.017Z",
+    "title": "[Entertainment] https://xkcd.com/657/large/",
+    "detail": {
+      "name": "https://xkcd.com/657/large/",
+      "url": "https://xkcd.com/657/large/",
+      "folderPath": "Arts/Entertainment",
+      "lastFolder": "Entertainment",
+      "timeUsec": 13152581353017640
+    }
+  },
+  {
+    "id": "event-05jsdgdrcc8aupuk20ka0fhfov@google.com",
+    "category": "events",
+    "timestamp": "2017-10-16T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-16T16:00:00.000Z",
+      "end": "2017-10-16T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-8rmrm9at0hig6tufklm4evufv8@google.com",
+    "category": "events",
+    "timestamp": "2017-10-16T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-16T19:00:00.000Z",
+      "end": "2017-10-16T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4jkrvm8fra50b4fgki727g7jdo@google.com",
+    "category": "events",
+    "timestamp": "2017-10-16T19:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-16T19:30:00.000Z",
+      "end": "2017-10-16T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2r6lkgqrqjf0j34ijqbrsmm29n@google.com",
+    "category": "events",
+    "timestamp": "2017-10-16T20:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "everything I do",
+      "start": "2017-10-16T20:30:00.000Z",
+      "end": "2017-10-16T21:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-1725",
+    "category": "bookmarks",
+    "timestamp": "2017-10-18T13:37:28.000Z",
+    "title": "[Gaming] Metaballs",
+    "detail": {
+      "name": "Metaballs",
+      "url": "http://varun.ca/metaballs/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13152807448000000
+    }
+  },
+  {
+    "id": "bookmark-11927",
+    "category": "bookmarks",
+    "timestamp": "2017-10-18T13:37:28.543Z",
+    "title": "[Gaming] Metaballs",
+    "detail": {
+      "name": "Metaballs",
+      "url": "http://varun.ca/metaballs/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13152807448543968
+    }
+  },
+  {
+    "id": "bookmark-2349",
+    "category": "bookmarks",
+    "timestamp": "2017-10-18T14:17:55.000Z",
+    "title": "[Languages] Microsoft/napajs: Napa.js: a multi-threaded JavaScript runtime",
+    "detail": {
+      "name": "Microsoft/napajs: Napa.js: a multi-threaded JavaScript runtime",
+      "url": "https://github.com/Microsoft/napajs",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13152809875000000
+    }
+  },
+  {
+    "id": "bookmark-12551",
+    "category": "bookmarks",
+    "timestamp": "2017-10-18T14:17:55.390Z",
+    "title": "[Languages] Microsoft/napajs: Napa.js: a multi-threaded JavaScript runtime",
+    "detail": {
+      "name": "Microsoft/napajs: Napa.js: a multi-threaded JavaScript runtime",
+      "url": "https://github.com/Microsoft/napajs",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13152809875390712
+    }
+  },
+  {
+    "id": "event-1gu4grq0nljallkdoah1f27ap3@google.com",
+    "category": "events",
+    "timestamp": "2017-10-18T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-18T17:30:00.000Z",
+      "end": "2017-10-18T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70rj0o9j6kq62b9nccq30b9k71j36b9o6koj2b9k68s36eb4c5ij4ohi6s@google.com",
+    "category": "events",
+    "timestamp": "2017-10-18T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-18T19:00:00.000Z",
+      "end": "2017-10-18T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-66j4i9k6bqv4n5nui0a853larc@google.com",
+    "category": "events",
+    "timestamp": "2017-10-18T21:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-18T21:30:00.000Z",
+      "end": "2017-10-18T22:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7hd0falgt0ll62ub46vvvm5nnm@google.com",
+    "category": "events",
+    "timestamp": "2017-10-18T22:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-18T22:30:00.000Z",
+      "end": "2017-10-18T23:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2vjb1ugb0fg2go7o6460m70p0f@google.com",
+    "category": "events",
+    "timestamp": "2017-10-18T23:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-18T23:30:00.000Z",
+      "end": "2017-10-19T00:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-703br5412l42fpfdn9erqkf79d@google.com",
+    "category": "events",
+    "timestamp": "2017-10-19T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-19T17:30:00.000Z",
+      "end": "2017-10-19T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0ei67gfcba9li1ekbnhtsdvatr@google.com",
+    "category": "events",
+    "timestamp": "2017-10-20T00:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-20T00:30:00.000Z",
+      "end": "2017-10-20T01:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6opm8cj2c9gjibb16com4b9kc4r3ib9o65j62b9kcco68o9gcgojadb66k@google.com",
+    "category": "events",
+    "timestamp": "2017-10-20T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-20T06:00:00.000Z",
+      "end": "2017-10-20T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-25na1k8802joitlptnd6fpdknf@google.com",
+    "category": "events",
+    "timestamp": "2017-10-20T16:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-20T16:30:00.000Z",
+      "end": "2017-10-20T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3hq7vbkeehsjcq1hq7vr7l010s@google.com",
+    "category": "events",
+    "timestamp": "2017-10-21T01:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-21T01:00:00.000Z",
+      "end": "2017-10-21T02:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-778re1hr0udsv24uu4q0t8njb5@google.com",
+    "category": "events",
+    "timestamp": "2017-10-21T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-21T06:00:00.000Z",
+      "end": "2017-10-21T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-4827",
+    "category": "bookmarks",
+    "timestamp": "2017-10-21T23:56:11.000Z",
+    "title": "[Construction] (6) Hypnotic Video Inside ¦¦ Welding movement ¦¦ Friction welding - YouTube",
+    "detail": {
+      "name": "(6) Hypnotic Video Inside ¦¦ Welding movement ¦¦ Friction welding - YouTube",
+      "url": "https://www.youtube.com/watch?v=03FioPzhEBM",
+      "folderPath": "Engineering/Construction",
+      "lastFolder": "Construction",
+      "timeUsec": 13153103771000000
+    }
+  },
+  {
+    "id": "bookmark-14950",
+    "category": "bookmarks",
+    "timestamp": "2017-10-21T23:56:11.987Z",
+    "title": "[Construction] (6) Hypnotic Video Inside ¦¦ Welding movement ¦¦ Friction welding - YouTube",
+    "detail": {
+      "name": "(6) Hypnotic Video Inside ¦¦ Welding movement ¦¦ Friction welding - YouTube",
+      "url": "https://www.youtube.com/watch?v=03FioPzhEBM",
+      "folderPath": "Engineering/Construction",
+      "lastFolder": "Construction",
+      "timeUsec": 13153103771987248
+    }
+  },
+  {
+    "id": "bookmark-4522",
+    "category": "bookmarks",
+    "timestamp": "2017-10-22T00:28:28.000Z",
+    "title": "[COO] dapulse: The Intuitive Management Tool - Better Than Trello",
+    "detail": {
+      "name": "dapulse: The Intuitive Management Tool - Better Than Trello",
+      "url": "https://dapulse.com/better_than_trello/",
+      "folderPath": "COO",
+      "lastFolder": "COO",
+      "timeUsec": 13153105708000000
+    }
+  },
+  {
+    "id": "bookmark-14650",
+    "category": "bookmarks",
+    "timestamp": "2017-10-22T00:28:28.405Z",
+    "title": "[COO] dapulse: The Intuitive Management Tool - Better Than Trello",
+    "detail": {
+      "name": "dapulse: The Intuitive Management Tool - Better Than Trello",
+      "url": "https://dapulse.com/better_than_trello/",
+      "folderPath": "COO",
+      "lastFolder": "COO",
+      "timeUsec": 13153105708405114
+    }
+  },
+  {
+    "id": "bookmark-4523",
+    "category": "bookmarks",
+    "timestamp": "2017-10-22T00:28:41.000Z",
+    "title": "[COO] https://clubhouse.io",
+    "detail": {
+      "name": "https://clubhouse.io",
+      "url": "https://clubhouse.io/",
+      "folderPath": "COO",
+      "lastFolder": "COO",
+      "timeUsec": 13153105721000000
+    }
+  },
+  {
+    "id": "bookmark-14651",
+    "category": "bookmarks",
+    "timestamp": "2017-10-22T00:28:41.835Z",
+    "title": "[COO] https://clubhouse.io",
+    "detail": {
+      "name": "https://clubhouse.io",
+      "url": "https://clubhouse.io/",
+      "folderPath": "COO",
+      "lastFolder": "COO",
+      "timeUsec": 13153105721835812
+    }
+  },
+  {
+    "id": "bookmark-4524",
+    "category": "bookmarks",
+    "timestamp": "2017-10-22T00:28:46.000Z",
+    "title": "[COO] https://blog.capterra.com/9-best-basecamp-alternatives/",
+    "detail": {
+      "name": "https://blog.capterra.com/9-best-basecamp-alternatives/",
+      "url": "https://blog.capterra.com/9-best-basecamp-alternatives/",
+      "folderPath": "COO",
+      "lastFolder": "COO",
+      "timeUsec": 13153105726000000
+    }
+  },
+  {
+    "id": "bookmark-14652",
+    "category": "bookmarks",
+    "timestamp": "2017-10-22T00:28:46.721Z",
+    "title": "[COO] https://blog.capterra.com/9-best-basecamp-alternatives/",
+    "detail": {
+      "name": "https://blog.capterra.com/9-best-basecamp-alternatives/",
+      "url": "https://blog.capterra.com/9-best-basecamp-alternatives/",
+      "folderPath": "COO",
+      "lastFolder": "COO",
+      "timeUsec": 13153105726721444
+    }
+  },
+  {
+    "id": "bookmark-4525",
+    "category": "bookmarks",
+    "timestamp": "2017-10-22T00:28:49.000Z",
+    "title": "[COO] https://basecamp.com/how-it-works",
+    "detail": {
+      "name": "https://basecamp.com/how-it-works",
+      "url": "https://basecamp.com/how-it-works",
+      "folderPath": "COO",
+      "lastFolder": "COO",
+      "timeUsec": 13153105729000000
+    }
+  },
+  {
+    "id": "bookmark-14653",
+    "category": "bookmarks",
+    "timestamp": "2017-10-22T00:28:49.489Z",
+    "title": "[COO] https://basecamp.com/how-it-works",
+    "detail": {
+      "name": "https://basecamp.com/how-it-works",
+      "url": "https://basecamp.com/how-it-works",
+      "folderPath": "COO",
+      "lastFolder": "COO",
+      "timeUsec": 13153105729489798
+    }
+  },
+  {
+    "id": "event-1qe2b9k094bl6brbh1d1532r4f@google.com",
+    "category": "events",
+    "timestamp": "2017-10-22T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-22T06:00:00.000Z",
+      "end": "2017-10-22T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0bonlkjqcgrtce2vhjpr1ti7ll@google.com",
+    "category": "events",
+    "timestamp": "2017-10-23T03:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-23T03:30:00.000Z",
+      "end": "2017-10-23T04:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6ojci9hhfr8m6i3ase9q8u5rg3@google.com",
+    "category": "events",
+    "timestamp": "2017-10-23T09:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-23T09:00:00.000Z",
+      "end": "2017-10-23T10:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3rec7r921tfcakqsr77hm7ldt4@google.com",
+    "category": "events",
+    "timestamp": "2017-10-23T12:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-23T12:30:00.000Z",
+      "end": "2017-10-23T13:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-fuc7sto0v2u9nrumfc45v9uml4@google.com",
+    "category": "events",
+    "timestamp": "2017-10-23T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-23T19:00:00.000Z",
+      "end": "2017-10-23T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5quu5lqvtb7i03qkgkic9l79l4@google.com",
+    "category": "events",
+    "timestamp": "2017-10-23T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-23T20:00:00.000Z",
+      "end": "2017-10-23T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c4p30d9o6dgm4b9jcksm4b9k6ks36b9p6hgj6bb16osm6p35cpgjge9m74@google.com",
+    "category": "events",
+    "timestamp": "2017-10-23T22:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-23T22:00:00.000Z",
+      "end": "2017-10-23T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7318",
+    "category": "bookmarks",
+    "timestamp": "2017-10-24T02:31:59.000Z",
+    "title": "[Recording] (7) PREMIERE: Third Son - Trigonal (D-Nox & Beckers Remix) [Selador] - YouTube",
+    "detail": {
+      "name": "(7) PREMIERE: Third Son - Trigonal (D-Nox & Beckers Remix) [Selador] - YouTube",
+      "url": "https://www.youtube.com/watch?v=OV9zuN1IfdI",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13153285919000000
+    }
+  },
+  {
+    "id": "bookmark-17226",
+    "category": "bookmarks",
+    "timestamp": "2017-10-24T02:31:59.877Z",
+    "title": "[Recording] (7) PREMIERE: Third Son - Trigonal (D-Nox & Beckers Remix) [Selador] - YouTube",
+    "detail": {
+      "name": "(7) PREMIERE: Third Son - Trigonal (D-Nox & Beckers Remix) [Selador] - YouTube",
+      "url": "https://www.youtube.com/watch?v=OV9zuN1IfdI",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13153285919877356
+    }
+  },
+  {
+    "id": "event-6limadpoc8r30b9hcoq64b9k68p6cb9o74p3gb9p6dgj2cr164rjgpb264@google.com",
+    "category": "events",
+    "timestamp": "2017-10-24T13:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-24T13:00:00.000Z",
+      "end": "2017-10-24T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-46q82eaqsbovk8jqfq4iic3a3u@google.com",
+    "category": "events",
+    "timestamp": "2017-10-24T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "my as a programist?",
+      "start": "2017-10-24T20:00:00.000Z",
+      "end": "2017-10-24T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-8931",
+    "category": "bookmarks",
+    "timestamp": "2017-10-25T13:41:05.000Z",
+    "title": "[Politics] Philip Greenspun's Weblog » How did we create a society where we can’t afford to live in our own country?",
+    "detail": {
+      "name": "Philip Greenspun's Weblog » How did we create a society where we can’t afford to live in our own country?",
+      "url": "http://blogs.harvard.edu/philg/2017/10/24/how-did-we-create-a-society-where-we-cant-afford-to-live-in-our-own-country/",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13153412465000000
+    }
+  },
+  {
+    "id": "bookmark-18701",
+    "category": "bookmarks",
+    "timestamp": "2017-10-25T13:41:05.651Z",
+    "title": "[Politics] Philip Greenspun's Weblog » How did we create a society where we can’t afford to live in our own country?",
+    "detail": {
+      "name": "Philip Greenspun's Weblog » How did we create a society where we can’t afford to live in our own country?",
+      "url": "http://blogs.harvard.edu/philg/2017/10/24/how-did-we-create-a-society-where-we-cant-afford-to-live-in-our-own-country/",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13153412465651546
+    }
+  },
+  {
+    "id": "event-3rubdqoo3gdfegur5v9hs9ru0a@google.com",
+    "category": "events",
+    "timestamp": "2017-10-25T16:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-25T16:30:00.000Z",
+      "end": "2017-10-25T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2245",
+    "category": "bookmarks",
+    "timestamp": "2017-10-25T22:43:32.000Z",
+    "title": "[Data analytics] yourcelf/afgexplorer: Django site for searching and browsing Wikileaks' Afghan War Diaries",
+    "detail": {
+      "name": "yourcelf/afgexplorer: Django site for searching and browsing Wikileaks' Afghan War Diaries",
+      "url": "https://github.com/yourcelf/afgexplorer",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13153445012000000
+    }
+  },
+  {
+    "id": "bookmark-12456",
+    "category": "bookmarks",
+    "timestamp": "2017-10-25T22:43:32.763Z",
+    "title": "[Data analytics] yourcelf/afgexplorer: Django site for searching and browsing Wikileaks' Afghan War Diaries",
+    "detail": {
+      "name": "yourcelf/afgexplorer: Django site for searching and browsing Wikileaks' Afghan War Diaries",
+      "url": "https://github.com/yourcelf/afgexplorer",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13153445012763810
+    }
+  },
+  {
+    "id": "bookmark-155",
+    "category": "bookmarks",
+    "timestamp": "2017-10-26T00:08:35.000Z",
+    "title": "[Books] https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY/ref=sr_1_1?ie=UTF8&qid=1508952781&sr=8-1&keywords=6+pillars+of+self+esteem",
+    "detail": {
+      "name": "https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY/ref=sr_1_1?ie=UTF8&qid=1508952781&sr=8-1&keywords=6+pillars+of+self+esteem",
+      "url": "https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY/ref=sr_1_1?ie=UTF8&qid=1508952781&sr=8-1&keywords=6+pillars+of+self+esteem",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13153450115000000
+    }
+  },
+  {
+    "id": "bookmark-10495",
+    "category": "bookmarks",
+    "timestamp": "2017-10-26T00:08:35.927Z",
+    "title": "[Books] https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY/ref=sr_1_1?ie=UTF8&qid=1508952781&sr=8-1&keywords=6+pillars+of+self+esteem",
+    "detail": {
+      "name": "https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY/ref=sr_1_1?ie=UTF8&qid=1508952781&sr=8-1&keywords=6+pillars+of+self+esteem",
+      "url": "https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY/ref=sr_1_1?ie=UTF8&qid=1508952781&sr=8-1&keywords=6+pillars+of+self+esteem",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13153450115927576
+    }
+  },
+  {
+    "id": "bookmark-7821",
+    "category": "bookmarks",
+    "timestamp": "2017-10-26T00:08:41.000Z",
+    "title": "[Philosophy] This 300-Year-Old System Will Help You Become the Best Version of Yourself",
+    "detail": {
+      "name": "This 300-Year-Old System Will Help You Become the Best Version of Yourself",
+      "url": "https://medium.com/the-mission/this-300-year-old-system-will-help-you-become-the-best-version-of-yourself-1c0d3601ae68",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13153450121000000
+    }
+  },
+  {
+    "id": "bookmark-17703",
+    "category": "bookmarks",
+    "timestamp": "2017-10-26T00:08:41.855Z",
+    "title": "[Philosophy] This 300-Year-Old System Will Help You Become the Best Version of Yourself",
+    "detail": {
+      "name": "This 300-Year-Old System Will Help You Become the Best Version of Yourself",
+      "url": "https://medium.com/the-mission/this-300-year-old-system-will-help-you-become-the-best-version-of-yourself-1c0d3601ae68",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13153450121855306
+    }
+  },
+  {
+    "id": "event-5dn5emekl0vaa58946tj7n8k7t@google.com",
+    "category": "events",
+    "timestamp": "2017-10-26T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-26T15:00:00.000Z",
+      "end": "2017-10-26T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6te88cd6gi2oc69jcrjusgupkt@google.com",
+    "category": "events",
+    "timestamp": "2017-10-26T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-26T16:00:00.000Z",
+      "end": "2017-10-26T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4e4m85rindg66sq1sti4r2adio@google.com",
+    "category": "events",
+    "timestamp": "2017-10-26T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-26T17:00:00.000Z",
+      "end": "2017-10-26T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3e01gdevlcjhud305n1a7krl8e@google.com",
+    "category": "events",
+    "timestamp": "2017-10-26T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-26T17:00:00.000Z",
+      "end": "2017-10-26T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7kdbe87coblk8fa2vp1pco07ea@google.com",
+    "category": "events",
+    "timestamp": "2017-10-26T20:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-26T20:30:00.000Z",
+      "end": "2017-10-26T21:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6as58sc5q51uvpm919frrs315s@google.com",
+    "category": "events",
+    "timestamp": "2017-10-27T00:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-27T00:00:00.000Z",
+      "end": "2017-10-27T01:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-4797",
+    "category": "bookmarks",
+    "timestamp": "2017-10-27T03:12:01.000Z",
+    "title": "[Engineering] (10) OLEDiUNO Display PCB, please see my improved version too :-) - YouTube",
+    "detail": {
+      "name": "(10) OLEDiUNO Display PCB, please see my improved version too :-) - YouTube",
+      "url": "https://www.youtube.com/watch?v=wtU02eBNJfQ",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13153547521000000
+    }
+  },
+  {
+    "id": "bookmark-14920",
+    "category": "bookmarks",
+    "timestamp": "2017-10-27T03:12:01.632Z",
+    "title": "[Engineering] (10) OLEDiUNO Display PCB, please see my improved version too :-) - YouTube",
+    "detail": {
+      "name": "(10) OLEDiUNO Display PCB, please see my improved version too :-) - YouTube",
+      "url": "https://www.youtube.com/watch?v=wtU02eBNJfQ",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13153547521632380
+    }
+  },
+  {
+    "id": "bookmark-4764",
+    "category": "bookmarks",
+    "timestamp": "2017-10-27T22:51:00.000Z",
+    "title": "[Robotics] www.hansonrobotics.com",
+    "detail": {
+      "name": "www.hansonrobotics.com",
+      "url": "http://www.hansonrobotics.com/",
+      "folderPath": "Engineering/Robotics",
+      "lastFolder": "Robotics",
+      "timeUsec": 13153618260000000
+    }
+  },
+  {
+    "id": "bookmark-14887",
+    "category": "bookmarks",
+    "timestamp": "2017-10-27T22:51:00.696Z",
+    "title": "[Robotics] www.hansonrobotics.com",
+    "detail": {
+      "name": "www.hansonrobotics.com",
+      "url": "http://www.hansonrobotics.com/",
+      "folderPath": "Engineering/Robotics",
+      "lastFolder": "Robotics",
+      "timeUsec": 13153618260696800
+    }
+  },
+  {
+    "id": "bookmark-4765",
+    "category": "bookmarks",
+    "timestamp": "2017-10-27T22:53:04.000Z",
+    "title": "[Robotics] fortune.com/2017/10/26/robot-citizen-sophia-saudi-arabia/",
+    "detail": {
+      "name": "fortune.com/2017/10/26/robot-citizen-sophia-saudi-arabia/",
+      "url": "http://fortune.com/2017/10/26/robot-citizen-sophia-saudi-arabia/",
+      "folderPath": "Engineering/Robotics",
+      "lastFolder": "Robotics",
+      "timeUsec": 13153618384000000
+    }
+  },
+  {
+    "id": "bookmark-14888",
+    "category": "bookmarks",
+    "timestamp": "2017-10-27T22:53:04.912Z",
+    "title": "[Robotics] fortune.com/2017/10/26/robot-citizen-sophia-saudi-arabia/",
+    "detail": {
+      "name": "fortune.com/2017/10/26/robot-citizen-sophia-saudi-arabia/",
+      "url": "http://fortune.com/2017/10/26/robot-citizen-sophia-saudi-arabia/",
+      "folderPath": "Engineering/Robotics",
+      "lastFolder": "Robotics",
+      "timeUsec": 13153618384912766
+    }
+  },
+  {
+    "id": "event-54mm09vc1dqq2nke78pclu06d2@google.com",
+    "category": "events",
+    "timestamp": "2017-10-28T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-28T05:00:00.000Z",
+      "end": "2017-10-28T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-corj8d1i6oqjcbb46hijcb9kc4ojcb9p6os3gb9p69j30pj165hjedr468@google.com",
+    "category": "events",
+    "timestamp": "2017-10-28T06:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-28T06:00:00.000Z",
+      "end": "2017-10-28T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c5i3ip9j6lj36bb474sm4b9kccr30bb26cp62bb36csj2or36cp34e1o6c@google.com",
+    "category": "events",
+    "timestamp": "2017-10-28T16:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-28T16:00:00.000Z",
+      "end": "2017-10-28T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-t9f3bhui9a58m92cva2i4v2beo@google.com",
+    "category": "events",
+    "timestamp": "2017-10-28T19:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-28T19:00:00.000Z",
+      "end": "2017-10-28T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7319",
+    "category": "bookmarks",
+    "timestamp": "2017-10-29T04:27:24.000Z",
+    "title": "[Recording] (14) Modern Talking - Cheri Cheri Lady - YouTube",
+    "detail": {
+      "name": "(14) Modern Talking - Cheri Cheri Lady - YouTube",
+      "url": "https://www.youtube.com/watch?v=eNvUS-6PTbs",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13153724844000000
+    }
+  },
+  {
+    "id": "bookmark-17227",
+    "category": "bookmarks",
+    "timestamp": "2017-10-29T04:27:24.567Z",
+    "title": "[Recording] (14) Modern Talking - Cheri Cheri Lady - YouTube",
+    "detail": {
+      "name": "(14) Modern Talking - Cheri Cheri Lady - YouTube",
+      "url": "https://www.youtube.com/watch?v=eNvUS-6PTbs",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13153724844567472
+    }
+  },
+  {
+    "id": "bookmark-7320",
+    "category": "bookmarks",
+    "timestamp": "2017-10-30T04:49:03.000Z",
+    "title": "[Recording] (14) Enya - Only Time (Official Music Video) - YouTube",
+    "detail": {
+      "name": "(14) Enya - Only Time (Official Music Video) - YouTube",
+      "url": "https://www.youtube.com/watch?v=7wfYIMyS_dI",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13153812543000000
+    }
+  },
+  {
+    "id": "bookmark-17228",
+    "category": "bookmarks",
+    "timestamp": "2017-10-30T04:49:03.691Z",
+    "title": "[Recording] (14) Enya - Only Time (Official Music Video) - YouTube",
+    "detail": {
+      "name": "(14) Enya - Only Time (Official Music Video) - YouTube",
+      "url": "https://www.youtube.com/watch?v=7wfYIMyS_dI",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13153812543691592
+    }
+  },
+  {
+    "id": "bookmark-4273",
+    "category": "bookmarks",
+    "timestamp": "2017-10-30T18:25:03.000Z",
+    "title": "[Human interfaces] www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html",
+    "detail": {
+      "name": "www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html",
+      "url": "http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html",
+      "folderPath": "Computer Science/Web/Design/Human interfaces",
+      "lastFolder": "Human interfaces",
+      "timeUsec": 13153861503000000
+    }
+  },
+  {
+    "id": "bookmark-14348",
+    "category": "bookmarks",
+    "timestamp": "2017-10-30T18:25:03.786Z",
+    "title": "[Human interfaces] www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html",
+    "detail": {
+      "name": "www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html",
+      "url": "http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html",
+      "folderPath": "Computer Science/Web/Design/Human interfaces",
+      "lastFolder": "Human interfaces",
+      "timeUsec": 13153861503786072
+    }
+  },
+  {
+    "id": "bookmark-2680",
+    "category": "bookmarks",
+    "timestamp": "2017-10-30T18:29:27.000Z",
+    "title": "[Networking] https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/",
+    "detail": {
+      "name": "https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/",
+      "url": "https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/",
+      "folderPath": "Computer Science/Networking",
+      "lastFolder": "Networking",
+      "timeUsec": 13153861767000000
+    }
+  },
+  {
+    "id": "bookmark-12885",
+    "category": "bookmarks",
+    "timestamp": "2017-10-30T18:29:27.279Z",
+    "title": "[Networking] https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/",
+    "detail": {
+      "name": "https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/",
+      "url": "https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/",
+      "folderPath": "Computer Science/Networking",
+      "lastFolder": "Networking",
+      "timeUsec": 13153861767279070
+    }
+  },
+  {
+    "id": "bookmark-4892",
+    "category": "bookmarks",
+    "timestamp": "2017-10-30T18:34:20.000Z",
+    "title": "[Engineering] The City of the Future Is Hiding in the Arizona Desert - Motherboard",
+    "detail": {
+      "name": "The City of the Future Is Hiding in the Arizona Desert - Motherboard",
+      "url": "https://motherboard.vice.com/en_us/article/bj7jjd/arcosanti-city-future-paolo-soleri-arcology",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13153862060000000
+    }
+  },
+  {
+    "id": "bookmark-15018",
+    "category": "bookmarks",
+    "timestamp": "2017-10-30T18:34:20.273Z",
+    "title": "[Engineering] The City of the Future Is Hiding in the Arizona Desert - Motherboard",
+    "detail": {
+      "name": "The City of the Future Is Hiding in the Arizona Desert - Motherboard",
+      "url": "https://motherboard.vice.com/en_us/article/bj7jjd/arcosanti-city-future-paolo-soleri-arcology",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13153862060273548
+    }
+  },
+  {
+    "id": "event-62hdn40up7k5quh5vq04h8jkj8@google.com",
+    "category": "events",
+    "timestamp": "2017-10-30T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-30T19:00:00.000Z",
+      "end": "2017-10-30T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4uso0a68b2vrhnokaccaj6jv9f@google.com",
+    "category": "events",
+    "timestamp": "2017-10-30T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-30T20:00:00.000Z",
+      "end": "2017-10-30T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2u67kkod5po45ruk53chpk45d8@google.com",
+    "category": "events",
+    "timestamp": "2017-10-31T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-31T06:00:00.000Z",
+      "end": "2017-10-31T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7321",
+    "category": "bookmarks",
+    "timestamp": "2017-10-31T06:01:37.000Z",
+    "title": "[Recording] (15) Indila - Dernière Danse (Clip Officiel) - YouTube",
+    "detail": {
+      "name": "(15) Indila - Dernière Danse (Clip Officiel) - YouTube",
+      "url": "https://www.youtube.com/watch?v=K5KAc5CoCuk",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13153903297000000
+    }
+  },
+  {
+    "id": "bookmark-17229",
+    "category": "bookmarks",
+    "timestamp": "2017-10-31T06:01:37.065Z",
+    "title": "[Recording] (15) Indila - Dernière Danse (Clip Officiel) - YouTube",
+    "detail": {
+      "name": "(15) Indila - Dernière Danse (Clip Officiel) - YouTube",
+      "url": "https://www.youtube.com/watch?v=K5KAc5CoCuk",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13153903297065380
+    }
+  },
+  {
+    "id": "event-1u3o0mc6rcmmius3tnfcsn8c4h@google.com",
+    "category": "events",
+    "timestamp": "2017-10-31T20:15:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-10-31T20:15:00.000Z",
+      "end": "2017-10-31T21:15:00.000Z",
+      "isPublic": false
+    }
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "id": "event-68rj2ob1ckpj0bb4ckp30b9k6pim2b9ocph6cb9oc8r6aopocop3gcj474@google.com",
+    "category": "events",
+    "timestamp": "2018-05-01T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-01T20:00:00.000Z",
+      "end": "2018-05-01T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6dijgcr4c4p36bb468oj8b9k6pj38b9o6oom4b9j69im6dhn65h68oj46o@google.com",
+    "category": "events",
+    "timestamp": "2018-05-02T20:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-02T20:00:00.000Z",
+      "end": "2018-05-02T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-75gj2cb664r30bb660rmcb9k61j32b9o6ssj8b9ocoqj0dhi71i3cc9j60@google.com",
+    "category": "events",
+    "timestamp": "2018-05-03T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-03T05:00:00.000Z",
+      "end": "2018-05-03T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6gp3idpg69i36b9o71h64b9k6spj0b9occoj4b9hcoqjedj6cpij6oj668@google.com",
+    "category": "events",
+    "timestamp": "2018-05-03T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-03T16:00:00.000Z",
+      "end": "2018-05-03T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c4p66e336tijib9i6krjeb9k61hjcbb165hj2b9j6gq3ge9j74oj6ohj6c@google.com",
+    "category": "events",
+    "timestamp": "2018-05-04T18:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-04T18:00:00.000Z",
+      "end": "2018-05-04T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6pi3gor1cor3cb9l68q64b9kckq62bb26oqmab9l69im4o9h61i68d9h60@google.com",
+    "category": "events",
+    "timestamp": "2018-05-06T16:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-06T16:00:00.000Z",
+      "end": "2018-05-06T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-61ij8e1kc5h6cb9m6or36b9k70o36bb1c8q32b9i70o38c9m71im2or2ck@google.com",
+    "category": "events",
+    "timestamp": "2018-05-08T08:00:00.000Z",
+    "title": "[Predictions] Dreamed Paloma Picasso was school counselor and surrounded by children being raped and killed",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dreamed Paloma Picasso was school counselor and surrounded by children being raped and killed",
+      "description": "https://en.m.wikipedia.org/wiki/Elizabeth_Báthory",
+      "location": "",
+      "start": "2018-05-08T08:00:00.000Z",
+      "end": "2018-05-08T09:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ckpm8dr46kojibb260q38b9kcdhj0bb270rj8b9icos3ce1jc4s32c9m70@google.com",
+    "category": "events",
+    "timestamp": "2018-05-08T10:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-08T10:00:00.000Z",
+      "end": "2018-05-08T11:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70p66pb165j6abb6c4rm8b9k6gsm2b9o6cp3ib9n61h62dphcooj6p9i6s@google.com",
+    "category": "events",
+    "timestamp": "2018-05-11T15:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-11T15:00:00.000Z",
+      "end": "2018-05-11T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6phm8pj164q3abb66di30b9k70pj0b9o64s6abb5ckrjae1g6hijgdhgc8@google.com",
+    "category": "events",
+    "timestamp": "2018-05-12T22:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-12T22:00:00.000Z",
+      "end": "2018-05-12T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-chh6apj274p64b9j70pmcb9k61ijabb164qmab9m6sqjgdplckq3goph6o@google.com",
+    "category": "events",
+    "timestamp": "2018-05-13T15:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-13T15:00:00.000Z",
+      "end": "2018-05-13T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6ko64c9k6gqm6b9h75i38b9kcdhj0bb160qm4b9lclj3ac1o64p34e1hcg@google.com",
+    "category": "events",
+    "timestamp": "2018-05-14T04:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-14T04:00:00.000Z",
+      "end": "2018-05-14T05:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c8pj4oj470smab9ocdgj2b9kc4pj6bb16kp62bb16ti6ae32ccr68cpi60@google.com",
+    "category": "events",
+    "timestamp": "2018-05-14T05:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-14T05:00:00.000Z",
+      "end": "2018-05-14T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckr3aopo65i3cb9jcli64b9k6th3abb2ccq30bb46oq3gc1g60pm6c9p6s@google.com",
+    "category": "events",
+    "timestamp": "2018-05-14T14:00:00.000Z",
+    "title": "[Predictions] Weird dream about wearing futuristic space suits and I list my access key. Lots of lights and stairs around like a giant repurposed stadium.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Weird dream about wearing futuristic space suits and I list my access key. Lots of lights and stairs around like a giant repurposed stadium.",
+      "description": "",
+      "location": "",
+      "start": "2018-05-14T14:00:00.000Z",
+      "end": "2018-05-14T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-74q6cor170oj2b9i68r3eb9k6hh6cb9ocpi68bb5c4qj8c9m6gojcc9i70@google.com",
+    "category": "events",
+    "timestamp": "2018-05-14T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-14T20:00:00.000Z",
+      "end": "2018-05-14T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-clh68pj560pjeb9l6lhj0b9k64q3ibb264p34bb374o3gd1n6srj4dhn68@google.com",
+    "category": "events",
+    "timestamp": "2018-05-16T14:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-16T14:30:00.000Z",
+      "end": "2018-05-16T15:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cdh68d9hcgrj6b9m6oq36b9kcop30bb2cko3ebb370pjgchicoq36d356k@google.com",
+    "category": "events",
+    "timestamp": "2018-05-17T06:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-17T06:00:00.000Z",
+      "end": "2018-05-17T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cq3cdb3c8o66b9kcdgj6b9k70sj6bb16oq3ibb471i3gphi69hjacppc8@google.com",
+    "category": "events",
+    "timestamp": "2018-05-18T15:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-18T15:00:00.000Z",
+      "end": "2018-05-18T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6ss34phgc4ojebb66cs3ib9k68qj4bb268rm8b9i6gq3cp1i6gpm6ob564@google.com",
+    "category": "events",
+    "timestamp": "2018-05-19T01:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-19T01:00:00.000Z",
+      "end": "2018-05-19T02:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-60rj2d3174rj0b9g60pj2b9k61im4b9o70p6ab9kc9j6ce9nc8qj4cppc8@google.com",
+    "category": "events",
+    "timestamp": "2018-05-19T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-19T15:00:00.000Z",
+      "end": "2018-05-19T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c9gj6e9o6gp3ibb570pmab9kcor6ab9p6hi34b9l68qm6oj5cpi32phjco@google.com",
+    "category": "events",
+    "timestamp": "2018-05-20T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-20T19:00:00.000Z",
+      "end": "2018-05-20T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6pj64oph6orm4b9lcgo36b9k74s32bb1chgjgb9k60q62dr2c8s38cpk6c@google.com",
+    "category": "events",
+    "timestamp": "2018-05-21T00:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-21T00:00:00.000Z",
+      "end": "2018-05-21T01:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-08lo7ab420hcdpcqveu3393a5v@google.com",
+    "category": "events",
+    "timestamp": "2018-05-21T02:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-21T02:00:00.000Z",
+      "end": "2018-05-21T03:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-61hjgc9o6oqjcbb464sj6b9k6cs30b9pckrm8bb1cos64db1c4s6ao9h68@google.com",
+    "category": "events",
+    "timestamp": "2018-05-21T05:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-21T05:00:00.000Z",
+      "end": "2018-05-21T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-74qj6ob675i3ab9g60ojab9kcpi32b9p68o66b9hcgojeo9i6dj68oj260@google.com",
+    "category": "events",
+    "timestamp": "2018-05-21T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-21T16:00:00.000Z",
+      "end": "2018-05-21T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-71hmcopnc8omab9p6li32b9kc8q3cb9p6dj6ab9ncpijcc316hgjic9j6c@google.com",
+    "category": "events",
+    "timestamp": "2018-05-21T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-21T20:00:00.000Z",
+      "end": "2018-05-21T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c8om8e1i6oqmcbb36kp3eb9k61hm4b9oc9j32b9j74rj2dpn6soj0d32c8@google.com",
+    "category": "events",
+    "timestamp": "2018-05-22T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-22T05:00:00.000Z",
+      "end": "2018-05-22T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6pi68c9kcoo32b9lcksm6b9k6ph3gbb261gj2bb4chgjcopn68rmcphlcg@google.com",
+    "category": "events",
+    "timestamp": "2018-05-22T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-22T16:00:00.000Z",
+      "end": "2018-05-22T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c9gj0o9g6cs32b9ic8o6cb9k6sojgb9pchhj0b9i70s6apj161ij6e1gcg@google.com",
+    "category": "events",
+    "timestamp": "2018-05-23T14:00:00.000Z",
+    "title": "[Predictions] Weird dream about a movie plot where people quit their desk jobs to create the perfect beer, high alcohol content with a hint of fruit",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Weird dream about a movie plot where people quit their desk jobs to create the perfect beer, high alcohol content with a hint of fruit",
+      "description": "",
+      "location": "",
+      "start": "2018-05-23T14:00:00.000Z",
+      "end": "2018-05-23T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cko6adhh75ijcb9mcpj3cb9kchh3ib9pc8q30b9h6kqjcpj36so3cc9k6s@google.com",
+    "category": "events",
+    "timestamp": "2018-05-23T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-23T16:00:00.000Z",
+      "end": "2018-05-23T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6hgm8phj6oqjcb9k6tgm6b9k6li3cbb160o30b9o71gm4d9g6pgmcdpm74@google.com",
+    "category": "events",
+    "timestamp": "2018-05-24T03:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-24T03:00:00.000Z",
+      "end": "2018-05-24T04:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ccp3cdj16cpm2b9l74pj8b9k6sp3cbb164rj8b9n6csm8dj168q3ip9lcg@google.com",
+    "category": "events",
+    "timestamp": "2018-05-24T13:00:00.000Z",
+    "title": "[Predictions] Weird dream with Iga Kevin Nate Crystal and Ben",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Weird dream with Iga Kevin Nate Crystal and Ben",
+      "description": "flying model jet and at a restaurant ordering burgers fries and squirting ketchup on the ceiling tiles",
+      "location": "",
+      "start": "2018-05-24T13:00:00.000Z",
+      "end": "2018-05-24T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6oqjcdpjcoqjcb9pc5h36b9kcgqjabb2c9gjgb9p6kojee9j74om6e336s@google.com",
+    "category": "events",
+    "timestamp": "2018-05-24T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-24T23:00:00.000Z",
+      "end": "2018-05-25T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckq3iphh74s34b9lc5hj6b9kckpjcb9pchhjeb9m6os34cr2c4om8cpi60@google.com",
+    "category": "events",
+    "timestamp": "2018-05-25T12:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-25T12:00:00.000Z",
+      "end": "2018-05-25T13:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-69hmadr5ckq32b9o6cp3ib9k6sq3cbb26cqj2bb6c5hj0p366gojec1h60@google.com",
+    "category": "events",
+    "timestamp": "2018-05-25T14:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-25T14:00:00.000Z",
+      "end": "2018-05-25T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cr62dj2chh6abb16sp36b9kcpi66bb2cco64b9gc5i34e9o6ti34c9l6c@google.com",
+    "category": "events",
+    "timestamp": "2018-05-26T07:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-26T07:00:00.000Z",
+      "end": "2018-05-26T08:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6ksj6dr3c8s68bb669ij4b9k6dim6bb2cdi6abb2coq30chg6sp66e9l74@google.com",
+    "category": "events",
+    "timestamp": "2018-05-26T14:00:00.000Z",
+    "title": "[Predictions] Weird dream",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Weird dream",
+      "description": "At school, new outdoor theaters/courtyards built next to buildings, a small corridor of trees that use to be a nice place to walk before the construction.\nA giant carpenter bee inside the house, scared.\nWeird voice woke me up \"I should go away then\" I thought it was Steve inside the room.",
+      "location": "",
+      "start": "2018-05-26T14:00:00.000Z",
+      "end": "2018-05-26T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6dgjap1i6co3cb9mchj3ab9k6kq38bb1ccq3ab9oclhmadhg6lj62pb36o@google.com",
+    "category": "events",
+    "timestamp": "2018-05-27T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-27T06:00:00.000Z",
+      "end": "2018-05-27T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c9gj4cj661j6cbb470ojab9k75i6cbb26hi3ibb56sq38pho6os3ccpm6o@google.com",
+    "category": "events",
+    "timestamp": "2018-05-27T14:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-27T14:00:00.000Z",
+      "end": "2018-05-27T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c5im8cpnchh64b9l68q32b9k6gsjab9occo62b9g6sr6achjcks66php68@google.com",
+    "category": "events",
+    "timestamp": "2018-05-27T23:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-27T23:30:00.000Z",
+      "end": "2018-05-28T00:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cosjee9j60pjib9gcpj30b9kc8sj2bb16cqj2b9l60qj2ob2c9hj4db674@google.com",
+    "category": "events",
+    "timestamp": "2018-05-28T21:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-28T21:00:00.000Z",
+      "end": "2018-05-28T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-chim2c1g6som8b9k6li32b9k6grjgbb16lhjcbb3c8p68dhoclgjec31c8@google.com",
+    "category": "events",
+    "timestamp": "2018-05-31T12:00:00.000Z",
+    "title": "[Predictions] Nightmares, bad dream",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Nightmares, bad dream",
+      "description": "<html-blob>Terrified of Sarah our roommate. Dreamed she tried to fight Iga and I physically and then started masturbating and being abused was the only way she could orgasm. Had to knock her out and risk going to jail.<br>Nightmare about hitting a car on the side while it was pulling out and paying $1000 in repairs.</html-blob>",
+      "location": "",
+      "start": "2018-05-31T12:00:00.000Z",
+      "end": "2018-05-31T13:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6go68e1n6dij4bb26pgmcb9k60rjeb9p61im8b9gcoq3gd1i6hhjcp9ncc@google.com",
+    "category": "events",
+    "timestamp": "2018-05-31T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-31T18:00:00.000Z",
+      "end": "2018-05-31T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckqm2opm6lhj4bb561j62b9k71h6abb271h32bb1c8o3aphn74pm2p3460@google.com",
+    "category": "events",
+    "timestamp": "2018-05-31T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-05-31T23:00:00.000Z",
+      "end": "2018-06-01T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6hhjce1j64sjibb56oqmcb9kc5j64b9p64oj8bb1cgp30e1k6hh32oj26c@google.com",
+    "category": "events",
+    "timestamp": "2018-06-01T03:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-06-01T03:00:00.000Z",
+      "end": "2018-06-01T04:00:00.000Z",
+      "isPublic": false
+    }
+  }
+]

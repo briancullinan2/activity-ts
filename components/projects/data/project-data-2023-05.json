@@ -1,0 +1,1024 @@
+{
+  "yearMonth": "2023-05",
+  "generatedAt": "2026-09-24T02:37:24.664Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-05-31": {
+          "date": "2023-05-31",
+          "heatScore": 39,
+          "linesChanged": 439,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "80a8ba681b73bcf050471c07acbafa6a8d8fabb7",
+              "author": "Brian Cullinan",
+              "date": "2023-05-31T18:23:19.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 62,
+              "linesDeleted": 377,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-05-30": {
+          "date": "2023-05-30",
+          "heatScore": 32,
+          "linesChanged": 337,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "843f9e89f48c22db59cc6fa85b4726d6526db22b",
+              "author": "Brian Cullinan",
+              "date": "2023-05-30T08:51:11.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 65,
+              "linesDeleted": 272,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-05-28": {
+          "date": "2023-05-28",
+          "heatScore": 33,
+          "linesChanged": 350,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6a58f866d5f6c168bbc5cca0d74cdb8d24ea33d1",
+              "author": "Brian Cullinan",
+              "date": "2023-05-28T18:02:22.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 336,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-05-27": {
+          "date": "2023-05-27",
+          "heatScore": 22,
+          "linesChanged": 181,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "712a93a6421b2e0bed29c49d80c4d2860c026eab",
+              "author": "Brian Cullinan",
+              "date": "2023-05-27T23:50:55.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 63,
+              "linesDeleted": 118,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-05-25": {
+          "date": "2023-05-25",
+          "heatScore": 40,
+          "linesChanged": 455,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1403a3338ae56904ffe9ddc1fbfa1d11781c4c51",
+              "author": "Brian Cullinan",
+              "date": "2023-05-25T19:11:46.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 250,
+              "linesDeleted": 205,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-05-24": {
+          "date": "2023-05-24",
+          "heatScore": 20,
+          "linesChanged": 154,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1f597302f03169f74286fde9e3ebf38cf3aff86a",
+              "author": "Brian Cullinan",
+              "date": "2023-05-24T19:30:14.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 93,
+              "linesDeleted": 61,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-05-22": {
+          "date": "2023-05-22",
+          "heatScore": 12,
+          "linesChanged": 34,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "01d3b6c5984c601671530842d52b0a3949335caf",
+              "author": "Brian Cullinan",
+              "date": "2023-05-22T19:04:25.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 31,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-05-21": {
+          "date": "2023-05-21",
+          "heatScore": 14,
+          "linesChanged": 70,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "144ce19d189f906a7b3c576098f3f2eb447b9e9b",
+              "author": "Brian Cullinan",
+              "date": "2023-05-21T02:06:36.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 63,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-05-20": {
+          "date": "2023-05-20",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6ec0bfcfdb1aa13ce07060ab8b349690747ee566",
+              "author": "Brian Cullinan",
+              "date": "2023-05-20T12:23:41.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-05-13": {
+          "date": "2023-05-13",
+          "heatScore": 15,
+          "linesChanged": 83,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "84cb22c290e089e292c54e346becc2e5abb5ad2d",
+              "author": "Brian Cullinan",
+              "date": "2023-05-13T04:03:21.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 82,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-05-08": {
+          "date": "2023-05-08",
+          "heatScore": 15,
+          "linesChanged": 83,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "28ec99b5552c7e037b1e54cf447a659947ba1576",
+              "author": "Brian Cullinan",
+              "date": "2023-05-08T07:33:22.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 82,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-05-03": {
+          "date": "2023-05-03",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "85b74f13b181838dea9ed7fc8e6b29d96b1dcd94",
+              "author": "Brian Cullinan",
+              "date": "2023-05-03T15:06:17.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-05-17": {
+          "date": "2023-05-17",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/layer-panel/layer-panel.vue"
+          ],
+          "commits": [
+            {
+              "hash": "0406a3294947045666ea345b88fcabd816fd74cc",
+              "author": "Igor Zinken",
+              "date": "2023-05-17T17:21:14.000Z",
+              "message": "Fix issue where using drag and pan tool or selections would switch layers when layer panel was focused",
+              "linesAdded": 9,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/components/layer-panel/layer-panel.vue"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-05-31": {
+          "date": "2023-05-31",
+          "heatScore": 13,
+          "linesChanged": 52,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "f326a0a4680526db4681c9eb83d817f8b5272373",
+              "author": "space-nuko",
+              "date": "2023-05-31T04:43:22.000Z",
+              "message": "Make new LATENT_PREVIEWER type for declaring KSampler preview methods",
+              "linesAdded": 39,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-29": {
+          "date": "2023-05-29",
+          "heatScore": 13,
+          "linesChanged": 47,
+          "commitCount": 1,
+          "filesEdited": [
+            "folder_paths.py"
+          ],
+          "commits": [
+            {
+              "hash": "8ef197f02852b65509d6ebe06df8794b96a07f2f",
+              "author": "comfyanonymous",
+              "date": "2023-05-29T15:26:57.000Z",
+              "message": "Keep list of filenames and only refresh it when something changes.",
+              "linesAdded": 43,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "folder_paths.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-30": {
+          "date": "2023-05-30",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/style.css"
+          ],
+          "commits": [
+            {
+              "hash": "468c27afea29928d7d9fcd208e1137a36118ad13",
+              "author": "space-nuko",
+              "date": "2023-05-30T21:06:17.000Z",
+              "message": "Fix litegraph dialog z-index/font",
+              "linesAdded": 5,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/style.css"
+              ]
+            }
+          ]
+        },
+        "2023-05-28": {
+          "date": "2023-05-28",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "23ffafeb5d4a25bb5e41c34c9f04a0733643892c",
+              "author": "Dr.Lt.Data",
+              "date": "2023-05-28T14:31:40.000Z",
+              "message": "typo fix: field name in error message",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-05-27": {
+          "date": "2023-05-27",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "execution.py"
+          ],
+          "commits": [
+            {
+              "hash": "03f2d0a764726641e848ba4e069c8809a502afdf",
+              "author": "space-nuko",
+              "date": "2023-05-27T07:02:11.000Z",
+              "message": "Rename exception message field",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "execution.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-26": {
+          "date": "2023-05-26",
+          "heatScore": 12,
+          "linesChanged": 43,
+          "commitCount": 1,
+          "filesEdited": [
+            "execution.py"
+          ],
+          "commits": [
+            {
+              "hash": "62bdd9d26aba086ffbeedd118140e2806e6f4345",
+              "author": "space-nuko",
+              "date": "2023-05-26T21:35:54.000Z",
+              "message": "Catch typecast errors",
+              "linesAdded": 30,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "execution.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-25": {
+          "date": "2023-05-25",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "execution.py"
+          ],
+          "commits": [
+            {
+              "hash": "a9e7e237248296c8fe0d79991e0f8c2c0f2cf530",
+              "author": "space-nuko",
+              "date": "2023-05-25T18:11:34.000Z",
+              "message": "Fix",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "execution.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-24": {
+          "date": "2023-05-24",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/pnginfo.js"
+          ],
+          "commits": [
+            {
+              "hash": "9b1396e93a19748dd4c4bb35637638bb0f91b5f0",
+              "author": "comfyanonymous",
+              "date": "2023-05-24T18:01:11.000Z",
+              "message": "Fix issue importing other ui prompts.",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/scripts/pnginfo.js"
+              ]
+            }
+          ]
+        },
+        "2023-05-23": {
+          "date": "2023-05-23",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "c00bb1a0b78f0d2cf2e4ec2dd9ae7d61cb07a637",
+              "author": "comfyanonymous",
+              "date": "2023-05-23T16:53:38.000Z",
+              "message": "Add a latent upscale by node.",
+              "linesAdded": 21,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-22": {
+          "date": "2023-05-22",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/colorPalette.js"
+          ],
+          "commits": [
+            {
+              "hash": "bfb13f5eee48545f1c4b0b8a377de80be84bb100",
+              "author": "comfyanonymous",
+              "date": "2023-05-22T21:05:23.000Z",
+              "message": "Remove useless call to /object_info",
+              "linesAdded": 5,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "web/extensions/core/colorPalette.js"
+              ]
+            }
+          ]
+        },
+        "2023-05-21": {
+          "date": "2023-05-21",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py"
+          ],
+          "commits": [
+            {
+              "hash": "dc198650c0d2d281c9d87b23a8917b457a94d837",
+              "author": "comfyanonymous",
+              "date": "2023-05-21T15:34:29.000Z",
+              "message": "sample_dpmpp_2m_sde no longer crashes when step == 1.",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-20": {
+          "date": "2023-05-20",
+          "heatScore": 15,
+          "linesChanged": 79,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/diffusionmodules/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "b8636a44aacd83ec6a9a19a6d3d3f5b76fc863c9",
+              "author": "comfyanonymous",
+              "date": "2023-05-20T19:43:39.000Z",
+              "message": "Make scaled_dot_product switch to sliced attention on OOM.",
+              "linesAdded": 43,
+              "linesDeleted": 36,
+              "filesChanged": [
+                "comfy/ldm/modules/diffusionmodules/model.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-19": {
+          "date": "2023-05-19",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "e6e1999f96adbe0f4b041d265837e00bde9283ab",
+              "author": "malern",
+              "date": "2023-05-19T19:04:36.000Z",
+              "message": "Render UI at a higher resolution when viewing with a higher pixel ratio",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-05-18": {
+          "date": "2023-05-18",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py",
+            "web/scripts/app.js",
+            "web/scripts/pnginfo.js",
+            "web/scripts/ui.js"
+          ],
+          "commits": [
+            {
+              "hash": "62a371e12b4763bf6f9aeb42ff4928138df6ae26",
+              "author": "comfyanonymous",
+              "date": "2023-05-18T06:41:21.000Z",
+              "message": "Load workflow from latent file.",
+              "linesAdded": 24,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "nodes.py",
+                "web/scripts/app.js",
+                "web/scripts/pnginfo.js",
+                "web/scripts/ui.js"
+              ]
+            }
+          ]
+        },
+        "2023-05-16": {
+          "date": "2023-05-16",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/lib/litegraph.core.js"
+          ],
+          "commits": [
+            {
+              "hash": "4088e61aa6b8943e28ee243c0b1265c41974ef67",
+              "author": "comfyanonymous",
+              "date": "2023-05-16T19:35:07.000Z",
+              "message": "Update litegraph from upstream.",
+              "linesAdded": 9,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "web/lib/litegraph.core.js"
+              ]
+            }
+          ]
+        },
+        "2023-05-15": {
+          "date": "2023-05-15",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "2ec6d1c6e364ab92e3d8149a83873ac47c797248",
+              "author": "comfyanonymous",
+              "date": "2023-05-15T07:31:03.000Z",
+              "message": "Don't import custom nodes when the folder ends with .disabled",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-14": {
+          "date": "2023-05-14",
+          "heatScore": 19,
+          "linesChanged": 145,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/lib/litegraph.core.js"
+          ],
+          "commits": [
+            {
+              "hash": "84ea21c815d426000c233e0c7b8c542764335cc8",
+              "author": "comfyanonymous",
+              "date": "2023-05-14T21:02:40.000Z",
+              "message": "Update litegraph from upstream.",
+              "linesAdded": 137,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "web/lib/litegraph.core.js"
+              ]
+            }
+          ]
+        },
+        "2023-05-13": {
+          "date": "2023-05-13",
+          "heatScore": 12,
+          "linesChanged": 42,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "3a1f47764d76bb9878b55e82657044b3faceda9c",
+              "author": "comfyanonymous",
+              "date": "2023-05-13T21:11:27.000Z",
+              "message": "Print the torch device that is used on startup.",
+              "linesAdded": 26,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-12": {
+          "date": "2023-05-12",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "19c014f4292863444a3d677d504ad58623395a58",
+              "author": "BlenderNeko",
+              "date": "2023-05-12T21:57:40.000Z",
+              "message": "comment out annoying print statement",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-11": {
+          "date": "2023-05-11",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "8ea165dd1ef877f58f3710f31ce43f27e0f739ab",
+              "author": "comfyanonymous",
+              "date": "2023-05-11T18:15:13.000Z",
+              "message": "Add a way to overwrite images when uploading.",
+              "linesAdded": 9,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-10": {
+          "date": "2023-05-10",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "974958ff81d9af92b01490bcc99dfc93f8bb5d30",
+              "author": "comfyanonymous",
+              "date": "2023-05-10T20:41:43.000Z",
+              "message": "Make the prompt_id a uuid and return it when queueing the prompt.",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-09": {
+          "date": "2023-05-09",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "314e526c5ce428a3717207c5c36a42a5c895b6a5",
+              "author": "comfyanonymous",
+              "date": "2023-05-09T16:18:18.000Z",
+              "message": "Not needed anymore because sampling works with any latent size.",
+              "linesAdded": 2,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-08": {
+          "date": "2023-05-08",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/t2i_adapter/adapter.py"
+          ],
+          "commits": [
+            {
+              "hash": "c6e34963e412e1960f73ad357d10c2b7bd1464e2",
+              "author": "comfyanonymous",
+              "date": "2023-05-08T22:15:19.000Z",
+              "message": "Make t2i adapter work with any latent resolution.",
+              "linesAdded": 6,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/t2i_adapter/adapter.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-07": {
+          "date": "2023-05-07",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "a1f12e370dc694a26528c382e81b2e5e297934e0",
+              "author": "comfyanonymous",
+              "date": "2023-05-07T21:19:03.000Z",
+              "message": "Merge branch 'autostart' of https://github.com/EllangoK/ComfyUI",
+              "linesAdded": 7,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-06": {
+          "date": "2023-05-06",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "6fc4917634d457c07eb8b676da4fa88e0ef4704b",
+              "author": "comfyanonymous",
+              "date": "2023-05-06T23:58:54.000Z",
+              "message": "Make maximum_batch_area take into account python2.0 attention function.",
+              "linesAdded": 11,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-05": {
+          "date": "2023-05-05",
+          "heatScore": 13,
+          "linesChanged": 52,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/gligen.py",
+            "comfy/ldm/modules/attention.py",
+            "comfy/ldm/modules/diffusionmodules/openaimodel.py",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "cb1551b819ecaa7d9044c13d0c8e8cfa4ff72830",
+              "author": "comfyanonymous",
+              "date": "2023-05-05T22:01:21.000Z",
+              "message": "Lowvram mode for gligen and fix some lowvram issues.",
+              "linesAdded": 41,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "comfy/gligen.py",
+                "comfy/ldm/modules/attention.py",
+                "comfy/ldm/modules/diffusionmodules/openaimodel.py",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-04": {
+          "date": "2023-05-04",
+          "heatScore": 15,
+          "linesChanged": 84,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cldm/cldm.py",
+            "comfy/gligen.py",
+            "comfy/ldm/models/autoencoder.py",
+            "comfy/ldm/models/diffusion/ddim.py",
+            "comfy/ldm/models/diffusion/ddpm.py",
+            "comfy/ldm/modules/attention.py",
+            "comfy/ldm/modules/diffusionmodules/model.py",
+            "comfy/ldm/modules/diffusionmodules/openaimodel.py",
+            "comfy/ldm/modules/diffusionmodules/upscaling.py",
+            "comfy/ldm/modules/diffusionmodules/util.py",
+            "comfy/ldm/modules/encoders/noise_aug_modules.py",
+            "comfy/model_management.py",
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "bae4fb4a9dc944c10cca922dc4442eef57bbf583",
+              "author": "comfyanonymous",
+              "date": "2023-05-04T22:07:41.000Z",
+              "message": "Fix imports.",
+              "linesAdded": 42,
+              "linesDeleted": 42,
+              "filesChanged": [
+                "comfy/cldm/cldm.py",
+                "comfy/gligen.py",
+                "comfy/ldm/models/autoencoder.py",
+                "comfy/ldm/models/diffusion/ddim.py",
+                "comfy/ldm/models/diffusion/ddpm.py",
+                "comfy/ldm/modules/attention.py",
+                "comfy/ldm/modules/diffusionmodules/model.py",
+                "comfy/ldm/modules/diffusionmodules/openaimodel.py",
+                "comfy/ldm/modules/diffusionmodules/upscaling.py",
+                "comfy/ldm/modules/diffusionmodules/util.py",
+                "comfy/ldm/modules/encoders/noise_aug_modules.py",
+                "comfy/model_management.py",
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-03": {
+          "date": "2023-05-03",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "comfy/utils.py",
+            "comfy_extras/nodes_upscale_model.py"
+          ],
+          "commits": [
+            {
+              "hash": "fcf513e0b6b599e23b7d6f9bde315be6f991652b",
+              "author": "comfyanonymous",
+              "date": "2023-05-03T21:48:35.000Z",
+              "message": "Refactor.",
+              "linesAdded": 8,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "comfy/sd.py",
+                "comfy/utils.py",
+                "comfy_extras/nodes_upscale_model.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-02": {
+          "date": "2023-05-02",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "comfy_extras/nodes_upscale_model.py"
+          ],
+          "commits": [
+            {
+              "hash": "06ad35b4932fe6cc4382d8b1dfa79fef8284362a",
+              "author": "pythongosssss",
+              "date": "2023-05-02T18:18:07.000Z",
+              "message": "added progress to encode + upscale",
+              "linesAdded": 16,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/sd.py",
+                "comfy_extras/nodes_upscale_model.py"
+              ]
+            }
+          ]
+        },
+        "2023-05-01": {
+          "date": "2023-05-01",
+          "heatScore": 15,
+          "linesChanged": 77,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "9c335a553fd9f8d4c3c97eeaec5dca89a2a900f0",
+              "author": "comfyanonymous",
+              "date": "2023-05-01T22:11:58.000Z",
+              "message": "LoKR support.",
+              "linesAdded": 77,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "yearMonth": "2010-12",
+  "generatedAt": "2026-09-24T02:37:24.825Z",
+  "username": "briancullinan2",
+  "projects": {
+    "mediaserver": {
+      "projectName": "mediaserver",
+      "localPath": "C:\\Users\\megam\\mediaserver",
+      "remoteUrl": "git@github.com:briancullinan2/mediaserver.git",
+      "lastUpdated": "2026-09-24T02:37:08.908Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2010-12-27": {
+          "date": "2010-12-27",
+          "heatScore": 27,
+          "linesChanged": 265,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "includes/common.inc",
+            "includes/error.inc",
+            "includes/session.inc",
+            "includes/settings.inc",
+            "includes/template.inc",
+            "includes/users.inc",
+            "modules/convert.module",
+            "modules/cron.module",
+            "modules/encode.module",
+            "modules/file_handlers/code.module",
+            "modules/sitemap.module",
+            "modules/tools/cli/cli.module",
+            "modules/tools/music_downloader/music_download.info",
+            "modules/tools/music_downloader/music_download.module",
+            "modules/tools/tv_downloader/tv_download.module",
+            "sites/default/settings.php.dist-gen"
+          ],
+          "commits": [
+            {
+              "hash": "b2ebc4c2fbbdf23adb3d7399009ca624bb3f2bf2",
+              "author": "bjcullinan",
+              "date": "2010-12-27T05:03:19.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@387 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 197,
+              "linesDeleted": 68,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "includes/common.inc",
+                "includes/error.inc",
+                "includes/session.inc",
+                "includes/settings.inc",
+                "includes/template.inc",
+                "includes/users.inc",
+                "modules/convert.module",
+                "modules/cron.module",
+                "modules/encode.module",
+                "modules/file_handlers/code.module",
+                "modules/sitemap.module",
+                "modules/tools/cli/cli.module",
+                "modules/tools/music_downloader/music_download.info",
+                "modules/tools/music_downloader/music_download.module",
+                "modules/tools/tv_downloader/tv_download.module",
+                "sites/default/settings.php.dist-gen"
+              ]
+            }
+          ]
+        },
+        "2010-12-26": {
+          "date": "2010-12-26",
+          "heatScore": 18,
+          "linesChanged": 131,
+          "commitCount": 1,
+          "filesEdited": [
+            "includes/common.inc",
+            "includes/error.inc",
+            "includes/file.inc",
+            "includes/menu.inc",
+            "includes/module.inc",
+            "includes/settings.inc",
+            "modules/convert.module",
+            "modules/tools/cli/cli.module",
+            "modules/tools/download_services/download_services.module",
+            "modules/tools/music_downloader/msdl.singular.inc",
+            "modules/tools/music_downloader/music_download.module",
+            "templates/live/css/select.css",
+            "templates/live/header.php",
+            "templates/live/select.php"
+          ],
+          "commits": [
+            {
+              "hash": "bdbcc7f0e350c4f9b2c1d14411529e29bd52103e",
+              "author": "bjcullinan",
+              "date": "2010-12-26T20:44:07.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@386 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 91,
+              "linesDeleted": 40,
+              "filesChanged": [
+                "includes/common.inc",
+                "includes/error.inc",
+                "includes/file.inc",
+                "includes/menu.inc",
+                "includes/module.inc",
+                "includes/settings.inc",
+                "modules/convert.module",
+                "modules/tools/cli/cli.module",
+                "modules/tools/download_services/download_services.module",
+                "modules/tools/music_downloader/msdl.singular.inc",
+                "modules/tools/music_downloader/music_download.module",
+                "templates/live/css/select.css",
+                "templates/live/header.php",
+                "templates/live/select.php"
+              ]
+            }
+          ]
+        },
+        "2010-12-24": {
+          "date": "2010-12-24",
+          "heatScore": 22,
+          "linesChanged": 191,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "includes/common.inc",
+            "includes/file.inc",
+            "includes/request.inc",
+            "includes/settings.inc",
+            "includes/users.inc",
+            "modules/convert.module",
+            "modules/core/files.module",
+            "modules/core/ids.module",
+            "modules/core/watched.module",
+            "modules/encode.module",
+            "modules/file_handlers/artists.module",
+            "modules/file_handlers/audio.module",
+            "modules/file_handlers/code.module",
+            "modules/file_handlers/discogs.module",
+            "modules/file_handlers/image.module",
+            "modules/file_handlers/movies.module",
+            "modules/file_handlers/video.module",
+            "templates/live/errors.php",
+            "templates/live/select.php"
+          ],
+          "commits": [
+            {
+              "hash": "a020c7a535cec945c726b57782e1c4650dbf1d07",
+              "author": "bjcullinan",
+              "date": "2010-12-24T07:42:58.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@385 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 115,
+              "linesDeleted": 76,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "includes/common.inc",
+                "includes/file.inc",
+                "includes/request.inc",
+                "includes/settings.inc",
+                "includes/users.inc",
+                "modules/convert.module",
+                "modules/core/files.module",
+                "modules/core/ids.module",
+                "modules/core/watched.module",
+                "modules/encode.module",
+                "modules/file_handlers/artists.module",
+                "modules/file_handlers/audio.module",
+                "modules/file_handlers/code.module",
+                "modules/file_handlers/discogs.module",
+                "modules/file_handlers/image.module",
+                "modules/file_handlers/movies.module",
+                "modules/file_handlers/video.module",
+                "templates/live/errors.php",
+                "templates/live/select.php"
+              ]
+            }
+          ]
+        },
+        "2010-12-23": {
+          "date": "2010-12-23",
+          "heatScore": 76,
+          "linesChanged": 993,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "includes/common.inc",
+            "includes/curl.inc",
+            "includes/database.inc",
+            "includes/error.inc",
+            "includes/forms.inc",
+            "modules/core/files.module",
+            "modules/core/select.module",
+            "modules/file_handlers/artists.info",
+            "modules/file_handlers/artists.module",
+            "modules/file_handlers/audio.module",
+            "modules/file_handlers/discogs.info",
+            "modules/file_handlers/discogs.module",
+            "modules/file_handlers/movies.module",
+            "modules/search.module",
+            "modules/tools/cli/cli.module",
+            "modules/tools/cli/theme.inc",
+            "modules/tools/download_services/download_services.info",
+            "modules/tools/download_services/download_services.module",
+            "modules/tools/movie_downloader/movie_download.module",
+            "modules/tools/movie_downloader/mvdl.singular.inc",
+            "modules/tools/music_downloader/msdl.singular.inc",
+            "modules/tools/music_downloader/music_download.module",
+            "modules/tools/theme.inc",
+            "modules/tools/tv_downloader/tv_download.module",
+            "modules/tools/tv_downloader/tvdl.singular.inc"
+          ],
+          "commits": [
+            {
+              "hash": "9f2772f6a8b61b29b920ecf826dd03fbf4eeee35",
+              "author": "bjcullinan",
+              "date": "2010-12-23T11:39:24.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@382 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 704,
+              "linesDeleted": 289,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "includes/common.inc",
+                "includes/curl.inc",
+                "includes/database.inc",
+                "includes/error.inc",
+                "includes/forms.inc",
+                "modules/core/files.module",
+                "modules/core/select.module",
+                "modules/file_handlers/artists.info",
+                "modules/file_handlers/artists.module",
+                "modules/file_handlers/audio.module",
+                "modules/file_handlers/discogs.info",
+                "modules/file_handlers/discogs.module",
+                "modules/file_handlers/movies.module",
+                "modules/search.module",
+                "modules/tools/cli/cli.module",
+                "modules/tools/cli/theme.inc",
+                "modules/tools/download_services/download_services.info",
+                "modules/tools/download_services/download_services.module",
+                "modules/tools/movie_downloader/movie_download.module",
+                "modules/tools/movie_downloader/mvdl.singular.inc",
+                "modules/tools/music_downloader/msdl.singular.inc",
+                "modules/tools/music_downloader/music_download.module",
+                "modules/tools/theme.inc",
+                "modules/tools/tv_downloader/tv_download.module",
+                "modules/tools/tv_downloader/tvdl.singular.inc"
+              ]
+            }
+          ]
+        },
+        "2010-12-22": {
+          "date": "2010-12-22",
+          "heatScore": 19,
+          "linesChanged": 145,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "includes/curl.inc",
+            "modules/tools/cli/cli.module",
+            "modules/tools/download_services/download_services.info",
+            "modules/tools/download_services/download_services.module",
+            "modules/tools/download_services/torservices.module",
+            "modules/tools/music_downloader/msdl.singular.inc"
+          ],
+          "commits": [
+            {
+              "hash": "c8785aba9af0d293dc83f9a002678cd560b099dc",
+              "author": "bjcullinan",
+              "date": "2010-12-22T02:29:48.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@381 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 127,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "includes/curl.inc",
+                "modules/tools/cli/cli.module",
+                "modules/tools/download_services/download_services.info",
+                "modules/tools/download_services/download_services.module",
+                "modules/tools/download_services/torservices.module",
+                "modules/tools/music_downloader/msdl.singular.inc"
+              ]
+            }
+          ]
+        },
+        "2010-12-21": {
+          "date": "2010-12-21",
+          "heatScore": 11,
+          "linesChanged": 29,
+          "commitCount": 1,
+          "filesEdited": [
+            "modules/tools/download_services/theme.inc"
+          ],
+          "commits": [
+            {
+              "hash": "ec38c69bc1145d69d9313626c41db25b2b8441e1",
+              "author": "bjcullinan",
+              "date": "2010-12-21T10:13:28.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@380 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 29,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "modules/tools/download_services/theme.inc"
+              ]
+            }
+          ]
+        },
+        "2010-12-18": {
+          "date": "2010-12-18",
+          "heatScore": 26,
+          "linesChanged": 241,
+          "commitCount": 1,
+          "filesEdited": [
+            "TODO.TXT",
+            "includes/common.inc",
+            "includes/database.inc",
+            "includes/error.inc",
+            "includes/menu.inc",
+            "includes/template.inc",
+            "modules/ampache/ampache.module",
+            "modules/core/files.module",
+            "modules/encode.module",
+            "modules/tools/cli/cli.module",
+            "modules/tools/cli/theme.inc",
+            "modules/webdav/webdav.class.php",
+            "modules/webdav/webdav.info",
+            "modules/webdav/webdav.module"
+          ],
+          "commits": [
+            {
+              "hash": "403cd99853f2e8cc16b94e9854e88243482b6915",
+              "author": "bjcullinan",
+              "date": "2010-12-18T00:50:08.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@378 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 179,
+              "linesDeleted": 62,
+              "filesChanged": [
+                "TODO.TXT",
+                "includes/common.inc",
+                "includes/database.inc",
+                "includes/error.inc",
+                "includes/menu.inc",
+                "includes/template.inc",
+                "modules/ampache/ampache.module",
+                "modules/core/files.module",
+                "modules/encode.module",
+                "modules/tools/cli/cli.module",
+                "modules/tools/cli/theme.inc",
+                "modules/webdav/webdav.class.php",
+                "modules/webdav/webdav.info",
+                "modules/webdav/webdav.module"
+              ]
+            }
+          ]
+        },
+        "2010-12-08": {
+          "date": "2010-12-08",
+          "heatScore": 16,
+          "linesChanged": 100,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "includes/common.inc",
+            "includes/error.inc",
+            "includes/module.inc",
+            "includes/request.inc",
+            "includes/settings.inc",
+            "includes/users.inc",
+            "index.php",
+            "modules/core/files.module",
+            "modules/core/select.module",
+            "modules/sitemap.module",
+            "templates/live/select.php",
+            "templates/live/users.php"
+          ],
+          "commits": [
+            {
+              "hash": "fd45977dead16d4c328de8d1ae6721b4d50d3abd",
+              "author": "bjcullinan",
+              "date": "2010-12-08T05:31:40.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@377 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 68,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "includes/common.inc",
+                "includes/error.inc",
+                "includes/module.inc",
+                "includes/request.inc",
+                "includes/settings.inc",
+                "includes/users.inc",
+                "index.php",
+                "modules/core/files.module",
+                "modules/core/select.module",
+                "modules/sitemap.module",
+                "templates/live/select.php",
+                "templates/live/users.php"
+              ]
+            }
+          ]
+        },
+        "2010-12-03": {
+          "date": "2010-12-03",
+          "heatScore": 22,
+          "linesChanged": 193,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "includes/bootstrap.inc",
+            "includes/common.inc",
+            "includes/database.inc",
+            "includes/error.inc",
+            "includes/file.inc",
+            "includes/forms.inc",
+            "includes/menu.inc",
+            "includes/module.inc",
+            "includes/request.inc",
+            "includes/session.inc",
+            "includes/settings.inc",
+            "includes/template.inc",
+            "includes/theme.inc",
+            "includes/users.inc",
+            "templates/live/errors.php",
+            "templates/live/js/dragclick.js",
+            "templates/live/live.module"
+          ],
+          "commits": [
+            {
+              "hash": "84ea9f55fecef7ceccaa8286e05baa46c41a91c9",
+              "author": "bjcullinan",
+              "date": "2010-12-03T09:08:53.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@375 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 64,
+              "linesDeleted": 129,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "includes/bootstrap.inc",
+                "includes/common.inc",
+                "includes/database.inc",
+                "includes/error.inc",
+                "includes/file.inc",
+                "includes/forms.inc",
+                "includes/menu.inc",
+                "includes/module.inc",
+                "includes/request.inc",
+                "includes/session.inc",
+                "includes/settings.inc",
+                "includes/template.inc",
+                "includes/theme.inc",
+                "includes/users.inc",
+                "templates/live/errors.php",
+                "templates/live/js/dragclick.js",
+                "templates/live/live.module"
+              ]
+            }
+          ]
+        },
+        "2010-12-01": {
+          "date": "2010-12-01",
+          "heatScore": 50,
+          "linesChanged": 603,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "includes/bootstrap.inc",
+            "includes/common.inc",
+            "includes/curl.inc",
+            "includes/error.inc",
+            "includes/file.inc",
+            "includes/forms.inc",
+            "includes/menu.inc",
+            "includes/request.inc",
+            "includes/session.inc",
+            "includes/settings.inc",
+            "includes/template.inc",
+            "includes/theme.inc",
+            "includes/users.inc",
+            "index.php",
+            "modules/core/files.module",
+            "modules/core/watched.module",
+            "modules/cron.module",
+            "modules/file_handlers/discogs.info",
+            "modules/file_handlers/discogs.module",
+            "modules/file_handlers/movies.info",
+            "modules/tools/cli/cli.module",
+            "modules/tools/cli/theme.inc",
+            "modules/tools/download_services/download_services.module",
+            "modules/tools/theme.inc",
+            "templates/groove/groove.info",
+            "templates/live/errors.php"
+          ],
+          "commits": [
+            {
+              "hash": "8df7116b78fc4bba15a2ac864b585ac23d2ca17f",
+              "author": "bjcullinan",
+              "date": "2010-12-01T00:54:00.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@371 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 430,
+              "linesDeleted": 173,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "includes/bootstrap.inc",
+                "includes/common.inc",
+                "includes/curl.inc",
+                "includes/error.inc",
+                "includes/file.inc",
+                "includes/forms.inc",
+                "includes/menu.inc",
+                "includes/request.inc",
+                "includes/session.inc",
+                "includes/settings.inc",
+                "includes/template.inc",
+                "includes/theme.inc",
+                "includes/users.inc",
+                "index.php",
+                "modules/core/files.module",
+                "modules/core/watched.module",
+                "modules/cron.module",
+                "modules/file_handlers/discogs.info",
+                "modules/file_handlers/discogs.module",
+                "modules/file_handlers/movies.info",
+                "modules/tools/cli/cli.module",
+                "modules/tools/cli/theme.inc",
+                "modules/tools/download_services/download_services.module",
+                "modules/tools/theme.inc",
+                "templates/groove/groove.info",
+                "templates/live/errors.php"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

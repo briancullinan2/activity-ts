@@ -1,0 +1,209 @@
+{
+  "projectName": "baseq3a",
+  "localPath": "D:\\baseq3a",
+  "remoteUrl": "https://github.com/ec-/baseq3a.git",
+  "lastUpdated": "2026-09-26T05:13:43.245Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2026-06-12": {
+      "date": "2026-06-12",
+      "heatScore": 51,
+      "linesChanged": 617,
+      "commitCount": 1,
+      "filesEdited": [
+        "assets/ui/cdkey.menu",
+        "assets/ui/connect.menu",
+        "assets/ui/controls.menu",
+        "assets/ui/createserver.menu",
+        "assets/ui/credit.menu",
+        "assets/ui/demo.menu",
+        "assets/ui/error.menu",
+        "assets/ui/ingame.menu",
+        "assets/ui/ingame_addbot.menu",
+        "assets/ui/ingame_callvote.menu",
+        "assets/ui/ingame_main.menu",
+        "assets/ui/ingame_options.menu",
+        "assets/ui/ingame_removebot.menu",
+        "assets/ui/intro.menu",
+        "assets/ui/joinserver.menu",
+        "assets/ui/main.menu",
+        "assets/ui/menus.txt",
+        "assets/ui/mod.menu",
+        "assets/ui/options.menu",
+        "assets/ui/password.menu",
+        "assets/ui/player.menu",
+        "assets/ui/quit.menu",
+        "assets/ui/serverinfo.menu",
+        "assets/ui/setup.menu",
+        "assets/ui/singleplayer.menu",
+        "assets/ui/sppostgame.menu",
+        "assets/ui/spskill.menu",
+        "assets/ui/system.menu"
+      ],
+      "commits": [
+        {
+          "hash": "ba7c0449034842a30eb6f714190cd263cf1be18c",
+          "author": "Brian Cullinan",
+          "date": "2026-06-12T23:10:49.000Z",
+          "message": "soon to convert quake 3 classic menu system to .menu team arena style",
+          "linesAdded": 617,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "assets/ui/cdkey.menu",
+            "assets/ui/connect.menu",
+            "assets/ui/controls.menu",
+            "assets/ui/createserver.menu",
+            "assets/ui/credit.menu",
+            "assets/ui/demo.menu",
+            "assets/ui/error.menu",
+            "assets/ui/ingame.menu",
+            "assets/ui/ingame_addbot.menu",
+            "assets/ui/ingame_callvote.menu",
+            "assets/ui/ingame_main.menu",
+            "assets/ui/ingame_options.menu",
+            "assets/ui/ingame_removebot.menu",
+            "assets/ui/intro.menu",
+            "assets/ui/joinserver.menu",
+            "assets/ui/main.menu",
+            "assets/ui/menus.txt",
+            "assets/ui/mod.menu",
+            "assets/ui/options.menu",
+            "assets/ui/password.menu",
+            "assets/ui/player.menu",
+            "assets/ui/quit.menu",
+            "assets/ui/serverinfo.menu",
+            "assets/ui/setup.menu",
+            "assets/ui/singleplayer.menu",
+            "assets/ui/sppostgame.menu",
+            "assets/ui/spskill.menu",
+            "assets/ui/system.menu"
+          ]
+        }
+      ]
+    },
+    "2026-06-02": {
+      "date": "2026-06-02",
+      "heatScore": 10,
+      "linesChanged": 2,
+      "commitCount": 1,
+      "filesEdited": [
+        "code/q3_ui/ui_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "c93223b0b613953c7a930b0182b1519e7df47e5f",
+          "author": "Brian Cullinan",
+          "date": "2026-06-02T21:59:25.000Z",
+          "message": "Reset message from debugging",
+          "linesAdded": 0,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/q3_ui/ui_main.c"
+          ]
+        }
+      ]
+    },
+    "2026-05-29": {
+      "date": "2026-05-29",
+      "heatScore": 20,
+      "linesChanged": 6,
+      "commitCount": 2,
+      "filesEdited": [
+        "code/q3_ui/ui_main.c",
+        "code/ui/ui_main.c"
+      ],
+      "commits": [
+        {
+          "hash": "3bbc651473bb981c059e1f7dbb6f779bd3d8c40c",
+          "author": "Brian Cullinan",
+          "date": "2026-05-29T20:51:35.000Z",
+          "message": "still bugging out",
+          "linesAdded": 2,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/q3_ui/ui_main.c"
+          ]
+        },
+        {
+          "hash": "7125e6fba1574bf0d9c39978682b7d3854200305",
+          "author": "Brian Cullinan",
+          "date": "2026-05-29T14:43:51.000Z",
+          "message": "param fix for wasm",
+          "linesAdded": 2,
+          "linesDeleted": 2,
+          "filesChanged": [
+            "code/q3_ui/ui_main.c",
+            "code/ui/ui_main.c"
+          ]
+        }
+      ]
+    },
+    "2026-05-27": {
+      "date": "2026-05-27",
+      "heatScore": 52,
+      "linesChanged": 37,
+      "commitCount": 5,
+      "filesEdited": [
+        "code/game/bg_lib.c",
+        "code/game/q_shared.h"
+      ],
+      "commits": [
+        {
+          "hash": "fdc2f2ac39182760d15ecaa6dd362e374e085fd5",
+          "author": "Brian Cullinan",
+          "date": "2026-05-28T03:40:33.000Z",
+          "message": "Remove unused atan2 function definition",
+          "linesAdded": 5,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/game/bg_lib.c"
+          ]
+        },
+        {
+          "hash": "47fb47edf4c101bbe5d39306ed1a934ce59a5e28",
+          "author": "Brian Cullinan",
+          "date": "2026-05-28T03:38:49.000Z",
+          "message": "Implement memcmp function for WASM",
+          "linesAdded": 14,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/game/bg_lib.c"
+          ]
+        },
+        {
+          "hash": "029674e57eb35af413719e04b9f7d47e60d959a6",
+          "author": "Brian Cullinan",
+          "date": "2026-05-28T03:26:23.000Z",
+          "message": "Fix formatting in bg_lib.c",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/game/bg_lib.c"
+          ]
+        },
+        {
+          "hash": "2e8e06916bf28ec7550b42ec1052c0a17f81d055",
+          "author": "Brian Cullinan",
+          "date": "2026-05-28T03:22:18.000Z",
+          "message": "Enable floor function for WASM platform",
+          "linesAdded": 1,
+          "linesDeleted": 1,
+          "filesChanged": [
+            "code/game/bg_lib.c"
+          ]
+        },
+        {
+          "hash": "fde608f292993752f7c7f3f87c2c426cff12d379",
+          "author": "Brian Cullinan",
+          "date": "2026-05-27T20:51:08.000Z",
+          "message": "Add Web Assembly defines for compatibility",
+          "linesAdded": 14,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "code/game/q_shared.h"
+          ]
+        }
+      ]
+    }
+  }
+}

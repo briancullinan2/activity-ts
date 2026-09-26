@@ -1,0 +1,952 @@
+{
+  "yearMonth": "2023-09",
+  "generatedAt": "2026-09-24T02:37:24.647Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-09-30": {
+          "date": "2023-09-30",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "421c7bf0c33d263eb441fe82f1bdfa9ab1b566ef",
+              "author": "Brian Cullinan",
+              "date": "2023-09-30T19:10:14.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 4,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-09-28": {
+          "date": "2023-09-28",
+          "heatScore": 12,
+          "linesChanged": 32,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1b8c039ed011679f3cf89922c934a438eb9fa16b",
+              "author": "Brian Cullinan",
+              "date": "2023-09-28T20:00:32.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 31,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-09-24": {
+          "date": "2023-09-24",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "e12b9f9d19043f09d7c0eba6836106defd059c01",
+              "author": "Brian Cullinan",
+              "date": "2023-09-24T20:29:44.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 36,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-09-22": {
+          "date": "2023-09-22",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "743c3abaffc1f3a771947b044671d4a76c790d4a",
+              "author": "Brian Cullinan",
+              "date": "2023-09-22T08:32:01.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 4,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-09-18": {
+          "date": "2023-09-18",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6bd1f1386aaef4e916110ffc04bb5ab90308e07d",
+              "author": "Brian Cullinan",
+              "date": "2023-09-18T20:19:20.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 9,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-09-03": {
+          "date": "2023-09-03",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "592e42b19b2adbf5c12439a01b4d256710ba207d",
+              "author": "Brian Cullinan",
+              "date": "2023-09-03T10:02:41.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 9,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-09-03": {
+          "date": "2023-09-03",
+          "heatScore": 100,
+          "linesChanged": 3321,
+          "commitCount": 1,
+          "filesEdited": [
+            ".env",
+            "README.md",
+            "package-lock.json",
+            "package.json",
+            "src/bitmappery.vue",
+            "src/components/application-menu/application-menu.vue",
+            "src/components/application-menu/messages.json",
+            "src/components/cloud-file-selector/aws-s3/aws-s3-file-selector.vue",
+            "src/components/cloud-file-selector/aws-s3/aws-s3-image-preview.vue",
+            "src/components/cloud-file-selector/cloud-file-selector.vue",
+            "src/components/file-import/aws-s3-connector/aws-s3-connector.vue",
+            "src/components/file-import/aws-s3-connector/messages.json",
+            "src/components/file-import/file-import.vue",
+            "src/components/file-import/messages.json",
+            "src/components/file-menu/save-document/aws-s3/messages.json",
+            "src/components/file-menu/save-document/aws-s3/save-s3-document.vue",
+            "src/components/file-menu/save-document/dropbox/save-dropbox-document.vue",
+            "src/components/file-menu/save-document/google-drive/save-google-drive-document.vue",
+            "src/components/file-menu/save-document/messages.json",
+            "src/components/file-menu/save-document/save-document.vue",
+            "src/definitions/file-types.ts",
+            "src/definitions/modal-windows.ts",
+            "src/definitions/storage-types.ts",
+            "src/math/image-math.ts",
+            "src/messages.json",
+            "src/mixins/cloud-service-connector.ts",
+            "src/services/aws-s3-service.ts",
+            "src/services/dropbox-service.ts",
+            "src/services/google-drive-service.ts",
+            "src/services/keyboard-service.ts",
+            "src/services/pdf-import-service.ts",
+            "src/store/index.ts",
+            "src/styles/third-party.scss",
+            "src/utils/canvas-util.ts",
+            "src/utils/cloud-service-loader.ts",
+            "src/utils/file-util.ts",
+            "src/utils/string-util.ts",
+            "tests/unit/definitions/file-types.spec.ts",
+            "tests/unit/math/image-math.spec.ts",
+            "tests/unit/services/aws-s3-service.spec.ts",
+            "tests/unit/store/store.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "c2204e0a3ea5ee90b4c2f68c30466022174b05fd",
+              "author": "Igor Zinken",
+              "date": "2023-09-03T14:23:56.000Z",
+              "message": "Implement support for S3 based storage providers (#30)",
+              "linesAdded": 2972,
+              "linesDeleted": 349,
+              "filesChanged": [
+                ".env",
+                "README.md",
+                "package-lock.json",
+                "package.json",
+                "src/bitmappery.vue",
+                "src/components/application-menu/application-menu.vue",
+                "src/components/application-menu/messages.json",
+                "src/components/cloud-file-selector/aws-s3/aws-s3-file-selector.vue",
+                "src/components/cloud-file-selector/aws-s3/aws-s3-image-preview.vue",
+                "src/components/cloud-file-selector/cloud-file-selector.vue",
+                "src/components/file-import/aws-s3-connector/aws-s3-connector.vue",
+                "src/components/file-import/aws-s3-connector/messages.json",
+                "src/components/file-import/file-import.vue",
+                "src/components/file-import/messages.json",
+                "src/components/file-menu/save-document/aws-s3/messages.json",
+                "src/components/file-menu/save-document/aws-s3/save-s3-document.vue",
+                "src/components/file-menu/save-document/dropbox/save-dropbox-document.vue",
+                "src/components/file-menu/save-document/google-drive/save-google-drive-document.vue",
+                "src/components/file-menu/save-document/messages.json",
+                "src/components/file-menu/save-document/save-document.vue",
+                "src/definitions/file-types.ts",
+                "src/definitions/modal-windows.ts",
+                "src/definitions/storage-types.ts",
+                "src/math/image-math.ts",
+                "src/messages.json",
+                "src/mixins/cloud-service-connector.ts",
+                "src/services/aws-s3-service.ts",
+                "src/services/dropbox-service.ts",
+                "src/services/google-drive-service.ts",
+                "src/services/keyboard-service.ts",
+                "src/services/pdf-import-service.ts",
+                "src/store/index.ts",
+                "src/styles/third-party.scss",
+                "src/utils/canvas-util.ts",
+                "src/utils/cloud-service-loader.ts",
+                "src/utils/file-util.ts",
+                "src/utils/string-util.ts",
+                "tests/unit/definitions/file-types.spec.ts",
+                "tests/unit/math/image-math.spec.ts",
+                "tests/unit/services/aws-s3-service.spec.ts",
+                "tests/unit/store/store.spec.ts"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-09-23": {
+          "date": "2023-09-23",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_compositing.py"
+          ],
+          "commits": [
+            {
+              "hash": "214ca7197ef753bce3b40f642c6775d919568c2f",
+              "author": "MoonRide303",
+              "date": "2023-09-23T22:12:55.000Z",
+              "message": "Corrected joining images with alpha (for RGBA input), and checking scaling conditions",
+              "linesAdded": 7,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy_extras/nodes_compositing.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-22": {
+          "date": "2023-09-22",
+          "heatScore": 27,
+          "linesChanged": 267,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_compositing.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "d06cd2805d86d7a9ed7485b6a0c7e113cff27d8e",
+              "author": "MoonRide303",
+              "date": "2023-09-22T21:03:22.000Z",
+              "message": "Added support for Porter-Duff image compositing",
+              "linesAdded": 267,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_compositing.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-30": {
+          "date": "2023-09-30",
+          "heatScore": 11,
+          "linesChanged": 24,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_custom_sampler.py"
+          ],
+          "commits": [
+            {
+              "hash": "8ab49dc0a4768f17c5a46627fd5601a484549a5b",
+              "author": "comfyanonymous",
+              "date": "2023-09-30T05:31:52.000Z",
+              "message": "DPMPP_SDE node.",
+              "linesAdded": 24,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_custom_sampler.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-29": {
+          "date": "2023-09-29",
+          "heatScore": 12,
+          "linesChanged": 39,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_custom_sampler.py"
+          ],
+          "commits": [
+            {
+              "hash": "213976f8c3ea3f45f0c692dd8aac2fd9fea433e3",
+              "author": "comfyanonymous",
+              "date": "2023-09-29T13:05:30.000Z",
+              "message": "Add ExponentialScheduler and PolyexponentialScheduler nodes.",
+              "linesAdded": 39,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_custom_sampler.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-28": {
+          "date": "2023-09-28",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_custom_sampler.py"
+          ],
+          "commits": [
+            {
+              "hash": "26b73728053a786c429356fc02a7c98868d2ba02",
+              "author": "comfyanonymous",
+              "date": "2023-09-28T05:11:22.000Z",
+              "message": "Fix SplitSigmas.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_custom_sampler.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-27": {
+          "date": "2023-09-27",
+          "heatScore": 13,
+          "linesChanged": 57,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sample.py",
+            "latent_preview.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "bf3fc2f1b7f5b5cf684246be84838e6fc19aeb06",
+              "author": "comfyanonymous",
+              "date": "2023-09-27T20:45:22.000Z",
+              "message": "Refactor sampling related code.",
+              "linesAdded": 32,
+              "linesDeleted": 25,
+              "filesChanged": [
+                "comfy/sample.py",
+                "latent_preview.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-26": {
+          "date": "2023-09-26",
+          "heatScore": 14,
+          "linesChanged": 66,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "1d6dd8318463e896abf9f99cf5381438ee64d302",
+              "author": "comfyanonymous",
+              "date": "2023-09-26T20:25:34.000Z",
+              "message": "Scheduler code refactor.",
+              "linesAdded": 33,
+              "linesDeleted": 33,
+              "filesChanged": [
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-25": {
+          "date": "2023-09-25",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_mask.py"
+          ],
+          "commits": [
+            {
+              "hash": "d2cec6cdbf5361413ddf624c72b0b9b2a7a156ee",
+              "author": "comfyanonymous",
+              "date": "2023-09-25T20:19:13.000Z",
+              "message": "Make mask functions work with batches of masks and images.",
+              "linesAdded": 19,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "comfy_extras/nodes_mask.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-24": {
+          "date": "2023-09-24",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_freelunch.py"
+          ],
+          "commits": [
+            {
+              "hash": "f00471cdc8f92c930436cf288f1c12119f638a67",
+              "author": "comfyanonymous",
+              "date": "2023-09-24T22:09:44.000Z",
+              "message": "Do FreeU fft on CPU if the device doesn't support fft functions.",
+              "linesAdded": 12,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_freelunch.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-21": {
+          "date": "2023-09-21",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_base.py",
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "492db2de8db7e082addf131b40adb4a1b7535821",
+              "author": "comfyanonymous",
+              "date": "2023-09-21T05:14:42.000Z",
+              "message": "Allow having a different pooled output for each image in a batch.",
+              "linesAdded": 4,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/model_base.py",
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-20": {
+          "date": "2023-09-20",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "1122df1a2018eda31605703e7b3388ad80f209e1",
+              "author": "comfyanonymous",
+              "date": "2023-09-20T21:58:54.000Z",
+              "message": "Increase range of lora strengths.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-19": {
+          "date": "2023-09-19",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "f895260e5e800711cadee30cb59962b2653fffb0",
+              "author": "comfyanonymous",
+              "date": "2023-09-19T17:13:40.000Z",
+              "message": "Merge branch 'escape-glob' of https://github.com/seanlynch/ComfyUI",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-18": {
+          "date": "2023-09-18",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "01094316268cab9ed5cd53b825b359a7becb9d6c",
+              "author": "comfyanonymous",
+              "date": "2023-09-18T20:20:03.000Z",
+              "message": "Lower the minimum resolution of EmptyLatentImage.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-17": {
+          "date": "2023-09-17",
+          "heatScore": 12,
+          "linesChanged": 35,
+          "commitCount": 1,
+          "filesEdited": [
+            "custom_nodes/example_node.py.example",
+            "nodes.py",
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "db63aa7e53c459b016cfa4159be004e59af84da9",
+              "author": "comfyanonymous",
+              "date": "2023-09-17T16:49:06.000Z",
+              "message": "Nodes can now control the rounding in the UI.",
+              "linesAdded": 25,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "custom_nodes/example_node.py.example",
+                "nodes.py",
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2023-09-16": {
+          "date": "2023-09-16",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "d6d9b83447492215a32b489d4e0095be55b8eb29",
+              "author": "comfyanonymous",
+              "date": "2023-09-16T19:43:42.000Z",
+              "message": "Merge branch 'fix/preview_ratio' of https://github.com/ltdrdata/ComfyUI",
+              "linesAdded": 11,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-09-15": {
+          "date": "2023-09-15",
+          "heatScore": 12,
+          "linesChanged": 33,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py",
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "415abb275f8ef74615cbb3c5ebc90b20d1a713b7",
+              "author": "comfyanonymous",
+              "date": "2023-09-15T23:22:47.000Z",
+              "message": "Add DDPM sampler.",
+              "linesAdded": 32,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py",
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-14": {
+          "date": "2023-09-14",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd2_clip.py"
+          ],
+          "commits": [
+            {
+              "hash": "0d8f3764468999bc34700799553919ded9b34ef8",
+              "author": "comfyanonymous",
+              "date": "2023-09-14T22:12:36.000Z",
+              "message": "Set last layer on SD2.x models uses the proper indexes now.",
+              "linesAdded": 0,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "comfy/sd2_clip.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-13": {
+          "date": "2023-09-13",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "0e4395a8a3f7b5da15c46308eee9721ce3f4f475",
+              "author": "pythongosssss",
+              "date": "2023-09-13T17:42:44.000Z",
+              "message": "Allow pasting nodes with connections in firefox",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-09-12": {
+          "date": "2023-09-12",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore"
+          ],
+          "commits": [
+            {
+              "hash": "0b829fe35b3ae626494735eb149c43345e5c55a4",
+              "author": "comfyanonymous",
+              "date": "2023-09-12T22:44:05.000Z",
+              "message": ".gitignore refactor.",
+              "linesAdded": 9,
+              "linesDeleted": 9,
+              "filesChanged": [
+                ".gitignore"
+              ]
+            }
+          ]
+        },
+        "2023-09-11": {
+          "date": "2023-09-11",
+          "heatScore": 12,
+          "linesChanged": 34,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "7d401ed1d0fcc78b14d61d9f585ace40b9de0ddb",
+              "author": "comfyanonymous",
+              "date": "2023-09-11T20:36:50.000Z",
+              "message": "Add ldm format support to UNETLoader.",
+              "linesAdded": 20,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-10": {
+          "date": "2023-09-10",
+          "heatScore": 11,
+          "linesChanged": 25,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "9562a6b49e63e63a16f3e45ff4965f72385f51fa",
+              "author": "comfyanonymous",
+              "date": "2023-09-10T15:19:31.000Z",
+              "message": "Fix a few clipboard issues.",
+              "linesAdded": 6,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-09-09": {
+          "date": "2023-09-09",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "07691e80c3bf9be16c629169e259105ca5327bf0",
+              "author": "comfyanonymous",
+              "date": "2023-09-09T07:15:31.000Z",
+              "message": "Does it make sense to allow configuring the round and precision?",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2023-09-08": {
+          "date": "2023-09-08",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/clip_vision.py"
+          ],
+          "commits": [
+            {
+              "hash": "e85be36bd2c12f335abdf75669b994c535bbb126",
+              "author": "comfyanonymous",
+              "date": "2023-09-08T18:06:58.000Z",
+              "message": "Add a penultimate_hidden_states to the clip vision output.",
+              "linesAdded": 6,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/clip_vision.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-07": {
+          "date": "2023-09-07",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "9261587d8975bb0c3f929433345e9918bf659460",
+              "author": "comfyanonymous",
+              "date": "2023-09-07T22:14:30.000Z",
+              "message": "Small refactor.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-09-06": {
+          "date": "2023-09-06",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/lib/litegraph.core.js"
+          ],
+          "commits": [
+            {
+              "hash": "cb080e771e1e792e18611ef63d2d6a49aa50a524",
+              "author": "comfyanonymous",
+              "date": "2023-09-06T20:18:02.000Z",
+              "message": "Lower refresh timeout for search in litegraph.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/lib/litegraph.core.js"
+              ]
+            }
+          ]
+        },
+        "2023-09-05": {
+          "date": "2023-09-05",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "bc1f6e21856f7be25db5c5c2956b89c27db93b3d",
+              "author": "Michael Poutre",
+              "date": "2023-09-05T22:06:46.000Z",
+              "message": "fix(ui/widgets): Only set widget forceInput option if a widget is added",
+              "linesAdded": 4,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-09-04": {
+          "date": "2023-09-04",
+          "heatScore": 18,
+          "linesChanged": 122,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js",
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "2d9d3ca38be4b6060b7553ca5266675fdf121ad1",
+              "author": "comfyanonymous",
+              "date": "2023-09-04T18:51:19.000Z",
+              "message": "Merge branch 'master' of https://github.com/miabrahams/ComfyUI",
+              "linesAdded": 102,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "web/scripts/app.js",
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2023-09-03": {
+          "date": "2023-09-03",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "2419901e6c7575a062768fd632b4ea89418c8231",
+              "author": "comfyanonymous",
+              "date": "2023-09-03T20:59:41.000Z",
+              "message": "Merge branch 'addOnExecutionStart' of https://github.com/chrisgoringe/ComfyUI",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-09-02": {
+          "date": "2023-09-02",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "dfd6489c9622fdf48728e336fc263df283c84903",
+              "author": "Chris",
+              "date": "2023-09-02T21:53:02.000Z",
+              "message": "onExecutionStart",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-09-01": {
+          "date": "2023-09-01",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/sd.py",
+            "comfy/supported_models.py",
+            "comfy/supported_models_base.py"
+          ],
+          "commits": [
+            {
+              "hash": "7931ff0fd95c1842b0c8e7f5cc3a2ce5d3b88b3b",
+              "author": "comfyanonymous",
+              "date": "2023-09-01T19:18:25.000Z",
+              "message": "Support SDXL inpaint models.",
+              "linesAdded": 22,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/sd.py",
+                "comfy/supported_models.py",
+                "comfy/supported_models_base.py"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1733 @@
+{
+  "yearMonth": "2023-12",
+  "generatedAt": "2026-09-24T02:37:24.644Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-12-31": {
+          "date": "2023-12-31",
+          "heatScore": 12,
+          "linesChanged": 43,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "7a23d0b1d432643a2b9b2886c651bbd43f59fa8b",
+              "author": "Brian Cullinan",
+              "date": "2023-12-31T18:32:02.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 27,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-30": {
+          "date": "2023-12-30",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6dcda381fd738365b84d1f65ff2810dd273d56cd",
+              "author": "Brian Cullinan",
+              "date": "2023-12-30T23:37:01.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 6,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-29": {
+          "date": "2023-12-29",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "11e4391f1ea94256d0b87591d23bd9c021c53442",
+              "author": "Brian Cullinan",
+              "date": "2023-12-29T23:52:40.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-28": {
+          "date": "2023-12-28",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ae0d58c2b64c2372755d6f47c1a2c0da03a6f107",
+              "author": "Brian Cullinan",
+              "date": "2023-12-28T22:54:11.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-27": {
+          "date": "2023-12-27",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "0f6a8b141af13e1c53e6198d622b6d6cccec7565",
+              "author": "Brian Cullinan",
+              "date": "2023-12-27T23:31:30.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-26": {
+          "date": "2023-12-26",
+          "heatScore": 12,
+          "linesChanged": 30,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "bf5df2a06d30f496424b8228bd6b929c373e0f2d",
+              "author": "Brian Cullinan",
+              "date": "2023-12-26T23:10:48.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 20,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-25": {
+          "date": "2023-12-25",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6066b2792934e54aed3d75cfd6b4b840d21f6a50",
+              "author": "Brian Cullinan",
+              "date": "2023-12-25T18:56:23.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-24": {
+          "date": "2023-12-24",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "9e776f34bdd5dc0dcc83c62d493dce24b1e329d9",
+              "author": "Brian Cullinan",
+              "date": "2023-12-24T19:27:43.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 8,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-23": {
+          "date": "2023-12-23",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "c8662d7928f52c13d163c3801b4f6df4dd3738d9",
+              "author": "Brian Cullinan",
+              "date": "2023-12-23T20:07:02.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 7,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-22": {
+          "date": "2023-12-22",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "8b6cedc9e1f0301c9cacd02c758e7ce183aa8ffb",
+              "author": "Brian Cullinan",
+              "date": "2023-12-22T19:23:32.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-21": {
+          "date": "2023-12-21",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "144f6014c6ea1e44b55a68cd81bfcce0d3c9d1a0",
+              "author": "Brian Cullinan",
+              "date": "2023-12-21T18:44:40.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 10,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-20": {
+          "date": "2023-12-20",
+          "heatScore": 13,
+          "linesChanged": 56,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "7c0092ab72c54ad5030f394988d1aa583daa63ca",
+              "author": "Brian Cullinan",
+              "date": "2023-12-20T16:43:12.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 28,
+              "linesDeleted": 28,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-19": {
+          "date": "2023-12-19",
+          "heatScore": 18,
+          "linesChanged": 120,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "50c8656970fd5eb7b6d3898ba4442b9db058e86c",
+              "author": "Brian Cullinan",
+              "date": "2023-12-19T18:31:22.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 42,
+              "linesDeleted": 78,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-18": {
+          "date": "2023-12-18",
+          "heatScore": 13,
+          "linesChanged": 57,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "315c25f253e07ceb9f8c12f32092fde9de2b9dce",
+              "author": "Brian Cullinan",
+              "date": "2023-12-18T21:00:27.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 36,
+              "linesDeleted": 21,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-17": {
+          "date": "2023-12-17",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "e9294cb1005a1a969c11196b6fb72a444be5d392",
+              "author": "Brian Cullinan",
+              "date": "2023-12-17T23:35:24.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-16": {
+          "date": "2023-12-16",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6cb6fe1fd57b0b04b9ed50a49e8d7ee88279705a",
+              "author": "Brian Cullinan",
+              "date": "2023-12-16T20:41:53.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 8,
+              "linesDeleted": 30,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-14": {
+          "date": "2023-12-14",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ecb3865cee7447d7f75f66a1a8a21f14b16e649f",
+              "author": "Brian Cullinan",
+              "date": "2023-12-14T19:49:05.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 10,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-13": {
+          "date": "2023-12-13",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "4ee4044dba11cedbdfd85a26f8692e05ad4e3d6a",
+              "author": "Brian Cullinan",
+              "date": "2023-12-13T23:23:56.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-12": {
+          "date": "2023-12-12",
+          "heatScore": 12,
+          "linesChanged": 42,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "0bc3ee80d39c9ae7dd93464af38ae3c39bd984ed",
+              "author": "Brian Cullinan",
+              "date": "2023-12-12T23:46:45.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 41,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-11": {
+          "date": "2023-12-11",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6022396b23b5211862a1060b2c8e90797ae5a977",
+              "author": "Brian Cullinan",
+              "date": "2023-12-11T22:35:25.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 20,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-10": {
+          "date": "2023-12-10",
+          "heatScore": 16,
+          "linesChanged": 99,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "66ca9ff8d3f4b0b0f0c63962fa15eebdfd91f3bf",
+              "author": "Brian Cullinan",
+              "date": "2023-12-10T23:47:59.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 76,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-09": {
+          "date": "2023-12-09",
+          "heatScore": 14,
+          "linesChanged": 63,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "f9b5fcbf86fbc9990ec8a531e72d6d0749e41da1",
+              "author": "Brian Cullinan",
+              "date": "2023-12-09T23:22:16.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 62,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-08": {
+          "date": "2023-12-08",
+          "heatScore": 11,
+          "linesChanged": 26,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "e76cfcf9fe1844193dc1ce54cce68e4e7c24288a",
+              "author": "Brian Cullinan",
+              "date": "2023-12-08T22:18:28.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-07": {
+          "date": "2023-12-07",
+          "heatScore": 21,
+          "linesChanged": 166,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d1302c9a33f5728246158ac430b5d07b8c374fa5",
+              "author": "Brian Cullinan",
+              "date": "2023-12-07T23:44:41.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 151,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-06": {
+          "date": "2023-12-06",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "279ec8065c84899bbfd096b177b7adb26e2d1ce1",
+              "author": "Brian Cullinan",
+              "date": "2023-12-06T22:16:54.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 15,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-05": {
+          "date": "2023-12-05",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "365275ac8a500013fec245aeff0bc19c2162e31c",
+              "author": "Brian Cullinan",
+              "date": "2023-12-05T22:03:47.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-04": {
+          "date": "2023-12-04",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "e48a424f4ad5f9a071396a24381c50418362bc60",
+              "author": "Brian Cullinan",
+              "date": "2023-12-04T16:03:25.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-03": {
+          "date": "2023-12-03",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "536b0050e7e143ea5e8a0c8f97c9514f392c0060",
+              "author": "Brian Cullinan",
+              "date": "2023-12-03T05:26:19.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 14,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-02": {
+          "date": "2023-12-02",
+          "heatScore": 12,
+          "linesChanged": 32,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "860603c34c4eabc33e89e327de27114b9007a77a",
+              "author": "Brian Cullinan",
+              "date": "2023-12-02T02:12:59.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 8,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-12-01": {
+          "date": "2023-12-01",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "c69e062d23514231ae433be7c4dc22d89cc9e185",
+              "author": "Brian Cullinan",
+              "date": "2023-12-01T06:17:34.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-12-31": {
+          "date": "2023-12-31",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_custom_sampler.py"
+          ],
+          "commits": [
+            {
+              "hash": "d1f3637a5a944d0607b899babd8ff11d87100503",
+              "author": "comfyanonymous",
+              "date": "2023-12-31T20:37:20.000Z",
+              "message": "Add a denoise parameter to BasicScheduler node.",
+              "linesAdded": 8,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy_extras/nodes_custom_sampler.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-30": {
+          "date": "2023-12-30",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "1b103e0cb2d7aeb05fc8b7e006d4438e7bceca20",
+              "author": "comfyanonymous",
+              "date": "2023-12-30T10:38:21.000Z",
+              "message": "Add argument to run the VAE on the CPU.",
+              "linesAdded": 7,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-29": {
+          "date": "2023-12-29",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "folder_paths.py"
+          ],
+          "commits": [
+            {
+              "hash": "144e6580a4a43d5390769665a5032bb584481ff1",
+              "author": "comfyanonymous",
+              "date": "2023-12-29T22:47:24.000Z",
+              "message": "This cache timeout is pretty useless in practice.",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "folder_paths.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-28": {
+          "date": "2023-12-28",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            ".vscode/settings.json"
+          ],
+          "commits": [
+            {
+              "hash": "a8baa40d85aafb7d0d33221ce86eb6ca1402b4c7",
+              "author": "comfyanonymous",
+              "date": "2023-12-28T17:23:07.000Z",
+              "message": "Cleanup.",
+              "linesAdded": 0,
+              "linesDeleted": 9,
+              "filesChanged": [
+                ".vscode/settings.json"
+              ]
+            }
+          ]
+        },
+        "2023-12-27": {
+          "date": "2023-12-27",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/clip_model.py"
+          ],
+          "commits": [
+            {
+              "hash": "c782144433e41c21ae2dfd75d0bc28255d2e966d",
+              "author": "comfyanonymous",
+              "date": "2023-12-27T18:50:57.000Z",
+              "message": "Fix clip vision lowvram mode not working.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/clip_model.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-26": {
+          "date": "2023-12-26",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/taesd/taesd.py"
+          ],
+          "commits": [
+            {
+              "hash": "f21bb41787ce590ea6eff16163ee83404d9ff0d5",
+              "author": "comfyanonymous",
+              "date": "2023-12-26T17:52:21.000Z",
+              "message": "Fix taesd VAE in lowvram mode.",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/taesd/taesd.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-25": {
+          "date": "2023-12-25",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "257c2eaaa47c5ead6849e4e0f8210be3dc112f1d",
+              "author": "comfyanonymous",
+              "date": "2023-12-25T17:24:31.000Z",
+              "message": "Merge branch 'patch-1' of https://github.com/savolla/ComfyUI",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2023-12-24": {
+          "date": "2023-12-24",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/diffusionmodules/util.py",
+            "comfy/ldm/modules/temporal_ae.py"
+          ],
+          "commits": [
+            {
+              "hash": "d0165d819afe76bd4e6bdd710eb5f3e571b6a804",
+              "author": "comfyanonymous",
+              "date": "2023-12-24T12:06:59.000Z",
+              "message": "Fix SVD lowvram mode.",
+              "linesAdded": 7,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "comfy/ldm/modules/diffusionmodules/util.py",
+                "comfy/ldm/modules/temporal_ae.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-23": {
+          "date": "2023-12-23",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py",
+            "execution.py"
+          ],
+          "commits": [
+            {
+              "hash": "a252963f956a7d76344e3f0ce24b1047480a25af",
+              "author": "comfyanonymous",
+              "date": "2023-12-23T09:25:06.000Z",
+              "message": "--disable-smart-memory now unloads everything like it did originally.",
+              "linesAdded": 6,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/model_management.py",
+                "execution.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-22": {
+          "date": "2023-12-22",
+          "heatScore": 20,
+          "linesChanged": 153,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/controlnet.py",
+            "comfy/model_base.py",
+            "comfy/model_management.py",
+            "comfy/ops.py",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "36a7953142ccf3f9debf9305e3cbeb3bfe956ee3",
+              "author": "comfyanonymous",
+              "date": "2023-12-22T19:24:04.000Z",
+              "message": "Greatly improve lowvram sampling speed by getting rid of accelerate.",
+              "linesAdded": 103,
+              "linesDeleted": 50,
+              "filesChanged": [
+                "comfy/controlnet.py",
+                "comfy/model_base.py",
+                "comfy/model_management.py",
+                "comfy/ops.py",
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2023-12-21": {
+          "date": "2023-12-21",
+          "heatScore": 13,
+          "linesChanged": 45,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/lib/litegraph.core.js"
+          ],
+          "commits": [
+            {
+              "hash": "d35267e85a865c30a5fa63fdb0a21f94f4cc37e7",
+              "author": "comfyanonymous",
+              "date": "2023-12-21T18:21:25.000Z",
+              "message": "Litegraph updates.",
+              "linesAdded": 36,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "web/lib/litegraph.core.js"
+              ]
+            }
+          ]
+        },
+        "2023-12-20": {
+          "date": "2023-12-20",
+          "heatScore": 12,
+          "linesChanged": 35,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "a1e1c69f7d555ae281ec46ca7a40c7195f3a249c",
+              "author": "comfyanonymous",
+              "date": "2023-12-20T21:39:09.000Z",
+              "message": "LoadImage now loads all the frames from animated images as a batch.",
+              "linesAdded": 24,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-19": {
+          "date": "2023-12-19",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/test-ui.yaml",
+            "tests-ui/afterSetup.js",
+            "tests-ui/jest.config.js"
+          ],
+          "commits": [
+            {
+              "hash": "ba3f3aa1ca212a398e9ba8928be1aae7818ec3e2",
+              "author": "comfyanonymous",
+              "date": "2023-12-19T21:32:53.000Z",
+              "message": "Merge branch 'test-reliability' of https://github.com/pythongosssss/ComfyUI",
+              "linesAdded": 12,
+              "linesDeleted": 1,
+              "filesChanged": [
+                ".github/workflows/test-ui.yaml",
+                "tests-ui/afterSetup.js",
+                "tests-ui/jest.config.js"
+              ]
+            }
+          ]
+        },
+        "2023-12-18": {
+          "date": "2023-12-18",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_patcher.py",
+            "comfy/samplers.py",
+            "comfy_extras/nodes_sag.py"
+          ],
+          "commits": [
+            {
+              "hash": "571ea8cdcc2d1bf4fa7f398dad68415dacfff02f",
+              "author": "comfyanonymous",
+              "date": "2023-12-18T22:03:32.000Z",
+              "message": "Fix SAG not working with cfg 1.0",
+              "linesAdded": 8,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/model_patcher.py",
+                "comfy/samplers.py",
+                "comfy_extras/nodes_sag.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-17": {
+          "date": "2023-12-17",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy/model_management.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "2f9d6a97ec7e3cb25beb13a320da8ec4573355d3",
+              "author": "comfyanonymous",
+              "date": "2023-12-17T21:59:21.000Z",
+              "message": "Add --deterministic option to make pytorch use deterministic algorithms.",
+              "linesAdded": 9,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy/model_management.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-16": {
+          "date": "2023-12-16",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "tests-ui/tests/groupNode.test.js",
+            "web/extensions/core/groupNode.js"
+          ],
+          "commits": [
+            {
+              "hash": "6453dc1ca2d98d89af7cf312bb48d1e3fd2ca27f",
+              "author": "pythongosssss",
+              "date": "2023-12-16T14:16:12.000Z",
+              "message": "Fix name counter preventing more than 3 of the same node Fix linked widget offset when populating values",
+              "linesAdded": 37,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "tests-ui/tests/groupNode.test.js",
+                "web/extensions/core/groupNode.js"
+              ]
+            }
+          ]
+        },
+        "2023-12-15": {
+          "date": "2023-12-15",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/clip_vision.py"
+          ],
+          "commits": [
+            {
+              "hash": "719fa0866fcd7744de3bf5ffd9ddd076f7c36b98",
+              "author": "comfyanonymous",
+              "date": "2023-12-15T23:53:08.000Z",
+              "message": "Set clip vision model in eval mode so it works without inference mode.",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/clip_vision.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-14": {
+          "date": "2023-12-14",
+          "heatScore": 13,
+          "linesChanged": 46,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "329c57199302f6b9ccfebb86c96e937c386da92f",
+              "author": "comfyanonymous",
+              "date": "2023-12-14T16:41:49.000Z",
+              "message": "Improve code legibility.",
+              "linesAdded": 23,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-13": {
+          "date": "2023-12-13",
+          "heatScore": 53,
+          "linesChanged": 649,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_patcher.py",
+            "comfy/samplers.py",
+            "comfy_extras/nodes_sag.py"
+          ],
+          "commits": [
+            {
+              "hash": "ba04a87d104ca73d8ed8e8423706edcdf5e209a8",
+              "author": "comfyanonymous",
+              "date": "2023-12-13T21:10:03.000Z",
+              "message": "Refactor and improve the sag node.",
+              "linesAdded": 331,
+              "linesDeleted": 318,
+              "filesChanged": [
+                "comfy/model_patcher.py",
+                "comfy/samplers.py",
+                "comfy_extras/nodes_sag.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-12": {
+          "date": "2023-12-12",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "824e4935f53fdbda8f4608f511b4c2e8daf79dfa",
+              "author": "comfyanonymous",
+              "date": "2023-12-12T17:03:29.000Z",
+              "message": "Add dtype parameter to VAE object.",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-11": {
+          "date": "2023-12-11",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "b0aab1e4ea3dfefe09c4f07de0e5237558097e22",
+              "author": "comfyanonymous",
+              "date": "2023-12-11T23:36:29.000Z",
+              "message": "Add an option --fp16-unet to force using fp16 for the unet.",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-10": {
+          "date": "2023-12-10",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/maskeditor.js"
+          ],
+          "commits": [
+            {
+              "hash": "69033081c50de94cbc2a4fce12900611da04b1e9",
+              "author": "Dr.Lt.Data",
+              "date": "2023-12-10T15:24:16.000Z",
+              "message": "mask editor bugfix - Addressing the issue where an unnecessary hidden panel disrupts the drawing.",
+              "linesAdded": 0,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "web/extensions/core/maskeditor.js"
+              ]
+            }
+          ]
+        },
+        "2023-12-09": {
+          "date": "2023-12-09",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/lora.py",
+            "comfy/model_patcher.py"
+          ],
+          "commits": [
+            {
+              "hash": "614b7e731f7f9fdcf11eeb46e0623b0977a7e634",
+              "author": "comfyanonymous",
+              "date": "2023-12-09T23:15:26.000Z",
+              "message": "Implement GLora.",
+              "linesAdded": 21,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/lora.py",
+                "comfy/model_patcher.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-08": {
+          "date": "2023-12-08",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "97015b6b383718bdc65cb617e3050069a156679d",
+              "author": "comfyanonymous",
+              "date": "2023-12-08T21:02:08.000Z",
+              "message": "Cleanup.",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-07": {
+          "date": "2023-12-07",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_hypertile.py"
+          ],
+          "commits": [
+            {
+              "hash": "cdff08102346f34b6d5bbe65f036a6731e685285",
+              "author": "comfyanonymous",
+              "date": "2023-12-07T20:22:35.000Z",
+              "message": "Fix hypertile.",
+              "linesAdded": 4,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_hypertile.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-06": {
+          "date": "2023-12-06",
+          "heatScore": 24,
+          "linesChanged": 223,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/clip_model.py",
+            "comfy/ldm/modules/attention.py",
+            "comfy/sd1_clip.py",
+            "comfy/sd2_clip.py",
+            "comfy/sdxl_clip.py"
+          ],
+          "commits": [
+            {
+              "hash": "fbdb14d4c4c3d2e783d585506c6b598487ec7a9d",
+              "author": "comfyanonymous",
+              "date": "2023-12-06T20:55:09.000Z",
+              "message": "Cleaner CLIP text encoder implementation.",
+              "linesAdded": 173,
+              "linesDeleted": 50,
+              "filesChanged": [
+                "comfy/clip_model.py",
+                "comfy/ldm/modules/attention.py",
+                "comfy/sd1_clip.py",
+                "comfy/sd2_clip.py",
+                "comfy/sdxl_clip.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-05": {
+          "date": "2023-12-05",
+          "heatScore": 20,
+          "linesChanged": 153,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/saveImageExtraOutput.js",
+            "web/extensions/core/widgetInputs.js",
+            "web/scripts/utils.js"
+          ],
+          "commits": [
+            {
+              "hash": "8de6f94f5cc5ee4ae690876108c1dd7705e59595",
+              "author": "pythongosssss",
+              "date": "2023-12-05T21:02:10.000Z",
+              "message": "Allow widget placeholder replacement on primitives",
+              "linesAdded": 83,
+              "linesDeleted": 70,
+              "filesChanged": [
+                "web/extensions/core/saveImageExtraOutput.js",
+                "web/extensions/core/widgetInputs.js",
+                "web/scripts/utils.js"
+              ]
+            }
+          ]
+        },
+        "2023-12-04": {
+          "date": "2023-12-04",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/controlnet.py"
+          ],
+          "commits": [
+            {
+              "hash": "26b1c0a77150be2253f88e4cd106a11112d96d59",
+              "author": "comfyanonymous",
+              "date": "2023-12-04T18:47:41.000Z",
+              "message": "Fix control lora on fp8.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/controlnet.py"
+              ]
+            }
+          ]
+        },
+        "2023-12-03": {
+          "date": "2023-12-03",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/nodeTemplates.js"
+          ],
+          "commits": [
+            {
+              "hash": "77ab2c3f699ca35d19060d8add6bccd66a1b532f",
+              "author": "pythongosssss",
+              "date": "2023-12-03T17:17:23.000Z",
+              "message": "fix template sorting",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/extensions/core/nodeTemplates.js"
+              ]
+            }
+          ]
+        },
+        "2023-12-02": {
+          "date": "2023-12-02",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "b2517b4ceb2e0fdea438586d1c8883eccab1f9bf",
+              "author": "comfyanonymous",
+              "date": "2023-12-02T18:56:11.000Z",
+              "message": "Load api workflow if regular workflow isn't in loaded image.",
+              "linesAdded": 6,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-12-01": {
+          "date": "2023-12-01",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "2995a2472541cb10ce9f4934baef9d5993ed3306",
+              "author": "comfyanonymous",
+              "date": "2023-12-01T23:29:33.000Z",
+              "message": "Update readme.",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "q3lcc": {
+      "projectName": "q3lcc",
+      "localPath": "C:\\Users\\megam\\q3lcc",
+      "remoteUrl": "git@github.com:briancullinan2/q3lcc.git",
+      "lastUpdated": "2026-09-24T02:37:19.340Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-12-11": {
+          "date": "2023-12-11",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            "CPYRIGHT",
+            "LOG",
+            "README",
+            "cpp/cpp.c",
+            "cpp/cpp.h",
+            "cpp/eval.c",
+            "cpp/getopt.c",
+            "cpp/hideset.c",
+            "cpp/include.c",
+            "cpp/lex.c",
+            "cpp/macro.c",
+            "cpp/nlist.c",
+            "cpp/tokens.c",
+            "cpp/unix.c",
+            "doc/bprint.1",
+            "doc/install.html",
+            "doc/lcc.1",
+            "etc/bytecode.c",
+            "etc/lcc.c",
+            "lburg/gram.c",
+            "lburg/gram.y",
+            "lburg/lburg.1",
+            "lburg/lburg.c",
+            "lburg/lburg.h",
+            "msvc/cpp.vcproj",
+            "msvc/lburg.vcproj",
+            "msvc/lcc.vcproj",
+            "msvc/q3lcc.sln",
+            "msvc/rcc.vcproj",
+            "src/alloc.c",
+            "src/bind.c",
+            "src/bytecode.c",
+            "src/c.h",
+            "src/config.h",
+            "src/dag.c",
+            "src/dagcheck.c",
+            "src/dagcheck.md",
+            "src/decl.c",
+            "src/enode.c",
+            "src/error.c",
+            "src/event.c",
+            "src/expr.c",
+            "src/gen.c",
+            "src/init.c",
+            "src/inits.c",
+            "src/input.c",
+            "src/lex.c",
+            "src/list.c",
+            "src/main.c",
+            "src/null.c",
+            "src/ops.h",
+            "src/output.c",
+            "src/prof.c",
+            "src/profio.c",
+            "src/simp.c",
+            "src/stab.c",
+            "src/stmt.c",
+            "src/string.c",
+            "src/sym.c",
+            "src/symbolic.c",
+            "src/token.h",
+            "src/trace.c",
+            "src/tree.c",
+            "src/types.c"
+          ],
+          "commits": [
+            {
+              "hash": "bd7233860ee0503c215c1fc5148d32f51baffe5f",
+              "author": "Brian Cullinan",
+              "date": "2023-12-11T01:08:16.000Z",
+              "message": "fix for mac",
+              "linesAdded": 8,
+              "linesDeleted": 2,
+              "filesChanged": [
+                ".gitignore",
+                "CPYRIGHT",
+                "LOG",
+                "README",
+                "cpp/cpp.c",
+                "cpp/cpp.h",
+                "cpp/eval.c",
+                "cpp/getopt.c",
+                "cpp/hideset.c",
+                "cpp/include.c",
+                "cpp/lex.c",
+                "cpp/macro.c",
+                "cpp/nlist.c",
+                "cpp/tokens.c",
+                "cpp/unix.c",
+                "doc/bprint.1",
+                "doc/install.html",
+                "doc/lcc.1",
+                "etc/bytecode.c",
+                "etc/lcc.c",
+                "lburg/gram.c",
+                "lburg/gram.y",
+                "lburg/lburg.1",
+                "lburg/lburg.c",
+                "lburg/lburg.h",
+                "msvc/cpp.vcproj",
+                "msvc/lburg.vcproj",
+                "msvc/lcc.vcproj",
+                "msvc/q3lcc.sln",
+                "msvc/rcc.vcproj",
+                "src/alloc.c",
+                "src/bind.c",
+                "src/bytecode.c",
+                "src/c.h",
+                "src/config.h",
+                "src/dag.c",
+                "src/dagcheck.c",
+                "src/dagcheck.md",
+                "src/decl.c",
+                "src/enode.c",
+                "src/error.c",
+                "src/event.c",
+                "src/expr.c",
+                "src/gen.c",
+                "src/init.c",
+                "src/inits.c",
+                "src/input.c",
+                "src/lex.c",
+                "src/list.c",
+                "src/main.c",
+                "src/null.c",
+                "src/ops.h",
+                "src/output.c",
+                "src/prof.c",
+                "src/profio.c",
+                "src/simp.c",
+                "src/stab.c",
+                "src/stmt.c",
+                "src/string.c",
+                "src/sym.c",
+                "src/symbolic.c",
+                "src/token.h",
+                "src/trace.c",
+                "src/tree.c",
+                "src/types.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "msvc": {
+      "projectName": "msvc",
+      "localPath": "C:\\Users\\megam\\q3lcc2\\msvc",
+      "remoteUrl": "git@github.com:briancullinan2/q3lcc.git",
+      "lastUpdated": "2026-09-24T02:37:19.509Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-12-11": {
+          "date": "2023-12-11",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            "CPYRIGHT",
+            "LOG",
+            "README",
+            "cpp/cpp.c",
+            "cpp/cpp.h",
+            "cpp/eval.c",
+            "cpp/getopt.c",
+            "cpp/hideset.c",
+            "cpp/include.c",
+            "cpp/lex.c",
+            "cpp/macro.c",
+            "cpp/nlist.c",
+            "cpp/tokens.c",
+            "cpp/unix.c",
+            "doc/bprint.1",
+            "doc/install.html",
+            "doc/lcc.1",
+            "etc/bytecode.c",
+            "etc/lcc.c",
+            "lburg/gram.c",
+            "lburg/gram.y",
+            "lburg/lburg.1",
+            "lburg/lburg.c",
+            "lburg/lburg.h",
+            "msvc/cpp.vcproj",
+            "msvc/lburg.vcproj",
+            "msvc/lcc.vcproj",
+            "msvc/q3lcc.sln",
+            "msvc/rcc.vcproj",
+            "src/alloc.c",
+            "src/bind.c",
+            "src/bytecode.c",
+            "src/c.h",
+            "src/config.h",
+            "src/dag.c",
+            "src/dagcheck.c",
+            "src/dagcheck.md",
+            "src/decl.c",
+            "src/enode.c",
+            "src/error.c",
+            "src/event.c",
+            "src/expr.c",
+            "src/gen.c",
+            "src/init.c",
+            "src/inits.c",
+            "src/input.c",
+            "src/lex.c",
+            "src/list.c",
+            "src/main.c",
+            "src/null.c",
+            "src/ops.h",
+            "src/output.c",
+            "src/prof.c",
+            "src/profio.c",
+            "src/simp.c",
+            "src/stab.c",
+            "src/stmt.c",
+            "src/string.c",
+            "src/sym.c",
+            "src/symbolic.c",
+            "src/token.h",
+            "src/trace.c",
+            "src/tree.c",
+            "src/types.c"
+          ],
+          "commits": [
+            {
+              "hash": "bd7233860ee0503c215c1fc5148d32f51baffe5f",
+              "author": "Brian Cullinan",
+              "date": "2023-12-11T01:08:16.000Z",
+              "message": "fix for mac",
+              "linesAdded": 8,
+              "linesDeleted": 2,
+              "filesChanged": [
+                ".gitignore",
+                "CPYRIGHT",
+                "LOG",
+                "README",
+                "cpp/cpp.c",
+                "cpp/cpp.h",
+                "cpp/eval.c",
+                "cpp/getopt.c",
+                "cpp/hideset.c",
+                "cpp/include.c",
+                "cpp/lex.c",
+                "cpp/macro.c",
+                "cpp/nlist.c",
+                "cpp/tokens.c",
+                "cpp/unix.c",
+                "doc/bprint.1",
+                "doc/install.html",
+                "doc/lcc.1",
+                "etc/bytecode.c",
+                "etc/lcc.c",
+                "lburg/gram.c",
+                "lburg/gram.y",
+                "lburg/lburg.1",
+                "lburg/lburg.c",
+                "lburg/lburg.h",
+                "msvc/cpp.vcproj",
+                "msvc/lburg.vcproj",
+                "msvc/lcc.vcproj",
+                "msvc/q3lcc.sln",
+                "msvc/rcc.vcproj",
+                "src/alloc.c",
+                "src/bind.c",
+                "src/bytecode.c",
+                "src/c.h",
+                "src/config.h",
+                "src/dag.c",
+                "src/dagcheck.c",
+                "src/dagcheck.md",
+                "src/decl.c",
+                "src/enode.c",
+                "src/error.c",
+                "src/event.c",
+                "src/expr.c",
+                "src/gen.c",
+                "src/init.c",
+                "src/inits.c",
+                "src/input.c",
+                "src/lex.c",
+                "src/list.c",
+                "src/main.c",
+                "src/null.c",
+                "src/ops.h",
+                "src/output.c",
+                "src/prof.c",
+                "src/profio.c",
+                "src/simp.c",
+                "src/stab.c",
+                "src/stmt.c",
+                "src/string.c",
+                "src/sym.c",
+                "src/symbolic.c",
+                "src/token.h",
+                "src/trace.c",
+                "src/tree.c",
+                "src/types.c"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2088 @@
+[
+  {
+    "id": "loc-stop-1785691870000-11",
+    "category": "locations",
+    "timestamp": "2026-08-02T17:31:10.000Z",
+    "title": "Stopped at East Bear Paw Drive (50 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Bear Paw Drive",
+      "lat": 35.19934927234041,
+      "lng": -111.57494043191491,
+      "durationMins": 50,
+      "time": "2026-08-02T17:31:10.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785694977000-12",
+    "category": "locations",
+    "timestamp": "2026-08-02T18:22:57.000Z",
+    "title": "Stopped at East Bear Paw Drive (9 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Bear Paw Drive",
+      "lat": 35.19895896666666,
+      "lng": -111.57518411111111,
+      "durationMins": 9,
+      "time": "2026-08-02T18:22:57.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785695602000-13",
+    "category": "locations",
+    "timestamp": "2026-08-02T18:33:22.000Z",
+    "title": "Stopped at East Bear Paw Drive (11 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Bear Paw Drive",
+      "lat": 35.19883925,
+      "lng": -111.575305975,
+      "durationMins": 11,
+      "time": "2026-08-02T18:33:22.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785696361000-14",
+    "category": "locations",
+    "timestamp": "2026-08-02T18:46:01.000Z",
+    "title": "Stopped at East Bear Paw Drive (12 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Bear Paw Drive",
+      "lat": 35.19933286666666,
+      "lng": -111.5750488,
+      "durationMins": 12,
+      "time": "2026-08-02T18:46:01.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785698531000-15",
+    "category": "locations",
+    "timestamp": "2026-08-02T19:22:11.000Z",
+    "title": "Stopped at East Inwood Way (3303 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20962120350224,
+      "lng": -111.58504461087551,
+      "durationMins": 3303,
+      "time": "2026-08-02T19:22:11.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1785897183000-5520",
+    "category": "locations",
+    "timestamp": "2026-08-05T02:33:03.000Z",
+    "title": "Traveled to 2515 E Butler Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "2515 E Butler Ave",
+      "lat": 35.1919379,
+      "lng": -111.619742,
+      "distanceKmFromLast": 3.71,
+      "time": "2026-08-05T02:33:03.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785897547000-16",
+    "category": "locations",
+    "timestamp": "2026-08-05T02:39:07.000Z",
+    "title": "Stopped at 1401-1421 S Plaza Wy (45 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "1401-1421 S Plaza Wy",
+      "lat": 35.18741623823529,
+      "lng": -111.66346251176472,
+      "durationMins": 45,
+      "time": "2026-08-05T02:39:07.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1785897805000-5535",
+    "category": "locations",
+    "timestamp": "2026-08-05T02:43:25.000Z",
+    "title": "Traveled to 1401-1421 S Plaza Wy",
+    "detail": {
+      "type": "travel",
+      "destination": "1401-1421 S Plaza Wy",
+      "lat": 35.1874258,
+      "lng": -111.6634417,
+      "distanceKmFromLast": 4,
+      "time": "2026-08-05T02:43:25.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1785900949000-5580",
+    "category": "locations",
+    "timestamp": "2026-08-05T03:35:49.000Z",
+    "title": "Traveled to 209-299 E Birch Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "209-299 E Birch Ave",
+      "lat": 35.1984624,
+      "lng": -111.6453357,
+      "distanceKmFromLast": 2.05,
+      "time": "2026-08-05T03:35:49.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785902146000-17",
+    "category": "locations",
+    "timestamp": "2026-08-05T03:55:46.000Z",
+    "title": "Stopped at East Inwood Way (870 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.209607900359735,
+      "lng": -111.58504586223015,
+      "durationMins": 870,
+      "time": "2026-08-05T03:55:46.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1785902146000-5610",
+    "category": "locations",
+    "timestamp": "2026-08-05T03:55:46.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2094103,
+      "lng": -111.5854036,
+      "distanceKmFromLast": 5.58,
+      "time": "2026-08-05T03:55:46.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1785954541000-18",
+    "category": "locations",
+    "timestamp": "2026-08-05T18:29:01.000Z",
+    "title": "Stopped at East Inwood Way (1560 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.2096209619565,
+      "lng": -111.58505182862324,
+      "durationMins": 1560,
+      "time": "2026-08-05T18:29:01.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786048546000-6450",
+    "category": "locations",
+    "timestamp": "2026-08-06T20:35:46.000Z",
+    "title": "Traveled to Purple Heart Trail",
+    "detail": {
+      "type": "travel",
+      "destination": "Purple Heart Trail",
+      "lat": 35.192004,
+      "lng": -111.6217877,
+      "distanceKmFromLast": 3.83,
+      "time": "2026-08-06T20:35:46.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786049176000-6465",
+    "category": "locations",
+    "timestamp": "2026-08-06T20:46:16.000Z",
+    "title": "Traveled to North State Route 89A",
+    "detail": {
+      "type": "travel",
+      "destination": "North State Route 89A",
+      "lat": 35.0979541,
+      "lng": -111.732873,
+      "distanceKmFromLast": 14.54,
+      "time": "2026-08-06T20:46:16.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786049736000-6480",
+    "category": "locations",
+    "timestamp": "2026-08-06T20:55:36.000Z",
+    "title": "Traveled to 13271 AZ-89A",
+    "detail": {
+      "type": "travel",
+      "destination": "13271 AZ-89A",
+      "lat": 35.0197056,
+      "lng": -111.7369071,
+      "distanceKmFromLast": 8.71,
+      "time": "2026-08-06T20:55:36.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786050324000-6495",
+    "category": "locations",
+    "timestamp": "2026-08-06T21:05:24.000Z",
+    "title": "Traveled to 7954-8710 AZ-89A",
+    "detail": {
+      "type": "travel",
+      "destination": "7954-8710 AZ-89A",
+      "lat": 34.9419713,
+      "lng": -111.7516771,
+      "distanceKmFromLast": 8.75,
+      "time": "2026-08-06T21:05:24.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786050660000-19",
+    "category": "locations",
+    "timestamp": "2026-08-06T21:11:00.000Z",
+    "title": "Stopped at Oak Creek Canyon (48 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "Oak Creek Canyon",
+      "lat": 34.90323297647059,
+      "lng": -111.72755091764705,
+      "durationMins": 48,
+      "time": "2026-08-06T21:11:00.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786051369000-6510",
+    "category": "locations",
+    "timestamp": "2026-08-06T21:22:49.000Z",
+    "title": "Traveled to Oak Creek Canyon",
+    "detail": {
+      "type": "travel",
+      "destination": "Oak Creek Canyon",
+      "lat": 34.9031439,
+      "lng": -111.7274692,
+      "distanceKmFromLast": 4.85,
+      "time": "2026-08-06T21:22:49.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786053672000-20",
+    "category": "locations",
+    "timestamp": "2026-08-06T22:01:12.000Z",
+    "title": "Stopped at 3999-3471 AZ-89A (15 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "3999-3471 AZ-89A",
+      "lat": 34.90958228461538,
+      "lng": -111.72834514615383,
+      "durationMins": 15,
+      "time": "2026-08-06T22:01:12.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786054719000-6555",
+    "category": "locations",
+    "timestamp": "2026-08-06T22:18:39.000Z",
+    "title": "Traveled to 6399-5829 AZ-89A",
+    "detail": {
+      "type": "travel",
+      "destination": "6399-5829 AZ-89A",
+      "lat": 34.9264508,
+      "lng": -111.7343964,
+      "distanceKmFromLast": 2.67,
+      "time": "2026-08-06T22:18:39.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786055335000-6570",
+    "category": "locations",
+    "timestamp": "2026-08-06T22:28:55.000Z",
+    "title": "Traveled to 13806-13998 AZ-89A",
+    "detail": {
+      "type": "travel",
+      "destination": "13806-13998 AZ-89A",
+      "lat": 34.9984656,
+      "lng": -111.7384443,
+      "distanceKmFromLast": 8.02,
+      "time": "2026-08-06T22:28:55.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786055965000-6585",
+    "category": "locations",
+    "timestamp": "2026-08-06T22:39:25.000Z",
+    "title": "Traveled to North State Route 89A",
+    "detail": {
+      "type": "travel",
+      "destination": "North State Route 89A",
+      "lat": 35.0711783,
+      "lng": -111.731408,
+      "distanceKmFromLast": 8.11,
+      "time": "2026-08-06T22:39:25.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786056595000-6600",
+    "category": "locations",
+    "timestamp": "2026-08-06T22:49:55.000Z",
+    "title": "Traveled to Purple Heart Trail",
+    "detail": {
+      "type": "travel",
+      "destination": "Purple Heart Trail",
+      "lat": 35.1814657,
+      "lng": -111.6361909,
+      "distanceKmFromLast": 15.01,
+      "time": "2026-08-06T22:49:55.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786057057000-21",
+    "category": "locations",
+    "timestamp": "2026-08-06T22:57:37.000Z",
+    "title": "Stopped at East Inwood Way (1154 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.209629009711286,
+      "lng": -111.58505581732261,
+      "durationMins": 1154,
+      "time": "2026-08-06T22:57:37.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786057224000-6615",
+    "category": "locations",
+    "timestamp": "2026-08-06T23:00:24.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2096276,
+      "lng": -111.5850471,
+      "distanceKmFromLast": 5.6,
+      "time": "2026-08-06T23:00:24.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786126843000-7005",
+    "category": "locations",
+    "timestamp": "2026-08-07T18:20:43.000Z",
+    "title": "Traveled to Purple Heart Trail",
+    "detail": {
+      "type": "travel",
+      "destination": "Purple Heart Trail",
+      "lat": 35.1748111,
+      "lng": -111.645422,
+      "distanceKmFromLast": 6.71,
+      "time": "2026-08-07T18:20:43.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786127207000-22",
+    "category": "locations",
+    "timestamp": "2026-08-07T18:26:47.000Z",
+    "title": "Stopped at 1052-1058 Historic Rte 66 (37 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "1052-1058 Historic Rte 66",
+      "lat": 35.19082632,
+      "lng": -111.66356479499998,
+      "durationMins": 37,
+      "time": "2026-08-07T18:26:47.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786127414000-7020",
+    "category": "locations",
+    "timestamp": "2026-08-07T18:30:14.000Z",
+    "title": "Traveled to 1052-1058 Historic Rte 66",
+    "detail": {
+      "type": "travel",
+      "destination": "1052-1058 Historic Rte 66",
+      "lat": 35.1908445,
+      "lng": -111.6635201,
+      "distanceKmFromLast": 2.43,
+      "time": "2026-08-07T18:30:14.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786129872000-23",
+    "category": "locations",
+    "timestamp": "2026-08-07T19:11:12.000Z",
+    "title": "Stopped at Jimmy John's (36 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "Jimmy John's",
+      "lat": 35.19071469375001,
+      "lng": -111.66025597499998,
+      "durationMins": 36,
+      "time": "2026-08-07T19:11:12.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786132675000-7110",
+    "category": "locations",
+    "timestamp": "2026-08-07T19:57:55.000Z",
+    "title": "Traveled to East Butler Avenue",
+    "detail": {
+      "type": "travel",
+      "destination": "East Butler Avenue",
+      "lat": 35.1949325,
+      "lng": -111.595192,
+      "distanceKmFromLast": 6.23,
+      "time": "2026-08-07T19:57:55.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786132885000-24",
+    "category": "locations",
+    "timestamp": "2026-08-07T20:01:25.000Z",
+    "title": "Stopped at East Inwood Way (94 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20960425227274,
+      "lng": -111.5850596727273,
+      "durationMins": 94,
+      "time": "2026-08-07T20:01:25.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786133424000-7125",
+    "category": "locations",
+    "timestamp": "2026-08-07T20:10:24.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2096112,
+      "lng": -111.5850314,
+      "distanceKmFromLast": 1.88,
+      "time": "2026-08-07T20:10:24.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786139126000-7170",
+    "category": "locations",
+    "timestamp": "2026-08-07T21:45:26.000Z",
+    "title": "Traveled to East Butler Avenue",
+    "detail": {
+      "type": "travel",
+      "destination": "East Butler Avenue",
+      "lat": 35.192522,
+      "lng": -111.6270152,
+      "distanceKmFromLast": 4.26,
+      "time": "2026-08-07T21:45:26.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786139660000-25",
+    "category": "locations",
+    "timestamp": "2026-08-07T21:54:20.000Z",
+    "title": "Stopped at 2216-2220 US-180 (13 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "2216-2220 US-180",
+      "lat": 35.22265410000001,
+      "lng": -111.65364085714285,
+      "durationMins": 13,
+      "time": "2026-08-07T21:54:20.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786139744000-7185",
+    "category": "locations",
+    "timestamp": "2026-08-07T21:55:44.000Z",
+    "title": "Traveled to 2216-2220 US-180",
+    "detail": {
+      "type": "travel",
+      "destination": "2216-2220 US-180",
+      "lat": 35.2225791,
+      "lng": -111.6535922,
+      "distanceKmFromLast": 4.12,
+      "time": "2026-08-07T21:55:44.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786140995000-7200",
+    "category": "locations",
+    "timestamp": "2026-08-07T22:16:35.000Z",
+    "title": "Traveled to 1568-1562 Historic Rte 66",
+    "detail": {
+      "type": "travel",
+      "destination": "1568-1562 Historic Rte 66",
+      "lat": 35.1947107,
+      "lng": -111.6297409,
+      "distanceKmFromLast": 3.78,
+      "time": "2026-08-07T22:16:35.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786141593000-7215",
+    "category": "locations",
+    "timestamp": "2026-08-07T22:26:33.000Z",
+    "title": "Traveled to 5011-5099 E Lake Country Rd",
+    "detail": {
+      "type": "travel",
+      "destination": "5011-5099 E Lake Country Rd",
+      "lat": 35.1842452,
+      "lng": -111.5919135,
+      "distanceKmFromLast": 3.63,
+      "time": "2026-08-07T22:26:33.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786142229000-26",
+    "category": "locations",
+    "timestamp": "2026-08-07T22:37:09.000Z",
+    "title": "Stopped at East Inwood Way (5474 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.2096262964326,
+      "lng": -111.58505117678358,
+      "durationMins": 5474,
+      "time": "2026-08-07T22:37:09.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786142315000-7230",
+    "category": "locations",
+    "timestamp": "2026-08-07T22:38:35.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2095749,
+      "lng": -111.5850555,
+      "distanceKmFromLast": 2.88,
+      "time": "2026-08-07T22:38:35.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786471074000-9000",
+    "category": "locations",
+    "timestamp": "2026-08-11T17:57:54.000Z",
+    "title": "Traveled to 2545-2551 E Butler Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "2545-2551 E Butler Ave",
+      "lat": 35.1943084,
+      "lng": -111.6062702,
+      "distanceKmFromLast": 2.57,
+      "time": "2026-08-11T17:57:54.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786471676000-9015",
+    "category": "locations",
+    "timestamp": "2026-08-11T18:07:56.000Z",
+    "title": "Traveled to 1561-1501 US-180",
+    "detail": {
+      "type": "travel",
+      "destination": "1561-1501 US-180",
+      "lat": 35.2127313,
+      "lng": -111.6501823,
+      "distanceKmFromLast": 4.48,
+      "time": "2026-08-11T18:07:56.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786471760000-27",
+    "category": "locations",
+    "timestamp": "2026-08-11T18:09:20.000Z",
+    "title": "Stopped at 2216-2220 US-180 (26 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "2216-2220 US-180",
+      "lat": 35.222459066666666,
+      "lng": -111.65344285833334,
+      "durationMins": 26,
+      "time": "2026-08-11T18:09:20.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786473829000-28",
+    "category": "locations",
+    "timestamp": "2026-08-11T18:43:49.000Z",
+    "title": "Stopped at Felice Avenue (6 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "Felice Avenue",
+      "lat": 35.2143533,
+      "lng": -111.61305199090909,
+      "durationMins": 6,
+      "time": "2026-08-11T18:43:49.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786474144000-9060",
+    "category": "locations",
+    "timestamp": "2026-08-11T18:49:04.000Z",
+    "title": "Traveled to Felice Avenue",
+    "detail": {
+      "type": "travel",
+      "destination": "Felice Avenue",
+      "lat": 35.2144748,
+      "lng": -111.612977,
+      "distanceKmFromLast": 3.39,
+      "time": "2026-08-11T18:49:04.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786474746000-9075",
+    "category": "locations",
+    "timestamp": "2026-08-11T18:59:06.000Z",
+    "title": "Traveled to 2799-2501 N Oakmont Dr",
+    "detail": {
+      "type": "travel",
+      "destination": "2799-2501 N Oakmont Dr",
+      "lat": 35.2040829,
+      "lng": -111.5861505,
+      "distanceKmFromLast": 2.7,
+      "time": "2026-08-11T18:59:06.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786474830000-29",
+    "category": "locations",
+    "timestamp": "2026-08-11T19:00:30.000Z",
+    "title": "Stopped at East Inwood Way (2623 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20962348067527,
+      "lng": -111.58504111327133,
+      "durationMins": 2623,
+      "time": "2026-08-11T19:00:30.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786632711000-9945",
+    "category": "locations",
+    "timestamp": "2026-08-13T14:51:51.000Z",
+    "title": "Traveled to 2868-2760 E Butler Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "2868-2760 E Butler Ave",
+      "lat": 35.1931194,
+      "lng": -111.6153452,
+      "distanceKmFromLast": 2.92,
+      "time": "2026-08-13T14:51:51.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786633313000-9960",
+    "category": "locations",
+    "timestamp": "2026-08-13T15:01:53.000Z",
+    "title": "Traveled to 860-898 N San Francisco St",
+    "detail": {
+      "type": "travel",
+      "destination": "860-898 N San Francisco St",
+      "lat": 35.2053868,
+      "lng": -111.6443318,
+      "distanceKmFromLast": 2.97,
+      "time": "2026-08-13T15:01:53.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786633551000-30",
+    "category": "locations",
+    "timestamp": "2026-08-13T15:05:51.000Z",
+    "title": "Stopped at 2216-2220 US-180 (7 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "2216-2220 US-180",
+      "lat": 35.2226649125,
+      "lng": -111.65407463749997,
+      "durationMins": 7,
+      "time": "2026-08-13T15:05:51.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786634934000-9990",
+    "category": "locations",
+    "timestamp": "2026-08-13T15:28:54.000Z",
+    "title": "Traveled to 2130-2320 N Timberline Rd",
+    "detail": {
+      "type": "travel",
+      "destination": "2130-2320 N Timberline Rd",
+      "lat": 35.2018237,
+      "lng": -111.5875453,
+      "distanceKmFromLast": 5.17,
+      "time": "2026-08-13T15:28:54.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786635060000-31",
+    "category": "locations",
+    "timestamp": "2026-08-13T15:31:00.000Z",
+    "title": "Stopped at East Inwood Way (162 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20960427611942,
+      "lng": -111.58505963731345,
+      "durationMins": 162,
+      "time": "2026-08-13T15:31:00.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786645037000-10065",
+    "category": "locations",
+    "timestamp": "2026-08-13T18:17:17.000Z",
+    "title": "Traveled to 3188-3200 E Butler Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "3188-3200 E Butler Ave",
+      "lat": 35.1947239,
+      "lng": -111.6107633,
+      "distanceKmFromLast": 2.25,
+      "time": "2026-08-13T18:17:17.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786645654000-10080",
+    "category": "locations",
+    "timestamp": "2026-08-13T18:27:34.000Z",
+    "title": "Traveled to 1834-1898 US-180",
+    "detail": {
+      "type": "travel",
+      "destination": "1834-1898 US-180",
+      "lat": 35.2172422,
+      "lng": -111.650376,
+      "distanceKmFromLast": 4.38,
+      "time": "2026-08-13T18:27:34.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786645732000-32",
+    "category": "locations",
+    "timestamp": "2026-08-13T18:28:52.000Z",
+    "title": "Stopped at 2216-2220 US-180 (7 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "2216-2220 US-180",
+      "lat": 35.22295056,
+      "lng": -111.65437202000001,
+      "durationMins": 7,
+      "time": "2026-08-13T18:28:52.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786646562000-10095",
+    "category": "locations",
+    "timestamp": "2026-08-13T18:42:42.000Z",
+    "title": "Traveled to 1401-1449 Historic Rte 66",
+    "detail": {
+      "type": "travel",
+      "destination": "1401-1449 Historic Rte 66",
+      "lat": 35.1939506,
+      "lng": -111.6325922,
+      "distanceKmFromLast": 3.05,
+      "time": "2026-08-13T18:42:42.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786647144000-33",
+    "category": "locations",
+    "timestamp": "2026-08-13T18:52:24.000Z",
+    "title": "Stopped at East Inwood Way (1157 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20962348516623,
+      "lng": -111.58504540920724,
+      "durationMins": 1157,
+      "time": "2026-08-13T18:52:24.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786647178000-10110",
+    "category": "locations",
+    "timestamp": "2026-08-13T18:52:58.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2095843,
+      "lng": -111.5851031,
+      "distanceKmFromLast": 4.65,
+      "time": "2026-08-13T18:52:58.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786717239000-10515",
+    "category": "locations",
+    "timestamp": "2026-08-14T14:20:39.000Z",
+    "title": "Traveled to 860-898 N San Francisco St",
+    "detail": {
+      "type": "travel",
+      "destination": "860-898 N San Francisco St",
+      "lat": 35.20562,
+      "lng": -111.6443412,
+      "distanceKmFromLast": 5.4,
+      "time": "2026-08-14T14:20:39.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786717696000-34",
+    "category": "locations",
+    "timestamp": "2026-08-14T14:28:16.000Z",
+    "title": "Stopped at 2216-2220 US-180 (12 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "2216-2220 US-180",
+      "lat": 35.22309516666666,
+      "lng": -111.65407543333333,
+      "durationMins": 12,
+      "time": "2026-08-14T14:28:16.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786718011000-10530",
+    "category": "locations",
+    "timestamp": "2026-08-14T14:33:31.000Z",
+    "title": "Traveled to 2216-2220 US-180",
+    "detail": {
+      "type": "travel",
+      "destination": "2216-2220 US-180",
+      "lat": 35.223139,
+      "lng": -111.6540063,
+      "distanceKmFromLast": 2.14,
+      "time": "2026-08-14T14:33:31.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786719089000-10545",
+    "category": "locations",
+    "timestamp": "2026-08-14T14:51:29.000Z",
+    "title": "Traveled to 1087-1099 AZ-89A",
+    "detail": {
+      "type": "travel",
+      "destination": "1087-1099 AZ-89A",
+      "lat": 35.1896578,
+      "lng": -111.6615111,
+      "distanceKmFromLast": 3.78,
+      "time": "2026-08-14T14:51:29.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786719411000-35",
+    "category": "locations",
+    "timestamp": "2026-08-14T14:56:51.000Z",
+    "title": "Stopped at West University Drive (6 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "West University Drive",
+      "lat": 35.18358164000001,
+      "lng": -111.66011295999999,
+      "durationMins": 6,
+      "time": "2026-08-14T14:56:51.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786719792000-36",
+    "category": "locations",
+    "timestamp": "2026-08-14T15:03:12.000Z",
+    "title": "Stopped at Flagstaff (41 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "Flagstaff",
+      "lat": 35.18420636521739,
+      "lng": -111.6594422304348,
+      "durationMins": 41,
+      "time": "2026-08-14T15:03:12.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786722809000-10590",
+    "category": "locations",
+    "timestamp": "2026-08-14T15:53:29.000Z",
+    "title": "Traveled to Purple Heart Trail",
+    "detail": {
+      "type": "travel",
+      "destination": "Purple Heart Trail",
+      "lat": 35.1793599,
+      "lng": -111.6386433,
+      "distanceKmFromLast": 2.37,
+      "time": "2026-08-14T15:53:29.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786723308000-37",
+    "category": "locations",
+    "timestamp": "2026-08-14T16:01:48.000Z",
+    "title": "Stopped at East Inwood Way (367 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.2096153731884,
+      "lng": -111.58505071884058,
+      "durationMins": 367,
+      "time": "2026-08-14T16:01:48.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786723493000-10605",
+    "category": "locations",
+    "timestamp": "2026-08-14T16:04:53.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2095828,
+      "lng": -111.5850281,
+      "distanceKmFromLast": 5.92,
+      "time": "2026-08-14T16:04:53.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786745972000-10755",
+    "category": "locations",
+    "timestamp": "2026-08-14T22:19:32.000Z",
+    "title": "Traveled to Purple Heart Trail",
+    "detail": {
+      "type": "travel",
+      "destination": "Purple Heart Trail",
+      "lat": 35.1731208,
+      "lng": -111.6487962,
+      "distanceKmFromLast": 7.07,
+      "time": "2026-08-14T22:19:32.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786746602000-10770",
+    "category": "locations",
+    "timestamp": "2026-08-14T22:30:02.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.9859021,
+      "lng": -111.6867215,
+      "distanceKmFromLast": 21.1,
+      "time": "2026-08-14T22:30:02.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786747232000-10785",
+    "category": "locations",
+    "timestamp": "2026-08-14T22:40:32.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.8058704,
+      "lng": -111.5985729,
+      "distanceKmFromLast": 21.57,
+      "time": "2026-08-14T22:40:32.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786747862000-10800",
+    "category": "locations",
+    "timestamp": "2026-08-14T22:51:02.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.6685019,
+      "lng": -111.7804776,
+      "distanceKmFromLast": 22.57,
+      "time": "2026-08-14T22:51:02.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786748492000-10815",
+    "category": "locations",
+    "timestamp": "2026-08-14T23:01:32.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.5360122,
+      "lng": -111.930086,
+      "distanceKmFromLast": 20.11,
+      "time": "2026-08-14T23:01:32.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786749122000-10830",
+    "category": "locations",
+    "timestamp": "2026-08-14T23:12:02.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.3946574,
+      "lng": -112.0807694,
+      "distanceKmFromLast": 20.93,
+      "time": "2026-08-14T23:12:02.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786749752000-10845",
+    "category": "locations",
+    "timestamp": "2026-08-14T23:22:32.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.2116316,
+      "lng": -112.1158571,
+      "distanceKmFromLast": 20.61,
+      "time": "2026-08-14T23:22:32.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786750382000-10860",
+    "category": "locations",
+    "timestamp": "2026-08-14T23:33:02.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.0249589,
+      "lng": -112.1476991,
+      "distanceKmFromLast": 20.96,
+      "time": "2026-08-14T23:33:02.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786751012000-38",
+    "category": "locations",
+    "timestamp": "2026-08-14T23:43:32.000Z",
+    "title": "Stopped at Phoenix (29 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "Phoenix",
+      "lat": 33.87395893684211,
+      "lng": -112.14862371578947,
+      "durationMins": 29,
+      "time": "2026-08-14T23:43:32.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786751012000-10875",
+    "category": "locations",
+    "timestamp": "2026-08-14T23:43:32.000Z",
+    "title": "Traveled to Phoenix",
+    "detail": {
+      "type": "travel",
+      "destination": "Phoenix",
+      "lat": 33.8739632,
+      "lng": -112.148226,
+      "distanceKmFromLast": 16.79,
+      "time": "2026-08-14T23:43:32.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786753361000-10905",
+    "category": "locations",
+    "timestamp": "2026-08-15T00:22:41.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 33.7614827,
+      "lng": -112.1279862,
+      "distanceKmFromLast": 12.65,
+      "time": "2026-08-15T00:22:41.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786753949000-10920",
+    "category": "locations",
+    "timestamp": "2026-08-15T00:32:29.000Z",
+    "title": "Traveled to West Bell Road",
+    "detail": {
+      "type": "travel",
+      "destination": "West Bell Road",
+      "lat": 33.6400378,
+      "lng": -112.0969211,
+      "distanceKmFromLast": 13.81,
+      "time": "2026-08-15T00:32:29.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786754439000-10935",
+    "category": "locations",
+    "timestamp": "2026-08-15T00:40:39.000Z",
+    "title": "Traveled to 1682-1620 E Bell Rd",
+    "detail": {
+      "type": "travel",
+      "destination": "1682-1620 E Bell Rd",
+      "lat": 33.6403297,
+      "lng": -112.046882,
+      "distanceKmFromLast": 4.63,
+      "time": "2026-08-15T00:40:39.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786754988000-10950",
+    "category": "locations",
+    "timestamp": "2026-08-15T00:49:48.000Z",
+    "title": "Traveled to East Bell Road",
+    "detail": {
+      "type": "travel",
+      "destination": "East Bell Road",
+      "lat": 33.6408053,
+      "lng": -111.9789076,
+      "distanceKmFromLast": 6.29,
+      "time": "2026-08-15T00:49:48.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786755587000-10965",
+    "category": "locations",
+    "timestamp": "2026-08-15T00:59:47.000Z",
+    "title": "Traveled to Phoenix",
+    "detail": {
+      "type": "travel",
+      "destination": "Phoenix",
+      "lat": 33.6794108,
+      "lng": -111.9584918,
+      "distanceKmFromLast": 4.69,
+      "time": "2026-08-15T00:59:47.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786755623000-39",
+    "category": "locations",
+    "timestamp": "2026-08-15T01:00:23.000Z",
+    "title": "Stopped at 21155 N 56th St (16 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "21155 N 56th St",
+      "lat": 33.6798100625,
+      "lng": -111.95893494375,
+      "durationMins": 16,
+      "time": "2026-08-15T01:00:23.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786757406000-10995",
+    "category": "locations",
+    "timestamp": "2026-08-15T01:30:06.000Z",
+    "title": "Traveled to 13748-13700 N 56th St",
+    "detail": {
+      "type": "travel",
+      "destination": "13748-13700 N 56th St",
+      "lat": 33.6104131,
+      "lng": -111.9605944,
+      "distanceKmFromLast": 7.67,
+      "time": "2026-08-15T01:30:06.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786758036000-11010",
+    "category": "locations",
+    "timestamp": "2026-08-15T01:40:36.000Z",
+    "title": "Traveled to North Invergordon Road",
+    "detail": {
+      "type": "travel",
+      "destination": "North Invergordon Road",
+      "lat": 33.553006,
+      "lng": -111.9431472,
+      "distanceKmFromLast": 6.58,
+      "time": "2026-08-15T01:40:36.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786758666000-40",
+    "category": "locations",
+    "timestamp": "2026-08-15T01:51:06.000Z",
+    "title": "Stopped at 6991 E Camelback Rd (19 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "6991 E Camelback Rd",
+      "lat": 33.50289091666666,
+      "lng": -111.92960983888888,
+      "durationMins": 19,
+      "time": "2026-08-15T01:51:06.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786758666000-11025",
+    "category": "locations",
+    "timestamp": "2026-08-15T01:51:06.000Z",
+    "title": "Traveled to North Goldwater Boulevard",
+    "detail": {
+      "type": "travel",
+      "destination": "North Goldwater Boulevard",
+      "lat": 33.5032683,
+      "lng": -111.9301841,
+      "distanceKmFromLast": 5.66,
+      "time": "2026-08-15T01:51:06.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786760381000-41",
+    "category": "locations",
+    "timestamp": "2026-08-15T02:19:41.000Z",
+    "title": "Stopped at Scottsdale (102 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "Scottsdale",
+      "lat": 33.50363210862068,
+      "lng": -111.92917709137933,
+      "durationMins": 102,
+      "time": "2026-08-15T02:19:41.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786766680000-42",
+    "category": "locations",
+    "timestamp": "2026-08-15T04:04:40.000Z",
+    "title": "Stopped at 6991 E Camelback Rd (5 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "6991 E Camelback Rd",
+      "lat": 33.50305125,
+      "lng": -111.92945917499999,
+      "durationMins": 5,
+      "time": "2026-08-15T04:04:40.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786767283000-11115",
+    "category": "locations",
+    "timestamp": "2026-08-15T04:14:43.000Z",
+    "title": "Traveled to Hayden Road",
+    "detail": {
+      "type": "travel",
+      "destination": "Hayden Road",
+      "lat": 33.5021538,
+      "lng": -111.9090868,
+      "distanceKmFromLast": 1.96,
+      "time": "2026-08-15T04:14:43.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786767913000-11130",
+    "category": "locations",
+    "timestamp": "2026-08-15T04:25:13.000Z",
+    "title": "Traveled to Pima Freeway",
+    "detail": {
+      "type": "travel",
+      "destination": "Pima Freeway",
+      "lat": 33.6354451,
+      "lng": -111.8903274,
+      "distanceKmFromLast": 14.92,
+      "time": "2026-08-15T04:25:13.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786768249000-43",
+    "category": "locations",
+    "timestamp": "2026-08-15T04:30:49.000Z",
+    "title": "Stopped at 21155 N 56th St (62 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "21155 N 56th St",
+      "lat": 33.67996787692305,
+      "lng": -111.95894832564106,
+      "durationMins": 62,
+      "time": "2026-08-15T04:30:49.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786768764000-11145",
+    "category": "locations",
+    "timestamp": "2026-08-15T04:39:24.000Z",
+    "title": "Traveled to 21155 N 56th St",
+    "detail": {
+      "type": "travel",
+      "destination": "21155 N 56th St",
+      "lat": 33.6798335,
+      "lng": -111.9589703,
+      "distanceKmFromLast": 8.05,
+      "time": "2026-08-15T04:39:24.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786772767000-11190",
+    "category": "locations",
+    "timestamp": "2026-08-15T05:46:07.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 33.6808611,
+      "lng": -112.1121379,
+      "distanceKmFromLast": 14.17,
+      "time": "2026-08-15T05:46:07.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786773397000-11205",
+    "category": "locations",
+    "timestamp": "2026-08-15T05:56:37.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 33.8803057,
+      "lng": -112.1471452,
+      "distanceKmFromLast": 22.41,
+      "time": "2026-08-15T05:56:37.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786774027000-11220",
+    "category": "locations",
+    "timestamp": "2026-08-15T06:07:07.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.0784808,
+      "lng": -112.1399881,
+      "distanceKmFromLast": 22.05,
+      "time": "2026-08-15T06:07:07.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786774657000-11235",
+    "category": "locations",
+    "timestamp": "2026-08-15T06:17:37.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.272127,
+      "lng": -112.1126496,
+      "distanceKmFromLast": 21.68,
+      "time": "2026-08-15T06:17:37.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786775287000-11250",
+    "category": "locations",
+    "timestamp": "2026-08-15T06:28:07.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.4349957,
+      "lng": -112.0318442,
+      "distanceKmFromLast": 19.57,
+      "time": "2026-08-15T06:28:07.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786775917000-11265",
+    "category": "locations",
+    "timestamp": "2026-08-15T06:38:37.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.5661603,
+      "lng": -111.8981608,
+      "distanceKmFromLast": 19.05,
+      "time": "2026-08-15T06:38:37.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786776547000-11280",
+    "category": "locations",
+    "timestamp": "2026-08-15T06:49:07.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.7044867,
+      "lng": -111.7382236,
+      "distanceKmFromLast": 21.23,
+      "time": "2026-08-15T06:49:07.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786777177000-11295",
+    "category": "locations",
+    "timestamp": "2026-08-15T06:59:37.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.841191,
+      "lng": -111.6038151,
+      "distanceKmFromLast": 19.54,
+      "time": "2026-08-15T06:59:37.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786777808000-11310",
+    "category": "locations",
+    "timestamp": "2026-08-15T07:10:08.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 35.0301417,
+      "lng": -111.6843639,
+      "distanceKmFromLast": 22.26,
+      "time": "2026-08-15T07:10:08.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786778438000-11325",
+    "category": "locations",
+    "timestamp": "2026-08-15T07:20:38.000Z",
+    "title": "Traveled to 2515 E Butler Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "2515 E Butler Ave",
+      "lat": 35.1916125,
+      "lng": -111.6201798,
+      "distanceKmFromLast": 18.88,
+      "time": "2026-08-15T07:20:38.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786781052000-44",
+    "category": "locations",
+    "timestamp": "2026-08-15T08:04:12.000Z",
+    "title": "Stopped at East Inwood Way (2098 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20961529629633,
+      "lng": -111.58504520711118,
+      "durationMins": 2098,
+      "time": "2026-08-15T08:04:12.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786784959000-11340",
+    "category": "locations",
+    "timestamp": "2026-08-15T09:09:19.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2096388,
+      "lng": -111.5850532,
+      "distanceKmFromLast": 3.77,
+      "time": "2026-08-15T09:09:19.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786907845000-45",
+    "category": "locations",
+    "timestamp": "2026-08-16T19:17:25.000Z",
+    "title": "Stopped at East Inwood Way (80 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20961676666665,
+      "lng": -111.5850216027778,
+      "durationMins": 80,
+      "time": "2026-08-16T19:17:25.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786914080000-12060",
+    "category": "locations",
+    "timestamp": "2026-08-16T21:01:20.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.9327743,
+      "lng": -111.6498149,
+      "distanceKmFromLast": 31.35,
+      "time": "2026-08-16T21:01:20.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786914710000-12075",
+    "category": "locations",
+    "timestamp": "2026-08-16T21:11:50.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.7674009,
+      "lng": -111.6522995,
+      "distanceKmFromLast": 18.39,
+      "time": "2026-08-16T21:11:50.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786915340000-12090",
+    "category": "locations",
+    "timestamp": "2026-08-16T21:22:20.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.6377475,
+      "lng": -111.8216862,
+      "distanceKmFromLast": 21.16,
+      "time": "2026-08-16T21:22:20.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786915928000-12105",
+    "category": "locations",
+    "timestamp": "2026-08-16T21:32:08.000Z",
+    "title": "Traveled to Finnie Flat Road",
+    "detail": {
+      "type": "travel",
+      "destination": "Finnie Flat Road",
+      "lat": 34.576002,
+      "lng": -111.883517,
+      "distanceKmFromLast": 8.9,
+      "time": "2026-08-16T21:32:08.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786917074000-12135",
+    "category": "locations",
+    "timestamp": "2026-08-16T21:51:14.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.5989436,
+      "lng": -111.8726741,
+      "distanceKmFromLast": 2.74,
+      "time": "2026-08-16T21:51:14.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786917704000-12150",
+    "category": "locations",
+    "timestamp": "2026-08-16T22:01:44.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.7355466,
+      "lng": -111.6967595,
+      "distanceKmFromLast": 22.13,
+      "time": "2026-08-16T22:01:44.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786918334000-12165",
+    "category": "locations",
+    "timestamp": "2026-08-16T22:12:14.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 34.872699,
+      "lng": -111.6330417,
+      "distanceKmFromLast": 16.32,
+      "time": "2026-08-16T22:12:14.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786918964000-12180",
+    "category": "locations",
+    "timestamp": "2026-08-16T22:22:44.000Z",
+    "title": "Traveled to Arizona Veterans Highway",
+    "detail": {
+      "type": "travel",
+      "destination": "Arizona Veterans Highway",
+      "lat": 35.0628452,
+      "lng": -111.6853788,
+      "distanceKmFromLast": 21.67,
+      "time": "2026-08-16T22:22:44.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786919594000-12195",
+    "category": "locations",
+    "timestamp": "2026-08-16T22:33:14.000Z",
+    "title": "Traveled to East Butler Avenue",
+    "detail": {
+      "type": "travel",
+      "destination": "East Butler Avenue",
+      "lat": 35.1951968,
+      "lng": -111.5996136,
+      "distanceKmFromLast": 16.66,
+      "time": "2026-08-16T22:33:14.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1786919874000-46",
+    "category": "locations",
+    "timestamp": "2026-08-16T22:37:54.000Z",
+    "title": "Stopped at East Inwood Way (2383 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20961189343679,
+      "lng": -111.58503010381857,
+      "durationMins": 2383,
+      "time": "2026-08-16T22:37:54.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1786920384000-12210",
+    "category": "locations",
+    "timestamp": "2026-08-16T22:46:24.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2096277,
+      "lng": -111.5850069,
+      "distanceKmFromLast": 2.08,
+      "time": "2026-08-16T22:46:24.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787063444000-13050",
+    "category": "locations",
+    "timestamp": "2026-08-18T14:30:44.000Z",
+    "title": "Traveled to East Ponderosa Parkway",
+    "detail": {
+      "type": "travel",
+      "destination": "East Ponderosa Parkway",
+      "lat": 35.1941726,
+      "lng": -111.6280656,
+      "distanceKmFromLast": 4.27,
+      "time": "2026-08-18T14:30:44.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787064060000-47",
+    "category": "locations",
+    "timestamp": "2026-08-18T14:41:00.000Z",
+    "title": "Stopped at 2216-2220 US-180 (21 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "2216-2220 US-180",
+      "lat": 35.22303413846154,
+      "lng": -111.65412646923076,
+      "durationMins": 21,
+      "time": "2026-08-18T14:41:00.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787064060000-13065",
+    "category": "locations",
+    "timestamp": "2026-08-18T14:41:00.000Z",
+    "title": "Traveled to North Fort Valley Road",
+    "detail": {
+      "type": "travel",
+      "destination": "North Fort Valley Road",
+      "lat": 35.2234409,
+      "lng": -111.6547017,
+      "distanceKmFromLast": 4.06,
+      "time": "2026-08-18T14:41:00.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787065434000-13080",
+    "category": "locations",
+    "timestamp": "2026-08-18T15:03:54.000Z",
+    "title": "Traveled to 1200-1260 US-180",
+    "detail": {
+      "type": "travel",
+      "destination": "1200-1260 US-180",
+      "lat": 35.2090802,
+      "lng": -111.6487317,
+      "distanceKmFromLast": 1.69,
+      "time": "2026-08-18T15:03:54.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787066036000-13095",
+    "category": "locations",
+    "timestamp": "2026-08-18T15:13:56.000Z",
+    "title": "Traveled to 2868-2760 E Butler Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "2868-2760 E Butler Ave",
+      "lat": 35.1925792,
+      "lng": -111.6162041,
+      "distanceKmFromLast": 3.48,
+      "time": "2026-08-18T15:13:56.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787066400000-48",
+    "category": "locations",
+    "timestamp": "2026-08-18T15:20:00.000Z",
+    "title": "Stopped at East Inwood Way (128 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20961341785714,
+      "lng": -111.5850383464286,
+      "durationMins": 128,
+      "time": "2026-08-18T15:20:00.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787066637000-13110",
+    "category": "locations",
+    "timestamp": "2026-08-18T15:23:57.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2096339,
+      "lng": -111.5850141,
+      "distanceKmFromLast": 3.41,
+      "time": "2026-08-18T15:23:57.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787075201000-49",
+    "category": "locations",
+    "timestamp": "2026-08-18T17:46:41.000Z",
+    "title": "Stopped at East Inwood Way (1238 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20962460544217,
+      "lng": -111.58502339909288,
+      "durationMins": 1238,
+      "time": "2026-08-18T17:46:41.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787150258000-13620",
+    "category": "locations",
+    "timestamp": "2026-08-19T14:37:38.000Z",
+    "title": "Traveled to 1401-1449 Historic Rte 66",
+    "detail": {
+      "type": "travel",
+      "destination": "1401-1449 Historic Rte 66",
+      "lat": 35.1941437,
+      "lng": -111.6320802,
+      "distanceKmFromLast": 4.61,
+      "time": "2026-08-19T14:37:38.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787150748000-50",
+    "category": "locations",
+    "timestamp": "2026-08-19T14:45:48.000Z",
+    "title": "Stopped at 2216-2220 US-180 (7 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "2216-2220 US-180",
+      "lat": 35.22311642857143,
+      "lng": -111.65425151428569,
+      "durationMins": 7,
+      "time": "2026-08-19T14:45:48.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787150929000-13635",
+    "category": "locations",
+    "timestamp": "2026-08-19T14:48:49.000Z",
+    "title": "Traveled to 2216-2220 US-180",
+    "detail": {
+      "type": "travel",
+      "destination": "2216-2220 US-180",
+      "lat": 35.223334,
+      "lng": -111.6541004,
+      "distanceKmFromLast": 3.81,
+      "time": "2026-08-19T14:48:49.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787151942000-13650",
+    "category": "locations",
+    "timestamp": "2026-08-19T15:05:42.000Z",
+    "title": "Traveled to 2515 E Butler Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "2515 E Butler Ave",
+      "lat": 35.1923029,
+      "lng": -111.6174494,
+      "distanceKmFromLast": 4.8,
+      "time": "2026-08-19T15:05:42.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787152277000-51",
+    "category": "locations",
+    "timestamp": "2026-08-19T15:11:17.000Z",
+    "title": "Stopped at East Inwood Way (1406 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.2096277214285,
+      "lng": -111.58502930617773,
+      "durationMins": 1406,
+      "time": "2026-08-19T15:11:17.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787152903000-13665",
+    "category": "locations",
+    "timestamp": "2026-08-19T15:21:43.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2095849,
+      "lng": -111.5850423,
+      "distanceKmFromLast": 3.52,
+      "time": "2026-08-19T15:21:43.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787237438000-14190",
+    "category": "locations",
+    "timestamp": "2026-08-20T14:50:38.000Z",
+    "title": "Traveled to East Ponderosa Parkway",
+    "detail": {
+      "type": "travel",
+      "destination": "East Ponderosa Parkway",
+      "lat": 35.1942144,
+      "lng": -111.6280309,
+      "distanceKmFromLast": 4.26,
+      "time": "2026-08-20T14:50:38.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787238026000-52",
+    "category": "locations",
+    "timestamp": "2026-08-20T15:00:26.000Z",
+    "title": "Stopped at 2216-2220 US-180 (7 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "2216-2220 US-180",
+      "lat": 35.22262005,
+      "lng": -111.65359205,
+      "durationMins": 7,
+      "time": "2026-08-20T15:00:26.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787238059000-14205",
+    "category": "locations",
+    "timestamp": "2026-08-20T15:00:59.000Z",
+    "title": "Traveled to 2216-2220 US-180",
+    "detail": {
+      "type": "travel",
+      "destination": "2216-2220 US-180",
+      "lat": 35.2225993,
+      "lng": -111.6534264,
+      "distanceKmFromLast": 3.91,
+      "time": "2026-08-20T15:00:59.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787238821000-14220",
+    "category": "locations",
+    "timestamp": "2026-08-20T15:13:41.000Z",
+    "title": "Traveled to 700-796 N Switzer Canyon Dr",
+    "detail": {
+      "type": "travel",
+      "destination": "700-796 N Switzer Canyon Dr",
+      "lat": 35.2033066,
+      "lng": -111.6391616,
+      "distanceKmFromLast": 2.51,
+      "time": "2026-08-20T15:13:41.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787239451000-53",
+    "category": "locations",
+    "timestamp": "2026-08-20T15:24:11.000Z",
+    "title": "Stopped at East Inwood Way (87 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.2095953263158,
+      "lng": -111.58502243157895,
+      "durationMins": 87,
+      "time": "2026-08-20T15:24:11.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787239451000-14235",
+    "category": "locations",
+    "timestamp": "2026-08-20T15:24:11.000Z",
+    "title": "Traveled to East Inwood Way",
+    "detail": {
+      "type": "travel",
+      "destination": "East Inwood Way",
+      "lat": 35.2094651,
+      "lng": -111.5853332,
+      "distanceKmFromLast": 4.94,
+      "time": "2026-08-20T15:24:11.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787245907000-54",
+    "category": "locations",
+    "timestamp": "2026-08-20T17:11:47.000Z",
+    "title": "Stopped at East Inwood Way (1275 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20960571367925,
+      "lng": -111.58500602169808,
+      "durationMins": 1275,
+      "time": "2026-08-20T17:11:47.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787322939000-14715",
+    "category": "locations",
+    "timestamp": "2026-08-21T14:35:39.000Z",
+    "title": "Traveled to 2515 E Butler Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "2515 E Butler Ave",
+      "lat": 35.1918792,
+      "lng": -111.6199736,
+      "distanceKmFromLast": 3.71,
+      "time": "2026-08-21T14:35:39.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787323527000-55",
+    "category": "locations",
+    "timestamp": "2026-08-21T14:45:27.000Z",
+    "title": "Stopped at 2216-2220 US-180 (9 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "2216-2220 US-180",
+      "lat": 35.2232647875,
+      "lng": -111.6545537375,
+      "durationMins": 9,
+      "time": "2026-08-21T14:45:27.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787323569000-14730",
+    "category": "locations",
+    "timestamp": "2026-08-21T14:46:09.000Z",
+    "title": "Traveled to North Fort Valley Road",
+    "detail": {
+      "type": "travel",
+      "destination": "North Fort Valley Road",
+      "lat": 35.2234879,
+      "lng": -111.6546353,
+      "distanceKmFromLast": 4.72,
+      "time": "2026-08-21T14:46:09.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787324438000-14745",
+    "category": "locations",
+    "timestamp": "2026-08-21T15:00:38.000Z",
+    "title": "Traveled to 1475-1599 E Cedar Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "1475-1599 E Cedar Ave",
+      "lat": 35.2182455,
+      "lng": -111.6225407,
+      "distanceKmFromLast": 2.97,
+      "time": "2026-08-21T15:00:38.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787325068000-14760",
+    "category": "locations",
+    "timestamp": "2026-08-21T15:11:08.000Z",
+    "title": "Traveled to 2130-2320 N Timberline Rd",
+    "detail": {
+      "type": "travel",
+      "destination": "2130-2320 N Timberline Rd",
+      "lat": 35.2014344,
+      "lng": -111.5880791,
+      "distanceKmFromLast": 3.65,
+      "time": "2026-08-21T15:11:08.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787325194000-56",
+    "category": "locations",
+    "timestamp": "2026-08-21T15:13:14.000Z",
+    "title": "Stopped at East Inwood Way (170 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.209598535185194,
+      "lng": -111.5850268055555,
+      "durationMins": 170,
+      "time": "2026-08-21T15:13:14.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787336256000-14835",
+    "category": "locations",
+    "timestamp": "2026-08-21T18:17:36.000Z",
+    "title": "Traveled to 402-400 E Cherry Ave",
+    "detail": {
+      "type": "travel",
+      "destination": "402-400 E Cherry Ave",
+      "lat": 35.1987877,
+      "lng": -111.6439116,
+      "distanceKmFromLast": 5.08,
+      "time": "2026-08-21T18:17:36.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787336736000-57",
+    "category": "locations",
+    "timestamp": "2026-08-21T18:25:36.000Z",
+    "title": "Stopped at 2216-2220 US-180 (14 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "2216-2220 US-180",
+      "lat": 35.22290581111112,
+      "lng": -111.65395231111111,
+      "durationMins": 14,
+      "time": "2026-08-21T18:25:36.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787336897000-14850",
+    "category": "locations",
+    "timestamp": "2026-08-21T18:28:17.000Z",
+    "title": "Traveled to 2216-2220 US-180",
+    "detail": {
+      "type": "travel",
+      "destination": "2216-2220 US-180",
+      "lat": 35.2228246,
+      "lng": -111.6537991,
+      "distanceKmFromLast": 2.82,
+      "time": "2026-08-21T18:28:17.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787338251000-14865",
+    "category": "locations",
+    "timestamp": "2026-08-21T18:50:51.000Z",
+    "title": "Traveled to 860-898 N San Francisco St",
+    "detail": {
+      "type": "travel",
+      "destination": "860-898 N San Francisco St",
+      "lat": 35.2056512,
+      "lng": -111.6445119,
+      "distanceKmFromLast": 2.09,
+      "time": "2026-08-21T18:50:51.000Z"
+    }
+  },
+  {
+    "id": "loc-travel-1787338846000-14880",
+    "category": "locations",
+    "timestamp": "2026-08-21T19:00:46.000Z",
+    "title": "Traveled to 1801 N Continental Dr",
+    "detail": {
+      "type": "travel",
+      "destination": "1801 N Continental Dr",
+      "lat": 35.1984303,
+      "lng": -111.5915395,
+      "distanceKmFromLast": 4.88,
+      "time": "2026-08-21T19:00:46.000Z"
+    }
+  },
+  {
+    "id": "loc-stop-1787339000000-58",
+    "category": "locations",
+    "timestamp": "2026-08-21T19:03:20.000Z",
+    "title": "Stopped at East Inwood Way (3083 mins)",
+    "detail": {
+      "type": "stop",
+      "name": "East Inwood Way",
+      "lat": 35.20959709098126,
+      "lng": -111.58500336422213,
+      "durationMins": 3083,
+      "time": "2026-08-21T19:03:20.000Z"
+    }
+  }
+]

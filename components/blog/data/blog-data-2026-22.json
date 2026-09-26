@@ -1,0 +1,48 @@
+[
+	{
+		"id": "2009-10-08-blog-changes",
+		"title": "Blog Changes: Rebranding to 'Blag' & The Sacred Abandoned Projects Bucket",
+		"date": "2009-10-08T00:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"General",
+			"Meta",
+			"Abandoned Projects"
+		],
+		"tags": [
+			"blag",
+			"drupal",
+			"wordpress",
+			"abandoned-projects",
+			"procrastination",
+			"software-graveyard"
+		],
+		"summary": "An unsparingly honest meta-update admitting that 'blog' is too energetic a term for a site that mostly documents half-baked hardware side quests and incomplete code repos.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Blog Changes: Rebranding to 'Blag' & The Sacred Abandoned Projects Bucket</h1><p class=\"byline\">Published on October 8, 2009 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_10027022592707875336\" alt=\"Dusty warehouse filled with abandoned storage boxes\" class=\"hero-image\"/><p class=\"caption\">An accurate visual representation of the Abandoned Projects Bucket where ambitious ideas go to rot.</p></div><section class=\"post-body\"><p>As anyone with a pulse may have noticed, the title of this digital wasteland has been officially rebranded to <strong>Brian Cullinan’s Blag</strong>. This architectural naming decision wasn't made lightly—it was forged in the fires of complete operational collapse.</p><h2>Why 'Blag'?</h2><ol><li><strong>Zero Throughput:</strong> I ran out of actual completed projects to boast about at the exact moment I ran out of free time to start new ones.</li><li><strong>Chronological Latency:</strong> It's literally a <em>blag</em> because it <em>lags</em> behind reality by weeks, months, or geological epochs.</li><li><strong>CMS Snobbery:</strong> I migrated from WordPress to the vastly more complex, over-engineered world of Drupal, because why use a simple publishing platform when you can spend 40 hours configuring database hooks instead of actually writing?</li></ol><h2>The Anatomy of an Abandoned Project</h2><p>My standard development workflow follows a predictable arc: get struck by a wave of genius, buy $200 worth of components, complete 35% of the build, hit an impossible hardware or software bottleneck, realize the scope is utterly absurd, and throw everything directly into the physical <strong>Abandoned Projects Bucket</strong>. What follows on this blag will be the post-mortem eulogies for those forgotten scraps.</p></section></article>",
+		"modern_insight_2026": "Rebranding a site because you lack the discipline to update it is the ultimate peak 2000s developer move. Ditching WordPress for Drupal just to post about uncompleted microcontrollers proved early on that tinkering with the publishing stack is always more appealing than actually shipping content."
+	},
+	{
+		"id": "2008-12-19-car-streaming-hack",
+		"title": "Hack of the Week: Poor Man's Pandora on a Treo 700WX with Soldered Cassette Adapters",
+		"date": "2008-12-19T00:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Hacking",
+			"Hardware",
+			"Audio Engineering"
+		],
+		"tags": [
+			"treo700wx",
+			"vlc",
+			"mmsh",
+			"tcpmp",
+			"cassette-adapter",
+			"soldering",
+			"cellular-data",
+			"diy"
+		],
+		"summary": "Refusing to pay AT&T for an overpriced iPhone, I wired up a Palm Treo 700WX, a gutted cassette tape adapter, and a home-brewed VLC streaming server to build a janky 2-channel in-car audio system.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Hack of the Week: Poor Man's Pandora on a Treo 700WX with Soldered Cassette Adapters</h1><p class=\"byline\">Published on December 19, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_8361718985261916155\" alt=\"Palm Treo 700wx smartphone running Windows Mobile\" class=\"hero-image\"/><p class=\"caption\">The Palm Treo 700WX: Proof that Windows Mobile and a 2.5mm jack can defeat Steve Jobs' closed ecosystem.</p></div><section class=\"post-body\"><p>Some of us refuse to fork over our life savings to AT&amp;T for the privilege of carrying an iPhone on their notoriously fragile 3G network. Instead of surrendering to Apple’s walled garden, I decided to engineer a completely ridiculous, over-complicated alternative using a Palm Treo 700WX on Verizon’s $30 unlimited plan.</p><h2>The Hardware: TRRS Wiring Hell</h2><p>The Treo 700WX outputs stereo audio, but Palm used a non-standard 2.5mm 4-segment (TRRS) pinout where the tip is the right channel and the first ring is the left channel—meaning standard 3.5mm stereo jacks short out or drop a channel entirely. The fix? <em>Surgical modification.</em></p><div class=\"post-media\"><img src=\"image_agent_tag_8361718985261912316\" alt=\"Cassette tape adapter with exposed aux cable\" class=\"hero-image\"/><p class=\"caption\">A mechanically gutted cassette adapter, stripped of its auto-reverse locking gears.</p></div><h2>The Tape Deck Surgical Procedure</h2><ol><li><strong>Gutting the Gears:</strong> Cheap tape adapters contain an auto-reverse mechanism with locking gears that freeze stock car stereos. I tore the casing open and ripped out the internal gear cluster so the head spins freely without triggering an auto-eject.</li><li><strong>Solder Surgery:</strong> I desoldered the standard 3.5mm plug and hand-soldered hair-thin earbud wires directly to the tape head lead wires at awkward vertical angles using a multimeter and sheer willpower.</li></ol><h2>The Streaming Backend: VLC &amp; MMSH</h2><p>On the server side, I spun up a headless VLC instance on my home rig, transcoding a continuous looping playlist into an <code>mmsh-asfh</code> stream over TCP. On the phone, TCPMP connects to the home server over 1xRTT/EV-DO data, giving me pristine 2-channel audio streamed live to a 1990s dashboard cassette deck.</p></section></article>",
+		"modern_insight_2026": "Building a custom Linux VLC server, re-soldering 2.5mm TRRS pinouts, and gutting cassette auto-reverse gears just to avoid paying $70/month for an iPhone 3G is the ultimate badge of honor. Today's Bluetooth 5.4 auto-pairing makes us soft; back then, if you wanted music in your car, you had to perform open-heart surgery on a tape deck."
+	}
+]

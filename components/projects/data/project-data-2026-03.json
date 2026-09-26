@@ -1,0 +1,2811 @@
+{
+  "yearMonth": "2026-03",
+  "generatedAt": "2026-09-24T02:37:24.584Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-03-19": {
+          "date": "2026-03-19",
+          "heatScore": 100,
+          "linesChanged": 8566,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "bookmarks.js",
+            "docs/index.html",
+            "history.js",
+            "main.cpp",
+            "main.obj",
+            "package-lock.json",
+            "package.json",
+            "sog.exe",
+            "windows.js"
+          ],
+          "commits": [
+            {
+              "hash": "606edf73c3a4d1f58c23c5228f566d61e6bf1582",
+              "author": "Brian Cullinan",
+              "date": "2026-03-19T16:27:53.000Z",
+              "message": "windows window enum and libsql switch",
+              "linesAdded": 4436,
+              "linesDeleted": 4130,
+              "filesChanged": [
+                "README.md",
+                "bookmarks.js",
+                "docs/index.html",
+                "history.js",
+                "main.cpp",
+                "main.obj",
+                "package-lock.json",
+                "package.json",
+                "sog.exe",
+                "windows.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-03-04": {
+          "date": "2026-03-04",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_combat.c",
+            "code/game/g_local.h",
+            "code/game/g_missile.c"
+          ],
+          "commits": [
+            {
+              "hash": "4cb93e3ff3060bbb49e65bec7116c84bd7ee8b6f",
+              "author": "Eugene",
+              "date": "2026-03-04T10:24:22.000Z",
+              "message": "Merge pull request #66 from WofWca/fix-look-at-missile-on-suicide",
+              "linesAdded": 5,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "code/game/g_combat.c",
+                "code/game/g_local.h",
+                "code/game/g_missile.c"
+              ]
+            }
+          ]
+        },
+        "2026-03-03": {
+          "date": "2026-03-03",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_client.c"
+          ],
+          "commits": [
+            {
+              "hash": "33a384aef6eacacc13b9f9051681698a516b9db8",
+              "author": "WofWca",
+              "date": "2026-03-03T18:34:42.000Z",
+              "message": "fix: invisible but shootable gibbed corpses",
+              "linesAdded": 6,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "code/game/g_client.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-03-30": {
+          "date": "2026-03-30",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/services/keyboard-service.ts"
+          ],
+          "commits": [
+            {
+              "hash": "111046f05f638b77138127a309f74ecff34b9d2a",
+              "author": "Igor Zinken",
+              "date": "2026-03-30T20:49:54.000Z",
+              "message": "Remove rudimentary, conflicting escape listener in keyboard service",
+              "linesAdded": 0,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "src/services/keyboard-service.ts"
+              ]
+            }
+          ]
+        },
+        "2026-03-28": {
+          "date": "2026-03-28",
+          "heatScore": 13,
+          "linesChanged": 46,
+          "commitCount": 1,
+          "filesEdited": [
+            "public/login.html",
+            "src/mixins/cloud-service-connector.ts"
+          ],
+          "commits": [
+            {
+              "hash": "b5e62020fbce26211a922ac5c9990c3f24aa70e9",
+              "author": "Igor Zinken",
+              "date": "2026-03-28T17:46:12.000Z",
+              "message": "Fixed broken Dropbox integration",
+              "linesAdded": 22,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "public/login.html",
+                "src/mixins/cloud-service-connector.ts"
+              ]
+            }
+          ]
+        },
+        "2026-03-27": {
+          "date": "2026-03-27",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/document-preview/document-preview.vue",
+            "src/components/document-properties-window/messages.json",
+            "src/components/file-menu/export-window/export-window.vue"
+          ],
+          "commits": [
+            {
+              "hash": "b3114341566e83c4135680dfe5084decef20def9",
+              "author": "Igor Zinken",
+              "date": "2026-03-27T21:18:39.000Z",
+              "message": "Small images are now shown scaled up in export window",
+              "linesAdded": 29,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "src/components/document-preview/document-preview.vue",
+                "src/components/document-properties-window/messages.json",
+                "src/components/file-menu/export-window/export-window.vue"
+              ]
+            }
+          ]
+        },
+        "2026-03-26": {
+          "date": "2026-03-26",
+          "heatScore": 100,
+          "linesChanged": 3184,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/bitmappery.vue",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/components/file-menu/create-document-window/create-document-window.vue",
+            "src/components/file-menu/create-document-window/messages.json",
+            "src/components/file-menu/create-document/create-document.vue",
+            "src/components/file-menu/create-document/messages.json",
+            "src/components/file-menu/export-window/export-window.vue",
+            "src/components/file-menu/export-window/messages.json",
+            "src/components/layer-panel/layer-panel.vue",
+            "src/components/layer-panel/messages.json",
+            "src/components/menus/header-menu/header-menu.vue",
+            "src/components/menus/header-menu/messages.json",
+            "src/components/modal/modal.vue",
+            "src/components/new-layer-window/new-layer-window.vue",
+            "src/components/{preferences => preferences-window}/messages.json",
+            "src/components/{preferences/preferences.vue => preferences-window/preferences-window.vue}",
+            "src/components/resize-document-window/resize-document-window.vue",
+            "src/components/timeline-panel/animation-preview/animation-preview-window.vue",
+            "src/components/timeline-panel/animation-preview/messages.json",
+            "src/components/timeline-panel/messages.json",
+            "src/components/timeline-panel/timeline-panel.vue",
+            "src/components/tool-options-panel/tool-options-zoom/tool-options-zoom.vue",
+            "src/components/ui/color-picker/color-picker.vue",
+            "src/components/ui/dimensions-formatter/dimensions-formatter.vue",
+            "src/definitions/document-presets.ts",
+            "src/definitions/document.ts",
+            "src/definitions/editor-properties.ts",
+            "src/definitions/editor.ts",
+            "src/definitions/modal-windows.ts",
+            "src/factories/document-factory.ts",
+            "src/factories/layer-factory.ts",
+            "src/factories/renderer-factory.ts",
+            "src/math/image-math.ts",
+            "src/messages.json",
+            "src/rendering/actors/guide-renderer.ts",
+            "src/rendering/actors/layer-renderer.ts",
+            "src/rendering/actors/zoomable-canvas.ts",
+            "src/rendering/cache/thumbnail-cache.ts",
+            "src/rendering/cache/tile-cache.ts",
+            "src/services/render-animation-service.ts",
+            "src/store/actions/document-resize.ts",
+            "src/store/actions/layer-add-text-layer.ts",
+            "src/store/actions/layer-duplicate.ts",
+            "src/store/actions/layer-reorder.ts",
+            "src/store/actions/tile-add.ts",
+            "src/store/actions/tile-clone.ts",
+            "src/store/actions/tile-delete.ts",
+            "src/store/index.ts",
+            "src/store/modules/document-module.ts",
+            "src/store/modules/editor-module.ts",
+            "src/store/modules/preferences-module.ts",
+            "src/utils/document-util.ts",
+            "src/utils/layer-util.ts",
+            "src/utils/timeline-util.ts",
+            "tests/unit/factories/document-factory.spec.ts",
+            "tests/unit/factories/layer-factory.spec.ts",
+            "tests/unit/factories/renderer-factory.spec.ts",
+            "tests/unit/math/image-math.spec.ts",
+            "tests/unit/mocks.ts",
+            "tests/unit/rendering/cache/thumbnail-cache.spec.ts",
+            "tests/unit/rendering/cache/tile-cache.spec.ts",
+            "tests/unit/store/actions/document-resize.spec.ts",
+            "tests/unit/store/actions/layer-add-text-layer.spec.ts",
+            "tests/unit/store/actions/layer-reorder.spec.ts",
+            "tests/unit/store/actions/tile-add.spec.ts",
+            "tests/unit/store/actions/tile-clone.spec.ts",
+            "tests/unit/store/actions/tile-delete.spec.ts",
+            "tests/unit/store/modules/document-module.spec.ts",
+            "tests/unit/store/modules/editor-module.spec.ts",
+            "tests/unit/store/modules/preferences-module.spec.ts",
+            "tests/unit/utils/timeline-util.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "baa00dc64495f1966cd16ea9c7a5dd991b7568e7",
+              "author": "Igor Zinken",
+              "date": "2026-03-26T17:47:05.000Z",
+              "message": "Add timeline mode for animation support (#83)",
+              "linesAdded": 2806,
+              "linesDeleted": 378,
+              "filesChanged": [
+                "src/bitmappery.vue",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/components/file-menu/create-document-window/create-document-window.vue",
+                "src/components/file-menu/create-document-window/messages.json",
+                "src/components/file-menu/create-document/create-document.vue",
+                "src/components/file-menu/create-document/messages.json",
+                "src/components/file-menu/export-window/export-window.vue",
+                "src/components/file-menu/export-window/messages.json",
+                "src/components/layer-panel/layer-panel.vue",
+                "src/components/layer-panel/messages.json",
+                "src/components/menus/header-menu/header-menu.vue",
+                "src/components/menus/header-menu/messages.json",
+                "src/components/modal/modal.vue",
+                "src/components/new-layer-window/new-layer-window.vue",
+                "src/components/{preferences => preferences-window}/messages.json",
+                "src/components/{preferences/preferences.vue => preferences-window/preferences-window.vue}",
+                "src/components/resize-document-window/resize-document-window.vue",
+                "src/components/timeline-panel/animation-preview/animation-preview-window.vue",
+                "src/components/timeline-panel/animation-preview/messages.json",
+                "src/components/timeline-panel/messages.json",
+                "src/components/timeline-panel/timeline-panel.vue",
+                "src/components/tool-options-panel/tool-options-zoom/tool-options-zoom.vue",
+                "src/components/ui/color-picker/color-picker.vue",
+                "src/components/ui/dimensions-formatter/dimensions-formatter.vue",
+                "src/definitions/document-presets.ts",
+                "src/definitions/document.ts",
+                "src/definitions/editor-properties.ts",
+                "src/definitions/editor.ts",
+                "src/definitions/modal-windows.ts",
+                "src/factories/document-factory.ts",
+                "src/factories/layer-factory.ts",
+                "src/factories/renderer-factory.ts",
+                "src/math/image-math.ts",
+                "src/messages.json",
+                "src/rendering/actors/guide-renderer.ts",
+                "src/rendering/actors/layer-renderer.ts",
+                "src/rendering/actors/zoomable-canvas.ts",
+                "src/rendering/cache/thumbnail-cache.ts",
+                "src/rendering/cache/tile-cache.ts",
+                "src/services/render-animation-service.ts",
+                "src/store/actions/document-resize.ts",
+                "src/store/actions/layer-add-text-layer.ts",
+                "src/store/actions/layer-duplicate.ts",
+                "src/store/actions/layer-reorder.ts",
+                "src/store/actions/tile-add.ts",
+                "src/store/actions/tile-clone.ts",
+                "src/store/actions/tile-delete.ts",
+                "src/store/index.ts",
+                "src/store/modules/document-module.ts",
+                "src/store/modules/editor-module.ts",
+                "src/store/modules/preferences-module.ts",
+                "src/utils/document-util.ts",
+                "src/utils/layer-util.ts",
+                "src/utils/timeline-util.ts",
+                "tests/unit/factories/document-factory.spec.ts",
+                "tests/unit/factories/layer-factory.spec.ts",
+                "tests/unit/factories/renderer-factory.spec.ts",
+                "tests/unit/math/image-math.spec.ts",
+                "tests/unit/mocks.ts",
+                "tests/unit/rendering/cache/thumbnail-cache.spec.ts",
+                "tests/unit/rendering/cache/tile-cache.spec.ts",
+                "tests/unit/store/actions/document-resize.spec.ts",
+                "tests/unit/store/actions/layer-add-text-layer.spec.ts",
+                "tests/unit/store/actions/layer-reorder.spec.ts",
+                "tests/unit/store/actions/tile-add.spec.ts",
+                "tests/unit/store/actions/tile-clone.spec.ts",
+                "tests/unit/store/actions/tile-delete.spec.ts",
+                "tests/unit/store/modules/document-module.spec.ts",
+                "tests/unit/store/modules/editor-module.spec.ts",
+                "tests/unit/store/modules/preferences-module.spec.ts",
+                "tests/unit/utils/timeline-util.spec.ts"
+              ]
+            }
+          ]
+        },
+        "2026-03-25": {
+          "date": "2026-03-25",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/document-preview/document-preview.vue"
+          ],
+          "commits": [
+            {
+              "hash": "4e8631d758360ab8b537023a81baeb6e3d056b2b",
+              "author": "Igor Zinken",
+              "date": "2026-03-25T16:45:33.000Z",
+              "message": "Prevent bounce when scrolling in export window preview using touch pad",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/components/document-preview/document-preview.vue"
+              ]
+            }
+          ]
+        },
+        "2026-03-21": {
+          "date": "2026-03-21",
+          "heatScore": 12,
+          "linesChanged": 32,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/actors/layer-renderer.ts",
+            "src/utils/document-util.ts"
+          ],
+          "commits": [
+            {
+              "hash": "5fd0502f08506c0ba9a7d188a14d3197028682d9",
+              "author": "Igor Zinken",
+              "date": "2026-03-21T14:07:34.000Z",
+              "message": "Use ZoomableCanvas subclass instead of zCanvas class when creating temporary draw canvas",
+              "linesAdded": 21,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "src/rendering/actors/layer-renderer.ts",
+                "src/utils/document-util.ts"
+              ]
+            }
+          ]
+        },
+        "2026-03-14": {
+          "date": "2026-03-14",
+          "heatScore": 13,
+          "linesChanged": 52,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json"
+          ],
+          "commits": [
+            {
+              "hash": "004b6afb68079442f06f1b7f6fec8de8aa1b71e2",
+              "author": "dependabot[bot]",
+              "date": "2026-03-14T10:08:39.000Z",
+              "message": "Bump the npm_and_yarn group across 1 directory with 2 updates (#80)",
+              "linesAdded": 34,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "package-lock.json"
+              ]
+            }
+          ]
+        },
+        "2026-03-03": {
+          "date": "2026-03-03",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/factories/history-state-factory.ts"
+          ],
+          "commits": [
+            {
+              "hash": "c321d04374d97b77bd1a9a02504d59496ce409a6",
+              "author": "Igor Zinken",
+              "date": "2026-03-03T20:25:09.000Z",
+              "message": "Fix issue where history state factory would not store reference to pending timeouts",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "src/factories/history-state-factory.ts"
+              ]
+            }
+          ]
+        },
+        "2026-03-01": {
+          "date": "2026-03-01",
+          "heatScore": 18,
+          "linesChanged": 125,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/document-canvas/scrollbars/scrollbars.vue"
+          ],
+          "commits": [
+            {
+              "hash": "6a43e04db3e39e0b6473a65333ae3a6d9bc14df3",
+              "author": "Igor Zinken",
+              "date": "2026-03-01T17:19:54.000Z",
+              "message": "Improved scrollbar control",
+              "linesAdded": 93,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "src/components/document-canvas/scrollbars/scrollbars.vue"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "clearview2": {
+      "projectName": "clearview2",
+      "localPath": "C:\\Users\\megam\\clearview2",
+      "remoteUrl": "git@github.com:briancullinan2/clearview2.git",
+      "lastUpdated": "2026-09-24T02:37:00.856Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-03-11": {
+          "date": "2026-03-11",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/Entities/User.cs",
+            "DataLayer/EntityMetadata.cs",
+            "DataLayer/TranslationContext.cs"
+          ],
+          "commits": [
+            {
+              "hash": "acf1e1cf9d2a005305e26ee747159c2d9b354dac",
+              "author": "Brian Cullinan",
+              "date": "2026-03-11T03:08:46.000Z",
+              "message": "fixes",
+              "linesAdded": 25,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "DataLayer/Entities/User.cs",
+                "DataLayer/EntityMetadata.cs",
+                "DataLayer/TranslationContext.cs"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-03-26": {
+          "date": "2026-03-26",
+          "heatScore": 14,
+          "linesChanged": 69,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py",
+            "comfy_extras/nodes_ar_video.py"
+          ],
+          "commits": [
+            {
+              "hash": "efee28509979e33b896caece09ad4c5264396046",
+              "author": "Talmaj Marinc",
+              "date": "2026-03-26T09:10:53.000Z",
+              "message": "Add I2V for causal forcing model.",
+              "linesAdded": 69,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py",
+                "comfy_extras/nodes_ar_video.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-25": {
+          "date": "2026-03-25",
+          "heatScore": 11,
+          "linesChanged": 25,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py",
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "8ad8d101a1b032a4478a6c12b49199558d1a3f2f",
+              "author": "Talmaj Marinc",
+              "date": "2026-03-25T21:15:44.000Z",
+              "message": "Add better error handling for a custom ar_video sampler.",
+              "linesAdded": 22,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py",
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-24": {
+          "date": "2026-03-24",
+          "heatScore": 33,
+          "linesChanged": 352,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py",
+            "comfy/ldm/wan/ar_model.py",
+            "comfy/model_base.py",
+            "comfy/samplers.py",
+            "comfy/supported_models.py",
+            "comfy_extras/nodes_ar_video.py"
+          ],
+          "commits": [
+            {
+              "hash": "d1998480b0bc2f961d304f1dd01f44cc2fa2fc10",
+              "author": "Talmaj Marinc",
+              "date": "2026-03-24T12:23:06.000Z",
+              "message": "Rewrite causual forcing using custom sampler with KSampler node.",
+              "linesAdded": 170,
+              "linesDeleted": 182,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py",
+                "comfy/ldm/wan/ar_model.py",
+                "comfy/model_base.py",
+                "comfy/samplers.py",
+                "comfy/supported_models.py",
+                "comfy_extras/nodes_ar_video.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-20": {
+          "date": "2026-03-20",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/wan/ar_model.py"
+          ],
+          "commits": [
+            {
+              "hash": "92f937daa65d37e992104bf84e51d276823f83c1",
+              "author": "Talmaj Marinc",
+              "date": "2026-03-20T21:26:42.000Z",
+              "message": "Apply ruff.",
+              "linesAdded": 0,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/ldm/wan/ar_model.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-30": {
+          "date": "2026-03-30",
+          "heatScore": 29,
+          "linesChanged": 286,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_io.py",
+            "execution.py",
+            "tests-unit/comfy_api_test/remote_combo_options_test.py"
+          ],
+          "commits": [
+            {
+              "hash": "defb663b9472fe45c8a4579045fbb0c33c293586",
+              "author": "bigcat88",
+              "date": "2026-03-30T16:48:53.000Z",
+              "message": "feat: implement RemoteComboOptions for rich remote-populated combos",
+              "linesAdded": 286,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_api/latest/_io.py",
+                "execution.py",
+                "tests-unit/comfy_api_test/remote_combo_options_test.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-31": {
+          "date": "2026-03-31",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "4504ee718ac9d3fc244abcb0f3d2d5619daf0e72",
+              "author": "comfyanonymous",
+              "date": "2026-03-31T21:27:17.000Z",
+              "message": "Fix some fp8 scaled checkpoints no longer working. (#13239)",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-29": {
+          "date": "2026-03-29",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "94ab69f6090d35f9bff1e40672691eed1dcbbac6",
+              "author": "rattus",
+              "date": "2026-03-29T23:43:24.000Z",
+              "message": "Fix/tweak pinned memory accounting (#13221)",
+              "linesAdded": 2,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-28": {
+          "date": "2026-03-28",
+          "heatScore": 10,
+          "linesChanged": 11,
+          "commitCount": 1,
+          "filesEdited": [
+            "blueprints/.glsl/Color_Curves_8.frag",
+            "blueprints/Color Curves.json"
+          ],
+          "commits": [
+            {
+              "hash": "fc1fdf3389aa3b6cfcc2946bb9284cae9cd15cc7",
+              "author": "Terry Jia",
+              "date": "2026-03-28T17:13:05.000Z",
+              "message": "fix: avoid nested sampler function calls in Color Curves shader (#13209)",
+              "linesAdded": 7,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "blueprints/.glsl/Color_Curves_8.frag",
+                "blueprints/Color Curves.json"
+              ]
+            }
+          ]
+        },
+        "2026-03-27": {
+          "date": "2026-03-27",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_logic.py"
+          ],
+          "commits": [
+            {
+              "hash": "3fbf3b421f2ef13200b2efc931026760f082d915",
+              "author": "Austin Mroz",
+              "date": "2026-03-27T21:35:24.000Z",
+              "message": "WIP branch node",
+              "linesAdded": 31,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_logic.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-18": {
+          "date": "2026-03-18",
+          "heatScore": 36,
+          "linesChanged": 395,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/database/queries/__init__.py",
+            "app/assets/database/queries/asset.py",
+            "app/assets/database/queries/asset_reference.py",
+            "app/assets/scanner.py",
+            "app/assets/seeder.py",
+            "app/assets/services/ingest.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "83997d228dc6ee05366cb0aa761e7fbc2177f7ee",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-18T02:07:04.000Z",
+              "message": "Fix shared-asset overwrite corruption, stale enrichment race, and path validation",
+              "linesAdded": 289,
+              "linesDeleted": 106,
+              "filesChanged": [
+                "app/assets/database/queries/__init__.py",
+                "app/assets/database/queries/asset.py",
+                "app/assets/database/queries/asset_reference.py",
+                "app/assets/scanner.py",
+                "app/assets/seeder.py",
+                "app/assets/services/ingest.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-17": {
+          "date": "2026-03-17",
+          "heatScore": 23,
+          "linesChanged": 197,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/seeder.py",
+            "tests-unit/seeder_test/test_seeder.py"
+          ],
+          "commits": [
+            {
+              "hash": "cb26eb30f25873e3164b91bedc1c3f987fd92037",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-17T22:59:01.000Z",
+              "message": "Fix race in enqueue_enrich drain: make pending-to-start handoff atomic",
+              "linesAdded": 190,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "app/assets/seeder.py",
+                "tests-unit/seeder_test/test_seeder.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-06": {
+          "date": "2026-03-06",
+          "heatScore": 36,
+          "linesChanged": 400,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/scanner.py",
+            "app/assets/seeder.py",
+            "app/assets/services/__init__.py",
+            "app/assets/services/bulk_ingest.py",
+            "app/assets/services/ingest.py",
+            "main.py",
+            "tests/test_asset_seeder.py"
+          ],
+          "commits": [
+            {
+              "hash": "e4bfba59783495c824371d9fcbe47fb3584eadc4",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-06T22:51:22.000Z",
+              "message": "feat(assets): register output files as assets after prompt execution",
+              "linesAdded": 393,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "app/assets/scanner.py",
+                "app/assets/seeder.py",
+                "app/assets/services/__init__.py",
+                "app/assets/services/bulk_ingest.py",
+                "app/assets/services/ingest.py",
+                "main.py",
+                "tests/test_asset_seeder.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-23": {
+          "date": "2026-03-23",
+          "heatScore": 18,
+          "linesChanged": 126,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/lightricks/av_model.py",
+            "comfy/model_base.py",
+            "comfy_extras/nodes_lt.py"
+          ],
+          "commits": [
+            {
+              "hash": "e87858e9743f92222cdb478f1f835135750b6a0b",
+              "author": "Jukka Seppänen",
+              "date": "2026-03-23T22:22:24.000Z",
+              "message": "feat: LTX2: Support reference audio (ID-LoRA) (#13111)",
+              "linesAdded": 126,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/ldm/lightricks/av_model.py",
+                "comfy/model_base.py",
+                "comfy_extras/nodes_lt.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-22": {
+          "date": "2026-03-22",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "6265a239f379f1a5cf2bfdcd3a9631d4c11e50fb",
+              "author": "comfyanonymous",
+              "date": "2026-03-22T22:46:18.000Z",
+              "message": "Add warning for users who disable dynamic vram. (#13113)",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-21": {
+          "date": "2026-03-21",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/wan/vae.py"
+          ],
+          "commits": [
+            {
+              "hash": "25b6d1d6298c380c1d4de90ff9f38484a84ada19",
+              "author": "rattus",
+              "date": "2026-03-21T22:44:35.000Z",
+              "message": "wan: vae: Fix light/color change (#13101)",
+              "linesAdded": 9,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "comfy/ldm/wan/vae.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-19": {
+          "date": "2026-03-19",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/__init__.py"
+          ],
+          "commits": [
+            {
+              "hash": "81651606a6e7ec81d3551f68f31cb2a727384264",
+              "author": "Deep Mehta",
+              "date": "2026-03-19T02:23:59.000Z",
+              "message": "feat: add execution environment API for managed deployments",
+              "linesAdded": 23,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_api/latest/__init__.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-16": {
+          "date": "2026-03-16",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "7a16e8aa4e4672733280887a38758be530ba13ea",
+              "author": "comfyanonymous",
+              "date": "2026-03-16T20:50:13.000Z",
+              "message": "Add --enable-dynamic-vram options to force enable it. (#13002)",
+              "linesAdded": 5,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-15": {
+          "date": "2026-03-15",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "alembic_db/versions/0003_add_metadata_job_id.py",
+            "app/assets/database/models.py",
+            "app/assets/database/queries/asset_reference.py"
+          ],
+          "commits": [
+            {
+              "hash": "b6e0df3cdd43d6e2f84cfc65067010175bef306c",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-15T03:30:15.000Z",
+              "message": "Fix migration constraint naming double-prefix and NULL in mixed metadata lists",
+              "linesAdded": 15,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "alembic_db/versions/0003_add_metadata_job_id.py",
+                "app/assets/database/models.py",
+                "app/assets/database/queries/asset_reference.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-13": {
+          "date": "2026-03-13",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/scanner.py"
+          ],
+          "commits": [
+            {
+              "hash": "735fda90f2eab7f72bcd4d84ebe21e69b2f23445",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-13T00:37:06.000Z",
+              "message": "Remove unused imports in scanner.py",
+              "linesAdded": 0,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "app/assets/scanner.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-12": {
+          "date": "2026-03-12",
+          "heatScore": 15,
+          "linesChanged": 85,
+          "commitCount": 1,
+          "filesEdited": [
+            "alembic_db/env.py",
+            "alembic_db/versions/0003_add_metadata_prompt.py",
+            "app/database/models.py",
+            "tests-unit/app_test/test_migrations.py"
+          ],
+          "commits": [
+            {
+              "hash": "08dfff56ed265ca9d1265dc986af2f1397c59e5a",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-12T23:41:45.000Z",
+              "message": "fix: SQLite migration 0003 FK drop fails on file-backed DBs (MB-2)",
+              "linesAdded": 80,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "alembic_db/env.py",
+                "alembic_db/versions/0003_add_metadata_prompt.py",
+                "app/database/models.py",
+                "tests-unit/app_test/test_migrations.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-11": {
+          "date": "2026-03-11",
+          "heatScore": 14,
+          "linesChanged": 68,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "6c02ece3b722acf7d1b318183511ccba0c0313f4",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-11T01:31:05.000Z",
+              "message": "feat: resolve blake3 hashes in /view endpoint via asset database",
+              "linesAdded": 50,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-10": {
+          "date": "2026-03-10",
+          "heatScore": 19,
+          "linesChanged": 140,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/api/routes.py",
+            "app/assets/api/schemas_in.py",
+            "app/assets/api/schemas_out.py",
+            "tests-unit/assets_test/services/test_tag_histogram.py"
+          ],
+          "commits": [
+            {
+              "hash": "e767f482eaf6b140aca761021c669fff0d8ecca0",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-10T21:23:02.000Z",
+              "message": "Fix review issues: tags validation, size nullability, type annotation, hash mismatch check, and add tag histogram tests",
+              "linesAdded": 136,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "app/assets/api/routes.py",
+                "app/assets/api/schemas_in.py",
+                "app/assets/api/schemas_out.py",
+                "tests-unit/assets_test/services/test_tag_histogram.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-14": {
+          "date": "2026-03-14",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "6ae7e1bce852f33d9c9244d1441f40e1444405be",
+              "author": "comfyanonymous",
+              "date": "2026-03-14T23:53:31.000Z",
+              "message": "Update comfyui-frontend-package to version 1.41.20 (#12954)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2026-03-09": {
+          "date": "2026-03-09",
+          "heatScore": 14,
+          "linesChanged": 64,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/__init__.py"
+          ],
+          "commits": [
+            {
+              "hash": "476538ad607cb1dae584ca447ffc469a84b5530d",
+              "author": "Deep Mehta",
+              "date": "2026-03-09T21:28:16.000Z",
+              "message": "fix: single Caching definition inside ComfyAPI_latest",
+              "linesAdded": 18,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "comfy_api/latest/__init__.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-08": {
+          "date": "2026-03-08",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/services/hashing.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "e4b0bb8305a4069ef7ff8396bfc6057c736ab95b",
+              "author": "comfyanonymous",
+              "date": "2026-03-08T20:25:30.000Z",
+              "message": "Import assets seeder later, print some package versions. (#12841)",
+              "linesAdded": 12,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "app/assets/services/hashing.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-07": {
+          "date": "2026-03-07",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "9c2a423aec2c6c111b42134ace9a0ae5e9b2dd03",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-07T02:55:44.000Z",
+              "message": "Defer asset_seeder resume until GC interval elapses",
+              "linesAdded": 3,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-05": {
+          "date": "2026-03-05",
+          "heatScore": 14,
+          "linesChanged": 69,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/api/routes.py",
+            "app/assets/scanner.py",
+            "app/assets/seeder.py",
+            "app/assets/services/hashing.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "731a95eb13f2b4afa2c7bf6b40c9c6c805c8f356",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-05T00:49:44.000Z",
+              "message": "Fix five code review issues",
+              "linesAdded": 52,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "app/assets/api/routes.py",
+                "app/assets/scanner.py",
+                "app/assets/seeder.py",
+                "app/assets/services/hashing.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-04": {
+          "date": "2026-03-04",
+          "heatScore": 14,
+          "linesChanged": 70,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/services/metadata_extract.py",
+            "main.py",
+            "server.py",
+            "utils/mime_types.py"
+          ],
+          "commits": [
+            {
+              "hash": "1f1894608d8561bd66ee01f64b8e1e13e98db1f1",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-04T23:31:08.000Z",
+              "message": "Centralize MIME type initialization into utils/mime_types.py",
+              "linesAdded": 39,
+              "linesDeleted": 31,
+              "filesChanged": [
+                "app/assets/services/metadata_extract.py",
+                "main.py",
+                "server.py",
+                "utils/mime_types.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-03": {
+          "date": "2026-03-03",
+          "heatScore": 69,
+          "linesChanged": 893,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/api/routes.py",
+            "app/assets/database/queries/__init__.py",
+            "app/assets/database/queries/asset_reference.py",
+            "app/assets/database/queries/tags.py",
+            "app/assets/scanner.py",
+            "app/assets/seeder.py",
+            "app/assets/services/hashing.py",
+            "app/assets/services/ingest.py",
+            "app/assets/services/path_utils.py",
+            "main.py",
+            "server.py",
+            "tests-unit/assets_test/test_sync_references.py",
+            "tests-unit/seeder_test/test_seeder.py"
+          ],
+          "commits": [
+            {
+              "hash": "defd97d8b85e445d22ab28b272c7b69bd78f269d",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-03-03T23:51:35.000Z",
+              "message": "fix: address code review feedback",
+              "linesAdded": 675,
+              "linesDeleted": 218,
+              "filesChanged": [
+                "app/assets/api/routes.py",
+                "app/assets/database/queries/__init__.py",
+                "app/assets/database/queries/asset_reference.py",
+                "app/assets/database/queries/tags.py",
+                "app/assets/scanner.py",
+                "app/assets/seeder.py",
+                "app/assets/services/hashing.py",
+                "app/assets/services/ingest.py",
+                "app/assets/services/path_utils.py",
+                "main.py",
+                "server.py",
+                "tests-unit/assets_test/test_sync_references.py",
+                "tests-unit/seeder_test/test_seeder.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-02": {
+          "date": "2026-03-02",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_detection.py"
+          ],
+          "commits": [
+            {
+              "hash": "57dd6c1aadf500d90f635a8d3c15418c0d6d6ecd",
+              "author": "comfyanonymous",
+              "date": "2026-03-02T23:54:18.000Z",
+              "message": "Support loading zeta chroma weights properly. (#12734)",
+              "linesAdded": 9,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/model_detection.py"
+              ]
+            }
+          ]
+        },
+        "2026-03-01": {
+          "date": "2026-03-01",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py"
+          ],
+          "commits": [
+            {
+              "hash": "602f6bd82c1f8b31d1b10b5f9ae4aa9637772ad5",
+              "author": "comfyanonymous",
+              "date": "2026-03-01T20:28:39.000Z",
+              "message": "Make --disable-smart-memory disable dynamic vram. (#12722)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/cli_args.py"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "studysauce5": {
+      "projectName": "studysauce5",
+      "localPath": "C:\\Users\\megam\\studysauce5",
+      "remoteUrl": "git@github.com:briancullinan2/atrium.git",
+      "lastUpdated": "2026-09-24T02:37:21.403Z",
+      "screenshots": [
+        {
+          "filename": "Screenshot 2026-03-15 003359.png",
+          "relativePath": "Docs\\Screenshot 2026-03-15 003359.png",
+          "date": "2026-03-15T00:00:00.000Z",
+          "source": "filename"
+        },
+        {
+          "filename": "Screenshot 2026-03-15 003808.png",
+          "relativePath": "Docs\\Screenshot 2026-03-15 003808.png",
+          "date": "2026-03-15T00:00:00.000Z",
+          "source": "filename"
+        },
+        {
+          "filename": "Screenshot 2026-03-15 003926.png",
+          "relativePath": "Docs\\Screenshot 2026-03-15 003926.png",
+          "date": "2026-03-15T00:00:00.000Z",
+          "source": "filename"
+        },
+        {
+          "filename": "Screenshot 2026-03-15 004257.png",
+          "relativePath": "Docs\\Screenshot 2026-03-15 004257.png",
+          "date": "2026-03-15T00:00:00.000Z",
+          "source": "filename"
+        }
+      ],
+      "dailyHeat": {
+        "2026-03-31": {
+          "date": "2026-03-31",
+          "heatScore": 100,
+          "linesChanged": 1855,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/App.razor",
+            "Atrium/Components/ReconnectModal.razor.js",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Platforms/Windows/App.xaml.cs",
+            "Atrium/Services/{WebServer.cs => AtriumWebServer.cs}",
+            "Atrium/Services/CircuitHandler.cs",
+            "Atrium/Services/DatabaseStateProvider.cs",
+            "Atrium/Services/FormFactor.cs",
+            "Atrium/Services/QueryService.cs",
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/ILocalStore.cs",
+            "DataLayer/Utilities/QueryManager.cs",
+            "FlashCard/Layout/MainLayout.razor",
+            "FlashCard/Pages/Shared/Console.razor",
+            "{Atrium/Components => FlashCard/Pages/Shared}/ReconnectModal.razor",
+            "{Atrium/Components => FlashCard/Pages/Shared}/ReconnectModal.razor.css",
+            "{WebClient/Layout => FlashCard/Pages/Shared}/ReconnectModal.razor.js",
+            "FlashCard/Services/PageManager.cs",
+            "FlashCard/Services/SharedRegistry.cs",
+            "FlashCard/Services/SimpleLogger.cs",
+            "FlashCard/Utilities/Callbacks.cs",
+            "FlashCard/Utilities/Extensions/TypeExtensions.cs",
+            "FlashCard/wwwroot/css/forms.css",
+            "FlashCard/wwwroot/main.js",
+            "FlashCard/wwwroot/page.js",
+            "WebClient/Layout/ReconnectModal.razor",
+            "WebClient/Layout/ReconnectModal.razor.css",
+            "WebClient/Program.cs",
+            "WebClient/Services/CircuitHandler.cs",
+            "WebClient/Services/FormFactor.cs",
+            "WebClient/Services/PageManager.cs",
+            "WebClient/WebClient.csproj"
+          ],
+          "commits": [
+            {
+              "hash": "6b9197879006247b02ed098ef2079792424d3a3b",
+              "author": "Brian Cullinan",
+              "date": "2026-03-31T23:59:45.000Z",
+              "message": "new page manager and state tracking, trying to signalr to respond to events, circuit handler",
+              "linesAdded": 1192,
+              "linesDeleted": 663,
+              "filesChanged": [
+                "Atrium/Components/App.razor",
+                "Atrium/Components/ReconnectModal.razor.js",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Platforms/Windows/App.xaml.cs",
+                "Atrium/Services/{WebServer.cs => AtriumWebServer.cs}",
+                "Atrium/Services/CircuitHandler.cs",
+                "Atrium/Services/DatabaseStateProvider.cs",
+                "Atrium/Services/FormFactor.cs",
+                "Atrium/Services/QueryService.cs",
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/ILocalStore.cs",
+                "DataLayer/Utilities/QueryManager.cs",
+                "FlashCard/Layout/MainLayout.razor",
+                "FlashCard/Pages/Shared/Console.razor",
+                "{Atrium/Components => FlashCard/Pages/Shared}/ReconnectModal.razor",
+                "{Atrium/Components => FlashCard/Pages/Shared}/ReconnectModal.razor.css",
+                "{WebClient/Layout => FlashCard/Pages/Shared}/ReconnectModal.razor.js",
+                "FlashCard/Services/PageManager.cs",
+                "FlashCard/Services/SharedRegistry.cs",
+                "FlashCard/Services/SimpleLogger.cs",
+                "FlashCard/Utilities/Callbacks.cs",
+                "FlashCard/Utilities/Extensions/TypeExtensions.cs",
+                "FlashCard/wwwroot/css/forms.css",
+                "FlashCard/wwwroot/main.js",
+                "FlashCard/wwwroot/page.js",
+                "WebClient/Layout/ReconnectModal.razor",
+                "WebClient/Layout/ReconnectModal.razor.css",
+                "WebClient/Program.cs",
+                "WebClient/Services/CircuitHandler.cs",
+                "WebClient/Services/FormFactor.cs",
+                "WebClient/Services/PageManager.cs",
+                "WebClient/WebClient.csproj"
+              ]
+            }
+          ]
+        },
+        "2026-03-30": {
+          "date": "2026-03-30",
+          "heatScore": 47,
+          "linesChanged": 562,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/AggressiveVisitor.cs",
+            "DataLayer/Utilities/Extensions/ExpressionExtensions.cs",
+            "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+            "DataLayer/Utilities/Extensions/QueryableExtensions.cs",
+            "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+            "DataLayer/Utilities/ILocalStore.cs",
+            "DataLayer/Utilities/LocalProvider.cs",
+            "DataLayer/Utilities/Selectors.cs",
+            "DataLayer/wwwroot/local.js",
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "b05ed108ad7cfbdab01fa39e3220566546327deb",
+              "author": "Brian Cullinan",
+              "date": "2026-03-30T20:12:15.000Z",
+              "message": "getting closer on a working Linq to IDB store",
+              "linesAdded": 484,
+              "linesDeleted": 78,
+              "filesChanged": [
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/AggressiveVisitor.cs",
+                "DataLayer/Utilities/Extensions/ExpressionExtensions.cs",
+                "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+                "DataLayer/Utilities/Extensions/QueryableExtensions.cs",
+                "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+                "DataLayer/Utilities/ILocalStore.cs",
+                "DataLayer/Utilities/LocalProvider.cs",
+                "DataLayer/Utilities/Selectors.cs",
+                "DataLayer/wwwroot/local.js",
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2026-03-29": {
+          "date": "2026-03-29",
+          "heatScore": 45,
+          "linesChanged": 534,
+          "commitCount": 1,
+          "filesEdited": [
+            "AnkiParser/Parser.cs",
+            "Atrium/MainPage.xaml.cs",
+            "Atrium/Services/AnkiService.cs",
+            "Atrium/Services/AuthService.cs",
+            "Atrium/Services/DatabaseStateProvider.cs",
+            "Atrium/Services/FormFactor.cs",
+            "DataLayer/Entities/IEntity.cs",
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/AggressiveVisitor.cs",
+            "DataLayer/Utilities/ExpressionVisitor.cs",
+            "DataLayer/Utilities/Extensions/ExpressionExtensions.cs",
+            "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+            "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+            "DataLayer/Utilities/Extensions/TaskExtensions.cs",
+            "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+            "DataLayer/Utilities/ILocalStore.cs",
+            "DataLayer/Utilities/LocalProvider.cs",
+            "DataLayer/Utilities/QueryManager.cs",
+            "DataLayer/Utilities/QueryProvider.cs",
+            "DataLayer/Utilities/RemoteManager.cs",
+            "DataLayer/Utilities/RemoteProvider.cs",
+            "FlashCard/Services/LoginService.cs",
+            "FlashCard/Services/SimpleLogger.cs",
+            "FlashCard/Utilities/Extensions/TypeExtensions.cs",
+            "WebClient/Services/PageManager.cs"
+          ],
+          "commits": [
+            {
+              "hash": "1a9feb2b1de8795032508da3aae7ea2fd74e0dad",
+              "author": "Brian Cullinan",
+              "date": "2026-03-29T23:55:34.000Z",
+              "message": "almost done debugging this idb query cleaner",
+              "linesAdded": 365,
+              "linesDeleted": 169,
+              "filesChanged": [
+                "AnkiParser/Parser.cs",
+                "Atrium/MainPage.xaml.cs",
+                "Atrium/Services/AnkiService.cs",
+                "Atrium/Services/AuthService.cs",
+                "Atrium/Services/DatabaseStateProvider.cs",
+                "Atrium/Services/FormFactor.cs",
+                "DataLayer/Entities/IEntity.cs",
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/AggressiveVisitor.cs",
+                "DataLayer/Utilities/ExpressionVisitor.cs",
+                "DataLayer/Utilities/Extensions/ExpressionExtensions.cs",
+                "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+                "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+                "DataLayer/Utilities/Extensions/TaskExtensions.cs",
+                "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+                "DataLayer/Utilities/ILocalStore.cs",
+                "DataLayer/Utilities/LocalProvider.cs",
+                "DataLayer/Utilities/QueryManager.cs",
+                "DataLayer/Utilities/QueryProvider.cs",
+                "DataLayer/Utilities/RemoteManager.cs",
+                "DataLayer/Utilities/RemoteProvider.cs",
+                "FlashCard/Services/LoginService.cs",
+                "FlashCard/Services/SimpleLogger.cs",
+                "FlashCard/Utilities/Extensions/TypeExtensions.cs",
+                "WebClient/Services/PageManager.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-28": {
+          "date": "2026-03-28",
+          "heatScore": 16,
+          "linesChanged": 98,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/AggressiveVisitor.cs",
+            "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+            "DataLayer/Utilities/LocalProvider.cs",
+            "DataLayer/Utilities/RemoteManager.cs",
+            "DataLayer/wwwroot/local.js",
+            "FlashCard/Layout/MainLayout.razor",
+            "FlashCard/Utilities/Extensions/TypeExtensions.cs",
+            "FlashCard/wwwroot/main.js"
+          ],
+          "commits": [
+            {
+              "hash": "011640d487c248bbfcd104096b7fe831e1a19245",
+              "author": "Brian Cullinan",
+              "date": "2026-03-28T22:08:38.000Z",
+              "message": "working on local storage bridge, component injection into javascript works",
+              "linesAdded": 55,
+              "linesDeleted": 43,
+              "filesChanged": [
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/AggressiveVisitor.cs",
+                "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+                "DataLayer/Utilities/LocalProvider.cs",
+                "DataLayer/Utilities/RemoteManager.cs",
+                "DataLayer/wwwroot/local.js",
+                "FlashCard/Layout/MainLayout.razor",
+                "FlashCard/Utilities/Extensions/TypeExtensions.cs",
+                "FlashCard/wwwroot/main.js"
+              ]
+            }
+          ]
+        },
+        "2026-03-27": {
+          "date": "2026-03-27",
+          "heatScore": 100,
+          "linesChanged": 1581,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium.slnx",
+            "Atrium/Components/App.razor",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Platforms/Windows/App.xaml.cs",
+            "Atrium/Services/AuthService.cs",
+            "Atrium/Services/DatabaseStateProvider.cs",
+            "Atrium/Services/FormFactor.cs",
+            "Atrium/Services/LocalServer.cs",
+            "Atrium/Services/TitleService.cs",
+            "Atrium/Services/WebServer.cs",
+            "Atrium/wwwroot/index.html",
+            "DataLayer/Generators/Users.cs",
+            "DataLayer/Utilities/Extensions/ExpressionExtensions.cs",
+            "FlashCard/Pages/Landing/Account.razor",
+            "FlashCard/Pages/Landing/Login.razor",
+            "FlashCard/Services/IAuthService.cs",
+            "FlashCard/Services/IFormFactor.cs",
+            "FlashCard/Services/ILocalServer.cs",
+            "FlashCard/Services/LoginService.cs",
+            "FlashCard/Services/SharedRegistry.cs",
+            "FlashCard/wwwroot/local.js",
+            "Local.md",
+            "WebClient/Logger.cs",
+            "WebClient/Program.cs",
+            "WebClient/Services/AuthService.cs",
+            "WebClient/Services/BrowserStateProvider.cs",
+            "WebClient/Services/FormFactor.cs",
+            "WebClient/Services/LocalServer.cs"
+          ],
+          "commits": [
+            {
+              "hash": "068f16a7d5ee2c343e348208d302902061871d64",
+              "author": "Brian Cullinan",
+              "date": "2026-03-27T21:31:39.000Z",
+              "message": "bunch of service resolution fixes, browser local storage",
+              "linesAdded": 1279,
+              "linesDeleted": 302,
+              "filesChanged": [
+                "Atrium.slnx",
+                "Atrium/Components/App.razor",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Platforms/Windows/App.xaml.cs",
+                "Atrium/Services/AuthService.cs",
+                "Atrium/Services/DatabaseStateProvider.cs",
+                "Atrium/Services/FormFactor.cs",
+                "Atrium/Services/LocalServer.cs",
+                "Atrium/Services/TitleService.cs",
+                "Atrium/Services/WebServer.cs",
+                "Atrium/wwwroot/index.html",
+                "DataLayer/Generators/Users.cs",
+                "DataLayer/Utilities/Extensions/ExpressionExtensions.cs",
+                "FlashCard/Pages/Landing/Account.razor",
+                "FlashCard/Pages/Landing/Login.razor",
+                "FlashCard/Services/IAuthService.cs",
+                "FlashCard/Services/IFormFactor.cs",
+                "FlashCard/Services/ILocalServer.cs",
+                "FlashCard/Services/LoginService.cs",
+                "FlashCard/Services/SharedRegistry.cs",
+                "FlashCard/wwwroot/local.js",
+                "Local.md",
+                "WebClient/Logger.cs",
+                "WebClient/Program.cs",
+                "WebClient/Services/AuthService.cs",
+                "WebClient/Services/BrowserStateProvider.cs",
+                "WebClient/Services/FormFactor.cs",
+                "WebClient/Services/LocalServer.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-26": {
+          "date": "2026-03-26",
+          "heatScore": 29,
+          "linesChanged": 287,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/ExpressionVisitor.cs",
+            "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+            "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+            "DataLayer/Utilities/QueryManager.cs",
+            "DataLayer/Utilities/QueryProvider.cs",
+            "DataLayer/Utilities/RemoteManager.cs",
+            "DataLayer/Utilities/RemoteProvider.cs",
+            "FlashCard/Services/LoginService.cs",
+            "FlashCard/Services/NavigationTracker.cs",
+            "WebClient/Program.cs",
+            "WebClient/WebClient.csproj"
+          ],
+          "commits": [
+            {
+              "hash": "82d60e717b452e97fe5fb1e879b1efef14abd0d4",
+              "author": "Brian Cullinan",
+              "date": "2026-03-26T23:47:14.000Z",
+              "message": "fix for webclient to use remotequeryprovider like gpt originally suggested instead of instead iquerycompiler apis",
+              "linesAdded": 217,
+              "linesDeleted": 70,
+              "filesChanged": [
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/ExpressionVisitor.cs",
+                "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+                "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+                "DataLayer/Utilities/QueryManager.cs",
+                "DataLayer/Utilities/QueryProvider.cs",
+                "DataLayer/Utilities/RemoteManager.cs",
+                "DataLayer/Utilities/RemoteProvider.cs",
+                "FlashCard/Services/LoginService.cs",
+                "FlashCard/Services/NavigationTracker.cs",
+                "WebClient/Program.cs",
+                "WebClient/WebClient.csproj"
+              ]
+            }
+          ]
+        },
+        "2026-03-25": {
+          "date": "2026-03-25",
+          "heatScore": 55,
+          "linesChanged": 682,
+          "commitCount": 1,
+          "filesEdited": [
+            "AnkiParser/Parser.cs",
+            "Atrium/Logging/Logger.cs",
+            "Atrium/MainPage.xaml.cs",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Platforms/Windows/App.xaml.cs",
+            "Atrium/Services/AnkiService.cs",
+            "Atrium/Services/ChatService.cs",
+            "Atrium/Services/FileManager.cs",
+            "Atrium/Services/HostingService.cs",
+            "Atrium/Services/QueryService.cs",
+            "Atrium/Services/WebServer.cs",
+            "DataLayer/Entities/Goal.cs",
+            "DataLayer/Entities/Grade.cs",
+            "DataLayer/Entities/IEntity.cs",
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/DataTablesModels.cs",
+            "DataLayer/Utilities/Extensions/ExpressionExtensions.cs",
+            "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+            "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+            "DataLayer/Utilities/Extensions/QueryableExtensions.cs",
+            "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+            "DataLayer/Utilities/Logger.cs",
+            "DataLayer/Utilities/QueryManager.cs",
+            "DataLayer/Utilities/RemoteQuery.cs",
+            "FlashCard/Services/NavigationTracker.cs",
+            "FlashCard/Services/PageManager.cs",
+            "FlashCard/Services/SimpleLogger.cs",
+            "WebClient/Program.cs",
+            "WebClient/Services/AnkiService.cs",
+            "WebClient/Services/ChatService.cs",
+            "WebClient/Services/FileManager.cs",
+            "WebClient/Services/HostingService.cs"
+          ],
+          "commits": [
+            {
+              "hash": "dda4419718a8c8a62bae28571c556c22857cbedf",
+              "author": "Brian Cullinan",
+              "date": "2026-03-25T21:37:14.000Z",
+              "message": "bunch of fixes for service expectations, i hate DI",
+              "linesAdded": 310,
+              "linesDeleted": 372,
+              "filesChanged": [
+                "AnkiParser/Parser.cs",
+                "Atrium/Logging/Logger.cs",
+                "Atrium/MainPage.xaml.cs",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Platforms/Windows/App.xaml.cs",
+                "Atrium/Services/AnkiService.cs",
+                "Atrium/Services/ChatService.cs",
+                "Atrium/Services/FileManager.cs",
+                "Atrium/Services/HostingService.cs",
+                "Atrium/Services/QueryService.cs",
+                "Atrium/Services/WebServer.cs",
+                "DataLayer/Entities/Goal.cs",
+                "DataLayer/Entities/Grade.cs",
+                "DataLayer/Entities/IEntity.cs",
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/DataTablesModels.cs",
+                "DataLayer/Utilities/Extensions/ExpressionExtensions.cs",
+                "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+                "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+                "DataLayer/Utilities/Extensions/QueryableExtensions.cs",
+                "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+                "DataLayer/Utilities/Logger.cs",
+                "DataLayer/Utilities/QueryManager.cs",
+                "DataLayer/Utilities/RemoteQuery.cs",
+                "FlashCard/Services/NavigationTracker.cs",
+                "FlashCard/Services/PageManager.cs",
+                "FlashCard/Services/SimpleLogger.cs",
+                "WebClient/Program.cs",
+                "WebClient/Services/AnkiService.cs",
+                "WebClient/Services/ChatService.cs",
+                "WebClient/Services/FileManager.cs",
+                "WebClient/Services/HostingService.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-24": {
+          "date": "2026-03-24",
+          "heatScore": 36,
+          "linesChanged": 396,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/MauiProgram.cs",
+            "Atrium/Platforms/Windows/App.xaml.cs",
+            "DataLayer/Entities/IEntity.cs",
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+            "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+            "DataLayer/Utilities/QueryManager.cs",
+            "DataLayer/Utilities/RemoteQuery.cs",
+            "FlashCard/Pages/Landing/Login.razor",
+            "FlashCard/Services/SimpleLogger.cs",
+            "WebClient/Program.cs"
+          ],
+          "commits": [
+            {
+              "hash": "5709801ecae17caf0b5cbee8ccd38a5ccdc5aea9",
+              "author": "Brian Cullinan",
+              "date": "2026-03-24T21:07:24.000Z",
+              "message": "some more fixes for querying",
+              "linesAdded": 272,
+              "linesDeleted": 124,
+              "filesChanged": [
+                "Atrium/MauiProgram.cs",
+                "Atrium/Platforms/Windows/App.xaml.cs",
+                "DataLayer/Entities/IEntity.cs",
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+                "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+                "DataLayer/Utilities/QueryManager.cs",
+                "DataLayer/Utilities/RemoteQuery.cs",
+                "FlashCard/Pages/Landing/Login.razor",
+                "FlashCard/Services/SimpleLogger.cs",
+                "WebClient/Program.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-23": {
+          "date": "2026-03-23",
+          "heatScore": 34,
+          "linesChanged": 368,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+            "DataLayer/Utilities/QueryManager.cs",
+            "DataLayer/Utilities/RemoteQuery.cs",
+            "FlashCard/Layout/MainLayout.razor"
+          ],
+          "commits": [
+            {
+              "hash": "74c494cd102bb520f5d77842c81a2de06665b869",
+              "author": "Brian Cullinan",
+              "date": "2026-03-23T22:04:33.000Z",
+              "message": "nearly working queryables from entity framework internal generations.",
+              "linesAdded": 275,
+              "linesDeleted": 93,
+              "filesChanged": [
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+                "DataLayer/Utilities/QueryManager.cs",
+                "DataLayer/Utilities/RemoteQuery.cs",
+                "FlashCard/Layout/MainLayout.razor"
+              ]
+            }
+          ]
+        },
+        "2026-03-22": {
+          "date": "2026-03-22",
+          "heatScore": 16,
+          "linesChanged": 93,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Logging/Logger.cs",
+            "Atrium/Services/ChatService.cs",
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/Logger.cs",
+            "DataLayer/Utilities/QueryManager.cs",
+            "FlashCard/Layout/NavMenu.razor",
+            "FlashCard/Services/NavigationTracker.cs",
+            "FlashCard/Services/SimpleLogger.cs"
+          ],
+          "commits": [
+            {
+              "hash": "9a67d198e7f1165324421074bbfcd863b51a9d33",
+              "author": "Brian Cullinan",
+              "date": "2026-03-22T21:29:33.000Z",
+              "message": "error console reporting in web now",
+              "linesAdded": 64,
+              "linesDeleted": 29,
+              "filesChanged": [
+                "Atrium/Logging/Logger.cs",
+                "Atrium/Services/ChatService.cs",
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/Logger.cs",
+                "DataLayer/Utilities/QueryManager.cs",
+                "FlashCard/Layout/NavMenu.razor",
+                "FlashCard/Services/NavigationTracker.cs",
+                "FlashCard/Services/SimpleLogger.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-21": {
+          "date": "2026-03-21",
+          "heatScore": 57,
+          "linesChanged": 705,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/Entities/IEntity.cs",
+            "DataLayer/Utilities/DataTablesModels.cs",
+            "DataLayer/Utilities/Extensions/ExpressionExtensions.cs",
+            "DataLayer/Utilities/Extensions/PrimitiveExtensions.cs",
+            "DataLayer/Utilities/Extensions/QueryableExtensions.cs"
+          ],
+          "commits": [
+            {
+              "hash": "6df01daf501f253759b4b3b4ce6113cc22d102e6",
+              "author": "Brian Cullinan",
+              "date": "2026-03-21T23:45:04.000Z",
+              "message": "new search queryable extension",
+              "linesAdded": 238,
+              "linesDeleted": 467,
+              "filesChanged": [
+                "DataLayer/Entities/IEntity.cs",
+                "DataLayer/Utilities/DataTablesModels.cs",
+                "DataLayer/Utilities/Extensions/ExpressionExtensions.cs",
+                "DataLayer/Utilities/Extensions/PrimitiveExtensions.cs",
+                "DataLayer/Utilities/Extensions/QueryableExtensions.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-20": {
+          "date": "2026-03-20",
+          "heatScore": 71,
+          "linesChanged": 918,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Atrium.csproj",
+            "Atrium/Logging/AsyncAppender.cs",
+            "Atrium/Logging/ExceptionLogAppender.cs",
+            "Atrium/Logging/Logger.cs",
+            "Atrium/Logging/MessageLogAppender.cs",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Platforms/Windows/App.xaml.cs",
+            "Atrium/Services/{StatusService.cs => HostingService.cs}",
+            "Atrium/Services/WebServer.cs",
+            "Atrium/log4net.xml",
+            "DataLayer/Entities/Message.cs",
+            "DataLayer/EntityMetadata.cs",
+            "DataLayer/Utilities/Extensions/TaskExtensions.cs",
+            "DataLayer/Utilities/QueryManager.cs",
+            "FlashCard/Controls/NotFoundControl.razor",
+            "FlashCard/Layout/MainLayout.razor",
+            "FlashCard/Pages/Admin/Hosting.razor",
+            "FlashCard/Pages/Admin/Status.razor",
+            "FlashCard/Pages/Course/Course.razor",
+            "FlashCard/Pages/Shared/Console.razor",
+            "FlashCard/Services/{IStatusService.cs => IHostingService.cs}",
+            "FlashCard/Services/JsonService.cs",
+            "FlashCard/Services/PageManager.cs",
+            "WebClient/Program.cs",
+            "WebClient/Services/{StatusService.cs => HostingService.cs}",
+            "WebClient/Services/{StateService.cs => PageManager.cs}"
+          ],
+          "commits": [
+            {
+              "hash": "6362cf96eb55d6e224c30d9d3727d9a8c6da9e41",
+              "author": "Brian Cullinan",
+              "date": "2026-03-20T22:34:01.000Z",
+              "message": "added serious logging",
+              "linesAdded": 823,
+              "linesDeleted": 95,
+              "filesChanged": [
+                "Atrium/Atrium.csproj",
+                "Atrium/Logging/AsyncAppender.cs",
+                "Atrium/Logging/ExceptionLogAppender.cs",
+                "Atrium/Logging/Logger.cs",
+                "Atrium/Logging/MessageLogAppender.cs",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Platforms/Windows/App.xaml.cs",
+                "Atrium/Services/{StatusService.cs => HostingService.cs}",
+                "Atrium/Services/WebServer.cs",
+                "Atrium/log4net.xml",
+                "DataLayer/Entities/Message.cs",
+                "DataLayer/EntityMetadata.cs",
+                "DataLayer/Utilities/Extensions/TaskExtensions.cs",
+                "DataLayer/Utilities/QueryManager.cs",
+                "FlashCard/Controls/NotFoundControl.razor",
+                "FlashCard/Layout/MainLayout.razor",
+                "FlashCard/Pages/Admin/Hosting.razor",
+                "FlashCard/Pages/Admin/Status.razor",
+                "FlashCard/Pages/Course/Course.razor",
+                "FlashCard/Pages/Shared/Console.razor",
+                "FlashCard/Services/{IStatusService.cs => IHostingService.cs}",
+                "FlashCard/Services/JsonService.cs",
+                "FlashCard/Services/PageManager.cs",
+                "WebClient/Program.cs",
+                "WebClient/Services/{StatusService.cs => HostingService.cs}",
+                "WebClient/Services/{StateService.cs => PageManager.cs}"
+              ]
+            }
+          ]
+        },
+        "2026-03-19": {
+          "date": "2026-03-19",
+          "heatScore": 63,
+          "linesChanged": 803,
+          "commitCount": 1,
+          "filesEdited": [
+            "AnkiParser/TranslationContext.cs",
+            "Atrium/Atrium.csproj",
+            "Atrium/MainPage.xaml.cs",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Platforms/Android/MainApplication.cs",
+            "Atrium/Platforms/MacCatalyst/AppDelegate.cs",
+            "Atrium/Platforms/Windows/App.xaml.cs",
+            "Atrium/Platforms/iOS/AppDelegate.cs",
+            "Atrium/Services/AnkiService.cs",
+            "Atrium/Services/AuthService.cs",
+            "Atrium/Services/ChatService.cs",
+            "{FlashCard => Atrium}/Services/DatabaseStateProvider.cs",
+            "Atrium/Services/FileManager.cs",
+            "Atrium/Services/LocalServer.cs",
+            "Atrium/Services/WebServer.cs",
+            "DataLayer/Customization.cs",
+            "DataLayer/Entities/Permission.cs",
+            "DataLayer/Entities/Schedule.cs",
+            "DataLayer/Entities/User.cs",
+            "DataLayer/EntityMetadata.cs",
+            "DataLayer/Generators/Permissions.cs",
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+            "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+            "DataLayer/Utilities/Extensions/PrimitiveExtensions.cs",
+            "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+            "DataLayer/Utilities/QueryManager.cs",
+            "DataLayer/Utilities/RemoteQuery.cs",
+            "FlashCard/FlashCard.csproj",
+            "FlashCard/Pages/Course/Partners.cs",
+            "FlashCard/Pages/Landing/Login.razor",
+            "FlashCard/Services/IAuthService.cs",
+            "FlashCard/Services/LoginService.cs",
+            "FlashCard/Services/MenuService.cs",
+            "Retheme/ThemeListener.cs",
+            "WebClient/Services/AnkiService.cs",
+            "WebClient/Services/AuthService.cs",
+            "WebClient/Services/BrowserStateProvider.cs",
+            "WebClient/Services/ChatService.cs",
+            "WebClient/Services/FileManager.cs",
+            "WebClient/Services/StatusService.cs"
+          ],
+          "commits": [
+            {
+              "hash": "7b7594834294f7f759d4d9fb1dcb5c0e612d0654",
+              "author": "Brian Cullinan",
+              "date": "2026-03-19T20:03:03.000Z",
+              "message": "fixing damn project references, move all oauth into desktop only",
+              "linesAdded": 492,
+              "linesDeleted": 311,
+              "filesChanged": [
+                "AnkiParser/TranslationContext.cs",
+                "Atrium/Atrium.csproj",
+                "Atrium/MainPage.xaml.cs",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Platforms/Android/MainApplication.cs",
+                "Atrium/Platforms/MacCatalyst/AppDelegate.cs",
+                "Atrium/Platforms/Windows/App.xaml.cs",
+                "Atrium/Platforms/iOS/AppDelegate.cs",
+                "Atrium/Services/AnkiService.cs",
+                "Atrium/Services/AuthService.cs",
+                "Atrium/Services/ChatService.cs",
+                "{FlashCard => Atrium}/Services/DatabaseStateProvider.cs",
+                "Atrium/Services/FileManager.cs",
+                "Atrium/Services/LocalServer.cs",
+                "Atrium/Services/WebServer.cs",
+                "DataLayer/Customization.cs",
+                "DataLayer/Entities/Permission.cs",
+                "DataLayer/Entities/Schedule.cs",
+                "DataLayer/Entities/User.cs",
+                "DataLayer/EntityMetadata.cs",
+                "DataLayer/Generators/Permissions.cs",
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+                "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+                "DataLayer/Utilities/Extensions/PrimitiveExtensions.cs",
+                "DataLayer/Utilities/Extensions/TypeExtensions.cs",
+                "DataLayer/Utilities/QueryManager.cs",
+                "DataLayer/Utilities/RemoteQuery.cs",
+                "FlashCard/FlashCard.csproj",
+                "FlashCard/Pages/Course/Partners.cs",
+                "FlashCard/Pages/Landing/Login.razor",
+                "FlashCard/Services/IAuthService.cs",
+                "FlashCard/Services/LoginService.cs",
+                "FlashCard/Services/MenuService.cs",
+                "Retheme/ThemeListener.cs",
+                "WebClient/Services/AnkiService.cs",
+                "WebClient/Services/AuthService.cs",
+                "WebClient/Services/BrowserStateProvider.cs",
+                "WebClient/Services/ChatService.cs",
+                "WebClient/Services/FileManager.cs",
+                "WebClient/Services/StatusService.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-18": {
+          "date": "2026-03-18",
+          "heatScore": 39,
+          "linesChanged": 439,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Services/AppSettings.cs",
+            "DataLayer/Customization.cs",
+            "DataLayer/Entities/Permission.cs",
+            "DataLayer/Entities/Role.cs",
+            "DataLayer/Entities/Setting.cs",
+            "DataLayer/Entities/User.cs",
+            "DataLayer/Generators/Permissions.cs",
+            "DataLayer/Generators/Roles.cs",
+            "DataLayer/Generators/Users.cs",
+            "DataLayer/Utilities/QueryManager.cs",
+            "FlashCard/Pages/Admin/Permissions.razor",
+            "FlashCard/Pages/Admin/Providers.razor",
+            "FlashCard/Pages/Admin/Users.razor",
+            "FlashCard/Pages/Content/Install.razor",
+            "FlashCard/Pages/Shared/Settings.razor",
+            "FlashCard/Services/AppSettings.cs",
+            "FlashCard/Services/IAuthService.cs"
+          ],
+          "commits": [
+            {
+              "hash": "8ee1d5ed98e0d3daa086517d9c442373d0d365d4",
+              "author": "Brian Cullinan",
+              "date": "2026-03-18T21:55:38.000Z",
+              "message": "trying to get something done, fml",
+              "linesAdded": 363,
+              "linesDeleted": 76,
+              "filesChanged": [
+                "Atrium/Services/AppSettings.cs",
+                "DataLayer/Customization.cs",
+                "DataLayer/Entities/Permission.cs",
+                "DataLayer/Entities/Role.cs",
+                "DataLayer/Entities/Setting.cs",
+                "DataLayer/Entities/User.cs",
+                "DataLayer/Generators/Permissions.cs",
+                "DataLayer/Generators/Roles.cs",
+                "DataLayer/Generators/Users.cs",
+                "DataLayer/Utilities/QueryManager.cs",
+                "FlashCard/Pages/Admin/Permissions.razor",
+                "FlashCard/Pages/Admin/Providers.razor",
+                "FlashCard/Pages/Admin/Users.razor",
+                "FlashCard/Pages/Content/Install.razor",
+                "FlashCard/Pages/Shared/Settings.razor",
+                "FlashCard/Services/AppSettings.cs",
+                "FlashCard/Services/IAuthService.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-17": {
+          "date": "2026-03-17",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/Utilities/QueryManager.cs"
+          ],
+          "commits": [
+            {
+              "hash": "6d283acce2910b0971ac153f71d1254f511dacbb",
+              "author": "Brian Cullinan",
+              "date": "2026-03-17T18:33:45.000Z",
+              "message": "properly marked virtual for overriding in remote to dissect and reasemble parameters",
+              "linesAdded": 5,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "DataLayer/Utilities/QueryManager.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-16": {
+          "date": "2026-03-16",
+          "heatScore": 28,
+          "linesChanged": 283,
+          "commitCount": 1,
+          "filesEdited": [
+            "FlashCard/Pages/Admin/Groups.razor",
+            "FlashCard/Pages/Admin/Users.razor",
+            "FlashCard/Pages/Landing/Courses.razor",
+            "FlashCard/Pages/Landing/EditPack.razor",
+            "FlashCard/Pages/Landing/Packs.razor",
+            "FlashCard/Pages/Shared/Packs.razor"
+          ],
+          "commits": [
+            {
+              "hash": "3945cc25c5339b2089c4309deedb125c242d75f8",
+              "author": "Brian Cullinan",
+              "date": "2026-03-16T23:06:14.000Z",
+              "message": "need a query manager to handle synching between states, i can't procrastinate any longer",
+              "linesAdded": 228,
+              "linesDeleted": 55,
+              "filesChanged": [
+                "FlashCard/Pages/Admin/Groups.razor",
+                "FlashCard/Pages/Admin/Users.razor",
+                "FlashCard/Pages/Landing/Courses.razor",
+                "FlashCard/Pages/Landing/EditPack.razor",
+                "FlashCard/Pages/Landing/Packs.razor",
+                "FlashCard/Pages/Shared/Packs.razor"
+              ]
+            }
+          ]
+        },
+        "2026-03-15": {
+          "date": "2026-03-15",
+          "heatScore": 81,
+          "linesChanged": 1065,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/MauiProgram.cs",
+            "Atrium/Services/ChatService.cs",
+            "Atrium/Services/StatusService.cs",
+            "Atrium/Services/WebServer.cs",
+            "DataLayer/Entities/IEntity.cs",
+            "FlashCard/Controls/MetadataControl.razor",
+            "FlashCard/Layout/MainLayout.razor",
+            "FlashCard/Pages/Admin/Settings.razor",
+            "FlashCard/Pages/Content/Install.razor",
+            "FlashCard/Services/IChatService.cs",
+            "FlashCard/Services/IStatusService.cs",
+            "FlashCard/Services/MenuService.cs",
+            "FlashCard/Services/ThemeService.cs",
+            "WebClient/Program.cs",
+            "WebClient/Services/ChatService.cs",
+            "WebClient/Services/StatusService.cs"
+          ],
+          "commits": [
+            {
+              "hash": "2d5aae232ba04fb9a58d91b738162c0a5f6df1f3",
+              "author": "Brian Cullinan",
+              "date": "2026-03-15T20:00:04.000Z",
+              "message": "nearly implemented chat service with parameter presets",
+              "linesAdded": 789,
+              "linesDeleted": 276,
+              "filesChanged": [
+                "Atrium/MauiProgram.cs",
+                "Atrium/Services/ChatService.cs",
+                "Atrium/Services/StatusService.cs",
+                "Atrium/Services/WebServer.cs",
+                "DataLayer/Entities/IEntity.cs",
+                "FlashCard/Controls/MetadataControl.razor",
+                "FlashCard/Layout/MainLayout.razor",
+                "FlashCard/Pages/Admin/Settings.razor",
+                "FlashCard/Pages/Content/Install.razor",
+                "FlashCard/Services/IChatService.cs",
+                "FlashCard/Services/IStatusService.cs",
+                "FlashCard/Services/MenuService.cs",
+                "FlashCard/Services/ThemeService.cs",
+                "WebClient/Program.cs",
+                "WebClient/Services/ChatService.cs",
+                "WebClient/Services/StatusService.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-14": {
+          "date": "2026-03-14",
+          "heatScore": 16,
+          "linesChanged": 102,
+          "commitCount": 1,
+          "filesEdited": [
+            "Retheme/Retheme.cs",
+            "Retheme/ThemeListener.cs",
+            "StudySauce.Shared/Pages/Admin/Settings.razor",
+            "StudySauce.Shared/wwwroot/css/theme.css"
+          ],
+          "commits": [
+            {
+              "hash": "3d1bdd20424c3636444575bcee6bac886d8d3da6",
+              "author": "Brian Cullinan",
+              "date": "2026-03-14T20:51:45.000Z",
+              "message": "working on theme builder",
+              "linesAdded": 59,
+              "linesDeleted": 43,
+              "filesChanged": [
+                "Retheme/Retheme.cs",
+                "Retheme/ThemeListener.cs",
+                "StudySauce.Shared/Pages/Admin/Settings.razor",
+                "StudySauce.Shared/wwwroot/css/theme.css"
+              ]
+            }
+          ]
+        },
+        "2026-03-13": {
+          "date": "2026-03-13",
+          "heatScore": 34,
+          "linesChanged": 364,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/Entities/IEntity.cs",
+            "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+            "DataLayer/Utilities/FingerPrint.cs",
+            "StudySauce.Shared/Pages/Content/Analysis.razor",
+            "StudySauce.Shared/Pages/Content/Upload.razor",
+            "StudySauce.Shared/Pages/Shared/Content.razor",
+            "StudySauce.Shared/wwwroot/css/nav.css",
+            "StudySauce/Services/{FingerPrint.cs => ImageFingerPrint.cs}"
+          ],
+          "commits": [
+            {
+              "hash": "55ec7a0842e26fc3dbd272f1661dcbb1626f871a",
+              "author": "Brian Cullinan",
+              "date": "2026-03-13T18:08:01.000Z",
+              "message": "working on content fingerprinting",
+              "linesAdded": 270,
+              "linesDeleted": 94,
+              "filesChanged": [
+                "DataLayer/Entities/IEntity.cs",
+                "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+                "DataLayer/Utilities/FingerPrint.cs",
+                "StudySauce.Shared/Pages/Content/Analysis.razor",
+                "StudySauce.Shared/Pages/Content/Upload.razor",
+                "StudySauce.Shared/Pages/Shared/Content.razor",
+                "StudySauce.Shared/wwwroot/css/nav.css",
+                "StudySauce/Services/{FingerPrint.cs => ImageFingerPrint.cs}"
+              ]
+            }
+          ]
+        },
+        "2026-03-12": {
+          "date": "2026-03-12",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.Shared/Controls/EditCardControl.razor",
+            "StudySauce.Shared/Pages/Landing/EditPack.razor",
+            "StudySauce.Shared/Pages/Landing/Pack.razor",
+            "StudySauce.Shared/wwwroot/css/layout.css"
+          ],
+          "commits": [
+            {
+              "hash": "ed0603f909a9e64ec4762e3ddebcd663a5d28532",
+              "author": "Brian Cullinan",
+              "date": "2026-03-12T00:00:20.000Z",
+              "message": "more dumbass fixes nobody will ever see",
+              "linesAdded": 10,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "StudySauce.Shared/Controls/EditCardControl.razor",
+                "StudySauce.Shared/Pages/Landing/EditPack.razor",
+                "StudySauce.Shared/Pages/Landing/Pack.razor",
+                "StudySauce.Shared/wwwroot/css/layout.css"
+              ]
+            }
+          ]
+        },
+        "2026-03-11": {
+          "date": "2026-03-11",
+          "heatScore": 13,
+          "linesChanged": 53,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.Shared/Pages/Landing/Pack.razor",
+            "StudySauce.Shared/wwwroot/css/course.css",
+            "StudySauce.Shared/wwwroot/css/nav.css",
+            "StudySauce.Shared/wwwroot/css/style.css"
+          ],
+          "commits": [
+            {
+              "hash": "e84f13efdffa27715a8f1b4147b66657d7212822",
+              "author": "Brian Cullinan",
+              "date": "2026-03-11T23:24:19.000Z",
+              "message": "back button to help review cards, need to swipe back and forth i guess",
+              "linesAdded": 42,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "StudySauce.Shared/Pages/Landing/Pack.razor",
+                "StudySauce.Shared/wwwroot/css/course.css",
+                "StudySauce.Shared/wwwroot/css/nav.css",
+                "StudySauce.Shared/wwwroot/css/style.css"
+              ]
+            }
+          ]
+        },
+        "2026-03-10": {
+          "date": "2026-03-10",
+          "heatScore": 67,
+          "linesChanged": 861,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "StudySauce.Shared/Layout/NavMenu.razor",
+            "StudySauce.Shared/wwwroot/css/app.css",
+            "StudySauce.Shared/wwwroot/css/course.css",
+            "StudySauce.Shared/wwwroot/css/forms.css",
+            "StudySauce.Shared/wwwroot/css/layout.css",
+            "StudySauce.Shared/wwwroot/css/menu.css",
+            "StudySauce.Shared/wwwroot/css/nav.css",
+            "StudySauce.Shared/wwwroot/css/style.css",
+            "StudySauce/Components/App.razor",
+            "StudySauce/wwwroot/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "2dc1b36be73056039d0d9910796ca07c7d378ecb",
+              "author": "Brian Cullinan",
+              "date": "2026-03-10T16:13:29.000Z",
+              "message": "bs improvements for mobile",
+              "linesAdded": 485,
+              "linesDeleted": 376,
+              "filesChanged": [
+                "README.md",
+                "StudySauce.Shared/Layout/NavMenu.razor",
+                "StudySauce.Shared/wwwroot/css/app.css",
+                "StudySauce.Shared/wwwroot/css/course.css",
+                "StudySauce.Shared/wwwroot/css/forms.css",
+                "StudySauce.Shared/wwwroot/css/layout.css",
+                "StudySauce.Shared/wwwroot/css/menu.css",
+                "StudySauce.Shared/wwwroot/css/nav.css",
+                "StudySauce.Shared/wwwroot/css/style.css",
+                "StudySauce/Components/App.razor",
+                "StudySauce/wwwroot/index.html"
+              ]
+            }
+          ]
+        },
+        "2026-03-09": {
+          "date": "2026-03-09",
+          "heatScore": 17,
+          "linesChanged": 113,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.Shared/Pages/Landing/Home.razor",
+            "StudySauce.Shared/Pages/Landing/Pack.razor",
+            "StudySauce.Shared/wwwroot/css/app.css"
+          ],
+          "commits": [
+            {
+              "hash": "586d1d0e775806e441d8eb0e3fc04f6295e7c673",
+              "author": "Brian Cullinan",
+              "date": "2026-03-09T23:06:06.000Z",
+              "message": "card tossing motion is fun",
+              "linesAdded": 104,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "StudySauce.Shared/Pages/Landing/Home.razor",
+                "StudySauce.Shared/Pages/Landing/Pack.razor",
+                "StudySauce.Shared/wwwroot/css/app.css"
+              ]
+            }
+          ]
+        },
+        "2026-03-08": {
+          "date": "2026-03-08",
+          "heatScore": 24,
+          "linesChanged": 213,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/Entities/Goal.cs",
+            "DataLayer/Entities/Schedule.cs",
+            "StudySauce.Shared/Controls/StringControl.razor",
+            "StudySauce.Shared/Layout/MainLayout.razor",
+            "StudySauce.Shared/Pages/Admin/Permissions.razor",
+            "StudySauce.Shared/Pages/Admin/Settings.razor",
+            "StudySauce.Shared/Pages/Landing/Account.razor",
+            "StudySauce.Shared/Pages/Shared/Settings.razor",
+            "StudySauce.Shared/Pages/Shared/Terms.razor",
+            "StudySauce.Shared/Pages/Tools/Goals.razor"
+          ],
+          "commits": [
+            {
+              "hash": "539b7901aeb3e7acf612db3c97c48e3897753ebd",
+              "author": "Brian Cullinan",
+              "date": "2026-03-08T22:37:32.000Z",
+              "message": "more unimportant bs",
+              "linesAdded": 196,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "DataLayer/Entities/Goal.cs",
+                "DataLayer/Entities/Schedule.cs",
+                "StudySauce.Shared/Controls/StringControl.razor",
+                "StudySauce.Shared/Layout/MainLayout.razor",
+                "StudySauce.Shared/Pages/Admin/Permissions.razor",
+                "StudySauce.Shared/Pages/Admin/Settings.razor",
+                "StudySauce.Shared/Pages/Landing/Account.razor",
+                "StudySauce.Shared/Pages/Shared/Settings.razor",
+                "StudySauce.Shared/Pages/Shared/Terms.razor",
+                "StudySauce.Shared/Pages/Tools/Goals.razor"
+              ]
+            }
+          ]
+        },
+        "2026-03-07": {
+          "date": "2026-03-07",
+          "heatScore": 60,
+          "linesChanged": 762,
+          "commitCount": 1,
+          "filesEdited": [
+            "AnkiParser/Parser.cs",
+            "DataLayer/Entities/Card.cs",
+            "DataLayer/Entities/IEntity.cs",
+            "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+            "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+            "StudySauce.Shared/Controls/FilesControl.razor",
+            "StudySauce.Shared/Pages/Content/Upload.razor",
+            "StudySauce.Shared/Services/IAnkiService.cs",
+            "StudySauce.Shared/Services/IFileManager.cs",
+            "StudySauce.Web.Client/Program.cs",
+            "StudySauce.Web.Client/Services/AnkiService.cs",
+            "StudySauce.Web.Client/Services/FileManager.cs",
+            "StudySauce/MauiProgram.cs",
+            "StudySauce/Platforms/Windows/App.xaml.cs",
+            "StudySauce/Services/AnkiService.cs",
+            "StudySauce/Services/FileManager.cs",
+            "StudySauce/Services/WebServer.cs"
+          ],
+          "commits": [
+            {
+              "hash": "5cf3fdff6a418742bbc616c0a1eaff4ebcbab350",
+              "author": "Brian Cullinan",
+              "date": "2026-03-07T20:09:26.000Z",
+              "message": "finally got blocked by anki for doing too many raw data searches, working on importing pack content",
+              "linesAdded": 620,
+              "linesDeleted": 142,
+              "filesChanged": [
+                "AnkiParser/Parser.cs",
+                "DataLayer/Entities/Card.cs",
+                "DataLayer/Entities/IEntity.cs",
+                "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+                "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+                "StudySauce.Shared/Controls/FilesControl.razor",
+                "StudySauce.Shared/Pages/Content/Upload.razor",
+                "StudySauce.Shared/Services/IAnkiService.cs",
+                "StudySauce.Shared/Services/IFileManager.cs",
+                "StudySauce.Web.Client/Program.cs",
+                "StudySauce.Web.Client/Services/AnkiService.cs",
+                "StudySauce.Web.Client/Services/FileManager.cs",
+                "StudySauce/MauiProgram.cs",
+                "StudySauce/Platforms/Windows/App.xaml.cs",
+                "StudySauce/Services/AnkiService.cs",
+                "StudySauce/Services/FileManager.cs",
+                "StudySauce/Services/WebServer.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-06": {
+          "date": "2026-03-06",
+          "heatScore": 23,
+          "linesChanged": 202,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+            "StudySauce.Shared/Controls/FilesControl.razor",
+            "StudySauce.Shared/Controls/MetadataControl.razor",
+            "StudySauce.Shared/Pages/Content/Upload.razor",
+            "StudySauce/Services/FingerPrint.cs"
+          ],
+          "commits": [
+            {
+              "hash": "762701ffa88a460ac3dc9b7efcbe1beb9de3b110",
+              "author": "Brian Cullinan",
+              "date": "2026-03-06T23:30:22.000Z",
+              "message": "working on anki converter",
+              "linesAdded": 201,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+                "StudySauce.Shared/Controls/FilesControl.razor",
+                "StudySauce.Shared/Controls/MetadataControl.razor",
+                "StudySauce.Shared/Pages/Content/Upload.razor",
+                "StudySauce/Services/FingerPrint.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-05": {
+          "date": "2026-03-05",
+          "heatScore": 24,
+          "linesChanged": 217,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/Entities/File.cs",
+            "DataLayer/Entities/Group.cs",
+            "DataLayer/Entities/IEntity.cs",
+            "DataLayer/TranslationContext.cs",
+            "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+            "StudySauce.Shared/Pages/Content/Upload.razor",
+            "StudySauce.Shared/Pages/Course/Course.razor",
+            "StudySauce.Web.Client/Program.cs",
+            "StudySauce/MauiProgram.cs",
+            "StudySauce/Platforms/Windows/App.xaml.cs",
+            "StudySauce/Services/FileManager.cs",
+            "StudySauce/Services/WebServer.cs"
+          ],
+          "commits": [
+            {
+              "hash": "fd03355d90ff5d98744a6d836c18472863e5633d",
+              "author": "Brian Cullinan",
+              "date": "2026-03-05T04:21:10.000Z",
+              "message": "saving an upload to the database, need to retrieve",
+              "linesAdded": 152,
+              "linesDeleted": 65,
+              "filesChanged": [
+                "DataLayer/Entities/File.cs",
+                "DataLayer/Entities/Group.cs",
+                "DataLayer/Entities/IEntity.cs",
+                "DataLayer/TranslationContext.cs",
+                "DataLayer/Utilities/Extensions/IEntityExtensions.cs",
+                "StudySauce.Shared/Pages/Content/Upload.razor",
+                "StudySauce.Shared/Pages/Course/Course.razor",
+                "StudySauce.Web.Client/Program.cs",
+                "StudySauce/MauiProgram.cs",
+                "StudySauce/Platforms/Windows/App.xaml.cs",
+                "StudySauce/Services/FileManager.cs",
+                "StudySauce/Services/WebServer.cs"
+              ]
+            }
+          ]
+        },
+        "2026-03-04": {
+          "date": "2026-03-04",
+          "heatScore": 100,
+          "linesChanged": 1446,
+          "commitCount": 1,
+          "filesEdited": [
+            "AnkiParser/AnkiParser.csproj",
+            "AnkiParser/Entities/Card.cs",
+            "AnkiParser/Entities/Collection.cs",
+            "AnkiParser/Entities/Grave.cs",
+            "AnkiParser/Entities/Note.cs",
+            "AnkiParser/Entities/Review.cs",
+            "AnkiParser/Parser.cs",
+            "AnkiParser/TranslationContext.cs",
+            "DataLayer/Entities/User.cs",
+            "DataLayer/Generators/Cards.cs",
+            "DataLayer/Generators/Packs.cs",
+            "StudySauce.Shared/Controls/StringControl.razor",
+            "StudySauce.Shared/Pages/Content/Upload.razor",
+            "StudySauce.Shared/Services/IFileManager.cs",
+            "StudySauce.Shared/wwwroot/css/app.css",
+            "StudySauce.Shared/wwwroot/css/style.css",
+            "StudySauce.Web.Client/Program.cs",
+            "StudySauce.Web.Client/Services/FileManager.cs",
+            "StudySauce.slnx",
+            "StudySauce/App.xaml.cs",
+            "StudySauce/MauiProgram.cs",
+            "StudySauce/Platforms/Windows/App.xaml.cs",
+            "StudySauce/Platforms/Windows/Shell32.cs",
+            "StudySauce/Platforms/Windows/User32.cs",
+            "StudySauce/Services/FileManager.cs",
+            "StudySauce/Services/FingerPrint.cs",
+            "StudySauce/Services/QueryService.cs",
+            "StudySauce/StudySauce.csproj"
+          ],
+          "commits": [
+            {
+              "hash": "ef0d32417796770661865849212d541f781de32e",
+              "author": "Brian Cullinan",
+              "date": "2026-03-04T21:23:44.000Z",
+              "message": "working on anki parser",
+              "linesAdded": 835,
+              "linesDeleted": 611,
+              "filesChanged": [
+                "AnkiParser/AnkiParser.csproj",
+                "AnkiParser/Entities/Card.cs",
+                "AnkiParser/Entities/Collection.cs",
+                "AnkiParser/Entities/Grave.cs",
+                "AnkiParser/Entities/Note.cs",
+                "AnkiParser/Entities/Review.cs",
+                "AnkiParser/Parser.cs",
+                "AnkiParser/TranslationContext.cs",
+                "DataLayer/Entities/User.cs",
+                "DataLayer/Generators/Cards.cs",
+                "DataLayer/Generators/Packs.cs",
+                "StudySauce.Shared/Controls/StringControl.razor",
+                "StudySauce.Shared/Pages/Content/Upload.razor",
+                "StudySauce.Shared/Services/IFileManager.cs",
+                "StudySauce.Shared/wwwroot/css/app.css",
+                "StudySauce.Shared/wwwroot/css/style.css",
+                "StudySauce.Web.Client/Program.cs",
+                "StudySauce.Web.Client/Services/FileManager.cs",
+                "StudySauce.slnx",
+                "StudySauce/App.xaml.cs",
+                "StudySauce/MauiProgram.cs",
+                "StudySauce/Platforms/Windows/App.xaml.cs",
+                "StudySauce/Platforms/Windows/Shell32.cs",
+                "StudySauce/Platforms/Windows/User32.cs",
+                "StudySauce/Services/FileManager.cs",
+                "StudySauce/Services/FingerPrint.cs",
+                "StudySauce/Services/QueryService.cs",
+                "StudySauce/StudySauce.csproj"
+              ]
+            }
+          ]
+        },
+        "2026-03-03": {
+          "date": "2026-03-03",
+          "heatScore": 65,
+          "linesChanged": 835,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/Customization.cs",
+            "DataLayer/Entities/Pack.cs",
+            "DataLayer/EntityMetadata.cs",
+            "StudySauce.Shared/Controls/AnswersControl.razor",
+            "StudySauce.Shared/Controls/CardControl.razor",
+            "StudySauce.Shared/Controls/CardsControl.razor",
+            "StudySauce.Shared/Controls/EditCardControl.razor",
+            "StudySauce.Shared/Controls/GroupsControl.razor",
+            "StudySauce.Shared/Controls/MetadataControl.razor",
+            "StudySauce.Shared/Controls/PackControl.razor",
+            "StudySauce.Shared/Controls/PacksControl.razor",
+            "StudySauce.Shared/Controls/ResultsCardControl.razor",
+            "StudySauce.Shared/Controls/UsersControl.razor",
+            "StudySauce.Shared/Pages/Admin/Groups.razor",
+            "StudySauce.Shared/Pages/Admin/Users.razor",
+            "StudySauce.Shared/Pages/Course/Course.razor",
+            "StudySauce.Shared/Pages/Course/Course1.razor",
+            "StudySauce.Shared/Pages/Course/Course2.razor",
+            "StudySauce.Shared/Pages/Course/Course3.razor",
+            "StudySauce.Shared/Pages/Landing/EditPack.razor",
+            "StudySauce.Shared/Pages/Landing/Packs.razor",
+            "StudySauce.Shared/Utilities/Extensions/JsonExtensions.cs",
+            "StudySauce.Shared/wwwroot/css/style.css"
+          ],
+          "commits": [
+            {
+              "hash": "b712ff24941cb2838ffa1503592b1211995edfbd",
+              "author": "Brian Cullinan",
+              "date": "2026-03-03T21:24:13.000Z",
+              "message": "simplifying card callouts, working on card editing",
+              "linesAdded": 448,
+              "linesDeleted": 387,
+              "filesChanged": [
+                "DataLayer/Customization.cs",
+                "DataLayer/Entities/Pack.cs",
+                "DataLayer/EntityMetadata.cs",
+                "StudySauce.Shared/Controls/AnswersControl.razor",
+                "StudySauce.Shared/Controls/CardControl.razor",
+                "StudySauce.Shared/Controls/CardsControl.razor",
+                "StudySauce.Shared/Controls/EditCardControl.razor",
+                "StudySauce.Shared/Controls/GroupsControl.razor",
+                "StudySauce.Shared/Controls/MetadataControl.razor",
+                "StudySauce.Shared/Controls/PackControl.razor",
+                "StudySauce.Shared/Controls/PacksControl.razor",
+                "StudySauce.Shared/Controls/ResultsCardControl.razor",
+                "StudySauce.Shared/Controls/UsersControl.razor",
+                "StudySauce.Shared/Pages/Admin/Groups.razor",
+                "StudySauce.Shared/Pages/Admin/Users.razor",
+                "StudySauce.Shared/Pages/Course/Course.razor",
+                "StudySauce.Shared/Pages/Course/Course1.razor",
+                "StudySauce.Shared/Pages/Course/Course2.razor",
+                "StudySauce.Shared/Pages/Course/Course3.razor",
+                "StudySauce.Shared/Pages/Landing/EditPack.razor",
+                "StudySauce.Shared/Pages/Landing/Packs.razor",
+                "StudySauce.Shared/Utilities/Extensions/JsonExtensions.cs",
+                "StudySauce.Shared/wwwroot/css/style.css"
+              ]
+            }
+          ]
+        },
+        "2026-03-02": {
+          "date": "2026-03-02",
+          "heatScore": 15,
+          "linesChanged": 83,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.Shared/Controls/CardControl.razor",
+            "StudySauce.Shared/Pages/Course/Course.razor",
+            "StudySauce.Shared/Pages/Course/Course1.razor",
+            "StudySauce.Shared/Pages/Course/Course2.razor",
+            "StudySauce.Shared/Pages/Course/Course3.razor",
+            "StudySauce.Shared/wwwroot/css/style.css"
+          ],
+          "commits": [
+            {
+              "hash": "faad14c44b647414a5d6b5c3e18bbaa111ecfbbb",
+              "author": "Brian Cullinan",
+              "date": "2026-03-02T15:20:51.000Z",
+              "message": "better quiz results page",
+              "linesAdded": 72,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "StudySauce.Shared/Controls/CardControl.razor",
+                "StudySauce.Shared/Pages/Course/Course.razor",
+                "StudySauce.Shared/Pages/Course/Course1.razor",
+                "StudySauce.Shared/Pages/Course/Course2.razor",
+                "StudySauce.Shared/Pages/Course/Course3.razor",
+                "StudySauce.Shared/wwwroot/css/style.css"
+              ]
+            }
+          ]
+        },
+        "2026-03-01": {
+          "date": "2026-03-01",
+          "heatScore": 29,
+          "linesChanged": 294,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.Shared/Controls/CardControl.razor",
+            "StudySauce.Shared/Layout/MainLayout.razor",
+            "StudySauce.Shared/Pages/Course/Course.razor",
+            "StudySauce.Shared/wwwroot/css/course.css",
+            "StudySauce.Shared/wwwroot/css/layout.css",
+            "StudySauce.Shared/wwwroot/css/style.css",
+            "StudySauce.Shared/wwwroot/css/tabs.css"
+          ],
+          "commits": [
+            {
+              "hash": "d57be7caaadd48fe7fe073bf523ee27b74ef09dd",
+              "author": "Brian Cullinan",
+              "date": "2026-03-01T19:28:18.000Z",
+              "message": "better card transitions",
+              "linesAdded": 224,
+              "linesDeleted": 70,
+              "filesChanged": [
+                "StudySauce.Shared/Controls/CardControl.razor",
+                "StudySauce.Shared/Layout/MainLayout.razor",
+                "StudySauce.Shared/Pages/Course/Course.razor",
+                "StudySauce.Shared/wwwroot/css/course.css",
+                "StudySauce.Shared/wwwroot/css/layout.css",
+                "StudySauce.Shared/wwwroot/css/style.css",
+                "StudySauce.Shared/wwwroot/css/tabs.css"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

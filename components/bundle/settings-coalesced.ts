@@ -65,7 +65,7 @@ export const IMPORT_SETTINGS: Record<string, Record<string, SettingConfig>> = {
         },
         "environmentRepository": {
             "key": "environment_repository",
-            "default": "briancullinan2/mediaserver-ts",
+            "default": "briancullinan2/activity-ts",
             "description": "Repository for this workspace, the entire IDE, code editor and engine runner, for editing the environment inside the workspace."
         },
         "environmentVersion": {
@@ -76,7 +76,7 @@ export const IMPORT_SETTINGS: Record<string, Record<string, SettingConfig>> = {
     "core": {
         "workspaceDefault": {
             "key": "workspace_default",
-            "default": "status",
+            "default": "resume",
             "description": "Specifies the default active panel or system layout view presented to users upon launching the application interface."
         },
         "environmentVersion": {

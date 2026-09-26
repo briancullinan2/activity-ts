@@ -1,0 +1,1372 @@
+{
+  "yearMonth": "2025-07",
+  "generatedAt": "2026-09-24T02:37:24.588Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-07-17": {
+          "date": "2025-07-17",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "9babdcde52607d948d14b503639e6d55b574176d",
+              "author": "Brian Cullinan",
+              "date": "2025-07-17T22:04:42.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-16": {
+          "date": "2025-07-16",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "920b935da86b45cba91471d7e29d0c228f846d3b",
+              "author": "Brian Cullinan",
+              "date": "2025-07-16T23:55:22.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-15": {
+          "date": "2025-07-15",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "33fa176717b7e25bf7022273abba0a8d3f58c2c4",
+              "author": "Brian Cullinan",
+              "date": "2025-07-15T23:43:43.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-14": {
+          "date": "2025-07-14",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "e2205c0c7637d1e313603683eee931b68052d5df",
+              "author": "Brian Cullinan",
+              "date": "2025-07-14T15:34:35.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-13": {
+          "date": "2025-07-13",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "11e2af30f8cf57d4aa35ae1eac761e00c4951bda",
+              "author": "Brian Cullinan",
+              "date": "2025-07-13T23:12:23.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-12": {
+          "date": "2025-07-12",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d7955966f859f199623aab957ba7134f428940e9",
+              "author": "Brian Cullinan",
+              "date": "2025-07-12T16:24:15.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-11": {
+          "date": "2025-07-11",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ed72d0cbb13915a8e7078cdedbc075c4d42b8e9a",
+              "author": "Brian Cullinan",
+              "date": "2025-07-11T23:48:40.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-10": {
+          "date": "2025-07-10",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "03d2ffdd865afae7f29f749f5c7219666d0e1d24",
+              "author": "Brian Cullinan",
+              "date": "2025-07-10T20:52:57.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 6,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-09": {
+          "date": "2025-07-09",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "31e50d0b39bda4209b4691276a77faaa84ec052c",
+              "author": "Brian Cullinan",
+              "date": "2025-07-09T19:02:24.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-08": {
+          "date": "2025-07-08",
+          "heatScore": 16,
+          "linesChanged": 99,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "aad5f37d2c1b64325e5749c667f58b7d038d0de7",
+              "author": "Brian Cullinan",
+              "date": "2025-07-08T23:36:39.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 98,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-07": {
+          "date": "2025-07-07",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "9197994fbd01174b1cb539162ab5b05c9c289d50",
+              "author": "Brian Cullinan",
+              "date": "2025-07-07T22:51:31.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-06": {
+          "date": "2025-07-06",
+          "heatScore": 17,
+          "linesChanged": 117,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "77d5e24a685147de1a45d34c6c6bff406d2c8cd8",
+              "author": "Brian Cullinan",
+              "date": "2025-07-06T23:20:44.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 109,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-05": {
+          "date": "2025-07-05",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "5757567cf35e53d67e5aafe81713bd75cb338c3c",
+              "author": "Brian Cullinan",
+              "date": "2025-07-05T22:41:39.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 7,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-04": {
+          "date": "2025-07-04",
+          "heatScore": 17,
+          "linesChanged": 111,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "57dbbedb9f8c020e0a92c42c0924f78a1a0a2d70",
+              "author": "Brian Cullinan",
+              "date": "2025-07-04T23:22:20.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 110,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-03": {
+          "date": "2025-07-03",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "626ef14d83a106a69119ad0faf67619779915fb9",
+              "author": "Brian Cullinan",
+              "date": "2025-07-03T23:47:08.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-02": {
+          "date": "2025-07-02",
+          "heatScore": 16,
+          "linesChanged": 91,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "006bd23b2bc662d73651866062dc74a81fed5a51",
+              "author": "Brian Cullinan",
+              "date": "2025-07-02T23:08:30.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 84,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-07-01": {
+          "date": "2025-07-01",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "8a7dc302e2d218309565ccf3017b8c81f6e1c4f9",
+              "author": "Brian Cullinan",
+              "date": "2025-07-01T21:46:18.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 18,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-07-24": {
+          "date": "2025-07-24",
+          "heatScore": 22,
+          "linesChanged": 187,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json"
+          ],
+          "commits": [
+            {
+              "hash": "f7aa153cdf454fc8fa8426ee935f55410f795064",
+              "author": "dependabot[bot]",
+              "date": "2025-07-24T19:18:24.000Z",
+              "message": "Bump form-data from 4.0.1 to 4.0.4 (#71)",
+              "linesAdded": 184,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "package-lock.json"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-07-31": {
+          "date": "2025-07-31",
+          "heatScore": 100,
+          "linesChanged": 2529,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/internal/__init__.py",
+            "comfy_api/latest/__init__.py",
+            "comfy_api/latest/_io.py",
+            "comfy_api/latest/_resources.py",
+            "comfy_api/latest/_ui.py",
+            "comfy_api/v0_0_2/__init__.py",
+            "comfy_execution/graph.py",
+            "comfy_execution/graph_utils.py",
+            "execution.py",
+            "nodes.py",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "4887743a2aef67e05909aeea61f6cdc93e269de3",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-07-31T22:02:12.000Z",
+              "message": "V3 Node Schema Definition - initial (#8656)",
+              "linesAdded": 2475,
+              "linesDeleted": 54,
+              "filesChanged": [
+                "comfy_api/internal/__init__.py",
+                "comfy_api/latest/__init__.py",
+                "comfy_api/latest/_io.py",
+                "comfy_api/latest/_resources.py",
+                "comfy_api/latest/_ui.py",
+                "comfy_api/v0_0_2/__init__.py",
+                "comfy_execution/graph.py",
+                "comfy_execution/graph_utils.py",
+                "execution.py",
+                "nodes.py",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-30": {
+          "date": "2025-07-30",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/cosmos/cosmos_tokenizer/utils.py",
+            "comfy/ldm/modules/diffusionmodules/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "61b08d4ba65fec37070376bf50da3ec3c534e859",
+              "author": "chaObserv",
+              "date": "2025-07-30T23:25:56.000Z",
+              "message": "Replace manual x * sigmoid(x) with torch silu in VAE nonlinearity (#9057)",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/ldm/cosmos/cosmos_tokenizer/utils.py",
+                "comfy/ldm/modules/diffusionmodules/model.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-29": {
+          "date": "2025-07-29",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/wan/model.py",
+            "comfy/model_base.py"
+          ],
+          "commits": [
+            {
+              "hash": "dca6bdd4fa70770f910ea80e61c72e1f450530d9",
+              "author": "comfyanonymous",
+              "date": "2025-07-29T23:44:18.000Z",
+              "message": "Make wan2.2 5B i2v take a lot less memory. (#9102)",
+              "linesAdded": 17,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "comfy/ldm/wan/model.py",
+                "comfy/model_base.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-28": {
+          "date": "2025-07-28",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/wan/vae2_2.py"
+          ],
+          "commits": [
+            {
+              "hash": "c60dc4177c16d50da025bda4ac7fd513bb86e699",
+              "author": "comfyanonymous",
+              "date": "2025-07-28T18:48:19.000Z",
+              "message": "Remove unecessary clones in the wan2.2 VAE. (#9083)",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/ldm/wan/vae2_2.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-27": {
+          "date": "2025-07-27",
+          "heatScore": 26,
+          "linesChanged": 250,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/input/video_types.py",
+            "comfy_api/input_impl/video_types.py",
+            "comfy_api_nodes/nodes_moonvalley.py"
+          ],
+          "commits": [
+            {
+              "hash": "e6d9f6274494c5ac96295deb1bea54de50189059",
+              "author": "Christian Byrne",
+              "date": "2025-07-27T23:51:36.000Z",
+              "message": "Add Moonvalley Marey V2V node with updated input validation (#9069)",
+              "linesAdded": 145,
+              "linesDeleted": 105,
+              "filesChanged": [
+                "comfy_api/input/video_types.py",
+                "comfy_api/input_impl/video_types.py",
+                "comfy_api_nodes/nodes_moonvalley.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-26": {
+          "date": "2025-07-26",
+          "heatScore": 30,
+          "linesChanged": 300,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy_api/generate_api_stubs.py",
+            "comfy_api/input/__init__.py",
+            "comfy_api/input/basic_types.py",
+            "comfy_api/input/video_types.py",
+            "comfy_api/input_impl/__init__.py",
+            "comfy_api/input_impl/video_types.py",
+            "comfy_api/internal/async_to_sync.py",
+            "comfy_api/latest/__init__.py",
+            "comfy_api/latest/{input => _input}/__init__.py",
+            "comfy_api/latest/{input => _input}/basic_types.py",
+            "comfy_api/latest/{input => _input}/video_types.py",
+            "comfy_api/latest/{input_impl => _input_impl}/__init__.py",
+            "comfy_api/latest/{input_impl => _input_impl}/video_types.py",
+            "comfy_api/latest/{util => _util}/__init__.py",
+            "comfy_api/latest/{util => _util}/video_types.py",
+            "comfy_api/latest/generated/ComfyAPISyncStub.pyi",
+            "comfy_api/util.py",
+            "comfy_api/util/__init__.py",
+            "comfy_api/util/video_types.py",
+            "comfy_api/v0_0_1/__init__.py",
+            "comfy_api/v0_0_1/generated/ComfyAPISyncStub.pyi",
+            "comfy_api/v0_0_2/__init__.py",
+            "comfy_api/v0_0_2/generated/ComfyAPISyncStub.pyi",
+            "comfy_extras/nodes_video.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "9a3d02eb3a7f897c0bde7b8834f171c479e58a3d",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-07-26T22:26:48.000Z",
+              "message": "Merge branch 'js/core-api-framework' into v3-definition",
+              "linesAdded": 235,
+              "linesDeleted": 65,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy_api/generate_api_stubs.py",
+                "comfy_api/input/__init__.py",
+                "comfy_api/input/basic_types.py",
+                "comfy_api/input/video_types.py",
+                "comfy_api/input_impl/__init__.py",
+                "comfy_api/input_impl/video_types.py",
+                "comfy_api/internal/async_to_sync.py",
+                "comfy_api/latest/__init__.py",
+                "comfy_api/latest/{input => _input}/__init__.py",
+                "comfy_api/latest/{input => _input}/basic_types.py",
+                "comfy_api/latest/{input => _input}/video_types.py",
+                "comfy_api/latest/{input_impl => _input_impl}/__init__.py",
+                "comfy_api/latest/{input_impl => _input_impl}/video_types.py",
+                "comfy_api/latest/{util => _util}/__init__.py",
+                "comfy_api/latest/{util => _util}/video_types.py",
+                "comfy_api/latest/generated/ComfyAPISyncStub.pyi",
+                "comfy_api/util.py",
+                "comfy_api/util/__init__.py",
+                "comfy_api/util/video_types.py",
+                "comfy_api/v0_0_1/__init__.py",
+                "comfy_api/v0_0_1/generated/ComfyAPISyncStub.pyi",
+                "comfy_api/v0_0_2/__init__.py",
+                "comfy_api/v0_0_2/generated/ComfyAPISyncStub.pyi",
+                "comfy_extras/nodes_video.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-25": {
+          "date": "2025-07-25",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy_api/generate_api_stubs.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "689db36073ce562f576c5b7aed082aceb5f152bf",
+              "author": "Jacob Segal",
+              "date": "2025-07-25T21:32:27.000Z",
+              "message": "Remove the need for `--generate-api-stubs`",
+              "linesAdded": 1,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy_api/generate_api_stubs.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-24": {
+          "date": "2025-07-24",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/internal/__init__.py",
+            "comfy_api/v3/_io.py",
+            "execution.py"
+          ],
+          "commits": [
+            {
+              "hash": "44afeab12451f23700e2103d0ac8eb2d7451470f",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-07-24T23:58:25.000Z",
+              "message": "Abstracted out NodeOutput into _NodeOutputInternal in execution.py",
+              "linesAdded": 11,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy_api/internal/__init__.py",
+                "comfy_api/v3/_io.py",
+                "execution.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-23": {
+          "date": "2025-07-23",
+          "heatScore": 14,
+          "linesChanged": 64,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py"
+          ],
+          "commits": [
+            {
+              "hash": "e729a5cc1157bc0ece7daae9583c3a5a3ba95fbb",
+              "author": "chaObserv",
+              "date": "2025-07-23T23:47:05.000Z",
+              "message": "Separate denoised and noise estimation in Euler CFG++ (#9008)",
+              "linesAdded": 32,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-21": {
+          "date": "2025-07-21",
+          "heatScore": 47,
+          "linesChanged": 569,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/v3/nodes_sag.py",
+            "comfy_extras/v3/nodes_sd3.py",
+            "comfy_extras/v3/nodes_sdupscale.py",
+            "comfy_extras/v3/nodes_slg.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "7f8c51e36da446ee21550f06d2f2287f40249a39",
+              "author": "bigcat88",
+              "date": "2025-07-21T04:39:12.000Z",
+              "message": "v3 nodes: sd3, selfattent, s4_4xupscale, skiplayer",
+              "linesAdded": 569,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/v3/nodes_sag.py",
+                "comfy_extras/v3/nodes_sd3.py",
+                "comfy_extras/v3/nodes_sdupscale.py",
+                "comfy_extras/v3/nodes_slg.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-22": {
+          "date": "2025-07-22",
+          "heatScore": 15,
+          "linesChanged": 76,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/internal/__init__.py",
+            "comfy_extras/nodes_v3_test.py",
+            "execution.py"
+          ],
+          "commits": [
+            {
+              "hash": "27734d95273804a53c80b1a3a4346fc14b7d4baa",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-07-22T23:36:25.000Z",
+              "message": "Merge pull request #9010 from comfyanonymous/v3-definition-wip",
+              "linesAdded": 69,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "comfy_api/internal/__init__.py",
+                "comfy_extras/nodes_v3_test.py",
+                "execution.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-20": {
+          "date": "2025-07-20",
+          "heatScore": 26,
+          "linesChanged": 245,
+          "commitCount": 1,
+          "filesEdited": [
+            "openapi.yaml",
+            "tests-api/openapi.yaml"
+          ],
+          "commits": [
+            {
+              "hash": "7a691c980f21beaad7bfbef3957c2ec492d28229",
+              "author": "bymyself",
+              "date": "2025-07-20T23:55:47.000Z",
+              "message": "Fix OpenAPI validation by resolving duplicate content blocks",
+              "linesAdded": 118,
+              "linesDeleted": 127,
+              "filesChanged": [
+                "openapi.yaml",
+                "tests-api/openapi.yaml"
+              ]
+            }
+          ]
+        },
+        "2025-07-19": {
+          "date": "2025-07-19",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "openapi.yaml"
+          ],
+          "commits": [
+            {
+              "hash": "90d6b88739479c2221c3a9ae7e30f2fd6d67ecfe",
+              "author": "bymyself",
+              "date": "2025-07-19T22:14:17.000Z",
+              "message": "Fix more duplicate content blocks in OpenAPI spec",
+              "linesAdded": 10,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "openapi.yaml"
+              ]
+            }
+          ]
+        },
+        "2025-07-18": {
+          "date": "2025-07-18",
+          "heatScore": 18,
+          "linesChanged": 128,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/internal/__init__.py",
+            "comfy_api/v3/io.py",
+            "comfy_extras/nodes_v1_test.py",
+            "comfy_extras/nodes_v3_test.py"
+          ],
+          "commits": [
+            {
+              "hash": "b6a4a4c66416d7a8a9267202fed9a9946090073d",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-07-18T22:50:42.000Z",
+              "message": "Support async for v3's execute function, still need to test validate_inputs, fingerprint_inputs, and check_lazy_status, fix Any type for v3 by introducing __ne__ trick from comfy_api's typing.py",
+              "linesAdded": 120,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "comfy_api/internal/__init__.py",
+                "comfy_api/v3/io.py",
+                "comfy_extras/nodes_v1_test.py",
+                "comfy_extras/nodes_v3_test.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-16": {
+          "date": "2025-07-16",
+          "heatScore": 100,
+          "linesChanged": 2317,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy_api/generate_api_stubs.py",
+            "comfy_api/input/__init__.py",
+            "comfy_api/input/basic_types.py",
+            "comfy_api/input/video_types.py",
+            "comfy_api/input_impl/__init__.py",
+            "comfy_api/input_impl/video_types.py",
+            "comfy_api/internal/__init__.py",
+            "comfy_api/internal/api_registry.py",
+            "comfy_api/internal/async_to_sync.py",
+            "comfy_api/internal/singleton.py",
+            "comfy_api/latest/__init__.py",
+            "comfy_api/latest/generated/ComfyAPISyncStub.pyi",
+            "comfy_api/latest/input/__init__.py",
+            "comfy_api/latest/input/basic_types.py",
+            "comfy_api/latest/input/video_types.py",
+            "comfy_api/latest/input_impl/__init__.py",
+            "comfy_api/latest/input_impl/video_types.py",
+            "comfy_api/{ => latest}/util/__init__.py",
+            "comfy_api/{ => latest}/util/video_types.py",
+            "comfy_api/util.py",
+            "comfy_api/v0_0_1/__init__.py",
+            "comfy_api/v0_0_1/generated/ComfyAPISyncStub.pyi",
+            "comfy_api/v0_0_2/__init__.py",
+            "comfy_api/v0_0_2/generated/ComfyAPISyncStub.pyi",
+            "comfy_api/version_list.py",
+            "comfy_execution/progress.py",
+            "comfy_extras/nodes_video.py",
+            "main.py",
+            "nodes.py",
+            "pyproject.toml",
+            "tests/inference/testing_nodes/testing-pack/__init__.py",
+            "tests/inference/testing_nodes/testing-pack/api_test_nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "780c3ead167080259c1a8d4ca58e1e604e8ca959",
+              "author": "Jacob Segal",
+              "date": "2025-07-16T22:24:26.000Z",
+              "message": "ComfyAPI Core v0.0.2",
+              "linesAdded": 1871,
+              "linesDeleted": 446,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy_api/generate_api_stubs.py",
+                "comfy_api/input/__init__.py",
+                "comfy_api/input/basic_types.py",
+                "comfy_api/input/video_types.py",
+                "comfy_api/input_impl/__init__.py",
+                "comfy_api/input_impl/video_types.py",
+                "comfy_api/internal/__init__.py",
+                "comfy_api/internal/api_registry.py",
+                "comfy_api/internal/async_to_sync.py",
+                "comfy_api/internal/singleton.py",
+                "comfy_api/latest/__init__.py",
+                "comfy_api/latest/generated/ComfyAPISyncStub.pyi",
+                "comfy_api/latest/input/__init__.py",
+                "comfy_api/latest/input/basic_types.py",
+                "comfy_api/latest/input/video_types.py",
+                "comfy_api/latest/input_impl/__init__.py",
+                "comfy_api/latest/input_impl/video_types.py",
+                "comfy_api/{ => latest}/util/__init__.py",
+                "comfy_api/{ => latest}/util/video_types.py",
+                "comfy_api/util.py",
+                "comfy_api/v0_0_1/__init__.py",
+                "comfy_api/v0_0_1/generated/ComfyAPISyncStub.pyi",
+                "comfy_api/v0_0_2/__init__.py",
+                "comfy_api/v0_0_2/generated/ComfyAPISyncStub.pyi",
+                "comfy_api/version_list.py",
+                "comfy_execution/progress.py",
+                "comfy_extras/nodes_video.py",
+                "main.py",
+                "nodes.py",
+                "pyproject.toml",
+                "tests/inference/testing_nodes/testing-pack/__init__.py",
+                "tests/inference/testing_nodes/testing-pack/api_test_nodes.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-17": {
+          "date": "2025-07-17",
+          "heatScore": 38,
+          "linesChanged": 425,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/internal/__init__.py",
+            "comfy_api/v3/helpers.py",
+            "comfy_api/v3/io.py",
+            "execution.py",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "f8b71701034779fd0030769a0f940f10a07cddb7",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-07-17T23:55:54.000Z",
+              "message": "Merge pull request #8951 from comfyanonymous/v3-definition-wip",
+              "linesAdded": 258,
+              "linesDeleted": 167,
+              "filesChanged": [
+                "comfy_api/internal/__init__.py",
+                "comfy_api/v3/helpers.py",
+                "comfy_api/v3/io.py",
+                "execution.py",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-15": {
+          "date": "2025-07-15",
+          "heatScore": 39,
+          "linesChanged": 442,
+          "commitCount": 1,
+          "filesEdited": [
+            "tests-api/openapi.yaml"
+          ],
+          "commits": [
+            {
+              "hash": "13a970b3a6e93f163d95ffbf3adcbacfbf707574",
+              "author": "bymyself",
+              "date": "2025-07-15T19:43:47.000Z",
+              "message": "Create minimal valid OpenAPI specification in root directory",
+              "linesAdded": 353,
+              "linesDeleted": 89,
+              "filesChanged": [
+                "tests-api/openapi.yaml"
+              ]
+            }
+          ]
+        },
+        "2025-07-13": {
+          "date": "2025-07-13",
+          "heatScore": 22,
+          "linesChanged": 187,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/v3/ui.py",
+            "comfy_extras/v3/nodes_audio.py"
+          ],
+          "commits": [
+            {
+              "hash": "ac05d9a5fadeedc6270b531054b1112f0960f6f6",
+              "author": "bigcat88",
+              "date": "2025-07-13T05:28:50.000Z",
+              "message": "V3 Nodes: LoadAudio and PreviewAudio",
+              "linesAdded": 187,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_api/v3/ui.py",
+                "comfy_extras/v3/nodes_audio.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-14": {
+          "date": "2025-07-14",
+          "heatScore": 13,
+          "linesChanged": 49,
+          "commitCount": 1,
+          "filesEdited": [
+            "openapi.yaml"
+          ],
+          "commits": [
+            {
+              "hash": "16893d8b0088f399cbafc8911018c224cc1cd35e",
+              "author": "bymyself",
+              "date": "2025-07-14T23:31:32.000Z",
+              "message": "[openapi] Replace view metadata generic object with detailed schema",
+              "linesAdded": 43,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "openapi.yaml"
+              ]
+            }
+          ]
+        },
+        "2025-07-12": {
+          "date": "2025-07-12",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/v3/io.py",
+            "comfy_extras/v3/nodes_images.py"
+          ],
+          "commits": [
+            {
+              "hash": "1e36e7ff8b3436f8343d29c0ad17dc14fcae4277",
+              "author": "bigcat88",
+              "date": "2025-07-12T14:53:33.000Z",
+              "message": "V3 Nodes: make generic upload parameters for io.Combo.Input",
+              "linesAdded": 13,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "comfy_api/v3/io.py",
+                "comfy_extras/v3/nodes_images.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-11": {
+          "date": "2025-07-11",
+          "heatScore": 17,
+          "linesChanged": 106,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/v3/io.py",
+            "comfy_api/v3/ui.py",
+            "comfy_extras/nodes_v3_test.py",
+            "comfy_extras/v3/nodes_images.py",
+            "comfy_extras/v3/nodes_mask.py",
+            "comfy_extras/v3/nodes_webcam.py"
+          ],
+          "commits": [
+            {
+              "hash": "926a2b157953573ee5ceb0c34f7788ea914185fa",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-07-11T22:51:51.000Z",
+              "message": "Merge pull request #8879 from comfyanonymous/v3-definition-wip",
+              "linesAdded": 47,
+              "linesDeleted": 59,
+              "filesChanged": [
+                "comfy_api/v3/io.py",
+                "comfy_api/v3/ui.py",
+                "comfy_extras/nodes_v3_test.py",
+                "comfy_extras/v3/nodes_images.py",
+                "comfy_extras/v3/nodes_mask.py",
+                "comfy_extras/v3/nodes_webcam.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-10": {
+          "date": "2025-07-10",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/nodes_kling.py"
+          ],
+          "commits": [
+            {
+              "hash": "8f05fb48eaab6b5d6fd0747c5be358a60d93e186",
+              "author": "Christian Byrne",
+              "date": "2025-07-10T22:00:29.000Z",
+              "message": "[fix] increase Kling API polling timeout to prevent user timeouts (#8860)",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_api_nodes/nodes_kling.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-09": {
+          "date": "2025-07-09",
+          "heatScore": 18,
+          "linesChanged": 124,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_train.py"
+          ],
+          "commits": [
+            {
+              "hash": "1205afc708d963d160f38c1d6613a384ddf6c564",
+              "author": "Kohaku-Blueleaf",
+              "date": "2025-07-09T15:41:22.000Z",
+              "message": "Better training loop implementation (#8820)",
+              "linesAdded": 81,
+              "linesDeleted": 43,
+              "filesChanged": [
+                "comfy_extras/nodes_train.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-08": {
+          "date": "2025-07-08",
+          "heatScore": 13,
+          "linesChanged": 45,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "1eb1a448831fcb9d0580d9199df67b24f1c1e0e8",
+              "author": "bigcat88",
+              "date": "2025-07-08T14:55:13.000Z",
+              "message": "migrate PreviewImage node to V3",
+              "linesAdded": 31,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-07": {
+          "date": "2025-07-07",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_audio.py"
+          ],
+          "commits": [
+            {
+              "hash": "e740dfd8061e696c9701c917e05649eca9b4f631",
+              "author": "comfyanonymous",
+              "date": "2025-07-07T07:16:00.000Z",
+              "message": "Fix warning in audio save nodes. (#8818)",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_audio.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-06": {
+          "date": "2025-07-06",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_audio.py"
+          ],
+          "commits": [
+            {
+              "hash": "7eab7d29447429645c4c27a7e6c85d2be8ed79ff",
+              "author": "comfyanonymous",
+              "date": "2025-07-06T18:01:32.000Z",
+              "message": "Remove dependency on deprecated torchaudio.save function (#8815)",
+              "linesAdded": 3,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "comfy_extras/nodes_audio.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-05": {
+          "date": "2025-07-05",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "ee615ac26916f15290b63a20d4feb07ea702d5da",
+              "author": "comfyanonymous",
+              "date": "2025-07-05T18:34:57.000Z",
+              "message": "Add warning when loading file unsafely. (#8800)",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-04": {
+          "date": "2025-07-04",
+          "heatScore": 19,
+          "linesChanged": 136,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/v3/io.py",
+            "comfy_api/v3/resources.py",
+            "comfy_extras/nodes_v3_test.py",
+            "execution.py"
+          ],
+          "commits": [
+            {
+              "hash": "18a7207ca432677b857f2aece1cca189c09fc7f7",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-07-04T21:27:03.000Z",
+              "message": "Mock AutogrowDynamic type",
+              "linesAdded": 107,
+              "linesDeleted": 29,
+              "filesChanged": [
+                "comfy_api/v3/io.py",
+                "comfy_api/v3/resources.py",
+                "comfy_extras/nodes_v3_test.py",
+                "execution.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-03": {
+          "date": "2025-07-03",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py"
+          ],
+          "commits": [
+            {
+              "hash": "f41f323c52e34dffac7142732bdbdc4e54daa421",
+              "author": "chaObserv",
+              "date": "2025-07-03T23:20:53.000Z",
+              "message": "Add the denoising step to several samplers (#8780)",
+              "linesAdded": 24,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-02": {
+          "date": "2025-07-02",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_mask.py"
+          ],
+          "commits": [
+            {
+              "hash": "34c8eeec065856e835e5ccebfceb2ea3b76110a7",
+              "author": "comfyanonymous",
+              "date": "2025-07-02T19:35:11.000Z",
+              "message": "Fix ImageColorToMask not returning right mask values. (#8771)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_mask.py"
+              ]
+            }
+          ]
+        },
+        "2025-07-01": {
+          "date": "2025-07-01",
+          "heatScore": 100,
+          "linesChanged": 152895,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/release-webhook.yml",
+            ".github/workflows/stable-release.yml",
+            "README.md",
+            "comfy/cli_args.py",
+            "comfy/k_diffusion/sampling.py",
+            "comfy/ldm/flux/model.py",
+            "comfy/ldm/models/autoencoder.py",
+            "comfy/ldm/omnigen/omnigen2.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/model_management.py",
+            "comfy/samplers.py",
+            "comfy/sd.py",
+            "comfy/sd1_clip.py",
+            "comfy/supported_models.py",
+            "comfy/text_encoders/llama.py",
+            "comfy/text_encoders/omnigen2.py",
+            "comfy/text_encoders/qwen25_tokenizer/merges.txt",
+            "comfy/text_encoders/qwen25_tokenizer/tokenizer_config.json",
+            "comfy/text_encoders/qwen25_tokenizer/vocab.json",
+            "comfy/text_encoders/t5.py",
+            "comfy_extras/nodes_custom_sampler.py",
+            "comfy_extras/nodes_edit_model.py",
+            "comfy_extras/nodes_flux.py",
+            "comfy_extras/nodes_model_merging_model_specific.py",
+            "comfy_extras/nodes_perpneg.py",
+            "comfy_extras/nodes_tcfg.py",
+            "comfyui_version.py",
+            "main.py",
+            "nodes.py",
+            "pyproject.toml",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "d53479a1974e31ca3272f68edb2b545b3b84bf71",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-07-01T22:33:05.000Z",
+              "message": "Merge branch 'master' into worksplit-multigpu",
+              "linesAdded": 152805,
+              "linesDeleted": 90,
+              "filesChanged": [
+                ".github/workflows/release-webhook.yml",
+                ".github/workflows/stable-release.yml",
+                "README.md",
+                "comfy/cli_args.py",
+                "comfy/k_diffusion/sampling.py",
+                "comfy/ldm/flux/model.py",
+                "comfy/ldm/models/autoencoder.py",
+                "comfy/ldm/omnigen/omnigen2.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/model_management.py",
+                "comfy/samplers.py",
+                "comfy/sd.py",
+                "comfy/sd1_clip.py",
+                "comfy/supported_models.py",
+                "comfy/text_encoders/llama.py",
+                "comfy/text_encoders/omnigen2.py",
+                "comfy/text_encoders/qwen25_tokenizer/merges.txt",
+                "comfy/text_encoders/qwen25_tokenizer/tokenizer_config.json",
+                "comfy/text_encoders/qwen25_tokenizer/vocab.json",
+                "comfy/text_encoders/t5.py",
+                "comfy_extras/nodes_custom_sampler.py",
+                "comfy_extras/nodes_edit_model.py",
+                "comfy_extras/nodes_flux.py",
+                "comfy_extras/nodes_model_merging_model_specific.py",
+                "comfy_extras/nodes_perpneg.py",
+                "comfy_extras/nodes_tcfg.py",
+                "comfyui_version.py",
+                "main.py",
+                "nodes.py",
+                "pyproject.toml",
+                "requirements.txt"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

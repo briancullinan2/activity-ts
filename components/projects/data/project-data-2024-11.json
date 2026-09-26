@@ -1,0 +1,1474 @@
+{
+  "yearMonth": "2024-11",
+  "generatedAt": "2026-09-24T02:37:24.611Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-11-30": {
+          "date": "2024-11-30",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "53031e0db41fa1f8f6cfbba92477c1c90ae730b6",
+              "author": "Brian Cullinan",
+              "date": "2024-11-30T04:47:52.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-29": {
+          "date": "2024-11-29",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6cb4f58e6b9bea90873f61bfccf73b6140ffc1ee",
+              "author": "Brian Cullinan",
+              "date": "2024-11-29T20:44:43.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-28": {
+          "date": "2024-11-28",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1eccca28bf5577a9bb2bad520e245ca9d496936a",
+              "author": "Brian Cullinan",
+              "date": "2024-11-28T18:32:16.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-27": {
+          "date": "2024-11-27",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "dab47c580c9d1f3d713fa505f823fd16cfbcbd77",
+              "author": "Brian Cullinan",
+              "date": "2024-11-27T20:16:34.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-26": {
+          "date": "2024-11-26",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "65df970938160d25e2627649aeaa12aca2b784d6",
+              "author": "Brian Cullinan",
+              "date": "2024-11-26T18:01:16.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 7,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-25": {
+          "date": "2024-11-25",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1f0f11381a6d1a56ebd942e6eb7cf14e77120d7e",
+              "author": "Brian Cullinan",
+              "date": "2024-11-25T23:49:45.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-24": {
+          "date": "2024-11-24",
+          "heatScore": 11,
+          "linesChanged": 24,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "a546117d206fbf99ecaa936999cdb537d19f30c1",
+              "author": "Brian Cullinan",
+              "date": "2024-11-24T23:33:40.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 17,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-23": {
+          "date": "2024-11-23",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "54ab18470e1fc869b01c2e9f83ab80563b2359c9",
+              "author": "Brian Cullinan",
+              "date": "2024-11-23T20:15:26.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-22": {
+          "date": "2024-11-22",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "08eaffdfabbb5888c322d9aaeee5f812e729396a",
+              "author": "Brian Cullinan",
+              "date": "2024-11-22T12:48:28.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 0,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-21": {
+          "date": "2024-11-21",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "4c87490cff01e20f47b9ac60ea1d68ca273f7dab",
+              "author": "Brian Cullinan",
+              "date": "2024-11-21T23:44:44.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-20": {
+          "date": "2024-11-20",
+          "heatScore": 13,
+          "linesChanged": 56,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "0cce2654d5c40d94dadda5498acb9aca1cda114c",
+              "author": "Brian Cullinan",
+              "date": "2024-11-20T22:49:12.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 14,
+              "linesDeleted": 42,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-19": {
+          "date": "2024-11-19",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "61f1255bd42dab2d353f982f221bcebcc6927e94",
+              "author": "Brian Cullinan",
+              "date": "2024-11-19T06:45:13.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 12,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-18": {
+          "date": "2024-11-18",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "eada9ea6328e8cb5cb9249f95378c56df386e556",
+              "author": "Brian Cullinan",
+              "date": "2024-11-18T21:05:54.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-17": {
+          "date": "2024-11-17",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "5399abaf45983f795af1e0a79eea1982dd03bd1f",
+              "author": "Brian Cullinan",
+              "date": "2024-11-17T23:55:28.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-16": {
+          "date": "2024-11-16",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "cb8480ed3b99d816b3ab968a69845a97212cd30f",
+              "author": "Brian Cullinan",
+              "date": "2024-11-16T20:45:16.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-15": {
+          "date": "2024-11-15",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "981f420ea02e9211c8656804e806574576867708",
+              "author": "Brian Cullinan",
+              "date": "2024-11-15T22:36:22.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-14": {
+          "date": "2024-11-14",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "50f09a9b9e3d8c4d641fcb67096fce0a7e90d82f",
+              "author": "Brian Cullinan",
+              "date": "2024-11-14T21:27:46.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-13": {
+          "date": "2024-11-13",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "9c7369b462d3c8713d486cad824fa51406052b4b",
+              "author": "Brian Cullinan",
+              "date": "2024-11-13T23:18:18.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-12": {
+          "date": "2024-11-12",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "4f7eb44d2b776d8738f64024a952c326f718008c",
+              "author": "Brian Cullinan",
+              "date": "2024-11-12T23:09:16.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-11": {
+          "date": "2024-11-11",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "141404e174683224f842d06ef8e876fa67e76b9f",
+              "author": "Brian Cullinan",
+              "date": "2024-11-11T22:55:31.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-10": {
+          "date": "2024-11-10",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6019b09b6a5987e9090230bad522bd04400153ca",
+              "author": "Brian Cullinan",
+              "date": "2024-11-10T23:46:56.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 14,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-09": {
+          "date": "2024-11-09",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6bddfad6d6e1f85e3d3275897a54c612f50374ce",
+              "author": "Brian Cullinan",
+              "date": "2024-11-09T23:36:12.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-08": {
+          "date": "2024-11-08",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ae3d6c6a022e97aefb755c24f092e310a03a7510",
+              "author": "Brian Cullinan",
+              "date": "2024-11-08T23:25:49.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-07": {
+          "date": "2024-11-07",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d1f13f6b5e39f3af6fe2bcaa0c279d39a45611bd",
+              "author": "Brian Cullinan",
+              "date": "2024-11-07T23:22:28.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-06": {
+          "date": "2024-11-06",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "0eef348abb4a4b48a51c9cdd7674ee9a34411063",
+              "author": "Brian Cullinan",
+              "date": "2024-11-06T23:14:23.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-05": {
+          "date": "2024-11-05",
+          "heatScore": 10,
+          "linesChanged": 11,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "51bb0a46c80e523fa1c9fbc6d4c31f6671f56f36",
+              "author": "Brian Cullinan",
+              "date": "2024-11-05T23:08:53.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 7,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-04": {
+          "date": "2024-11-04",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "0952bc063229c15b8fffb1f15344bcbe226974f3",
+              "author": "Brian Cullinan",
+              "date": "2024-11-04T23:00:32.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 9,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-03": {
+          "date": "2024-11-03",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "03d1ff2cc81495f57991524fd0c20b54271947d6",
+              "author": "Brian Cullinan",
+              "date": "2024-11-03T23:29:55.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 6,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-02": {
+          "date": "2024-11-02",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "a3c6029cdfe4d1e538afb370195394b29f26acfb",
+              "author": "Brian Cullinan",
+              "date": "2024-11-02T16:18:02.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 7,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-11-01": {
+          "date": "2024-11-01",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "6e019e02d835f68c03457f9004101ed689d58217",
+              "author": "Brian Cullinan",
+              "date": "2024-11-01T19:08:49.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-11-30": {
+          "date": "2024-11-30",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "3fc6ebcdd72272349c0d1e18ad2f2d02f2d0fe84",
+              "author": "comfyanonymous",
+              "date": "2024-11-30T12:27:11.000Z",
+              "message": "Add basic style model \"multiply\" strength.",
+              "linesAdded": 6,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-29": {
+          "date": "2024-11-29",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "20a560eb97fc5697409821b70380324681fec5cb",
+              "author": "comfyanonymous",
+              "date": "2024-11-29T11:18:56.000Z",
+              "message": "How to enable experimental memory efficient attention on ROCm RDNA3.",
+              "linesAdded": 6,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2024-11-28": {
+          "date": "2024-11-28",
+          "heatScore": 18,
+          "linesChanged": 132,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/latent_formats.py"
+          ],
+          "commits": [
+            {
+              "hash": "bf2650a80e5a7a888da206eab45c53dbb22940f7",
+              "author": "comfyanonymous",
+              "date": "2024-11-28T11:46:15.000Z",
+              "message": "Fast previews for ltxv.",
+              "linesAdded": 132,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/latent_formats.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-27": {
+          "date": "2024-11-27",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/common_dit.py"
+          ],
+          "commits": [
+            {
+              "hash": "95d8713482fcb07017093ae01b9fe5162abe9bd8",
+              "author": "comfyanonymous",
+              "date": "2024-11-27T18:45:32.000Z",
+              "message": "Missing parentheses.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/ldm/common_dit.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-26": {
+          "date": "2024-11-26",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_base.py"
+          ],
+          "commits": [
+            {
+              "hash": "497db6212faea643d3aac1253ccfa23834109881",
+              "author": "comfyanonymous",
+              "date": "2024-11-26T22:51:40.000Z",
+              "message": "Alternative fix for #5767",
+              "linesAdded": 7,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_base.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-25": {
+          "date": "2024-11-25",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "61196d88576c95c1cd8535e881af48172d5af525",
+              "author": "comfyanonymous",
+              "date": "2024-11-25T10:00:23.000Z",
+              "message": "Add option to inference the diffusion model in fp32 and fp64.",
+              "linesAdded": 9,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-24": {
+          "date": "2024-11-24",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/hydit/models.py"
+          ],
+          "commits": [
+            {
+              "hash": "b4526d3fc3c4b6d42ea27d16e38cfecb6c54ef7e",
+              "author": "comfyanonymous",
+              "date": "2024-11-24T10:54:30.000Z",
+              "message": "Skip layer guidance now works on hydit model.",
+              "linesAdded": 17,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy/ldm/hydit/models.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-23": {
+          "date": "2024-11-23",
+          "heatScore": 12,
+          "linesChanged": 32,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/lightricks/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "ab885b33ba78509d5e2a3f2cba5fc62dab907b37",
+              "author": "comfyanonymous",
+              "date": "2024-11-23T15:33:05.000Z",
+              "message": "Skip layer guidance node now works on LTX-Video.",
+              "linesAdded": 22,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "comfy/ldm/lightricks/model.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-22": {
+          "date": "2024-11-22",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "6e8cdcd3cb542ba9eb5a5e5a420eff06f59dd268",
+              "author": "comfyanonymous",
+              "date": "2024-11-22T23:00:34.000Z",
+              "message": "Fix some tiled VAE decoding issues with LTX-Video.",
+              "linesAdded": 12,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/sd.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-21": {
+          "date": "2024-11-21",
+          "heatScore": 21,
+          "linesChanged": 166,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/clip_model.py",
+            "comfy/clip_vision.py",
+            "comfy/clip_vision_siglip_384.json",
+            "comfy/ldm/flux/model.py",
+            "comfy/ldm/flux/redux.py",
+            "comfy/lora_convert.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "8f0009aad0591ceee59a147738aa227187b07898",
+              "author": "comfyanonymous",
+              "date": "2024-11-21T13:38:23.000Z",
+              "message": "Support new flux model variants.",
+              "linesAdded": 147,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "comfy/clip_model.py",
+                "comfy/clip_vision.py",
+                "comfy/clip_vision_siglip_384.json",
+                "comfy/ldm/flux/model.py",
+                "comfy/ldm/flux/redux.py",
+                "comfy/lora_convert.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-20": {
+          "date": "2024-11-20",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/attention.py"
+          ],
+          "commits": [
+            {
+              "hash": "07f6eeaa134b34ef38ff6d9014061cfeb5d041e5",
+              "author": "comfyanonymous",
+              "date": "2024-11-20T22:07:46.000Z",
+              "message": "Fix mask issue with attention_xformers.",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/ldm/modules/attention.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-19": {
+          "date": "2024-11-19",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "898615122f224d24cc4c53a30e67c8b0e70579da",
+              "author": "comfyanonymous",
+              "date": "2024-11-19T20:31:09.000Z",
+              "message": "Rename add_noise_mask -> noise_mask.",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-18": {
+          "date": "2024-11-18",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "comfyui_screenshot.png"
+          ],
+          "commits": [
+            {
+              "hash": "9cc90ee3eb5206b701747a99fcaefa80bc0141bd",
+              "author": "Chenlei Hu",
+              "date": "2024-11-18T21:50:34.000Z",
+              "message": "Update UI screenshot in README (#5666)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md",
+                "comfyui_screenshot.png"
+              ]
+            }
+          ]
+        },
+        "2024-11-17": {
+          "date": "2024-11-17",
+          "heatScore": 12,
+          "linesChanged": 32,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/aura/mmdit.py"
+          ],
+          "commits": [
+            {
+              "hash": "d9f90965c8601b671faca9c8784b529e389c49aa",
+              "author": "comfyanonymous",
+              "date": "2024-11-17T13:19:59.000Z",
+              "message": "Support block replace patches in auraflow.",
+              "linesAdded": 27,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy/ldm/aura/mmdit.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-16": {
+          "date": "2024-11-16",
+          "heatScore": 12,
+          "linesChanged": 36,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/genmo/joint_model/asymm_models_joint.py"
+          ],
+          "commits": [
+            {
+              "hash": "41886af138939719b86f30bacbafc76a142d89de",
+              "author": "comfyanonymous",
+              "date": "2024-11-16T19:47:06.000Z",
+              "message": "Add transformer options blocks replace patch to mochi.",
+              "linesAdded": 27,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "comfy/ldm/genmo/joint_model/asymm_models_joint.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-15": {
+          "date": "2024-11-15",
+          "heatScore": 11,
+          "linesChanged": 29,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_model_merging_model_specific.py"
+          ],
+          "commits": [
+            {
+              "hash": "5fb59c8475fbffeecc684dc8c3be27212f2cf7aa",
+              "author": "comfyanonymous",
+              "date": "2024-11-15T17:47:55.000Z",
+              "message": "Add a node to block merge auraflow models.",
+              "linesAdded": 29,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_model_merging_model_specific.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-14": {
+          "date": "2024-11-14",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_model_merging_model_specific.py"
+          ],
+          "commits": [
+            {
+              "hash": "122c9ca1cec50e78fb0fb0eb7a3d7fd015e7f037",
+              "author": "comfyanonymous",
+              "date": "2024-11-14T12:51:20.000Z",
+              "message": "Add advanced model merging node for mochi.",
+              "linesAdded": 23,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_model_merging_model_specific.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-13": {
+          "date": "2024-11-13",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "3b9a6cf2b11094f92228b121c6a0d466ba5d5246",
+              "author": "comfyanonymous",
+              "date": "2024-11-13T12:18:30.000Z",
+              "message": "Fix issue with 3d masks.",
+              "linesAdded": 3,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-12": {
+          "date": "2024-11-12",
+          "heatScore": 12,
+          "linesChanged": 35,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/flux/model.py",
+            "comfy_extras/nodes_sd3.py"
+          ],
+          "commits": [
+            {
+              "hash": "8ebf2d8831f3c1ec68f203c12ba6af456f4d99e4",
+              "author": "comfyanonymous",
+              "date": "2024-11-12T13:00:00.000Z",
+              "message": "Add block replace transformer_options to flux.",
+              "linesAdded": 29,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "comfy/ldm/flux/model.py",
+                "comfy_extras/nodes_sd3.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-11": {
+          "date": "2024-11-11",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "eb476e6ea9f306503472c75f2cd3c62683f73d88",
+              "author": "comfyanonymous",
+              "date": "2024-11-11T19:44:19.000Z",
+              "message": "Allow 1D masks for 1D latents.",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-10": {
+          "date": "2024-11-10",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/latent_formats.py",
+            "latent_preview.py"
+          ],
+          "commits": [
+            {
+              "hash": "bdeb1c171cd773a4df895a77fa384b58fe8acac5",
+              "author": "comfyanonymous",
+              "date": "2024-11-10T08:39:35.000Z",
+              "message": "Fast previews for mochi.",
+              "linesAdded": 21,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/latent_formats.py",
+                "latent_preview.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-09": {
+          "date": "2024-11-09",
+          "heatScore": 11,
+          "linesChanged": 29,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sampler_helpers.py",
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "8b90e50979b0d33e1f8d10d5c938361f59f95474",
+              "author": "comfyanonymous",
+              "date": "2024-11-09T12:10:43.000Z",
+              "message": "Properly handle and reshape masks when used on 3d latents.",
+              "linesAdded": 23,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "comfy/sampler_helpers.py",
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-08": {
+          "date": "2024-11-08",
+          "heatScore": 10,
+          "linesChanged": 11,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_sag.py"
+          ],
+          "commits": [
+            {
+              "hash": "dd5b57e3d7371cab793beedfdc20e60890b05a0e",
+              "author": "DenOfEquity",
+              "date": "2024-11-08T23:16:29.000Z",
+              "message": "fix for SAG with Kohya HRFix/ Deep Shrink (#5546)",
+              "linesAdded": 8,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy_extras/nodes_sag.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-07": {
+          "date": "2024-11-07",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "2865f913f754710922370fc1f332ef1bf53baab4",
+              "author": "comfyanonymous",
+              "date": "2024-11-07T09:01:24.000Z",
+              "message": "Free memory before doing tiled decode.",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-06": {
+          "date": "2024-11-06",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_detection.py"
+          ],
+          "commits": [
+            {
+              "hash": "5e29e7a488b3f48afc6c4a3cb8ed110976d0ebb8",
+              "author": "comfyanonymous",
+              "date": "2024-11-06T09:56:42.000Z",
+              "message": "Remove scaled_fp8 key after reading it to silence warning.",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/model_detection.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-05": {
+          "date": "2024-11-05",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "8afb97cd3f4d74d3a09fb2c3bd89488fd855d2ad",
+              "author": "comfyanonymous",
+              "date": "2024-11-05T08:42:58.000Z",
+              "message": "Fix unknown VAE being detected as the mochi VAE.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-04": {
+          "date": "2024-11-04",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/flux/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "69694f40b3033c7a8969a764369b00c586ffcf3a",
+              "author": "contentis",
+              "date": "2024-11-04T19:59:28.000Z",
+              "message": "fix dynamic shape export (#5490)",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/ldm/flux/model.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-03": {
+          "date": "2024-11-03",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/text_encoders/genmo.py"
+          ],
+          "commits": [
+            {
+              "hash": "6c9dbde7de5696fae18540ae68baaa1f990b9ba9",
+              "author": "comfyanonymous",
+              "date": "2024-11-03T06:40:42.000Z",
+              "message": "Fix mochi all in one checkpoint t5xxl key names.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/text_encoders/genmo.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-02": {
+          "date": "2024-11-02",
+          "heatScore": 11,
+          "linesChanged": 25,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_sd3.py",
+            "folder_paths.py",
+            "models/text_encoders/put_text_encoder_files_here",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "ee8abf0cfff230286ac742138642c9876150f425",
+              "author": "comfyanonymous",
+              "date": "2024-11-02T19:35:38.000Z",
+              "message": "Update folder paths: \"clip\" -> \"text_encoders\"",
+              "linesAdded": 13,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "comfy_extras/nodes_sd3.py",
+                "folder_paths.py",
+                "models/text_encoders/put_text_encoder_files_here",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2024-11-01": {
+          "date": "2024-11-01",
+          "heatScore": 30,
+          "linesChanged": 311,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/genmo/vae/model.py",
+            "comfy/ldm/modules/attention.py",
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "fabf449febfc71f863f48052d83bfed7b1727a45",
+              "author": "comfyanonymous",
+              "date": "2024-11-01T21:33:09.000Z",
+              "message": "Mochi VAE encoder.",
+              "linesAdded": 283,
+              "linesDeleted": 28,
+              "filesChanged": [
+                "comfy/ldm/genmo/vae/model.py",
+                "comfy/ldm/modules/attention.py",
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI-Hunyuan3D-1-wrapper": {
+      "projectName": "ComfyUI-Hunyuan3D-1-wrapper",
+      "localPath": "C:\\Users\\megam\\ComfyUI-Hunyuan3D-1-wrapper",
+      "remoteUrl": "https://github.com/jtydhr88/ComfyUI-Hunyuan3D-1-wrapper",
+      "lastUpdated": "2026-09-24T02:37:01.446Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-11-13": {
+          "date": "2024-11-13",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "README_zh_CN.md"
+          ],
+          "commits": [
+            {
+              "hash": "324a4940285531069fd159152b715ea382493569",
+              "author": "Terry Jia",
+              "date": "2024-11-13T11:50:46.000Z",
+              "message": "Update README_zh_CN.md",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README_zh_CN.md"
+              ]
+            }
+          ]
+        },
+        "2024-11-08": {
+          "date": "2024-11-08",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "README_zh_CN.md"
+          ],
+          "commits": [
+            {
+              "hash": "941462ecccc37448f487df90fae1f855d3fc95ed",
+              "author": "Terry Jia",
+              "date": "2024-11-08T13:51:21.000Z",
+              "message": "readme",
+              "linesAdded": 11,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "README.md",
+                "README_zh_CN.md"
+              ]
+            }
+          ]
+        },
+        "2024-11-07": {
+          "date": "2024-11-07",
+          "heatScore": 43,
+          "linesChanged": 497,
+          "commitCount": 1,
+          "filesEdited": [
+            "infer/__init__.py",
+            "infer/image_to_views.py",
+            "infer/image_to_views_pipeline_load.py",
+            "infer/text_to_image.py",
+            "infer/text_to_image_pipeline_load.py",
+            "infer/views_to_mesh.py",
+            "infer/views_to_mesh_pipeline_load.py",
+            "run.py"
+          ],
+          "commits": [
+            {
+              "hash": "5d259b234632a634abb672102e46e29d5505cd6e",
+              "author": "Terry Jia",
+              "date": "2024-11-07T04:51:22.000Z",
+              "message": "some update",
+              "linesAdded": 404,
+              "linesDeleted": 93,
+              "filesChanged": [
+                "infer/__init__.py",
+                "infer/image_to_views.py",
+                "infer/image_to_views_pipeline_load.py",
+                "infer/text_to_image.py",
+                "infer/text_to_image_pipeline_load.py",
+                "infer/views_to_mesh.py",
+                "infer/views_to_mesh_pipeline_load.py",
+                "run.py"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

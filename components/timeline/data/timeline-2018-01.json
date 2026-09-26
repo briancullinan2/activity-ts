@@ -1,0 +1,2561 @@
+[
+  {
+    "id": "event-52ujes9e813atgkutc0b9o4jls@google.com",
+    "category": "events",
+    "timestamp": "2018-01-01T10:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-01T10:00:00.000Z",
+      "end": "2018-01-01T11:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6gpttuuggjka9h6h7pn3qe5p0l@google.com",
+    "category": "events",
+    "timestamp": "2018-01-01T11:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-01T11:00:00.000Z",
+      "end": "2018-01-01T12:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-vs30c11f2t5ib7o4tqpjt104ac@google.com",
+    "category": "events",
+    "timestamp": "2018-01-01T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-01T19:00:00.000Z",
+      "end": "2018-01-01T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ccpjeeb5chi3cb9mc4rjgb9k6hh38b9p65ijcbb66pj30p9o68sj6p1h60@google.com",
+    "category": "events",
+    "timestamp": "2018-01-02T07:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-02T07:00:00.000Z",
+      "end": "2018-01-02T07:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cgs3io9nc9hm8b9jcoq34b9k65h32bb1c8p3cb9m6phmae1jcpi66phm68@google.com",
+    "category": "events",
+    "timestamp": "2018-01-02T07:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-02T07:30:00.000Z",
+      "end": "2018-01-02T08:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-4804",
+    "category": "bookmarks",
+    "timestamp": "2018-01-02T23:42:11.000Z",
+    "title": "[Engineering] DIY Home Solar Installation - PART 5, INVERTER DC/AC WIRING, Separate solar MPPT arrays - YouTube",
+    "detail": {
+      "name": "DIY Home Solar Installation - PART 5, INVERTER DC/AC WIRING, Separate solar MPPT arrays - YouTube",
+      "url": "https://www.youtube.com/watch?v=GE4jeAsADlE",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13159410131000000
+    }
+  },
+  {
+    "id": "bookmark-14927",
+    "category": "bookmarks",
+    "timestamp": "2018-01-02T23:42:11.263Z",
+    "title": "[Engineering] DIY Home Solar Installation - PART 5, INVERTER DC/AC WIRING, Separate solar MPPT arrays - YouTube",
+    "detail": {
+      "name": "DIY Home Solar Installation - PART 5, INVERTER DC/AC WIRING, Separate solar MPPT arrays - YouTube",
+      "url": "https://www.youtube.com/watch?v=GE4jeAsADlE",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13159410131263876
+    }
+  },
+  {
+    "id": "bookmark-4805",
+    "category": "bookmarks",
+    "timestamp": "2018-01-02T23:42:36.000Z",
+    "title": "[Engineering] SOLAR PANEL WIRING CONFIGURATIONS for DIY GRID FREE PHOTOVOLTAIC Power - YouTube",
+    "detail": {
+      "name": "SOLAR PANEL WIRING CONFIGURATIONS for DIY GRID FREE PHOTOVOLTAIC Power - YouTube",
+      "url": "https://www.youtube.com/watch?v=N86eHRGRJwQ",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13159410156000000
+    }
+  },
+  {
+    "id": "bookmark-14928",
+    "category": "bookmarks",
+    "timestamp": "2018-01-02T23:42:36.069Z",
+    "title": "[Engineering] SOLAR PANEL WIRING CONFIGURATIONS for DIY GRID FREE PHOTOVOLTAIC Power - YouTube",
+    "detail": {
+      "name": "SOLAR PANEL WIRING CONFIGURATIONS for DIY GRID FREE PHOTOVOLTAIC Power - YouTube",
+      "url": "https://www.youtube.com/watch?v=N86eHRGRJwQ",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13159410156069224
+    }
+  },
+  {
+    "id": "bookmark-4806",
+    "category": "bookmarks",
+    "timestamp": "2018-01-02T23:45:05.000Z",
+    "title": "[Engineering] DIY Solar Panel System Wiring Diagram - YouTube",
+    "detail": {
+      "name": "DIY Solar Panel System Wiring Diagram - YouTube",
+      "url": "https://www.youtube.com/watch?v=H5c98bJDP3w",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13159410305000000
+    }
+  },
+  {
+    "id": "bookmark-14929",
+    "category": "bookmarks",
+    "timestamp": "2018-01-02T23:45:05.554Z",
+    "title": "[Engineering] DIY Solar Panel System Wiring Diagram - YouTube",
+    "detail": {
+      "name": "DIY Solar Panel System Wiring Diagram - YouTube",
+      "url": "https://www.youtube.com/watch?v=H5c98bJDP3w",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13159410305554468
+    }
+  },
+  {
+    "id": "event-1qp4mknc8h1bi1n0qi04atbhqg@google.com",
+    "category": "events",
+    "timestamp": "2018-01-03T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-03T06:00:00.000Z",
+      "end": "2018-01-03T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3p4cjohprk9rvvgl5aq4mk1hco@google.com",
+    "category": "events",
+    "timestamp": "2018-01-03T15:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-03T15:30:00.000Z",
+      "end": "2018-01-03T16:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-19lq307goihpejhci8kmgao43o@google.com",
+    "category": "events",
+    "timestamp": "2018-01-03T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-03T17:30:00.000Z",
+      "end": "2018-01-03T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0inu02qqhet91nv7s9k5t2k399@google.com",
+    "category": "events",
+    "timestamp": "2018-01-03T18:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-03T18:30:00.000Z",
+      "end": "2018-01-03T19:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-16freeupisne4o28qia3n042nq@google.com",
+    "category": "events",
+    "timestamp": "2018-01-03T21:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-03T21:30:00.000Z",
+      "end": "2018-01-03T22:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-37c2cb7ub9md9a1vbtdl9guv90@google.com",
+    "category": "events",
+    "timestamp": "2018-01-04T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-04T06:00:00.000Z",
+      "end": "2018-01-04T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5otl84cpe920f7edcnqvhbes2f@google.com",
+    "category": "events",
+    "timestamp": "2018-01-04T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-04T17:00:00.000Z",
+      "end": "2018-01-04T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-233jgmlc1mvfmcskqetap57ttj@google.com",
+    "category": "events",
+    "timestamp": "2018-01-04T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-04T21:00:00.000Z",
+      "end": "2018-01-04T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c5j3iob4cksm4b9pccom4b9k6di38b9ocgrj0bb475gjecpmckp34d9k70@google.com",
+    "category": "events",
+    "timestamp": "2018-01-05T01:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-05T01:00:00.000Z",
+      "end": "2018-01-05T02:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-35hjndu7dovpkds3q214cg2og8@google.com",
+    "category": "events",
+    "timestamp": "2018-01-05T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-05T15:00:00.000Z",
+      "end": "2018-01-05T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6743bcallfg74btgnbo66pk25t@google.com",
+    "category": "events",
+    "timestamp": "2018-01-05T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-05T17:00:00.000Z",
+      "end": "2018-01-05T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-1423",
+    "category": "bookmarks",
+    "timestamp": "2018-01-05T18:19:15.000Z",
+    "title": "[Frameworks] CoderPad",
+    "detail": {
+      "name": "CoderPad",
+      "url": "https://coderpad.io/",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159649955000000
+    }
+  },
+  {
+    "id": "bookmark-11620",
+    "category": "bookmarks",
+    "timestamp": "2018-01-05T18:19:15.330Z",
+    "title": "[Frameworks] CoderPad",
+    "detail": {
+      "name": "CoderPad",
+      "url": "https://coderpad.io/",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159649955330090
+    }
+  },
+  {
+    "id": "bookmark-1424",
+    "category": "bookmarks",
+    "timestamp": "2018-01-05T18:19:59.000Z",
+    "title": "[Frameworks] LeetCode",
+    "detail": {
+      "name": "LeetCode",
+      "url": "https://leetcode.com/",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159649999000000
+    }
+  },
+  {
+    "id": "bookmark-11621",
+    "category": "bookmarks",
+    "timestamp": "2018-01-05T18:19:59.356Z",
+    "title": "[Frameworks] LeetCode",
+    "detail": {
+      "name": "LeetCode",
+      "url": "https://leetcode.com/",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159649999356048
+    }
+  },
+  {
+    "id": "event-6c5rpeck15pr7kbik1k2ui5f4v@google.com",
+    "category": "events",
+    "timestamp": "2018-01-05T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-05T20:00:00.000Z",
+      "end": "2018-01-05T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-548",
+    "category": "bookmarks",
+    "timestamp": "2018-01-05T21:10:23.000Z",
+    "title": "[Data structures] A Generative Approach to Simulating Watercolor Paints from “Scratch” | [“turnage”]",
+    "detail": {
+      "name": "A Generative Approach to Simulating Watercolor Paints from “Scratch” | [“turnage”]",
+      "url": "https://blog.paytonturnage.com/water_color",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13159660223000000
+    }
+  },
+  {
+    "id": "bookmark-10988",
+    "category": "bookmarks",
+    "timestamp": "2018-01-05T21:10:23.632Z",
+    "title": "[Data structures] A Generative Approach to Simulating Watercolor Paints from “Scratch” | [“turnage”]",
+    "detail": {
+      "name": "A Generative Approach to Simulating Watercolor Paints from “Scratch” | [“turnage”]",
+      "url": "https://blog.paytonturnage.com/water_color",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13159660223632162
+    }
+  },
+  {
+    "id": "bookmark-1425",
+    "category": "bookmarks",
+    "timestamp": "2018-01-06T00:20:50.000Z",
+    "title": "[Frameworks] Task Runners, A comparison between Grunt, Gulp, Broccoli and Mimosa – Javascript Jedi Padawan",
+    "detail": {
+      "name": "Task Runners, A comparison between Grunt, Gulp, Broccoli and Mimosa – Javascript Jedi Padawan",
+      "url": "http://jpsierens.com/task-runners-a-comparison-between-grunt-gulp-broccoli-and-mimosa/",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159671650000000
+    }
+  },
+  {
+    "id": "bookmark-11622",
+    "category": "bookmarks",
+    "timestamp": "2018-01-06T00:20:50.169Z",
+    "title": "[Frameworks] Task Runners, A comparison between Grunt, Gulp, Broccoli and Mimosa – Javascript Jedi Padawan",
+    "detail": {
+      "name": "Task Runners, A comparison between Grunt, Gulp, Broccoli and Mimosa – Javascript Jedi Padawan",
+      "url": "http://jpsierens.com/task-runners-a-comparison-between-grunt-gulp-broccoli-and-mimosa/",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159671650169684
+    }
+  },
+  {
+    "id": "bookmark-1426",
+    "category": "bookmarks",
+    "timestamp": "2018-01-06T00:20:56.000Z",
+    "title": "[Frameworks] Mimosa - A build tool for modern web development",
+    "detail": {
+      "name": "Mimosa - A build tool for modern web development",
+      "url": "http://mimosa.io/index.html",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159671656000000
+    }
+  },
+  {
+    "id": "bookmark-11623",
+    "category": "bookmarks",
+    "timestamp": "2018-01-06T00:20:56.563Z",
+    "title": "[Frameworks] Mimosa - A build tool for modern web development",
+    "detail": {
+      "name": "Mimosa - A build tool for modern web development",
+      "url": "http://mimosa.io/index.html",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159671656563824
+    }
+  },
+  {
+    "id": "bookmark-1427",
+    "category": "bookmarks",
+    "timestamp": "2018-01-06T04:15:59.000Z",
+    "title": "[Frameworks] The Ultimate List of Build Tools",
+    "detail": {
+      "name": "The Ultimate List of Build Tools",
+      "url": "https://xebialabs.com/the-ultimate-devops-tool-chest/build/",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159685759000000
+    }
+  },
+  {
+    "id": "bookmark-11624",
+    "category": "bookmarks",
+    "timestamp": "2018-01-06T04:15:59.886Z",
+    "title": "[Frameworks] The Ultimate List of Build Tools",
+    "detail": {
+      "name": "The Ultimate List of Build Tools",
+      "url": "https://xebialabs.com/the-ultimate-devops-tool-chest/build/",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159685759886396
+    }
+  },
+  {
+    "id": "event-2fajj1utllv96dntognuv7fukl@google.com",
+    "category": "events",
+    "timestamp": "2018-01-06T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-06T05:00:00.000Z",
+      "end": "2018-01-06T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6ehc4bflm9gg4mf7mih9uudvoh@google.com",
+    "category": "events",
+    "timestamp": "2018-01-06T06:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-06T06:00:00.000Z",
+      "end": "2018-01-06T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-028o2jh9g1b47ogvgo8en9kj68@google.com",
+    "category": "events",
+    "timestamp": "2018-01-06T11:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-06T11:30:00.000Z",
+      "end": "2018-01-06T12:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2561",
+    "category": "bookmarks",
+    "timestamp": "2018-01-07T01:40:55.000Z",
+    "title": "[Command line] Ten Things I Wish I’d Known About bash – zwischenzugs",
+    "detail": {
+      "name": "Ten Things I Wish I’d Known About bash – zwischenzugs",
+      "url": "https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13159762855000000
+    }
+  },
+  {
+    "id": "bookmark-12741",
+    "category": "bookmarks",
+    "timestamp": "2018-01-07T01:40:55.706Z",
+    "title": "[Command line] Ten Things I Wish I’d Known About bash – zwischenzugs",
+    "detail": {
+      "name": "Ten Things I Wish I’d Known About bash – zwischenzugs",
+      "url": "https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13159762855706816
+    }
+  },
+  {
+    "id": "event-6qlvao6kirq3p36ui0s063nqdb@google.com",
+    "category": "events",
+    "timestamp": "2018-01-07T22:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-07T22:30:00.000Z",
+      "end": "2018-01-07T23:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-1428",
+    "category": "bookmarks",
+    "timestamp": "2018-01-08T05:27:05.000Z",
+    "title": "[Frameworks] Node.js Child Processes: Everything you need to know",
+    "detail": {
+      "name": "Node.js Child Processes: Everything you need to know",
+      "url": "https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159862825000000
+    }
+  },
+  {
+    "id": "bookmark-11625",
+    "category": "bookmarks",
+    "timestamp": "2018-01-08T05:27:05.173Z",
+    "title": "[Frameworks] Node.js Child Processes: Everything you need to know",
+    "detail": {
+      "name": "Node.js Child Processes: Everything you need to know",
+      "url": "https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a",
+      "folderPath": "Computer Science/Frameworks",
+      "lastFolder": "Frameworks",
+      "timeUsec": 13159862825173780
+    }
+  },
+  {
+    "id": "event-ujlbs95oja6v3hsh4vnfgud4og@google.com",
+    "category": "events",
+    "timestamp": "2018-01-08T17:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-08T17:00:00.000Z",
+      "end": "2018-01-08T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1t1bdj4aafo42jo5vtuofjpc7o@google.com",
+    "category": "events",
+    "timestamp": "2018-01-08T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-08T18:00:00.000Z",
+      "end": "2018-01-08T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-b1teci0oldkcbmgptp1d5msle0@google.com",
+    "category": "events",
+    "timestamp": "2018-01-08T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-08T19:00:00.000Z",
+      "end": "2018-01-08T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0tr8lrqgvk66tiqi04ruq8k3po@google.com",
+    "category": "events",
+    "timestamp": "2018-01-08T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-08T20:00:00.000Z",
+      "end": "2018-01-08T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7tn5hnd3a2kd66b69ucqophf3m@google.com",
+    "category": "events",
+    "timestamp": "2018-01-08T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-08T21:00:00.000Z",
+      "end": "2018-01-08T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3g2b4if13k5dtaohn7pascvh08@google.com",
+    "category": "events",
+    "timestamp": "2018-01-09T15:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-09T15:30:00.000Z",
+      "end": "2018-01-09T16:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7de1t4md3is3uq69s1mahjk9u9@google.com",
+    "category": "events",
+    "timestamp": "2018-01-09T16:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-09T16:30:00.000Z",
+      "end": "2018-01-09T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-45kdum32it4v3embn5krnmb977@google.com",
+    "category": "events",
+    "timestamp": "2018-01-09T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-09T18:00:00.000Z",
+      "end": "2018-01-09T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1a3ojtfi8ffl2al471b81ftojc@google.com",
+    "category": "events",
+    "timestamp": "2018-01-09T19:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-09T19:30:00.000Z",
+      "end": "2018-01-09T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6dso81p01v8f95koc6rh7n3dqq@google.com",
+    "category": "events",
+    "timestamp": "2018-01-10T00:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-10T00:00:00.000Z",
+      "end": "2018-01-10T01:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5fbvcr2pss62i4htbe1003f6j7@google.com",
+    "category": "events",
+    "timestamp": "2018-01-10T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-10T05:30:00.000Z",
+      "end": "2018-01-10T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4fqsvmjc5avkaat67dklu680po@google.com",
+    "category": "events",
+    "timestamp": "2018-01-10T16:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-10T16:30:00.000Z",
+      "end": "2018-01-10T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-719li543djdejr1fg7ku9bj6he@google.com",
+    "category": "events",
+    "timestamp": "2018-01-10T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-10T17:30:00.000Z",
+      "end": "2018-01-10T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0pjmad59slr0v8222ii0ievcg8@google.com",
+    "category": "events",
+    "timestamp": "2018-01-10T18:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-10T18:30:00.000Z",
+      "end": "2018-01-10T19:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-32kn13r25533gcm99sego3noar@google.com",
+    "category": "events",
+    "timestamp": "2018-01-10T19:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-10T19:30:00.000Z",
+      "end": "2018-01-10T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6oa650l6bipr7fani7apfg59ds@google.com",
+    "category": "events",
+    "timestamp": "2018-01-10T20:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-10T20:30:00.000Z",
+      "end": "2018-01-10T21:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4fm1l8oh4l5d7dc15p9nrfu2h7@google.com",
+    "category": "events",
+    "timestamp": "2018-01-11T04:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-11T04:00:00.000Z",
+      "end": "2018-01-11T05:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1pa649b2m4ptvsuju59d0pi9tk@google.com",
+    "category": "events",
+    "timestamp": "2018-01-11T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-11T15:00:00.000Z",
+      "end": "2018-01-11T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2bueeaorvrgbqhd7uc33vn1upn@google.com",
+    "category": "events",
+    "timestamp": "2018-01-11T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-11T16:00:00.000Z",
+      "end": "2018-01-11T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0jc9ajfurfguutdhimquek2sa9@google.com",
+    "category": "events",
+    "timestamp": "2018-01-11T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-11T19:00:00.000Z",
+      "end": "2018-01-11T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-30tpqqfpi2ejvf1nfl6780f5ki@google.com",
+    "category": "events",
+    "timestamp": "2018-01-11T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-11T22:00:00.000Z",
+      "end": "2018-01-11T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2rmt6649cks55lu1sl07o8tci1@google.com",
+    "category": "events",
+    "timestamp": "2018-01-12T01:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-12T01:30:00.000Z",
+      "end": "2018-01-12T02:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7m6gh9r8tssp4u9argafom6og9@google.com",
+    "category": "events",
+    "timestamp": "2018-01-12T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-12T17:00:00.000Z",
+      "end": "2018-01-12T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3jfn0lkj78qmaablpmej76sc16@google.com",
+    "category": "events",
+    "timestamp": "2018-01-12T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-12T18:00:00.000Z",
+      "end": "2018-01-12T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-264d3uq7lloqce159kj7jcg6l2@google.com",
+    "category": "events",
+    "timestamp": "2018-01-12T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-12T18:00:00.000Z",
+      "end": "2018-01-12T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0kln8tnecps4v342sak0iatecd@google.com",
+    "category": "events",
+    "timestamp": "2018-01-12T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-12T19:00:00.000Z",
+      "end": "2018-01-12T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-73l56hipjfth2mst62k6lh0uqi@google.com",
+    "category": "events",
+    "timestamp": "2018-01-12T19:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-12T19:30:00.000Z",
+      "end": "2018-01-12T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0h4joc13obpmrf14g0g1fscs8p@google.com",
+    "category": "events",
+    "timestamp": "2018-01-12T20:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-12T20:30:00.000Z",
+      "end": "2018-01-12T21:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-69einhkm1cu87hl18ff9m516em@google.com",
+    "category": "events",
+    "timestamp": "2018-01-12T20:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-12T20:30:00.000Z",
+      "end": "2018-01-12T21:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3939h166ffslbijfco2mpukklp@google.com",
+    "category": "events",
+    "timestamp": "2018-01-12T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-12T21:00:00.000Z",
+      "end": "2018-01-12T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0v5iktmg2ea4c9bf1umo3ocs68@google.com",
+    "category": "events",
+    "timestamp": "2018-01-12T21:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-12T21:30:00.000Z",
+      "end": "2018-01-12T22:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7bibv28au54nm5q4acf2e6n7c0@google.com",
+    "category": "events",
+    "timestamp": "2018-01-12T23:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-12T23:30:00.000Z",
+      "end": "2018-01-13T00:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2ob2mls66ii9258f1b1nrstbie@google.com",
+    "category": "events",
+    "timestamp": "2018-01-13T03:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-13T03:00:00.000Z",
+      "end": "2018-01-13T04:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7336",
+    "category": "bookmarks",
+    "timestamp": "2018-01-13T04:19:38.000Z",
+    "title": "[Recording] Mining Bitcoin with pencil and paper: 0.67 hashes per day",
+    "detail": {
+      "name": "Mining Bitcoin with pencil and paper: 0.67 hashes per day",
+      "url": "http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13160290778000000
+    }
+  },
+  {
+    "id": "bookmark-17244",
+    "category": "bookmarks",
+    "timestamp": "2018-01-13T04:19:38.918Z",
+    "title": "[Recording] Mining Bitcoin with pencil and paper: 0.67 hashes per day",
+    "detail": {
+      "name": "Mining Bitcoin with pencil and paper: 0.67 hashes per day",
+      "url": "http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13160290778918254
+    }
+  },
+  {
+    "id": "event-63mn1uhipho4l43dh09ncpc5at@google.com",
+    "category": "events",
+    "timestamp": "2018-01-13T07:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-13T07:30:00.000Z",
+      "end": "2018-01-13T08:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cqmcdpoc5j38b9o6oqj6b9k65j30b9p61h3ebb46lh3ae1h61j6adr5c8@google.com",
+    "category": "events",
+    "timestamp": "2018-01-14T08:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-14T08:00:00.000Z",
+      "end": "2018-01-14T09:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-4039",
+    "category": "bookmarks",
+    "timestamp": "2018-01-14T19:40:18.000Z",
+    "title": "[Formal methods] Don't be fooled by 100% code coverage.",
+    "detail": {
+      "name": "Don't be fooled by 100% code coverage.",
+      "url": "http://ordepdev.me/posts/code-coverage",
+      "folderPath": "Computer Science/Testing/Formal methods",
+      "lastFolder": "Formal methods",
+      "timeUsec": 13160432418000000
+    }
+  },
+  {
+    "id": "bookmark-14108",
+    "category": "bookmarks",
+    "timestamp": "2018-01-14T19:40:18.285Z",
+    "title": "[Formal methods] Don't be fooled by 100% code coverage.",
+    "detail": {
+      "name": "Don't be fooled by 100% code coverage.",
+      "url": "http://ordepdev.me/posts/code-coverage",
+      "folderPath": "Computer Science/Testing/Formal methods",
+      "lastFolder": "Formal methods",
+      "timeUsec": 13160432418285804
+    }
+  },
+  {
+    "id": "event-5elprc2l1lhje65p08ivvnb0t7@google.com",
+    "category": "events",
+    "timestamp": "2018-01-15T03:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-15T03:00:00.000Z",
+      "end": "2018-01-15T04:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7rhnieubdgfep3dpnaihhtkqd0@google.com",
+    "category": "events",
+    "timestamp": "2018-01-15T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-15T05:00:00.000Z",
+      "end": "2018-01-15T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6vn52gcd18mhq1aidqge00k97q@google.com",
+    "category": "events",
+    "timestamp": "2018-01-15T12:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-15T12:00:00.000Z",
+      "end": "2018-01-15T13:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2n09m2tp3afike7d6isi00hfsa@google.com",
+    "category": "events",
+    "timestamp": "2018-01-15T16:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-15T16:30:00.000Z",
+      "end": "2018-01-15T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2o4j9dtigljvp47b3ann8vbnup@google.com",
+    "category": "events",
+    "timestamp": "2018-01-15T17:00:00.000Z",
+    "title": "[Revelation] Realized I should ask cold callers about their process",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Realized I should ask cold callers about their process",
+      "description": "",
+      "location": "",
+      "start": "2018-01-15T17:00:00.000Z",
+      "end": "2018-01-15T18:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-4ucrlv2lec73qmmfr9qoe3j19m@google.com",
+    "category": "events",
+    "timestamp": "2018-01-15T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-15T19:00:00.000Z",
+      "end": "2018-01-15T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-q0frvs5nfmdqgkifo11b0g9dgg@google.com",
+    "category": "events",
+    "timestamp": "2018-01-15T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-15T19:00:00.000Z",
+      "end": "2018-01-15T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-gcplhi3ckol4ks1tnk3ll0prrk@google.com",
+    "category": "events",
+    "timestamp": "2018-01-15T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-15T19:00:00.000Z",
+      "end": "2018-01-15T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-76up0a3ceurgh04knbapg5esmm@google.com",
+    "category": "events",
+    "timestamp": "2018-01-15T19:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-15T19:30:00.000Z",
+      "end": "2018-01-15T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3ndnj1a8enpn05m5167g8qmdjk@google.com",
+    "category": "events",
+    "timestamp": "2018-01-15T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-15T20:00:00.000Z",
+      "end": "2018-01-15T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-1142",
+    "category": "bookmarks",
+    "timestamp": "2018-01-15T22:40:34.000Z",
+    "title": "[Databases] Constant-time index for string column on Oracle database - Stack Overflow",
+    "detail": {
+      "name": "Constant-time index for string column on Oracle database - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/32071259/constant-time-index-for-string-column-on-oracle-database",
+      "folderPath": "Computer Science/Databases",
+      "lastFolder": "Databases",
+      "timeUsec": 13160529634000000
+    }
+  },
+  {
+    "id": "bookmark-11338",
+    "category": "bookmarks",
+    "timestamp": "2018-01-15T22:40:34.997Z",
+    "title": "[Databases] Constant-time index for string column on Oracle database - Stack Overflow",
+    "detail": {
+      "name": "Constant-time index for string column on Oracle database - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/32071259/constant-time-index-for-string-column-on-oracle-database",
+      "folderPath": "Computer Science/Databases",
+      "lastFolder": "Databases",
+      "timeUsec": 13160529634997992
+    }
+  },
+  {
+    "id": "event-0blup4kchhq82g1qorfuu82i44@google.com",
+    "category": "events",
+    "timestamp": "2018-01-15T23:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-15T23:30:00.000Z",
+      "end": "2018-01-16T00:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-6718",
+    "category": "bookmarks",
+    "timestamp": "2018-01-16T00:51:56.000Z",
+    "title": "[Medical Science] Phlegm - Wikipedia",
+    "detail": {
+      "name": "Phlegm - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phlegm",
+      "folderPath": "Medical Science",
+      "lastFolder": "Medical Science",
+      "timeUsec": 13160537516000000
+    }
+  },
+  {
+    "id": "bookmark-16705",
+    "category": "bookmarks",
+    "timestamp": "2018-01-16T00:51:56.797Z",
+    "title": "[Medical Science] Phlegm - Wikipedia",
+    "detail": {
+      "name": "Phlegm - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phlegm",
+      "folderPath": "Medical Science",
+      "lastFolder": "Medical Science",
+      "timeUsec": 13160537516797618
+    }
+  },
+  {
+    "id": "bookmark-4528",
+    "category": "bookmarks",
+    "timestamp": "2018-01-16T02:09:30.000Z",
+    "title": "[COO] When your manager isn't supporting you, build a Voltron | Lara Hogan",
+    "detail": {
+      "name": "When your manager isn't supporting you, build a Voltron | Lara Hogan",
+      "url": "http://larahogan.me/blog/manager-voltron/",
+      "folderPath": "COO",
+      "lastFolder": "COO",
+      "timeUsec": 13160542170000000
+    }
+  },
+  {
+    "id": "bookmark-14656",
+    "category": "bookmarks",
+    "timestamp": "2018-01-16T02:09:30.123Z",
+    "title": "[COO] When your manager isn't supporting you, build a Voltron | Lara Hogan",
+    "detail": {
+      "name": "When your manager isn't supporting you, build a Voltron | Lara Hogan",
+      "url": "http://larahogan.me/blog/manager-voltron/",
+      "folderPath": "COO",
+      "lastFolder": "COO",
+      "timeUsec": 13160542170123080
+    }
+  },
+  {
+    "id": "bookmark-4228",
+    "category": "bookmarks",
+    "timestamp": "2018-01-16T07:55:21.000Z",
+    "title": "[IDEs] Jitsi |",
+    "detail": {
+      "name": "Jitsi |",
+      "url": "https://jitsi.org/",
+      "folderPath": "Computer Science/Tools/IDEs",
+      "lastFolder": "IDEs",
+      "timeUsec": 13160562921000000
+    }
+  },
+  {
+    "id": "bookmark-14299",
+    "category": "bookmarks",
+    "timestamp": "2018-01-16T07:55:21.627Z",
+    "title": "[IDEs] Jitsi |",
+    "detail": {
+      "name": "Jitsi |",
+      "url": "https://jitsi.org/",
+      "folderPath": "Computer Science/Tools/IDEs",
+      "lastFolder": "IDEs",
+      "timeUsec": 13160562921627994
+    }
+  },
+  {
+    "id": "event-70veva4oudq1cgor8tkt2nblis@google.com",
+    "category": "events",
+    "timestamp": "2018-01-16T08:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-16T08:00:00.000Z",
+      "end": "2018-01-16T09:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-29kcu1hr3469n387617b7tlr7b@google.com",
+    "category": "events",
+    "timestamp": "2018-01-16T16:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-16T16:30:00.000Z",
+      "end": "2018-01-16T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6oujspr01829e46vudc9kihpcd@google.com",
+    "category": "events",
+    "timestamp": "2018-01-16T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-16T17:30:00.000Z",
+      "end": "2018-01-16T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2l78r9g7ke5ao4v28d7vlpbrk6@google.com",
+    "category": "events",
+    "timestamp": "2018-01-16T18:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-16T18:30:00.000Z",
+      "end": "2018-01-16T19:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0p1npf37v0mpd37e4t07rvp8bi@google.com",
+    "category": "events",
+    "timestamp": "2018-01-16T19:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-16T19:30:00.000Z",
+      "end": "2018-01-16T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7337",
+    "category": "bookmarks",
+    "timestamp": "2018-01-17T00:49:42.000Z",
+    "title": "[Recording] Snails & Botnek - Waffle House (Official Music Video) - YouTube",
+    "detail": {
+      "name": "Snails & Botnek - Waffle House (Official Music Video) - YouTube",
+      "url": "https://www.youtube.com/watch?v=TO7xC2nEEWU",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13160623782000000
+    }
+  },
+  {
+    "id": "bookmark-17245",
+    "category": "bookmarks",
+    "timestamp": "2018-01-17T00:49:42.211Z",
+    "title": "[Recording] Snails & Botnek - Waffle House (Official Music Video) - YouTube",
+    "detail": {
+      "name": "Snails & Botnek - Waffle House (Official Music Video) - YouTube",
+      "url": "https://www.youtube.com/watch?v=TO7xC2nEEWU",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13160623782211276
+    }
+  },
+  {
+    "id": "bookmark-7625",
+    "category": "bookmarks",
+    "timestamp": "2018-01-17T00:58:39.000Z",
+    "title": "[Brain Science] High IQ linked to higher risk of psychological disorders Depression, Anxiety, ADHD & Autism (ASD)",
+    "detail": {
+      "name": "High IQ linked to higher risk of psychological disorders Depression, Anxiety, ADHD & Autism (ASD)",
+      "url": "http://www.insightnewsmag.co/2018/January/High-IQ-linked-to-higher-risk-of-psychological-disorders-Depression-Anxiety-ADHD-Autism-ASD",
+      "folderPath": "Neuroscience/Brain Science",
+      "lastFolder": "Brain Science",
+      "timeUsec": 13160624319000000
+    }
+  },
+  {
+    "id": "bookmark-17515",
+    "category": "bookmarks",
+    "timestamp": "2018-01-17T00:58:39.754Z",
+    "title": "[Brain Science] High IQ linked to higher risk of psychological disorders Depression, Anxiety, ADHD & Autism (ASD)",
+    "detail": {
+      "name": "High IQ linked to higher risk of psychological disorders Depression, Anxiety, ADHD & Autism (ASD)",
+      "url": "http://www.insightnewsmag.co/2018/January/High-IQ-linked-to-higher-risk-of-psychological-disorders-Depression-Anxiety-ADHD-Autism-ASD",
+      "folderPath": "Neuroscience/Brain Science",
+      "lastFolder": "Brain Science",
+      "timeUsec": 13160624319754396
+    }
+  },
+  {
+    "id": "bookmark-9468",
+    "category": "bookmarks",
+    "timestamp": "2018-01-17T01:08:18.000Z",
+    "title": "[Buddhism] 8 Books on Zen and Taoism to Liberate Your Mind and Heart | High Existence",
+    "detail": {
+      "name": "8 Books on Zen and Taoism to Liberate Your Mind and Heart | High Existence",
+      "url": "http://highexistence.com/8-books-on-zen-and-taoism-to-liberate-you/",
+      "folderPath": "Theology/Buddhism",
+      "lastFolder": "Buddhism",
+      "timeUsec": 13160624898000000
+    }
+  },
+  {
+    "id": "bookmark-19211",
+    "category": "bookmarks",
+    "timestamp": "2018-01-17T01:08:18.973Z",
+    "title": "[Buddhism] 8 Books on Zen and Taoism to Liberate Your Mind and Heart | High Existence",
+    "detail": {
+      "name": "8 Books on Zen and Taoism to Liberate Your Mind and Heart | High Existence",
+      "url": "http://highexistence.com/8-books-on-zen-and-taoism-to-liberate-you/",
+      "folderPath": "Theology/Buddhism",
+      "lastFolder": "Buddhism",
+      "timeUsec": 13160624898973792
+    }
+  },
+  {
+    "id": "event-6lgjgc9n6thjcb9hc8ojab9kcop34b9o6li3ab9h64r34o9n6spjidr270@google.com",
+    "category": "events",
+    "timestamp": "2018-01-17T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-17T06:00:00.000Z",
+      "end": "2018-01-17T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5ikhoiueivq9ph5ifm5og00eil@google.com",
+    "category": "events",
+    "timestamp": "2018-01-17T14:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-17T14:30:00.000Z",
+      "end": "2018-01-17T15:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4q786iti17r39sgq7qua1uptpv@google.com",
+    "category": "events",
+    "timestamp": "2018-01-17T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-17T17:00:00.000Z",
+      "end": "2018-01-17T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2364",
+    "category": "bookmarks",
+    "timestamp": "2018-01-18T01:01:42.000Z",
+    "title": "[Languages] max-params - Rules - ESLint - Pluggable JavaScript linter",
+    "detail": {
+      "name": "max-params - Rules - ESLint - Pluggable JavaScript linter",
+      "url": "https://eslint.org/docs/rules/max-params",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13160710902000000
+    }
+  },
+  {
+    "id": "bookmark-12566",
+    "category": "bookmarks",
+    "timestamp": "2018-01-18T01:01:42.905Z",
+    "title": "[Languages] max-params - Rules - ESLint - Pluggable JavaScript linter",
+    "detail": {
+      "name": "max-params - Rules - ESLint - Pluggable JavaScript linter",
+      "url": "https://eslint.org/docs/rules/max-params",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13160710902905584
+    }
+  },
+  {
+    "id": "event-7oj4e4j278a5ese82ckh0tksv7@google.com",
+    "category": "events",
+    "timestamp": "2018-01-18T08:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-18T08:30:00.000Z",
+      "end": "2018-01-18T09:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-314ts52iu6jp59mcnvhcuk2lgs@google.com",
+    "category": "events",
+    "timestamp": "2018-01-18T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-18T15:00:00.000Z",
+      "end": "2018-01-18T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3s6qebt99d44muqeu7plu48djd@google.com",
+    "category": "events",
+    "timestamp": "2018-01-18T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-18T17:30:00.000Z",
+      "end": "2018-01-18T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-420",
+    "category": "bookmarks",
+    "timestamp": "2018-01-18T18:24:01.000Z",
+    "title": "[Machine learning] “AWK” for Multimedia | Arcan",
+    "detail": {
+      "name": "“AWK” for Multimedia | Arcan",
+      "url": "https://arcan-fe.com/2017/10/05/awk-for-realtime-multimedia/",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13160773441000000
+    }
+  },
+  {
+    "id": "bookmark-10819",
+    "category": "bookmarks",
+    "timestamp": "2018-01-18T18:24:01.654Z",
+    "title": "[Machine learning] “AWK” for Multimedia | Arcan",
+    "detail": {
+      "name": "“AWK” for Multimedia | Arcan",
+      "url": "https://arcan-fe.com/2017/10/05/awk-for-realtime-multimedia/",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13160773441654272
+    }
+  },
+  {
+    "id": "bookmark-424",
+    "category": "bookmarks",
+    "timestamp": "2018-01-18T18:24:04.000Z",
+    "title": "[Machine learning] (1) Fast and robust face detection and tracking with OpenCV - YouTube",
+    "detail": {
+      "name": "(1) Fast and robust face detection and tracking with OpenCV - YouTube",
+      "url": "https://www.youtube.com/watch?v=lkFBWUjwDl8",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13160773444000000
+    }
+  },
+  {
+    "id": "bookmark-10823",
+    "category": "bookmarks",
+    "timestamp": "2018-01-18T18:24:04.053Z",
+    "title": "[Machine learning] (1) Fast and robust face detection and tracking with OpenCV - YouTube",
+    "detail": {
+      "name": "(1) Fast and robust face detection and tracking with OpenCV - YouTube",
+      "url": "https://www.youtube.com/watch?v=lkFBWUjwDl8",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13160773444053402
+    }
+  },
+  {
+    "id": "bookmark-1153",
+    "category": "bookmarks",
+    "timestamp": "2018-01-18T18:24:05.000Z",
+    "title": "[Databases] What is Usenet? | Usenet.org",
+    "detail": {
+      "name": "What is Usenet? | Usenet.org",
+      "url": "http://www.usenet.org/",
+      "folderPath": "Computer Science/Databases",
+      "lastFolder": "Databases",
+      "timeUsec": 13160773445000000
+    }
+  },
+  {
+    "id": "bookmark-11349",
+    "category": "bookmarks",
+    "timestamp": "2018-01-18T18:24:05.839Z",
+    "title": "[Databases] What is Usenet? | Usenet.org",
+    "detail": {
+      "name": "What is Usenet? | Usenet.org",
+      "url": "http://www.usenet.org/",
+      "folderPath": "Computer Science/Databases",
+      "lastFolder": "Databases",
+      "timeUsec": 13160773445839868
+    }
+  },
+  {
+    "id": "event-7ce05k5shnt8ek7au7sdtvkdbc@google.com",
+    "category": "events",
+    "timestamp": "2018-01-19T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-19T16:00:00.000Z",
+      "end": "2018-01-19T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2062",
+    "category": "bookmarks",
+    "timestamp": "2018-01-20T20:11:15.000Z",
+    "title": "[Generative art] scotchfield/party-party-party: Turn a source image into an animated party emoji",
+    "detail": {
+      "name": "scotchfield/party-party-party: Turn a source image into an animated party emoji",
+      "url": "https://github.com/scotchfield/party-party-party",
+      "folderPath": "Computer Science/Graphics/Generative art",
+      "lastFolder": "Generative art",
+      "timeUsec": 13160952675000000
+    }
+  },
+  {
+    "id": "bookmark-12289",
+    "category": "bookmarks",
+    "timestamp": "2018-01-20T20:11:15.251Z",
+    "title": "[Generative art] scotchfield/party-party-party: Turn a source image into an animated party emoji",
+    "detail": {
+      "name": "scotchfield/party-party-party: Turn a source image into an animated party emoji",
+      "url": "https://github.com/scotchfield/party-party-party",
+      "folderPath": "Computer Science/Graphics/Generative art",
+      "lastFolder": "Generative art",
+      "timeUsec": 13160952675251882
+    }
+  },
+  {
+    "id": "bookmark-2570",
+    "category": "bookmarks",
+    "timestamp": "2018-01-20T20:28:11.000Z",
+    "title": "[Command line] Bash aliases are great, so is dired. | Lobsters",
+    "detail": {
+      "name": "Bash aliases are great, so is dired. | Lobsters",
+      "url": "https://lobste.rs/s/vyfhpm/bash_aliases_are_great_so_is_dired",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13160953691000000
+    }
+  },
+  {
+    "id": "bookmark-12750",
+    "category": "bookmarks",
+    "timestamp": "2018-01-20T20:28:11.725Z",
+    "title": "[Command line] Bash aliases are great, so is dired. | Lobsters",
+    "detail": {
+      "name": "Bash aliases are great, so is dired. | Lobsters",
+      "url": "https://lobste.rs/s/vyfhpm/bash_aliases_are_great_so_is_dired",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13160953691725848
+    }
+  },
+  {
+    "id": "bookmark-8966",
+    "category": "bookmarks",
+    "timestamp": "2018-01-20T20:39:10.000Z",
+    "title": "[Politics] List of human positions - Wikipedia",
+    "detail": {
+      "name": "List of human positions - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_human_positions#Bondage_positions",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13160954350000000
+    }
+  },
+  {
+    "id": "bookmark-18736",
+    "category": "bookmarks",
+    "timestamp": "2018-01-20T20:39:10.196Z",
+    "title": "[Politics] List of human positions - Wikipedia",
+    "detail": {
+      "name": "List of human positions - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_human_positions#Bondage_positions",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13160954350196476
+    }
+  },
+  {
+    "id": "bookmark-7338",
+    "category": "bookmarks",
+    "timestamp": "2018-01-21T04:50:34.000Z",
+    "title": "[Recording] (1) Tool - Right in Two [1080p HD] - YouTube",
+    "detail": {
+      "name": "(1) Tool - Right in Two [1080p HD] - YouTube",
+      "url": "https://www.youtube.com/watch?v=fj-10lIrboM",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13160983834000000
+    }
+  },
+  {
+    "id": "bookmark-17246",
+    "category": "bookmarks",
+    "timestamp": "2018-01-21T04:50:34.364Z",
+    "title": "[Recording] (1) Tool - Right in Two [1080p HD] - YouTube",
+    "detail": {
+      "name": "(1) Tool - Right in Two [1080p HD] - YouTube",
+      "url": "https://www.youtube.com/watch?v=fj-10lIrboM",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13160983834364232
+    }
+  },
+  {
+    "id": "bookmark-7339",
+    "category": "bookmarks",
+    "timestamp": "2018-01-21T05:16:54.000Z",
+    "title": "[Recording] (1) Mansionair - Astronaut (Something About Your Love) - YouTube",
+    "detail": {
+      "name": "(1) Mansionair - Astronaut (Something About Your Love) - YouTube",
+      "url": "https://www.youtube.com/watch?v=ZM0LD5ZOgOE",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13160985414000000
+    }
+  },
+  {
+    "id": "bookmark-17247",
+    "category": "bookmarks",
+    "timestamp": "2018-01-21T05:16:54.263Z",
+    "title": "[Recording] (1) Mansionair - Astronaut (Something About Your Love) - YouTube",
+    "detail": {
+      "name": "(1) Mansionair - Astronaut (Something About Your Love) - YouTube",
+      "url": "https://www.youtube.com/watch?v=ZM0LD5ZOgOE",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13160985414263972
+    }
+  },
+  {
+    "id": "bookmark-7340",
+    "category": "bookmarks",
+    "timestamp": "2018-01-21T05:33:55.000Z",
+    "title": "[Recording] (1) R3HAB - Hallucinations ft. R I T U A L (Lyric Video) - YouTube",
+    "detail": {
+      "name": "(1) R3HAB - Hallucinations ft. R I T U A L (Lyric Video) - YouTube",
+      "url": "https://www.youtube.com/watch?v=139x5NvOCPU",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13160986435000000
+    }
+  },
+  {
+    "id": "bookmark-17248",
+    "category": "bookmarks",
+    "timestamp": "2018-01-21T05:33:55.184Z",
+    "title": "[Recording] (1) R3HAB - Hallucinations ft. R I T U A L (Lyric Video) - YouTube",
+    "detail": {
+      "name": "(1) R3HAB - Hallucinations ft. R I T U A L (Lyric Video) - YouTube",
+      "url": "https://www.youtube.com/watch?v=139x5NvOCPU",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13160986435184536
+    }
+  },
+  {
+    "id": "event-6com8db169i38bb669j30b9k6soj8bb2ckp6cb9h61ij4ohocco62cb26c@google.com",
+    "category": "events",
+    "timestamp": "2018-01-21T07:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-21T07:30:00.000Z",
+      "end": "2018-01-21T08:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cosm6p346ph66bb6c8q30b9k6tgjib9o6sq30b9i64q6cd336pi66db2c8@google.com",
+    "category": "events",
+    "timestamp": "2018-01-21T09:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-21T09:00:00.000Z",
+      "end": "2018-01-21T10:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-07c6kfeoko419t08buek1ckmqv@google.com",
+    "category": "events",
+    "timestamp": "2018-01-22T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-22T20:00:00.000Z",
+      "end": "2018-01-22T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5q2dg8bg3ma3ln26frnu231ubq@google.com",
+    "category": "events",
+    "timestamp": "2018-01-22T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-22T20:00:00.000Z",
+      "end": "2018-01-22T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2d8mfb86k5htvbu0cot29ng8h7@google.com",
+    "category": "events",
+    "timestamp": "2018-01-22T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-22T23:00:00.000Z",
+      "end": "2018-01-23T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4b6flgs6mjshjub7q4tq424f6m@google.com",
+    "category": "events",
+    "timestamp": "2018-01-23T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-23T20:00:00.000Z",
+      "end": "2018-01-23T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-9571",
+    "category": "bookmarks",
+    "timestamp": "2018-01-23T20:06:29.000Z",
+    "title": "[New Testament] Black swan theory - Wikipedia",
+    "detail": {
+      "name": "Black swan theory - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_swan_theory",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13161211589000000
+    }
+  },
+  {
+    "id": "bookmark-19305",
+    "category": "bookmarks",
+    "timestamp": "2018-01-23T20:06:29.597Z",
+    "title": "[New Testament] Black swan theory - Wikipedia",
+    "detail": {
+      "name": "Black swan theory - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_swan_theory",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13161211589597068
+    }
+  },
+  {
+    "id": "bookmark-6719",
+    "category": "bookmarks",
+    "timestamp": "2018-01-23T20:07:59.000Z",
+    "title": "[Medical Science] It's happening: Scientists can now reverse DNA ageing in mice",
+    "detail": {
+      "name": "It's happening: Scientists can now reverse DNA ageing in mice",
+      "url": "https://www.sciencealert.com/scientists-have-successfully-reversed-dna-ageing-in-mice",
+      "folderPath": "Medical Science",
+      "lastFolder": "Medical Science",
+      "timeUsec": 13161211679000000
+    }
+  },
+  {
+    "id": "bookmark-16706",
+    "category": "bookmarks",
+    "timestamp": "2018-01-23T20:07:59.440Z",
+    "title": "[Medical Science] It's happening: Scientists can now reverse DNA ageing in mice",
+    "detail": {
+      "name": "It's happening: Scientists can now reverse DNA ageing in mice",
+      "url": "https://www.sciencealert.com/scientists-have-successfully-reversed-dna-ageing-in-mice",
+      "folderPath": "Medical Science",
+      "lastFolder": "Medical Science",
+      "timeUsec": 13161211679440348
+    }
+  },
+  {
+    "id": "bookmark-6720",
+    "category": "bookmarks",
+    "timestamp": "2018-01-23T20:08:13.000Z",
+    "title": "[Medical Science] Woolly mammoth on verge of resurrection, scientists reveal | Science | The Guardian",
+    "detail": {
+      "name": "Woolly mammoth on verge of resurrection, scientists reveal | Science | The Guardian",
+      "url": "https://www.theguardian.com/science/2017/feb/16/woolly-mammoth-resurrection-scientists",
+      "folderPath": "Medical Science",
+      "lastFolder": "Medical Science",
+      "timeUsec": 13161211693000000
+    }
+  },
+  {
+    "id": "bookmark-16707",
+    "category": "bookmarks",
+    "timestamp": "2018-01-23T20:08:13.465Z",
+    "title": "[Medical Science] Woolly mammoth on verge of resurrection, scientists reveal | Science | The Guardian",
+    "detail": {
+      "name": "Woolly mammoth on verge of resurrection, scientists reveal | Science | The Guardian",
+      "url": "https://www.theguardian.com/science/2017/feb/16/woolly-mammoth-resurrection-scientists",
+      "folderPath": "Medical Science",
+      "lastFolder": "Medical Science",
+      "timeUsec": 13161211693465964
+    }
+  },
+  {
+    "id": "bookmark-5064",
+    "category": "bookmarks",
+    "timestamp": "2018-01-23T23:58:51.000Z",
+    "title": "[Clothing] Mariana Salaru (@salarumariana) • Instagram photos and videos",
+    "detail": {
+      "name": "Mariana Salaru (@salarumariana) • Instagram photos and videos",
+      "url": "https://www.instagram.com/salarumariana/",
+      "folderPath": "Fashion/Clothing",
+      "lastFolder": "Clothing",
+      "timeUsec": 13161225531000000
+    }
+  },
+  {
+    "id": "bookmark-15189",
+    "category": "bookmarks",
+    "timestamp": "2018-01-23T23:58:51.533Z",
+    "title": "[Clothing] Mariana Salaru (@salarumariana) • Instagram photos and videos",
+    "detail": {
+      "name": "Mariana Salaru (@salarumariana) • Instagram photos and videos",
+      "url": "https://www.instagram.com/salarumariana/",
+      "folderPath": "Fashion/Clothing",
+      "lastFolder": "Clothing",
+      "timeUsec": 13161225531533940
+    }
+  },
+  {
+    "id": "event-7676vl1kf52tdlqakm29vcmosv@google.com",
+    "category": "events",
+    "timestamp": "2018-01-24T00:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-24T00:00:00.000Z",
+      "end": "2018-01-24T01:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6lh3edpg68o3abb564rj2b9k75i32b9pc4o68b9ncor30d9h74sj0chgcg@google.com",
+    "category": "events",
+    "timestamp": "2018-01-24T07:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-24T07:00:00.000Z",
+      "end": "2018-01-24T08:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cgq68o9g6lijeb9gclj32b9k6ss6cbb26sqmcbb3chgjepj568pjechm70@google.com",
+    "category": "events",
+    "timestamp": "2018-01-24T09:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-24T09:00:00.000Z",
+      "end": "2018-01-24T10:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1vjil37atj99l17bn02ihha2l1@google.com",
+    "category": "events",
+    "timestamp": "2018-01-24T16:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-24T16:30:00.000Z",
+      "end": "2018-01-24T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3hqqdecq80gr33hbje8ppj9tve@google.com",
+    "category": "events",
+    "timestamp": "2018-01-24T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-24T17:30:00.000Z",
+      "end": "2018-01-24T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3tfr7rt52e3155hfmos51jqs04@google.com",
+    "category": "events",
+    "timestamp": "2018-01-24T18:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-24T18:30:00.000Z",
+      "end": "2018-01-24T19:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1b8slbtq9kjucbkvel3c9lictd@google.com",
+    "category": "events",
+    "timestamp": "2018-01-24T19:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-24T19:30:00.000Z",
+      "end": "2018-01-24T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1qm5dq608no4it1q8uqhvebj82@google.com",
+    "category": "events",
+    "timestamp": "2018-01-25T00:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-25T00:30:00.000Z",
+      "end": "2018-01-25T01:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2560",
+    "category": "bookmarks",
+    "timestamp": "2018-01-25T00:39:01.000Z",
+    "title": "[Command line] Ten Things I Wish I’d Known About bash – zwischenzugs",
+    "detail": {
+      "name": "Ten Things I Wish I’d Known About bash – zwischenzugs",
+      "url": "https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/#globbing%20vs%20regexps",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13161314341000000
+    }
+  },
+  {
+    "id": "bookmark-12740",
+    "category": "bookmarks",
+    "timestamp": "2018-01-25T00:39:01.656Z",
+    "title": "[Command line] Ten Things I Wish I’d Known About bash – zwischenzugs",
+    "detail": {
+      "name": "Ten Things I Wish I’d Known About bash – zwischenzugs",
+      "url": "https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/#globbing%20vs%20regexps",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13161314341656324
+    }
+  },
+  {
+    "id": "bookmark-4098",
+    "category": "bookmarks",
+    "timestamp": "2018-01-25T00:39:21.000Z",
+    "title": "[Computability] Nondeterministic finite automaton - Wikipedia",
+    "detail": {
+      "name": "Nondeterministic finite automaton - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton",
+      "folderPath": "Computer Science/Theory/Computability",
+      "lastFolder": "Computability",
+      "timeUsec": 13161314361000000
+    }
+  },
+  {
+    "id": "bookmark-14168",
+    "category": "bookmarks",
+    "timestamp": "2018-01-25T00:39:21.958Z",
+    "title": "[Computability] Nondeterministic finite automaton - Wikipedia",
+    "detail": {
+      "name": "Nondeterministic finite automaton - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton",
+      "folderPath": "Computer Science/Theory/Computability",
+      "lastFolder": "Computability",
+      "timeUsec": 13161314361958462
+    }
+  },
+  {
+    "id": "bookmark-2335",
+    "category": "bookmarks",
+    "timestamp": "2018-01-25T00:39:34.000Z",
+    "title": "[Languages] files - Regular expressions VS Filename globbing - Ask Ubuntu",
+    "detail": {
+      "name": "files - Regular expressions VS Filename globbing - Ask Ubuntu",
+      "url": "https://askubuntu.com/questions/714503/regular-expressions-vs-filename-globbing",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13161314374000000
+    }
+  },
+  {
+    "id": "bookmark-12537",
+    "category": "bookmarks",
+    "timestamp": "2018-01-25T00:39:34.585Z",
+    "title": "[Languages] files - Regular expressions VS Filename globbing - Ask Ubuntu",
+    "detail": {
+      "name": "files - Regular expressions VS Filename globbing - Ask Ubuntu",
+      "url": "https://askubuntu.com/questions/714503/regular-expressions-vs-filename-globbing",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13161314374585800
+    }
+  },
+  {
+    "id": "bookmark-549",
+    "category": "bookmarks",
+    "timestamp": "2018-01-25T01:46:38.000Z",
+    "title": "[Data structures] Book cipher - Wikipedia",
+    "detail": {
+      "name": "Book cipher - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Book_cipher",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13161318398000000
+    }
+  },
+  {
+    "id": "bookmark-10989",
+    "category": "bookmarks",
+    "timestamp": "2018-01-25T01:46:38.659Z",
+    "title": "[Data structures] Book cipher - Wikipedia",
+    "detail": {
+      "name": "Book cipher - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Book_cipher",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13161318398659916
+    }
+  },
+  {
+    "id": "event-0rnhqmb4tpasps059285o6g95d@google.com",
+    "category": "events",
+    "timestamp": "2018-01-25T20:30:00.000Z",
+    "title": "[Revelation] REV 1:6 - Power, quit job, finally made a decision, Iga stayed with me",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "REV 1:6 - Power, quit job, finally made a decision, Iga stayed with me",
+      "description": "",
+      "location": "",
+      "start": "2018-01-25T20:30:00.000Z",
+      "end": "2018-01-25T21:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-5sdjfc928urlhid8bfhkiurh4v@google.com",
+    "category": "events",
+    "timestamp": "2018-01-28T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-28T21:00:00.000Z",
+      "end": "2018-01-28T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-067rc34ennpn64lanius8g3s4l@google.com",
+    "category": "events",
+    "timestamp": "2018-01-28T23:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-28T23:30:00.000Z",
+      "end": "2018-01-29T00:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-8757",
+    "category": "bookmarks",
+    "timestamp": "2018-01-29T02:09:17.000Z",
+    "title": "[Quasi-dimensional] Panpsychism: The idea that everything from spoons to stones are conscious is gaining academic credibility — Quartz",
+    "detail": {
+      "name": "Panpsychism: The idea that everything from spoons to stones are conscious is gaining academic credibility — Quartz",
+      "url": "https://qz.com/1184574/the-idea-that-everything-from-spoons-to-stones-are-conscious-is-gaining-academic-credibility/",
+      "folderPath": "Quasi-dimensional",
+      "lastFolder": "Quasi-dimensional",
+      "timeUsec": 13161665357000000
+    }
+  },
+  {
+    "id": "bookmark-18540",
+    "category": "bookmarks",
+    "timestamp": "2018-01-29T02:09:17.412Z",
+    "title": "[Quasi-dimensional] Panpsychism: The idea that everything from spoons to stones are conscious is gaining academic credibility — Quartz",
+    "detail": {
+      "name": "Panpsychism: The idea that everything from spoons to stones are conscious is gaining academic credibility — Quartz",
+      "url": "https://qz.com/1184574/the-idea-that-everything-from-spoons-to-stones-are-conscious-is-gaining-academic-credibility/",
+      "folderPath": "Quasi-dimensional",
+      "lastFolder": "Quasi-dimensional",
+      "timeUsec": 13161665357412328
+    }
+  },
+  {
+    "id": "event-7n90qdtn0l4gbket3r6e0f400n@google.com",
+    "category": "events",
+    "timestamp": "2018-01-29T19:00:00.000Z",
+    "title": "[Revelation] REV 1:1 - Fortune cookie \"Genius is the ability to make something very complicated very simple.\", asked Keith to tell Rob what I said the first time we met, \"communication is key\" gap, very simple: \"everyone is a genius\"",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "REV 1:1 - Fortune cookie \"Genius is the ability to make something very complicated very simple.\", asked Keith to tell Rob what I said the first time we met, \"communication is key\" gap, very simple: \"everyone is a genius\"",
+      "description": "",
+      "location": "",
+      "start": "2018-01-29T19:00:00.000Z",
+      "end": "2018-01-29T20:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-7217g7e4nt68a4am8akhpupj94@google.com",
+    "category": "events",
+    "timestamp": "2018-01-29T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-29T20:00:00.000Z",
+      "end": "2018-01-29T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1mp63to8r92er1k97mk698p1pm@google.com",
+    "category": "events",
+    "timestamp": "2018-01-30T04:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-30T04:30:00.000Z",
+      "end": "2018-01-30T05:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5p5uf9q0na3vut4ns9s4oo6sqo@google.com",
+    "category": "events",
+    "timestamp": "2018-01-30T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-30T16:00:00.000Z",
+      "end": "2018-01-30T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0mdu02c9lnp9nla0fd2chfekg8@google.com",
+    "category": "events",
+    "timestamp": "2018-01-30T18:00:00.000Z",
+    "title": "[Revelation] Behavior change",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Behavior change",
+      "description": "<html-blob>Sexual abuse:<br>I realized I was walking around in my robe with my balls out, when there is a young teenage girl in my house.  This is unacceptable. - Possible path to communicating with Rus and getting to ACT! less selfishly.  I told Iga about this because somehow she trained me to recognize when it happens.</html-blob>",
+      "location": "",
+      "start": "2018-01-30T18:00:00.000Z",
+      "end": "2018-01-30T19:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-1nvhm3fq1a2omjeo0odk9rmf3t@google.com",
+    "category": "events",
+    "timestamp": "2018-01-30T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2018-01-30T19:00:00.000Z",
+      "end": "2018-01-30T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5f45t0ot0urhm2i9o3almmk72i@google.com",
+    "category": "events",
+    "timestamp": "2018-01-31T21:00:00.000Z",
+    "title": "[Revelation] REV 16:2 - God burns my right hand for turning away from my father's money, so stressful, possible shingles outbreak from herpes type I",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "REV 16:2 - God burns my right hand for turning away from my father's money, so stressful, possible shingles outbreak from herpes type I",
+      "description": "",
+      "location": "",
+      "start": "2018-01-31T21:00:00.000Z",
+      "end": "2018-01-31T22:00:00.000Z",
+      "isPublic": true
+    }
+  }
+]

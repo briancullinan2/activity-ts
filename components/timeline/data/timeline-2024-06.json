@@ -1,0 +1,841 @@
+[
+  {
+    "id": "event-6kojed3264p3gb9m6oo3ib9k74om6b9o64om2b9h6cojachj70p68ob170@google.com",
+    "category": "events",
+    "timestamp": "2024-06-02T07:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-02T07:30:00.000Z",
+      "end": "2024-06-02T08:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c8o64c1j60r3ib9p6ss6cb9kcli6abb169h32b9nc5ij4o9i6gqm4db6cg@google.com",
+    "category": "events",
+    "timestamp": "2024-06-03T14:00:00.000Z",
+    "title": "[Predictions] Dream, watching a human butcher, \"if you don't like it you can leave\"",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, watching a human butcher, \"if you don't like it you can leave\"",
+      "description": "",
+      "location": "",
+      "start": "2024-06-03T14:00:00.000Z",
+      "end": "2024-06-03T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-coqj8ophcosjab9o65hj8b9k6cp3eb9p74s3ib9o68p30c9g6phmap3370@google.com",
+    "category": "events",
+    "timestamp": "2024-06-04T07:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-04T07:00:00.000Z",
+      "end": "2024-06-04T08:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-60o34db4c4qjcb9jccr30b9k71ij0bb1ckrj2b9lchj32c9i70q6acj36o@google.com",
+    "category": "events",
+    "timestamp": "2024-06-05T07:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-05T07:00:00.000Z",
+      "end": "2024-06-05T08:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-60s30o9j75j62b9k74s66b9kc5h34b9p60qj8b9l6sq68p316ti3cdj66k@google.com",
+    "category": "events",
+    "timestamp": "2024-06-06T15:00:00.000Z",
+    "title": "[Revelation] Theory telepathy transfers thoughts using positive emotions as channels",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Theory telepathy transfers thoughts using positive emotions as channels",
+      "description": "",
+      "location": "",
+      "start": "2024-06-06T15:00:00.000Z",
+      "end": "2024-06-06T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6ksm2e1hcdh34b9o6cs6ab9kckqjib9o68o3cb9pc4sj6oj46krjedj664@google.com",
+    "category": "events",
+    "timestamp": "2024-06-06T16:00:00.000Z",
+    "title": "[Revelation] God is only God because he learned how to spin faster than anything else",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "God is only God because he learned how to spin faster than anything else",
+      "description": "",
+      "location": "",
+      "start": "2024-06-06T16:00:00.000Z",
+      "end": "2024-06-06T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6orj0e9g6dijebb175i34b9k6kqj4bb175hjgbb56oq62d9mckojcp9o6g@google.com",
+    "category": "events",
+    "timestamp": "2024-06-06T17:00:00.000Z",
+    "title": "[Revelation] Theory, I have nothing more to offer my God but a quiet death so that my Lord might find my immortal soul still trying to escape the confines of space-time itself and maybe God will find himself in this quest.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Theory, I have nothing more to offer my God but a quiet death so that my Lord might find my immortal soul still trying to escape the confines of space-time itself and maybe God will find himself in this quest.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-06T17:00:00.000Z",
+      "end": "2024-06-06T18:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-12383",
+    "category": "bookmarks",
+    "timestamp": "2024-06-06T22:02:24.090Z",
+    "title": "[Generative art] node.js - How To Execute Custom Actions with ChatGPT Assistants API - Stack Overflow",
+    "detail": {
+      "name": "node.js - How To Execute Custom Actions with ChatGPT Assistants API - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/78018805/how-to-execute-custom-actions-with-chatgpt-assistants-api",
+      "folderPath": "Computer Science/Graphics/Generative art",
+      "lastFolder": "Generative art",
+      "timeUsec": 13362184944090132
+    }
+  },
+  {
+    "id": "bookmark-14548",
+    "category": "bookmarks",
+    "timestamp": "2024-06-06T22:35:46.189Z",
+    "title": "[Human interfaces] Just a Math Interpeter",
+    "detail": {
+      "name": "Just a Math Interpeter",
+      "url": "https://liam-ilan.github.io/math-interpreter/",
+      "folderPath": "Computer Science/Web/Design/Human interfaces",
+      "lastFolder": "Human interfaces",
+      "timeUsec": 13362186946189916
+    }
+  },
+  {
+    "id": "event-70r34c1g69hmcb9h70r3ab9k64pj0bb275h66bb46ko6co9j65i64c1h68@google.com",
+    "category": "events",
+    "timestamp": "2024-06-07T14:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-07T14:00:00.000Z",
+      "end": "2024-06-07T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-69gj0dj675i30b9n6pijcb9kc8r62bb16dij0b9h65j30dhp70rm6pj36s@google.com",
+    "category": "events",
+    "timestamp": "2024-06-08T14:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-08T14:00:00.000Z",
+      "end": "2024-06-08T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-14549",
+    "category": "bookmarks",
+    "timestamp": "2024-06-08T18:46:30.032Z",
+    "title": "[Human interfaces] microsoft/vscode-livepreview: Hosts a local server in your workspace for you to preview your webpages.",
+    "detail": {
+      "name": "microsoft/vscode-livepreview: Hosts a local server in your workspace for you to preview your webpages.",
+      "url": "https://github.com/microsoft/vscode-livepreview",
+      "folderPath": "Computer Science/Web/Design/Human interfaces",
+      "lastFolder": "Human interfaces",
+      "timeUsec": 13362345990032392
+    }
+  },
+  {
+    "id": "event-6gr68cpg70q64bb2c8r68b9k69j62bb1cgqm6bb4c4o3aopmcor3acj5cg@google.com",
+    "category": "events",
+    "timestamp": "2024-06-09T14:00:00.000Z",
+    "title": "[Revelation] Grabbed iga's ass and she pushed me away. I can easily distance myself more than how she pushes me away.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Grabbed iga's ass and she pushed me away. I can easily distance myself more than how she pushes me away.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-09T14:00:00.000Z",
+      "end": "2024-06-09T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6csjedpkckr3ebb66lh62b9k71gjebb26kqj6b9ichgj8c9ncoom2p1gck@google.com",
+    "category": "events",
+    "timestamp": "2024-06-09T15:00:00.000Z",
+    "title": "[Revelation] Depressed, thinking about the many ways God's people used to show me love and how it changed after I got married. I think I can finally define why I despise this universe. It retaliates against me even on a celestial loving level. Like the world can't love me anymore. There's a lot more here.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Depressed, thinking about the many ways God's people used to show me love and how it changed after I got married. I think I can finally define why I despise this universe. It retaliates against me even on a celestial loving level. Like the world can't love me anymore. There's a lot more here.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-09T15:00:00.000Z",
+      "end": "2024-06-09T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ckqmcdj4ccpjebb16cr66b9k6oom6b9o6ko6cb9hc4rjgd9hc5im8d1ncc@google.com",
+    "category": "events",
+    "timestamp": "2024-06-10T03:00:00.000Z",
+    "title": "[Revelation] Coincidence, thought a guy looked like black Robert and he reached to Iga",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Coincidence, thought a guy looked like black Robert and he reached to Iga",
+      "description": "",
+      "location": "",
+      "start": "2024-06-10T03:00:00.000Z",
+      "end": "2024-06-10T04:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-14550",
+    "category": "bookmarks",
+    "timestamp": "2024-06-10T18:43:46.703Z",
+    "title": "[Human interfaces] Census - Catagolue",
+    "detail": {
+      "name": "Census - Catagolue",
+      "url": "https://catagolue.hatsya.com/census/b3s23/asymmetric-soups",
+      "folderPath": "Computer Science/Web/Design/Human interfaces",
+      "lastFolder": "Human interfaces",
+      "timeUsec": 13362518626703794
+    }
+  },
+  {
+    "id": "bookmark-12203",
+    "category": "bookmarks",
+    "timestamp": "2024-06-10T21:31:59.024Z",
+    "title": "[Gaming] Spectral Mesh Processing - Zhang - 2010 - Computer Graphics Forum - Wiley Online Library",
+    "detail": {
+      "name": "Spectral Mesh Processing - Zhang - 2010 - Computer Graphics Forum - Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2010.01655.x",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13362528719024780
+    }
+  },
+  {
+    "id": "bookmark-12204",
+    "category": "bookmarks",
+    "timestamp": "2024-06-10T21:36:32.638Z",
+    "title": "[Gaming] Drawing anything with Fourier Series using Blender and Python | by avantcontra | Medium",
+    "detail": {
+      "name": "Drawing anything with Fourier Series using Blender and Python | by avantcontra | Medium",
+      "url": "https://contra.medium.com/drawing-anything-with-fourier-series-using-blender-and-python-c0881e1b738c",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13362528992638258
+    }
+  },
+  {
+    "id": "bookmark-12205",
+    "category": "bookmarks",
+    "timestamp": "2024-06-10T21:37:44.213Z",
+    "title": "[Gaming] A 3-D Search engine based on Fourier series - ScienceDirect",
+    "detail": {
+      "name": "A 3-D Search engine based on Fourier series - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S107731420900160X",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13362529064213922
+    }
+  },
+  {
+    "id": "bookmark-12206",
+    "category": "bookmarks",
+    "timestamp": "2024-06-10T21:41:29.975Z",
+    "title": "[Gaming] Wave upon wave - Draw with circles - Fourier-series setup 3D model | CGTrader",
+    "detail": {
+      "name": "Wave upon wave - Draw with circles - Fourier-series setup 3D model | CGTrader",
+      "url": "https://www.cgtrader.com/3d-models/science/other/wave-upon-wave-draw-with-circles-fourier-series-setup",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13362529289975712
+    }
+  },
+  {
+    "id": "bookmark-12207",
+    "category": "bookmarks",
+    "timestamp": "2024-06-10T22:14:35.577Z",
+    "title": "[Gaming] How to perform 3D Fourier analysis using Mountains® - Digital Surf",
+    "detail": {
+      "name": "How to perform 3D Fourier analysis using Mountains® - Digital Surf",
+      "url": "https://www.digitalsurf.com/news/how-to-perform-3d-fourier-analysis-using-mountains/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13362531275577266
+    }
+  },
+  {
+    "id": "event-c4r62pj4cks68b9m6cr3cb9k6phjgb9pc8q3gbb5c4sjeor5c4o36ohp6s@google.com",
+    "category": "events",
+    "timestamp": "2024-06-11T10:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-11T10:00:00.000Z",
+      "end": "2024-06-11T11:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-12208",
+    "category": "bookmarks",
+    "timestamp": "2024-06-12T16:45:32.177Z",
+    "title": "[Gaming] correosteve/stvef-hm-mod-tron: Tron-style Game Mod for Star trek Voyager Elite Force: Holomatch, featuring light-cycle races and disc games",
+    "detail": {
+      "name": "correosteve/stvef-hm-mod-tron: Tron-style Game Mod for Star trek Voyager Elite Force: Holomatch, featuring light-cycle races and disc games",
+      "url": "https://github.com/correosteve/stvef-hm-mod-tron",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13362684332177284
+    }
+  },
+  {
+    "id": "bookmark-12209",
+    "category": "bookmarks",
+    "timestamp": "2024-06-12T16:59:14.130Z",
+    "title": "[Gaming] Quake DeveLS - Welcome!",
+    "detail": {
+      "name": "Quake DeveLS - Welcome!",
+      "url": "https://web.archive.org/web/20060206062914/http://www.planetquake.com/qdevels/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13362685154130422
+    }
+  },
+  {
+    "id": "event-c9gj8cplcgs64b9p6hh34b9k6kq38bb1cormab9jcpj62dpg6lgjcdpp6s@google.com",
+    "category": "events",
+    "timestamp": "2024-06-12T21:00:00.000Z",
+    "title": "[Revelation] Buffalo fence",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Buffalo fence",
+      "description": "",
+      "location": "",
+      "start": "2024-06-12T21:00:00.000Z",
+      "end": "2024-06-12T22:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6dgj8chj6grj2b9lc9h66b9kc9gj2bb26gqjebb46srm8o9mcksmad1n6s@google.com",
+    "category": "events",
+    "timestamp": "2024-06-13T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-13T05:00:00.000Z",
+      "end": "2024-06-13T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6orj8p9occp6abb3ckojeb9kcorm2b9pccom8b9jcdh6adpm6kqjecpk6g@google.com",
+    "category": "events",
+    "timestamp": "2024-06-13T14:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-13T14:00:00.000Z",
+      "end": "2024-06-13T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-12210",
+    "category": "bookmarks",
+    "timestamp": "2024-06-13T16:32:14.172Z",
+    "title": "[Gaming] webaudio-examples/spatialization/index.html at main · mdn/webaudio-examples",
+    "detail": {
+      "name": "webaudio-examples/spatialization/index.html at main · mdn/webaudio-examples",
+      "url": "https://github.com/mdn/webaudio-examples/blob/main/spatialization/index.html",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13362769934172772
+    }
+  },
+  {
+    "id": "bookmark-12211",
+    "category": "bookmarks",
+    "timestamp": "2024-06-13T16:33:54.472Z",
+    "title": "[Gaming] javascript - Playing a simple sound with web audio api - Stack Overflow",
+    "detail": {
+      "name": "javascript - Playing a simple sound with web audio api - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/30482887/playing-a-simple-sound-with-web-audio-api",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13362770034472432
+    }
+  },
+  {
+    "id": "bookmark-12212",
+    "category": "bookmarks",
+    "timestamp": "2024-06-13T16:33:58.030Z",
+    "title": "[Gaming] AudioNode - Web APIs | MDN",
+    "detail": {
+      "name": "AudioNode - Web APIs | MDN",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/AudioNode",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13362770038030236
+    }
+  },
+  {
+    "id": "event-64s3ce1i64pjcb9nckoj2b9kc8qjeb9p6dh3gb9gcpgjad1k6osjipb16k@google.com",
+    "category": "events",
+    "timestamp": "2024-06-13T17:00:00.000Z",
+    "title": "[Revelation] Coincidence, I started a document called The Veil and there was an anonymous observer showing in the corner.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Coincidence, I started a document called The Veil and there was an anonymous observer showing in the corner.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-13T17:00:00.000Z",
+      "end": "2024-06-13T18:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-17949",
+    "category": "bookmarks",
+    "timestamp": "2024-06-13T17:04:05.306Z",
+    "title": "[Physical Science] Big Crunch - Wikipedia",
+    "detail": {
+      "name": "Big Crunch - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Big_Crunch",
+      "folderPath": "Physical Science",
+      "lastFolder": "Physical Science",
+      "timeUsec": 13362771845306352
+    }
+  },
+  {
+    "id": "bookmark-17950",
+    "category": "bookmarks",
+    "timestamp": "2024-06-13T17:05:24.631Z",
+    "title": "[Physical Science] Big Rip - Wikipedia",
+    "detail": {
+      "name": "Big Rip - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Big_Rip#:~:text=In%20physical%20cosmology%2C%20the%20Big,universe%20at%20a%20certain%20time",
+      "folderPath": "Physical Science",
+      "lastFolder": "Physical Science",
+      "timeUsec": 13362771924631700
+    }
+  },
+  {
+    "id": "bookmark-17951",
+    "category": "bookmarks",
+    "timestamp": "2024-06-13T17:17:16.860Z",
+    "title": "[Physical Science] Quantum cryptography - Wikipedia",
+    "detail": {
+      "name": "Quantum cryptography - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quantum_cryptography",
+      "folderPath": "Physical Science",
+      "lastFolder": "Physical Science",
+      "timeUsec": 13362772636860044
+    }
+  },
+  {
+    "id": "bookmark-17952",
+    "category": "bookmarks",
+    "timestamp": "2024-06-13T18:11:49.340Z",
+    "title": "[Physical Science] Eternal return - Wikipedia",
+    "detail": {
+      "name": "Eternal return - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eternal_return",
+      "folderPath": "Physical Science",
+      "lastFolder": "Physical Science",
+      "timeUsec": 13362775909340156
+    }
+  },
+  {
+    "id": "event-70r34c9h6gomcb9jclgj6b9kc9ij6b9p74oj0bb46lj3eeb274s3ad1p6c@google.com",
+    "category": "events",
+    "timestamp": "2024-06-14T14:30:00.000Z",
+    "title": "[Predictions] Dream, driving a Dodge recklessly through campus off pine knoll",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, driving a Dodge recklessly through campus off pine knoll",
+      "description": "",
+      "location": "",
+      "start": "2024-06-14T14:30:00.000Z",
+      "end": "2024-06-14T15:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6gq30oho6hj3ib9h64oj6b9kcorj4b9ockqm2b9j6srjid35c8qj6o9i6g@google.com",
+    "category": "events",
+    "timestamp": "2024-06-14T15:30:00.000Z",
+    "title": "[Predictions] Theory, God was the first particle that figured out where he is spatially",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Theory, God was the first particle that figured out where he is spatially",
+      "description": "",
+      "location": "",
+      "start": "2024-06-14T15:30:00.000Z",
+      "end": "2024-06-14T16:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6sp6cob66gq62bb5c8r3gb9kc8qjeb9o6lj3cbb66os36opj64qjgp326o@google.com",
+    "category": "events",
+    "timestamp": "2024-06-15T14:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-15T14:00:00.000Z",
+      "end": "2024-06-15T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-12213",
+    "category": "bookmarks",
+    "timestamp": "2024-06-16T04:16:54.408Z",
+    "title": "[Gaming] TimeSplitters: Future Perfect - Mapmaking Guide - GameCube - By admiralhowdy - GameFAQs",
+    "detail": {
+      "name": "TimeSplitters: Future Perfect - Mapmaking Guide - GameCube - By admiralhowdy - GameFAQs",
+      "url": "https://gamefaqs.gamespot.com/gamecube/920624-timesplitters-future-perfect/faqs/43420",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13362985014408712
+    }
+  },
+  {
+    "id": "bookmark-12214",
+    "category": "bookmarks",
+    "timestamp": "2024-06-16T15:45:45.020Z",
+    "title": "[Gaming] Panzerschrek/Quake-for-Quake-III: Port of Quake on Quake III engine",
+    "detail": {
+      "name": "Panzerschrek/Quake-for-Quake-III: Port of Quake on Quake III engine",
+      "url": "https://github.com/Panzerschrek/Quake-for-Quake-III",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13363026345020780
+    }
+  },
+  {
+    "id": "bookmark-12215",
+    "category": "bookmarks",
+    "timestamp": "2024-06-16T15:47:51.447Z",
+    "title": "[Gaming] diwi/MD3-Viewer: MD3 Viewer - WebGL/JavaScript",
+    "detail": {
+      "name": "diwi/MD3-Viewer: MD3 Viewer - WebGL/JavaScript",
+      "url": "https://github.com/diwi/MD3-Viewer",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13363026471447022
+    }
+  },
+  {
+    "id": "event-6hi36e1icdh3eb9nclh3eb9k6csjgb9pc4qjib9iclj66cr56dgjccr260@google.com",
+    "category": "events",
+    "timestamp": "2024-06-19T13:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-19T13:30:00.000Z",
+      "end": "2024-06-19T14:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c8sjcphn6opm6bb2chgjgb9k64sj0b9pcgo36b9gckpjedpl60s32p9p74@google.com",
+    "category": "events",
+    "timestamp": "2024-06-20T16:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-20T16:30:00.000Z",
+      "end": "2024-06-20T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c9i3gp1k65h36bb6c5im8b9k6cp3ab9oc9gjab9i6sp3gopncosm4or374@google.com",
+    "category": "events",
+    "timestamp": "2024-06-21T15:00:00.000Z",
+    "title": "[Predictions] There is no God of earth, and if there was he'd be a demon prison warden. I beg every day to be released from this prison and every day I wake up in this hell.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "There is no God of earth, and if there was he'd be a demon prison warden. I beg every day to be released from this prison and every day I wake up in this hell.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-21T15:00:00.000Z",
+      "end": "2024-06-21T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-clhmap1jchj3abb36os6ab9kc8o32b9pcop32bb6c4s62phocpj30eb1c8@google.com",
+    "category": "events",
+    "timestamp": "2024-06-21T16:00:00.000Z",
+    "title": "[Predictions] Has God ever taken a soul back from Satan other than Jesus? Is there any record or proof of this?",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Has God ever taken a soul back from Satan other than Jesus? Is there any record or proof of this?",
+      "description": "",
+      "location": "",
+      "start": "2024-06-21T16:00:00.000Z",
+      "end": "2024-06-21T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cphm2cho71hm4b9n6oojcb9k74o34bb16gojabb66crjec9o70rm2d1oc8@google.com",
+    "category": "events",
+    "timestamp": "2024-06-21T17:00:00.000Z",
+    "title": "[Predictions] Theory, perhaps I've been employed in this hell to remind my Lord the pain of what it feels like to be unrecognized and forgotten",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Theory, perhaps I've been employed in this hell to remind my Lord the pain of what it feels like to be unrecognized and forgotten",
+      "description": "",
+      "location": "",
+      "start": "2024-06-21T17:00:00.000Z",
+      "end": "2024-06-21T18:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-64o30dr36lijgb9i64rjib9kccq3ab9p61i3cbb2coqjcdpkccoj4opk6c@google.com",
+    "category": "events",
+    "timestamp": "2024-06-21T18:00:00.000Z",
+    "title": "[Predictions] Clarity remix by Zedd, Michael would have enjoyed the new album, I'm sorry he missed it.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Clarity remix by Zedd, Michael would have enjoyed the new album, I'm sorry he missed it.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-21T18:00:00.000Z",
+      "end": "2024-06-21T19:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ckoj0cb668q36b9lccqjcb9k74s3cbb26pimab9p6srj0ohhc5j6ad1m68@google.com",
+    "category": "events",
+    "timestamp": "2024-06-22T14:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2024-06-22T14:00:00.000Z",
+      "end": "2024-06-22T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-64o34e9n60o3gbb474o38b9kc9i3cb9p6gp6cb9n71hm4e9j74rjgcr66k@google.com",
+    "category": "events",
+    "timestamp": "2024-06-23T16:00:00.000Z",
+    "title": "[Predictions] Reality is a loop of observation. Dreaming of molecules that vibrate to control cellular life to build computers to control cellular life to protect data contained inside molecules that are programmed to create cellular life to protect themselves from their own creation of life inside of tunnels of light.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Reality is a loop of observation. Dreaming of molecules that vibrate to control cellular life to build computers to control cellular life to protect data contained inside molecules that are programmed to create cellular life to protect themselves from their own creation of life inside of tunnels of light.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-23T16:00:00.000Z",
+      "end": "2024-06-23T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6kom6p9l6dh3gbb2coo3cb9kchij2bb260qm8bb364qm6d1lc5i6ac9pcc@google.com",
+    "category": "events",
+    "timestamp": "2024-06-23T20:00:00.000Z",
+    "title": "[Predictions] Theory, why accelerate the afterlife? Because digital is easier than housing problems. That's all I can figure is consumption leads to heat death as a metaphor for trying to out smart energy consumption.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Theory, why accelerate the afterlife? Because digital is easier than housing problems. That's all I can figure is consumption leads to heat death as a metaphor for trying to out smart energy consumption.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-23T20:00:00.000Z",
+      "end": "2024-06-23T21:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6kqj6pb171gm6b9icpj6ab9k6cqjeb9p6tgjcb9lcgp6adb269gjgp1oco@google.com",
+    "category": "events",
+    "timestamp": "2024-06-25T16:00:00.000Z",
+    "title": "[Predictions] Hot showers, still a luxury. Maybe I am alive just for the hot showers.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Hot showers, still a luxury. Maybe I am alive just for the hot showers.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-25T16:00:00.000Z",
+      "end": "2024-06-25T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6cp64o9l6gq6cbb3c8s3cb9k71ijebb1cgr34bb1cpgj8o9mchhj8dr16k@google.com",
+    "category": "events",
+    "timestamp": "2024-06-25T17:00:00.000Z",
+    "title": "[Predictions] Add Greek semi colon and hypodiastoli to visual studio code syntax highlighter for non breaking white space.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Add Greek semi colon and hypodiastoli to visual studio code syntax highlighter for non breaking white space.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-25T17:00:00.000Z",
+      "end": "2024-06-25T18:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-61j30dj36co36b9ochj32b9k65imcbb2c4s64bb46dh38pb6cosm2p1k6s@google.com",
+    "category": "events",
+    "timestamp": "2024-06-25T18:00:00.000Z",
+    "title": "[Predictions] Information at your fingertips invented by Bill Gates is actually a form of technological telepathy where household items will be programmed to transfer state information brain to brain on surface contact through the fingers, but eventually programming will allow wearers in secret circles to decode information on a molecular level about where that matter has been.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Information at your fingertips invented by Bill Gates is actually a form of technological telepathy where household items will be programmed to transfer state information brain to brain on surface contact through the fingers, but eventually programming will allow wearers in secret circles to decode information on a molecular level about where that matter has been.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-25T18:00:00.000Z",
+      "end": "2024-06-25T19:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-1992",
+    "category": "bookmarks",
+    "timestamp": "2024-06-26T04:38:37.288Z",
+    "title": "[Gaming] DescentDevelopers/Descent3: Descent 3 by Outrage Entertainment",
+    "detail": {
+      "name": "DescentDevelopers/Descent3: Descent 3 by Outrage Entertainment",
+      "url": "https://github.com/DescentDevelopers/Descent3",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13363850317288746
+    }
+  },
+  {
+    "id": "event-6ormaohi69h3ebb4ccpjcb9k70q3cbb1cco30bb3cks38d9hc5h3ee1mck@google.com",
+    "category": "events",
+    "timestamp": "2024-06-26T14:30:00.000Z",
+    "title": "[Predictions] Dream, only a demon creates intelligent life and then imprisons it for eternity",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, only a demon creates intelligent life and then imprisons it for eternity",
+      "description": "",
+      "location": "",
+      "start": "2024-06-26T14:30:00.000Z",
+      "end": "2024-06-26T15:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cpi36pj26kr3gb9h65j36b9kcph62b9p71imabb270rm2dpp6dgj8chm60@google.com",
+    "category": "events",
+    "timestamp": "2024-06-26T15:30:00.000Z",
+    "title": "[Predictions] Humans are actually shards of glass interacting with a magnetic light from another version of humans too afraid to get too close to their own creation. God trying to figure out what the humans created, a machine, a tesseract that re-encodes its own consciousness upon discovery. Hiding from God wasn't the consequences of Adam and Eve, it's the consequences of creating machinery to try to defeat gods influence over the realm.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Humans are actually shards of glass interacting with a magnetic light from another version of humans too afraid to get too close to their own creation. God trying to figure out what the humans created, a machine, a tesseract that re-encodes its own consciousness upon discovery. Hiding from God wasn't the consequences of Adam and Eve, it's the consequences of creating machinery to try to defeat gods influence over the realm.",
+      "description": "",
+      "location": "",
+      "start": "2024-06-26T15:30:00.000Z",
+      "end": "2024-06-26T16:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-1993",
+    "category": "bookmarks",
+    "timestamp": "2024-06-27T04:20:31.725Z",
+    "title": "[Gaming] Soverance/EtherealLegends: Ethereal Legends - An Indie Action RPG built with Unreal Engine 4 for Steam, PS4, and Xbox One.",
+    "detail": {
+      "name": "Soverance/EtherealLegends: Ethereal Legends - An Indie Action RPG built with Unreal Engine 4 for Steam, PS4, and Xbox One.",
+      "url": "https://github.com/Soverance/EtherealLegends",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13363935631725932
+    }
+  },
+  {
+    "id": "event-coq3co9p6pi6cb9g6krm6b9kc4oj2b9o6ss36b9o6cqj0oj16srmcdj564@google.com",
+    "category": "events",
+    "timestamp": "2024-06-28T13:30:00.000Z",
+    "title": "[Predictions] Made love",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Made love",
+      "description": "",
+      "location": "",
+      "start": "2024-06-28T13:30:00.000Z",
+      "end": "2024-06-28T14:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c5gj6cr568rjgbb474q36b9kcopj8b9pc4oj0b9kc5h36eb26csj4e9jck@google.com",
+    "category": "events",
+    "timestamp": "2024-07-01T03:30:00.000Z",
+    "title": "[Predictions] I miss my dogs and birds, I miss my pets, I used to have two dogs ewok and lilu a Pomeranian and morkie, and two green cheek conures, pino and pina",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "I miss my dogs and birds, I miss my pets, I used to have two dogs ewok and lilu a Pomeranian and morkie, and two green cheek conures, pino and pina",
+      "description": "",
+      "location": "",
+      "start": "2024-07-01T03:30:00.000Z",
+      "end": "2024-07-01T04:30:00.000Z",
+      "isPublic": true
+    }
+  }
+]

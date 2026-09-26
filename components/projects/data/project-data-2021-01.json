@@ -1,0 +1,870 @@
+{
+  "yearMonth": "2021-01",
+  "generatedAt": "2026-09-24T02:37:24.771Z",
+  "username": "briancullinan2",
+  "projects": {
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-01-31": {
+          "date": "2021-01-31",
+          "heatScore": 21,
+          "linesChanged": 170,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/canvas-elements/layer-sprite.js",
+            "src/rendering/canvas-elements/zoomable-sprite.js"
+          ],
+          "commits": [
+            {
+              "hash": "fdd206869dd00f22dad4bf486eeac667c9bcdb10",
+              "author": "Igor Zinken",
+              "date": "2021-01-31T16:31:18.000Z",
+              "message": "Fixed issue where scaled Layers could be obscured depending on viewport size and pan position",
+              "linesAdded": 155,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "src/rendering/canvas-elements/layer-sprite.js",
+                "src/rendering/canvas-elements/zoomable-sprite.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-30": {
+          "date": "2021-01-30",
+          "heatScore": 13,
+          "linesChanged": 46,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/application-menu/application-menu.vue",
+            "src/components/application-menu/messages.json"
+          ],
+          "commits": [
+            {
+              "hash": "5c9ce5c9192d06630f4da74ed691a143609ba0d2",
+              "author": "Igor Zinken",
+              "date": "2021-01-30T14:56:13.000Z",
+              "message": "Minor menu restructuring",
+              "linesAdded": 28,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "src/components/application-menu/application-menu.vue",
+                "src/components/application-menu/messages.json"
+              ]
+            }
+          ]
+        },
+        "2021-01-28": {
+          "date": "2021-01-28",
+          "heatScore": 16,
+          "linesChanged": 90,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/options-panel/tool-options-clone/messages.json",
+            "src/components/options-panel/tool-options-clone/tool-options-clone.vue",
+            "src/definitions/tool-types.js",
+            "src/rendering/canvas-elements/layer-sprite.js",
+            "src/rendering/canvas-elements/zoomable-canvas.js",
+            "src/rendering/cloning.js",
+            "src/store/modules/tool-module.js",
+            "src/utils/document-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "03d65c1d7ccb130b7a6fe3afe1abd5e27d75204e",
+              "author": "Igor Zinken",
+              "date": "2021-01-28T19:32:40.000Z",
+              "message": "Merged with upstream",
+              "linesAdded": 65,
+              "linesDeleted": 25,
+              "filesChanged": [
+                "src/components/options-panel/tool-options-clone/messages.json",
+                "src/components/options-panel/tool-options-clone/tool-options-clone.vue",
+                "src/definitions/tool-types.js",
+                "src/rendering/canvas-elements/layer-sprite.js",
+                "src/rendering/canvas-elements/zoomable-canvas.js",
+                "src/rendering/cloning.js",
+                "src/store/modules/tool-module.js",
+                "src/utils/document-util.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-27": {
+          "date": "2021-01-27",
+          "heatScore": 10,
+          "linesChanged": 11,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/utils/document-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "121aae97380e4daba467f2328d43e01446c2a671",
+              "author": "Igor Zinken",
+              "date": "2021-01-27T17:41:46.000Z",
+              "message": "Resolved issue where image exports would not render layers below a filtered layer",
+              "linesAdded": 6,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/utils/document-util.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-26": {
+          "date": "2021-01-26",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/dropbox-file-selector/dropbox-file-selector.vue"
+          ],
+          "commits": [
+            {
+              "hash": "1f357b965fcf7d01dc2c7810c6d2b162161465b4",
+              "author": "Igor Zinken",
+              "date": "2021-01-26T17:13:12.000Z",
+              "message": "Fixed issue where Dropbox file filter was misconfigured for project files",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/components/dropbox-file-selector/dropbox-file-selector.vue"
+              ]
+            }
+          ]
+        },
+        "2021-01-24": {
+          "date": "2021-01-24",
+          "heatScore": 12,
+          "linesChanged": 34,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/store/index.js",
+            "src/utils/document-util.js",
+            "src/utils/layer-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "e0fc44ddb65ec4ada9821fb6cf9f9a32e6446399",
+              "author": "Igor Zinken",
+              "date": "2021-01-24T08:51:46.000Z",
+              "message": "Delete from selections now also work on mask sources",
+              "linesAdded": 23,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "src/store/index.js",
+                "src/utils/document-util.js",
+                "src/utils/layer-util.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-22": {
+          "date": "2021-01-22",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/application-menu/application-menu.vue",
+            "src/components/application-menu/messages.json"
+          ],
+          "commits": [
+            {
+              "hash": "1bb3332e2243ff9625ce1bd97580ce4f4dc88d05",
+              "author": "Igor Zinken",
+              "date": "2021-01-22T19:31:19.000Z",
+              "message": "Filter settings can now be reused across layers",
+              "linesAdded": 37,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/components/application-menu/application-menu.vue",
+                "src/components/application-menu/messages.json"
+              ]
+            }
+          ]
+        },
+        "2021-01-21": {
+          "date": "2021-01-21",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "{public/img/font-previews => src/assets/images}/font-previews-fs8.png",
+            "src/factories/text-factory.js",
+            "src/styles/font-previews.scss"
+          ],
+          "commits": [
+            {
+              "hash": "df0e016a1b65849766882369be1d8ed598f1f6a2",
+              "author": "Igor Zinken",
+              "date": "2021-01-21T20:39:45.000Z",
+              "message": "Font preview file is now bundled with Webpack",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "{public/img/font-previews => src/assets/images}/font-previews-fs8.png",
+                "src/factories/text-factory.js",
+                "src/styles/font-previews.scss"
+              ]
+            }
+          ]
+        },
+        "2021-01-20": {
+          "date": "2021-01-20",
+          "heatScore": 15,
+          "linesChanged": 84,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/options-panel/add-layer/add-layer.vue",
+            "src/components/options-panel/layers/layers.vue",
+            "src/services/keyboard-service.js",
+            "src/store/modules/document-module.js",
+            "tests/unit/store/modules/document-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "037f117821acf6390190528b1f41a7a23c85b590",
+              "author": "Igor Zinken",
+              "date": "2021-01-20T20:33:47.000Z",
+              "message": "Resolved issues with layer history addressing bugs with layer reordering and Layer source drawable history",
+              "linesAdded": 56,
+              "linesDeleted": 28,
+              "filesChanged": [
+                "src/components/options-panel/add-layer/add-layer.vue",
+                "src/components/options-panel/layers/layers.vue",
+                "src/services/keyboard-service.js",
+                "src/store/modules/document-module.js",
+                "tests/unit/store/modules/document-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-19": {
+          "date": "2021-01-19",
+          "heatScore": 37,
+          "linesChanged": 413,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/canvas-elements/layer-sprite.js",
+            "src/rendering/drawing.js",
+            "src/utils/render-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "f04188f6cdc152e0db00b9d85df29b76bc93bc2c",
+              "author": "Igor Zinken",
+              "date": "2021-01-19T19:56:30.000Z",
+              "message": "Moved drawing operations to separate file",
+              "linesAdded": 218,
+              "linesDeleted": 195,
+              "filesChanged": [
+                "src/rendering/canvas-elements/layer-sprite.js",
+                "src/rendering/drawing.js",
+                "src/utils/render-util.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-18": {
+          "date": "2021-01-18",
+          "heatScore": 100,
+          "linesChanged": 18887,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json",
+            "package.json",
+            "src/components/file-menu/create-document/create-document.vue",
+            "src/components/file-menu/export-document/export-document.vue",
+            "src/components/file-menu/export-image/export-image.vue",
+            "src/components/file-menu/save-dropbox-document/save-dropbox-document.vue",
+            "src/components/modal/modal.vue",
+            "src/components/options-panel/add-layer/add-layer.vue",
+            "src/components/options-panel/layers/layers.vue",
+            "src/components/options-panel/tool-options-brush/tool-options-brush.vue",
+            "src/components/options-panel/tool-options-clone/tool-options-clone.vue",
+            "src/components/options-panel/tool-options-text/tool-options-text.vue",
+            "src/components/selection-menu/save-selection/save-selection.vue",
+            "src/components/ui/dimensions-formatter/dimensions-formatter.vue",
+            "src/components/ui/select-box/select-box.vue",
+            "src/styles/form.scss",
+            "src/utils/search-select-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "6c31eeb52c32cc64b204c244a333319ccb83ef7d",
+              "author": "Igor Zinken",
+              "date": "2021-01-18T21:52:25.000Z",
+              "message": "Replaced Vue search select with more customizable Vue Select",
+              "linesAdded": 18725,
+              "linesDeleted": 162,
+              "filesChanged": [
+                "package-lock.json",
+                "package.json",
+                "src/components/file-menu/create-document/create-document.vue",
+                "src/components/file-menu/export-document/export-document.vue",
+                "src/components/file-menu/export-image/export-image.vue",
+                "src/components/file-menu/save-dropbox-document/save-dropbox-document.vue",
+                "src/components/modal/modal.vue",
+                "src/components/options-panel/add-layer/add-layer.vue",
+                "src/components/options-panel/layers/layers.vue",
+                "src/components/options-panel/tool-options-brush/tool-options-brush.vue",
+                "src/components/options-panel/tool-options-clone/tool-options-clone.vue",
+                "src/components/options-panel/tool-options-text/tool-options-text.vue",
+                "src/components/selection-menu/save-selection/save-selection.vue",
+                "src/components/ui/dimensions-formatter/dimensions-formatter.vue",
+                "src/components/ui/select-box/select-box.vue",
+                "src/styles/form.scss",
+                "src/utils/search-select-util.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-17": {
+          "date": "2021-01-17",
+          "heatScore": 39,
+          "linesChanged": 441,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/options-panel/tool-options-brush/tool-options-brush.vue",
+            "src/components/ui/zcanvas/interaction-pane.js",
+            "src/components/ui/zcanvas/layer-sprite.js",
+            "src/factories/brush-factory.js",
+            "src/store/index.js",
+            "src/styles/form.scss",
+            "src/utils/render-util.js",
+            "tests/unit/factories/brush-factory.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "cc10c2dcaa61c8997d34bd81c75f95d529f6c96d",
+              "author": "Igor Zinken",
+              "date": "2021-01-17T22:35:14.000Z",
+              "message": "Implement action queue for deferred paint rendering, use low resolution paint preview during paint",
+              "linesAdded": 283,
+              "linesDeleted": 158,
+              "filesChanged": [
+                "src/components/options-panel/tool-options-brush/tool-options-brush.vue",
+                "src/components/ui/zcanvas/interaction-pane.js",
+                "src/components/ui/zcanvas/layer-sprite.js",
+                "src/factories/brush-factory.js",
+                "src/store/index.js",
+                "src/styles/form.scss",
+                "src/utils/render-util.js",
+                "tests/unit/factories/brush-factory.spec.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-16": {
+          "date": "2021-01-16",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/ui/color-picker/color-picker.vue",
+            "src/services/keyboard-service.js",
+            "src/utils/render-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "1e5ce673d77e68afe2d25fc4ce7d7ca116dd10ac",
+              "author": "Igor Zinken",
+              "date": "2021-01-16T19:46:52.000Z",
+              "message": "Added keyboard shortcut to open color picker",
+              "linesAdded": 26,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "src/components/ui/color-picker/color-picker.vue",
+                "src/services/keyboard-service.js",
+                "src/utils/render-util.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-15": {
+          "date": "2021-01-15",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/ui/zcanvas/layer-sprite.js"
+          ],
+          "commits": [
+            {
+              "hash": "4b32f7a0da2d45cfa9d8a69c494dc71f78a1f6de",
+              "author": "Igor Zinken",
+              "date": "2021-01-15T18:24:58.000Z",
+              "message": "Fixed issue where brush would not have a size upon first selection",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/components/ui/zcanvas/layer-sprite.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-14": {
+          "date": "2021-01-14",
+          "heatScore": 12,
+          "linesChanged": 43,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/components/ui/zcanvas/interaction-pane.js"
+          ],
+          "commits": [
+            {
+              "hash": "fbe2d995fb49577a07aee6122c2212dd8cb7e957",
+              "author": "Igor Zinken",
+              "date": "2021-01-14T20:05:33.000Z",
+              "message": "Implemented alternating colours for selection outlines",
+              "linesAdded": 31,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "README.md",
+                "src/components/ui/zcanvas/interaction-pane.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-13": {
+          "date": "2021-01-13",
+          "heatScore": 13,
+          "linesChanged": 46,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/document-canvas/document-canvas.vue",
+            "src/components/ui/zcanvas/layer-sprite.js"
+          ],
+          "commits": [
+            {
+              "hash": "897ed43cee2d4416fefedfa3243138c6a38d3d9e",
+              "author": "Igor Zinken",
+              "date": "2021-01-13T20:36:48.000Z",
+              "message": "Paint operations are now also stored into state history",
+              "linesAdded": 45,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/components/document-canvas/document-canvas.vue",
+                "src/components/ui/zcanvas/layer-sprite.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-12": {
+          "date": "2021-01-12",
+          "heatScore": 30,
+          "linesChanged": 303,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/edit-menu/resize-document/messages.json",
+            "src/components/edit-menu/resize-document/resize-document.vue",
+            "src/components/file-menu/create-document/create-document.vue",
+            "src/components/file-menu/create-document/messages.json",
+            "src/components/ui/dimensions-formatter/dimensions-formatter.vue",
+            "src/components/ui/dimensions-formatter/messages.json",
+            "src/math/unit-math.js"
+          ],
+          "commits": [
+            {
+              "hash": "520efeffd2d50e425dbeaa6bfc53a1e6edbce8b7",
+              "author": "Igor Zinken",
+              "date": "2021-01-12T20:43:02.000Z",
+              "message": "Implemented specification of document size in multiple units",
+              "linesAdded": 250,
+              "linesDeleted": 53,
+              "filesChanged": [
+                "src/components/edit-menu/resize-document/messages.json",
+                "src/components/edit-menu/resize-document/resize-document.vue",
+                "src/components/file-menu/create-document/create-document.vue",
+                "src/components/file-menu/create-document/messages.json",
+                "src/components/ui/dimensions-formatter/dimensions-formatter.vue",
+                "src/components/ui/dimensions-formatter/messages.json",
+                "src/math/unit-math.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-11": {
+          "date": "2021-01-11",
+          "heatScore": 100,
+          "linesChanged": 19162,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "package-lock.json",
+            "package.json",
+            "src/components/application-menu/application-menu.vue",
+            "src/components/application-menu/messages.json",
+            "src/components/options-panel/tool-options-mirror/tool-options-mirror.vue",
+            "src/components/options-panel/tool-options-text/tool-options-text.vue",
+            "src/factories/history-state-factory.js",
+            "src/services/keyboard-service.js",
+            "src/store/index.js",
+            "src/store/modules/history-module.js",
+            "tests/unit/factories/history-state-factory.spec.js",
+            "tests/unit/store/modules/history-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "85b70c12f9dc9a655c0f0b1c9e3555f91f5cadb7",
+              "author": "Igor Zinken",
+              "date": "2021-01-11T20:45:59.000Z",
+              "message": "Implemented state history mechanism (still hidden from UI as features need to be hooked up)",
+              "linesAdded": 19068,
+              "linesDeleted": 94,
+              "filesChanged": [
+                "README.md",
+                "package-lock.json",
+                "package.json",
+                "src/components/application-menu/application-menu.vue",
+                "src/components/application-menu/messages.json",
+                "src/components/options-panel/tool-options-mirror/tool-options-mirror.vue",
+                "src/components/options-panel/tool-options-text/tool-options-text.vue",
+                "src/factories/history-state-factory.js",
+                "src/services/keyboard-service.js",
+                "src/store/index.js",
+                "src/store/modules/history-module.js",
+                "tests/unit/factories/history-state-factory.spec.js",
+                "tests/unit/store/modules/history-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-10": {
+          "date": "2021-01-10",
+          "heatScore": 21,
+          "linesChanged": 178,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/application-menu/application-menu.vue",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/components/options-panel/tool-options-rotate/tool-options-rotate.vue",
+            "src/components/ui/zcanvas/layer-sprite.js",
+            "src/components/ui/zcanvas/zoomable-canvas.js",
+            "src/definitions/tool-types.js",
+            "src/{utils => math}/image-math.js",
+            "src/math/selection-math.js",
+            "src/services/keyboard-service.js",
+            "src/services/render-service.js",
+            "tests/unit/{utils => math}/image-math.spec.js",
+            "tests/unit/math/selection-math.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "60b87f66265b9c91c275293c63e7c119d6cc86d3",
+              "author": "Igor Zinken",
+              "date": "2021-01-10T21:16:45.000Z",
+              "message": "Separated math utility into area specific functions. Decluttered LayerSprite selection logic",
+              "linesAdded": 118,
+              "linesDeleted": 60,
+              "filesChanged": [
+                "src/components/application-menu/application-menu.vue",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/components/options-panel/tool-options-rotate/tool-options-rotate.vue",
+                "src/components/ui/zcanvas/layer-sprite.js",
+                "src/components/ui/zcanvas/zoomable-canvas.js",
+                "src/definitions/tool-types.js",
+                "src/{utils => math}/image-math.js",
+                "src/math/selection-math.js",
+                "src/services/keyboard-service.js",
+                "src/services/render-service.js",
+                "tests/unit/{utils => math}/image-math.spec.js",
+                "tests/unit/math/selection-math.spec.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-09": {
+          "date": "2021-01-09",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/bitmappery.vue",
+            "src/messages.json",
+            "src/store/modules/document-module.js"
+          ],
+          "commits": [
+            {
+              "hash": "44b48c2e560aee61224ad1a6ace624f43eb76c39",
+              "author": "Igor Zinken",
+              "date": "2021-01-09T13:20:40.000Z",
+              "message": "Added confirmation popup before window close",
+              "linesAdded": 13,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "src/bitmappery.vue",
+                "src/messages.json",
+                "src/store/modules/document-module.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-08": {
+          "date": "2021-01-08",
+          "heatScore": 19,
+          "linesChanged": 143,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/options-panel/layer-filters/layer-filters.vue",
+            "src/components/options-panel/layer-filters/messages.json",
+            "src/factories/filters-factory.js",
+            "src/workers/filter.worker.js",
+            "tests/unit/factories/filters-factory.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "d8382e043a7dfd254f2dc9b3fc7c1722fdfeafb5",
+              "author": "Igor Zinken",
+              "date": "2021-01-08T19:15:38.000Z",
+              "message": "Improved performance of filter application by omitting idle effects, implemented brightness and vibrance filters",
+              "linesAdded": 116,
+              "linesDeleted": 27,
+              "filesChanged": [
+                "src/components/options-panel/layer-filters/layer-filters.vue",
+                "src/components/options-panel/layer-filters/messages.json",
+                "src/factories/filters-factory.js",
+                "src/workers/filter.worker.js",
+                "tests/unit/factories/filters-factory.spec.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-07": {
+          "date": "2021-01-07",
+          "heatScore": 40,
+          "linesChanged": 459,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/assets/icons/icon-mask.svg",
+            "src/assets/icons/icon-settings.svg",
+            "src/bitmappery.vue",
+            "src/components/options-panel/layer-filters/layer-filters.vue",
+            "src/components/options-panel/layer-filters/messages.json",
+            "src/components/options-panel/layers/layers.vue",
+            "src/components/options-panel/layers/messages.json",
+            "src/components/options-panel/tool-options-text/tool-options-text.vue",
+            "src/definitions/modal-windows.js",
+            "src/factories/filters-factory.js",
+            "src/factories/layer-factory.js",
+            "src/services/render-service.js",
+            "tests/unit/factories/filters-factory.spec.js",
+            "tests/unit/factories/layer-factory.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "213b3e509c306931a980d0a5dd5faf6d65d10cc2",
+              "author": "Igor Zinken",
+              "date": "2021-01-07T20:47:25.000Z",
+              "message": "Implemented initial layer filters",
+              "linesAdded": 406,
+              "linesDeleted": 53,
+              "filesChanged": [
+                "src/assets/icons/icon-mask.svg",
+                "src/assets/icons/icon-settings.svg",
+                "src/bitmappery.vue",
+                "src/components/options-panel/layer-filters/layer-filters.vue",
+                "src/components/options-panel/layer-filters/messages.json",
+                "src/components/options-panel/layers/layers.vue",
+                "src/components/options-panel/layers/messages.json",
+                "src/components/options-panel/tool-options-text/tool-options-text.vue",
+                "src/definitions/modal-windows.js",
+                "src/factories/filters-factory.js",
+                "src/factories/layer-factory.js",
+                "src/services/render-service.js",
+                "tests/unit/factories/filters-factory.spec.js",
+                "tests/unit/factories/layer-factory.spec.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-06": {
+          "date": "2021-01-06",
+          "heatScore": 19,
+          "linesChanged": 140,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/components/edit-menu/resize-document/resize-document.vue",
+            "src/components/ui/zcanvas/layer-sprite.js",
+            "src/components/ui/zcanvas/zoomable-canvas.js",
+            "src/store/modules/document-module.js",
+            "src/utils/render-util.js",
+            "tests/unit/store/modules/document-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "f4f2f6abee9fd68d79bfbffb38bc1ef16e293f34",
+              "author": "Igor Zinken",
+              "date": "2021-01-06T21:31:12.000Z",
+              "message": "Fixed issues with Document content rescaling",
+              "linesAdded": 97,
+              "linesDeleted": 43,
+              "filesChanged": [
+                "README.md",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/components/edit-menu/resize-document/resize-document.vue",
+                "src/components/ui/zcanvas/layer-sprite.js",
+                "src/components/ui/zcanvas/zoomable-canvas.js",
+                "src/store/modules/document-module.js",
+                "src/utils/render-util.js",
+                "tests/unit/store/modules/document-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-05": {
+          "date": "2021-01-05",
+          "heatScore": 21,
+          "linesChanged": 179,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/components/document-canvas/document-canvas.vue",
+            "src/components/ui/zcanvas/{scrollpane.js => interaction-pane.js}",
+            "src/services/keyboard-service.js",
+            "src/store/index.js",
+            "src/store/modules/document-module.js",
+            "src/utils/canvas-util.js",
+            "tests/unit/store/modules/document-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "86bb61569f52bc6e2cdd93834ce1752e2445591e",
+              "author": "Igor Zinken",
+              "date": "2021-01-05T21:50:50.000Z",
+              "message": "Added automatic layer selection on ctrl + click of Document, taking transparency into account",
+              "linesAdded": 144,
+              "linesDeleted": 35,
+              "filesChanged": [
+                "README.md",
+                "src/components/document-canvas/document-canvas.vue",
+                "src/components/ui/zcanvas/{scrollpane.js => interaction-pane.js}",
+                "src/services/keyboard-service.js",
+                "src/store/index.js",
+                "src/store/modules/document-module.js",
+                "src/utils/canvas-util.js",
+                "tests/unit/store/modules/document-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-04": {
+          "date": "2021-01-04",
+          "heatScore": 12,
+          "linesChanged": 35,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/options-panel/tool-options-clone/messages.json",
+            "src/components/options-panel/tool-options-clone/tool-options-clone.vue",
+            "src/store/modules/tool-module.js",
+            "src/utils/render-util.js",
+            "tests/unit/store/modules/tool-module.spec.js"
+          ],
+          "commits": [
+            {
+              "hash": "05872365b21616997888a8bc297d168cd679be87",
+              "author": "Igor Zinken",
+              "date": "2021-01-04T20:38:23.000Z",
+              "message": "Added opacity to clone stamp",
+              "linesAdded": 27,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "src/components/options-panel/tool-options-clone/messages.json",
+                "src/components/options-panel/tool-options-clone/tool-options-clone.vue",
+                "src/store/modules/tool-module.js",
+                "src/utils/render-util.js",
+                "tests/unit/store/modules/tool-module.spec.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-03": {
+          "date": "2021-01-03",
+          "heatScore": 18,
+          "linesChanged": 130,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/assets/icons/icon-eye.svg",
+            "src/components/options-panel/layers/layers.vue",
+            "src/components/options-panel/layers/messages.json",
+            "src/definitions/modal-windows.js"
+          ],
+          "commits": [
+            {
+              "hash": "63f30ee0adb5a3822728b6d1caa3d936f6311592",
+              "author": "Igor Zinken",
+              "date": "2021-01-03T21:24:12.000Z",
+              "message": "Added layer rename and toggling of visibility. Updating layer panel UI",
+              "linesAdded": 118,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "README.md",
+                "src/assets/icons/icon-eye.svg",
+                "src/components/options-panel/layers/layers.vue",
+                "src/components/options-panel/layers/messages.json",
+                "src/definitions/modal-windows.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-02": {
+          "date": "2021-01-02",
+          "heatScore": 12,
+          "linesChanged": 34,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/ui/zcanvas/layer-sprite.js",
+            "src/services/keyboard-service.js"
+          ],
+          "commits": [
+            {
+              "hash": "25b231a24f3b4d49e5fe47a616744fb3c5e19d10",
+              "author": "Igor Zinken",
+              "date": "2021-01-02T20:05:44.000Z",
+              "message": "Implemented keyboard shortcuts for layer positioning",
+              "linesAdded": 31,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "src/components/ui/zcanvas/layer-sprite.js",
+                "src/services/keyboard-service.js"
+              ]
+            }
+          ]
+        },
+        "2021-01-01": {
+          "date": "2021-01-01",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "package.json",
+            "src/components/dropbox-file-selector/dropbox-file-selector.vue"
+          ],
+          "commits": [
+            {
+              "hash": "47b9228790fd77b0772c9ebbb001c27a11503a44",
+              "author": "Igor Zinken",
+              "date": "2021-01-01T19:14:20.000Z",
+              "message": "Dropbox files are sorted folder first, then by name",
+              "linesAdded": 10,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "package.json",
+                "src/components/dropbox-file-selector/dropbox-file-selector.vue"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

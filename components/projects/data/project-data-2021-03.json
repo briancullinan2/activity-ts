@@ -1,0 +1,363 @@
+{
+  "yearMonth": "2021-03",
+  "generatedAt": "2026-09-24T02:37:24.711Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-03-15": {
+          "date": "2021-03-15",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/q_shared.c",
+            "code/game/q_shared.h",
+            "code/q3_ui/ui_serverinfo.c"
+          ],
+          "commits": [
+            {
+              "hash": "0dc671d51fd9b78b90750f80985201f9e8a41b82",
+              "author": "ec-",
+              "date": "2021-03-15T16:42:13.000Z",
+              "message": "Reworked Info_NextPair()",
+              "linesAdded": 18,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "code/game/q_shared.c",
+                "code/game/q_shared.h",
+                "code/q3_ui/ui_serverinfo.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-03-15": {
+          "date": "2021-03-15",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/q_shared.c",
+            "code/game/q_shared.h",
+            "code/q3_ui/ui_serverinfo.c"
+          ],
+          "commits": [
+            {
+              "hash": "0dc671d51fd9b78b90750f80985201f9e8a41b82",
+              "author": "ec-",
+              "date": "2021-03-15T16:42:13.000Z",
+              "message": "Reworked Info_NextPair()",
+              "linesAdded": 18,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "code/game/q_shared.c",
+                "code/game/q_shared.h",
+                "code/q3_ui/ui_serverinfo.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-03-27": {
+          "date": "2021-03-27",
+          "heatScore": 100,
+          "linesChanged": 1441,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Docker/docker commands.ipynb",
+            "Frontends/edit anywhere.ipynb",
+            "Games/quake 3.ipynb",
+            "Games/quake3 server connector.ipynb",
+            "Utilities/wget.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "30ddd010c9bdafb846c0148d1d3bccd29a587b73",
+              "author": "megamind",
+              "date": "2021-03-27T04:01:04.000Z",
+              "message": "added quake 3 chatbot",
+              "linesAdded": 892,
+              "linesDeleted": 549,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Docker/docker commands.ipynb",
+                "Frontends/edit anywhere.ipynb",
+                "Games/quake 3.ipynb",
+                "Games/quake3 server connector.ipynb",
+                "Utilities/wget.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "Quake3e": {
+      "projectName": "Quake3e",
+      "localPath": "C:\\Users\\megam\\Quake3e",
+      "lastUpdated": "2026-09-24T02:37:19.854Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-03-30": {
+          "date": "2021-03-30",
+          "heatScore": 15,
+          "linesChanged": 87,
+          "commitCount": 1,
+          "filesEdited": [
+            "Dockerfile",
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "d55cba6d00899544dc9387f0e8b72fd1b6f92a50",
+              "author": "megamind",
+              "date": "2021-03-30T07:56:15.000Z",
+              "message": "mostly working docker file with better build stages, still need to optimize which files are being transfered to service containers",
+              "linesAdded": 49,
+              "linesDeleted": 38,
+              "filesChanged": [
+                "Dockerfile",
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2021-03-29": {
+          "date": "2021-03-29",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/build.yml"
+          ],
+          "commits": [
+            {
+              "hash": "48977bbb161015a3e131e45fbb2fb27a19ac1e1e",
+              "author": "megamind",
+              "date": "2021-03-29T23:58:59.000Z",
+              "message": "fix for git actions for js build",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                ".github/workflows/build.yml"
+              ]
+            }
+          ]
+        },
+        "2021-03-27": {
+          "date": "2021-03-27",
+          "heatScore": 13,
+          "linesChanged": 47,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/q_shared.h",
+            "code/server/server.h",
+            "code/server/sv_client.c",
+            "code/server/sv_init.c",
+            "code/server/sv_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "a36a07a7047ccf214e277ad86339b6b5c87ab07e",
+              "author": "megamind",
+              "date": "2021-03-27T04:01:50.000Z",
+              "message": "added event system over rcon for a more accurate server status than parsing log files",
+              "linesAdded": 47,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/qcommon/q_shared.h",
+                "code/server/server.h",
+                "code/server/sv_client.c",
+                "code/server/sv_init.c",
+                "code/server/sv_main.c"
+              ]
+            }
+          ]
+        },
+        "2021-03-26": {
+          "date": "2021-03-26",
+          "heatScore": 17,
+          "linesChanged": 113,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_main.c",
+            "code/client/cl_parse.c",
+            "code/client/snd_dma.c",
+            "code/qcommon/common.c",
+            "code/qcommon/files.c",
+            "code/qcommon/qcommon.h",
+            "code/renderer2/tr_image.c",
+            "code/renderer2/tr_shader.c",
+            "code/server/sv_client.c",
+            "code/server/sv_main.c",
+            "code/xquakejs/sys_files.js",
+            "code/xquakejs/sys_main.js"
+          ],
+          "commits": [
+            {
+              "hash": "119325a16139ebeb2561bc964dc69ce735de4778",
+              "author": "megamind",
+              "date": "2021-03-26T23:04:10.000Z",
+              "message": "fix for forging pure checksums, sound fix",
+              "linesAdded": 94,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "code/client/cl_main.c",
+                "code/client/cl_parse.c",
+                "code/client/snd_dma.c",
+                "code/qcommon/common.c",
+                "code/qcommon/files.c",
+                "code/qcommon/qcommon.h",
+                "code/renderer2/tr_image.c",
+                "code/renderer2/tr_shader.c",
+                "code/server/sv_client.c",
+                "code/server/sv_main.c",
+                "code/xquakejs/sys_files.js",
+                "code/xquakejs/sys_main.js"
+              ]
+            }
+          ]
+        },
+        "2021-03-25": {
+          "date": "2021-03-25",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/client/cl_keys.c",
+            "code/client/cl_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "22f3c6f100471500763e9c1de6ea1a42b17b23b8",
+              "author": "megamind",
+              "date": "2021-03-25T02:14:15.000Z",
+              "message": "lazy memory adjustment",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "README.md",
+                "code/client/cl_keys.c",
+                "code/client/cl_main.c"
+              ]
+            }
+          ]
+        },
+        "2021-03-24": {
+          "date": "2021-03-24",
+          "heatScore": 12,
+          "linesChanged": 35,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/server/sv_main.c",
+            "code/xquakejs/sys_input.c",
+            "code/xquakejs/sys_input.js"
+          ],
+          "commits": [
+            {
+              "hash": "e0c336e47637eb9c494e7dee332393e0ec95c5b6",
+              "author": "megamind",
+              "date": "2021-03-24T18:59:27.000Z",
+              "message": "sound nearly restored, still need to make firstClick work.",
+              "linesAdded": 23,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "code/server/sv_main.c",
+                "code/xquakejs/sys_input.c",
+                "code/xquakejs/sys_input.js"
+              ]
+            }
+          ]
+        },
+        "2021-03-22": {
+          "date": "2021-03-22",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_parse.c",
+            "code/qcommon/cmd.c",
+            "code/server/sv_ccmds.c",
+            "code/server/sv_client.c"
+          ],
+          "commits": [
+            {
+              "hash": "ff68c6a23785449b8facc02d28edadbb1fd7141f",
+              "author": "megamind",
+              "date": "2021-03-22T00:09:01.000Z",
+              "message": "fix for parsing gamestate and added nofire command",
+              "linesAdded": 32,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "code/client/cl_parse.c",
+                "code/qcommon/cmd.c",
+                "code/server/sv_ccmds.c",
+                "code/server/sv_client.c"
+              ]
+            }
+          ]
+        },
+        "2021-03-21": {
+          "date": "2021-03-21",
+          "heatScore": 14,
+          "linesChanged": 64,
+          "commitCount": 1,
+          "filesEdited": [
+            "Makefile",
+            "code/qcommon/q_shared.h",
+            "code/server/server.h",
+            "code/server/sv_ccmds.c",
+            "code/server/sv_client.c",
+            "code/server/sv_init.c",
+            "code/server/sv_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "3289898292b2de7dfc916d2e22b2962c20a1aaa4",
+              "author": "megamind",
+              "date": "2021-03-21T17:57:27.000Z",
+              "message": "added team locking",
+              "linesAdded": 61,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "Makefile",
+                "code/qcommon/q_shared.h",
+                "code/server/server.h",
+                "code/server/sv_ccmds.c",
+                "code/server/sv_client.c",
+                "code/server/sv_init.c",
+                "code/server/sv_main.c"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

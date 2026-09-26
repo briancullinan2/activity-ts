@@ -1,0 +1,2600 @@
+[
+  {
+    "id": "event-m8ssm6uoqtc2fst5sl8l19vifo@google.com",
+    "category": "events",
+    "timestamp": "2017-05-01T10:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-01T10:00:00.000Z",
+      "end": "2017-05-01T11:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cn4esicnj7c2o48j0n2ehri4pc@google.com",
+    "category": "events",
+    "timestamp": "2017-05-01T11:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-01T11:00:00.000Z",
+      "end": "2017-05-01T12:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-m6cp40gc5rn0j53drlqd74e0cg@google.com",
+    "category": "events",
+    "timestamp": "2017-05-01T12:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-01T12:00:00.000Z",
+      "end": "2017-05-01T13:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6pi3ee1j6li6abb374q3cb9k6krm6bb16pi3ebb171gj0cpnc9ij2d1h6o@google.com",
+    "category": "events",
+    "timestamp": "2017-05-01T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-01T15:00:00.000Z",
+      "end": "2017-05-01T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3917",
+    "category": "bookmarks",
+    "timestamp": "2017-05-03T00:23:57.000Z",
+    "title": "[SOS Method] Adding a Service Worker and Offline into your Web App  |  Web  |  Google Developers",
+    "detail": {
+      "name": "Adding a Service Worker and Offline into your Web App  |  Web  |  Google Developers",
+      "url": "https://developers.google.com/web/fundamentals/getting-started/codelabs/offline/",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138244637000000
+    }
+  },
+  {
+    "id": "bookmark-13985",
+    "category": "bookmarks",
+    "timestamp": "2017-05-03T00:23:57.916Z",
+    "title": "[SOS Method] Adding a Service Worker and Offline into your Web App  |  Web  |  Google Developers",
+    "detail": {
+      "name": "Adding a Service Worker and Offline into your Web App  |  Web  |  Google Developers",
+      "url": "https://developers.google.com/web/fundamentals/getting-started/codelabs/offline/",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138244637916694
+    }
+  },
+  {
+    "id": "bookmark-3918",
+    "category": "bookmarks",
+    "timestamp": "2017-05-03T00:24:53.000Z",
+    "title": "[SOS Method] Fast Offline Angular Apps with Service Workers",
+    "detail": {
+      "name": "Fast Offline Angular Apps with Service Workers",
+      "url": "https://coryrylan.com/blog/fast-offline-angular-apps-with-service-workers",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138244693000000
+    }
+  },
+  {
+    "id": "bookmark-13986",
+    "category": "bookmarks",
+    "timestamp": "2017-05-03T00:24:53.926Z",
+    "title": "[SOS Method] Fast Offline Angular Apps with Service Workers",
+    "detail": {
+      "name": "Fast Offline Angular Apps with Service Workers",
+      "url": "https://coryrylan.com/blog/fast-offline-angular-apps-with-service-workers",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138244693926960
+    }
+  },
+  {
+    "id": "bookmark-3919",
+    "category": "bookmarks",
+    "timestamp": "2017-05-03T03:15:22.000Z",
+    "title": "[SOS Method] branch - git: renaming branches remotely? - Stack Overflow",
+    "detail": {
+      "name": "branch - git: renaming branches remotely? - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/4753888/git-renaming-branches-remotely",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138254922000000
+    }
+  },
+  {
+    "id": "bookmark-13987",
+    "category": "bookmarks",
+    "timestamp": "2017-05-03T03:15:22.464Z",
+    "title": "[SOS Method] branch - git: renaming branches remotely? - Stack Overflow",
+    "detail": {
+      "name": "branch - git: renaming branches remotely? - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/4753888/git-renaming-branches-remotely",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138254922464280
+    }
+  },
+  {
+    "id": "bookmark-3920",
+    "category": "bookmarks",
+    "timestamp": "2017-05-03T04:19:29.000Z",
+    "title": "[SOS Method] Deploying to Firebase Hosting from GitHub - Firecasts - YouTube",
+    "detail": {
+      "name": "Deploying to Firebase Hosting from GitHub - Firecasts - YouTube",
+      "url": "https://www.youtube.com/watch?v=QLVzozWDYAs",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138258769000000
+    }
+  },
+  {
+    "id": "bookmark-13988",
+    "category": "bookmarks",
+    "timestamp": "2017-05-03T04:19:29.259Z",
+    "title": "[SOS Method] Deploying to Firebase Hosting from GitHub - Firecasts - YouTube",
+    "detail": {
+      "name": "Deploying to Firebase Hosting from GitHub - Firecasts - YouTube",
+      "url": "https://www.youtube.com/watch?v=QLVzozWDYAs",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138258769259568
+    }
+  },
+  {
+    "id": "bookmark-3921",
+    "category": "bookmarks",
+    "timestamp": "2017-05-03T05:46:39.000Z",
+    "title": "[SOS Method] html5 - Angular2 without hash in the url - Stack Overflow",
+    "detail": {
+      "name": "html5 - Angular2 without hash in the url - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/41662326/angular2-without-hash-in-the-url",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138263999000000
+    }
+  },
+  {
+    "id": "bookmark-13989",
+    "category": "bookmarks",
+    "timestamp": "2017-05-03T05:46:39.829Z",
+    "title": "[SOS Method] html5 - Angular2 without hash in the url - Stack Overflow",
+    "detail": {
+      "name": "html5 - Angular2 without hash in the url - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/41662326/angular2-without-hash-in-the-url",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138263999829700
+    }
+  },
+  {
+    "id": "event-6gq34c1g74r3cbb2c4s30b9kcooj6bb2c8o68bb56hijgopo6kp6ce1o6c@google.com",
+    "category": "events",
+    "timestamp": "2017-05-03T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-03T06:00:00.000Z",
+      "end": "2017-05-03T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cgo62d36chgm2b9pc4sm6b9k6cr6cb9p60q30b9j6hh6ccphcksj0c9i74@google.com",
+    "category": "events",
+    "timestamp": "2017-05-04T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-04T05:00:00.000Z",
+      "end": "2017-05-04T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3984",
+    "category": "bookmarks",
+    "timestamp": "2017-05-04T05:03:19.000Z",
+    "title": "[Swiftpage] Hotjar - Pricing Plans",
+    "detail": {
+      "name": "Hotjar - Pricing Plans",
+      "url": "https://www.hotjar.com/pricing",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138347799000000
+    }
+  },
+  {
+    "id": "bookmark-14053",
+    "category": "bookmarks",
+    "timestamp": "2017-05-04T05:03:19.971Z",
+    "title": "[Swiftpage] Hotjar - Pricing Plans",
+    "detail": {
+      "name": "Hotjar - Pricing Plans",
+      "url": "https://www.hotjar.com/pricing",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138347799971880
+    }
+  },
+  {
+    "id": "bookmark-7807",
+    "category": "bookmarks",
+    "timestamp": "2017-05-04T05:50:55.000Z",
+    "title": "[Philosophy] John Galt Full Speech Atlas Shrugged Ayn Rand Who is John Galt - YouTube",
+    "detail": {
+      "name": "John Galt Full Speech Atlas Shrugged Ayn Rand Who is John Galt - YouTube",
+      "url": "https://www.youtube.com/watch?v=8F5nhYo5nx4",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13138350655000000
+    }
+  },
+  {
+    "id": "bookmark-17689",
+    "category": "bookmarks",
+    "timestamp": "2017-05-04T05:50:55.451Z",
+    "title": "[Philosophy] John Galt Full Speech Atlas Shrugged Ayn Rand Who is John Galt - YouTube",
+    "detail": {
+      "name": "John Galt Full Speech Atlas Shrugged Ayn Rand Who is John Galt - YouTube",
+      "url": "https://www.youtube.com/watch?v=8F5nhYo5nx4",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13138350655451674
+    }
+  },
+  {
+    "id": "event-6cpjic1o6ks34b9j6sq3cb9kcph6abb16cqm6bb5c4pjic9m6crj6o9ick@google.com",
+    "category": "events",
+    "timestamp": "2017-05-04T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-04T18:00:00.000Z",
+      "end": "2017-05-04T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-8192",
+    "category": "bookmarks",
+    "timestamp": "2017-05-05T03:20:20.000Z",
+    "title": "[Psychology] Trachtenberg system - Wikipedia",
+    "detail": {
+      "name": "Trachtenberg system - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trachtenberg_system",
+      "folderPath": "Psychology",
+      "lastFolder": "Psychology",
+      "timeUsec": 13138428020000000
+    }
+  },
+  {
+    "id": "bookmark-18026",
+    "category": "bookmarks",
+    "timestamp": "2017-05-05T03:20:20.498Z",
+    "title": "[Psychology] Trachtenberg system - Wikipedia",
+    "detail": {
+      "name": "Trachtenberg system - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trachtenberg_system",
+      "folderPath": "Psychology",
+      "lastFolder": "Psychology",
+      "timeUsec": 13138428020498168
+    }
+  },
+  {
+    "id": "bookmark-540",
+    "category": "bookmarks",
+    "timestamp": "2017-05-05T03:29:33.000Z",
+    "title": "[Data structures] fluid dynamics - What is the simplest method for solving incompressible Navier-Stokes equations? - Computational Science Stack Exchange",
+    "detail": {
+      "name": "fluid dynamics - What is the simplest method for solving incompressible Navier-Stokes equations? - Computational Science Stack Exchange",
+      "url": "https://scicomp.stackexchange.com/questions/6846/what-is-the-simplest-method-for-solving-incompressible-navier-stokes-equations",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13138428573000000
+    }
+  },
+  {
+    "id": "bookmark-10980",
+    "category": "bookmarks",
+    "timestamp": "2017-05-05T03:29:33.330Z",
+    "title": "[Data structures] fluid dynamics - What is the simplest method for solving incompressible Navier-Stokes equations? - Computational Science Stack Exchange",
+    "detail": {
+      "name": "fluid dynamics - What is the simplest method for solving incompressible Navier-Stokes equations? - Computational Science Stack Exchange",
+      "url": "https://scicomp.stackexchange.com/questions/6846/what-is-the-simplest-method-for-solving-incompressible-navier-stokes-equations",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13138428573330546
+    }
+  },
+  {
+    "id": "bookmark-541",
+    "category": "bookmarks",
+    "timestamp": "2017-05-05T03:29:38.000Z",
+    "title": "[Data structures] SIMPLE algorithm - Wikipedia",
+    "detail": {
+      "name": "SIMPLE algorithm - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SIMPLE_algorithm",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13138428578000000
+    }
+  },
+  {
+    "id": "bookmark-10981",
+    "category": "bookmarks",
+    "timestamp": "2017-05-05T03:29:38.944Z",
+    "title": "[Data structures] SIMPLE algorithm - Wikipedia",
+    "detail": {
+      "name": "SIMPLE algorithm - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SIMPLE_algorithm",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13138428578944544
+    }
+  },
+  {
+    "id": "event-6lh68p9pcpgjcbb16pi6ab9kcdi3ebb2c4qj2bb46orj8cb168rjcoj5cc@google.com",
+    "category": "events",
+    "timestamp": "2017-05-05T06:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-05T06:30:00.000Z",
+      "end": "2017-05-05T07:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3922",
+    "category": "bookmarks",
+    "timestamp": "2017-05-05T14:08:05.000Z",
+    "title": "[SOS Method] angular2 template - How can create a dynamic menu in angular 2? - Stack Overflow",
+    "detail": {
+      "name": "angular2 template - How can create a dynamic menu in angular 2? - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/40620340/how-can-create-a-dynamic-menu-in-angular-2",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138466885000000
+    }
+  },
+  {
+    "id": "bookmark-13990",
+    "category": "bookmarks",
+    "timestamp": "2017-05-05T14:08:05.595Z",
+    "title": "[SOS Method] angular2 template - How can create a dynamic menu in angular 2? - Stack Overflow",
+    "detail": {
+      "name": "angular2 template - How can create a dynamic menu in angular 2? - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/40620340/how-can-create-a-dynamic-menu-in-angular-2",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138466885595908
+    }
+  },
+  {
+    "id": "event-coo32c1gccr62b9ocosjab9k74s3ebb16csj4bb6ckp38e9p69hmachicc@google.com",
+    "category": "events",
+    "timestamp": "2017-05-05T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-05T16:00:00.000Z",
+      "end": "2017-05-05T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-chj3cdhk6pij6b9g70s3cb9k6cs3abb1ckqm8bb1ccrmcc1p70qmcd1mco@google.com",
+    "category": "events",
+    "timestamp": "2017-05-05T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-05T16:00:00.000Z",
+      "end": "2017-05-05T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6co62p9lc8qm2b9l6ksm6b9k6di34bb1cdi64b9g69gm8c9mckp3go9j6o@google.com",
+    "category": "events",
+    "timestamp": "2017-05-05T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-05T17:00:00.000Z",
+      "end": "2017-05-05T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2215",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T01:29:19.000Z",
+    "title": "[Data analytics] GTimeReport - Creating time reports from your Google Calendar to Excel and Google Docs Spreadsheets.",
+    "detail": {
+      "name": "GTimeReport - Creating time reports from your Google Calendar to Excel and Google Docs Spreadsheets.",
+      "url": "https://www.gtimereport.com/Report#",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13138507759000000
+    }
+  },
+  {
+    "id": "bookmark-12426",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T01:29:19.809Z",
+    "title": "[Data analytics] GTimeReport - Creating time reports from your Google Calendar to Excel and Google Docs Spreadsheets.",
+    "detail": {
+      "name": "GTimeReport - Creating time reports from your Google Calendar to Excel and Google Docs Spreadsheets.",
+      "url": "https://www.gtimereport.com/Report#",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13138507759809202
+    }
+  },
+  {
+    "id": "bookmark-2216",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T03:53:06.000Z",
+    "title": "[Data analytics] Maintenance and Release Schedule · owncloud/core Wiki",
+    "detail": {
+      "name": "Maintenance and Release Schedule · owncloud/core Wiki",
+      "url": "https://github.com/owncloud/core/wiki/Maintenance-and-Release-Schedule",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13138516386000000
+    }
+  },
+  {
+    "id": "bookmark-12427",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T03:53:06.868Z",
+    "title": "[Data analytics] Maintenance and Release Schedule · owncloud/core Wiki",
+    "detail": {
+      "name": "Maintenance and Release Schedule · owncloud/core Wiki",
+      "url": "https://github.com/owncloud/core/wiki/Maintenance-and-Release-Schedule",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13138516386868712
+    }
+  },
+  {
+    "id": "bookmark-3985",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T04:54:04.000Z",
+    "title": "[Swiftpage] Hotjar Features - Connect All The Dots With One Powerful Solution.",
+    "detail": {
+      "name": "Hotjar Features - Connect All The Dots With One Powerful Solution.",
+      "url": "https://www.hotjar.com/tour",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138520044000000
+    }
+  },
+  {
+    "id": "bookmark-14054",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T04:54:04.341Z",
+    "title": "[Swiftpage] Hotjar Features - Connect All The Dots With One Powerful Solution.",
+    "detail": {
+      "name": "Hotjar Features - Connect All The Dots With One Powerful Solution.",
+      "url": "https://www.hotjar.com/tour",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138520044341240
+    }
+  },
+  {
+    "id": "bookmark-3986",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T04:54:14.000Z",
+    "title": "[Swiftpage] Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform",
+    "detail": {
+      "name": "Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform",
+      "url": "https://www.hotjar.com/",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138520054000000
+    }
+  },
+  {
+    "id": "bookmark-14055",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T04:54:14.932Z",
+    "title": "[Swiftpage] Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform",
+    "detail": {
+      "name": "Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform",
+      "url": "https://www.hotjar.com/",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138520054932860
+    }
+  },
+  {
+    "id": "event-6kp62d1h6pimab9n71j6cb9k75gjebb1c8qj4b9pc8r3gc33cgrj4oj66s@google.com",
+    "category": "events",
+    "timestamp": "2017-05-06T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-06T06:00:00.000Z",
+      "end": "2017-05-06T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-lpl7e0at97hfc9m1fbj929tujc@google.com",
+    "category": "events",
+    "timestamp": "2017-05-06T14:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-06T14:00:00.000Z",
+      "end": "2017-05-06T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2217",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T14:44:56.000Z",
+    "title": "[Data analytics] Data packages for fast, reproducible Python analysis",
+    "detail": {
+      "name": "Data packages for fast, reproducible Python analysis",
+      "url": "https://blog.quiltdata.com/data-packages-for-fast-reproducible-python-analysis-c74b78015c7f",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13138555496000000
+    }
+  },
+  {
+    "id": "bookmark-12428",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T14:44:56.055Z",
+    "title": "[Data analytics] Data packages for fast, reproducible Python analysis",
+    "detail": {
+      "name": "Data packages for fast, reproducible Python analysis",
+      "url": "https://blog.quiltdata.com/data-packages-for-fast-reproducible-python-analysis-c74b78015c7f",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13138555496055896
+    }
+  },
+  {
+    "id": "bookmark-3923",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T15:12:03.000Z",
+    "title": "[SOS Method] Code Splitting in Angular 2 with Webpack 2 – Syrup Trap",
+    "detail": {
+      "name": "Code Splitting in Angular 2 with Webpack 2 – Syrup Trap",
+      "url": "https://blog.waffle.io/code-splitting-in-angular-2-with-webpack-2-ce8dd4b8b23e",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138557123000000
+    }
+  },
+  {
+    "id": "bookmark-13991",
+    "category": "bookmarks",
+    "timestamp": "2017-05-06T15:12:03.957Z",
+    "title": "[SOS Method] Code Splitting in Angular 2 with Webpack 2 – Syrup Trap",
+    "detail": {
+      "name": "Code Splitting in Angular 2 with Webpack 2 – Syrup Trap",
+      "url": "https://blog.waffle.io/code-splitting-in-angular-2-with-webpack-2-ce8dd4b8b23e",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138557123957572
+    }
+  },
+  {
+    "id": "event-ljrpg69rugv7vvs89g1a9nvijk@google.com",
+    "category": "events",
+    "timestamp": "2017-05-06T20:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-06T20:00:00.000Z",
+      "end": "2017-05-06T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3987",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T04:42:35.000Z",
+    "title": "[Swiftpage] ngrok - secure introspectable tunnels to localhost",
+    "detail": {
+      "name": "ngrok - secure introspectable tunnels to localhost",
+      "url": "https://ngrok.com/",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138605755000000
+    }
+  },
+  {
+    "id": "bookmark-14056",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T04:42:35.874Z",
+    "title": "[Swiftpage] ngrok - secure introspectable tunnels to localhost",
+    "detail": {
+      "name": "ngrok - secure introspectable tunnels to localhost",
+      "url": "https://ngrok.com/",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138605755874982
+    }
+  },
+  {
+    "id": "event-70r64dpo64oj2bb168om2b9k68rj6b9o6dj3cb9j6kp64pb1cgp6adhl74@google.com",
+    "category": "events",
+    "timestamp": "2017-05-07T14:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-07T14:00:00.000Z",
+      "end": "2017-05-07T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-rvsao6mc28kp3hnsvq0d29rb50@google.com",
+    "category": "events",
+    "timestamp": "2017-05-07T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-07T16:00:00.000Z",
+      "end": "2017-05-07T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3924",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T16:54:50.000Z",
+    "title": "[SOS Method] How can I schedule emails to send at specific times? - SendGrid Documentation | SendGrid",
+    "detail": {
+      "name": "How can I schedule emails to send at specific times? - SendGrid Documentation | SendGrid",
+      "url": "https://sendgrid.com/docs/Classroom/Send/When_Emails_Are_Sent/how_can_i_schedule_emails_to_send_at_specific_times.html",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138649690000000
+    }
+  },
+  {
+    "id": "bookmark-13992",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T16:54:50.614Z",
+    "title": "[SOS Method] How can I schedule emails to send at specific times? - SendGrid Documentation | SendGrid",
+    "detail": {
+      "name": "How can I schedule emails to send at specific times? - SendGrid Documentation | SendGrid",
+      "url": "https://sendgrid.com/docs/Classroom/Send/When_Emails_Are_Sent/how_can_i_schedule_emails_to_send_at_specific_times.html",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138649690614844
+    }
+  },
+  {
+    "id": "bookmark-542",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T17:45:38.000Z",
+    "title": "[Data structures] Exploring New Technologies for Making Maps. Vector Tiles & WebGL (Part One) - data visualization - Bocoup",
+    "detail": {
+      "name": "Exploring New Technologies for Making Maps. Vector Tiles & WebGL (Part One) - data visualization - Bocoup",
+      "url": "https://bocoup.com/blog/exploring-new-technologies-for-making-maps-vector-tiles-webgl-part-one",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13138652738000000
+    }
+  },
+  {
+    "id": "bookmark-10982",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T17:45:38.643Z",
+    "title": "[Data structures] Exploring New Technologies for Making Maps. Vector Tiles & WebGL (Part One) - data visualization - Bocoup",
+    "detail": {
+      "name": "Exploring New Technologies for Making Maps. Vector Tiles & WebGL (Part One) - data visualization - Bocoup",
+      "url": "https://bocoup.com/blog/exploring-new-technologies-for-making-maps-vector-tiles-webgl-part-one",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13138652738643416
+    }
+  },
+  {
+    "id": "bookmark-543",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T17:48:35.000Z",
+    "title": "[Data structures] rastapasta/mapscii: 🗺 MapSCII is a Braille & ASCII map renderer for your console - enter => telnet mapscii.me <= on Mac and Linux, connect with PuTTY if you're using Windows.",
+    "detail": {
+      "name": "rastapasta/mapscii: 🗺 MapSCII is a Braille & ASCII map renderer for your console - enter => telnet mapscii.me <= on Mac and Linux, connect with PuTTY if you're using Windows.",
+      "url": "https://github.com/rastapasta/mapscii",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13138652915000000
+    }
+  },
+  {
+    "id": "bookmark-10983",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T17:48:35.685Z",
+    "title": "[Data structures] rastapasta/mapscii: 🗺 MapSCII is a Braille & ASCII map renderer for your console - enter => telnet mapscii.me <= on Mac and Linux, connect with PuTTY if you're using Windows.",
+    "detail": {
+      "name": "rastapasta/mapscii: 🗺 MapSCII is a Braille & ASCII map renderer for your console - enter => telnet mapscii.me <= on Mac and Linux, connect with PuTTY if you're using Windows.",
+      "url": "https://github.com/rastapasta/mapscii",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13138652915685384
+    }
+  },
+  {
+    "id": "bookmark-5737",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T17:53:15.000Z",
+    "title": "[Job sites] Talent Jobs | CodeFights",
+    "detail": {
+      "name": "Talent Jobs | CodeFights",
+      "url": "https://codefights.com/jobs",
+      "folderPath": "Job sites",
+      "lastFolder": "Job sites",
+      "timeUsec": 13138653195000000
+    }
+  },
+  {
+    "id": "bookmark-15784",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T17:53:15.075Z",
+    "title": "[Job sites] Talent Jobs | CodeFights",
+    "detail": {
+      "name": "Talent Jobs | CodeFights",
+      "url": "https://codefights.com/jobs",
+      "folderPath": "Job sites",
+      "lastFolder": "Job sites",
+      "timeUsec": 13138653195075046
+    }
+  },
+  {
+    "id": "bookmark-3925",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T17:58:34.000Z",
+    "title": "[SOS Method] functions-samples/delete-unused-accounts-cron at master · firebase/functions-samples",
+    "detail": {
+      "name": "functions-samples/delete-unused-accounts-cron at master · firebase/functions-samples",
+      "url": "https://github.com/firebase/functions-samples/tree/master/delete-unused-accounts-cron",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138653514000000
+    }
+  },
+  {
+    "id": "bookmark-13993",
+    "category": "bookmarks",
+    "timestamp": "2017-05-07T17:58:34.187Z",
+    "title": "[SOS Method] functions-samples/delete-unused-accounts-cron at master · firebase/functions-samples",
+    "detail": {
+      "name": "functions-samples/delete-unused-accounts-cron at master · firebase/functions-samples",
+      "url": "https://github.com/firebase/functions-samples/tree/master/delete-unused-accounts-cron",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138653514187392
+    }
+  },
+  {
+    "id": "event-28tau31ta91gok8fg3lljoj4gc@google.com",
+    "category": "events",
+    "timestamp": "2017-05-08T00:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-08T00:30:00.000Z",
+      "end": "2017-05-08T01:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-5146",
+    "category": "bookmarks",
+    "timestamp": "2017-05-08T05:06:26.000Z",
+    "title": "[Nutrition] Red Wine Glass iPhone Case – All Wine Zone",
+    "detail": {
+      "name": "Red Wine Glass iPhone Case – All Wine Zone",
+      "url": "https://allwinezone.com/collections/wine-accessories/products/red-wine-glass-iphone-case-1",
+      "folderPath": "Food/Health/Nutrition",
+      "lastFolder": "Nutrition",
+      "timeUsec": 13138693586000000
+    }
+  },
+  {
+    "id": "bookmark-15265",
+    "category": "bookmarks",
+    "timestamp": "2017-05-08T05:06:26.095Z",
+    "title": "[Nutrition] Red Wine Glass iPhone Case – All Wine Zone",
+    "detail": {
+      "name": "Red Wine Glass iPhone Case – All Wine Zone",
+      "url": "https://allwinezone.com/collections/wine-accessories/products/red-wine-glass-iphone-case-1",
+      "folderPath": "Food/Health/Nutrition",
+      "lastFolder": "Nutrition",
+      "timeUsec": 13138693586095612
+    }
+  },
+  {
+    "id": "bookmark-3926",
+    "category": "bookmarks",
+    "timestamp": "2017-05-09T00:16:03.000Z",
+    "title": "[SOS Method] Windows Platform Guide - Apache Cordova",
+    "detail": {
+      "name": "Windows Platform Guide - Apache Cordova",
+      "url": "https://cordova.apache.org/docs/en/latest/guide/platforms/win8/index.html",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138762563000000
+    }
+  },
+  {
+    "id": "bookmark-13994",
+    "category": "bookmarks",
+    "timestamp": "2017-05-09T00:16:03.672Z",
+    "title": "[SOS Method] Windows Platform Guide - Apache Cordova",
+    "detail": {
+      "name": "Windows Platform Guide - Apache Cordova",
+      "url": "https://cordova.apache.org/docs/en/latest/guide/platforms/win8/index.html",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138762563672074
+    }
+  },
+  {
+    "id": "bookmark-3927",
+    "category": "bookmarks",
+    "timestamp": "2017-05-09T00:20:46.000Z",
+    "title": "[SOS Method] iOS Platform Guide - Apache Cordova",
+    "detail": {
+      "name": "iOS Platform Guide - Apache Cordova",
+      "url": "https://cordova.apache.org/docs/en/latest/guide/platforms/ios/index.html",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138762846000000
+    }
+  },
+  {
+    "id": "bookmark-13995",
+    "category": "bookmarks",
+    "timestamp": "2017-05-09T00:20:46.002Z",
+    "title": "[SOS Method] iOS Platform Guide - Apache Cordova",
+    "detail": {
+      "name": "iOS Platform Guide - Apache Cordova",
+      "url": "https://cordova.apache.org/docs/en/latest/guide/platforms/ios/index.html",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13138762846002000
+    }
+  },
+  {
+    "id": "event-2aegvibstrl6sff56tffccoej8@google.com",
+    "category": "events",
+    "timestamp": "2017-05-09T01:00:00.000Z",
+    "title": "[Revelation] Realized a long term goal of writing an App in less than 128 KBs",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Realized a long term goal of writing an App in less than 128 KBs",
+      "description": "",
+      "location": "less than 128 KBs",
+      "start": "2017-05-09T01:00:00.000Z",
+      "end": "2017-05-09T02:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ps71ubdq2iagso45ajbbjfmvps@google.com",
+    "category": "events",
+    "timestamp": "2017-05-09T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-09T19:00:00.000Z",
+      "end": "2017-05-09T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-mc90teg8tpu6r3d0bikt4qa8tg@google.com",
+    "category": "events",
+    "timestamp": "2017-05-09T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-09T21:00:00.000Z",
+      "end": "2017-05-09T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6go3ec1o6pgj0bb56cq6ab9k75j64b9o6orm4bb16kr3gd1nc9i3gchm6c@google.com",
+    "category": "events",
+    "timestamp": "2017-05-10T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-10T06:00:00.000Z",
+      "end": "2017-05-10T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3988",
+    "category": "bookmarks",
+    "timestamp": "2017-05-11T01:15:29.000Z",
+    "title": "[Swiftpage] britecharts",
+    "detail": {
+      "name": "britecharts",
+      "url": "https://www.npmjs.com/package/britecharts",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138938929000000
+    }
+  },
+  {
+    "id": "bookmark-14057",
+    "category": "bookmarks",
+    "timestamp": "2017-05-11T01:15:29.797Z",
+    "title": "[Swiftpage] britecharts",
+    "detail": {
+      "name": "britecharts",
+      "url": "https://www.npmjs.com/package/britecharts",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138938929797138
+    }
+  },
+  {
+    "id": "bookmark-3989",
+    "category": "bookmarks",
+    "timestamp": "2017-05-11T04:44:04.000Z",
+    "title": "[Swiftpage] Free Crawl Tool, Google Sitemap Generator",
+    "detail": {
+      "name": "Free Crawl Tool, Google Sitemap Generator",
+      "url": "http://tools.seochat.com/tools/online-crawl-google-sitemap-generator/",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138951444000000
+    }
+  },
+  {
+    "id": "bookmark-14058",
+    "category": "bookmarks",
+    "timestamp": "2017-05-11T04:44:04.497Z",
+    "title": "[Swiftpage] Free Crawl Tool, Google Sitemap Generator",
+    "detail": {
+      "name": "Free Crawl Tool, Google Sitemap Generator",
+      "url": "http://tools.seochat.com/tools/online-crawl-google-sitemap-generator/",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13138951444497868
+    }
+  },
+  {
+    "id": "event-70omcchh60qmcb9l6or3gb9k60pjab9pc4oj6bb66oqm2c9n75j3goj4c8@google.com",
+    "category": "events",
+    "timestamp": "2017-05-11T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-11T06:00:00.000Z",
+      "end": "2017-05-11T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ggh1j0rct85hghbb8oe5tqos1c@google.com",
+    "category": "events",
+    "timestamp": "2017-05-11T12:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-11T12:00:00.000Z",
+      "end": "2017-05-11T13:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-74o66o9n68rj6bb26opmab9kcdim8b9p64rjab9l6srjeo9i6sq32e9jcg@google.com",
+    "category": "events",
+    "timestamp": "2017-05-11T13:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-11T13:00:00.000Z",
+      "end": "2017-05-11T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-544",
+    "category": "bookmarks",
+    "timestamp": "2017-05-11T14:36:17.000Z",
+    "title": "[Data structures] Bloom filter - Wikipedia",
+    "detail": {
+      "name": "Bloom filter - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Bloom_filter",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13138986977000000
+    }
+  },
+  {
+    "id": "bookmark-10984",
+    "category": "bookmarks",
+    "timestamp": "2017-05-11T14:36:17.000Z",
+    "title": "[Data structures] Bloom filter - Wikipedia",
+    "detail": {
+      "name": "Bloom filter - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Bloom_filter",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13138986977000506
+    }
+  },
+  {
+    "id": "bookmark-3990",
+    "category": "bookmarks",
+    "timestamp": "2017-05-13T00:05:53.000Z",
+    "title": "[Swiftpage] ngx-datatable - Angular2 and beyond component for presenting large and complex data",
+    "detail": {
+      "name": "ngx-datatable - Angular2 and beyond component for presenting large and complex data",
+      "url": "http://swimlane.github.io/ngx-datatable/#single-selection",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139107553000000
+    }
+  },
+  {
+    "id": "bookmark-14059",
+    "category": "bookmarks",
+    "timestamp": "2017-05-13T00:05:53.506Z",
+    "title": "[Swiftpage] ngx-datatable - Angular2 and beyond component for presenting large and complex data",
+    "detail": {
+      "name": "ngx-datatable - Angular2 and beyond component for presenting large and complex data",
+      "url": "http://swimlane.github.io/ngx-datatable/#single-selection",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139107553506160
+    }
+  },
+  {
+    "id": "event-16koov37h674a4o2fj85hi3a94@google.com",
+    "category": "events",
+    "timestamp": "2017-05-13T05:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-13T05:00:00.000Z",
+      "end": "2017-05-13T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3991",
+    "category": "bookmarks",
+    "timestamp": "2017-05-13T14:40:31.000Z",
+    "title": "[Swiftpage] awesome-angular-components/readme.md at master · brillout/awesome-angular-components · GitHub",
+    "detail": {
+      "name": "awesome-angular-components/readme.md at master · brillout/awesome-angular-components · GitHub",
+      "url": "https://github.com/brillout/awesome-angular-components/blob/master/readme.md",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139160031000000
+    }
+  },
+  {
+    "id": "bookmark-14060",
+    "category": "bookmarks",
+    "timestamp": "2017-05-13T14:40:31.991Z",
+    "title": "[Swiftpage] awesome-angular-components/readme.md at master · brillout/awesome-angular-components · GitHub",
+    "detail": {
+      "name": "awesome-angular-components/readme.md at master · brillout/awesome-angular-components · GitHub",
+      "url": "https://github.com/brillout/awesome-angular-components/blob/master/readme.md",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139160031991052
+    }
+  },
+  {
+    "id": "bookmark-3992",
+    "category": "bookmarks",
+    "timestamp": "2017-05-13T15:10:51.000Z",
+    "title": "[Swiftpage] Angular Material",
+    "detail": {
+      "name": "Angular Material",
+      "url": "https://material.angular.io/guide/theming",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139161851000000
+    }
+  },
+  {
+    "id": "bookmark-14061",
+    "category": "bookmarks",
+    "timestamp": "2017-05-13T15:10:51.604Z",
+    "title": "[Swiftpage] Angular Material",
+    "detail": {
+      "name": "Angular Material",
+      "url": "https://material.angular.io/guide/theming",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139161851604558
+    }
+  },
+  {
+    "id": "event-rqgfdnva50s1fachr9hfp31bt8@google.com",
+    "category": "events",
+    "timestamp": "2017-05-13T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-13T17:00:00.000Z",
+      "end": "2017-05-13T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c4i7gq8keq5d7h5c176gbe2vec@google.com",
+    "category": "events",
+    "timestamp": "2017-05-13T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-13T22:00:00.000Z",
+      "end": "2017-05-13T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-75hekdkvhp6ph3qr7525fh4u4s@google.com",
+    "category": "events",
+    "timestamp": "2017-05-14T03:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-14T03:00:00.000Z",
+      "end": "2017-05-14T04:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-m6c3q9n5jf7a26gfd012t914n4@google.com",
+    "category": "events",
+    "timestamp": "2017-05-14T14:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-14T14:30:00.000Z",
+      "end": "2017-05-14T15:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-5092",
+    "category": "bookmarks",
+    "timestamp": "2017-05-14T19:07:29.000Z",
+    "title": "[Investing] Captive insurance - Wikipedia",
+    "detail": {
+      "name": "Captive insurance - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Captive_insurance",
+      "folderPath": "Financial/Investing",
+      "lastFolder": "Investing",
+      "timeUsec": 13139262449000000
+    }
+  },
+  {
+    "id": "bookmark-15217",
+    "category": "bookmarks",
+    "timestamp": "2017-05-14T19:07:29.834Z",
+    "title": "[Investing] Captive insurance - Wikipedia",
+    "detail": {
+      "name": "Captive insurance - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Captive_insurance",
+      "folderPath": "Financial/Investing",
+      "lastFolder": "Investing",
+      "timeUsec": 13139262449834546
+    }
+  },
+  {
+    "id": "bookmark-9681",
+    "category": "bookmarks",
+    "timestamp": "2017-05-14T19:08:06.000Z",
+    "title": "[Old Testament] The Red Tent - 20th Anniversary Edition: A Novel",
+    "detail": {
+      "name": "The Red Tent - 20th Anniversary Edition: A Novel",
+      "url": "https://www.amazon.com/Red-Tent-20th-Anniversary-Novel/dp/0312427298",
+      "folderPath": "Theology/Old Testament",
+      "lastFolder": "Old Testament",
+      "timeUsec": 13139262486000000
+    }
+  },
+  {
+    "id": "bookmark-19405",
+    "category": "bookmarks",
+    "timestamp": "2017-05-14T19:08:06.146Z",
+    "title": "[Old Testament] The Red Tent - 20th Anniversary Edition: A Novel",
+    "detail": {
+      "name": "The Red Tent - 20th Anniversary Edition: A Novel",
+      "url": "https://www.amazon.com/Red-Tent-20th-Anniversary-Novel/dp/0312427298",
+      "folderPath": "Theology/Old Testament",
+      "lastFolder": "Old Testament",
+      "timeUsec": 13139262486146248
+    }
+  },
+  {
+    "id": "event-q0gqkvmu4d62eosmpda6q5amig@google.com",
+    "category": "events",
+    "timestamp": "2017-05-15T04:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-15T04:30:00.000Z",
+      "end": "2017-05-15T05:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-mrkujgcn30991o11d20i0vhc4k@google.com",
+    "category": "events",
+    "timestamp": "2017-05-15T13:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-15T13:00:00.000Z",
+      "end": "2017-05-15T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3928",
+    "category": "bookmarks",
+    "timestamp": "2017-05-15T17:29:55.000Z",
+    "title": "[SOS Method] wavesurfer.js",
+    "detail": {
+      "name": "wavesurfer.js",
+      "url": "https://wavesurfer-js.org/",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139342995000000
+    }
+  },
+  {
+    "id": "bookmark-13996",
+    "category": "bookmarks",
+    "timestamp": "2017-05-15T17:29:55.368Z",
+    "title": "[SOS Method] wavesurfer.js",
+    "detail": {
+      "name": "wavesurfer.js",
+      "url": "https://wavesurfer-js.org/",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139342995368876
+    }
+  },
+  {
+    "id": "event-9mujkhjoahjdsec1vrl003f4i8@google.com",
+    "category": "events",
+    "timestamp": "2017-05-15T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-15T19:00:00.000Z",
+      "end": "2017-05-15T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-llp1mrqcnlfqafefaoqi5n0700@google.com",
+    "category": "events",
+    "timestamp": "2017-05-16T13:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-16T13:00:00.000Z",
+      "end": "2017-05-16T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6p7a5femik3d4qn8c85mgnbneo@google.com",
+    "category": "events",
+    "timestamp": "2017-05-16T14:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-16T14:00:00.000Z",
+      "end": "2017-05-16T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7310",
+    "category": "bookmarks",
+    "timestamp": "2017-05-16T21:26:41.000Z",
+    "title": "[Recording] break science - Google Search",
+    "detail": {
+      "name": "break science - Google Search",
+      "url": "https://www.google.com/search?q=break+science&oq=break+science&aqs=chrome..69i57j69i65j0j5j0.5326j0j4&client=ms-android-google&sourceid=chrome-mobile&ie=UTF-8",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13139443601000000
+    }
+  },
+  {
+    "id": "bookmark-17218",
+    "category": "bookmarks",
+    "timestamp": "2017-05-16T21:26:41.335Z",
+    "title": "[Recording] break science - Google Search",
+    "detail": {
+      "name": "break science - Google Search",
+      "url": "https://www.google.com/search?q=break+science&oq=break+science&aqs=chrome..69i57j69i65j0j5j0.5326j0j4&client=ms-android-google&sourceid=chrome-mobile&ie=UTF-8",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13139443601335128
+    }
+  },
+  {
+    "id": "bookmark-3993",
+    "category": "bookmarks",
+    "timestamp": "2017-05-17T01:40:29.000Z",
+    "title": "[Swiftpage] javascript - Conditional build based on environment using Webpack - Stack Overflow",
+    "detail": {
+      "name": "javascript - Conditional build based on environment using Webpack - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/28572380/conditional-build-based-on-environment-using-webpack",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139458829000000
+    }
+  },
+  {
+    "id": "bookmark-14062",
+    "category": "bookmarks",
+    "timestamp": "2017-05-17T01:40:29.297Z",
+    "title": "[Swiftpage] javascript - Conditional build based on environment using Webpack - Stack Overflow",
+    "detail": {
+      "name": "javascript - Conditional build based on environment using Webpack - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/28572380/conditional-build-based-on-environment-using-webpack",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139458829297448
+    }
+  },
+  {
+    "id": "event-71h6cpj46oomabb1c4rj0b9k61j38b9ocgr3abb1c9hj2c1l61ijcdj6cc@google.com",
+    "category": "events",
+    "timestamp": "2017-05-17T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-17T05:00:00.000Z",
+      "end": "2017-05-17T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-nih72c0lsff9rvgeq7h9munrqo@google.com",
+    "category": "events",
+    "timestamp": "2017-05-17T13:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-17T13:00:00.000Z",
+      "end": "2017-05-17T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-9517",
+    "category": "bookmarks",
+    "timestamp": "2017-05-17T15:17:37.000Z",
+    "title": "[Hinduism] Holding Your Hand In This Position Does Something Incredible For Your Body-Here’s How",
+    "detail": {
+      "name": "Holding Your Hand In This Position Does Something Incredible For Your Body-Here’s How",
+      "url": "https://curiousmindmagazine.com/hand-position-something-incredible/",
+      "folderPath": "Theology/Hinduism",
+      "lastFolder": "Hinduism",
+      "timeUsec": 13139507857000000
+    }
+  },
+  {
+    "id": "bookmark-19255",
+    "category": "bookmarks",
+    "timestamp": "2017-05-17T15:17:37.741Z",
+    "title": "[Hinduism] Holding Your Hand In This Position Does Something Incredible For Your Body-Here’s How",
+    "detail": {
+      "name": "Holding Your Hand In This Position Does Something Incredible For Your Body-Here’s How",
+      "url": "https://curiousmindmagazine.com/hand-position-something-incredible/",
+      "folderPath": "Theology/Hinduism",
+      "lastFolder": "Hinduism",
+      "timeUsec": 13139507857741260
+    }
+  },
+  {
+    "id": "bookmark-2218",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:01:23.000Z",
+    "title": "[Data analytics] Grafana - The open platform for analytics and monitoring",
+    "detail": {
+      "name": "Grafana - The open platform for analytics and monitoring",
+      "url": "https://grafana.com/",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13139546483000000
+    }
+  },
+  {
+    "id": "bookmark-12429",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:01:23.476Z",
+    "title": "[Data analytics] Grafana - The open platform for analytics and monitoring",
+    "detail": {
+      "name": "Grafana - The open platform for analytics and monitoring",
+      "url": "https://grafana.com/",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13139546483476816
+    }
+  },
+  {
+    "id": "bookmark-3929",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:06:31.000Z",
+    "title": "[SOS Method] html5 - What is the difference between <section> and <div>? - Stack Overflow",
+    "detail": {
+      "name": "html5 - What is the difference between <section> and <div>? - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139546791000000
+    }
+  },
+  {
+    "id": "bookmark-13997",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:06:31.988Z",
+    "title": "[SOS Method] html5 - What is the difference between <section> and <div>? - Stack Overflow",
+    "detail": {
+      "name": "html5 - What is the difference between <section> and <div>? - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139546791988686
+    }
+  },
+  {
+    "id": "bookmark-3930",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:10:28.000Z",
+    "title": "[SOS Method] Offline Web Applications - Dive Into HTML5",
+    "detail": {
+      "name": "Offline Web Applications - Dive Into HTML5",
+      "url": "http://fortuito.us/diveintohtml5/offline.html",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139547028000000
+    }
+  },
+  {
+    "id": "bookmark-13998",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:10:28.569Z",
+    "title": "[SOS Method] Offline Web Applications - Dive Into HTML5",
+    "detail": {
+      "name": "Offline Web Applications - Dive Into HTML5",
+      "url": "http://fortuito.us/diveintohtml5/offline.html",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139547028569482
+    }
+  },
+  {
+    "id": "bookmark-3931",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:10:34.000Z",
+    "title": "[SOS Method] Can I use... Support tables for HTML5, CSS3, etc",
+    "detail": {
+      "name": "Can I use... Support tables for HTML5, CSS3, etc",
+      "url": "http://caniuse.com/#feat=serviceworkers",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139547034000000
+    }
+  },
+  {
+    "id": "bookmark-13999",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:10:34.915Z",
+    "title": "[SOS Method] Can I use... Support tables for HTML5, CSS3, etc",
+    "detail": {
+      "name": "Can I use... Support tables for HTML5, CSS3, etc",
+      "url": "http://caniuse.com/#feat=serviceworkers",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139547034915938
+    }
+  },
+  {
+    "id": "bookmark-3932",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:16:17.000Z",
+    "title": "[SOS Method] GoogleChrome/sw-precache: A node module to generate service worker code that will precache specific resources so they work offline.",
+    "detail": {
+      "name": "GoogleChrome/sw-precache: A node module to generate service worker code that will precache specific resources so they work offline.",
+      "url": "https://github.com/GoogleChrome/sw-precache",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139547377000000
+    }
+  },
+  {
+    "id": "bookmark-14000",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:16:17.168Z",
+    "title": "[SOS Method] GoogleChrome/sw-precache: A node module to generate service worker code that will precache specific resources so they work offline.",
+    "detail": {
+      "name": "GoogleChrome/sw-precache: A node module to generate service worker code that will precache specific resources so they work offline.",
+      "url": "https://github.com/GoogleChrome/sw-precache",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139547377168284
+    }
+  },
+  {
+    "id": "bookmark-3933",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:23:20.000Z",
+    "title": "[SOS Method] Offline mode app in a (HTML5) browser possible? - Stack Overflow",
+    "detail": {
+      "name": "Offline mode app in a (HTML5) browser possible? - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/2786303/offline-mode-app-in-a-html5-browser-possible",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139547800000000
+    }
+  },
+  {
+    "id": "bookmark-14001",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:23:20.745Z",
+    "title": "[SOS Method] Offline mode app in a (HTML5) browser possible? - Stack Overflow",
+    "detail": {
+      "name": "Offline mode app in a (HTML5) browser possible? - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/2786303/offline-mode-app-in-a-html5-browser-possible",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139547800745436
+    }
+  },
+  {
+    "id": "bookmark-3934",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:23:26.000Z",
+    "title": "[SOS Method] Angular 2 with Html5 application cache - Stack Overflow",
+    "detail": {
+      "name": "Angular 2 with Html5 application cache - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/42410977/angular-2-with-html5-application-cache",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139547806000000
+    }
+  },
+  {
+    "id": "bookmark-14002",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T02:23:26.951Z",
+    "title": "[SOS Method] Angular 2 with Html5 application cache - Stack Overflow",
+    "detail": {
+      "name": "Angular 2 with Html5 application cache - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/42410977/angular-2-with-html5-application-cache",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139547806951126
+    }
+  },
+  {
+    "id": "bookmark-3935",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T03:59:19.000Z",
+    "title": "[SOS Method] HTML5′s new semantic tags – what’s the SEO value? - iCrossing",
+    "detail": {
+      "name": "HTML5′s new semantic tags – what’s the SEO value? - iCrossing",
+      "url": "http://www.icrossing.com/uk/ideas/html5s-new-semantic-tags-whats-seo-value",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139553559000000
+    }
+  },
+  {
+    "id": "bookmark-14003",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T03:59:19.923Z",
+    "title": "[SOS Method] HTML5′s new semantic tags – what’s the SEO value? - iCrossing",
+    "detail": {
+      "name": "HTML5′s new semantic tags – what’s the SEO value? - iCrossing",
+      "url": "http://www.icrossing.com/uk/ideas/html5s-new-semantic-tags-whats-seo-value",
+      "folderPath": "Computer Science/SOS Method",
+      "lastFolder": "SOS Method",
+      "timeUsec": 13139553559923780
+    }
+  },
+  {
+    "id": "event-dltm9bpk2ddcfc3ej8kc23c2ck@google.com",
+    "category": "events",
+    "timestamp": "2017-05-18T12:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-18T12:00:00.000Z",
+      "end": "2017-05-18T13:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-csg5hib64ufcf5oummo2dpgqv8@google.com",
+    "category": "events",
+    "timestamp": "2017-05-18T13:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-18T13:00:00.000Z",
+      "end": "2017-05-18T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3994",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T23:31:31.000Z",
+    "title": "[Swiftpage] Jupyter Notebooks as RESTful Microservices - IBM Emerging Technologies Blog",
+    "detail": {
+      "name": "Jupyter Notebooks as RESTful Microservices - IBM Emerging Technologies Blog",
+      "url": "http://blog.ibmjstart.net/2016/01/28/jupyter-notebooks-as-restful-microservices/",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139623891000000
+    }
+  },
+  {
+    "id": "bookmark-14063",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T23:31:31.946Z",
+    "title": "[Swiftpage] Jupyter Notebooks as RESTful Microservices - IBM Emerging Technologies Blog",
+    "detail": {
+      "name": "Jupyter Notebooks as RESTful Microservices - IBM Emerging Technologies Blog",
+      "url": "http://blog.ibmjstart.net/2016/01/28/jupyter-notebooks-as-restful-microservices/",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139623891946320
+    }
+  },
+  {
+    "id": "bookmark-3995",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T23:35:32.000Z",
+    "title": "[Swiftpage] python - Can an IPython/Jupyter notebook cell be imported as if it were a module? - Stack Overflow",
+    "detail": {
+      "name": "python - Can an IPython/Jupyter notebook cell be imported as if it were a module? - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/38337792/can-an-ipython-jupyter-notebook-cell-be-imported-as-if-it-were-a-module",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139624132000000
+    }
+  },
+  {
+    "id": "bookmark-14064",
+    "category": "bookmarks",
+    "timestamp": "2017-05-18T23:35:32.055Z",
+    "title": "[Swiftpage] python - Can an IPython/Jupyter notebook cell be imported as if it were a module? - Stack Overflow",
+    "detail": {
+      "name": "python - Can an IPython/Jupyter notebook cell be imported as if it were a module? - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/38337792/can-an-ipython-jupyter-notebook-cell-be-imported-as-if-it-were-a-module",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13139624132055244
+    }
+  },
+  {
+    "id": "event-60pm2cj469j68b9jcoq64b9k60o32b9p6cpjebb6cph3cc1p6oq66c3274@google.com",
+    "category": "events",
+    "timestamp": "2017-05-19T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-19T06:00:00.000Z",
+      "end": "2017-05-19T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6oqj8dj161gj0b9jcgr34b9kchi32b9pc9ij6bb3c5imcoj360r32c9h6g@google.com",
+    "category": "events",
+    "timestamp": "2017-05-19T12:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-19T12:00:00.000Z",
+      "end": "2017-05-19T13:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6grm6p34ckq34b9n6gq3cb9k61j68b9pcoo3cbb26opm6o9hc8o62chpco@google.com",
+    "category": "events",
+    "timestamp": "2017-05-19T13:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-19T13:00:00.000Z",
+      "end": "2017-05-19T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-446",
+    "category": "bookmarks",
+    "timestamp": "2017-05-19T19:06:40.000Z",
+    "title": "[Machine learning] Bot Yourself - IBM Watson",
+    "detail": {
+      "name": "Bot Yourself - IBM Watson",
+      "url": "https://www.ibm.com/blogs/watson/2017/03/bot-yourself/?cm_mmc=PSocial_Facebook-_-Watson+Core_Watson+Core+-+Engagement-_-NA_NA-_-21329060_Tracking+Pixel&cm_mmca1=000018SW&cm_mmca2=10004432&cvosrc=social%20network%20paid.facebook.WCS%20FB%20Carousel%20Bot%20Yourself_SD%20Behav_DesktopMobileTablet_1x1&cvo_campaign=Watson%20Core_Watson%20Core%20-%20Engagement-NA_NA&cvo_pid=21329060",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13139694400000000
+    }
+  },
+  {
+    "id": "bookmark-10846",
+    "category": "bookmarks",
+    "timestamp": "2017-05-19T19:06:40.480Z",
+    "title": "[Machine learning] Bot Yourself - IBM Watson",
+    "detail": {
+      "name": "Bot Yourself - IBM Watson",
+      "url": "https://www.ibm.com/blogs/watson/2017/03/bot-yourself/?cm_mmc=PSocial_Facebook-_-Watson+Core_Watson+Core+-+Engagement-_-NA_NA-_-21329060_Tracking+Pixel&cm_mmca1=000018SW&cm_mmca2=10004432&cvosrc=social%20network%20paid.facebook.WCS%20FB%20Carousel%20Bot%20Yourself_SD%20Behav_DesktopMobileTablet_1x1&cvo_campaign=Watson%20Core_Watson%20Core%20-%20Engagement-NA_NA&cvo_pid=21329060",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13139694400480848
+    }
+  },
+  {
+    "id": "bookmark-9856",
+    "category": "bookmarks",
+    "timestamp": "2017-05-20T03:58:48.000Z",
+    "title": "[Theology] ELI5 the differences between the major Christian religions (e.g. Baptist, Catholic, Methodist, Protestant, Pentecostal, etc.) : explainlikeimfive",
+    "detail": {
+      "name": "ELI5 the differences between the major Christian religions (e.g. Baptist, Catholic, Methodist, Protestant, Pentecostal, etc.) : explainlikeimfive",
+      "url": "https://www.reddit.com/r/explainlikeimfive/comments/2icys6/eli5_the_differences_between_the_major_christian/?st=j2wqv8bb&sh=b4c20266",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13139726328000000
+    }
+  },
+  {
+    "id": "bookmark-19575",
+    "category": "bookmarks",
+    "timestamp": "2017-05-20T03:58:48.481Z",
+    "title": "[Theology] ELI5 the differences between the major Christian religions (e.g. Baptist, Catholic, Methodist, Protestant, Pentecostal, etc.) : explainlikeimfive",
+    "detail": {
+      "name": "ELI5 the differences between the major Christian religions (e.g. Baptist, Catholic, Methodist, Protestant, Pentecostal, etc.) : explainlikeimfive",
+      "url": "https://www.reddit.com/r/explainlikeimfive/comments/2icys6/eli5_the_differences_between_the_major_christian/?st=j2wqv8bb&sh=b4c20266",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13139726328481312
+    }
+  },
+  {
+    "id": "event-qlngddgnp85rjcdl23o6ndh5sg@google.com",
+    "category": "events",
+    "timestamp": "2017-05-20T17:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-20T17:00:00.000Z",
+      "end": "2017-05-20T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7311",
+    "category": "bookmarks",
+    "timestamp": "2017-05-21T00:25:31.000Z",
+    "title": "[Recording] (1) Akcent - Special Girl (One Love) - YouTube",
+    "detail": {
+      "name": "(1) Akcent - Special Girl (One Love) - YouTube",
+      "url": "https://www.youtube.com/watch?v=OFuJZGvwCBA",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13139799931000000
+    }
+  },
+  {
+    "id": "bookmark-17219",
+    "category": "bookmarks",
+    "timestamp": "2017-05-21T00:25:31.009Z",
+    "title": "[Recording] (1) Akcent - Special Girl (One Love) - YouTube",
+    "detail": {
+      "name": "(1) Akcent - Special Girl (One Love) - YouTube",
+      "url": "https://www.youtube.com/watch?v=OFuJZGvwCBA",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13139799931009710
+    }
+  },
+  {
+    "id": "event-64r3eophcoo3ab9h64oj6b9k61h3ab9p68p34b9n60s6ae9ocgqjge9o6s@google.com",
+    "category": "events",
+    "timestamp": "2017-05-21T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-21T15:00:00.000Z",
+      "end": "2017-05-21T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-vr9qt9cmp8j1antdbrmtoc5a0o@google.com",
+    "category": "events",
+    "timestamp": "2017-05-21T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-21T21:00:00.000Z",
+      "end": "2017-05-21T23:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-l8shhg3go5ahr4fkk19476d5m0@google.com",
+    "category": "events",
+    "timestamp": "2017-05-22T04:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-22T04:00:00.000Z",
+      "end": "2017-05-22T05:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-9rh9qfk8al5b4n94p5gf7g2k0k@google.com",
+    "category": "events",
+    "timestamp": "2017-05-22T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-22T06:00:00.000Z",
+      "end": "2017-05-22T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3gk2asa4diod3439qm995rk4j0@google.com",
+    "category": "events",
+    "timestamp": "2017-05-22T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-22T16:00:00.000Z",
+      "end": "2017-05-22T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-m8e3h6jjlnk6ssnr9s342s9hq8@google.com",
+    "category": "events",
+    "timestamp": "2017-05-23T01:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-23T01:30:00.000Z",
+      "end": "2017-05-23T02:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-fqpsbsc2hoqns4v237mtf5u7n4@google.com",
+    "category": "events",
+    "timestamp": "2017-05-23T13:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-23T13:00:00.000Z",
+      "end": "2017-05-23T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-sh961bb628bjt5nglf3k2o2jvs@google.com",
+    "category": "events",
+    "timestamp": "2017-05-23T15:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-23T15:30:00.000Z",
+      "end": "2017-05-23T16:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-p02puj74sth6d1vuls1ok61vu0@google.com",
+    "category": "events",
+    "timestamp": "2017-05-23T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-23T18:00:00.000Z",
+      "end": "2017-05-23T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-o3kpmn1phskokrb37ig1c2hkdc@google.com",
+    "category": "events",
+    "timestamp": "2017-05-23T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-23T19:00:00.000Z",
+      "end": "2017-05-23T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ukgkkev611udl7ml2qtbscdgcc@google.com",
+    "category": "events",
+    "timestamp": "2017-05-23T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-23T22:00:00.000Z",
+      "end": "2017-05-23T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-vl409ciqgskg2cfc2mef3hui5g@google.com",
+    "category": "events",
+    "timestamp": "2017-05-24T01:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-24T01:00:00.000Z",
+      "end": "2017-05-24T02:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4t880vvu7e1bml014jat0645do@google.com",
+    "category": "events",
+    "timestamp": "2017-05-24T13:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-24T13:00:00.000Z",
+      "end": "2017-05-24T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7610",
+    "category": "bookmarks",
+    "timestamp": "2017-05-24T13:54:03.000Z",
+    "title": "[Brain Science] Researchers find dozens of genes associated with measures of intelligence | Ars Technica",
+    "detail": {
+      "name": "Researchers find dozens of genes associated with measures of intelligence | Ars Technica",
+      "url": "https://arstechnica.com/science/2017/05/researchers-find-dozens-of-genes-associated-with-measures-of-intelligence/",
+      "folderPath": "Neuroscience/Brain Science",
+      "lastFolder": "Brain Science",
+      "timeUsec": 13140107643000000
+    }
+  },
+  {
+    "id": "bookmark-17500",
+    "category": "bookmarks",
+    "timestamp": "2017-05-24T13:54:03.445Z",
+    "title": "[Brain Science] Researchers find dozens of genes associated with measures of intelligence | Ars Technica",
+    "detail": {
+      "name": "Researchers find dozens of genes associated with measures of intelligence | Ars Technica",
+      "url": "https://arstechnica.com/science/2017/05/researchers-find-dozens-of-genes-associated-with-measures-of-intelligence/",
+      "folderPath": "Neuroscience/Brain Science",
+      "lastFolder": "Brain Science",
+      "timeUsec": 13140107643445926
+    }
+  },
+  {
+    "id": "event-gli9r50kcn5hlsbm0u1im2aa50@google.com",
+    "category": "events",
+    "timestamp": "2017-05-24T14:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-24T14:30:00.000Z",
+      "end": "2017-05-24T15:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ic937ll00glo7eckm7irbmulmk@google.com",
+    "category": "events",
+    "timestamp": "2017-05-24T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-24T21:00:00.000Z",
+      "end": "2017-05-24T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ju5eecqll4mvhcdcmjrrv9at00@google.com",
+    "category": "events",
+    "timestamp": "2017-05-25T01:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-25T01:00:00.000Z",
+      "end": "2017-05-25T02:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3996",
+    "category": "bookmarks",
+    "timestamp": "2017-05-25T03:37:20.000Z",
+    "title": "[Swiftpage] Mocking a websites rest api to run functional tests using wiremock",
+    "detail": {
+      "name": "Mocking a websites rest api to run functional tests using wiremock",
+      "url": "https://medium.com/@dbillinghamuk/mocking-a-websites-rest-api-to-run-functional-tests-using-wiremock-994c95328a94",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140157040000000
+    }
+  },
+  {
+    "id": "bookmark-14065",
+    "category": "bookmarks",
+    "timestamp": "2017-05-25T03:37:20.203Z",
+    "title": "[Swiftpage] Mocking a websites rest api to run functional tests using wiremock",
+    "detail": {
+      "name": "Mocking a websites rest api to run functional tests using wiremock",
+      "url": "https://medium.com/@dbillinghamuk/mocking-a-websites-rest-api-to-run-functional-tests-using-wiremock-994c95328a94",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140157040203438
+    }
+  },
+  {
+    "id": "event-0d3ap82u2urjj39c31usvv495s@google.com",
+    "category": "events",
+    "timestamp": "2017-05-25T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-25T19:00:00.000Z",
+      "end": "2017-05-25T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3997",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T00:00:20.000Z",
+    "title": "[Swiftpage] Docker for Windows not working - Stack Overflow",
+    "detail": {
+      "name": "Docker for Windows not working - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/32047660/docker-for-windows-not-working",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140230420000000
+    }
+  },
+  {
+    "id": "bookmark-14066",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T00:00:20.337Z",
+    "title": "[Swiftpage] Docker for Windows not working - Stack Overflow",
+    "detail": {
+      "name": "Docker for Windows not working - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/32047660/docker-for-windows-not-working",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140230420337676
+    }
+  },
+  {
+    "id": "bookmark-3998",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T00:02:39.000Z",
+    "title": "[Swiftpage] Docker commands fails (in Windows) - Stack Overflow",
+    "detail": {
+      "name": "Docker commands fails (in Windows) - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/37527888/docker-commands-fails-in-windows",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140230559000000
+    }
+  },
+  {
+    "id": "bookmark-14067",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T00:02:39.637Z",
+    "title": "[Swiftpage] Docker commands fails (in Windows) - Stack Overflow",
+    "detail": {
+      "name": "Docker commands fails (in Windows) - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/37527888/docker-commands-fails-in-windows",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140230559637332
+    }
+  },
+  {
+    "id": "bookmark-3999",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T01:22:29.000Z",
+    "title": "[Swiftpage] Kitematic setup error: connect ENOENT //./pipe/docker_engine · Issue #548 · docker/toolbox",
+    "detail": {
+      "name": "Kitematic setup error: connect ENOENT //./pipe/docker_engine · Issue #548 · docker/toolbox",
+      "url": "https://github.com/docker/toolbox/issues/548",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140235349000000
+    }
+  },
+  {
+    "id": "bookmark-14068",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T01:22:29.106Z",
+    "title": "[Swiftpage] Kitematic setup error: connect ENOENT //./pipe/docker_engine · Issue #548 · docker/toolbox",
+    "detail": {
+      "name": "Kitematic setup error: connect ENOENT //./pipe/docker_engine · Issue #548 · docker/toolbox",
+      "url": "https://github.com/docker/toolbox/issues/548",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140235349106144
+    }
+  },
+  {
+    "id": "bookmark-2271",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T02:58:06.000Z",
+    "title": "[Data analytics] Papa Parse - Powerful CSV Parser for JavaScript",
+    "detail": {
+      "name": "Papa Parse - Powerful CSV Parser for JavaScript",
+      "url": "http://papaparse.com/",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13140241086000000
+    }
+  },
+  {
+    "id": "bookmark-12482",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T02:58:06.493Z",
+    "title": "[Data analytics] Papa Parse - Powerful CSV Parser for JavaScript",
+    "detail": {
+      "name": "Papa Parse - Powerful CSV Parser for JavaScript",
+      "url": "http://papaparse.com/",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13140241086493500
+    }
+  },
+  {
+    "id": "bookmark-4000",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T02:59:09.000Z",
+    "title": "[Swiftpage] mholt/PapaParse: Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+    "detail": {
+      "name": "mholt/PapaParse: Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+      "url": "https://github.com/mholt/PapaParse",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140241149000000
+    }
+  },
+  {
+    "id": "bookmark-14069",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T02:59:09.320Z",
+    "title": "[Swiftpage] mholt/PapaParse: Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+    "detail": {
+      "name": "mholt/PapaParse: Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+      "url": "https://github.com/mholt/PapaParse",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140241149320494
+    }
+  },
+  {
+    "id": "bookmark-4001",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T03:00:36.000Z",
+    "title": "[Swiftpage] megamindbrian/PapaParse: Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+    "detail": {
+      "name": "megamindbrian/PapaParse: Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+      "url": "https://github.com/megamindbrian/PapaParse",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140241236000000
+    }
+  },
+  {
+    "id": "bookmark-14070",
+    "category": "bookmarks",
+    "timestamp": "2017-05-26T03:00:36.677Z",
+    "title": "[Swiftpage] megamindbrian/PapaParse: Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+    "detail": {
+      "name": "megamindbrian/PapaParse: Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+      "url": "https://github.com/megamindbrian/PapaParse",
+      "folderPath": "Computer Science/Swiftpage",
+      "lastFolder": "Swiftpage",
+      "timeUsec": 13140241236677432
+    }
+  },
+  {
+    "id": "event-f6nb9rc6p6gfccmvb1ear860lk@google.com",
+    "category": "events",
+    "timestamp": "2017-05-27T13:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-27T13:00:00.000Z",
+      "end": "2017-05-27T14:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7611",
+    "category": "bookmarks",
+    "timestamp": "2017-05-27T15:28:09.000Z",
+    "title": "[Brain Science] “Markets Today Are Radically Different Than What We Believe - We Have the Façade of Competition\" -",
+    "detail": {
+      "name": "“Markets Today Are Radically Different Than What We Believe - We Have the Façade of Competition\" -",
+      "url": "https://promarket.org/big-data-competition/",
+      "folderPath": "Neuroscience/Brain Science",
+      "lastFolder": "Brain Science",
+      "timeUsec": 13140372489000000
+    }
+  },
+  {
+    "id": "bookmark-17501",
+    "category": "bookmarks",
+    "timestamp": "2017-05-27T15:28:09.217Z",
+    "title": "[Brain Science] “Markets Today Are Radically Different Than What We Believe - We Have the Façade of Competition\" -",
+    "detail": {
+      "name": "“Markets Today Are Radically Different Than What We Believe - We Have the Façade of Competition\" -",
+      "url": "https://promarket.org/big-data-competition/",
+      "folderPath": "Neuroscience/Brain Science",
+      "lastFolder": "Brain Science",
+      "timeUsec": 13140372489217436
+    }
+  },
+  {
+    "id": "event-5lgkbbf7at85kt8767h9fep6so@google.com",
+    "category": "events",
+    "timestamp": "2017-05-28T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-28T06:00:00.000Z",
+      "end": "2017-05-28T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-dbb970slrbf29ns0llb8g85o6s@google.com",
+    "category": "events",
+    "timestamp": "2017-05-28T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-28T15:00:00.000Z",
+      "end": "2017-05-28T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2219",
+    "category": "bookmarks",
+    "timestamp": "2017-05-28T17:55:15.000Z",
+    "title": "[Data analytics] Make yourself a chat-bot / resume bot / cv bot (and you can do it too!)",
+    "detail": {
+      "name": "Make yourself a chat-bot / resume bot / cv bot (and you can do it too!)",
+      "url": "https://medium.com/@AndroidAdvance/make-yourself-a-bot-the-real-version-1eaf99595e86",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13140467715000000
+    }
+  },
+  {
+    "id": "bookmark-12430",
+    "category": "bookmarks",
+    "timestamp": "2017-05-28T17:55:15.536Z",
+    "title": "[Data analytics] Make yourself a chat-bot / resume bot / cv bot (and you can do it too!)",
+    "detail": {
+      "name": "Make yourself a chat-bot / resume bot / cv bot (and you can do it too!)",
+      "url": "https://medium.com/@AndroidAdvance/make-yourself-a-bot-the-real-version-1eaf99595e86",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13140467715536536
+    }
+  },
+  {
+    "id": "bookmark-2220",
+    "category": "bookmarks",
+    "timestamp": "2017-05-29T02:03:10.000Z",
+    "title": "[Data analytics] python - How do I import module in jupyter notebook directory into notebooks in lower directories? - Stack Overflow",
+    "detail": {
+      "name": "python - How do I import module in jupyter notebook directory into notebooks in lower directories? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/39299838/how-do-i-import-module-in-jupyter-notebook-directory-into-notebooks-in-lower-dir",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13140496990000000
+    }
+  },
+  {
+    "id": "bookmark-12431",
+    "category": "bookmarks",
+    "timestamp": "2017-05-29T02:03:10.332Z",
+    "title": "[Data analytics] python - How do I import module in jupyter notebook directory into notebooks in lower directories? - Stack Overflow",
+    "detail": {
+      "name": "python - How do I import module in jupyter notebook directory into notebooks in lower directories? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/39299838/how-do-i-import-module-in-jupyter-notebook-directory-into-notebooks-in-lower-dir",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13140496990332984
+    }
+  },
+  {
+    "id": "event-sa96h7qs8fnjcebpnjhm57kjq4@google.com",
+    "category": "events",
+    "timestamp": "2017-05-29T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-29T19:00:00.000Z",
+      "end": "2017-05-29T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2221",
+    "category": "bookmarks",
+    "timestamp": "2017-05-29T21:59:23.000Z",
+    "title": "[Data analytics] Can’t Meditate? How to Reap the Benefits Anyway | The SOS Method",
+    "detail": {
+      "name": "Can’t Meditate? How to Reap the Benefits Anyway | The SOS Method",
+      "url": "https://www.thesosmethod.com/cant-meditate-how-to-reap-the-benefits-anyway/",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13140568763000000
+    }
+  },
+  {
+    "id": "bookmark-12432",
+    "category": "bookmarks",
+    "timestamp": "2017-05-29T21:59:23.369Z",
+    "title": "[Data analytics] Can’t Meditate? How to Reap the Benefits Anyway | The SOS Method",
+    "detail": {
+      "name": "Can’t Meditate? How to Reap the Benefits Anyway | The SOS Method",
+      "url": "https://www.thesosmethod.com/cant-meditate-how-to-reap-the-benefits-anyway/",
+      "folderPath": "Computer Science/Information theory/Data analytics",
+      "lastFolder": "Data analytics",
+      "timeUsec": 13140568763369034
+    }
+  },
+  {
+    "id": "event-1496191446435@google.com",
+    "category": "events",
+    "timestamp": "2017-05-30T23:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2017-05-30T23:30:00.000Z",
+      "end": "2017-05-31T00:30:00.000Z",
+      "isPublic": false
+    }
+  }
+]

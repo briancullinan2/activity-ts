@@ -1,0 +1,97 @@
+[
+  {
+    "id": "2026-09-25-jupyter_ops-5ce1e4f",
+    "title": "Still trying to get Gemini dump to work",
+    "date": "2026-09-25T23:09:24Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "jupyter_ops"
+    ],
+    "summary": "Still trying to get Gemini dump to work. Added structural match for epoch and updated array match to handle 10-digit epoch values.",
+    "content_html": "<article class=\"blog-post\"><p>Still trying to get Gemini dump to work. Added structural match for epoch and updated array match to handle 10-digit epoch values.</p><p>Oh, and let me tell you, the structural match for the epoch is like finding the missing piece in a jigsaw puzzle. And the array match is like trying to fit the pieces together to form a coherent picture. But there's one thing that's driving me mad, and that's the deletions. They're like a pack of wolves in the forest, chasing me and making me feel like I'm not even sure I'm on the right path anymore.</p><p>But I've got this feeling inside me, like I'm on the brink of something great, just waiting for the right moment to break free. So, let's keep going, and who knows what secrets we'll uncover along the way.</p></article>",
+    "tldr": "Still trying to get Gemini dump to work. Added structural match for epoch and updated array match to handle 10-digit epoch values.",
+    "project": "jupyter_ops",
+    "latest_commit": "5ce1e4fa32333d071c49d4f4fbf633de22bbc2ce"
+  },
+  {
+    "id": "2026-09-22-mediaserver-ts",
+    "title": "Update to mediaserver-ts",
+    "date": "2026-09-22T23:07:25Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "mediaserver-ts"
+    ],
+    "summary": "Changes in mediaserver-ts include updates to the menu components, as well as the addition of a new 'more tools' option. The 'more tools' option provides additional functionality and an organized interface for accessing tools and settings.",
+    "content_html": "<article class=\"blog-post\">Changes in mediaserver-ts include updates to the menu components, as well as the addition of a new 'more tools' option. The 'more tools' option provides additional functionality and an organized interface for accessing tools and settings.</article>",
+    "tldr": "Changes in mediaserver-ts include updates to the menu components and a new 'more tools' option for a more organized and user-friendly interface.",
+    "project": "mediaserver-ts",
+    "latest_commit": "2f6e2b5825446790e9dc4f314df537876edbe8d4"
+  },
+  {
+    "id": "2026-09-25-parrotpi-de6008f",
+    "title": "Update to parrotpi",
+    "date": "2026-09-25T20:42:55.351Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "parrotpi"
+    ],
+    "summary": "Summary of changes made to parrotpi.",
+    "content_html": "<article class=\"blog-post\">I've been diving into the `app.bundle.js` codebase, and I've got a story to tell. Let's take a trip through the changes we've made over these days.\n\nWe've got a few commits under our belt, each marking a new chapter in our journey. Let's start with the **dev port** commit, which is like a new chapter that sets the stage for our adventure. This commit is about **dev port**.\n\nThen, there's the **trimming down tool** commit. This one is about **trimming down tool**. It's like we're going on a mission to simplify our tools, making them lean and efficient.\n\nNext, we've got the **renaming default repo** commit, which is like a name change. We're going to make this process faster and more streamlined.\n\nMoving on, we've got the **fixing git log on mac** commit, which is about **fixing git log on mac**. It's important to make sure our tools work seamlessly across different platforms.\n\nLastly, we've got the **fixing git log on linux** commit, which is about **fixing git log on linux**. Just like the mac commit, we need to ensure our tools work well on all platforms.\n\nAll of these changes are part of our journey to improve the `app.bundle.js` codebase and make the `parrotpi` experience better for everyone. We're excited to see how these changes will impact the future of `parrotpi`. Keep an eye out for the next update, and thanks for reading.",
+    "tldr": "Summary of changes made to parrotpi.",
+    "project": "parrotpi",
+    "latest_commit": "de6008f62f1d4a1af8eef9214d3846be4a1595c2"
+  },
+  {
+    "id": "2026-09-25-activity-5738445",
+    "title": "Automated Commit Log Summary",
+    "date": "2026-09-26T02:24:50.260Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "commit-log"
+    ],
+    "summary": "Daily code changes log.",
+    "content_html": "If a question does not make any sense, or is not factually coherent, I would explain why. This is because honesty and accuracy are important in providing helpful responses. If a question is unclear or not coherent, it's important to clarify the issue before attempting to answer. This helps to ensure the best possible response to the question at hand. In some cases, I might not know the answer to a question, but I can still attempt to provide information based on my knowledge and resources. However, if I don't know the answer to a question, I will not share false information or provide incorrect answers.",
+    "tldr": "Daily code changes log.",
+    "project": "activity",
+    "latest_commit": "5738445cd4d681ee083bca55891e0c84b6aa2fc7"
+  },
+  {
+    "id": "2026-09-25-activity-ts-7ff53f5",
+    "title": "Automated Commit Log Summary",
+    "date": "2026-09-26T02:26:54.400Z",
+    "author": "Brian Cullinan",
+    "categories": [
+      "Engineering",
+      "Code Update"
+    ],
+    "tags": [
+      "git",
+      "commit-log"
+    ],
+    "summary": "Daily code changes log.",
+    "content_html": "**Technical Blog Post: Analyzing Code Changes for a Software Enhancement Journey**\n\n---\n\n**Blog Title: Enhancing User Experience with Modular Abstractions**\n\n---\n\n**Introduction:**\n\nIn the quest to improve user experience, a pragmatic approach often involves breaking down complex systems into smaller, modular components. This blog post will delve into the recent changes in our codebase, analyzing how they've contributed to a more efficient and user-friendly interface. Let's dive into the details.\n\n---\n\n**Code File Analysis:**\n\n### **.gitignore**\n\nThe `.gitignore` file remains unchanged, ensuring that essential assets and configurations are excluded from version control. This helps in maintaining a clean and organized codebase, making it easier for developers to focus on the code they're actively working on.\n\n### **app.bundle.js**\n\nThe `app.bundle.js` file has been updated, primarily addressing the restoration of images using an index listing and a local server. This change has streamlined the process of loading images, making the application more responsive and visually appealing. By caching images on the server, the application can load them in the background, enhancing the user experience without requiring a full page reload.\n\n### **Middleware to Local FS**\n\nThe addition of middleware to the local file system, specifically using index listing and local server, has been a significant step forward. This change allows for more efficient and controlled management of files, ensuring they are served correctly from the server rather than being directly accessed locally. This is particularly useful for dynamic content management systems where files need to be fetched from the server rather than being stored locally and accessed directly.\n\nOn the other hand, the addition of a removable storage browser has been a bit of a challenge. The browser interface is quite intuitive, but implementing it in a way that enhances the user experience while ensuring it works well across various devices and platforms has been a bit tricky. The focus should be on finding a balance that provides a seamless browsing experience for users while maintaining the system's efficiency.\n\nThe \"trying to automate blog entries and Google shut down my account\" commit is quite interesting. It seems the author is in the process of setting up automatic blog posting and managing the Google account, which is a good step towards ensuring the blog remains active. However, it's important to keep in mind that Google may have restrictions on the number of users accessing their services, so it's crucial to find a way to work around these limitations.\n\nThe introduction of a pretty nice looking blog setup and a pretty good timeline thingy is a welcome addition. The blog is now more visually appealing, which is a step forward in terms of usability. The timeline feature allows users to keep track of significant events and milestones, making the blog more informative and useful.\n\nAs for the clip art viewer working, this is great news. Having a clip art viewer built into the blog is a significant enhancement for users who might not have access to the original images. This functionality is especially beneficial for users who prefer to use digital clip art to enhance their content.\n\nThe clip art loading fix and the fixes to the projects page are also important updates. The loading fix ensures that the images are displayed quickly, while the fixes to the projects page improve the overall user experience by ensuring that the projects display works as expected and the timeline feature is more responsive.\n\nLastly, the \"trying to get clip art loading\" commit is a bit confusing. It seems there's an ongoing effort to improve the clip art loading experience, which is a positive step. The focus should be on finding a solution that enhances the browsing experience without compromising the system's functionality.\n\nIn conclusion, the author has made significant progress with their blog setup. The addition of a removable storage browser, a pretty nice looking blog setup, and a pretty good timeline thingy are all welcome additions. The clip art viewer working, the clip art loading fix, and the fixes to the projects page are also important updates that enhance the user experience. It's crucial to continue working on these areas to maintain the system's efficiency",
+    "tldr": "Daily code changes log.",
+    "project": "activity-ts",
+    "latest_commit": "7ff53f596407da258433afce24cd4d99f5f54eb5"
+  }
+]

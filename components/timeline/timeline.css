@@ -1,0 +1,886 @@
+.jp-ActivityTimelineWidget {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	width: 100%;
+	position: relative;
+	background: #1e1e1e;
+	color: #cccccc;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.timeline-toolbar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 6px 12px;
+	background: #252526;
+	border-bottom: 1px solid #3c3c3c;
+	z-index: 10;
+	flex-shrink: 0;
+}
+
+.toolbar-group {
+	display: flex;
+	gap: 6px;
+	align-items: center;
+}
+
+.toolbar-group select,
+.toolbar-group button {
+	background: #3c3c3c;
+	color: #cccccc;
+	border: 1px solid #555555;
+	border-radius: 3px;
+	padding: 3px 8px;
+}
+
+.toolbar-legend {
+	display: flex;
+	gap: 10px;
+	font-size: 11px;
+	text-transform: capitalize;
+}
+
+.legend-item {
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+}
+
+.timeline-viewport-container {
+	flex: 1;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.timeline-floating-controls {
+	position: absolute;
+	top: 52px;
+	left: 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 1px;
+	z-index: 20;
+}
+
+.timeline-floating-controls button {
+	width: 32px;
+	height: 32px;
+	color: var(--ace-foreground);
+	background-color: var(--ace-bg);
+	border: none;
+	font-size: 18px;
+	font-weight: bold;
+	cursor: pointer;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.timeline-floating-controls button:first-of-type {
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+}
+
+.timeline-floating-controls button:nth-of-type(2) {
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+}
+
+.timeline-floating-controls button:hover {
+	background: #1177bb;
+}
+
+/* Vis Timeline Dark Theme Overrides */
+.vis-timeline {
+	border: none !important;
+	background: #1e1e1e !important;
+}
+
+.vis-time-axis .vis-text {
+	color: #aaa !important;
+}
+
+.vis-labelset .vis-label {
+	color: #ddd !important;
+	background: #252526 !important;
+	border-bottom: 1px solid #3c3c3c !important;
+	border-right: 1px solid #3c3c3c !important;
+}
+
+.vis-grid.vis-minor,
+.vis-grid.vis-major {
+	border-color: #2a2a2a !important;
+}
+
+/* 5-Color Schema Nodes */
+.timeline-one-liner {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	max-width: 200px;
+	font-size: 11px;
+	display: flex;
+	align-items: center;
+	gap: 4px;
+}
+
+.timeline-badge {
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	display: inline-block;
+	flex-shrink: 0;
+}
+
+.node-commits {
+	background-color: #2e6da4 !important;
+	border-color: #337ab7 !important;
+	color: #fff !important;
+}
+
+.badge-commits {
+	background-color: #4ea5ff;
+}
+
+.node-bookmarks {
+	background-color: #3f903f !important;
+	border-color: #4cae4c !important;
+	color: #fff !important;
+}
+
+.badge-bookmarks {
+	background-color: #5cb85c;
+}
+
+.node-history {
+	background-color: #e67e22 !important;
+	border-color: #d35400 !important;
+	color: #fff !important;
+}
+
+.badge-history {
+	background-color: #f39c12;
+}
+
+.node-locations {
+	background-color: #8e44ad !important;
+	border-color: #7d3c98 !important;
+	color: #fff !important;
+}
+
+.badge-locations {
+	background-color: #a569bd;
+}
+
+.node-events {
+	background-color: #c0392b !important;
+	border-color: #a93226 !important;
+	color: #fff !important;
+}
+
+.badge-events {
+	background-color: #e74c3c;
+}
+
+/* Card Base Styling */
+.timeline-card {
+	background: #252526;
+	border: 1px solid #3c3c3c;
+	border-left: 3px solid #0e639c;
+	border-radius: 4px;
+	padding: 4px 8px;
+	width: 220px;
+	font-size: 11px;
+	color: #cccccc;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+	transition: all 0.2s ease-in-out;
+	position: relative;
+	z-index: 1;
+}
+
+/* Category Specific Accent Colors */
+.timeline-card.category-commits {
+	border-left-color: #4ea5ff;
+}
+
+.timeline-card.category-bookmarks {
+	border-left-color: #5cb85c;
+}
+
+.timeline-card.category-history {
+	border-left-color: #f39c12;
+}
+
+.timeline-card.category-locations {
+	border-left-color: #a569bd;
+}
+
+.timeline-card.category-events {
+	border-left-color: #e74c3c;
+}
+
+/* Header Layout */
+.timeline-card-header {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	font-size: 10px;
+	margin-bottom: 2px;
+}
+
+.timeline-time {
+	font-family: monospace;
+	color: #888888;
+}
+
+.timeline-category-label {
+	text-transform: uppercase;
+	font-size: 9px;
+	color: #666666;
+	margin-left: auto;
+}
+
+/* Title: 3-Line Line-Clamp when not hovering */
+.timeline-card-title {
+	font-weight: 600;
+	color: #ffffff;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	line-height: 1.3;
+}
+
+/* Hidden detail preview panel when collapsed */
+.timeline-card-detail {
+	display: none;
+	margin-top: 6px;
+	padding-top: 6px;
+	border-top: 1px solid #3c3c3c;
+	font-size: 10px;
+	color: #aaaaaa;
+}
+
+.detail-row {
+	margin-bottom: 3px;
+	word-break: break-all;
+}
+
+.detail-link a {
+	color: #4ea5ff;
+	text-decoration: none;
+}
+
+.detail-link a:hover {
+	text-decoration: underline;
+}
+
+/* Absolute Floating Grid Expansion on Hover */
+.timeline-card:hover {
+	position: absolute;
+	z-index: 1000 !important;
+	width: 320px;
+	background: #1e1e1e;
+	border-color: #555555;
+	box-shadow: 0 4px 16px rgba(0, 0, 0, 0.8);
+	z-index: 999;
+}
+
+.timeline-card:hover .timeline-card-title {
+	-webkit-line-clamp: unset;
+	overflow: visible;
+}
+
+.timeline-card:hover .timeline-card-detail {
+	display: block;
+}
+
+/* Allow center panel to scroll vertically when many items stack on the same date */
+.vis-panel.vis-center,
+.vis-panel.vis-left,
+.vis-panel.vis-right {
+	overflow-y: auto !important;
+}
+
+/* Remove default background & borders from vis-item wrapper container */
+.vis-item {
+	background: transparent !important;
+	border: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	max-width: min-content !important;
+	overflow: hidden !important;
+	word-break: break-all !important;
+	overflow-wrap: anywhere !important;
+}
+
+.vis-item:hover {
+	z-index: 10000 !important;
+}
+
+.vis-item.vis-selected {
+	background: transparent !important;
+	border: none !important;
+}
+
+.vis-item .vis-item-content {
+	padding: 0 !important;
+}
+
+/* Ensure timeline card maintains structured width & doesn't overflow horizontally */
+.timeline-card {
+	background: #252526;
+	border: 1px solid #3c3c3c;
+	border-left: 3px solid #0e639c;
+	border-radius: 4px;
+	padding: 4px 8px;
+	width: 220px;
+	box-sizing: border-box;
+	font-size: 11px;
+	color: #cccccc;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+	position: relative;
+	z-index: 1;
+}
+
+/* Card Container (.vis-item-content > div) */
+.vis-item-content>div {
+	background: #252526;
+	border: 1px solid #3c3c3c;
+	border-left: 3px solid #0e639c;
+	border-radius: 4px;
+	padding: 3px 6px;
+	width: 180px;
+	max-width: 180px;
+	box-sizing: border-box;
+	font-size: 11px;
+	color: #cccccc;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+	transition: all 0.2s ease;
+	position: relative;
+	z-index: 1;
+	overflow: hidden;
+	max-height: 6em;
+}
+
+.vis-item-content:hover>div {
+	max-height: 100em;
+}
+
+/* Category Accent Colors Based on Badge/Category Text Content */
+.vis-item.node-commits .vis-item-content>div {
+	border-left-color: #4ea5ff;
+}
+
+.vis-item.node-bookmarks .vis-item-content>div {
+	border-left-color: #5cb85c;
+}
+
+.vis-item.node-history .vis-item-content>div {
+	border-left-color: #f39c12;
+}
+
+.vis-item.node-locations .vis-item-content>div {
+	border-left-color: #a569bd;
+}
+
+.vis-item.node-events .vis-item-content>div {
+	border-left-color: #e74c3c;
+}
+
+/* Header Layout: First Child Div */
+.vis-item-content>div>div:nth-child(1) {
+	display: flex;
+	align-items: center;
+	gap: 5px;
+	font-size: 10px;
+	white-space: nowrap;
+}
+
+/* Badge Circle: First Span */
+.vis-item-content>div>div:nth-child(1)>span:nth-child(1) {
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	display: inline-block;
+	flex-shrink: 0;
+	background-color: #0e639c;
+}
+
+.vis-item.node-commits .vis-item-content>div>div:nth-child(1)>span:nth-child(1) {
+	background-color: #4ea5ff;
+}
+
+.vis-item.node-bookmarks .vis-item-content>div>div:nth-child(1)>span:nth-child(1) {
+	background-color: #5cb85c;
+}
+
+.vis-item.node-history .vis-item-content>div>div:nth-child(1)>span:nth-child(1) {
+	background-color: #f39c12;
+}
+
+.vis-item.node-locations .vis-item-content>div>div:nth-child(1)>span:nth-child(1) {
+	background-color: #a569bd;
+}
+
+.vis-item.node-events .vis-item-content>div>div:nth-child(1)>span:nth-child(1) {
+	background-color: #e74c3c;
+}
+
+/* Timestamp: Second Span */
+.vis-item-content>div>div:nth-child(1)>span:nth-child(2) {
+	font-family: monospace;
+	color: #888888;
+	font-size: 10px;
+}
+
+/* Category Text Label: Third Span */
+.vis-item-content>div>div:nth-child(1)>span:nth-child(3) {
+	text-transform: uppercase;
+	font-size: 8px;
+	color: #666666;
+	margin-left: auto;
+}
+
+/* Title Line: Second Child Div */
+.vis-item-content>div>div:nth-child(2) {
+	font-weight: 600;
+	color: #ffffff;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	line-height: 1.2;
+	margin-top: 2px;
+}
+
+/* Details Expansion Panel: Third Child Div */
+.vis-item-content>div>div:nth-child(3) {
+	display: none;
+	margin-top: 4px;
+	padding-top: 4px;
+	border-top: 1px solid #3c3c3c;
+	font-size: 10px;
+	color: #aaaaaa;
+}
+
+/* Detail Rows & Links */
+.vis-item-content>div>div:nth-child(3)>div {
+	margin-bottom: 3px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	max-width: 100%;
+}
+
+.vis-item-content a[href] {
+	color: #4ea5ff;
+	text-decoration: none;
+	display: inline-block;
+	max-width: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: bottom;
+}
+
+.vis-item-content a[href]:hover {
+	text-decoration: underline;
+}
+
+/* Hover Expansion State */
+.vis-item-content>div:hover {
+	/* position: absolute; */
+	z-index: 1000;
+	width: 280px;
+	max-width: 280px;
+	background: #1e1e1e;
+	border-color: #555555;
+	box-shadow: 0 4px 16px rgba(0, 0, 0, 0.8);
+}
+
+.vis-item-content>div:hover>div:nth-child(2) {
+	white-space: normal;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+.vis-item-content>div:hover>div:nth-child(3) {
+	display: block;
+}
+
+.vis-item-content>div:hover>div:nth-child(3)>div {
+	white-space: normal;
+	word-break: break-all;
+}
+
+/* Force Vis items to span full column width */
+.vis-item {
+	background: transparent !important;
+	border: none !important;
+	box-shadow: none !important;
+	width: 100% !important;
+}
+
+.vis-item .vis-item-content {
+	/* width: 100% !important; */
+	width: min-content;
+	box-sizing: border-box;
+	padding: 1px 2px !important;
+}
+
+/* Inner Card Container fills the day column width */
+.vis-item-content-wrapper {
+	background: #252526;
+	border: 1px solid #3c3c3c;
+	border-left: 3px solid #0e639c;
+	border-radius: 3px;
+	padding: 3px 6px;
+	width: 100%;
+	box-sizing: border-box;
+	font-size: 11px;
+	color: #cccccc;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+	transition: background 0.15s ease;
+}
+
+/* Category Accent Borders */
+.vis-item.node-commits .vis-item-content-wrapper {
+	border-left-color: #4ea5ff;
+}
+
+.vis-item.node-bookmarks .vis-item-content-wrapper {
+	border-left-color: #5cb85c;
+}
+
+.vis-item.node-history .vis-item-content-wrapper {
+	border-left-color: #f39c12;
+}
+
+.vis-item.node-locations .vis-item-content-wrapper {
+	border-left-color: #a569bd;
+}
+
+.vis-item.node-events .vis-item-content-wrapper {
+	border-left-color: #e74c3c;
+}
+
+/* Header Row */
+.vis-item-content-wrapper>div:nth-child(1) {
+	display: flex;
+	align-items: center;
+	gap: 4px;
+	font-size: 10px;
+	white-space: nowrap;
+}
+
+/* Badge Circle */
+.vis-item-content-wrapper>div:nth-child(1)>span:nth-child(1) {
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	display: inline-block;
+	flex-shrink: 0;
+}
+
+.vis-item.node-commits .vis-item-content-wrapper>div:nth-child(1)>span:nth-child(1) {
+	background-color: #4ea5ff;
+}
+
+.vis-item.node-bookmarks .vis-item-content-wrapper>div:nth-child(1)>span:nth-child(1) {
+	background-color: #5cb85c;
+}
+
+.vis-item.node-history .vis-item-content-wrapper>div:nth-child(1)>span:nth-child(1) {
+	background-color: #f39c12;
+}
+
+.vis-item.node-locations .vis-item-content-wrapper>div:nth-child(1)>span:nth-child(1) {
+	background-color: #a569bd;
+}
+
+.vis-item.node-events .vis-item-content-wrapper>div:nth-child(1)>span:nth-child(1) {
+	background-color: #e74c3c;
+}
+
+/* Time Label */
+.vis-item-content-wrapper>div:nth-child(1)>span:nth-child(2) {
+	font-family: monospace;
+	color: #888888;
+	font-size: 10px;
+}
+
+/* Category Label */
+.vis-item-content-wrapper>div:nth-child(1)>span:nth-child(3) {
+	text-transform: uppercase;
+	font-size: 8px;
+	color: #666666;
+	margin-left: auto;
+}
+
+/* Title Line */
+.vis-item-content-wrapper>div:nth-child(2) {
+	font-weight: 600;
+	color: #ffffff;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	line-height: 1.2;
+	margin-top: 1px;
+}
+
+/* Dynamic Key-Value Grid Layout */
+.detail-grid {
+	display: grid;
+	grid-template-columns: minmax(70px, max-content) 1fr;
+	gap: 3px 8px;
+	font-size: 10px;
+	line-height: 1.3;
+	padding-top: 4px;
+	margin-top: 4px;
+	border-top: 1px solid #3c3c3c;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.grid-cell.key {
+	font-weight: 600;
+	color: #888888;
+	text-align: right;
+	white-space: nowrap;
+	user-select: none;
+}
+
+.grid-cell.val {
+	color: #dddddd;
+	word-break: break-all;
+	overflow-wrap: anywhere;
+}
+
+.grid-cell.val a {
+	color: #4ea5ff;
+	text-decoration: none;
+}
+
+.grid-cell.val a:hover {
+	text-decoration: underline;
+}
+
+.grid-cell.val code {
+	font-family: monospace;
+	font-size: 9px;
+	background: #1e1e1e;
+	padding: 1px 3px;
+	border-radius: 2px;
+	color: #ce9178;
+}
+
+/* Array Pill Formatting */
+.grid-pill-container {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2px;
+}
+
+.grid-pill {
+	background: #3c3c3c;
+	color: #cccccc;
+	font-size: 9px;
+	padding: 1px 4px;
+	border-radius: 2px;
+	white-space: nowrap;
+}
+
+.grid-pill-more {
+	font-size: 9px;
+	color: #888888;
+	align-self: center;
+}
+
+.detail-raw {
+	font-size: 10px;
+	color: #aaaaaa;
+	word-break: break-all;
+}
+
+/* Container reset for definition list */
+.vis-item-content:hover dl {
+	display: grid !important;
+}
+
+.vis-item-content dl {
+	display: none !important;
+	grid-template-columns: minmax(65px, max-content) 1fr !important;
+	gap: 3px 8px !important;
+	font-size: 10px !important;
+	margin: 4px 0 0 0 !important;
+	padding-top: 4px !important;
+	border-top: 1px solid #3c3c3c !important;
+}
+
+.vis-item-content dt {
+	font-weight: 600 !important;
+	color: #888888 !important;
+	text-align: right !important;
+	white-space: nowrap !important;
+}
+
+.vis-item-content dd {
+	color: #dddddd !important;
+	word-break: break-all !important;
+	overflow-wrap: anywhere !important;
+	margin: 0 !important;
+}
+
+.vis-item-content a[href]:hover {
+	text-decoration: underline !important;
+}
+
+/* Left Group Column Styling */
+.vis-panel.vis-left {
+	background: #252526 !important;
+	border-right: 1px solid #3c3c3c !important;
+	width: 60px !important;
+}
+
+.vis-labelset .vis-label {
+	background: #252526 !important;
+	border-bottom: 1px solid #2a2a2a !important;
+	border-right: 1px solid #3c3c3c !important;
+	color: #aaaaaa !important;
+	display: flex !important;
+	align-items: center !important;
+	justify-content: flex-end !important;
+	padding-right: 8px !important;
+	box-sizing: border-box !important;
+}
+
+/* Allow Vertical Scrolling Across 24 Hour Swimlanes */
+.vis-panel.vis-center,
+.vis-panel.vis-left {
+	overflow-y: auto !important;
+}
+
+/* Row Horizontal Separator Grid Lines */
+.vis-foreground .vis-group {
+	border-bottom: 1px solid #2a2a2a !important;
+}
+
+/* Allow container viewport to shrink and scroll cleanly */
+.timeline-viewport-container {
+	flex: 1;
+	width: 100%;
+	height: 100%;
+	overflow-y: auto;
+	/* Automatically displays scrollbars only when item density requires it */
+}
+
+/* Direct top-level .vis-item styling via className API */
+.timeline-summary-node {
+	z-index: 10 !important;
+}
+
+.vis-item.timeline-summary-node .vis-item-content {
+	padding: 1px !important;
+}
+
+/* Visual Stacked Card Effect behind Summary Nodes */
+.vis-item.timeline-summary-node::before {
+	content: '';
+	position: absolute;
+	top: -2px;
+	left: 4px;
+	right: 4px;
+	height: 100%;
+	background: #2d3748;
+	border: 1px solid #4a5568;
+	border-radius: 3px;
+	z-index: -1;
+}
+
+.vis-item.timeline-summary-node::after {
+	content: '';
+	position: absolute;
+	top: -4px;
+	left: 8px;
+	right: 8px;
+	height: 100%;
+	background: #1a202c;
+	border: 1px solid #2d3748;
+	border-radius: 3px;
+	z-index: -2;
+}
+
+/* Hover expansion for summary list */
+.vis-item.timeline-summary-node:hover ul {
+	max-height: none !important;
+	overflow: visible !important;
+}
+
+/* Container Viewport: Hide outer Lumino scrollbars */
+.timeline-viewport-container {
+	flex: 1;
+	width: 100%;
+	height: auto;
+	/* Prevents double scrollbar detachment */
+	position: relative;
+}
+
+/* Vis Timeline Root Container */
+.vis-timeline {
+	border: none !important;
+	background: #1e1e1e !important;
+	height: 100% !important;
+}
+
+/* Left Group Label Column Styling */
+.vis-panel.vis-left {
+	background: #252526 !important;
+	border-right: 1px solid #3c3c3c !important;
+	width: 55px !important;
+}
+
+.vis-labelset .vis-label {
+	background: #252526 !important;
+	border-bottom: 1px solid #2a2a2a !important;
+	border-right: 1px solid #3c3c3c !important;
+	color: #aaaaaa !important;
+	display: flex !important;
+	align-items: center !important;
+	justify-content: flex-end !important;
+	padding-right: 8px !important;
+	box-sizing: border-box !important;
+}
+
+/* Synchronized Scroll Lock: Ensure left and center panels DO NOT scroll independently */
+.vis-panel.vis-center,
+.vis-panel.vis-left {
+	overflow-y: hidden !important;
+	/* Handled by Vis vertical scrollbar wrapper */
+}
+
+/* Ensure Vis's internal synchronized scroll container handles overflow */
+.vis-panel.vis-vertical-scroll {
+	background: #1e1e1e !important;
+}
+
+/* Custom Dark Scrollbar styling for Vis Vertical Scrollbar */
+.vis-panel.vis-vertical-scroll::-webkit-scrollbar {
+	width: 8px;
+	background-color: #1e1e1e;
+}
+
+.vis-panel.vis-vertical-scroll::-webkit-scrollbar-thumb {
+	background-color: #3c3c3c;
+	border-radius: 4px;
+}
+
+.vis-panel.vis-vertical-scroll::-webkit-scrollbar-thumb:hover {
+	background-color: #555555;
+}

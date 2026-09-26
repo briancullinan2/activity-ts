@@ -1,0 +1,1013 @@
+{
+  "yearMonth": "2023-10",
+  "generatedAt": "2026-09-24T02:37:24.646Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-10-28": {
+          "date": "2023-10-28",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "634802b88064b2d215f943c0b78b2ec18aa3001a",
+              "author": "Brian Cullinan",
+              "date": "2023-10-28T17:26:15.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 16,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-10-17": {
+          "date": "2023-10-17",
+          "heatScore": 12,
+          "linesChanged": 33,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "f3d5e257a30c6c0d1eb57e19bd56de456ef57be3",
+              "author": "Brian Cullinan",
+              "date": "2023-10-17T23:40:30.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 18,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-10-16": {
+          "date": "2023-10-16",
+          "heatScore": 14,
+          "linesChanged": 73,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "0344fef5d59aa67ce6dbece28b23afd2c643f3a6",
+              "author": "Brian Cullinan",
+              "date": "2023-10-16T21:12:32.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 37,
+              "linesDeleted": 36,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-10-15": {
+          "date": "2023-10-15",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "f516c94a535bfc0c43476c81e7de5e12276bc4b9",
+              "author": "Brian Cullinan",
+              "date": "2023-10-15T22:18:15.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 15,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-10-14": {
+          "date": "2023-10-14",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "460b21fa3bd0329b11f03b9d9b963563b5e5b73b",
+              "author": "Brian Cullinan",
+              "date": "2023-10-14T08:42:05.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 5,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-10-13": {
+          "date": "2023-10-13",
+          "heatScore": 14,
+          "linesChanged": 73,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "881eba7934e9489698e003b9d9fe1d6d7f040dec",
+              "author": "Brian Cullinan",
+              "date": "2023-10-13T19:33:26.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 38,
+              "linesDeleted": 35,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-10-12": {
+          "date": "2023-10-12",
+          "heatScore": 13,
+          "linesChanged": 50,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "4bc9523f1ad11c6e5ff89f586ee5fe9c19cc68a5",
+              "author": "Brian Cullinan",
+              "date": "2023-10-12T15:19:34.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 18,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-10-10": {
+          "date": "2023-10-10",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "2dacede5bbb4bb537db7a08e38b0d7b6e57cd6db",
+              "author": "Brian Cullinan",
+              "date": "2023-10-10T16:35:05.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 23,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-10-08": {
+          "date": "2023-10-08",
+          "heatScore": 14,
+          "linesChanged": 74,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "76428d6698fcf1d49334963618354d6f393b8ccb",
+              "author": "Brian Cullinan",
+              "date": "2023-10-08T14:51:37.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 37,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-10-07": {
+          "date": "2023-10-07",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "da507dc42697d346c8a22254eced1d1ef7977661",
+              "author": "Brian Cullinan",
+              "date": "2023-10-07T16:14:22.000Z",
+              "message": "auto-update",
+              "linesAdded": 4,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-10-02": {
+          "date": "2023-10-02",
+          "heatScore": 15,
+          "linesChanged": 76,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "56f5696c4e336c1a1cd79c89937ca86c4c5155b7",
+              "author": "Brian Cullinan",
+              "date": "2023-10-02T02:30:30.000Z",
+              "message": "auto-update",
+              "linesAdded": 38,
+              "linesDeleted": 38,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-10-01": {
+          "date": "2023-10-01",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "93134928b84108263eacac4c343217fff32ef887",
+              "author": "Brian Cullinan",
+              "date": "2023-10-01T13:02:11.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-10-31": {
+          "date": "2023-10-31",
+          "heatScore": 100,
+          "linesChanged": 1992,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/models/diffusion/__init__.py",
+            "comfy/ldm/models/diffusion/ddim.py",
+            "comfy/ldm/models/diffusion/dpm_solver/__init__.py",
+            "comfy/ldm/models/diffusion/dpm_solver/dpm_solver.py",
+            "comfy/ldm/models/diffusion/dpm_solver/sampler.py",
+            "comfy/ldm/models/diffusion/plms.py",
+            "comfy/ldm/models/diffusion/sampling_util.py",
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "a268a574fab025deed91f5201910ac052132c42c",
+              "author": "comfyanonymous",
+              "date": "2023-10-31T22:11:29.000Z",
+              "message": "Remove a bunch of useless code.",
+              "linesAdded": 7,
+              "linesDeleted": 1985,
+              "filesChanged": [
+                "comfy/ldm/models/diffusion/__init__.py",
+                "comfy/ldm/models/diffusion/ddim.py",
+                "comfy/ldm/models/diffusion/dpm_solver/__init__.py",
+                "comfy/ldm/models/diffusion/dpm_solver/dpm_solver.py",
+                "comfy/ldm/models/diffusion/dpm_solver/sampler.py",
+                "comfy/ldm/models/diffusion/plms.py",
+                "comfy/ldm/models/diffusion/sampling_util.py",
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-30": {
+          "date": "2023-10-30",
+          "heatScore": 12,
+          "linesChanged": 35,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/attention.py"
+          ],
+          "commits": [
+            {
+              "hash": "c837a173fab41b7132a72ab01b256b714bd6adb2",
+              "author": "comfyanonymous",
+              "date": "2023-10-30T19:29:45.000Z",
+              "message": "Fix some memory issues in sub quad attention.",
+              "linesAdded": 11,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "comfy/ldm/modules/attention.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-29": {
+          "date": "2023-10-29",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "latent_preview.py"
+          ],
+          "commits": [
+            {
+              "hash": "41b07ff8d7807292b56147e12347ab96972c9406",
+              "author": "Jedrzej Kosinski",
+              "date": "2023-10-29T18:30:23.000Z",
+              "message": "Fix TAESD preview to only decode first latent, instead of all",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "latent_preview.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-28": {
+          "date": "2023-10-28",
+          "heatScore": 11,
+          "linesChanged": 26,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/pnginfo.js"
+          ],
+          "commits": [
+            {
+              "hash": "aac8fc99d6a06e9e3b4c0689c1fff3d379dd0672",
+              "author": "comfyanonymous",
+              "date": "2023-10-28T16:24:50.000Z",
+              "message": "Cleanup webp import code a bit.",
+              "linesAdded": 11,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "web/scripts/pnginfo.js"
+              ]
+            }
+          ]
+        },
+        "2023-10-27": {
+          "date": "2023-10-27",
+          "heatScore": 16,
+          "linesChanged": 99,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/lora.py",
+            "comfy/sd1_clip.py",
+            "comfy/sd2_clip.py",
+            "comfy/sdxl_clip.py",
+            "comfy/supported_models.py"
+          ],
+          "commits": [
+            {
+              "hash": "e60ca6929a999f53a4eeb62cc80f70b1cd7a0acf",
+              "author": "comfyanonymous",
+              "date": "2023-10-27T19:54:04.000Z",
+              "message": "SD1 and SD2 clip and tokenizer code is now more similar to the SDXL one.",
+              "linesAdded": 69,
+              "linesDeleted": 30,
+              "filesChanged": [
+                "comfy/lora.py",
+                "comfy/sd1_clip.py",
+                "comfy/sd2_clip.py",
+                "comfy/sdxl_clip.py",
+                "comfy/supported_models.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-26": {
+          "date": "2023-10-26",
+          "heatScore": 12,
+          "linesChanged": 42,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js",
+            "web/scripts/ui.js"
+          ],
+          "commits": [
+            {
+              "hash": "40963b5a16f717a636c98dae0055224938852c6a",
+              "author": "comfyanonymous",
+              "date": "2023-10-26T23:52:41.000Z",
+              "message": "Apply primitive nodes to graph before serializing workflow.",
+              "linesAdded": 25,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "web/scripts/app.js",
+                "web/scripts/ui.js"
+              ]
+            }
+          ]
+        },
+        "2023-10-25": {
+          "date": "2023-10-25",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/extra_samplers/uni_pc.py"
+          ],
+          "commits": [
+            {
+              "hash": "7fbb217d3a46fc117dd78b90191e528139fb851a",
+              "author": "comfyanonymous",
+              "date": "2023-10-25T20:08:30.000Z",
+              "message": "Fix uni_pc returning noisy image when steps <= 3",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/extra_samplers/uni_pc.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-24": {
+          "date": "2023-10-24",
+          "heatScore": 17,
+          "linesChanged": 107,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "3fce8881ca0f24e268fac1dc6e85d2b4cbdb0355",
+              "author": "comfyanonymous",
+              "date": "2023-10-24T07:38:41.000Z",
+              "message": "Sampling code refactor to make it easier to add more conds.",
+              "linesAdded": 65,
+              "linesDeleted": 42,
+              "filesChanged": [
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-23": {
+          "date": "2023-10-23",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "2ec6158e9e10cc5e1cc4b27b2930b75167db20de",
+              "author": "comfyanonymous",
+              "date": "2023-10-23T03:38:18.000Z",
+              "message": "Call widget callback on value control to fix primitive node issue.",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2023-10-22": {
+          "date": "2023-10-22",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "8594c8be4d8c0d7c9b5eb3d69d0c96cc80cffcc4",
+              "author": "comfyanonymous",
+              "date": "2023-10-22T17:53:59.000Z",
+              "message": "Empty the cache when torch cache is more than 25% free mem.",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-21": {
+          "date": "2023-10-21",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/attention.py"
+          ],
+          "commits": [
+            {
+              "hash": "9906e3efe31a0fc399262766da33c210fb4e8215",
+              "author": "comfyanonymous",
+              "date": "2023-10-21T17:23:03.000Z",
+              "message": "Make xformers work with hypertile.",
+              "linesAdded": 7,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy/ldm/modules/attention.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-20": {
+          "date": "2023-10-20",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/nodeTemplates.js"
+          ],
+          "commits": [
+            {
+              "hash": "484bfe46c21cf108a687b579354b5996f867a4f7",
+              "author": "Jairo Correa",
+              "date": "2023-10-20T18:19:29.000Z",
+              "message": "Clear importInput after import so change event works with same file",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "web/extensions/core/nodeTemplates.js"
+              ]
+            }
+          ]
+        },
+        "2023-10-19": {
+          "date": "2023-10-19",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "f1062be622eab6f989d2020f2c96cfff4f53c724",
+              "author": "Dr.Lt.Data",
+              "date": "2023-10-19T15:07:08.000Z",
+              "message": "fix: Fixing intermittent crashes with undefined graphs in the Firefox browser.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-10-18": {
+          "date": "2023-10-18",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/clip_vision.py",
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "430a8334c500e00fb3b222082c6018cfcbc938aa",
+              "author": "comfyanonymous",
+              "date": "2023-10-18T23:48:36.000Z",
+              "message": "Fix some potential issues.",
+              "linesAdded": 9,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy/clip_vision.py",
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-17": {
+          "date": "2023-10-17",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/nodeTemplates.js"
+          ],
+          "commits": [
+            {
+              "hash": "a5550747370984714caa859c1c58cd77f43f9008",
+              "author": "Jairo Correa",
+              "date": "2023-10-17T22:44:26.000Z",
+              "message": "Use name from input to export single node template",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/extensions/core/nodeTemplates.js"
+              ]
+            }
+          ]
+        },
+        "2023-10-16": {
+          "date": "2023-10-16",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "c8013f73e57b27f8e89d96a13d806d4340bd48a0",
+              "author": "comfyanonymous",
+              "date": "2023-10-16T20:46:41.000Z",
+              "message": "Add some Quadro cards to the list of cards with broken fp16.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-15": {
+          "date": "2023-10-15",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "7e09e889e3d52eaa0e51144e6257e3baa2f9349e",
+              "author": "comfyanonymous",
+              "date": "2023-10-15T06:22:22.000Z",
+              "message": "Make clear that the old CheckpointLoader is deprecated.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-14": {
+          "date": "2023-10-14",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "folder_paths.py"
+          ],
+          "commits": [
+            {
+              "hash": "2231edec21fadcfddea6ae627318f5a2bd88dd63",
+              "author": "comfyanonymous",
+              "date": "2023-10-14T18:30:24.000Z",
+              "message": "Merge branch 'filter-files-extensions' of https://github.com/jn-jairo/ComfyUI",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "folder_paths.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-13": {
+          "date": "2023-10-13",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "fd4c5f07e7b4d034c7f9fa96d6853f4aeec7b2de",
+              "author": "comfyanonymous",
+              "date": "2023-10-13T18:51:10.000Z",
+              "message": "Add a --bf16-unet to test running the unet in bf16.",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-12": {
+          "date": "2023-10-12",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "extra_model_paths.yaml.example"
+          ],
+          "commits": [
+            {
+              "hash": "851a4bdb803871d62ceca4249036da34449891ed",
+              "author": "Nick Teeple",
+              "date": "2023-10-12T13:26:27.000Z",
+              "message": "Update extra_model_paths.yaml.example with comfy specific example",
+              "linesAdded": 15,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "extra_model_paths.yaml.example"
+              ]
+            }
+          ]
+        },
+        "2023-10-11": {
+          "date": "2023-10-11",
+          "heatScore": 48,
+          "linesChanged": 581,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/attention.py",
+            "comfy/ldm/modules/diffusionmodules/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "1a4bd9e9a6fc2b364ebb547dbd80736548cf9f5c",
+              "author": "comfyanonymous",
+              "date": "2023-10-11T19:47:53.000Z",
+              "message": "Refactor the attention functions.",
+              "linesAdded": 201,
+              "linesDeleted": 380,
+              "filesChanged": [
+                "comfy/ldm/modules/attention.py",
+                "comfy/ldm/modules/diffusionmodules/model.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-10": {
+          "date": "2023-10-10",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "be903eb2e2921f03a3a03dc9d6b0c6437ae201f5",
+              "author": "comfyanonymous",
+              "date": "2023-10-10T05:25:47.000Z",
+              "message": "Add default CheckpointSave, CLIPSave and VAESave paths to model paths.",
+              "linesAdded": 5,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-09": {
+          "date": "2023-10-09",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "folder_paths.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "d1a0abd40b86f3f079b0cc71e49f9f4604831457",
+              "author": "comfyanonymous",
+              "date": "2023-10-09T05:53:29.000Z",
+              "message": "Merge branch 'input-directory' of https://github.com/jn-jairo/ComfyUI",
+              "linesAdded": 10,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "folder_paths.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-08": {
+          "date": "2023-10-08",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_compositing.py"
+          ],
+          "commits": [
+            {
+              "hash": "c16f5744e306fb042363767d771da68929f088d8",
+              "author": "comfyanonymous",
+              "date": "2023-10-08T19:52:10.000Z",
+              "message": "Fix SplitImageWithAlpha and JoinImageWithAlpha.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy_extras/nodes_compositing.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-07": {
+          "date": "2023-10-07",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "1c5d6663faf1a33e00ec67240167b174a9cac655",
+              "author": "comfyanonymous",
+              "date": "2023-10-07T20:13:35.000Z",
+              "message": "Update standalone download link.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2023-10-06": {
+          "date": "2023-10-06",
+          "heatScore": 11,
+          "linesChanged": 27,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/widgetInputs.js"
+          ],
+          "commits": [
+            {
+              "hash": "ae3e4e9ad821c12b955f6b2343e6255e6d71eaf7",
+              "author": "pythongosssss",
+              "date": "2023-10-06T20:48:30.000Z",
+              "message": "access getConfig via a symbol so structuredClone works (#1677)",
+              "linesAdded": 14,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "web/extensions/core/widgetInputs.js"
+              ]
+            }
+          ]
+        },
+        "2023-10-05": {
+          "date": "2023-10-05",
+          "heatScore": 37,
+          "linesChanged": 408,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/widgetInputs.js",
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "11b404766e88e7609f6eab7e6784380374eb6c65",
+              "author": "comfyanonymous",
+              "date": "2023-10-05T18:20:47.000Z",
+              "message": "Merge branch 'widget-input-updates' of https://github.com/pythongosssss/ComfyUI",
+              "linesAdded": 330,
+              "linesDeleted": 78,
+              "filesChanged": [
+                "web/extensions/core/widgetInputs.js",
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-10-04": {
+          "date": "2023-10-04",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "folder_paths.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "63e5fd17907fa2100725d6d46053084c14065232",
+              "author": "Jairo Correa",
+              "date": "2023-10-04T22:45:15.000Z",
+              "message": "Option to input directory",
+              "linesAdded": 10,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "folder_paths.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-03": {
+          "date": "2023-10-03",
+          "heatScore": 21,
+          "linesChanged": 179,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/widgetInputs.js",
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "6fc73143934028771466f76818ebef3219bb1793",
+              "author": "pythongosssss",
+              "date": "2023-10-03T19:19:12.000Z",
+              "message": "support refreshing primitive combos no longer uses combo list as type name",
+              "linesAdded": 136,
+              "linesDeleted": 43,
+              "filesChanged": [
+                "web/extensions/core/widgetInputs.js",
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-10-02": {
+          "date": "2023-10-02",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "ec454c771b8c2007fbf08602a3205bacd96272a6",
+              "author": "comfyanonymous",
+              "date": "2023-10-02T21:26:59.000Z",
+              "message": "Refactor with code from comment of #1588",
+              "linesAdded": 19,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-10-01": {
+          "date": "2023-10-01",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_custom_sampler.py"
+          ],
+          "commits": [
+            {
+              "hash": "2ef459b1d4d627929c84d11e5e0cbe3ded9c9f48",
+              "author": "comfyanonymous",
+              "date": "2023-10-01T07:48:07.000Z",
+              "message": "Add VPScheduler node",
+              "linesAdded": 20,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_custom_sampler.py"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

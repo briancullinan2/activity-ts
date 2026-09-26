@@ -1,0 +1,70 @@
+[
+	{
+		"id": "2008-03-16-mfg-now-in-3d",
+		"title": "MFG Now in 3D: Matrix Math Lag, 12-Piece Sprites & Perspective Debugging",
+		"date": "2008-03-16T13:42:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Gaming",
+			"Software Architecture",
+			"Game Dev"
+		],
+		"tags": [
+			"game-dev",
+			"3d-engine",
+			"mfg",
+			"perspective-projection",
+			"matrix-math",
+			"slagcore",
+			"fps-lag"
+		],
+		"summary": "Achieving perspective projection in a custom game engine, coping with CPU-bound 3D matrix math lag at 60 FPS, and planning multi-jointed 2D paper-doll character models.",
+		"content_html": "<article class=\"blog-post\"><header><h1>MFG Now in 3D: Matrix Math Lag, 12-Piece Sprites & Perspective Debugging</h1><p class=\"byline\">Published on March 16, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_8348833339209307707\" alt=\"Retro 3D game engine wireframe perspective projection\" class=\"hero-image\"/><p class=\"caption\">Faking 3D perspective projection in software before hardware acceleration saved the day.</p></div>&lt section class=\"post-body\"><p>I've finally forced pseudo-3D perspective into my game engine. The projection vectors actually line up without warping, which means I can start assembling player entities using modular 2D sprite segments (think 12 tiny image parts connected at the shoulders and waist).</p><h2>The Performance Wall</h2><p>My major headache is raw frame rate. Software-calculating 144 tile points 60 times per second in Slagcore is causing noticeable frame stutter—proving once again that running matrix transformations in un-optimized script layers instead of native code will crush your engine before you even place your first enemy.</p><h2>Development TODO List</h2><ul><li><strong>Entity Models:</strong> Slice character sprites into modular joint pieces.</li><li><strong>Wall Collisions:</strong> Handle entity-to-environment spatial bounding box hitboxes.</li><li><strong>Culling System:</strong> Implement a 2D array for dead entities to skip rendering off-screen objects.</li></ul></section></article>",
+		"modern_insight_2026": "Sweating over 144 CPU matrix calculations per frame at 60 FPS in 2008 is hilarious given today's WebGPU and SIMD shaders handle millions of vertex transformations per millisecond without kicking the fan on."
+	},
+	{
+		"id": "2008-03-10-progress-on-my-first-game",
+		"title": "Progress on My First Game: Quadrant Collision Culling & Attract Mode Replays",
+		"date": "2008-03-10T13:29:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Gaming",
+			"Software Architecture",
+			"Game Dev"
+		],
+		"tags": [
+			"game-dev",
+			"collision-detection",
+			"quadrant-culling",
+			"binary-serialization",
+			"attract-mode",
+			"mfg"
+		],
+		"summary": "Optimizing spatial bounding boxes with quadrant collision culling, building a lightning-fast binary playback mode for attract screens, and faking 3D depth with stretched 5-sided box textures.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Progress on My First Game: Quadrant Collision Culling & Attract Mode Replays</h1><p class=\"byline\">Published on March 10, 2008 by <strong>Brian Cullinan</strong></p></header><section class=\"post-body\"><p>Wall collision detection is finally running smoothly by restricting bounding box checks strictly to tiles in the player's active quadrant. On the flip side, landscape rendering looks mediocre, so I'm considering faking 3D environments using 5-sided box projections that scale texture coordinates based on distance from the camera center.</p><h2>Major Engineering Wins</h2><ul><li><strong>Binary Serialization:</strong> Built a binary input recorder that streams player input to disk, allowing instant, zero-overhead attract-mode demo replays on the main menu.</li><li><strong>Spatial Partitioning:</strong> Eliminating off-quadrant collision passes saved enough CPU cycles to keep movement fluid.</li></ul></section></article>",
+		"modern_insight_2026": "Building a custom binary input recorder for arcade-style attract modes before fixing basic spatial collision checks is the purest expression of game dev priorities."
+	},
+	{
+		"id": "2008-03-07-i-have-standards-how-about-you",
+		"title": "I Have Standards, How 'Bout You? XHTML Compliance & The CDATA Hack",
+		"date": "2008-03-07T14:03:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Web Dev",
+			"Standards",
+			"XHTML"
+		],
+		"tags": [
+			"xhtml",
+			"w3c",
+			"web-standards",
+			"ampersand-escaping",
+			"cdata",
+			"self-closing-tags",
+			"slashdot"
+		],
+		"summary": "Ranting about prominent tech sites like Slashdot failing W3C XHTML validation, self-closing tag rules, ampersand escaping in URLs, and inline script CDATA comment blocks.",
+		"content_html": "<article class=\"blog-post\"><header><h1>I Have Standards, How 'Bout You? XHTML Compliance & The CDATA Hack</h1><p class=\"byline\">Published on March 7, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_8348833339209309206\" alt=\"W3C Valid XHTML 1.1 validator badge\" class=\"hero-image\"/><p class=\"caption\">The ultimate late-2000s web dev flex: the green W3C Valid XHTML 1.1 badge.</p></div><section class=\"post-body\"><p>Across the web, far too few sites bother to pass W3C XHTML validation. It’s downright embarrassing when flagship tech destinations like Slashdot fail basic well-formed XML syntax checks.</p><h2>Common XML Syntax Sins</h2><ul><li><strong>Unescaped Ampersands:</strong> Raw <code>&amp;</code> characters in hyperlink query strings break XML parsers. Use <code>&amp;amp;</code> everywhere!</li><li><strong>Unclosed Void Elements:</strong> Tags like <code>&lt;img&gt;</code>, <code>&lt;input&gt;</code>, and <code>&lt;br&gt;</code> must strictly end with a self-closing slash (<code>&lt;br /&gt;</code>).</li><li><strong>Inline Script Leaks:</strong> If you insist on putting JavaScript in body templates, wrap it in CDATA comment blocks (<code>//&lt;![CDATA[ ... //]]&gt;</code>) so the W3C validator treats it as an unparsed string.</li></ul></section></article>",
+		"modern_insight_2026": "In 2008, developers would lose sleep over missing self-closing slashes on `&lt;html&gt;` tags to earn a W3C badge. Today, HTML5 forgiving parsers and JSX/TSX build tools handle node validation automatically behind the scenes."
+	}
+]

@@ -1,0 +1,1140 @@
+{
+  "yearMonth": "2026-01",
+  "generatedAt": "2026-09-24T02:37:24.586Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-01-24": {
+          "date": "2026-01-24",
+          "heatScore": 100,
+          "linesChanged": 4168,
+          "commitCount": 1,
+          "filesEdited": [
+            "bookmarks.js",
+            "docs/index.html",
+            "package-lock.json",
+            "utilities.js"
+          ],
+          "commits": [
+            {
+              "hash": "5bd7c88e5512c375de73ff02600fc19ede336b1e",
+              "author": "Brian Cullinan",
+              "date": "2026-01-24T02:15:31.000Z",
+              "message": "auto-update",
+              "linesAdded": 2477,
+              "linesDeleted": 1691,
+              "filesChanged": [
+                "bookmarks.js",
+                "docs/index.html",
+                "package-lock.json",
+                "utilities.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-01-26": {
+          "date": "2026-01-26",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_combat.c",
+            "code/game/g_local.h",
+            "code/game/g_missile.c"
+          ],
+          "commits": [
+            {
+              "hash": "74a272022eb9c0d4638ebc2e0bbe21c9cec1c103",
+              "author": "WofWca",
+              "date": "2026-01-26T09:18:34.000Z",
+              "message": "fix: look at explosion on suicide, fix FF for mine",
+              "linesAdded": 5,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "code/game/g_combat.c",
+                "code/game/g_local.h",
+                "code/game/g_missile.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-01-31": {
+          "date": "2026-01-31",
+          "heatScore": 100,
+          "linesChanged": 4309,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "c64f74918943d57bca21572cff6f05eec195d8a9",
+              "author": "Igor Zinken",
+              "date": "2026-01-31T08:33:45.000Z",
+              "message": "Package updates",
+              "linesAdded": 2465,
+              "linesDeleted": 1844,
+              "filesChanged": [
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-01-30": {
+          "date": "2026-01-30",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_mahiro.py"
+          ],
+          "commits": [
+            {
+              "hash": "4528ff9870bae19f030f23ba079739737b8dc129",
+              "author": "bymyself",
+              "date": "2026-01-30T05:09:50.000Z",
+              "message": "refactor: rename Mahiro CFG to Similarity-Adaptive Guidance",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_mahiro.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-31": {
+          "date": "2026-01-31",
+          "heatScore": 86,
+          "linesChanged": 1147,
+          "commitCount": 1,
+          "filesEdited": [
+            "blueprints/.glsl/Brightness_and_Contrast_1.frag",
+            "blueprints/.glsl/Chromatic_Aberration_16.frag",
+            "blueprints/.glsl/Color_Adjustment_15.frag",
+            "blueprints/.glsl/Film_Grain_15.frag",
+            "blueprints/.glsl/Glow_30.frag",
+            "blueprints/.glsl/Hue_and_Saturation_1.frag",
+            "blueprints/.glsl/Image_Blur_1.frag",
+            "blueprints/.glsl/Image_Channels_23.frag",
+            "blueprints/.glsl/Image_Levels_1.frag",
+            "blueprints/.glsl/README.md",
+            "blueprints/.glsl/Sharpen_23.frag",
+            "blueprints/.glsl/Unsharp_Mask_26.frag",
+            "blueprints/.glsl/update_blueprints.py"
+          ],
+          "commits": [
+            {
+              "hash": "b4afa4d52b17d03ee357add8286d3aa21e6ecd57",
+              "author": "pythongosssss",
+              "date": "2026-01-31T21:48:59.000Z",
+              "message": "add glsl shader update system",
+              "linesAdded": 1147,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "blueprints/.glsl/Brightness_and_Contrast_1.frag",
+                "blueprints/.glsl/Chromatic_Aberration_16.frag",
+                "blueprints/.glsl/Color_Adjustment_15.frag",
+                "blueprints/.glsl/Film_Grain_15.frag",
+                "blueprints/.glsl/Glow_30.frag",
+                "blueprints/.glsl/Hue_and_Saturation_1.frag",
+                "blueprints/.glsl/Image_Blur_1.frag",
+                "blueprints/.glsl/Image_Channels_23.frag",
+                "blueprints/.glsl/Image_Levels_1.frag",
+                "blueprints/.glsl/README.md",
+                "blueprints/.glsl/Sharpen_23.frag",
+                "blueprints/.glsl/Unsharp_Mask_26.frag",
+                "blueprints/.glsl/update_blueprints.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-16": {
+          "date": "2026-01-16",
+          "heatScore": 15,
+          "linesChanged": 76,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_io.py",
+            "comfy_extras/nodes_images.py"
+          ],
+          "commits": [
+            {
+              "hash": "e1f5085ed0c03ab5a8306e231e0fe23d6d26bbb5",
+              "author": "Terry Jia",
+              "date": "2026-01-16T03:25:38.000Z",
+              "message": "Boundingbox widget",
+              "linesAdded": 75,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_api/latest/_io.py",
+                "comfy_extras/nodes_images.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-13": {
+          "date": "2026-01-13",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "fff5a876b72507a631660f08a9e09f79cf086525",
+              "author": "Si Feng",
+              "date": "2026-01-13T03:28:18.000Z",
+              "message": "test2",
+              "linesAdded": 0,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2026-01-11": {
+          "date": "2026-01-11",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "2a7a8acb290580045f3466f94a024f0225e99b41",
+              "author": "Si Feng",
+              "date": "2026-01-11T04:55:08.000Z",
+              "message": "test",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2026-01-23": {
+          "date": "2026-01-23",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_node_replace.py"
+          ],
+          "commits": [
+            {
+              "hash": "04f89c75d1c8eb9f73ef12a390f35decc5c74290",
+              "author": "Jedrzej Kosinski",
+              "date": "2026-01-23T00:53:51.000Z",
+              "message": "Rename UseValue to SetValue",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy_api/latest/_node_replace.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-22": {
+          "date": "2026-01-22",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_node_replace.py"
+          ],
+          "commits": [
+            {
+              "hash": "588bc6b257e44f3662556b5a99f03defc23a38ab",
+              "author": "Jedrzej Kosinski",
+              "date": "2026-01-22T11:26:52.000Z",
+              "message": "Added old_widget_ids param to NodeReplace",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_api/latest/_node_replace.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-29": {
+          "date": "2026-01-29",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/scanner.py"
+          ],
+          "commits": [
+            {
+              "hash": "03ddcaa3fab6ee373ecdb7c96a68f2b9d62b6dc3",
+              "author": "DrJKL",
+              "date": "2026-01-29T09:35:56.000Z",
+              "message": "Refactor _prune_orphaned_assets for readability",
+              "linesAdded": 7,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "app/assets/scanner.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-28": {
+          "date": "2026-01-28",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/api/routes.py"
+          ],
+          "commits": [
+            {
+              "hash": "d5e6e2a81f98a76f497c7a73e854a05416a3d2ee",
+              "author": "Jedrzej Kosinski",
+              "date": "2026-01-28T23:39:08.000Z",
+              "message": "Fixed inconsistent spacing in routes.py",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "app/assets/api/routes.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-24": {
+          "date": "2026-01-24",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/test-build.yml"
+          ],
+          "commits": [
+            {
+              "hash": "9fa8202620f7e1c281bd4ed898eea2bdd08b6af1",
+              "author": "pythongosssss",
+              "date": "2026-01-24T20:55:21.000Z",
+              "message": "Try fix build",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                ".github/workflows/test-build.yml"
+              ]
+            }
+          ]
+        },
+        "2026-01-27": {
+          "date": "2026-01-27",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/comfy_types/node_typing.py",
+            "comfy_api/latest/_io.py",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "dcff27fe3fca80b610de5c648eb55c68e6154c57",
+              "author": "guill",
+              "date": "2026-01-27T21:03:29.000Z",
+              "message": "Add support for dev-only nodes. (#12106)",
+              "linesAdded": 20,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/comfy_types/node_typing.py",
+                "comfy_api/latest/_io.py",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-26": {
+          "date": "2026-01-26",
+          "heatScore": 100,
+          "linesChanged": 8469,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "comfy/clip_vision.py",
+            "comfy/latent_formats.py",
+            "comfy/ldm/anima/model.py",
+            "comfy/ldm/lightricks/av_model.py",
+            "comfy/ldm/lightricks/vae/audio_vae.py",
+            "comfy/ldm/lightricks/vae/causal_conv3d.py",
+            "comfy/ldm/lightricks/vae/causal_video_autoencoder.py",
+            "comfy/ldm/lumina/model.py",
+            "comfy/ldm/modules/diffusionmodules/model.py",
+            "comfy/ldm/qwen_image/model.py",
+            "comfy/ldm/wan/model.py",
+            "comfy/ldm/wan/model_multitalk.py",
+            "comfy/ldm/wan/vae.py",
+            "comfy/lora.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/ops.py",
+            "comfy/sample.py",
+            "comfy/sd.py",
+            "comfy/sd1_clip.py",
+            "comfy/supported_models.py",
+            "comfy/taesd/taehv.py",
+            "comfy/text_encoders/anima.py",
+            "comfy/text_encoders/flux.py",
+            "comfy/text_encoders/hunyuan_video.py",
+            "comfy/text_encoders/llama.py",
+            "comfy/text_encoders/lt.py",
+            "comfy/text_encoders/ovis.py",
+            "comfy/text_encoders/z_image.py",
+            "comfy/utils.py",
+            "comfy/weight_adapter/__init__.py",
+            "comfy/weight_adapter/base.py",
+            "comfy/weight_adapter/boft.py",
+            "comfy/weight_adapter/bypass.py",
+            "comfy/weight_adapter/glora.py",
+            "comfy/weight_adapter/loha.py",
+            "comfy/weight_adapter/lokr.py",
+            "comfy/weight_adapter/lora.py",
+            "comfy/weight_adapter/oft.py",
+            "comfy_api/latest/_input_impl/video_types.py",
+            "comfy_api/latest/_io.py",
+            "comfy_api_nodes/README.md",
+            "comfy_api_nodes/apis/{bfl_api.py => bfl.py}",
+            "comfy_api_nodes/apis/bria.py",
+            "comfy_api_nodes/apis/{bytedance_api.py => bytedance.py}",
+            "comfy_api_nodes/apis/{gemini_api.py => gemini.py}",
+            "comfy_api_nodes/apis/hunyuan3d.py",
+            "comfy_api_nodes/apis/ideogram.py",
+            "comfy_api_nodes/apis/{kling_api.py => kling.py}",
+            "comfy_api_nodes/apis/{luma_api.py => luma.py}",
+            "comfy_api_nodes/apis/magnific.py",
+            "comfy_api_nodes/apis/{minimax_api.py => minimax.py}",
+            "comfy_api_nodes/apis/moonvalley.py",
+            "comfy_api_nodes/apis/openai.py",
+            "comfy_api_nodes/apis/openai_api.py",
+            "comfy_api_nodes/apis/{pixverse_api.py => pixverse.py}",
+            "comfy_api_nodes/apis/{recraft_api.py => recraft.py}",
+            "comfy_api_nodes/apis/{rodin_api.py => rodin.py}",
+            "comfy_api_nodes/apis/runway.py",
+            "comfy_api_nodes/apis/{stability_api.py => stability.py}",
+            "comfy_api_nodes/apis/{topaz_api.py => topaz.py}",
+            "comfy_api_nodes/apis/{tripo_api.py => tripo.py}",
+            "comfy_api_nodes/apis/{veo_api.py => veo.py}",
+            "comfy_api_nodes/apis/wavespeed.py",
+            "comfy_api_nodes/canary.py",
+            "comfy_api_nodes/mapper_utils.py",
+            "comfy_api_nodes/nodes_bfl.py",
+            "comfy_api_nodes/nodes_bria.py",
+            "comfy_api_nodes/nodes_bytedance.py",
+            "comfy_api_nodes/nodes_gemini.py",
+            "comfy_api_nodes/nodes_hunyuan3d.py",
+            "comfy_api_nodes/nodes_ideogram.py",
+            "comfy_api_nodes/nodes_kling.py",
+            "comfy_api_nodes/nodes_luma.py",
+            "comfy_api_nodes/nodes_magnific.py",
+            "comfy_api_nodes/nodes_minimax.py",
+            "comfy_api_nodes/nodes_moonvalley.py",
+            "comfy_api_nodes/nodes_openai.py",
+            "comfy_api_nodes/nodes_pixverse.py",
+            "comfy_api_nodes/nodes_recraft.py",
+            "comfy_api_nodes/nodes_rodin.py",
+            "comfy_api_nodes/nodes_runway.py",
+            "comfy_api_nodes/nodes_sora.py",
+            "comfy_api_nodes/nodes_stability.py",
+            "comfy_api_nodes/nodes_topaz.py",
+            "comfy_api_nodes/nodes_tripo.py",
+            "comfy_api_nodes/nodes_veo2.py",
+            "comfy_api_nodes/nodes_vidu.py",
+            "comfy_api_nodes/nodes_wavespeed.py",
+            "comfy_api_nodes/redocly-dev.yaml",
+            "comfy_api_nodes/redocly.yaml",
+            "comfy_api_nodes/util/__init__.py",
+            "comfy_api_nodes/util/client.py",
+            "comfy_api_nodes/util/conversions.py",
+            "comfy_api_nodes/util/upload_helpers.py",
+            "comfy_extras/nodes_align_your_steps.py",
+            "comfy_extras/nodes_attention_multiply.py",
+            "comfy_extras/nodes_audio.py",
+            "comfy_extras/nodes_canny.py",
+            "comfy_extras/nodes_compositing.py",
+            "comfy_extras/nodes_controlnet.py",
+            "comfy_extras/nodes_custom_sampler.py",
+            "comfy_extras/nodes_dataset.py",
+            "comfy_extras/nodes_differential_diffusion.py",
+            "comfy_extras/nodes_easycache.py",
+            "comfy_extras/nodes_fresca.py",
+            "comfy_extras/nodes_hidream.py",
+            "comfy_extras/nodes_hooks.py",
+            "comfy_extras/nodes_hunyuan3d.py",
+            "comfy_extras/nodes_images.py",
+            "comfy_extras/nodes_kandinsky5.py",
+            "comfy_extras/nodes_latent.py",
+            "comfy_extras/nodes_load_3d.py",
+            "comfy_extras/nodes_logic.py",
+            "comfy_extras/nodes_lora_debug.py",
+            "comfy_extras/nodes_lora_extract.py",
+            "comfy_extras/nodes_lt.py",
+            "comfy_extras/nodes_lumina2.py",
+            "comfy_extras/nodes_mask.py",
+            "comfy_extras/nodes_model_advanced.py",
+            "comfy_extras/nodes_model_merging.py",
+            "comfy_extras/nodes_model_patch.py",
+            "comfy_extras/nodes_morphology.py",
+            "comfy_extras/nodes_pixart.py",
+            "comfy_extras/nodes_post_processing.py",
+            "comfy_extras/nodes_preview_any.py",
+            "comfy_extras/nodes_sd3.py",
+            "comfy_extras/nodes_string.py",
+            "comfy_extras/nodes_train.py",
+            "comfy_extras/nodes_upscale_model.py",
+            "comfy_extras/nodes_video.py",
+            "comfy_extras/nodes_wan.py",
+            "comfy_extras/nodes_wanmove.py",
+            "comfy_extras/nodes_webcam.py",
+            "comfy_extras/nodes_zimage.py",
+            "comfyui_version.py",
+            "execution.py",
+            "latent_preview.py",
+            "nodes.py",
+            "pyproject.toml",
+            "requirements.txt",
+            "server.py",
+            "tests-unit/comfy_api_nodes_test/mapper_utils_test.py"
+          ],
+          "commits": [
+            {
+              "hash": "702cfcde3abba842f11f773ea2312e33100b582f",
+              "author": "Jedrzej Kosinski",
+              "date": "2026-01-26T22:38:18.000Z",
+              "message": "Merge branch 'master' into assets-redo-part2",
+              "linesAdded": 7127,
+              "linesDeleted": 1342,
+              "filesChanged": [
+                "README.md",
+                "comfy/clip_vision.py",
+                "comfy/latent_formats.py",
+                "comfy/ldm/anima/model.py",
+                "comfy/ldm/lightricks/av_model.py",
+                "comfy/ldm/lightricks/vae/audio_vae.py",
+                "comfy/ldm/lightricks/vae/causal_conv3d.py",
+                "comfy/ldm/lightricks/vae/causal_video_autoencoder.py",
+                "comfy/ldm/lumina/model.py",
+                "comfy/ldm/modules/diffusionmodules/model.py",
+                "comfy/ldm/qwen_image/model.py",
+                "comfy/ldm/wan/model.py",
+                "comfy/ldm/wan/model_multitalk.py",
+                "comfy/ldm/wan/vae.py",
+                "comfy/lora.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/ops.py",
+                "comfy/sample.py",
+                "comfy/sd.py",
+                "comfy/sd1_clip.py",
+                "comfy/supported_models.py",
+                "comfy/taesd/taehv.py",
+                "comfy/text_encoders/anima.py",
+                "comfy/text_encoders/flux.py",
+                "comfy/text_encoders/hunyuan_video.py",
+                "comfy/text_encoders/llama.py",
+                "comfy/text_encoders/lt.py",
+                "comfy/text_encoders/ovis.py",
+                "comfy/text_encoders/z_image.py",
+                "comfy/utils.py",
+                "comfy/weight_adapter/__init__.py",
+                "comfy/weight_adapter/base.py",
+                "comfy/weight_adapter/boft.py",
+                "comfy/weight_adapter/bypass.py",
+                "comfy/weight_adapter/glora.py",
+                "comfy/weight_adapter/loha.py",
+                "comfy/weight_adapter/lokr.py",
+                "comfy/weight_adapter/lora.py",
+                "comfy/weight_adapter/oft.py",
+                "comfy_api/latest/_input_impl/video_types.py",
+                "comfy_api/latest/_io.py",
+                "comfy_api_nodes/README.md",
+                "comfy_api_nodes/apis/{bfl_api.py => bfl.py}",
+                "comfy_api_nodes/apis/bria.py",
+                "comfy_api_nodes/apis/{bytedance_api.py => bytedance.py}",
+                "comfy_api_nodes/apis/{gemini_api.py => gemini.py}",
+                "comfy_api_nodes/apis/hunyuan3d.py",
+                "comfy_api_nodes/apis/ideogram.py",
+                "comfy_api_nodes/apis/{kling_api.py => kling.py}",
+                "comfy_api_nodes/apis/{luma_api.py => luma.py}",
+                "comfy_api_nodes/apis/magnific.py",
+                "comfy_api_nodes/apis/{minimax_api.py => minimax.py}",
+                "comfy_api_nodes/apis/moonvalley.py",
+                "comfy_api_nodes/apis/openai.py",
+                "comfy_api_nodes/apis/openai_api.py",
+                "comfy_api_nodes/apis/{pixverse_api.py => pixverse.py}",
+                "comfy_api_nodes/apis/{recraft_api.py => recraft.py}",
+                "comfy_api_nodes/apis/{rodin_api.py => rodin.py}",
+                "comfy_api_nodes/apis/runway.py",
+                "comfy_api_nodes/apis/{stability_api.py => stability.py}",
+                "comfy_api_nodes/apis/{topaz_api.py => topaz.py}",
+                "comfy_api_nodes/apis/{tripo_api.py => tripo.py}",
+                "comfy_api_nodes/apis/{veo_api.py => veo.py}",
+                "comfy_api_nodes/apis/wavespeed.py",
+                "comfy_api_nodes/canary.py",
+                "comfy_api_nodes/mapper_utils.py",
+                "comfy_api_nodes/nodes_bfl.py",
+                "comfy_api_nodes/nodes_bria.py",
+                "comfy_api_nodes/nodes_bytedance.py",
+                "comfy_api_nodes/nodes_gemini.py",
+                "comfy_api_nodes/nodes_hunyuan3d.py",
+                "comfy_api_nodes/nodes_ideogram.py",
+                "comfy_api_nodes/nodes_kling.py",
+                "comfy_api_nodes/nodes_luma.py",
+                "comfy_api_nodes/nodes_magnific.py",
+                "comfy_api_nodes/nodes_minimax.py",
+                "comfy_api_nodes/nodes_moonvalley.py",
+                "comfy_api_nodes/nodes_openai.py",
+                "comfy_api_nodes/nodes_pixverse.py",
+                "comfy_api_nodes/nodes_recraft.py",
+                "comfy_api_nodes/nodes_rodin.py",
+                "comfy_api_nodes/nodes_runway.py",
+                "comfy_api_nodes/nodes_sora.py",
+                "comfy_api_nodes/nodes_stability.py",
+                "comfy_api_nodes/nodes_topaz.py",
+                "comfy_api_nodes/nodes_tripo.py",
+                "comfy_api_nodes/nodes_veo2.py",
+                "comfy_api_nodes/nodes_vidu.py",
+                "comfy_api_nodes/nodes_wavespeed.py",
+                "comfy_api_nodes/redocly-dev.yaml",
+                "comfy_api_nodes/redocly.yaml",
+                "comfy_api_nodes/util/__init__.py",
+                "comfy_api_nodes/util/client.py",
+                "comfy_api_nodes/util/conversions.py",
+                "comfy_api_nodes/util/upload_helpers.py",
+                "comfy_extras/nodes_align_your_steps.py",
+                "comfy_extras/nodes_attention_multiply.py",
+                "comfy_extras/nodes_audio.py",
+                "comfy_extras/nodes_canny.py",
+                "comfy_extras/nodes_compositing.py",
+                "comfy_extras/nodes_controlnet.py",
+                "comfy_extras/nodes_custom_sampler.py",
+                "comfy_extras/nodes_dataset.py",
+                "comfy_extras/nodes_differential_diffusion.py",
+                "comfy_extras/nodes_easycache.py",
+                "comfy_extras/nodes_fresca.py",
+                "comfy_extras/nodes_hidream.py",
+                "comfy_extras/nodes_hooks.py",
+                "comfy_extras/nodes_hunyuan3d.py",
+                "comfy_extras/nodes_images.py",
+                "comfy_extras/nodes_kandinsky5.py",
+                "comfy_extras/nodes_latent.py",
+                "comfy_extras/nodes_load_3d.py",
+                "comfy_extras/nodes_logic.py",
+                "comfy_extras/nodes_lora_debug.py",
+                "comfy_extras/nodes_lora_extract.py",
+                "comfy_extras/nodes_lt.py",
+                "comfy_extras/nodes_lumina2.py",
+                "comfy_extras/nodes_mask.py",
+                "comfy_extras/nodes_model_advanced.py",
+                "comfy_extras/nodes_model_merging.py",
+                "comfy_extras/nodes_model_patch.py",
+                "comfy_extras/nodes_morphology.py",
+                "comfy_extras/nodes_pixart.py",
+                "comfy_extras/nodes_post_processing.py",
+                "comfy_extras/nodes_preview_any.py",
+                "comfy_extras/nodes_sd3.py",
+                "comfy_extras/nodes_string.py",
+                "comfy_extras/nodes_train.py",
+                "comfy_extras/nodes_upscale_model.py",
+                "comfy_extras/nodes_video.py",
+                "comfy_extras/nodes_wan.py",
+                "comfy_extras/nodes_wanmove.py",
+                "comfy_extras/nodes_webcam.py",
+                "comfy_extras/nodes_zimage.py",
+                "comfyui_version.py",
+                "execution.py",
+                "latent_preview.py",
+                "nodes.py",
+                "pyproject.toml",
+                "requirements.txt",
+                "server.py",
+                "tests-unit/comfy_api_nodes_test/mapper_utils_test.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-25": {
+          "date": "2026-01-25",
+          "heatScore": 19,
+          "linesChanged": 147,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_lora_debug.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "26c5bbb8751071cb499b65d48e218b54e856572d",
+              "author": "comfyanonymous",
+              "date": "2026-01-25T04:02:32.000Z",
+              "message": "Move nodes from previous PR into their own file. (#12066)",
+              "linesAdded": 80,
+              "linesDeleted": 67,
+              "filesChanged": [
+                "comfy_extras/nodes_lora_debug.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-21": {
+          "date": "2026-01-21",
+          "heatScore": 11,
+          "linesChanged": 25,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_io.py",
+            "comfy_extras/nodes_post_processing.py",
+            "comfy_extras/nodes_preview_any.py",
+            "comfy_extras/nodes_string.py",
+            "comfy_extras/nodes_upscale_model.py",
+            "nodes.py",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "bdeac8897e522b9637a6a427fdc8a50a6abd6b20",
+              "author": "Christian Byrne",
+              "date": "2026-01-21T23:36:02.000Z",
+              "message": "feat: Add search_aliases field to node schema (#12010)",
+              "linesAdded": 25,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_api/latest/_io.py",
+                "comfy_extras/nodes_post_processing.py",
+                "comfy_extras/nodes_preview_any.py",
+                "comfy_extras/nodes_string.py",
+                "comfy_extras/nodes_upscale_model.py",
+                "nodes.py",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-20": {
+          "date": "2026-01-20",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_detection.py"
+          ],
+          "commits": [
+            {
+              "hash": "c4a14df9a35336dbfff096683c5015ce726c269d",
+              "author": "Mylo",
+              "date": "2026-01-20T23:46:11.000Z",
+              "message": "Dynamically detect chroma radiance patch size (#11991)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_detection.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-19": {
+          "date": "2026-01-19",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "866a4619db2db56c77a86e5fc9968a2454928627",
+              "author": "ComfyUI Wiki",
+              "date": "2026-01-19T22:21:35.000Z",
+              "message": "chore: update workflow templates to v0.8.14 (#11974)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2026-01-18": {
+          "date": "2026-01-18",
+          "heatScore": 12,
+          "linesChanged": 30,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "034fac70549dd9c35b155b80a3ff627ad07b1015",
+              "author": "Alexander Piskun",
+              "date": "2026-01-18T06:40:39.000Z",
+              "message": "chore(api-nodes): auto-discover all nodes_*.py files to avoid merge conflicts when adding new API nodes (#11943)",
+              "linesAdded": 4,
+              "linesDeleted": 26,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-17": {
+          "date": "2026-01-17",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/clip_vision.py"
+          ],
+          "commits": [
+            {
+              "hash": "7ac999bf3069b06648a749212f59237080a75591",
+              "author": "comfyanonymous",
+              "date": "2026-01-17T04:02:28.000Z",
+              "message": "Add image sizes to clip vision outputs. (#11923)",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/clip_vision.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-15": {
+          "date": "2026-01-15",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "6125b3a5e7215bf01874e402525552a7f5657a41",
+              "author": "ComfyUI Wiki",
+              "date": "2026-01-15T21:12:13.000Z",
+              "message": "Update workflow templates to v0.8.10 (#11899)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2026-01-14": {
+          "date": "2026-01-14",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/text_encoders/lt.py"
+          ],
+          "commits": [
+            {
+              "hash": "be518db5a7daa6010fb1c312c0832b9833a71d10",
+              "author": "Jukka Seppänen",
+              "date": "2026-01-14T22:54:04.000Z",
+              "message": "Remove extraneous clip missing warnings when loading LTX2 embeddings_connector weights (#11874)",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/text_encoders/lt.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-12": {
+          "date": "2026-01-12",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "c2b65e2fceea821276c143ad52478552633922bf",
+              "author": "ComfyUI Wiki",
+              "date": "2026-01-12T22:29:25.000Z",
+              "message": "Update workflow templates to v0.8.0 (#11828)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2026-01-10": {
+          "date": "2026-01-10",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/text_encoders/cosmos.py",
+            "comfy/text_encoders/genmo.py",
+            "comfy/text_encoders/pixart_t5.py"
+          ],
+          "commits": [
+            {
+              "hash": "2f642d5d9b48ad7cad13bbdd5f8adcf506f565a7",
+              "author": "comfyanonymous",
+              "date": "2026-01-10T22:40:42.000Z",
+              "message": "Fix chroma fp8 te being treated as fp16. (#11795)",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/text_encoders/cosmos.py",
+                "comfy/text_encoders/genmo.py",
+                "comfy/text_encoders/pixart_t5.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-09": {
+          "date": "2026-01-09",
+          "heatScore": 51,
+          "linesChanged": 629,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/apis/vidu.py",
+            "comfy_api_nodes/nodes_vidu.py"
+          ],
+          "commits": [
+            {
+              "hash": "393d2880ddc6e57c0fa3b878bb50fa2901bd57e6",
+              "author": "Alexander Piskun",
+              "date": "2026-01-09T20:59:38.000Z",
+              "message": "feat(api-nodes): added nodes for Vidu2 (#11760)",
+              "linesAdded": 482,
+              "linesDeleted": 147,
+              "filesChanged": [
+                "comfy_api_nodes/apis/vidu.py",
+                "comfy_api_nodes/nodes_vidu.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-08": {
+          "date": "2026-01-08",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/hunyuan_video/upsampler.py"
+          ],
+          "commits": [
+            {
+              "hash": "1a206564487d672561d83ce3eb007517bf018995",
+              "author": "comfyanonymous",
+              "date": "2026-01-08T22:23:59.000Z",
+              "message": "Fix import issue. (#11746)",
+              "linesAdded": 7,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "comfy/ldm/hunyuan_video/upsampler.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-07": {
+          "date": "2026-01-07",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_lt_audio.py"
+          ],
+          "commits": [
+            {
+              "hash": "1c705f7bfb0fb59f6213dfb85ec5d5dc2ce4300e",
+              "author": "Jukka Seppänen",
+              "date": "2026-01-07T23:39:59.000Z",
+              "message": "Add device selection for LTXAVTextEncoderLoader (#11700)",
+              "linesAdded": 9,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_lt_audio.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-06": {
+          "date": "2026-01-06",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py",
+            "comfy/ops.py"
+          ],
+          "commits": [
+            {
+              "hash": "2c03884f5fb7fa213161dfe1e9a09a8e8c4b6062",
+              "author": "comfyanonymous",
+              "date": "2026-01-06T23:07:26.000Z",
+              "message": "Skip fp4 matrix mult on devices that don't support it. (#11677)",
+              "linesAdded": 27,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/model_management.py",
+                "comfy/ops.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-05": {
+          "date": "2026-01-05",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_lt_audio.py"
+          ],
+          "commits": [
+            {
+              "hash": "4f3f9e72a9d0c15d00c0c362b8e90f1db5af6cfb",
+              "author": "comfyanonymous",
+              "date": "2026-01-05T10:41:23.000Z",
+              "message": "Fix name. (#11638)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_lt_audio.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-04": {
+          "date": "2026-01-04",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/nodes_kling.py"
+          ],
+          "commits": [
+            {
+              "hash": "acbf08cd60fade74b2e9e5009fa0dcad9538356b",
+              "author": "Alexander Piskun",
+              "date": "2026-01-04T07:05:02.000Z",
+              "message": "feat(api-nodes): add support for 720p resolution for Kling Omni nodes (#11604)",
+              "linesAdded": 15,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_api_nodes/nodes_kling.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-03": {
+          "date": "2026-01-03",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "9a552df898ec57f066784cc1f7c475644099b3c1",
+              "author": "comfyanonymous",
+              "date": "2026-01-03T01:28:10.000Z",
+              "message": "Remove leftover scaled_fp8 key. (#11603)",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-02": {
+          "date": "2026-01-02",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/nodes_tripo.py"
+          ],
+          "commits": [
+            {
+              "hash": "f2fda021ab179ba31d9175698b82474a5dd14359",
+              "author": "Alexander Piskun",
+              "date": "2026-01-02T11:18:43.000Z",
+              "message": "Tripo3D: pass face_limit parameter only when it differs from default (#11601)",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy_api_nodes/nodes_tripo.py"
+              ]
+            }
+          ]
+        },
+        "2026-01-01": {
+          "date": "2026-01-01",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/text_encoders/llama.py"
+          ],
+          "commits": [
+            {
+              "hash": "1bdc9a947f578733f81c9ae894a5acd5809c7a66",
+              "author": "comfyanonymous",
+              "date": "2026-01-01T00:29:55.000Z",
+              "message": "Remove duplicate import of model_management (#11587)",
+              "linesAdded": 0,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/text_encoders/llama.py"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

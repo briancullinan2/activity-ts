@@ -1,0 +1,2129 @@
+{
+  "yearMonth": "2025-04",
+  "generatedAt": "2026-09-24T02:37:24.592Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-04-14": {
+          "date": "2025-04-14",
+          "heatScore": 12,
+          "linesChanged": 33,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d4f1fc6acd7772716863fa3395384a5ad720eebd",
+              "author": "Brian Cullinan",
+              "date": "2025-04-14T21:29:43.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 17,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-13": {
+          "date": "2025-04-13",
+          "heatScore": 12,
+          "linesChanged": 33,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d13bb55a3786e28608a2c59f7c1455779030ec78",
+              "author": "Brian Cullinan",
+              "date": "2025-04-13T23:18:05.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 23,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-12": {
+          "date": "2025-04-12",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d23c6e4f75e841bdeebf391b0e299919511916b4",
+              "author": "Brian Cullinan",
+              "date": "2025-04-12T23:58:51.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 8,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-11": {
+          "date": "2025-04-11",
+          "heatScore": 12,
+          "linesChanged": 33,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1770e3f695573368cd7ca6e22dc48a49595ee6ed",
+              "author": "Brian Cullinan",
+              "date": "2025-04-11T23:32:38.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 13,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-10": {
+          "date": "2025-04-10",
+          "heatScore": 11,
+          "linesChanged": 26,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "95f055425cd3f22d330ecdd9ac5d230b5d45588a",
+              "author": "Brian Cullinan",
+              "date": "2025-04-10T23:17:54.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 13,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-09": {
+          "date": "2025-04-09",
+          "heatScore": 14,
+          "linesChanged": 63,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "5c991afe8dee8c7e2417795ffda01f2fec7204af",
+              "author": "Brian Cullinan",
+              "date": "2025-04-09T23:53:08.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 25,
+              "linesDeleted": 38,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-08": {
+          "date": "2025-04-08",
+          "heatScore": 15,
+          "linesChanged": 84,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "4d1fbb297897a5ac3ff539d81e9d4729a499385a",
+              "author": "Brian Cullinan",
+              "date": "2025-04-08T23:41:09.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 38,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-07": {
+          "date": "2025-04-07",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "843dffc2ab27682e1498fce56b0777fb840d8926",
+              "author": "Brian Cullinan",
+              "date": "2025-04-07T23:18:36.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 10,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-06": {
+          "date": "2025-04-06",
+          "heatScore": 14,
+          "linesChanged": 62,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "c2613428d531ff5ea08e5426194c14413a7df61e",
+              "author": "Brian Cullinan",
+              "date": "2025-04-06T23:29:46.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 40,
+              "linesDeleted": 22,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-05": {
+          "date": "2025-04-05",
+          "heatScore": 14,
+          "linesChanged": 68,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "34e82850530f0613b5a6927b22c4d019b19035fd",
+              "author": "Brian Cullinan",
+              "date": "2025-04-05T23:31:35.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 14,
+              "linesDeleted": 54,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-04": {
+          "date": "2025-04-04",
+          "heatScore": 14,
+          "linesChanged": 64,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "42b63d2280377a01c0ec6e347ef5905f06f37cec",
+              "author": "Brian Cullinan",
+              "date": "2025-04-04T23:41:40.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 13,
+              "linesDeleted": 51,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-03": {
+          "date": "2025-04-03",
+          "heatScore": 17,
+          "linesChanged": 119,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "85c0f1bcc51124cfa708231a947e4d94115142f2",
+              "author": "Brian Cullinan",
+              "date": "2025-04-03T23:44:08.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 83,
+              "linesDeleted": 36,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-02": {
+          "date": "2025-04-02",
+          "heatScore": 14,
+          "linesChanged": 70,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "df67bbd534d4e322bcbfe90e33e01a66b1dc7a5d",
+              "author": "Brian Cullinan",
+              "date": "2025-04-02T23:06:56.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 63,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2025-04-01": {
+          "date": "2025-04-01",
+          "heatScore": 12,
+          "linesChanged": 33,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d8aee3598209198b6b16a85d347dd8a0185bf7c5",
+              "author": "Brian Cullinan",
+              "date": "2025-04-01T23:30:23.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 5,
+              "linesDeleted": 28,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-04-29": {
+          "date": "2025-04-29",
+          "heatScore": 32,
+          "linesChanged": 333,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/game/bg_events.h",
+            "code/game/bg_misc.c",
+            "code/game/bg_public.h"
+          ],
+          "commits": [
+            {
+              "hash": "181611e51941ca5b084088f818cb8e9e4278477f",
+              "author": "LegendGuard",
+              "date": "2025-04-29T21:56:44.000Z",
+              "message": "Simplify event (EV_*) declaration to a single line of each",
+              "linesAdded": 124,
+              "linesDeleted": 209,
+              "filesChanged": [
+                "README.md",
+                "code/game/bg_events.h",
+                "code/game/bg_misc.c",
+                "code/game/bg_public.h"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-04-12": {
+          "date": "2025-04-12",
+          "heatScore": 24,
+          "linesChanged": 223,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/layer-panel/layer-panel.vue",
+            "src/components/menus/context-menu/context-menu.vue",
+            "src/components/menus/header-menu/header-menu.vue",
+            "src/components/menus/layer-menu/layer-menu.vue",
+            "src/styles/ui.scss"
+          ],
+          "commits": [
+            {
+              "hash": "c9ae39049ce48381cc72809c4b2357878c8d7b6a",
+              "author": "Igor Zinken",
+              "date": "2025-04-12T12:25:53.000Z",
+              "message": "Mobile layout fixes and CSS cleanups",
+              "linesAdded": 130,
+              "linesDeleted": 93,
+              "filesChanged": [
+                "src/components/layer-panel/layer-panel.vue",
+                "src/components/menus/context-menu/context-menu.vue",
+                "src/components/menus/header-menu/header-menu.vue",
+                "src/components/menus/layer-menu/layer-menu.vue",
+                "src/styles/ui.scss"
+              ]
+            }
+          ]
+        },
+        "2025-04-06": {
+          "date": "2025-04-06",
+          "heatScore": 16,
+          "linesChanged": 91,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/actors/layer-renderer.ts",
+            "tests/unit/mocks.ts",
+            "tests/unit/rendering/actors/layer-renderer.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "bca9aa9145e362ad1e377d131d9188008e9abcb6",
+              "author": "Igor Zinken",
+              "date": "2025-04-06T07:26:14.000Z",
+              "message": "When erasing content from a drawable layer, underlying layers are now preserved correctly during draw",
+              "linesAdded": 72,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "src/rendering/actors/layer-renderer.ts",
+                "tests/unit/mocks.ts",
+                "tests/unit/rendering/actors/layer-renderer.spec.ts"
+              ]
+            }
+          ]
+        },
+        "2025-04-05": {
+          "date": "2025-04-05",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/bitmappery.vue"
+          ],
+          "commits": [
+            {
+              "hash": "0285fc53bf15c1343b351b6c4234b502be89e184",
+              "author": "Igor Zinken",
+              "date": "2025-04-05T09:53:53.000Z",
+              "message": "Fix bug where scrollable windows would not respond to mousewheel event",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/bitmappery.vue"
+              ]
+            }
+          ]
+        },
+        "2025-04-04": {
+          "date": "2025-04-04",
+          "heatScore": 88,
+          "linesChanged": 1172,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/components/document-canvas/decorators/touch-decorator.ts",
+            "src/components/{layer-filters/layer-filters.vue => layer-effects/layer-effects.vue}",
+            "src/components/{layer-filters => layer-effects}/messages.json",
+            "src/components/layer-panel/layer-panel.vue",
+            "src/components/layer-panel/messages.json",
+            "src/components/tool-options-panel/tool-options-mirror/tool-options-mirror.vue",
+            "src/components/tool-options-panel/tool-options-rotate/tool-options-rotate.vue",
+            "src/components/tool-options-panel/tool-options-scale/tool-options-scale.vue",
+            "src/components/ui/color-picker/color-picker.vue",
+            "src/definitions/colors.ts",
+            "src/definitions/document.ts",
+            "src/definitions/tool-types.ts",
+            "src/factories/filters-factory.ts",
+            "src/factories/layer-factory.ts",
+            "src/factories/{effects-factory.ts => transform-factory.ts}",
+            "src/math/point-math.ts",
+            "src/rendering/actors/interaction-pane.ts",
+            "src/rendering/actors/layer-renderer.ts",
+            "src/rendering/filters/adjustments.ts",
+            "src/rendering/filters/duotone.ts",
+            "src/rendering/operations/clipping.ts",
+            "src/rendering/operations/transforming.ts",
+            "src/rendering/utils/drawable-canvas-utils.ts",
+            "src/store/actions/layer-commit-effects-and-transforms.ts",
+            "src/store/actions/layer-rotate.ts",
+            "src/store/modules/document-module.ts",
+            "src/styles/form.scss",
+            "src/utils/color-util.ts",
+            "src/utils/document-util.ts",
+            "src/utils/layer-util.ts",
+            "src/workers/filter.worker.ts",
+            "tests/unit/definitions/tool-types.spec.ts",
+            "tests/unit/factories/effects-factory.spec.ts",
+            "tests/unit/factories/filters-factory.spec.ts",
+            "tests/unit/factories/layer-factory.spec.ts",
+            "tests/unit/factories/transform-factory.spec.ts",
+            "tests/unit/rendering/actors/layer-renderer.spec.ts",
+            "tests/unit/store/actions/layer-commit-effects-and-transforms.spec.ts",
+            "tests/unit/store/actions/layer-rotate.spec.ts",
+            "tests/unit/store/modules/document-module.spec.ts",
+            "tests/unit/utils/layer-util.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "d64ec1ae3ea8457d442b22344e176c81001852a6",
+              "author": "Igor Zinken",
+              "date": "2025-04-04T18:55:34.000Z",
+              "message": "Refactor Layer effects and introduce duotone filter (#64)",
+              "linesAdded": 718,
+              "linesDeleted": 454,
+              "filesChanged": [
+                "README.md",
+                "src/components/document-canvas/decorators/touch-decorator.ts",
+                "src/components/{layer-filters/layer-filters.vue => layer-effects/layer-effects.vue}",
+                "src/components/{layer-filters => layer-effects}/messages.json",
+                "src/components/layer-panel/layer-panel.vue",
+                "src/components/layer-panel/messages.json",
+                "src/components/tool-options-panel/tool-options-mirror/tool-options-mirror.vue",
+                "src/components/tool-options-panel/tool-options-rotate/tool-options-rotate.vue",
+                "src/components/tool-options-panel/tool-options-scale/tool-options-scale.vue",
+                "src/components/ui/color-picker/color-picker.vue",
+                "src/definitions/colors.ts",
+                "src/definitions/document.ts",
+                "src/definitions/tool-types.ts",
+                "src/factories/filters-factory.ts",
+                "src/factories/layer-factory.ts",
+                "src/factories/{effects-factory.ts => transform-factory.ts}",
+                "src/math/point-math.ts",
+                "src/rendering/actors/interaction-pane.ts",
+                "src/rendering/actors/layer-renderer.ts",
+                "src/rendering/filters/adjustments.ts",
+                "src/rendering/filters/duotone.ts",
+                "src/rendering/operations/clipping.ts",
+                "src/rendering/operations/transforming.ts",
+                "src/rendering/utils/drawable-canvas-utils.ts",
+                "src/store/actions/layer-commit-effects-and-transforms.ts",
+                "src/store/actions/layer-rotate.ts",
+                "src/store/modules/document-module.ts",
+                "src/styles/form.scss",
+                "src/utils/color-util.ts",
+                "src/utils/document-util.ts",
+                "src/utils/layer-util.ts",
+                "src/workers/filter.worker.ts",
+                "tests/unit/definitions/tool-types.spec.ts",
+                "tests/unit/factories/effects-factory.spec.ts",
+                "tests/unit/factories/filters-factory.spec.ts",
+                "tests/unit/factories/layer-factory.spec.ts",
+                "tests/unit/factories/transform-factory.spec.ts",
+                "tests/unit/rendering/actors/layer-renderer.spec.ts",
+                "tests/unit/store/actions/layer-commit-effects-and-transforms.spec.ts",
+                "tests/unit/store/actions/layer-rotate.spec.ts",
+                "tests/unit/store/modules/document-module.spec.ts",
+                "tests/unit/utils/layer-util.spec.ts"
+              ]
+            }
+          ]
+        },
+        "2025-04-03": {
+          "date": "2025-04-03",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/actors/layer-renderer.ts"
+          ],
+          "commits": [
+            {
+              "hash": "6056e6301e756a2d2eab6fc803486351608693cf",
+              "author": "Igor Zinken",
+              "date": "2025-04-03T19:48:07.000Z",
+              "message": "Fix bug where opacity compositing was not supported when using a blend mode",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/rendering/actors/layer-renderer.ts"
+              ]
+            }
+          ]
+        },
+        "2025-04-02": {
+          "date": "2025-04-02",
+          "heatScore": 26,
+          "linesChanged": 245,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/actors/layer-renderer.ts",
+            "src/rendering/actors/zoomable-sprite.ts",
+            "src/store/actions/mask-position.ts",
+            "tests/unit/mocks.ts",
+            "tests/unit/rendering/actors/layer-renderer.spec.ts",
+            "tests/unit/store/actions/mask-position.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "e8eb11fd06584f9630f9cac1ffb76a4cc26fae9f",
+              "author": "Igor Zinken",
+              "date": "2025-04-02T19:26:28.000Z",
+              "message": "Improve performance of dragging Masks on blended, effected Layers",
+              "linesAdded": 159,
+              "linesDeleted": 86,
+              "filesChanged": [
+                "src/rendering/actors/layer-renderer.ts",
+                "src/rendering/actors/zoomable-sprite.ts",
+                "src/store/actions/mask-position.ts",
+                "tests/unit/mocks.ts",
+                "tests/unit/rendering/actors/layer-renderer.spec.ts",
+                "tests/unit/store/actions/mask-position.spec.ts"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-04-19": {
+          "date": "2025-04-19",
+          "heatScore": 64,
+          "linesChanged": 812,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/utils.py",
+            "comfy_execution/caching.py",
+            "comfy_execution/graph.py",
+            "comfy_execution/progress.py",
+            "comfy_execution/utils.py",
+            "execution.py",
+            "main.py",
+            "server.py",
+            "tests/inference/extra_model_paths.yaml",
+            "tests/inference/test_execution.py",
+            "tests/inference/testing_nodes/testing-pack/specific_tests.py"
+          ],
+          "commits": [
+            {
+              "hash": "46c8311d143239f185cf60e266a7d5f32a13d36e",
+              "author": "Jacob Segal",
+              "date": "2025-04-19T07:06:13.000Z",
+              "message": "Support for async execution functions",
+              "linesAdded": 745,
+              "linesDeleted": 67,
+              "filesChanged": [
+                "comfy/utils.py",
+                "comfy_execution/caching.py",
+                "comfy_execution/graph.py",
+                "comfy_execution/progress.py",
+                "comfy_execution/utils.py",
+                "execution.py",
+                "main.py",
+                "server.py",
+                "tests/inference/extra_model_paths.yaml",
+                "tests/inference/test_execution.py",
+                "tests/inference/testing_nodes/testing-pack/specific_tests.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-30": {
+          "date": "2025-04-30",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/stable-release.yml"
+          ],
+          "commits": [
+            {
+              "hash": "39c27a37052b5e18850a6c63cd0a4b92131db3ba",
+              "author": "comfyanonymous",
+              "date": "2025-04-30T18:42:18.000Z",
+              "message": "Add updater test to stable release workflow. (#7887)",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                ".github/workflows/stable-release.yml"
+              ]
+            }
+          ]
+        },
+        "2025-04-29": {
+          "date": "2025-04-29",
+          "heatScore": 12,
+          "linesChanged": 43,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/custom_node_manager.py"
+          ],
+          "commits": [
+            {
+              "hash": "5c5457a4ef151f9f855020ff544b4362cdcf1201",
+              "author": "Terry Jia",
+              "date": "2025-04-29T15:28:04.000Z",
+              "message": "support more example folders (#7836)",
+              "linesAdded": 27,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "app/custom_node_manager.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-28": {
+          "date": "2025-04-28",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/hidream/model.py",
+            "comfy/model_base.py"
+          ],
+          "commits": [
+            {
+              "hash": "83d04717b6cd84fca7af31ee655f7e5a3585a371",
+              "author": "comfyanonymous",
+              "date": "2025-04-28T19:01:15.000Z",
+              "message": "Support HiDream E1 model. (#7857)",
+              "linesAdded": 6,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/ldm/hidream/model.py",
+                "comfy/model_base.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-27": {
+          "date": "2025-04-27",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "c8cd7ad795ec4ecc5256bdfe2c12c352eef26e3b",
+              "author": "comfyanonymous",
+              "date": "2025-04-27T09:38:11.000Z",
+              "message": "Use stream for casting if enabled. (#7833)",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-26": {
+          "date": "2025-04-26",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ops.py"
+          ],
+          "commits": [
+            {
+              "hash": "ac10a0d69e9905662296c5280bcea61945c39762",
+              "author": "comfyanonymous",
+              "date": "2025-04-26T23:56:22.000Z",
+              "message": "Make loras work with --async-offload (#7824)",
+              "linesAdded": 13,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/ops.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-25": {
+          "date": "2025-04-25",
+          "heatScore": 15,
+          "linesChanged": 82,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "comfy/sd1_clip.py",
+            "comfy/sdxl_clip.py",
+            "comfy/text_encoders/flux.py",
+            "comfy/text_encoders/hidream.py",
+            "comfy/text_encoders/hunyuan_video.py",
+            "comfy/text_encoders/hydit.py",
+            "comfy/text_encoders/sd3_clip.py",
+            "comfy_extras/nodes_cond.py"
+          ],
+          "commits": [
+            {
+              "hash": "23e39f2ba7c38d5fc21206da31ce7d357b232e15",
+              "author": "comfyanonymous",
+              "date": "2025-04-25T23:36:00.000Z",
+              "message": "Add a T5TokenizerOptions node to set options for the T5 tokenizer. (#7803)",
+              "linesAdded": 60,
+              "linesDeleted": 22,
+              "filesChanged": [
+                "comfy/sd.py",
+                "comfy/sd1_clip.py",
+                "comfy/sdxl_clip.py",
+                "comfy/text_encoders/flux.py",
+                "comfy/text_encoders/hidream.py",
+                "comfy/text_encoders/hunyuan_video.py",
+                "comfy/text_encoders/hydit.py",
+                "comfy/text_encoders/sd3_clip.py",
+                "comfy_extras/nodes_cond.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-24": {
+          "date": "2025-04-24",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfyui_version.py",
+            "pyproject.toml"
+          ],
+          "commits": [
+            {
+              "hash": "a97f2f850abd7dd330e6363c8d8074bb243eb413",
+              "author": "comfyanonymous",
+              "date": "2025-04-24T20:03:01.000Z",
+              "message": "ComfyUI version 0.3.30",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfyui_version.py",
+                "pyproject.toml"
+              ]
+            }
+          ]
+        },
+        "2025-04-23": {
+          "date": "2025-04-23",
+          "heatScore": 100,
+          "linesChanged": 2830,
+          "commitCount": 1,
+          "filesEdited": [
+            ".ci/{windows_nightly_base_files => windows_base_files}/run_nvidia_gpu_fast_fp16_accumulation.bat",
+            ".github/workflows/stable-release.yml",
+            ".github/workflows/update-api-stubs.yml",
+            ".github/workflows/windows_release_nightly_pytorch.yml",
+            ".github/workflows/windows_release_package.yml",
+            "README.md",
+            "comfy/cli_args.py",
+            "comfy/comfy_types/node_typing.py",
+            "comfy/image_encoders/dino2.py",
+            "comfy/ldm/wan/model.py",
+            "comfy/lora.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/model_management.py",
+            "comfy/supported_models.py",
+            "comfy/weight_adapter/__init__.py",
+            "comfy/weight_adapter/base.py",
+            "comfy/weight_adapter/boft.py",
+            "comfy/weight_adapter/glora.py",
+            "comfy/weight_adapter/loha.py",
+            "comfy/weight_adapter/lokr.py",
+            "comfy/weight_adapter/lora.py",
+            "comfy/weight_adapter/oft.py",
+            "comfy_api_nodes/__init__.py",
+            "comfy_api_nodes/apis/PixverseController.py",
+            "comfy_api_nodes/apis/PixverseDto.py",
+            "comfy_api_nodes/apis/__init__.py",
+            "comfy_api_nodes/apis/client.py",
+            "comfy_api_nodes/nodes_api.py",
+            "comfy_extras/nodes_mask.py",
+            "comfy_extras/nodes_primitive.py",
+            "comfy_extras/nodes_video.py",
+            "comfy_extras/nodes_wan.py",
+            "execution.py",
+            "nodes.py",
+            "requirements.txt",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "ea3d3cc6a4d61ceb5ca71a09b738d941400569d6",
+              "author": "Dr.Lt.Data",
+              "date": "2025-04-23T23:45:22.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 2503,
+              "linesDeleted": 327,
+              "filesChanged": [
+                ".ci/{windows_nightly_base_files => windows_base_files}/run_nvidia_gpu_fast_fp16_accumulation.bat",
+                ".github/workflows/stable-release.yml",
+                ".github/workflows/update-api-stubs.yml",
+                ".github/workflows/windows_release_nightly_pytorch.yml",
+                ".github/workflows/windows_release_package.yml",
+                "README.md",
+                "comfy/cli_args.py",
+                "comfy/comfy_types/node_typing.py",
+                "comfy/image_encoders/dino2.py",
+                "comfy/ldm/wan/model.py",
+                "comfy/lora.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/model_management.py",
+                "comfy/supported_models.py",
+                "comfy/weight_adapter/__init__.py",
+                "comfy/weight_adapter/base.py",
+                "comfy/weight_adapter/boft.py",
+                "comfy/weight_adapter/glora.py",
+                "comfy/weight_adapter/loha.py",
+                "comfy/weight_adapter/lokr.py",
+                "comfy/weight_adapter/lora.py",
+                "comfy/weight_adapter/oft.py",
+                "comfy_api_nodes/__init__.py",
+                "comfy_api_nodes/apis/PixverseController.py",
+                "comfy_api_nodes/apis/PixverseDto.py",
+                "comfy_api_nodes/apis/__init__.py",
+                "comfy_api_nodes/apis/client.py",
+                "comfy_api_nodes/nodes_api.py",
+                "comfy_extras/nodes_mask.py",
+                "comfy_extras/nodes_primitive.py",
+                "comfy_extras/nodes_video.py",
+                "comfy_extras/nodes_wan.py",
+                "execution.py",
+                "nodes.py",
+                "requirements.txt",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-22": {
+          "date": "2025-04-22",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_video.py",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "92cdc692f47188e6e4c48c5666ac802281240a37",
+              "author": "Alex Butler",
+              "date": "2025-04-22T21:57:17.000Z",
+              "message": "Replace aom-av1 with svt-av1 for saving webm videos, use preset 6 + yuv420p10le pixel format (#7736)",
+              "linesAdded": 5,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy_extras/nodes_video.py",
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-04-21": {
+          "date": "2025-04-21",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/wan/model.py",
+            "comfy/model_base.py",
+            "comfy_extras/nodes_wan.py"
+          ],
+          "commits": [
+            {
+              "hash": "5d0d4ee98a24b6c72c94635fc5a6e93af2b005bc",
+              "author": "comfyanonymous",
+              "date": "2025-04-21T23:36:20.000Z",
+              "message": "Add strength control for vace. (#7717)",
+              "linesAdded": 9,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/ldm/wan/model.py",
+                "comfy/model_base.py",
+                "comfy_extras/nodes_wan.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-20": {
+          "date": "2025-04-20",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/controlnet.py"
+          ],
+          "commits": [
+            {
+              "hash": "2c735c13b4fbdb9ffa654b0afadb4e05d729dd65",
+              "author": "comfyanonymous",
+              "date": "2025-04-20T15:33:27.000Z",
+              "message": "Slightly better fix for #7687",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/controlnet.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-18": {
+          "date": "2025-04-18",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "CODEOWNERS"
+          ],
+          "commits": [
+            {
+              "hash": "077148fe182e7f0fd69baa210e524b9e331c06ed",
+              "author": "Yoland Yan",
+              "date": "2025-04-18T23:14:17.000Z",
+              "message": "Update CODEOWNERS with more files and folders",
+              "linesAdded": 6,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "CODEOWNERS"
+              ]
+            }
+          ]
+        },
+        "2025-04-17": {
+          "date": "2025-04-17",
+          "heatScore": 10,
+          "linesChanged": 11,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/pullrequest-ci-run.yml"
+          ],
+          "commits": [
+            {
+              "hash": "3d5b5b2c951a84e04e0e760485611df70b6b8f1b",
+              "author": "Yoland Yan",
+              "date": "2025-04-17T21:17:40.000Z",
+              "message": "Update pullrequest-ci-run.yml",
+              "linesAdded": 6,
+              "linesDeleted": 5,
+              "filesChanged": [
+                ".github/workflows/pullrequest-ci-run.yml"
+              ]
+            }
+          ]
+        },
+        "2025-04-16": {
+          "date": "2025-04-16",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/hidream/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "1fc00ba4b6576ed5910a88caa47866774ee6d0ca",
+              "author": "comfyanonymous",
+              "date": "2025-04-16T22:34:14.000Z",
+              "message": "Make hidream work with any latent resolution.",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/ldm/hidream/model.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-15": {
+          "date": "2025-04-15",
+          "heatScore": 82,
+          "linesChanged": 1089,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/hidream/model.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/ops.py",
+            "comfy/sd.py",
+            "comfy/supported_models.py",
+            "comfy/text_encoders/hidream.py",
+            "comfy_extras/nodes_hidream.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "9ad792f92706e2179c58b2e5348164acafa69288",
+              "author": "comfyanonymous",
+              "date": "2025-04-15T21:35:05.000Z",
+              "message": "Basic support for hidream i1 model.",
+              "linesAdded": 1087,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/ldm/hidream/model.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/ops.py",
+                "comfy/sd.py",
+                "comfy/supported_models.py",
+                "comfy/text_encoders/hidream.py",
+                "comfy_extras/nodes_hidream.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-14": {
+          "date": "2025-04-14",
+          "heatScore": 17,
+          "linesChanged": 105,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/common_dit.py",
+            "comfy/ops.py",
+            "comfy/rmsnorm.py"
+          ],
+          "commits": [
+            {
+              "hash": "8a438115fb9e3ed8327de25b23d341dccde229d9",
+              "author": "comfyanonymous",
+              "date": "2025-04-14T22:00:33.000Z",
+              "message": "add RMSNorm to comfy.ops",
+              "linesAdded": 88,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "comfy/ldm/common_dit.py",
+                "comfy/ops.py",
+                "comfy/rmsnorm.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-13": {
+          "date": "2025-04-13",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfyui_version.py",
+            "pyproject.toml"
+          ],
+          "commits": [
+            {
+              "hash": "a14c2fc3565277dfe8ab0ecb22a86c1d0a1f72cf",
+              "author": "comfyanonymous",
+              "date": "2025-04-13T19:21:12.000Z",
+              "message": "ComfyUI version v0.3.28",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfyui_version.py",
+                "pyproject.toml"
+              ]
+            }
+          ]
+        },
+        "2025-04-12": {
+          "date": "2025-04-12",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "bb495cc9b85b8c6793b61e890df64fe3cb3f07fd",
+              "author": "comfyanonymous",
+              "date": "2025-04-12T22:58:20.000Z",
+              "message": "Print python version in log.",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-11": {
+          "date": "2025-04-11",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "execution.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "22ad513c72b891322f7baf6b459aa41858087b3b",
+              "author": "comfyanonymous",
+              "date": "2025-04-11T11:16:52.000Z",
+              "message": "Refactor node cache code to more easily add other types of cache.",
+              "linesAdded": 28,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "execution.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-10": {
+          "date": "2025-04-10",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/comfy_types/node_typing.py"
+          ],
+          "commits": [
+            {
+              "hash": "98bdca4cb2907ad10bd24776c0b7587becdd5734",
+              "author": "Chenlei Hu",
+              "date": "2025-04-10T10:57:06.000Z",
+              "message": "Deprecate InputTypeOptions.defaultInput (#7551)",
+              "linesAdded": 6,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/comfy_types/node_typing.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-09": {
+          "date": "2025-04-09",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "fb1b9c76b02442f89e97302499b627d122ffd1c4",
+              "author": "Dr.Lt.Data",
+              "date": "2025-04-09T23:40:53.000Z",
+              "message": "added: --disable-manager option",
+              "linesAdded": 4,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-08": {
+          "date": "2025-04-08",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "2f7d8159c32de22c15fbeea7ff9063f2231586bb",
+              "author": "comfyanonymous",
+              "date": "2025-04-08T12:11:59.000Z",
+              "message": "Show the user an error when the controlnet file is invalid.",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-07": {
+          "date": "2025-04-07",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/lora_convert.py"
+          ],
+          "commits": [
+            {
+              "hash": "70d7242e57e853c489b608e88d7874e546474604",
+              "author": "comfyanonymous",
+              "date": "2025-04-07T09:01:47.000Z",
+              "message": "Support the wan fun reward loras.",
+              "linesAdded": 7,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/lora_convert.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-05": {
+          "date": "2025-04-05",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/clip_vision.py",
+            "comfy/clip_vision_siglip_512.json"
+          ],
+          "commits": [
+            {
+              "hash": "3bfe4e527665d71a3cc88fe06e2733209602ae3a",
+              "author": "comfyanonymous",
+              "date": "2025-04-05T10:14:10.000Z",
+              "message": "Support 512 siglip model.",
+              "linesAdded": 19,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/clip_vision.py",
+                "comfy/clip_vision_siglip_512.json"
+              ]
+            }
+          ]
+        },
+        "2025-04-04": {
+          "date": "2025-04-04",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "node_helpers.py"
+          ],
+          "commits": [
+            {
+              "hash": "721253cb0527e0476f12bd20835b4fff5961508e",
+              "author": "comfyanonymous",
+              "date": "2025-04-04T00:57:59.000Z",
+              "message": "Fix problem.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "node_helpers.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-02": {
+          "date": "2025-04-02",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_mask.py",
+            "comfy_extras/nodes_post_processing.py",
+            "node_helpers.py"
+          ],
+          "commits": [
+            {
+              "hash": "3d2e3a6f29670809aa97b41505fa4e93ce11b98d",
+              "author": "comfyanonymous",
+              "date": "2025-04-02T23:32:34.000Z",
+              "message": "Fix alpha image issue in more nodes.",
+              "linesAdded": 12,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "comfy_extras/nodes_mask.py",
+                "comfy_extras/nodes_post_processing.py",
+                "node_helpers.py"
+              ]
+            }
+          ]
+        },
+        "2025-04-01": {
+          "date": "2025-04-01",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_hunyuan3d.py"
+          ],
+          "commits": [
+            {
+              "hash": "ab5413351eee61f3d7f10c74e75286df0058bb18",
+              "author": "comfyanonymous",
+              "date": "2025-04-01T18:09:31.000Z",
+              "message": "Fix comment.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_hunyuan3d.py"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-04-24": {
+          "date": "2025-04-24",
+          "heatScore": 19,
+          "linesChanged": 138,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frontends/wikimedia.ipynb",
+            "package-lock.json",
+            "package.json",
+            "yarn.lock"
+          ],
+          "commits": [
+            {
+              "hash": "95e596e4aacc579b571aa1a8031dc47adf144677",
+              "author": "Brian Cullinan",
+              "date": "2025-04-24T15:36:24.000Z",
+              "message": "possible fix for slow indexes, includes, then levdist",
+              "linesAdded": 96,
+              "linesDeleted": 42,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frontends/wikimedia.ipynb",
+                "package-lock.json",
+                "package.json",
+                "yarn.lock"
+              ]
+            }
+          ]
+        },
+        "2025-04-23": {
+          "date": "2025-04-23",
+          "heatScore": 22,
+          "linesChanged": 184,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frontends/wikimedia.ipynb",
+            "package-lock.json",
+            "package.json",
+            "yarn.lock"
+          ],
+          "commits": [
+            {
+              "hash": "4b63eccbf7bccde9051cf78b37f9b8ec0ad9785c",
+              "author": "Brian Cullinan",
+              "date": "2025-04-23T17:49:48.000Z",
+              "message": "faster index using brotli and less repetition in the database",
+              "linesAdded": 125,
+              "linesDeleted": 59,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frontends/wikimedia.ipynb",
+                "package-lock.json",
+                "package.json",
+                "yarn.lock"
+              ]
+            }
+          ]
+        },
+        "2025-04-22": {
+          "date": "2025-04-22",
+          "heatScore": 22,
+          "linesChanged": 187,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frameworks/node express.ipynb",
+            "Frontends/timeline map.ipynb",
+            "Frontends/wikimedia.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c8e08d69780c91086c14c769a2a007d472e5212f",
+              "author": "Brian Cullinan",
+              "date": "2025-04-22T16:13:57.000Z",
+              "message": "fix for redirect and more wikipedia cloning",
+              "linesAdded": 90,
+              "linesDeleted": 97,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frameworks/node express.ipynb",
+                "Frontends/timeline map.ipynb",
+                "Frontends/wikimedia.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-21": {
+          "date": "2025-04-21",
+          "heatScore": 100,
+          "linesChanged": 2519,
+          "commitCount": 1,
+          "filesEdited": [
+            ".notebook-graph.json",
+            "Core/cache.ipynb",
+            "Databases/caches.ipynb",
+            "Frameworks/node express.ipynb",
+            "Frameworks/test runner.ipynb",
+            "Frontends/grafana.ipynb",
+            "Frontends/timeline map.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "275445924a5ff10cddaae85dc831235764e3c3cb",
+              "author": "Brian Cullinan",
+              "date": "2025-04-21T22:47:08.000Z",
+              "message": "showing arbitrary maps of data using LLM",
+              "linesAdded": 1575,
+              "linesDeleted": 944,
+              "filesChanged": [
+                ".notebook-graph.json",
+                "Core/cache.ipynb",
+                "Databases/caches.ipynb",
+                "Frameworks/node express.ipynb",
+                "Frameworks/test runner.ipynb",
+                "Frontends/grafana.ipynb",
+                "Frontends/timeline map.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-20": {
+          "date": "2025-04-20",
+          "heatScore": 100,
+          "linesChanged": 9064,
+          "commitCount": 1,
+          "filesEdited": [
+            ".notebook-graph.json",
+            "Algorithms/audio.ipynb",
+            "Algorithms/ffmpeg commands.ipynb",
+            "Algorithms/image magik commands.ipynb",
+            "Analytics/calculations for life.ipynb",
+            "Core/cache.ipynb",
+            "Core/rpc.ipynb",
+            "Frameworks/test runner.ipynb",
+            "Frontends/documentation.ipynb",
+            "{Core => Languages}/programming paradigms.ipynb",
+            "Resources/APIs/apis.json",
+            "Utilities/diff.ipynb",
+            "package-lock.json",
+            "package.json",
+            "yarn.lock"
+          ],
+          "commits": [
+            {
+              "hash": "d9c4b665b61825d214b396ce96a8c1a5fd1b7ceb",
+              "author": "Brian Cullinan",
+              "date": "2025-04-20T04:48:04.000Z",
+              "message": "a bit more ai and cleanup",
+              "linesAdded": 8664,
+              "linesDeleted": 400,
+              "filesChanged": [
+                ".notebook-graph.json",
+                "Algorithms/audio.ipynb",
+                "Algorithms/ffmpeg commands.ipynb",
+                "Algorithms/image magik commands.ipynb",
+                "Analytics/calculations for life.ipynb",
+                "Core/cache.ipynb",
+                "Core/rpc.ipynb",
+                "Frameworks/test runner.ipynb",
+                "Frontends/documentation.ipynb",
+                "{Core => Languages}/programming paradigms.ipynb",
+                "Resources/APIs/apis.json",
+                "Utilities/diff.ipynb",
+                "package-lock.json",
+                "package.json",
+                "yarn.lock"
+              ]
+            }
+          ]
+        },
+        "2025-04-19": {
+          "date": "2025-04-19",
+          "heatScore": 100,
+          "linesChanged": 12972,
+          "commitCount": 1,
+          "filesEdited": [
+            ".graph-git-Quake3e-master.json",
+            ".notebook-graph.json",
+            "Core/cache.ipynb",
+            "Core/import.ipynb",
+            "Frameworks/test runner.ipynb",
+            "package-lock.json",
+            "package.json",
+            "yarn.lock"
+          ],
+          "commits": [
+            {
+              "hash": "7c673d039f647e08c66c76056c5edc811fce6d7a",
+              "author": "Brian Cullinan",
+              "date": "2025-04-19T18:16:22.000Z",
+              "message": "more AI driven improvements",
+              "linesAdded": 5995,
+              "linesDeleted": 6977,
+              "filesChanged": [
+                ".graph-git-Quake3e-master.json",
+                ".notebook-graph.json",
+                "Core/cache.ipynb",
+                "Core/import.ipynb",
+                "Frameworks/test runner.ipynb",
+                "package-lock.json",
+                "package.json",
+                "yarn.lock"
+              ]
+            }
+          ]
+        },
+        "2025-04-18": {
+          "date": "2025-04-18",
+          "heatScore": 100,
+          "linesChanged": 20393,
+          "commitCount": 1,
+          "filesEdited": [
+            ".graph-git-Quake3e-master.json",
+            ".graph-git-cocainediesel-master.json",
+            "Frameworks/test runner.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "8d616a42d7366320e344d4b4ea335b9fe31ff207",
+              "author": "Brian Cullinan",
+              "date": "2025-04-18T02:31:46.000Z",
+              "message": "saving graphs for faster load time",
+              "linesAdded": 20387,
+              "linesDeleted": 6,
+              "filesChanged": [
+                ".graph-git-Quake3e-master.json",
+                ".graph-git-cocainediesel-master.json",
+                "Frameworks/test runner.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-17": {
+          "date": "2025-04-17",
+          "heatScore": 25,
+          "linesChanged": 231,
+          "commitCount": 1,
+          "filesEdited": [
+            ".notebook-graph.json",
+            "Core/cache.ipynb",
+            "Core/import.ipynb",
+            "Frameworks/node express.ipynb",
+            "Frameworks/test runner.ipynb",
+            "Frontends/frontends.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "6ed1eab5ac9c979a0df8e02b96912e33a9888272",
+              "author": "Brian Cullinan",
+              "date": "2025-04-17T19:59:21.000Z",
+              "message": "fixes to accommodate running as a lonely service without /rpc/ calls, disabled by default when specifying services because of danger",
+              "linesAdded": 118,
+              "linesDeleted": 113,
+              "filesChanged": [
+                ".notebook-graph.json",
+                "Core/cache.ipynb",
+                "Core/import.ipynb",
+                "Frameworks/node express.ipynb",
+                "Frameworks/test runner.ipynb",
+                "Frontends/frontends.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-16": {
+          "date": "2025-04-16",
+          "heatScore": 19,
+          "linesChanged": 142,
+          "commitCount": 1,
+          "filesEdited": [
+            ".notebook-graph.json",
+            "Frameworks/test runner.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c0406c3d8d43fe2131d5fbae24bb82cf4994da6e",
+              "author": "Brian Cullinan",
+              "date": "2025-04-16T16:17:02.000Z",
+              "message": "graph animating feature",
+              "linesAdded": 140,
+              "linesDeleted": 2,
+              "filesChanged": [
+                ".notebook-graph.json",
+                "Frameworks/test runner.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-15": {
+          "date": "2025-04-15",
+          "heatScore": 20,
+          "linesChanged": 163,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frameworks/test runner.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "5be2eb71ad236fcc3036b067e1f679bde857d990",
+              "author": "Brian Cullinan",
+              "date": "2025-04-15T05:02:00.000Z",
+              "message": "beginning graph for tests",
+              "linesAdded": 143,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frameworks/test runner.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-14": {
+          "date": "2025-04-14",
+          "heatScore": 82,
+          "linesChanged": 1093,
+          "commitCount": 1,
+          "filesEdited": [
+            ".automations/2025-04-14T20_32_57_758Z-download_reorganize_bash.sh",
+            ".automations/2025-04-14T20_39_39_450Z-download_reorganize_bash.sh",
+            ".automations/2025-04-14T20_45_44_506Z-download_reorganize_bash.sh",
+            ".automations/2025-04-14T20_51_24_162Z-download_reorganize_bash.sh",
+            ".automations/2025-04-14T20_57_11_639Z-download_reorganize_bash.sh",
+            ".automations/2025-04-14T21_02_25_205Z-download_reorganize_bash.sh",
+            ".automations/2025-04-14T21_10_09_940Z-download_reorganize_bash.sh",
+            ".automations/2025-04-14T21_16_14_205Z-download_reorganize_bash.sh",
+            ".categories.json",
+            "Algorithms/llm scaffold.ipynb",
+            "Core/cache.ipynb",
+            "Databases/filesystem.ipynb",
+            "Readme.md"
+          ],
+          "commits": [
+            {
+              "hash": "6b4a9e6bf44fa4d2e24ee96f215001656ec8c0d7",
+              "author": "Brian Cullinan",
+              "date": "2025-04-14T21:18:31.000Z",
+              "message": "file system reorganizing script",
+              "linesAdded": 1056,
+              "linesDeleted": 37,
+              "filesChanged": [
+                ".automations/2025-04-14T20_32_57_758Z-download_reorganize_bash.sh",
+                ".automations/2025-04-14T20_39_39_450Z-download_reorganize_bash.sh",
+                ".automations/2025-04-14T20_45_44_506Z-download_reorganize_bash.sh",
+                ".automations/2025-04-14T20_51_24_162Z-download_reorganize_bash.sh",
+                ".automations/2025-04-14T20_57_11_639Z-download_reorganize_bash.sh",
+                ".automations/2025-04-14T21_02_25_205Z-download_reorganize_bash.sh",
+                ".automations/2025-04-14T21_10_09_940Z-download_reorganize_bash.sh",
+                ".automations/2025-04-14T21_16_14_205Z-download_reorganize_bash.sh",
+                ".categories.json",
+                "Algorithms/llm scaffold.ipynb",
+                "Core/cache.ipynb",
+                "Databases/filesystem.ipynb",
+                "Readme.md"
+              ]
+            }
+          ]
+        },
+        "2025-04-13": {
+          "date": "2025-04-13",
+          "heatScore": 20,
+          "linesChanged": 164,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Databases/git index.ipynb",
+            "Frameworks/node express.ipynb",
+            "Frontends/documentation.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e334f3cc4905b1d13501047bbd488b7fa256aa45",
+              "author": "Brian Cullinan",
+              "date": "2025-04-13T23:57:02.000Z",
+              "message": "bug handling for dollar signs in javascript replace",
+              "linesAdded": 85,
+              "linesDeleted": 79,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Databases/git index.ipynb",
+                "Frameworks/node express.ipynb",
+                "Frontends/documentation.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-12": {
+          "date": "2025-04-12",
+          "heatScore": 45,
+          "linesChanged": 538,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/movie database.ipynb",
+            "Core/cache.ipynb",
+            "Frontends/linkedin.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "9b1c732e1d15de0d0a06226004bab2c855a068aa",
+              "author": "Brian Cullinan",
+              "date": "2025-04-12T23:11:40.000Z",
+              "message": "auto loading of notebook services",
+              "linesAdded": 334,
+              "linesDeleted": 204,
+              "filesChanged": [
+                "Analytics/movie database.ipynb",
+                "Core/cache.ipynb",
+                "Frontends/linkedin.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-11": {
+          "date": "2025-04-11",
+          "heatScore": 28,
+          "linesChanged": 282,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/import.ipynb",
+            "Frontends/frontends.ipynb",
+            "Frontends/grafana.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "7ba54cbebb7c5b1727089d2c2aaa5341f0a84a95",
+              "author": "Brian Cullinan",
+              "date": "2025-04-11T19:39:58.000Z",
+              "message": "better logging",
+              "linesAdded": 166,
+              "linesDeleted": 116,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/import.ipynb",
+                "Frontends/frontends.ipynb",
+                "Frontends/grafana.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-09": {
+          "date": "2025-04-09",
+          "heatScore": 45,
+          "linesChanged": 529,
+          "commitCount": 1,
+          "filesEdited": [
+            "Algorithms/opencv.ipynb",
+            "Core/cache.ipynb",
+            "Databases/caches.ipynb",
+            "Databases/git index.ipynb",
+            "Frameworks/Angular/Angular components.ipynb",
+            "Frontends/brians resume.ipynb",
+            "Frontends/frontends.ipynb",
+            "Frontends/grafana.ipynb",
+            "Frontends/linkedin.ipynb",
+            "Selenium/selenium server.ipynb",
+            "background.js",
+            "load_document.js",
+            "manifest.json"
+          ],
+          "commits": [
+            {
+              "hash": "ec1d81af6ecc87e3ce2ddeaea7c2c0b9b00e8c29",
+              "author": "Brian Cullinan",
+              "date": "2025-04-09T17:40:54.000Z",
+              "message": "multiple root paths, https fix, etc",
+              "linesAdded": 338,
+              "linesDeleted": 191,
+              "filesChanged": [
+                "Algorithms/opencv.ipynb",
+                "Core/cache.ipynb",
+                "Databases/caches.ipynb",
+                "Databases/git index.ipynb",
+                "Frameworks/Angular/Angular components.ipynb",
+                "Frontends/brians resume.ipynb",
+                "Frontends/frontends.ipynb",
+                "Frontends/grafana.ipynb",
+                "Frontends/linkedin.ipynb",
+                "Selenium/selenium server.ipynb",
+                "background.js",
+                "load_document.js",
+                "manifest.json"
+              ]
+            }
+          ]
+        },
+        "2025-04-08": {
+          "date": "2025-04-08",
+          "heatScore": 27,
+          "linesChanged": 269,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frontends/brians resume.ipynb",
+            "Frontends/frontends.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "821594e796e6a2171f3b8d0b9d427ed5d1b93534",
+              "author": "Brian Cullinan",
+              "date": "2025-04-08T01:26:10.000Z",
+              "message": "startup command code",
+              "linesAdded": 238,
+              "linesDeleted": 31,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frontends/brians resume.ipynb",
+                "Frontends/frontends.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-07": {
+          "date": "2025-04-07",
+          "heatScore": 16,
+          "linesChanged": 104,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frontends/linkedin.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "61d5a9a9c8029bcb171481239eda3ad171252a79",
+              "author": "Brian Cullinan",
+              "date": "2025-04-07T05:43:47.000Z",
+              "message": "my profile link",
+              "linesAdded": 54,
+              "linesDeleted": 50,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frontends/linkedin.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-06": {
+          "date": "2025-04-06",
+          "heatScore": 20,
+          "linesChanged": 152,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frontends/linkedin.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "aeca89e8156736d5aab39473069175f9a766f093",
+              "author": "Brian Cullinan",
+              "date": "2025-04-06T23:40:01.000Z",
+              "message": "password reset process",
+              "linesAdded": 103,
+              "linesDeleted": 49,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frontends/linkedin.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-05": {
+          "date": "2025-04-05",
+          "heatScore": 17,
+          "linesChanged": 117,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Frontends/linkedin.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c96492dddd4b8c96c9e65ebdd38f76cc0f599da6",
+              "author": "Brian Cullinan",
+              "date": "2025-04-05T23:11:37.000Z",
+              "message": "minor bugs and beginning of password reset",
+              "linesAdded": 71,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Frontends/linkedin.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-04": {
+          "date": "2025-04-04",
+          "heatScore": 44,
+          "linesChanged": 513,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Databases/git index.ipynb",
+            "Frontends/linkedin.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "bd78a7a954a3323515bd6aa3b30df78ac612895d",
+              "author": "Brian Cullinan",
+              "date": "2025-04-04T23:03:18.000Z",
+              "message": "working auth model",
+              "linesAdded": 420,
+              "linesDeleted": 93,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Databases/git index.ipynb",
+                "Frontends/linkedin.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-03": {
+          "date": "2025-04-03",
+          "heatScore": 18,
+          "linesChanged": 120,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Databases/git index.ipynb",
+            "Frontends/documentation.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "fa1ed75d0b5ac15d9d9f6a4123f4ee5d63e0d91d",
+              "author": "Brian Cullinan",
+              "date": "2025-04-03T19:45:13.000Z",
+              "message": "more branch url stuff",
+              "linesAdded": 62,
+              "linesDeleted": 58,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Databases/git index.ipynb",
+                "Frontends/documentation.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-02": {
+          "date": "2025-04-02",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "Databases/git index.ipynb",
+            "Frontends/documentation.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "5370ae053e1ec3cb231982b9830b973da6219573",
+              "author": "Brian Cullinan",
+              "date": "2025-04-02T23:27:16.000Z",
+              "message": "line matching fix",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "Databases/git index.ipynb",
+                "Frontends/documentation.ipynb"
+              ]
+            }
+          ]
+        },
+        "2025-04-01": {
+          "date": "2025-04-01",
+          "heatScore": 18,
+          "linesChanged": 129,
+          "commitCount": 1,
+          "filesEdited": [
+            "Databases/git index.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f6f9ce7ea206288655e2fc95897644be535f0a06",
+              "author": "Brian Cullinan",
+              "date": "2025-04-01T21:31:46.000Z",
+              "message": "support for cloning a bare database",
+              "linesAdded": 125,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "Databases/git index.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "mediaserver": {
+      "projectName": "mediaserver",
+      "localPath": "C:\\Users\\megam\\mediaserver",
+      "remoteUrl": "git@github.com:briancullinan2/mediaserver.git",
+      "lastUpdated": "2026-09-24T02:37:08.908Z",
+      "screenshots": [
+        {
+          "filename": "Screenshot 2025-04-03 at 11.56.18 AM.png",
+          "relativePath": "Screenshot 2025-04-03 at 11.56.18 AM.png",
+          "date": "2025-04-03T00:00:00.000Z",
+          "source": "filename"
+        },
+        {
+          "filename": "Screenshot 2025-04-03 at 11.59.11 AM.png",
+          "relativePath": "Screenshot 2025-04-03 at 11.59.11 AM.png",
+          "date": "2025-04-03T00:00:00.000Z",
+          "source": "filename"
+        },
+        {
+          "filename": "Screenshot 2025-04-03 at 12.03.16 PM.png",
+          "relativePath": "Screenshot 2025-04-03 at 12.03.16 PM.png",
+          "date": "2025-04-03T00:00:00.000Z",
+          "source": "filename"
+        }
+      ],
+      "dailyHeat": {
+        "2025-04-03": {
+          "date": "2025-04-03",
+          "heatScore": 11,
+          "linesChanged": 18,
+          "commitCount": 1,
+          "filesEdited": [
+            "includes/database.inc",
+            "includes/file.inc",
+            "modules/admin/balancer.module",
+            "modules/search.module"
+          ],
+          "commits": [
+            {
+              "hash": "ff9e8c52ea017ab6a46b3d00bf0e6beb177d61d2",
+              "author": "Brian Cullinan",
+              "date": "2025-04-03T19:27:37.000Z",
+              "message": "few more bug fixes",
+              "linesAdded": 13,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "includes/database.inc",
+                "includes/file.inc",
+                "modules/admin/balancer.module",
+                "modules/search.module"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

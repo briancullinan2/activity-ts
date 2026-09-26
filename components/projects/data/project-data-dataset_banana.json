@@ -1,0 +1,65 @@
+{
+  "projectName": "dataset_banana",
+  "localPath": "C:\\Users\\megam\\dataset_banana",
+  "remoteUrl": "git@github.com:briancullinan2/dataset_banana.git",
+  "lastUpdated": "2026-09-26T05:13:10.888Z",
+  "screenshots": [],
+  "dailyHeat": {
+    "2026-06-23": {
+      "date": "2026-06-23",
+      "heatScore": 40,
+      "linesChanged": 452,
+      "commitCount": 1,
+      "filesEdited": [
+        "feature-snip.js",
+        "feature-snip.py",
+        "isolated_output/DSC_0423_isolated.png",
+        "isolated_output/DSC_0424_isolated.png",
+        "isolated_output/DSC_0425_isolated.png",
+        "isolated_output/DSC_0426_isolated.png",
+        "isolated_output/DSC_0427_isolated.png",
+        "isolated_output/DSC_0428_isolated.png",
+        "isolated_output/DSC_0429_isolated.png",
+        "isolated_output/DSC_0430_isolated.png",
+        "isolated_output/DSC_0431_isolated.png",
+        "isolated_output/DSC_0432_isolated.png",
+        "isolated_output/DSC_0433_isolated.png",
+        "isolated_output/DSC_0434_isolated.png",
+        "isolated_output/DSC_0435_isolated.png",
+        "isolated_output/DSC_0436_isolated.png",
+        "isolated_output/DSC_0437_isolated.png",
+        "isolated_output/DSC_0438_isolated.png"
+      ],
+      "commits": [
+        {
+          "hash": "a7a18a34616d2b9768cb99fe6e749ee1a10dae72",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T16:13:51.000Z",
+          "message": "background removed for better sfm accuracy?",
+          "linesAdded": 452,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "feature-snip.js",
+            "feature-snip.py",
+            "isolated_output/DSC_0423_isolated.png",
+            "isolated_output/DSC_0424_isolated.png",
+            "isolated_output/DSC_0425_isolated.png",
+            "isolated_output/DSC_0426_isolated.png",
+            "isolated_output/DSC_0427_isolated.png",
+            "isolated_output/DSC_0428_isolated.png",
+            "isolated_output/DSC_0429_isolated.png",
+            "isolated_output/DSC_0430_isolated.png",
+            "isolated_output/DSC_0431_isolated.png",
+            "isolated_output/DSC_0432_isolated.png",
+            "isolated_output/DSC_0433_isolated.png",
+            "isolated_output/DSC_0434_isolated.png",
+            "isolated_output/DSC_0435_isolated.png",
+            "isolated_output/DSC_0436_isolated.png",
+            "isolated_output/DSC_0437_isolated.png",
+            "isolated_output/DSC_0438_isolated.png"
+          ]
+        }
+      ]
+    }
+  }
+}

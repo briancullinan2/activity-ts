@@ -1,199 +1,153 @@
-Here is a architectural breakdown and complete, modern `README.md` for migrating the **`briancullinan2/mediaserver`** project from its original PHP/Ampache server-centric architecture to a modern, browser-native JavaScript/TypeScript client-side media server.
+
+# Activity
+
+> **Repository Overview**: A unified single-file web deployment (`index.html`), personal live dashboard, real-time spatial map, self-hosted tool aggregator, and generative AI research collection.
 
 ---
 
-### Architectural Transformation Summary
+## Technical Stack & Architecture
 
-| Feature | Legacy PHP Architecture | New Browser-Native JavaScript Architecture |
-| --- | --- | --- |
-| **Runtime & Server** | PHP 7+ Front Controller (`index.php`), Apache/Nginx, SQLite/MySQL | Pure Client-Side SPA (TypeScript/HTML5), Service Workers, Web Workers |
-| **Database & Indexing** | Server-side relational DB via `includes/db.inc` | **OPFS SQLite WASM** via `@sqlite.org/sqlite-wasm` or **IndexedDB** |
-| **Transcoding & Media** | Server FFmpeg / VLC execution via `encode.module` | **FFmpeg.wasm** inside dedicated **Web Workers** for client-side encoding |
-| **File Access & Storage** | Server-side directory crawling (`files.module`, `cron.php`) | **File System Access API** (`window.showDirectoryPicker()`) with OPFS persistence |
-| **Torrents & Downloader** | Server-side downloading (`download.module`) | **WebTorrent** in browser using WebSockets/SOCKS5 proxy signaling |
-| **P2P & Local Sharing** | WebDAV / Ampache API endpoints | **WebRTC DataChannels** for direct P2P mesh browser-to-browser streaming |
+- **Frontend Core**: Custom single-file HTML/CSS web application leveraging CSS-only input routing (`input[type="radio"]` tab navigation, CSS selectors for view switching).
+- **Spatial Engine & Mapping**: Leaflet.js with Carto dark basemaps, custom OSRM road-snapping route processing, and dynamic waypoint clustering (`#map` tile rendering and direction-arrow markers).
+- **Client-Side Storage & Indexing**: Browser-based File System Access API, IndexedDB persistence, OPFS SQLite, and local thread tracking via `briancullinan2/mediaserver`.
+- **In-Browser Compute & AI**: WebGPU integration, WebLLM / MLC-LLM (`mlc-ai/web-llm`), ONNX Runtime Web, and Stable Diffusion browser execution.
+- **Hardware Integration**: Raspberry Pi 5 monitoring interfaces, local CCTV / video streaming keyframe offsets, and Cloudflare Tunnel (`cloudflared`) remote connectivity.
 
 ---
 
-# Modern MediaServer JS
-
-> A 100% client-side, zero-backend media server, stream engine, and P2P distribution network running entirely inside the web browser.
-
-`mediaserver-js` re-imagines the classic monolithic PHP `Atlas/mediaserver` platform as a high-performance, browser-native web application. Utilizing modern Web APIs (WebAssembly, Web Workers, File System Access API, OPFS, WebRTC, and WebSockets), this project indexes local file systems, transcodes media client-side, streams via BitTorrent/WebRTC, and shares files across browsers—without sending media content through a centralized server.
-
----
-
-## Key Features
-
-- 📁 **Local Directory Mounts & Indexing**: Mount local directories directly via the File System Access API. File metadata and media trees are persisted using SQLite compiled to WebAssembly inside Origin Private File System (OPFS).
-- ⚙️ **Client-Side Transcoding (Web Workers)**: Transcode video and audio formats (MKV, AVI, FLAC, AC3) directly in background Web Workers using `@ffmpeg/ffmpeg` (FFmpeg.wasm).
-- 🌐 **BitTorrent over WebSockets**: Connect to the BitTorrent network using client-side WebTorrent routed through WebSocket trackers or custom SOCKS5 proxy adapters.
-- 🔄 **Browser-to-Browser P2P Mesh**: Stream local media directly to other client browser tabs using WebRTC DataChannels for zero-latency local network or remote sharing.
-- ⚡ **Offline-First PWA**: Service Workers cache UI assets, database interfaces, and stream parsers for full offline usage.
-
----
-
-## Architecture Overview
+## Active & Past Software Projects
 
 
 ```
 
-```
-                  +-------------------------------------------------------+
-                  |                   Browser Tab (UI)                    |
-                  |  - React/Lit UI Component Tree                        |
-                  |  - HTML5 Video / WebAudio Render Pipeline             |
-                  +-----------+----------------------+--------------------+
-                              |                      |
-        +---------------------+                      +----------------------+
-        |                                                                   |
-        v                                                                   v
-
-```
-
-+-----------------------+                                              +-----------------+
-|   Main Web Worker     |                                              |   Web Worker    |
-| (Database & Engine)   |                                              |  (Transcoder)   |
-|                       |                                              |                 |
-|  - SQLite WASM (OPFS) |                                              |  - FFmpeg.wasm  |
-|  - Metadata Indexer   |                                              |  - Demuxer      |
-|  - Router & API       |                                              |  - Chunk Pipeline
-+-----------+-----------+                                              +-----------------+
-|
-+-----------------------+-----------------------+
-|                       |                       |
-v                       v                       v
-+----------------------+  +-------------------+  +--------------------+
-| File System Access   |  |   WebTorrent /    |  |   WebRTC Peer      |
-|     API / OPFS       |  | WebSocket Proxy   |  |   DataChannels     |
-| (Local Disks & Repos)|  | (BitTorrent Swarm)|  | (Local/Remote P2P) |
-+----------------------+  +-------------------+  +--------------------+
++-----------------------------------------------------------------------------------+
+| Project Name       | Core Technologies & Architecture                             |
++--------------------+--------------------------------------------------------------+
+| Illustrious        | Client-side Web IDE, 3D spatial engine, WebAssembly C,      |
+|                    | Lumino dock layouts, Ace editor workers, nuNuStudio, xterm.js|
++--------------------+--------------------------------------------------------------+
+| StudySauce / Atrium| Educational flashcard platform, C#, Blazor Hybrid, .NET MAUI,|
+|                    | Entity Framework Core, SQLite, background synchronization    |
++--------------------+--------------------------------------------------------------+
+| Quake3e WASM       | Low-level Clang compilation to WebAssembly using WASI-SDK,   |
+|                    | q3lcc/q3asm build pipelines, browser-based Quake III Arena   |
++--------------------+--------------------------------------------------------------+
+| Live Resume        | Single-file live development dashboard, monitor feed embeds, |
+|                    | Leaflet GPS route hub, interactive categorizations           |
++--------------------+--------------------------------------------------------------+
+| Jupyter Ops        | Local ops automation pipelines, model parameter generation,  |
+|                    | local AI execution interfaces                                |
++--------------------+--------------------------------------------------------------+
 
 ```
 
 ---
 
-## Core Technologies & Dependencies
+## Platform Components
 
-* **Language/Bundler**: TypeScript, Vite
-* **Database**: `@sqlite.org/sqlite-wasm` (persisted to OPFS)
-* **Transcoding Engine**: `@ffmpeg/ffmpeg`, `@ffmpeg/util` (FFmpeg compiled to WASM)
-* **Local File System**: File System Access API (`showDirectoryPicker`)
-* **Torrent Engine**: `webtorrent` (configured with WebSocket-to-TCP tracker gateways)
-* **P2P Networking**: WebRTC (`simple-peer` or native `RTCPeerConnection`)
+### 1. Interactive Navigation & Dashboard Interfaces
+
+- **Home**: Core bio, title, location verification, primary contact info, and site objectives.
+- **Federal Resume**: Printable, formatted work history and compliance documents.
+- **Brian Chat**: Self-hosted chat endpoint and agent execution interface.
+- **Live Development**: Real-time display monitor feeds (`monitors/0`, `monitors/1`, `monitors/2`) and streaming status overlays.
+- **Timeline Route Hub**: Leaflet spatial rendering engine processing latitude/longitude waypoints, trace pathways, and location pings over Carto dark tiles.
 
 ---
 
-## Getting Started
+### 2. Research & Study Interests Bookmark Index
 
-### Prerequisites
+Categorized bookmark directories indexed directly into the site runtime:
 
-* Node.js v18.0.0 or higher
-* Modern Chromium-based browser or Firefox (supporting SharedArrayBuffer, Web Assembly, and OPFS)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone [https://github.com/briancullinan2/mediaserver.git](https://github.com/briancullinan2/mediaserver.git)
-cd mediaserver
-
-# Install dependencies
-npm install
-
-# Start local development server with required COOP/COEP headers
-npm run dev
 
 ```
 
-> **Note on SharedArrayBuffer**: Multithreaded FFmpeg.wasm requires Cross-Origin Isolation. The Vite dev server is preconfigured with the following headers:
-> ```http
-> Cross-Origin-Opener-Policy: same-origin
-> Cross-Origin-Embedder-Policy: require-corp
->
-> ```
->
->
-
----
-
-## Module Breakdown
-
-### 1. File Indexer & Storage Layer (`src/core/fs/`)
-
-* Mounts local folders using `window.showDirectoryPicker()`.
-* Recursively walks file paths and stores inode metadata in SQLite WASM.
-* Generates persistent file handles in OPFS for zero-copy stream reading using `FileSystemFileHandle.getFile()`.
-
-### 2. Worker Transcoder (`src/workers/transcoder.worker.ts`)
-
-* Executes inside a dedicated `Worker` context.
-* Consumes binary chunks via `ReadableStream` or `Blob.slice()`.
-* Converts incompatible video containers (e.g., MKV/HEVC to MP4/H.264) on the fly and returns fragmented MP4 streams for MSE (`MediaSource`) consumption.
-
-### 3. BitTorrent WebSocket Gateway (`src/network/torrent/`)
-
-* Uses `webtorrent` in pure client-side mode.
-* Communicates with public BitTorrent swarms via WebSocket-to-TCP bridge proxies or native WebRTC torrent seeds.
-
-### 4. P2P Sharing Subsystem (`src/network/p2p/`)
-
-* Establishes direct WebRTC data pipes between running browser tabs.
-* Allows Tab A (holding local file handles) to serve video segments directly to Tab B without uploading files to a cloud server.
-
----
-
-## Project Structure
-
-```
-mediaserver/
-├── public/
-│   ├── ffmpeg/             # Static WASM binaries for FFmpeg
-│   └── favicon.ico
-├── src/
-│   ├── components/         # UI Elements, Video Player, File Explorer
-│   ├── core/
-│   │   ├── db/             # SQLite WASM initialization & schema migrations
-│   │   ├── fs/             # File System Access API wrappers & OPFS drivers
-│   │   └── media/          # Demuxers, MediaSource Extensions (MSE) pipeline
-│   ├── network/
-│   │   ├── bittorrent/     # WebTorrent integration & proxy client
-│   │   └── p2p/            # WebRTC peer connection manager
-│   ├── workers/
-│   │   ├── indexer.worker.ts
-│   │   └── transcoder.worker.ts
-│   ├── main.ts             # Application entrypoint
-│   └── service-worker.ts   # PWA offline asset caching
-├── package.json
-├── tsconfig.json
-└── vite.config.ts
+[Study Interests Index]
+├── Computer Science
+│   ├── mlc-ai/web-llm & web-llm-chat (In-browser LLM Inference)
+│   ├── Input Leap (Open-source KVM software)
+│   ├── Proxmox on Raspberry Pi (ARM64 PVE builds)
+│   ├── Web3-Pi UPS & Power Supplies (Hardware power management)
+│   ├── Overbounce (Quake III Arena movement physics port)
+│   ├── Stirling-PDF & Actual Budget (Local-first self-hosted tools)
+│   └── Trilium Notes & Mind Elixir (Knowledge base structures)
+├── Engineering
+│   ├── ESP32 & LoRa Off-Grid Texting
+│   ├── MetMo Fractal Vise & Hardware Prototyping
+│   └── goBILDA & Mouser Component Architecture
+├── Law/Legal
+│   ├── Regulatory compliance, Arizona statutory legal codes
+│   └── Public record verifications (LexisNexis / Accurint data structures)
+├── Medical Science
+│   └── Neurological structures, hallucinogenic & therapeutic LSD molecular bindings
+└── Education
+└── Online curriculum models and distance learning platforms
 
 ```
 
 ---
 
-## Production Build & Deployment
+### 3. Clip Art & Generative Image Categories
 
-Because `mediaserver-js` is completely client-side, the build output consists of static assets that can be hosted on any static site hosting service (GitHub Pages, Cloudflare Pages, Vercel, or Nginx).
+Prompt structures and image libraries generated via local Stable Diffusion deployments:
 
-```bash
-# Build the production package
-npm run build
+- **Style Prompts**: Anime/Manga, Robotic, Steampunk, Retro 80s, Fantasy Art, Pop Art, Gothic, Cyberpunk.
+- **Subject Categories**: Animals, Places, Scenes, Patterns, Holidays, Mythology, Cosmic, Buildings, Other.
+- **Mythology & History**: Greek God robots, Stations of the Cross, Bible scene variations, Saint iconography.
 
-# Preview production build locally
-npm run preview
+---
+
+### 4. Brainstorming & Research Frameworks
+
+Structured mental models, architectural notes, and cognitive exercises:
+
+- **Genesis Framework**: 7-day cyclical schedule structuring daily cognitive focuses (Light/Knowledge, Atmosphere/Breathing, Land/Plants, Sun/Stars, Birds/Sea, Animals/People, Sabbath/Rest).
+- **Spatial Memory Expansion**: Exercises for mapping geographic routes, emotional associations, and structural recall from childhood and physical environments.
+- **Trance & Meditation Protocols**: Fasting, physical isolation, sensory dampening, and acoustic oscillation routines for altered brainwave states.
+- **Signs & Pattern Recognition**: Behavioral observations, environmental feedback loops, and theta-state awareness.
+- **Dreamwork & Powernaps**: Methods for leveraging hypnagogic and theta-wave states for creative problem-solving and rapid prototyping.
+
+---
+
+### 5. Creative Writing & Documentation Library
+
+Integrated Google Docs repository for theoretical research and narratives:
+
 
 ```
 
-### Static Hosting Header Configuration
-
-Ensure your web host provides cross-origin isolation headers for multithreaded WASM support:
-
-```nginx
-# Nginx configuration snippet
-location / {
-    add_header Cross-Origin-Opener-Policy "same-origin";
-    add_header Cross-Origin-Embedder-Policy "require-corp";
-}
++--------------------------+--------------------------------------------------------+
+| Document Title           | Subject / Focus                                        |
++--------------------------+--------------------------------------------------------+
+| Messages from Tannhauser | Sci-Fi Narrative & Theoretical Physics                 |
+| Portals in Awen          | Metaphysical / Conceptual Worldbuilding                |
+| Convergence Theory       | Information Theory & Structural Evolution              |
+| EEG Grant Proposal       | Brainwave Telemetry & Hardware Interface Design        |
+| Quantum Landscaping      | Spatial Processing & Reality Mechanics                 |
+| AI Governance            | Safety Standards, Autonomous Ethics, Regulatory Frameworks|
+| Believing vs Knowing     | Epistemology & Cognitive Systems Architecture          |
++--------------------------+--------------------------------------------------------+
 
 ```
+
+---
+
+### 6. Logged Activity & Daily Activity Timeline
+
+- **Browsing History**: Timestamped web requests tracking technical research, GitHub repositories, hardware vendors, and local Arizona news.
+- **Daily Activity Log**: Subjective logs, dream recordings, personal thoughts, and emotional/cognitive telemetry categorized by topic tags (*General, Iga, Robot_do, Revelation, Predictions, Diet, Emotions*).
+
+---
+
+## Deployment & Execution Instructions
+
+1. **Local Serving**:
+   - Serve the root directory using any zero-configuration HTTP server (e.g., `python3 -m http.server 8000` or `npx serve`).
+   - Open `index.html` in any modern WebGPU-enabled web browser.
+
+2. **Map Dependencies**:
+   - Requires external network access to `c.basemaps.cartocdn.com` and `a.basemaps.cartocdn.com` for dark tile fetching, along with Leaflet CSS/JS assets.
+
+3. **Monitor Feeds**:
+   - Monitor feeds load dynamically from local/tunnel endpoints (`https://brian-chat.pryor.games/monitors/*`) via JavaScript image re-requests.
+

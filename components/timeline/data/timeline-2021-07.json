@@ -1,0 +1,2752 @@
+[
+  {
+    "id": "event-6tj6ac9n69j3cb9m64s64b9k6lijcbb26ss3ib9ic5i34p33c4p3gdj2co@google.com",
+    "category": "events",
+    "timestamp": "2021-07-01T14:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-01T14:00:00.000Z",
+      "end": "2021-07-01T15:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckpm2e9jclhjgb9lcdh34b9k6pijeb9pcksmabb274qmadpg75i34dpp6c@google.com",
+    "category": "events",
+    "timestamp": "2021-07-01T15:00:00.000Z",
+    "title": "[Predictions] Dream, somewhere tropical like Hawaii",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, somewhere tropical like Hawaii",
+      "description": "",
+      "location": "",
+      "start": "2021-07-01T15:00:00.000Z",
+      "end": "2021-07-01T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-12144",
+    "category": "bookmarks",
+    "timestamp": "2021-07-02T00:11:52.235Z",
+    "title": "[Gaming] 3D model texturing software | 3D texture mapping program and texture painting software – 3DCoat",
+    "detail": {
+      "name": "3D model texturing software | 3D texture mapping program and texture painting software – 3DCoat",
+      "url": "https://3dcoat.com/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13269658312235872
+    }
+  },
+  {
+    "id": "bookmark-12145",
+    "category": "bookmarks",
+    "timestamp": "2021-07-02T00:12:22.093Z",
+    "title": "[Gaming] Digital Tools for Artists, Clip Studio Paint Pro & EX: Graphixly",
+    "detail": {
+      "name": "Digital Tools for Artists, Clip Studio Paint Pro & EX: Graphixly",
+      "url": "https://graphixly.com/?gclid=CjwKCAjwz_WGBhA1EiwAUAxIcah1abPVykgYsRgNeFu6YESsbOrLsjlIleqQeCNumUYhC7QaUzSsRhoC27wQAvD_BwE",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13269658342093696
+    }
+  },
+  {
+    "id": "event-60pmadhm6go3ibb461hm4b9kcoo3cb9pcli68bb66tgj0cb56sqm6cppc4@google.com",
+    "category": "events",
+    "timestamp": "2021-07-02T15:30:00.000Z",
+    "title": "[Predictions] Dream, nightmare, Iga plying for art school, teeth falling out, new gums problem so swollen can even speak, exploding with puss",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, nightmare, Iga plying for art school, teeth falling out, new gums problem so swollen can even speak, exploding with puss",
+      "description": "",
+      "location": "",
+      "start": "2021-07-02T15:30:00.000Z",
+      "end": "2021-07-02T16:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-12146",
+    "category": "bookmarks",
+    "timestamp": "2021-07-02T16:12:48.940Z",
+    "title": "[Gaming] nasa/fprime: F' - A flight software and embedded systems framework",
+    "detail": {
+      "name": "nasa/fprime: F' - A flight software and embedded systems framework",
+      "url": "https://github.com/nasa/fprime",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13269715968940380
+    }
+  },
+  {
+    "id": "event-6krj6ohg6co62b9mcor3eb9k6cr3cbb26cq66bb660rjcopk6cqmadr570@google.com",
+    "category": "events",
+    "timestamp": "2021-07-02T16:30:00.000Z",
+    "title": "[Predictions] Dream ugly dog throwing up on me, needed water. Weird buildings some of the reoccurring, not at NAU but resembled older buildings like the one south of English building for offices.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream ugly dog throwing up on me, needed water. Weird buildings some of the reoccurring, not at NAU but resembled older buildings like the one south of English building for offices.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-02T16:30:00.000Z",
+      "end": "2021-07-02T17:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-11177",
+    "category": "bookmarks",
+    "timestamp": "2021-07-02T21:04:40.750Z",
+    "title": "[Engineering] Logic Analyzers from Saleae - #1 with Professional Engineers",
+    "detail": {
+      "name": "Logic Analyzers from Saleae - #1 with Professional Engineers",
+      "url": "https://www.saleae.com/?gclid=Cj0KCQjw8vqGBhC_ARIsADMSd1BXoRodxedjXkpKVrDFg5Zy8g_uwLWXClJrhLYv_KSs8F3W60NHNt4aAkvSEALw_wcB",
+      "folderPath": "Computer Science/Architecture/Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13269733480750048
+    }
+  },
+  {
+    "id": "bookmark-11178",
+    "category": "bookmarks",
+    "timestamp": "2021-07-03T05:32:14.801Z",
+    "title": "[Engineering] How Elliptic Curve Cryptography Works - Technical Articles",
+    "detail": {
+      "name": "How Elliptic Curve Cryptography Works - Technical Articles",
+      "url": "https://www.allaboutcircuits.com/technical-articles/elliptic-curve-cryptography-in-embedded-systems/",
+      "folderPath": "Computer Science/Architecture/Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13269763934801960
+    }
+  },
+  {
+    "id": "bookmark-5117",
+    "category": "bookmarks",
+    "timestamp": "2021-07-03T06:11:11.000Z",
+    "title": "[Investing] Why the Market Is Booming and the Economy Is Struggling | Stock Market News | US News",
+    "detail": {
+      "name": "Why the Market Is Booming and the Economy Is Struggling | Stock Market News | US News",
+      "url": "https://money.usnews.com/investing/stock-market-news/articles/why-the-market-is-booming-and-the-economy-is-struggling",
+      "folderPath": "Financial/Investing",
+      "lastFolder": "Investing",
+      "timeUsec": 13269766271000000
+    }
+  },
+  {
+    "id": "event-cgs34d9gcks6cbb3c9i3ib9k6pij2bb16ss38b9jckr3idpn6tgmachi74@google.com",
+    "category": "events",
+    "timestamp": "2021-07-03T07:45:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-03T07:45:00.000Z",
+      "end": "2021-07-03T08:45:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-13619",
+    "category": "bookmarks",
+    "timestamp": "2021-07-03T08:06:33.241Z",
+    "title": "[Quake 3] Doom Builder map editor - Development",
+    "detail": {
+      "name": "Doom Builder map editor - Development",
+      "url": "http://www.doombuilder.com/index.php?p=development",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13269773193241878
+    }
+  },
+  {
+    "id": "bookmark-13620",
+    "category": "bookmarks",
+    "timestamp": "2021-07-03T08:06:44.013Z",
+    "title": "[Quake 3] anotak/doombuilderx: a fork of CodeImp's Doom Builder 2 ( http://www.doombuilder.com/ )",
+    "detail": {
+      "name": "anotak/doombuilderx: a fork of CodeImp's Doom Builder 2 ( http://www.doombuilder.com/ )",
+      "url": "https://github.com/anotak/doombuilderx",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13269773204013396
+    }
+  },
+  {
+    "id": "bookmark-15465",
+    "category": "bookmarks",
+    "timestamp": "2021-07-03T08:15:31.142Z",
+    "title": "[Nutrition] Mad cow: Latest episode raises questions about cattle feed - CSMonitor.com",
+    "detail": {
+      "name": "Mad cow: Latest episode raises questions about cattle feed - CSMonitor.com",
+      "url": "https://www.google.com/amp/s/www.csmonitor.com/layout/set/amphtml/USA/2012/0428/Mad-cow-Latest-episode-raises-questions-about-cattle-feed",
+      "folderPath": "Food/Health/Nutrition",
+      "lastFolder": "Nutrition",
+      "timeUsec": 13269773731142912
+    }
+  },
+  {
+    "id": "bookmark-16532",
+    "category": "bookmarks",
+    "timestamp": "2021-07-03T10:35:26.841Z",
+    "title": "[Legal] Tax Protest Movement | Extremism in America | ADL",
+    "detail": {
+      "name": "Tax Protest Movement | Extremism in America | ADL",
+      "url": "https://www.adl.org/resources/backgrounders/tax-protest-movement",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269782126841342
+    }
+  },
+  {
+    "id": "bookmark-16533",
+    "category": "bookmarks",
+    "timestamp": "2021-07-03T10:37:07.713Z",
+    "title": "[Legal] About Americans for Tax Reform | Americans for Tax Reform",
+    "detail": {
+      "name": "About Americans for Tax Reform | Americans for Tax Reform",
+      "url": "https://www.atr.org/about?amp",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269782227713072
+    }
+  },
+  {
+    "id": "event-6oq66cr2ccom2b9l6so66b9k60sm6b9p64r64b9ocpgm2phn6li36cr460@google.com",
+    "category": "events",
+    "timestamp": "2021-07-03T16:00:00.000Z",
+    "title": "[Predictions] Dream, reoccurring beach house, roller coaster comes crashing down, trying to ship myself somewhere",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, reoccurring beach house, roller coaster comes crashing down, trying to ship myself somewhere",
+      "description": "",
+      "location": "",
+      "start": "2021-07-03T16:00:00.000Z",
+      "end": "2021-07-03T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-17797",
+    "category": "bookmarks",
+    "timestamp": "2021-07-04T03:32:08.192Z",
+    "title": "[Philosophy] How to Be a Marxist",
+    "detail": {
+      "name": "How to Be a Marxist",
+      "url": "https://www.jacobinmag.com/2019/04/this-life-review-martin-hagglund-socialism",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13269843128192388
+    }
+  },
+  {
+    "id": "bookmark-6487",
+    "category": "bookmarks",
+    "timestamp": "2021-07-04T04:10:21.000Z",
+    "title": "[Legal] 5 Famous Cases of Eminent Domain Abuse",
+    "detail": {
+      "name": "5 Famous Cases of Eminent Domain Abuse",
+      "url": "https://www.purdybailey.com/blog/2020/january/5-famous-cases-of-eminent-domain-abuse/",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269845421000000
+    }
+  },
+  {
+    "id": "bookmark-13621",
+    "category": "bookmarks",
+    "timestamp": "2021-07-04T06:33:12.919Z",
+    "title": "[Quake 3] QuakeMods/rocket-arena-2-data: Game data for Rocket Arena 2 Quake 2 mod",
+    "detail": {
+      "name": "QuakeMods/rocket-arena-2-data: Game data for Rocket Arena 2 Quake 2 mod",
+      "url": "https://github.com/QuakeMods/rocket-arena-2-data",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13269853992919076
+    }
+  },
+  {
+    "id": "event-6ti38c9lcpi3cb9hcorj8b9k6oqj0b9pcoo32bb26oqj8d31c5h38eb270@google.com",
+    "category": "events",
+    "timestamp": "2021-07-04T16:30:00.000Z",
+    "title": "[Predictions] Weird dream about warming up pizza for parents in microwave.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Weird dream about warming up pizza for parents in microwave.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-04T16:30:00.000Z",
+      "end": "2021-07-04T17:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-13622",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T03:07:32.043Z",
+    "title": "[Quake 3] Index of /mercenaries_guild/archive/Client_Binaries/TremFusion/",
+    "detail": {
+      "name": "Index of /mercenaries_guild/archive/Client_Binaries/TremFusion/",
+      "url": "https://mirror.kdude63.com/mercenaries_guild/archive/Client_Binaries/TremFusion/",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13269928052043414
+    }
+  },
+  {
+    "id": "bookmark-7920",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T04:17:02.000Z",
+    "title": "[Philosophy] \"Can A Christian Be a Communist?\" Sermon Delivered at Ebenezer Baptist Church | The Martin Luther King, Jr., Research and Education Institute",
+    "detail": {
+      "name": "\"Can A Christian Be a Communist?\" Sermon Delivered at Ebenezer Baptist Church | The Martin Luther King, Jr., Research and Education Institute",
+      "url": "https://kinginstitute.stanford.edu/king-papers/documents/can-christian-be-communist-sermon-delivered-ebenezer-baptist-church",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13269932222000000
+    }
+  },
+  {
+    "id": "bookmark-7921",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T04:27:06.000Z",
+    "title": "[Philosophy] Saint Thomas Aquinas | Biography, Books, Natural Law, Summa Theologica, Saint, Philosophy, & Facts | Britannica",
+    "detail": {
+      "name": "Saint Thomas Aquinas | Biography, Books, Natural Law, Summa Theologica, Saint, Philosophy, & Facts | Britannica",
+      "url": "https://www.britannica.com/biography/Saint-Thomas-Aquinas",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13269932826000000
+    }
+  },
+  {
+    "id": "bookmark-5632",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T04:41:23.000Z",
+    "title": "[History] Black Inventor Garrett Morgan Saved Countless Lives with Gas Mask and Improved Traffic Lights - Scientific American",
+    "detail": {
+      "name": "Black Inventor Garrett Morgan Saved Countless Lives with Gas Mask and Improved Traffic Lights - Scientific American",
+      "url": "https://www.scientificamerican.com/article/black-inventor-garrett-morgan-saved-countless-lives-with-gas-mask-and-improved-traffic-lights/",
+      "folderPath": "History",
+      "lastFolder": "History",
+      "timeUsec": 13269933683000000
+    }
+  },
+  {
+    "id": "bookmark-10030",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T04:48:33.000Z",
+    "title": "[Theology] wilson.pdf",
+    "detail": {
+      "name": "wilson.pdf",
+      "url": "https://www.regent.edu/acad/global/publications/innerresources/vol3iss1/wilson.pdf",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13269934113000000
+    }
+  },
+  {
+    "id": "bookmark-7922",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T05:10:07.000Z",
+    "title": "[Philosophy] Golden mean (philosophy) - Wikipedia",
+    "detail": {
+      "name": "Golden mean (philosophy) - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Golden_mean_(philosophy)",
+      "folderPath": "Philosophy",
+      "lastFolder": "Philosophy",
+      "timeUsec": 13269935407000000
+    }
+  },
+  {
+    "id": "bookmark-10031",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T05:42:37.000Z",
+    "title": "[Theology] What Does the Bible Say About Power Trip?",
+    "detail": {
+      "name": "What Does the Bible Say About Power Trip?",
+      "url": "https://www.openbible.info/topics/power_trip",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13269937357000000
+    }
+  },
+  {
+    "id": "bookmark-10032",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T05:50:21.000Z",
+    "title": "[Theology] What does Revelation 13:1 mean?",
+    "detail": {
+      "name": "What does Revelation 13:1 mean?",
+      "url": "https://www.bibleref.com/Revelation/13/Revelation-13-1.html",
+      "folderPath": "Theology",
+      "lastFolder": "Theology",
+      "timeUsec": 13269937821000000
+    }
+  },
+  {
+    "id": "bookmark-8070",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T05:50:47.000Z",
+    "title": "[Physical Science] Centripetal Force, Centrifugal Force - what's the deal? | WIRED",
+    "detail": {
+      "name": "Centripetal Force, Centrifugal Force - what's the deal? | WIRED",
+      "url": "https://www.wired.com/2009/02/centripetal-force-centrifugal-force-whats-the-deal/#:~:text=In%20order%20for%20things%20to,reference%20frame%20that%20is%20accelerating.",
+      "folderPath": "Physical Science",
+      "lastFolder": "Physical Science",
+      "timeUsec": 13269937847000000
+    }
+  },
+  {
+    "id": "bookmark-6488",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T05:56:18.000Z",
+    "title": "[Legal] Protecting the Underdog: Why You Need \"Candor\" and \"Bad Actor\" Clauses in Your Business Contracts - Griesing Law",
+    "detail": {
+      "name": "Protecting the Underdog: Why You Need \"Candor\" and \"Bad Actor\" Clauses in Your Business Contracts - Griesing Law",
+      "url": "https://griesinglaw.com/protecting-the-underdog-why-you-need-candor-and-bad-actor-clauses-in-your-business-contracts/",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269938178000000
+    }
+  },
+  {
+    "id": "bookmark-6489",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T06:05:17.000Z",
+    "title": "[Legal] Protecting the Underdog: Why You Need \"Candor\" and \"Bad Actor\" Clauses in Your Business Contracts - Griesing Law",
+    "detail": {
+      "name": "Protecting the Underdog: Why You Need \"Candor\" and \"Bad Actor\" Clauses in Your Business Contracts - Griesing Law",
+      "url": "https://griesinglaw.com/protecting-the-underdog-why-you-need-candor-and-bad-actor-clauses-in-your-business-contracts/#:~:text=Further%2C%20such%20contractual%20provisions%20are,improper%20acts%20of%20the%20company.",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269938717000000
+    }
+  },
+  {
+    "id": "bookmark-6490",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T06:05:37.000Z",
+    "title": "[Legal] Bad Actor Sample Clauses: 746 Samples | Law Insider",
+    "detail": {
+      "name": "Bad Actor Sample Clauses: 746 Samples | Law Insider",
+      "url": "https://www.lawinsider.com/clause/bad-actor",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269938737000000
+    }
+  },
+  {
+    "id": "bookmark-6491",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T06:06:57.000Z",
+    "title": "[Legal] Can an Executive Employment Agreement Excuse Bad Behavior?",
+    "detail": {
+      "name": "Can an Executive Employment Agreement Excuse Bad Behavior?",
+      "url": "https://www.shrm.org/resourcesandtools/legal-and-compliance/employment-law/pages/can-an-executive-employment-agreement-excuse-bad-behavior.aspx",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269938817000000
+    }
+  },
+  {
+    "id": "bookmark-6492",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T06:07:28.000Z",
+    "title": "[Legal] Consequences of a Breach of a Fixed-term Employment Contract for Employees",
+    "detail": {
+      "name": "Consequences of a Breach of a Fixed-term Employment Contract for Employees",
+      "url": "https://smallbusiness.chron.com/consequences-breach-fixedterm-employment-contract-employees-18662.html",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269938848000000
+    }
+  },
+  {
+    "id": "bookmark-6493",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T06:08:10.000Z",
+    "title": "[Legal] Ask a Boss: ‘My Company Won’t Fire a Bad Employee!’",
+    "detail": {
+      "name": "Ask a Boss: ‘My Company Won’t Fire a Bad Employee!’",
+      "url": "https://www.thecut.com/article/my-company-wont-fire-a-bad-employee.html",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269938890000000
+    }
+  },
+  {
+    "id": "bookmark-6494",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T06:10:47.000Z",
+    "title": "[Legal] At-Will Employment Won't Help: How to Protect Yourself When Your Job Is In Jeopardy",
+    "detail": {
+      "name": "At-Will Employment Won't Help: How to Protect Yourself When Your Job Is In Jeopardy",
+      "url": "https://www.recruiter.com/i/at-will-employment-wont-help-how-to-protect-yourself-when-your-job-is-in-jeopardy/",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269939047000000
+    }
+  },
+  {
+    "id": "bookmark-6495",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T06:12:59.000Z",
+    "title": "[Legal] How To Protect Yourself From ‘Ambush Managers’ | by Edward Iftody | The Startup | Medium",
+    "detail": {
+      "name": "How To Protect Yourself From ‘Ambush Managers’ | by Edward Iftody | The Startup | Medium",
+      "url": "https://medium.com/swlh/how-to-protect-yourself-from-ambush-managers-cc69ae055b33",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269939179000000
+    }
+  },
+  {
+    "id": "bookmark-6496",
+    "category": "bookmarks",
+    "timestamp": "2021-07-05T06:21:28.000Z",
+    "title": "[Legal] How to Defend Yourself Against a Bad Boss (with Pictures)",
+    "detail": {
+      "name": "How to Defend Yourself Against a Bad Boss (with Pictures)",
+      "url": "https://www.wikihow.com/Defend-Yourself-Against-a-Bad-Boss",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13269939688000000
+    }
+  },
+  {
+    "id": "event-6ooj4cb3c9gj0bb268o3ib9k68om8bb26cs3cb9l68qjcdpn74ojedhl6g@google.com",
+    "category": "events",
+    "timestamp": "2021-07-05T07:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-05T07:30:00.000Z",
+      "end": "2021-07-05T08:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-15243",
+    "category": "bookmarks",
+    "timestamp": "2021-07-06T06:10:56.845Z",
+    "title": "[Investing] How Much McDonald's Franchise Owners Really Make Per Year",
+    "detail": {
+      "name": "How Much McDonald's Franchise Owners Really Make Per Year",
+      "url": "https://www.mashed.com/178309/how-much-mcdonalds-franchise-owners-really-make-per-year/",
+      "folderPath": "Financial/Investing",
+      "lastFolder": "Investing",
+      "timeUsec": 13270025456845482
+    }
+  },
+  {
+    "id": "event-6lijacho60p36b9m6ks3cb9k65h36bb270r62b9m70o6ao9gcoqm4dhj6k@google.com",
+    "category": "events",
+    "timestamp": "2021-07-06T14:30:00.000Z",
+    "title": "[Predictions] Dream that Rus was trying to take my Legos for his fartwork",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream that Rus was trying to take my Legos for his fartwork",
+      "description": "",
+      "location": "",
+      "start": "2021-07-06T14:30:00.000Z",
+      "end": "2021-07-06T15:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-2647",
+    "category": "bookmarks",
+    "timestamp": "2021-07-06T16:57:26.000Z",
+    "title": "[Command line] MachOView download | SourceForge.net",
+    "detail": {
+      "name": "MachOView download | SourceForge.net",
+      "url": "https://sourceforge.net/projects/machoview/",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13270064246000000
+    }
+  },
+  {
+    "id": "bookmark-2648",
+    "category": "bookmarks",
+    "timestamp": "2021-07-06T19:37:43.000Z",
+    "title": "[Command line] cgdb/cgdb: Console front-end to the GNU debugger",
+    "detail": {
+      "name": "cgdb/cgdb: Console front-end to the GNU debugger",
+      "url": "https://github.com/cgdb/cgdb",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13270073863000000
+    }
+  },
+  {
+    "id": "bookmark-12147",
+    "category": "bookmarks",
+    "timestamp": "2021-07-06T22:23:54.629Z",
+    "title": "[Gaming] o3de/o3de: Source for fully featured AAA Open 3D Engine",
+    "detail": {
+      "name": "o3de/o3de: Source for fully featured AAA Open 3D Engine",
+      "url": "https://github.com/o3de/o3de",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270083834629650
+    }
+  },
+  {
+    "id": "bookmark-12148",
+    "category": "bookmarks",
+    "timestamp": "2021-07-06T22:24:33.812Z",
+    "title": "[Gaming] Open 3D Engine",
+    "detail": {
+      "name": "Open 3D Engine",
+      "url": "https://o3de.org/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270083873812042
+    }
+  },
+  {
+    "id": "bookmark-5118",
+    "category": "bookmarks",
+    "timestamp": "2021-07-07T01:34:31.000Z",
+    "title": "[Investing] Mobile Home Parks: Not the Cheap Retirement Dream | Bankrate.com",
+    "detail": {
+      "name": "Mobile Home Parks: Not the Cheap Retirement Dream | Bankrate.com",
+      "url": "https://www.bankrate.com/real-estate/downsizing-to-a-home-in-a-mobile-home-park/",
+      "folderPath": "Financial/Investing",
+      "lastFolder": "Investing",
+      "timeUsec": 13270095271000000
+    }
+  },
+  {
+    "id": "bookmark-5119",
+    "category": "bookmarks",
+    "timestamp": "2021-07-07T01:35:47.000Z",
+    "title": "[Investing] Why Mobile Home Park Rents Are About To Go Up Significantly - NuWireInvestor",
+    "detail": {
+      "name": "Why Mobile Home Park Rents Are About To Go Up Significantly - NuWireInvestor",
+      "url": "https://www.nuwireinvestor.com/why-mobile-home-park-rents-are-about-to-go-up/",
+      "folderPath": "Financial/Investing",
+      "lastFolder": "Investing",
+      "timeUsec": 13270095347000000
+    }
+  },
+  {
+    "id": "bookmark-5120",
+    "category": "bookmarks",
+    "timestamp": "2021-07-07T01:36:44.000Z",
+    "title": "[Investing] America's trailer parks: the residents may be poor but the owners are getting rich | Homes | The Guardian",
+    "detail": {
+      "name": "America's trailer parks: the residents may be poor but the owners are getting rich | Homes | The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2015/may/03/owning-trailer-parks-mobile-home-university-investment",
+      "folderPath": "Financial/Investing",
+      "lastFolder": "Investing",
+      "timeUsec": 13270095404000000
+    }
+  },
+  {
+    "id": "bookmark-7707",
+    "category": "bookmarks",
+    "timestamp": "2021-07-07T01:51:41.000Z",
+    "title": "[Family] How do I tell my parents I don’t want to have anything to do with them or see them? - Quora",
+    "detail": {
+      "name": "How do I tell my parents I don’t want to have anything to do with them or see them? - Quora",
+      "url": "https://www.quora.com/How-do-I-tell-my-parents-I-don-t-want-to-have-anything-to-do-with-them-or-see-them",
+      "folderPath": "Parenting/Family",
+      "lastFolder": "Family",
+      "timeUsec": 13270096301000000
+    }
+  },
+  {
+    "id": "bookmark-5121",
+    "category": "bookmarks",
+    "timestamp": "2021-07-07T02:11:25.000Z",
+    "title": "[Investing] Your electricity bill just rose by up to 11%. Here’s why.",
+    "detail": {
+      "name": "Your electricity bill just rose by up to 11%. Here’s why.",
+      "url": "https://www.stem.com/electricity-bills-rising/",
+      "folderPath": "Financial/Investing",
+      "lastFolder": "Investing",
+      "timeUsec": 13270097485000000
+    }
+  },
+  {
+    "id": "bookmark-12149",
+    "category": "bookmarks",
+    "timestamp": "2021-07-07T02:57:36.053Z",
+    "title": "[Gaming] Amazon shifts Lumberyard to open source 3D game engine supported by 20 companies | VentureBeat",
+    "detail": {
+      "name": "Amazon shifts Lumberyard to open source 3D game engine supported by 20 companies | VentureBeat",
+      "url": "https://venturebeat.com/2021/07/06/amazons-lumberyard-becomes-an-open-source-3d-game-engine-with-support-from-20-companies/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270100256053128
+    }
+  },
+  {
+    "id": "bookmark-7708",
+    "category": "bookmarks",
+    "timestamp": "2021-07-07T03:52:20.000Z",
+    "title": "[Family] Ten Ways Parents Destroy Their Children's Self-Esteem - WeHaveKids",
+    "detail": {
+      "name": "Ten Ways Parents Destroy Their Children's Self-Esteem - WeHaveKids",
+      "url": "https://wehavekids.com/parenting/Ten-Ways-Parens-Destroy-Their-Childrens-Self-Esteem",
+      "folderPath": "Parenting/Family",
+      "lastFolder": "Family",
+      "timeUsec": 13270103540000000
+    }
+  },
+  {
+    "id": "bookmark-7709",
+    "category": "bookmarks",
+    "timestamp": "2021-07-07T04:00:15.000Z",
+    "title": "[Family] Abusive Father Has Destroyed My Self-Esteem",
+    "detail": {
+      "name": "Abusive Father Has Destroyed My Self-Esteem",
+      "url": "https://askthepsych.com/atp/2009/01/21/destroyed-self-esteem/",
+      "folderPath": "Parenting/Family",
+      "lastFolder": "Family",
+      "timeUsec": 13270104015000000
+    }
+  },
+  {
+    "id": "event-65i38ohm71gmabb16di3gb9kcli32bb275hjeb9kcgsj0p9j6spj0ohgcg@google.com",
+    "category": "events",
+    "timestamp": "2021-07-07T15:00:00.000Z",
+    "title": "[Predictions] Dream, Eddie was a teenager and dating some pimply faced short girl.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Eddie was a teenager and dating some pimply faced short girl.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-07T15:00:00.000Z",
+      "end": "2021-07-07T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c5gm8ophcgs68b9hc5hm6b9k60sjibb16cp38b9j61h34p32cor3cohhcg@google.com",
+    "category": "events",
+    "timestamp": "2021-07-07T16:00:00.000Z",
+    "title": "[Predictions] Dream in a house with a lot of bedrooms and narrow hallways like a trailer, trying to drive around, running but out of energy, passed by cops arresting some other freaks. Trying to get home to Iga, worried all the time.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream in a house with a lot of bedrooms and narrow hallways like a trailer, trying to drive around, running but out of energy, passed by cops arresting some other freaks. Trying to get home to Iga, worried all the time.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-07T16:00:00.000Z",
+      "end": "2021-07-07T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-clh3ep9n75hjgbb369imab9k6cs68b9p70rm4bb660om8c35ccpjad9p6s@google.com",
+    "category": "events",
+    "timestamp": "2021-07-07T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-07T17:00:00.000Z",
+      "end": "2021-07-07T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-7029",
+    "category": "bookmarks",
+    "timestamp": "2021-07-07T17:12:49.000Z",
+    "title": "[Medical Science] Congenital Heart Defects - Facts about Atrial Septal Defects | CDC",
+    "detail": {
+      "name": "Congenital Heart Defects - Facts about Atrial Septal Defects | CDC",
+      "url": "https://www.cdc.gov/ncbddd/heartdefects/atrialseptaldefect.html",
+      "folderPath": "Medical Science",
+      "lastFolder": "Medical Science",
+      "timeUsec": 13270151569000000
+    }
+  },
+  {
+    "id": "bookmark-18461",
+    "category": "bookmarks",
+    "timestamp": "2021-07-07T17:42:14.142Z",
+    "title": "[Psychology] Toxic People: 12 Things They Do and How to Deal with Them - Hey Sigmund",
+    "detail": {
+      "name": "Toxic People: 12 Things They Do and How to Deal with Them - Hey Sigmund",
+      "url": "https://www.heysigmund.com/toxic-people/comment-page-12/",
+      "folderPath": "Psychology",
+      "lastFolder": "Psychology",
+      "timeUsec": 13270153334142702
+    }
+  },
+  {
+    "id": "bookmark-16534",
+    "category": "bookmarks",
+    "timestamp": "2021-07-08T03:07:39.152Z",
+    "title": "[Legal] Trump’s Supreme Court shrinks from controversy",
+    "detail": {
+      "name": "Trump’s Supreme Court shrinks from controversy",
+      "url": "https://www.politico.com/amp/news/2021/07/07/trump-supreme-court-courage-498459",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13270187259152876
+    }
+  },
+  {
+    "id": "event-ckrm4e9h6cp68b9i6os66b9kcpi62bb164pj8b9m6kom8dho61ij2dplck@google.com",
+    "category": "events",
+    "timestamp": "2021-07-08T15:00:00.000Z",
+    "title": "[Predictions] Dream with David setting up internet in an apartment building, lots of parties around, driving a car Ike James bond Aston Martin.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream with David setting up internet in an apartment building, lots of parties around, driving a car Ike James bond Aston Martin.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-08T15:00:00.000Z",
+      "end": "2021-07-08T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-12150",
+    "category": "bookmarks",
+    "timestamp": "2021-07-08T15:36:44.161Z",
+    "title": "[Gaming] MADEAPPS/newton-dynamics: Newton Dynamics is an integrated solution for real time simulation of physics environments.",
+    "detail": {
+      "name": "MADEAPPS/newton-dynamics: Newton Dynamics is an integrated solution for real time simulation of physics environments.",
+      "url": "https://github.com/MADEAPPS/newton-dynamics/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270232204161470
+    }
+  },
+  {
+    "id": "bookmark-2489",
+    "category": "bookmarks",
+    "timestamp": "2021-07-08T16:17:46.000Z",
+    "title": "[Languages] dhall-lang/dhall-lang: Maintainable configuration files",
+    "detail": {
+      "name": "dhall-lang/dhall-lang: Maintainable configuration files",
+      "url": "https://github.com/dhall-lang/dhall-lang",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13270234666000000
+    }
+  },
+  {
+    "id": "bookmark-17929",
+    "category": "bookmarks",
+    "timestamp": "2021-07-08T20:01:44.647Z",
+    "title": "[Physical Science] The Navy's electromagnetic railgun is officially dead",
+    "detail": {
+      "name": "The Navy's electromagnetic railgun is officially dead",
+      "url": "https://taskandpurpose.com/military-tech/navy-electromagnetic-railgun-dead/?amp",
+      "folderPath": "Physical Science",
+      "lastFolder": "Physical Science",
+      "timeUsec": 13270248104647748
+    }
+  },
+  {
+    "id": "bookmark-12151",
+    "category": "bookmarks",
+    "timestamp": "2021-07-08T20:32:19.145Z",
+    "title": "[Gaming] code-relay/HowIDidIt.md at main · mmulet/code-relay",
+    "detail": {
+      "name": "code-relay/HowIDidIt.md at main · mmulet/code-relay",
+      "url": "https://github.com/mmulet/code-relay/blob/main/markdown/HowIDidIt.md",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270249939145164
+    }
+  },
+  {
+    "id": "event-c8r3cdhm6kr3ab9o6kqjeb9k6ksj6b9pcgo68b9k6sp3ccpmccpjipj36k@google.com",
+    "category": "events",
+    "timestamp": "2021-07-09T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-09T06:00:00.000Z",
+      "end": "2021-07-09T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-3437",
+    "category": "bookmarks",
+    "timestamp": "2021-07-09T07:25:46.000Z",
+    "title": "[Quake 3] pelya/openarena-engine: Android port of OpenArena 0.8.8 client/server, based on undeadzy's ioq3 port",
+    "detail": {
+      "name": "pelya/openarena-engine: Android port of OpenArena 0.8.8 client/server, based on undeadzy's ioq3 port",
+      "url": "https://github.com/pelya/openarena-engine",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13270289146000000
+    }
+  },
+  {
+    "id": "bookmark-12152",
+    "category": "bookmarks",
+    "timestamp": "2021-07-09T15:36:46.516Z",
+    "title": "[Gaming] Our Machinery",
+    "detail": {
+      "name": "Our Machinery",
+      "url": "https://ourmachinery.com/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270318606516084
+    }
+  },
+  {
+    "id": "bookmark-13623",
+    "category": "bookmarks",
+    "timestamp": "2021-07-10T01:21:28.072Z",
+    "title": "[Quake 3] github.com",
+    "detail": {
+      "name": "github.com",
+      "url": "https://github.com/Admer456/PhysX-lite",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13270353688072524
+    }
+  },
+  {
+    "id": "bookmark-19189",
+    "category": "bookmarks",
+    "timestamp": "2021-07-10T06:54:11.836Z",
+    "title": "[Politics] What It Means to Be a Marxist",
+    "detail": {
+      "name": "What It Means to Be a Marxist",
+      "url": "https://www.jacobinmag.com/2018/12/marxism-socialism-class-struggle-materialism",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13270373651836706
+    }
+  },
+  {
+    "id": "event-68q62ohkcoojib9i68p3ib9k6hgjeb9pcoo36bb6c8rj4cb460r3gcpo6c@google.com",
+    "category": "events",
+    "timestamp": "2021-07-10T14:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-10T14:30:00.000Z",
+      "end": "2021-07-10T15:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-10906",
+    "category": "bookmarks",
+    "timestamp": "2021-07-11T15:15:17.036Z",
+    "title": "[Machine learning] Alias-Free GAN",
+    "detail": {
+      "name": "Alias-Free GAN",
+      "url": "https://nvlabs.github.io/alias-free-gan/",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13270490117036520
+    }
+  },
+  {
+    "id": "event-74o3ac9i65gj6b9mc4p38b9k68qm2b9pc4o66b9i69hmce336pgmcc9nck@google.com",
+    "category": "events",
+    "timestamp": "2021-07-12T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-12T05:30:00.000Z",
+      "end": "2021-07-12T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-12153",
+    "category": "bookmarks",
+    "timestamp": "2021-07-12T16:00:46.425Z",
+    "title": "[Gaming] mightycow/Sluggish: Toy CPU and GPU implementations of the Slug rendering algorithm",
+    "detail": {
+      "name": "mightycow/Sluggish: Toy CPU and GPU implementations of the Slug rendering algorithm",
+      "url": "https://github.com/mightycow/Sluggish",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270579246425552
+    }
+  },
+  {
+    "id": "bookmark-12154",
+    "category": "bookmarks",
+    "timestamp": "2021-07-12T16:02:42.236Z",
+    "title": "[Gaming] GPU-Centered Font Rendering Directly from Glyph Outlines (JCGT)",
+    "detail": {
+      "name": "GPU-Centered Font Rendering Directly from Glyph Outlines (JCGT)",
+      "url": "http://jcgt.org/published/0006/02/02/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270579362236382
+    }
+  },
+  {
+    "id": "bookmark-4977",
+    "category": "bookmarks",
+    "timestamp": "2021-07-12T20:34:34.000Z",
+    "title": "[Engineering] Programming the ESP8266 WeMos-D1R2 Using Arduino Software/IDE : 15 Steps - Instructables",
+    "detail": {
+      "name": "Programming the ESP8266 WeMos-D1R2 Using Arduino Software/IDE : 15 Steps - Instructables",
+      "url": "https://www.instructables.com/Programming-the-WeMos-Using-Arduino-SoftwareIDE/",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13270595674000000
+    }
+  },
+  {
+    "id": "bookmark-1933",
+    "category": "bookmarks",
+    "timestamp": "2021-07-13T04:08:24.000Z",
+    "title": "[Gaming] Pacer on Steam",
+    "detail": {
+      "name": "Pacer on Steam",
+      "url": "https://store.steampowered.com/app/389670/Pacer/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270622904000000
+    }
+  },
+  {
+    "id": "bookmark-12683",
+    "category": "bookmarks",
+    "timestamp": "2021-07-13T05:42:23.526Z",
+    "title": "[Languages] Code::Blocks - Code::Blocks",
+    "detail": {
+      "name": "Code::Blocks - Code::Blocks",
+      "url": "https://www.codeblocks.org/",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13270628543526494
+    }
+  },
+  {
+    "id": "bookmark-18593",
+    "category": "bookmarks",
+    "timestamp": "2021-07-13T05:44:28.333Z",
+    "title": "[Real-estate] Housing unaffordability is the result of artificial scarcity",
+    "detail": {
+      "name": "Housing unaffordability is the result of artificial scarcity",
+      "url": "https://www.strongtowns.org/journal/2016/4/20/affordable-housing",
+      "folderPath": "Real-estate",
+      "lastFolder": "Real-estate",
+      "timeUsec": 13270628668333844
+    }
+  },
+  {
+    "id": "bookmark-10907",
+    "category": "bookmarks",
+    "timestamp": "2021-07-13T05:51:57.548Z",
+    "title": "[Machine learning] waifu2x",
+    "detail": {
+      "name": "waifu2x",
+      "url": "http://waifu2x.udp.jp/",
+      "folderPath": "Computer Science/AI/Machine learning",
+      "lastFolder": "Machine learning",
+      "timeUsec": 13270629117548976
+    }
+  },
+  {
+    "id": "bookmark-13625",
+    "category": "bookmarks",
+    "timestamp": "2021-07-13T05:53:39.699Z",
+    "title": "[Quake 3] Processing a Texture in a Compute Function | Apple Developer Documentation",
+    "detail": {
+      "name": "Processing a Texture in a Compute Function | Apple Developer Documentation",
+      "url": "https://developer.apple.com/documentation/metal/processing_a_texture_in_a_compute_function",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13270629219699948
+    }
+  },
+  {
+    "id": "bookmark-13940",
+    "category": "bookmarks",
+    "timestamp": "2021-07-13T05:55:03.376Z",
+    "title": "[Privacy] Keybase",
+    "detail": {
+      "name": "Keybase",
+      "url": "https://keybase.io/",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13270629303376676
+    }
+  },
+  {
+    "id": "event-74s6cc1o70o38b9pc9hm6b9k65hjibb26osm8b9iccomcc3469i6adj46g@google.com",
+    "category": "events",
+    "timestamp": "2021-07-13T13:00:00.000Z",
+    "title": "[Predictions] Dream, strange huge house staying in with an OCD guy. Trying to get toys from my dad and Olena trying to steal from me, nice restaurant with friends behind another restaurant in Flagstaff, room with very tight entrance and could barely fit through.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, strange huge house staying in with an OCD guy. Trying to get toys from my dad and Olena trying to steal from me, nice restaurant with friends behind another restaurant in Flagstaff, room with very tight entrance and could barely fit through.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-13T13:00:00.000Z",
+      "end": "2021-07-13T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-1934",
+    "category": "bookmarks",
+    "timestamp": "2021-07-13T16:42:06.000Z",
+    "title": "[Gaming] Photopea | Online Photo Editor",
+    "detail": {
+      "name": "Photopea | Online Photo Editor",
+      "url": "https://www.photopea.com/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270668126000000
+    }
+  },
+  {
+    "id": "bookmark-6646",
+    "category": "bookmarks",
+    "timestamp": "2021-07-13T22:00:50.000Z",
+    "title": "[Mathematics] A Color Distance Model Based on Visual Recognition",
+    "detail": {
+      "name": "A Color Distance Model Based on Visual Recognition",
+      "url": "https://www.hindawi.com/journals/mpe/2018/4652526/",
+      "folderPath": "Mathematics",
+      "lastFolder": "Mathematics",
+      "timeUsec": 13270687250000000
+    }
+  },
+  {
+    "id": "bookmark-6647",
+    "category": "bookmarks",
+    "timestamp": "2021-07-13T23:40:10.000Z",
+    "title": "[Mathematics] Math | EasyRGB",
+    "detail": {
+      "name": "Math | EasyRGB",
+      "url": "http://www.easyrgb.com/en/math.php",
+      "folderPath": "Mathematics",
+      "lastFolder": "Mathematics",
+      "timeUsec": 13270693210000000
+    }
+  },
+  {
+    "id": "bookmark-2490",
+    "category": "bookmarks",
+    "timestamp": "2021-07-14T02:43:10.000Z",
+    "title": "[Languages] Terminal control/Cursor movement - Rosetta Code",
+    "detail": {
+      "name": "Terminal control/Cursor movement - Rosetta Code",
+      "url": "https://rosettacode.org/wiki/Terminal_control/Cursor_movement",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13270704190000000
+    }
+  },
+  {
+    "id": "bookmark-2649",
+    "category": "bookmarks",
+    "timestamp": "2021-07-14T02:47:00.000Z",
+    "title": "[Command line] Posix command that moves cursor to specific position in terminal window - Unix & Linux Stack Exchange",
+    "detail": {
+      "name": "Posix command that moves cursor to specific position in terminal window - Unix & Linux Stack Exchange",
+      "url": "https://unix.stackexchange.com/questions/210325/posix-command-that-moves-cursor-to-specific-position-in-terminal-window",
+      "folderPath": "Computer Science/Linux/Mac/Command line",
+      "lastFolder": "Command line",
+      "timeUsec": 13270704420000000
+    }
+  },
+  {
+    "id": "bookmark-1935",
+    "category": "bookmarks",
+    "timestamp": "2021-07-14T05:30:24.000Z",
+    "title": "[Gaming] Phil Hassey » 2012 » February",
+    "detail": {
+      "name": "Phil Hassey » 2012 » February",
+      "url": "https://www.philhassey.com/blog/2012/02/",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270714224000000
+    }
+  },
+  {
+    "id": "bookmark-5633",
+    "category": "bookmarks",
+    "timestamp": "2021-07-14T18:58:48.000Z",
+    "title": "[History] George F. Kennan - Wikipedia",
+    "detail": {
+      "name": "George F. Kennan - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_F._Kennan",
+      "folderPath": "History",
+      "lastFolder": "History",
+      "timeUsec": 13270762728000000
+    }
+  },
+  {
+    "id": "bookmark-5634",
+    "category": "bookmarks",
+    "timestamp": "2021-07-14T18:59:22.000Z",
+    "title": "[History] Lynne Olson - Wikipedia",
+    "detail": {
+      "name": "Lynne Olson - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lynne_Olson",
+      "folderPath": "History",
+      "lastFolder": "History",
+      "timeUsec": 13270762762000000
+    }
+  },
+  {
+    "id": "bookmark-3438",
+    "category": "bookmarks",
+    "timestamp": "2021-07-14T19:00:55.000Z",
+    "title": "[Quake 3] theoraplay/sdltheoraplay.c at abd0bf6b42213bebecb5105ebcbe9b364db071c2 · icculus/theoraplay",
+    "detail": {
+      "name": "theoraplay/sdltheoraplay.c at abd0bf6b42213bebecb5105ebcbe9b364db071c2 · icculus/theoraplay",
+      "url": "https://github.com/icculus/theoraplay/blob/abd0bf6b42213bebecb5105ebcbe9b364db071c2/test/sdltheoraplay.c",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13270762855000000
+    }
+  },
+  {
+    "id": "event-chh3icb4cgr66b9l6ksj4b9kcoqjcb9p75j3ib9l6gs64cpm6ssj8o9pc8@google.com",
+    "category": "events",
+    "timestamp": "2021-07-14T21:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-14T21:30:00.000Z",
+      "end": "2021-07-14T22:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-2491",
+    "category": "bookmarks",
+    "timestamp": "2021-07-15T00:20:04.000Z",
+    "title": "[Languages] TypeScripts Type System is Turing Complete · Issue #14833 · microsoft/TypeScript",
+    "detail": {
+      "name": "TypeScripts Type System is Turing Complete · Issue #14833 · microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript/issues/14833",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13270782004000000
+    }
+  },
+  {
+    "id": "bookmark-1936",
+    "category": "bookmarks",
+    "timestamp": "2021-07-15T01:12:22.000Z",
+    "title": "[Gaming] Nuklear/src at master · Immediate-Mode-UI/Nuklear",
+    "detail": {
+      "name": "Nuklear/src at master · Immediate-Mode-UI/Nuklear",
+      "url": "https://github.com/Immediate-Mode-UI/Nuklear/tree/master/src",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13270785142000000
+    }
+  },
+  {
+    "id": "bookmark-13626",
+    "category": "bookmarks",
+    "timestamp": "2021-07-16T16:41:56.379Z",
+    "title": "[Quake 3] AurigaTremulous/bspc: Quake 3 BSP-to-AAS compiler",
+    "detail": {
+      "name": "AurigaTremulous/bspc: Quake 3 BSP-to-AAS compiler",
+      "url": "https://github.com/AurigaTremulous/bspc",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13270927316379302
+    }
+  },
+  {
+    "id": "event-cphj0e1mcopjgbb4cgr3eb9k6hi62bb26ssj6b9j74oj2cr46coj4dhmc8@google.com",
+    "category": "events",
+    "timestamp": "2021-07-17T02:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-17T02:30:00.000Z",
+      "end": "2021-07-17T03:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6com8c9n74o3ebb474r66b9k70s38bb16ph6ab9l6hi3cd9hc8omcdj26o@google.com",
+    "category": "events",
+    "timestamp": "2021-07-17T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-17T05:30:00.000Z",
+      "end": "2021-07-17T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckqjcpb160qjibb36sqm2b9k6opj6b9p6tgjgb9n71gj2dhj70q62chj74@google.com",
+    "category": "events",
+    "timestamp": "2021-07-17T15:00:00.000Z",
+    "title": "[Predictions] Dream, Sneaking in to the staging room in an apartment building high rise with a bunch of friends. Trying to stay there for free, made friends with the sales people to not get kicked out.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Sneaking in to the staging room in an apartment building high rise with a bunch of friends. Trying to stay there for free, made friends with the sales people to not get kicked out.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-17T15:00:00.000Z",
+      "end": "2021-07-17T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6di3gchn6so30b9m68sj6b9kcgp3ibb1cgr36bb56hgmaphg6cqmac36co@google.com",
+    "category": "events",
+    "timestamp": "2021-07-17T16:30:00.000Z",
+    "title": "[Predictions] Dream, In some strange city like Portland with Chase, had no money for hot chocolate, didn't want to make it because it was late and would keep me awake, Iga and Jessie pimply and fatter moved back to the same town, scared I was going to lose Iga in a dance club.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, In some strange city like Portland with Chase, had no money for hot chocolate, didn't want to make it because it was late and would keep me awake, Iga and Jessie pimply and fatter moved back to the same town, scared I was going to lose Iga in a dance club.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-17T16:30:00.000Z",
+      "end": "2021-07-17T17:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-5122",
+    "category": "bookmarks",
+    "timestamp": "2021-07-17T22:02:43.000Z",
+    "title": "[Investing] Which Used Cars Now Cost More Than New Ones",
+    "detail": {
+      "name": "Which Used Cars Now Cost More Than New Ones",
+      "url": "https://www.forbes.com/sites/jimgorzelany/2021/07/01/which-used-cars-now-cost-more-than-new-ones/?sh=45b6f923adaa",
+      "folderPath": "Financial/Investing",
+      "lastFolder": "Investing",
+      "timeUsec": 13271032963000000
+    }
+  },
+  {
+    "id": "bookmark-5123",
+    "category": "bookmarks",
+    "timestamp": "2021-07-17T22:02:53.000Z",
+    "title": "[Investing] $10k to $20K Dealer Markups Now Common Due To Vehicle Shortage - Your Options | Torque News",
+    "detail": {
+      "name": "$10k to $20K Dealer Markups Now Common Due To Vehicle Shortage - Your Options | Torque News",
+      "url": "https://www.torquenews.com/1083/dealer-markups-10k-20k-now-common-due-car-shortage-here-s-why#:~:text=MSRP%20stands%20for%20%E2%80%9CManufacturer's%20Suggested,the%20suggested%20price%2C%20not%20more.",
+      "folderPath": "Financial/Investing",
+      "lastFolder": "Investing",
+      "timeUsec": 13271032973000000
+    }
+  },
+  {
+    "id": "bookmark-16535",
+    "category": "bookmarks",
+    "timestamp": "2021-07-18T00:17:17.343Z",
+    "title": "[Legal] Comprehensive Patent Research & Analytics | LexisNexis® IP",
+    "detail": {
+      "name": "Comprehensive Patent Research & Analytics | LexisNexis® IP",
+      "url": "https://www.lexisnexisip.com/?utm_campaign=TWOSIX_LEXISNEXISIP_G_SEARCH_NB_ALL_ALL_OBVS_EXACT&utm_medium=ppc&utm_source=adwords&utm_term=patent%20prior%20art&hsa_mt=e&hsa_tgt=kwd-354107761591&hsa_kw=patent%20prior%20art&hsa_cam=13652416254&hsa_grp=125227586358&hsa_src=g&hsa_ad=531087544693&hsa_ver=3&hsa_acc=1755463390&hsa_net=adwords&gclid=Cj0KCQjw_8mHBhClARIsABfFgpgcH7fqxla2KDtlsb7rSZ8_7eZkRUUkGt7_e9qXRKjQLFtQhtuhb1waApC8EALw_wcB",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13271041037343794
+    }
+  },
+  {
+    "id": "bookmark-16536",
+    "category": "bookmarks",
+    "timestamp": "2021-07-18T00:18:09.411Z",
+    "title": "[Legal] Prior art - Wikipedia",
+    "detail": {
+      "name": "Prior art - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Prior_art",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13271041089411556
+    }
+  },
+  {
+    "id": "event-c4o6cd9p68p3gb9hcph3gb9kcdgm2bb1ccr3abb1ccs3eob4c8rjao9g74@google.com",
+    "category": "events",
+    "timestamp": "2021-07-18T16:30:00.000Z",
+    "title": "[Predictions] Dream, on a boat, on an island getting groceries, in a store mad at Iga for checking out early, lots of meat and sausage",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, on a boat, on an island getting groceries, in a store mad at Iga for checking out early, lots of meat and sausage",
+      "description": "",
+      "location": "",
+      "start": "2021-07-18T16:30:00.000Z",
+      "end": "2021-07-18T17:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-clhm6p9l6tijabb1chimab9k6kpjgb9o70qjeb9ncgr6acb575i68c1pco@google.com",
+    "category": "events",
+    "timestamp": "2021-07-18T19:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-18T19:30:00.000Z",
+      "end": "2021-07-18T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-12155",
+    "category": "bookmarks",
+    "timestamp": "2021-07-19T05:29:55.317Z",
+    "title": "[Gaming] ptitSeb/box64: Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices",
+    "detail": {
+      "name": "ptitSeb/box64: Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices",
+      "url": "https://github.com/ptitSeb/box64",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13271146195317040
+    }
+  },
+  {
+    "id": "bookmark-12156",
+    "category": "bookmarks",
+    "timestamp": "2021-07-19T06:22:43.794Z",
+    "title": "[Gaming] Jake2 - Wikipedia",
+    "detail": {
+      "name": "Jake2 - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Jake2",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13271149363794832
+    }
+  },
+  {
+    "id": "bookmark-12157",
+    "category": "bookmarks",
+    "timestamp": "2021-07-19T06:23:49.619Z",
+    "title": "[Gaming] Tasssadar/kwaak3: This is a port of Quake3 to Android. - http://code.google.com/p/kwaak3/",
+    "detail": {
+      "name": "Tasssadar/kwaak3: This is a port of Quake3 to Android. - http://code.google.com/p/kwaak3/",
+      "url": "https://github.com/Tasssadar/kwaak3",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13271149429619136
+    }
+  },
+  {
+    "id": "bookmark-12158",
+    "category": "bookmarks",
+    "timestamp": "2021-07-19T06:24:13.745Z",
+    "title": "[Gaming] ocharles/zero-to-quake-3: Implementing Quake 3 in Haskell & Vulkan",
+    "detail": {
+      "name": "ocharles/zero-to-quake-3: Implementing Quake 3 in Haskell & Vulkan",
+      "url": "https://github.com/ocharles/zero-to-quake-3",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13271149453745216
+    }
+  },
+  {
+    "id": "bookmark-12159",
+    "category": "bookmarks",
+    "timestamp": "2021-07-19T06:25:53.131Z",
+    "title": "[Gaming] mickkn/projectq1q3: Quakeworld conversion project, mostly Quake3 maps",
+    "detail": {
+      "name": "mickkn/projectq1q3: Quakeworld conversion project, mostly Quake3 maps",
+      "url": "https://github.com/mickkn/projectq1q3",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13271149553131796
+    }
+  },
+  {
+    "id": "event-6pi34e1ic4q62b9i6pgm4b9k70qjabb260pjibb574p64c366sp3ge9nco@google.com",
+    "category": "events",
+    "timestamp": "2021-07-19T15:30:00.000Z",
+    "title": "[Predictions] Dream hiking stuck on top of mountain went to someone's palace built in to the hill, didn't seem to mind a bunch of people around",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream hiking stuck on top of mountain went to someone's palace built in to the hill, didn't seem to mind a bunch of people around",
+      "description": "",
+      "location": "",
+      "start": "2021-07-19T15:30:00.000Z",
+      "end": "2021-07-19T16:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-2492",
+    "category": "bookmarks",
+    "timestamp": "2021-07-19T20:44:39.000Z",
+    "title": "[Languages] afnanenayet/diffsitter: A tree-sitter based AST difftool to get meaningful semantic diffs",
+    "detail": {
+      "name": "afnanenayet/diffsitter: A tree-sitter based AST difftool to get meaningful semantic diffs",
+      "url": "https://github.com/afnanenayet/diffsitter",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13271201079000000
+    }
+  },
+  {
+    "id": "bookmark-627",
+    "category": "bookmarks",
+    "timestamp": "2021-07-19T20:48:07.000Z",
+    "title": "[Data structures] How to respond to the takedown request email? · Issue #5 · Xmader/musescore-downloader",
+    "detail": {
+      "name": "How to respond to the takedown request email? · Issue #5 · Xmader/musescore-downloader",
+      "url": "https://github.com/Xmader/musescore-downloader/issues/5",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13271201287000000
+    }
+  },
+  {
+    "id": "bookmark-6497",
+    "category": "bookmarks",
+    "timestamp": "2021-07-19T21:09:47.000Z",
+    "title": "[Legal] Lanham Act - Wikipedia",
+    "detail": {
+      "name": "Lanham Act - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lanham_Act",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13271202587000000
+    }
+  },
+  {
+    "id": "bookmark-2493",
+    "category": "bookmarks",
+    "timestamp": "2021-07-19T21:36:29.000Z",
+    "title": "[Languages] Semmle - Code Analysis Platform for Securing Software",
+    "detail": {
+      "name": "Semmle - Code Analysis Platform for Securing Software",
+      "url": "https://semmle.com/",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13271204189000000
+    }
+  },
+  {
+    "id": "bookmark-2494",
+    "category": "bookmarks",
+    "timestamp": "2021-07-20T01:33:41.000Z",
+    "title": "[Languages] TremZ-Gamelogic/sgame_ptr.cpp at master · TheDushan/TremZ-Gamelogic",
+    "detail": {
+      "name": "TremZ-Gamelogic/sgame_ptr.cpp at master · TheDushan/TremZ-Gamelogic",
+      "url": "https://github.com/TheDushan/TremZ-Gamelogic/blob/master/src/gameLogics/sgame/sgame_ptr.cpp",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13271218421000000
+    }
+  },
+  {
+    "id": "bookmark-3439",
+    "category": "bookmarks",
+    "timestamp": "2021-07-20T01:34:02.000Z",
+    "title": "[Quake 3] TheDushan/TremZ-Gamelogic: A prototype game for OpenWolf engine",
+    "detail": {
+      "name": "TheDushan/TremZ-Gamelogic: A prototype game for OpenWolf engine",
+      "url": "https://github.com/TheDushan/TremZ-Gamelogic",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13271218442000000
+    }
+  },
+  {
+    "id": "bookmark-3440",
+    "category": "bookmarks",
+    "timestamp": "2021-07-20T01:34:09.000Z",
+    "title": "[Quake 3] dGr8LookinSparky/tremulous",
+    "detail": {
+      "name": "dGr8LookinSparky/tremulous",
+      "url": "https://github.com/dGr8LookinSparky/tremulous",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13271218449000000
+    }
+  },
+  {
+    "id": "bookmark-225",
+    "category": "bookmarks",
+    "timestamp": "2021-07-20T03:32:11.000Z",
+    "title": "[Books] How Long is Now?: Fascinating answers to 191 Mind-boggling questions: New Scientist: 9781857886634: Amazon.com: Books",
+    "detail": {
+      "name": "How Long is Now?: Fascinating answers to 191 Mind-boggling questions: New Scientist: 9781857886634: Amazon.com: Books",
+      "url": "https://www.amazon.com/How-Long-Now-Fascinating-Mind-boggling/dp/1857886631",
+      "folderPath": "Books",
+      "lastFolder": "Books",
+      "timeUsec": 13271225531000000
+    }
+  },
+  {
+    "id": "bookmark-3441",
+    "category": "bookmarks",
+    "timestamp": "2021-07-20T04:20:31.000Z",
+    "title": "[Quake 3] jsj2008/lithtech",
+    "detail": {
+      "name": "jsj2008/lithtech",
+      "url": "https://github.com/jsj2008/lithtech",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13271228431000000
+    }
+  },
+  {
+    "id": "bookmark-3442",
+    "category": "bookmarks",
+    "timestamp": "2021-07-20T04:21:39.000Z",
+    "title": "[Quake 3] bibendovsky/ltjs: LithTech Jupiter System",
+    "detail": {
+      "name": "bibendovsky/ltjs: LithTech Jupiter System",
+      "url": "https://github.com/bibendovsky/ltjs",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13271228499000000
+    }
+  },
+  {
+    "id": "bookmark-3443",
+    "category": "bookmarks",
+    "timestamp": "2021-07-20T04:23:22.000Z",
+    "title": "[Quake 3] Katana-Steel/lithtech",
+    "detail": {
+      "name": "Katana-Steel/lithtech",
+      "url": "https://github.com/Katana-Steel/lithtech",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13271228602000000
+    }
+  },
+  {
+    "id": "bookmark-1937",
+    "category": "bookmarks",
+    "timestamp": "2021-07-20T20:30:45.000Z",
+    "title": "[Gaming] LavaGang/MelonLoader: The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono",
+    "detail": {
+      "name": "LavaGang/MelonLoader: The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono",
+      "url": "https://github.com/LavaGang/MelonLoader",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13271286645000000
+    }
+  },
+  {
+    "id": "bookmark-6498",
+    "category": "bookmarks",
+    "timestamp": "2021-07-21T00:55:35.000Z",
+    "title": "[Legal] What Process Servers Wish You Knew About Their Jobs - DGR Legal",
+    "detail": {
+      "name": "What Process Servers Wish You Knew About Their Jobs - DGR Legal",
+      "url": "https://www.dgrlegal.com/what-process-servers-wish-you-knew/#:~:text=Process%20servers%20hand%20deliver%20official,(more%20on%20that%20below).",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13271302535000000
+    }
+  },
+  {
+    "id": "bookmark-6499",
+    "category": "bookmarks",
+    "timestamp": "2021-07-21T01:06:52.000Z",
+    "title": "[Legal] Is A Lie Just Free Speech, Or Is It A Crime? : NPR",
+    "detail": {
+      "name": "Is A Lie Just Free Speech, Or Is It A Crime? : NPR",
+      "url": "https://www.npr.org/2012/02/22/147257716/is-a-lie-just-free-speech-or-is-it-a-crime",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13271303212000000
+    }
+  },
+  {
+    "id": "bookmark-5635",
+    "category": "bookmarks",
+    "timestamp": "2021-07-21T03:39:25.000Z",
+    "title": "[History] Interview: Tribal Council Mismanagement and Millions Missing | Human Rights Watch",
+    "detail": {
+      "name": "Interview: Tribal Council Mismanagement and Millions Missing | Human Rights Watch",
+      "url": "https://www.hrw.org/news/2015/01/12/interview-tribal-council-mismanagement-and-millions-missing",
+      "folderPath": "History",
+      "lastFolder": "History",
+      "timeUsec": 13271312365000000
+    }
+  },
+  {
+    "id": "bookmark-5636",
+    "category": "bookmarks",
+    "timestamp": "2021-07-21T03:39:32.000Z",
+    "title": "[History] Infrastructure on Reservations is Falling Apart",
+    "detail": {
+      "name": "Infrastructure on Reservations is Falling Apart",
+      "url": "https://talkpoverty.org/2021/03/24/failing-infrastructure-indigenous-reservations/",
+      "folderPath": "History",
+      "lastFolder": "History",
+      "timeUsec": 13271312372000000
+    }
+  },
+  {
+    "id": "bookmark-5637",
+    "category": "bookmarks",
+    "timestamp": "2021-07-21T03:39:39.000Z",
+    "title": "[History] Why Are Indian Reservations So Poor? A Look At The Bottom 1%",
+    "detail": {
+      "name": "Why Are Indian Reservations So Poor? A Look At The Bottom 1%",
+      "url": "https://www.forbes.com/sites/johnkoppisch/2011/12/13/why-are-indian-reservations-so-poor-a-look-at-the-bottom-1/?sh=3f3473c43c07",
+      "folderPath": "History",
+      "lastFolder": "History",
+      "timeUsec": 13271312379000000
+    }
+  },
+  {
+    "id": "event-75i32c1h69j3eb9h6oo3cb9k6ko68bb274sjabb565i3edj474o32e1kc8@google.com",
+    "category": "events",
+    "timestamp": "2021-07-21T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-21T06:00:00.000Z",
+      "end": "2021-07-21T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6op30chg6gr3ibb6c4rj0b9k6soj8bb271j30b9o68s3go9g60p6adb3co@google.com",
+    "category": "events",
+    "timestamp": "2021-07-21T17:00:00.000Z",
+    "title": "[Predictions] Weird dream around friends, but trying to avoid some",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Weird dream around friends, but trying to avoid some",
+      "description": "",
+      "location": "",
+      "start": "2021-07-21T17:00:00.000Z",
+      "end": "2021-07-21T18:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-11070",
+    "category": "bookmarks",
+    "timestamp": "2021-07-21T20:27:17.290Z",
+    "title": "[Data structures] Transcribing all music ever recorded",
+    "detail": {
+      "name": "Transcribing all music ever recorded",
+      "url": "https://parture.org/",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13271372837290266
+    }
+  },
+  {
+    "id": "bookmark-11071",
+    "category": "bookmarks",
+    "timestamp": "2021-07-21T20:27:57.295Z",
+    "title": "[Data structures] LibreScore/LibreScore: The open source (GPLv3), serverless, offline-first, and totally free alternative to musescore.com",
+    "detail": {
+      "name": "LibreScore/LibreScore: The open source (GPLv3), serverless, offline-first, and totally free alternative to musescore.com",
+      "url": "https://github.com/LibreScore/LibreScore",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13271372877295148
+    }
+  },
+  {
+    "id": "bookmark-6500",
+    "category": "bookmarks",
+    "timestamp": "2021-07-21T22:33:14.000Z",
+    "title": "[Legal] Unfair Misuse: How Section 512 of the DMCA Allows Abuse of the Copyright Fair Use Doctrine and How to Fix It",
+    "detail": {
+      "name": "Unfair Misuse: How Section 512 of the DMCA Allows Abuse of the Copyright Fair Use Doctrine and How to Fix It",
+      "url": "https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1638&context=chtlj",
+      "folderPath": "Law/Legal",
+      "lastFolder": "Legal",
+      "timeUsec": 13271380394000000
+    }
+  },
+  {
+    "id": "bookmark-16630",
+    "category": "bookmarks",
+    "timestamp": "2021-07-21T23:26:28.789Z",
+    "title": "[Mathematics] Visualizing quaternions, an explorable video series",
+    "detail": {
+      "name": "Visualizing quaternions, an explorable video series",
+      "url": "https://eater.net/quaternions/",
+      "folderPath": "Mathematics",
+      "lastFolder": "Mathematics",
+      "timeUsec": 13271383588789128
+    }
+  },
+  {
+    "id": "bookmark-12160",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T04:31:22.442Z",
+    "title": "[Gaming] fredakilla/brtshaderc: bgfx runtime shader compiler. Library version of the bgfx shaderc tool to build bgfx shaders from sources at runtime.",
+    "detail": {
+      "name": "fredakilla/brtshaderc: bgfx runtime shader compiler. Library version of the bgfx shaderc tool to build bgfx shaders from sources at runtime.",
+      "url": "https://github.com/fredakilla/brtshaderc",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13271401882442936
+    }
+  },
+  {
+    "id": "bookmark-12161",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T04:32:25.653Z",
+    "title": "[Gaming] nem0/LumixEngine: 3D C++ Game Engine - yet another open source game engine",
+    "detail": {
+      "name": "nem0/LumixEngine: 3D C++ Game Engine - yet another open source game engine",
+      "url": "https://github.com/nem0/LumixEngine",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13271401945653982
+    }
+  },
+  {
+    "id": "bookmark-15791",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T04:39:26.503Z",
+    "title": "[Job sites] The FPGA designer who didn't get the job",
+    "detail": {
+      "name": "The FPGA designer who didn't get the job",
+      "url": "https://zipcpu.com/blog/2021/01/29/hiring.html",
+      "folderPath": "Job sites",
+      "lastFolder": "Job sites",
+      "timeUsec": 13271402366503056
+    }
+  },
+  {
+    "id": "bookmark-15104",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T04:49:57.634Z",
+    "title": "[Engineering] ZipCPU/wb2axip: Bus bridges and other odds and ends",
+    "detail": {
+      "name": "ZipCPU/wb2axip: Bus bridges and other odds and ends",
+      "url": "https://github.com/ZipCPU/wb2axip",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13271402997634640
+    }
+  },
+  {
+    "id": "bookmark-15105",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T05:03:48.814Z",
+    "title": "[Engineering] Formal Verification Courseware",
+    "detail": {
+      "name": "Formal Verification Courseware",
+      "url": "https://zipcpu.com/tutorial/formal.html",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13271403828814244
+    }
+  },
+  {
+    "id": "bookmark-15106",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T05:15:35.532Z",
+    "title": "[Engineering] Field-programmable gate array - Wikipedia",
+    "detail": {
+      "name": "Field-programmable gate array - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Field-programmable_gate_array",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13271404535532640
+    }
+  },
+  {
+    "id": "bookmark-15107",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T06:09:59.037Z",
+    "title": "[Engineering] Eruv - Wikipedia",
+    "detail": {
+      "name": "Eruv - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Eruv",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13271407799037046
+    }
+  },
+  {
+    "id": "bookmark-19490",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T07:26:26.809Z",
+    "title": "[Old Testament] Why is sex allowed on Shabbat? - The Jewish Chronicle",
+    "detail": {
+      "name": "Why is sex allowed on Shabbat? - The Jewish Chronicle",
+      "url": "https://www.thejc.com/judaism/rabbi-i-have-a-problem/why-is-sex-allowed-on-shabbat-1.33812",
+      "folderPath": "Theology/Old Testament",
+      "lastFolder": "Old Testament",
+      "timeUsec": 13271412386809102
+    }
+  },
+  {
+    "id": "bookmark-19491",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T07:55:24.284Z",
+    "title": "[Old Testament] Kashrut - Wikipedia",
+    "detail": {
+      "name": "Kashrut - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Kashrut",
+      "folderPath": "Theology/Old Testament",
+      "lastFolder": "Old Testament",
+      "timeUsec": 13271414124284880
+    }
+  },
+  {
+    "id": "bookmark-19492",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T17:23:06.683Z",
+    "title": "[Old Testament] Tour of the Sacred Library – Ryan Moulton's Articles",
+    "detail": {
+      "name": "Tour of the Sacred Library – Ryan Moulton's Articles",
+      "url": "https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/",
+      "folderPath": "Theology/Old Testament",
+      "lastFolder": "Old Testament",
+      "timeUsec": 13271448186683274
+    }
+  },
+  {
+    "id": "bookmark-14532",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T17:49:50.216Z",
+    "title": "[Human interfaces] (Almost-)Zero-Additional-Latency UDP-over-TCP - IT Hare on Soft.ware",
+    "detail": {
+      "name": "(Almost-)Zero-Additional-Latency UDP-over-TCP - IT Hare on Soft.ware",
+      "url": "http://ithare.com/almost-zero-additional-latency-udp-over-tcp/",
+      "folderPath": "Computer Science/Web/Design/Human interfaces",
+      "lastFolder": "Human interfaces",
+      "timeUsec": 13271449790216732
+    }
+  },
+  {
+    "id": "event-6go68cpg6opj8b9k74q66b9k70o66b9o6sp66b9m64r34db671imcd1lc8@google.com",
+    "category": "events",
+    "timestamp": "2021-07-22T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-22T18:00:00.000Z",
+      "end": "2021-07-22T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-4455",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T18:34:42.000Z",
+    "title": "[Human interfaces] (Almost-)Zero-Additional-Latency UDP-over-TCP - IT Hare on Soft.ware",
+    "detail": {
+      "name": "(Almost-)Zero-Additional-Latency UDP-over-TCP - IT Hare on Soft.ware",
+      "url": "http://ithare.com/almost-zero-additional-latency-udp-over-tcp/",
+      "folderPath": "Computer Science/Web/Design/Human interfaces",
+      "lastFolder": "Human interfaces",
+      "timeUsec": 13271452482000000
+    }
+  },
+  {
+    "id": "bookmark-12684",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T20:57:40.568Z",
+    "title": "[Languages] ocaml/ocaml: The core OCaml system: compilers, runtime system, base libraries",
+    "detail": {
+      "name": "ocaml/ocaml: The core OCaml system: compilers, runtime system, base libraries",
+      "url": "https://github.com/ocaml/ocaml",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13271461060568196
+    }
+  },
+  {
+    "id": "bookmark-12685",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T20:58:16.621Z",
+    "title": "[Languages] ML (programming language) - Wikipedia",
+    "detail": {
+      "name": "ML (programming language) - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/ML_(programming_language)",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13271461096621268
+    }
+  },
+  {
+    "id": "bookmark-9416",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T21:33:12.000Z",
+    "title": "[Politics] Allison Mack Of 'Smallville' Accused Of Sex Trafficking : The Two-Way : NPR",
+    "detail": {
+      "name": "Allison Mack Of 'Smallville' Accused Of Sex Trafficking : The Two-Way : NPR",
+      "url": "https://www.npr.org/sections/thetwo-way/2018/04/21/604579523/smallville-actress-charged-with-sex-trafficking",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13271463192000000
+    }
+  },
+  {
+    "id": "bookmark-9417",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T21:35:43.000Z",
+    "title": "[Politics] Nxivm Cult: Leader Keith Raniere Sentenced to 120 Years - The New York Times",
+    "detail": {
+      "name": "Nxivm Cult: Leader Keith Raniere Sentenced to 120 Years - The New York Times",
+      "url": "https://www.nytimes.com/2020/10/27/nyregion/nxivm-cult-keith-raniere-sentenced.html",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13271463343000000
+    }
+  },
+  {
+    "id": "bookmark-9418",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T21:37:36.000Z",
+    "title": "[Politics] Nxivm founder Keith Raniere to pay restitution to victims of almost $3.5 million - CNN",
+    "detail": {
+      "name": "Nxivm founder Keith Raniere to pay restitution to victims of almost $3.5 million - CNN",
+      "url": "https://www.cnn.com/2021/07/20/us/nxivm-keith-raniere-restitution/index.html",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13271463456000000
+    }
+  },
+  {
+    "id": "bookmark-9419",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T21:37:52.000Z",
+    "title": "[Politics] NXIVM: Allison Mack tape helped convict Upstate NY sex cult leader; feds seek lighter sentence - syracuse.com",
+    "detail": {
+      "name": "NXIVM: Allison Mack tape helped convict Upstate NY sex cult leader; feds seek lighter sentence - syracuse.com",
+      "url": "https://www.syracuse.com/state/2021/06/nxivm-allison-mack-tape-helped-convict-upstate-ny-sex-cult-leader-feds-seek-lighter-sentence.html",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13271463472000000
+    }
+  },
+  {
+    "id": "bookmark-9420",
+    "category": "bookmarks",
+    "timestamp": "2021-07-22T21:38:42.000Z",
+    "title": "[Politics] GirlsDoPorn actor sentenced to 20 years - Los Angeles Times",
+    "detail": {
+      "name": "GirlsDoPorn actor sentenced to 20 years - Los Angeles Times",
+      "url": "https://www.latimes.com/california/story/2021-06-15/girlsdoporn-actor-sentenced-20-years-sex-trafficking-conspiracy",
+      "folderPath": "Social/Economics/Politics",
+      "lastFolder": "Politics",
+      "timeUsec": 13271463522000000
+    }
+  },
+  {
+    "id": "bookmark-15108",
+    "category": "bookmarks",
+    "timestamp": "2021-07-23T01:12:39.567Z",
+    "title": "[Engineering] Galois: Trust in your most critical systems.",
+    "detail": {
+      "name": "Galois: Trust in your most critical systems.",
+      "url": "https://galois.com/",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13271476359567524
+    }
+  },
+  {
+    "id": "bookmark-2495",
+    "category": "bookmarks",
+    "timestamp": "2021-07-23T05:29:24.000Z",
+    "title": "[Languages] MirageOS",
+    "detail": {
+      "name": "MirageOS",
+      "url": "https://mirage.io/",
+      "folderPath": "Computer Science/Languages",
+      "lastFolder": "Languages",
+      "timeUsec": 13271491764000000
+    }
+  },
+  {
+    "id": "bookmark-14316",
+    "category": "bookmarks",
+    "timestamp": "2021-07-23T08:29:52.445Z",
+    "title": "[IDEs] 10x Editor",
+    "detail": {
+      "name": "10x Editor",
+      "url": "https://www.10xeditor.com/",
+      "folderPath": "Computer Science/Tools/IDEs",
+      "lastFolder": "IDEs",
+      "timeUsec": 13271502592445986
+    }
+  },
+  {
+    "id": "bookmark-14317",
+    "category": "bookmarks",
+    "timestamp": "2021-07-23T08:32:59.534Z",
+    "title": "[IDEs] Issues · slynch8/10x",
+    "detail": {
+      "name": "Issues · slynch8/10x",
+      "url": "https://github.com/slynch8/10x/issues?page=2&q=is%3Aissue+is%3Aopen+label%3Afeature+-label%3Aparser+-label%3Abeta",
+      "folderPath": "Computer Science/Tools/IDEs",
+      "lastFolder": "IDEs",
+      "timeUsec": 13271502779534472
+    }
+  },
+  {
+    "id": "event-6cojeor168sm6b9icor32b9k6so3gbb2c8p62b9hcgo36c3470pjip1i6c@google.com",
+    "category": "events",
+    "timestamp": "2021-07-23T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-23T19:00:00.000Z",
+      "end": "2021-07-23T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70ojep31coqj2b9pc8rjgb9k69ij2bb2chhmab9mchgmad9g74s68dj36k@google.com",
+    "category": "events",
+    "timestamp": "2021-07-23T21:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-23T21:30:00.000Z",
+      "end": "2021-07-23T22:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-9654",
+    "category": "bookmarks",
+    "timestamp": "2021-07-23T23:23:51.000Z",
+    "title": "[New Testament] What the Bible says about rejection - Bold Café",
+    "detail": {
+      "name": "What the Bible says about rejection - Bold Café",
+      "url": "https://www.boldcafe.org/what-the-bible-says-about-rejection/",
+      "folderPath": "Theology/New Testament",
+      "lastFolder": "New Testament",
+      "timeUsec": 13271556231000000
+    }
+  },
+  {
+    "id": "bookmark-12162",
+    "category": "bookmarks",
+    "timestamp": "2021-07-24T01:18:35.921Z",
+    "title": "[Gaming] mozilla/BrowserQuest: A HTML5/JavaScript multiplayer game experiment",
+    "detail": {
+      "name": "mozilla/BrowserQuest: A HTML5/JavaScript multiplayer game experiment",
+      "url": "https://github.com/mozilla/BrowserQuest",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13271563115921292
+    }
+  },
+  {
+    "id": "bookmark-12163",
+    "category": "bookmarks",
+    "timestamp": "2021-07-24T06:49:18.445Z",
+    "title": "[Gaming] crueltt squad - Google Search",
+    "detail": {
+      "name": "crueltt squad - Google Search",
+      "url": "https://www.google.com/search?q=crueltt+squad&oq=crueltt+squad&aqs=chrome..69i57.3712j0j9&client=ms-android-google&sourceid=chrome-mobile&ie=UTF-8",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13271582958445016
+    }
+  },
+  {
+    "id": "event-6gq36cpp64rj4b9l6hi6cb9k6sqj0bb2chhjeb9mcooj0opnc8p3ge9i70@google.com",
+    "category": "events",
+    "timestamp": "2021-07-24T14:00:00.000Z",
+    "title": "[Predictions] Dream, visiting vera, went to a movie with Corinne, driving a giant truck but it's diesel, weird acceleration",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, visiting vera, went to a movie with Corinne, driving a giant truck but it's diesel, weird acceleration",
+      "description": "",
+      "location": "",
+      "start": "2021-07-24T14:00:00.000Z",
+      "end": "2021-07-24T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cphj6d346lgj4b9j71gjgb9kc5h3ib9ocgs62b9h69i6ap9i6orjgor6c4@google.com",
+    "category": "events",
+    "timestamp": "2021-07-24T15:00:00.000Z",
+    "title": "[Predictions] Dream, party outside flipping a bottle of vodka, weird physics, slow down time, heard my name being called",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, party outside flipping a bottle of vodka, weird physics, slow down time, heard my name being called",
+      "description": "",
+      "location": "",
+      "start": "2021-07-24T15:00:00.000Z",
+      "end": "2021-07-24T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-17460",
+    "category": "bookmarks",
+    "timestamp": "2021-07-25T01:22:28.471Z",
+    "title": "[Natural Science] Smart Cows and painted Cattle-guards | by Hersch Wilson | Braving Fires. | Medium",
+    "detail": {
+      "name": "Smart Cows and painted Cattle-guards | by Hersch Wilson | Braving Fires. | Medium",
+      "url": "https://medium.com/firefighters-explain-how-the-universe-works/smart-cows-and-painted-cattle-guards-499c4d6df69a",
+      "folderPath": "Natural Science",
+      "lastFolder": "Natural Science",
+      "timeUsec": 13271649748471872
+    }
+  },
+  {
+    "id": "event-6hhjgp9m60oj8bb36grj2b9k6ph3cb9o6or68bb674omcphhckrmcdr274@google.com",
+    "category": "events",
+    "timestamp": "2021-07-25T05:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-25T05:00:00.000Z",
+      "end": "2021-07-25T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-13628",
+    "category": "bookmarks",
+    "timestamp": "2021-07-25T06:40:00.398Z",
+    "title": "[Quake 3] oDFe/cl_tc_vis.c at master · JBustos22/oDFe",
+    "detail": {
+      "name": "oDFe/cl_tc_vis.c at master · JBustos22/oDFe",
+      "url": "https://github.com/JBustos22/oDFe/blob/master/code/client/cl_tc_vis.c",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13271668800398804
+    }
+  },
+  {
+    "id": "event-cor3ep34chi3eb9n6tj64b9k60sjib9pcopjebb36orj4phnccs34cj66k@google.com",
+    "category": "events",
+    "timestamp": "2021-07-25T14:00:00.000Z",
+    "title": "[Predictions] Dream, had a bunch of weed cartridges and was chewing on it, had too much, looking for food woth Travis after a movie but places were closed at 9:58",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, had a bunch of weed cartridges and was chewing on it, had too much, looking for food woth Travis after a movie but places were closed at 9:58",
+      "description": "",
+      "location": "",
+      "start": "2021-07-25T14:00:00.000Z",
+      "end": "2021-07-25T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-7393",
+    "category": "bookmarks",
+    "timestamp": "2021-07-25T19:52:41.000Z",
+    "title": "[Recording] CloZee - Sunset Dreamtempo Set - YouTube",
+    "detail": {
+      "name": "CloZee - Sunset Dreamtempo Set - YouTube",
+      "url": "https://www.youtube.com/watch?v=EnYmqdQA73s",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13271716361000000
+    }
+  },
+  {
+    "id": "bookmark-7394",
+    "category": "bookmarks",
+    "timestamp": "2021-07-25T20:17:55.000Z",
+    "title": "[Recording] Nora En Pure | Graubünden, Switzerland - YouTube",
+    "detail": {
+      "name": "Nora En Pure | Graubünden, Switzerland - YouTube",
+      "url": "https://www.youtube.com/watch?v=El90OBILFBw",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13271717875000000
+    }
+  },
+  {
+    "id": "bookmark-7395",
+    "category": "bookmarks",
+    "timestamp": "2021-07-25T20:17:59.000Z",
+    "title": "[Recording] Heyoka - Bubble - YouTube",
+    "detail": {
+      "name": "Heyoka - Bubble - YouTube",
+      "url": "https://www.youtube.com/watch?v=fZWSpqUCavE",
+      "folderPath": "Music/Recording",
+      "lastFolder": "Recording",
+      "timeUsec": 13271717879000000
+    }
+  },
+  {
+    "id": "event-6or3idpj68o68bb470s6cb9kcosjib9o70om2b9p64sj8d1h64r3ie9o74@google.com",
+    "category": "events",
+    "timestamp": "2021-07-26T13:30:00.000Z",
+    "title": "[Predictions] Dream about tripping over the tree I have to plant",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream about tripping over the tree I have to plant",
+      "description": "",
+      "location": "",
+      "start": "2021-07-26T13:30:00.000Z",
+      "end": "2021-07-26T14:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-10807",
+    "category": "bookmarks",
+    "timestamp": "2021-07-27T00:19:35.321Z",
+    "title": "[CEO] Lessons learned from 15 years of SumatraPDF, an open source Windows app",
+    "detail": {
+      "name": "Lessons learned from 15 years of SumatraPDF, an open source Windows app",
+      "url": "https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html",
+      "folderPath": "CEO",
+      "lastFolder": "CEO",
+      "timeUsec": 13271818775321700
+    }
+  },
+  {
+    "id": "event-ccs3idhg6kp6cb9m6osj6b9k6phm2b9p74o66b9l6sp3ae1j74rjioj1c4@google.com",
+    "category": "events",
+    "timestamp": "2021-07-27T04:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-27T04:30:00.000Z",
+      "end": "2021-07-27T05:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-60r34o9hchh68bb360p6cb9kc9gj4bb26sq3ibb6c8o30chp61i3ce9hcg@google.com",
+    "category": "events",
+    "timestamp": "2021-07-27T13:00:00.000Z",
+    "title": "[Predictions] Dream, worried i have cancer and in a department store with Iga",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, worried i have cancer and in a department store with Iga",
+      "description": "",
+      "location": "",
+      "start": "2021-07-27T13:00:00.000Z",
+      "end": "2021-07-27T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-3he811q6glatu6h2l44vfpfig5@google.com",
+    "category": "events",
+    "timestamp": "2021-07-27T14:00:00.000Z",
+    "title": "[Predictions] Dream, worried i have cancer and in a department store with Iga",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, worried i have cancer and in a department store with Iga",
+      "description": "",
+      "location": "",
+      "start": "2021-07-27T14:00:00.000Z",
+      "end": "2021-07-27T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-15109",
+    "category": "bookmarks",
+    "timestamp": "2021-07-27T19:11:02.800Z",
+    "title": "[Engineering] How to Export Gerber from Eagle 9 .brd File",
+    "detail": {
+      "name": "How to Export Gerber from Eagle 9 .brd File",
+      "url": "https://www.tinyosshop.com/index.php?route=information/news&news_id=78",
+      "folderPath": "Engineering",
+      "lastFolder": "Engineering",
+      "timeUsec": 13271886662800962
+    }
+  },
+  {
+    "id": "bookmark-11072",
+    "category": "bookmarks",
+    "timestamp": "2021-07-28T01:59:47.079Z",
+    "title": "[Data structures] Free PDF Reader - Sumatra PDF",
+    "detail": {
+      "name": "Free PDF Reader - Sumatra PDF",
+      "url": "https://www.sumatrapdfreader.org/free-pdf-reader",
+      "folderPath": "Computer Science/Algorithms/Data structures",
+      "lastFolder": "Data structures",
+      "timeUsec": 13271911187079252
+    }
+  },
+  {
+    "id": "event-ccr32phgcgo6ab9j69j32b9kccqm8bb1ccs3gbb471i3ccb16sr36ob26c@google.com",
+    "category": "events",
+    "timestamp": "2021-07-28T15:30:00.000Z",
+    "title": "[Predictions] Dream, someone made a brisket that go thrown out because other animals were eating it.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, someone made a brisket that go thrown out because other animals were eating it.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-28T15:30:00.000Z",
+      "end": "2021-07-28T16:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-13629",
+    "category": "bookmarks",
+    "timestamp": "2021-07-28T16:19:11.727Z",
+    "title": "[Quake 3] quake2xp / Code / [r1307]",
+    "detail": {
+      "name": "quake2xp / Code / [r1307]",
+      "url": "https://sourceforge.net/p/quake2xp/code/HEAD/tree/",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13271962751727738
+    }
+  },
+  {
+    "id": "event-copjgpb460q38bb5clhj4b9k60sj0b9ocphjib9nchhm4e1g65i36ob26k@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T03:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-29T03:30:00.000Z",
+      "end": "2021-07-29T04:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6hgjacpj68r30b9oc5j34b9k64qjcb9p6gq3ib9i74s36c1m64s34ob2cg@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T14:00:00.000Z",
+    "title": "[Predictions] Dream, Eddie choking",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Eddie choking",
+      "description": "",
+      "location": "",
+      "start": "2021-07-29T14:00:00.000Z",
+      "end": "2021-07-29T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6oqjcphi75i3cbb369j38b9k6cpm8bb2cor68b9n6srj8cppc5i62d1p60@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T15:00:00.000Z",
+    "title": "[Predictions] Dream having a party with people and movies",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream having a party with people and movies",
+      "description": "",
+      "location": "",
+      "start": "2021-07-29T15:00:00.000Z",
+      "end": "2021-07-29T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-75hjecb2c9gj8b9g6him2b9kcdj68b9o68sjib9m6os3cp9o6somcc31cc@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T16:00:00.000Z",
+    "title": "[Predictions] Dream, Dr Haskell's quake 3 server, game was what I wanted to make, lost of levels from previous games all played in series",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Dr Haskell's quake 3 server, game was what I wanted to make, lost of levels from previous games all played in series",
+      "description": "",
+      "location": "",
+      "start": "2021-07-29T16:00:00.000Z",
+      "end": "2021-07-29T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-12164",
+    "category": "bookmarks",
+    "timestamp": "2021-07-29T16:52:15.801Z",
+    "title": "[Gaming] mschweiger/orbiter: Open-source repository of Orbiter Space Flight Simulator",
+    "detail": {
+      "name": "mschweiger/orbiter: Open-source repository of Orbiter Space Flight Simulator",
+      "url": "https://github.com/mschweiger/orbiter",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13272051135801296
+    }
+  },
+  {
+    "id": "event-6li30eb4cdj34b9ichgj6b9k70pj4bb275h36b9lc4qjcp9kc4p6cp1h6o@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T17:00:00.000Z",
+    "title": "[Predictions] Dream some old attic with a computer. Mouse problem, needed a firmware upgrade but only runs on Windows, problems booting up, had to rewire a appliances couldn't boot computer on the same line as the dryer, Iga went to make chocolate milk.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream some old attic with a computer. Mouse problem, needed a firmware upgrade but only runs on Windows, problems booting up, had to rewire a appliances couldn't boot computer on the same line as the dryer, Iga went to make chocolate milk.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-29T17:00:00.000Z",
+      "end": "2021-07-29T18:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c5hm4d3274o66bb56li3ib9kcoo3abb261j62b9lc9gjcpb164o6acb660@google.com",
+    "category": "events",
+    "timestamp": "2021-07-29T18:00:00.000Z",
+    "title": "[Predictions] Dream All the weapons were combined into one game, somebody else made it and I was mad because it wasn't me. All the weapons from dooms/quakes were playable. It played demos and movies in between downloading content. The server was called Dr Haskell's game server.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream All the weapons were combined into one game, somebody else made it and I was mad because it wasn't me. All the weapons from dooms/quakes were playable. It played demos and movies in between downloading content. The server was called Dr Haskell's game server.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-29T18:00:00.000Z",
+      "end": "2021-07-29T19:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "bookmark-14580",
+    "category": "bookmarks",
+    "timestamp": "2021-07-29T22:11:50.957Z",
+    "title": "[Hardware] Framework | Framework Laptop pre-orders are now open",
+    "detail": {
+      "name": "Framework | Framework Laptop pre-orders are now open",
+      "url": "https://frame.work/",
+      "folderPath": "Computer Science/Hardware",
+      "lastFolder": "Hardware",
+      "timeUsec": 13272070310957904
+    }
+  },
+  {
+    "id": "bookmark-3445",
+    "category": "bookmarks",
+    "timestamp": "2021-07-30T00:43:31.000Z",
+    "title": "[Quake 3] Quake3World.com • View topic - Combine water and mirror shader",
+    "detail": {
+      "name": "Quake3World.com • View topic - Combine water and mirror shader",
+      "url": "https://www.quake3world.com/forum/viewtopic.php?f=10&t=43096",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13272079411000000
+    }
+  },
+  {
+    "id": "bookmark-3446",
+    "category": "bookmarks",
+    "timestamp": "2021-07-30T00:43:55.000Z",
+    "title": "[Quake 3] www.realtimerendering.com/resources/GraphicsGems/gemsiv/graph_layout/layout.C",
+    "detail": {
+      "name": "www.realtimerendering.com/resources/GraphicsGems/gemsiv/graph_layout/layout.C",
+      "url": "http://www.realtimerendering.com/resources/GraphicsGems/gemsiv/graph_layout/layout.C",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13272079435000000
+    }
+  },
+  {
+    "id": "bookmark-6648",
+    "category": "bookmarks",
+    "timestamp": "2021-07-30T00:44:09.000Z",
+    "title": "[Mathematics] Index of /resources/GraphicsGems/gemsiv/graph_layout",
+    "detail": {
+      "name": "Index of /resources/GraphicsGems/gemsiv/graph_layout",
+      "url": "http://www.realtimerendering.com/resources/GraphicsGems/gemsiv/graph_layout/",
+      "folderPath": "Mathematics",
+      "lastFolder": "Mathematics",
+      "timeUsec": 13272079449000000
+    }
+  },
+  {
+    "id": "bookmark-6649",
+    "category": "bookmarks",
+    "timestamp": "2021-07-30T02:08:07.000Z",
+    "title": "[Mathematics] geometry - Calculate X Y Z from two specific degrees on a sphere - Mathematics Stack Exchange",
+    "detail": {
+      "name": "geometry - Calculate X Y Z from two specific degrees on a sphere - Mathematics Stack Exchange",
+      "url": "https://math.stackexchange.com/questions/989900/calculate-x-y-z-from-two-specific-degrees-on-a-sphere",
+      "folderPath": "Mathematics",
+      "lastFolder": "Mathematics",
+      "timeUsec": 13272084487000000
+    }
+  },
+  {
+    "id": "bookmark-3447",
+    "category": "bookmarks",
+    "timestamp": "2021-07-30T02:12:18.000Z",
+    "title": "[Quake 3] ocharles/zero-to-quake-3: Implementing Quake 3 in Haskell & Vulkan",
+    "detail": {
+      "name": "ocharles/zero-to-quake-3: Implementing Quake 3 in Haskell & Vulkan",
+      "url": "https://github.com/ocharles/zero-to-quake-3",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13272084738000000
+    }
+  },
+  {
+    "id": "bookmark-3448",
+    "category": "bookmarks",
+    "timestamp": "2021-07-30T02:13:15.000Z",
+    "title": "[Quake 3] lambdacube3d/lambdacube-edsl: Previous version of LambdaCube 3D as Embedded Domain Specific Language in Haskell. Check the latest system:",
+    "detail": {
+      "name": "lambdacube3d/lambdacube-edsl: Previous version of LambdaCube 3D as Embedded Domain Specific Language in Haskell. Check the latest system:",
+      "url": "https://github.com/lambdacube3d/lambdacube-edsl",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13272084795000000
+    }
+  },
+  {
+    "id": "bookmark-3449",
+    "category": "bookmarks",
+    "timestamp": "2021-07-30T02:15:14.000Z",
+    "title": "[Quake 3] ocharles/hs-quake-3: Quake 3 map viewer written in Haskell",
+    "detail": {
+      "name": "ocharles/hs-quake-3: Quake 3 map viewer written in Haskell",
+      "url": "https://github.com/ocharles/hs-quake-3",
+      "folderPath": "Computer Science/Quake 3",
+      "lastFolder": "Quake 3",
+      "timeUsec": 13272084914000000
+    }
+  },
+  {
+    "id": "bookmark-12165",
+    "category": "bookmarks",
+    "timestamp": "2021-07-30T08:00:20.105Z",
+    "title": "[Gaming] FunGEn: A lightweight, cross-platform, OpenGL-based game engine.",
+    "detail": {
+      "name": "FunGEn: A lightweight, cross-platform, OpenGL-based game engine.",
+      "url": "https://hackage.haskell.org/package/FunGEn",
+      "folderPath": "Computer Science/Gaming",
+      "lastFolder": "Gaming",
+      "timeUsec": 13272105620105240
+    }
+  },
+  {
+    "id": "event-74s64ohhcor62bb46somcb9k6krj6b9p6somcb9l74p30d1k6pj36o9k74@google.com",
+    "category": "events",
+    "timestamp": "2021-07-30T12:00:00.000Z",
+    "title": "[Predictions] Dream, in some kind of strange Airbnb, hostel with lots of people, no privacy, lots of beds, one lower and one in a high loft, afraid to walk on the floor at first though the entire room was upside down",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, in some kind of strange Airbnb, hostel with lots of people, no privacy, lots of beds, one lower and one in a high loft, afraid to walk on the floor at first though the entire room was upside down",
+      "description": "",
+      "location": "",
+      "start": "2021-07-30T12:00:00.000Z",
+      "end": "2021-07-30T13:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c8s3aohhc4s38b9kckqjib9k6pi3gb9p70q32b9l6gojcopg6ks3edpk6s@google.com",
+    "category": "events",
+    "timestamp": "2021-07-30T13:00:00.000Z",
+    "title": "[Predictions] Dream coming out of a restaurant with Iga could barely afford to pay, with some weird tweaker guy, walked to Jeff Kalina office inside a corner of a mall",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream coming out of a restaurant with Iga could barely afford to pay, with some weird tweaker guy, walked to Jeff Kalina office inside a corner of a mall",
+      "description": "",
+      "location": "",
+      "start": "2021-07-30T13:00:00.000Z",
+      "end": "2021-07-30T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-70p32ob170q3ib9h61j62b9k61i66bb1cgp3abb4cdgm4db16cqm2dr160@google.com",
+    "category": "events",
+    "timestamp": "2021-07-30T14:00:00.000Z",
+    "title": "[Predictions] Dream, some weird UN conference in front of a mall about solving big problems, someone talking about solving swage problems, looked underground and saw a clear sewer pipe with nothing flowing through it, something wrong.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, some weird UN conference in front of a mall about solving big problems, someone talking about solving swage problems, looked underground and saw a clear sewer pipe with nothing flowing through it, something wrong.",
+      "description": "",
+      "location": "",
+      "start": "2021-07-30T14:00:00.000Z",
+      "end": "2021-07-30T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6phj6or26hgj2b9h70pjib9k6kpmcbb2chh64b9g71j3cc1l70pm2chk70@google.com",
+    "category": "events",
+    "timestamp": "2021-07-31T02:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2021-07-31T02:00:00.000Z",
+      "end": "2021-07-31T03:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "bookmark-17026",
+    "category": "bookmarks",
+    "timestamp": "2021-07-31T05:42:02.452Z",
+    "title": "[Medical Science] (John McAfee) This might be the craziest Bath Salt story you ever read. NSFW | ResetEra",
+    "detail": {
+      "name": "(John McAfee) This might be the craziest Bath Salt story you ever read. NSFW | ResetEra",
+      "url": "https://www.resetera.com/threads/john-mcafee-this-might-be-the-craziest-bath-salt-story-you-ever-read-nsfw.52119/",
+      "folderPath": "Medical Science",
+      "lastFolder": "Medical Science",
+      "timeUsec": 13272183722452056
+    }
+  },
+  {
+    "id": "bookmark-13941",
+    "category": "bookmarks",
+    "timestamp": "2021-07-31T06:20:17.744Z",
+    "title": "[Privacy] EU withheld a study that shows piracy doesn't hurt sales | Engadget",
+    "detail": {
+      "name": "EU withheld a study that shows piracy doesn't hurt sales | Engadget",
+      "url": "https://www.engadget.com/2017-09-22-eu-suppressed-study-piracy-no-sales-impact.html",
+      "folderPath": "Computer Science/Security/Privacy",
+      "lastFolder": "Privacy",
+      "timeUsec": 13272186017744514
+    }
+  }
+]

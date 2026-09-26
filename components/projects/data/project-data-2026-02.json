@@ -1,0 +1,2610 @@
+{
+  "yearMonth": "2026-02",
+  "generatedAt": "2026-09-24T02:37:24.688Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-02-06": {
+          "date": "2026-02-06",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/game/g_bot.c"
+          ],
+          "commits": [
+            {
+              "hash": "988452227774dcd2407b2617daeb0aa7e6bc66a5",
+              "author": "WofWca",
+              "date": "2026-02-06T17:10:45.000Z",
+              "message": "feat: `addbot` command: add `handicap` param",
+              "linesAdded": 26,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "README.md",
+                "code/game/g_bot.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-02-28": {
+          "date": "2026-02-28",
+          "heatScore": 25,
+          "linesChanged": 239,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json"
+          ],
+          "commits": [
+            {
+              "hash": "b9daa84f9a113eb4adbbc85ff1645f3094fde7c4",
+              "author": "dependabot[bot]",
+              "date": "2026-02-28T06:05:18.000Z",
+              "message": "Bump the npm_and_yarn group across 1 directory with 2 updates (#79)",
+              "linesAdded": 133,
+              "linesDeleted": 106,
+              "filesChanged": [
+                "package-lock.json"
+              ]
+            }
+          ]
+        },
+        "2026-02-27": {
+          "date": "2026-02-27",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json"
+          ],
+          "commits": [
+            {
+              "hash": "8778453730ade568fe86ae0f61b26bbb93782cb7",
+              "author": "dependabot[bot]",
+              "date": "2026-02-27T21:41:09.000Z",
+              "message": "Bump fast-xml-parser in the npm_and_yarn group across 1 directory (#78)",
+              "linesAdded": 12,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "package-lock.json"
+              ]
+            }
+          ]
+        },
+        "2026-02-16": {
+          "date": "2026-02-16",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/services/keyboard-service.ts"
+          ],
+          "commits": [
+            {
+              "hash": "649ada2f891eff22264d175a4e89dfcf8166464c",
+              "author": "Igor Zinken",
+              "date": "2026-02-16T20:04:01.000Z",
+              "message": "Allow using alt when clone stamp is selected to re-select source coordinate",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/services/keyboard-service.ts"
+              ]
+            }
+          ]
+        },
+        "2026-02-15": {
+          "date": "2026-02-15",
+          "heatScore": 16,
+          "linesChanged": 95,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/store/actions/mask-add.ts",
+            "tests/unit/mocks.ts",
+            "tests/unit/store/actions/mask-add.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "b0e68c3fd11fe2501fc48d29c77b74c0d5679d11",
+              "author": "Igor Zinken",
+              "date": "2026-02-15T19:23:53.000Z",
+              "message": "When there is an active selection when a mask is created, fill the mask with the selection",
+              "linesAdded": 92,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "src/store/actions/mask-add.ts",
+                "tests/unit/mocks.ts",
+                "tests/unit/store/actions/mask-add.spec.ts"
+              ]
+            }
+          ]
+        },
+        "2026-02-03": {
+          "date": "2026-02-03",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/actors/layer-renderer.ts",
+            "tsconfig.app.json"
+          ],
+          "commits": [
+            {
+              "hash": "06b39f8dc12b6ab6ca4b65357f922e5f29d0afbd",
+              "author": "Igor Zinken",
+              "date": "2026-02-03T20:42:37.000Z",
+              "message": "Update TypeScript compiler target",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/rendering/actors/layer-renderer.ts",
+                "tsconfig.app.json"
+              ]
+            }
+          ]
+        },
+        "2026-02-01": {
+          "date": "2026-02-01",
+          "heatScore": 26,
+          "linesChanged": 254,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json",
+            "package.json",
+            "src/rendering/actors/interaction-pane.ts",
+            "src/services/keyboard-service.ts",
+            "src/utils/shape-util.ts",
+            "tests/unit/utils/shape-util.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "a1ee8911681f54da8337c6edea5238460dd6cfb8",
+              "author": "Igor Zinken",
+              "date": "2026-02-01T14:06:38.000Z",
+              "message": "Optimizing selections: allowing merging and subtracting of overlapping shapes (#77)",
+              "linesAdded": 193,
+              "linesDeleted": 61,
+              "filesChanged": [
+                "package-lock.json",
+                "package.json",
+                "src/rendering/actors/interaction-pane.ts",
+                "src/services/keyboard-service.ts",
+                "src/utils/shape-util.ts",
+                "tests/unit/utils/shape-util.spec.ts"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "clearview2": {
+      "projectName": "clearview2",
+      "localPath": "C:\\Users\\megam\\clearview2",
+      "remoteUrl": "git@github.com:briancullinan2/clearview2.git",
+      "lastUpdated": "2026-09-24T02:37:00.856Z",
+      "screenshots": [
+        {
+          "filename": "Screenshot 2026-02-17 133251.png",
+          "relativePath": "Docs\\Screenshot 2026-02-17 133251.png",
+          "date": "2026-02-17T00:00:00.000Z",
+          "source": "filename"
+        },
+        {
+          "filename": "Screenshot 2026-02-17 133342.png",
+          "relativePath": "Docs\\Screenshot 2026-02-17 133342.png",
+          "date": "2026-02-17T00:00:00.000Z",
+          "source": "filename"
+        },
+        {
+          "filename": "Screenshot 2026-02-17 134653.png",
+          "relativePath": "Docs\\Screenshot 2026-02-17 134653.png",
+          "date": "2026-02-17T00:00:00.000Z",
+          "source": "filename"
+        }
+      ],
+      "dailyHeat": {
+        "2026-02-20": {
+          "date": "2026-02-20",
+          "heatScore": 26,
+          "linesChanged": 244,
+          "commitCount": 1,
+          "filesEdited": [
+            "ClearView/Pages/User/Login.xaml",
+            "ClearView/Pages/User/Login.xaml.cs",
+            "DataLayer/EntityMetadata.cs",
+            "DataLayer/TranslationContext.cs"
+          ],
+          "commits": [
+            {
+              "hash": "e0b4f61fe8debff279c217cd8c28da12e1fccada",
+              "author": "Brian Cullinan",
+              "date": "2026-02-20T03:47:39.000Z",
+              "message": "couple of data layer layout fixes before porting to web",
+              "linesAdded": 125,
+              "linesDeleted": 119,
+              "filesChanged": [
+                "ClearView/Pages/User/Login.xaml",
+                "ClearView/Pages/User/Login.xaml.cs",
+                "DataLayer/EntityMetadata.cs",
+                "DataLayer/TranslationContext.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-19": {
+          "date": "2026-02-19",
+          "heatScore": 14,
+          "linesChanged": 66,
+          "commitCount": 1,
+          "filesEdited": [
+            "ClearView/Utilities/Logging/MessageLogAppender.cs",
+            "DataLayer/EntityMetadata.cs",
+            "DataLayer/Utilities/Extensions/LinqExtensions.cs"
+          ],
+          "commits": [
+            {
+              "hash": "ec770eb44892fc0b343b85a642f599f40aef7083",
+              "author": "Brian Cullinan",
+              "date": "2026-02-19T19:36:33.000Z",
+              "message": "stupid syntax sugar for using field information in code, but still makes EntityMetadata.Message.MaxLength[Title] impossible to keep track of in xaml if data model changes",
+              "linesAdded": 64,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "ClearView/Utilities/Logging/MessageLogAppender.cs",
+                "DataLayer/EntityMetadata.cs",
+                "DataLayer/Utilities/Extensions/LinqExtensions.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-18": {
+          "date": "2026-02-18",
+          "heatScore": 100,
+          "linesChanged": 9060,
+          "commitCount": 1,
+          "filesEdited": [
+            "3rdPartyLibraries/FTD2XX_NET_v1.3.4/FTDI.FTD2XX_NET.1.3.4.nupkg",
+            "3rdPartyLibraries/FTD2XX_NET_v1.3.4/License.txt",
+            "3rdPartyLibraries/FTD2XX_NET_v1.3.4/net48/FTD2XX_NET.dll",
+            "3rdPartyLibraries/FTD2XX_NET_v1.3.4/net48/FTD2XX_NET.xml",
+            "3rdPartyLibraries/FTD2XX_NET_v1.3.4/net8.0-windows/FTD2XX_NET.dll",
+            "3rdPartyLibraries/FTD2XX_NET_v1.3.4/net8.0-windows/FTD2XX_NET.xml",
+            "3rdPartyLibraries/FTD2XX_NET_v1.3.4/netstandard2.0/FTD2XX_NET.dll",
+            "3rdPartyLibraries/FTD2XX_NET_v1.3.4/netstandard2.0/FTD2XX_NET.xml",
+            "CameraInterface/CameraManager.cs",
+            "ClearView/App.xaml",
+            "ClearView/MainWindow.xaml",
+            "ClearView/MainWindow.xaml.cs",
+            "ClearView/Pages/Application/Permissions.xaml",
+            "ClearView/Pages/Application/Permissions.xaml.cs",
+            "ClearView/Pages/Application/Settings.xaml",
+            "ClearView/Pages/Capture/Calibrate.xaml",
+            "ClearView/Pages/Capture/Calibrate.xaml.cs",
+            "ClearView/Pages/Capture/Manage.xaml",
+            "ClearView/Pages/Capture/Scan.xaml",
+            "ClearView/Pages/Capture/Scan.xaml.cs",
+            "ClearView/Pages/Capture/Search.xaml",
+            "ClearView/Pages/Patient/Add.xaml",
+            "ClearView/Pages/Patient/Search.xaml",
+            "ClearView/Themes/Application/Settings.xaml",
+            "ClearView/Themes/Capture/Calibrate.xaml",
+            "ClearView/Themes/Capture/Scan.xaml",
+            "ClearView/Themes/Capture/Search.xaml",
+            "ClearView/Themes/Patient/Add.xaml",
+            "ClearView/Themes/Patient/Search.xaml",
+            "ClearView/Themes/User/Add.xaml",
+            "ClearView/Themes/User/Add.xaml.cs",
+            "ClearView/Utilities/Macros/General.cs",
+            "ClearView/Utilities/Macros/Navigation.cs",
+            "DeviceInterface/DeviceManager.cs"
+          ],
+          "commits": [
+            {
+              "hash": "7e02ae54e16d03f70ed3f29cbf5cbfd4e91cf55f",
+              "author": "Brian Cullinan",
+              "date": "2026-02-18T23:22:17.000Z",
+              "message": "more navigation fixes",
+              "linesAdded": 8186,
+              "linesDeleted": 874,
+              "filesChanged": [
+                "3rdPartyLibraries/FTD2XX_NET_v1.3.4/FTDI.FTD2XX_NET.1.3.4.nupkg",
+                "3rdPartyLibraries/FTD2XX_NET_v1.3.4/License.txt",
+                "3rdPartyLibraries/FTD2XX_NET_v1.3.4/net48/FTD2XX_NET.dll",
+                "3rdPartyLibraries/FTD2XX_NET_v1.3.4/net48/FTD2XX_NET.xml",
+                "3rdPartyLibraries/FTD2XX_NET_v1.3.4/net8.0-windows/FTD2XX_NET.dll",
+                "3rdPartyLibraries/FTD2XX_NET_v1.3.4/net8.0-windows/FTD2XX_NET.xml",
+                "3rdPartyLibraries/FTD2XX_NET_v1.3.4/netstandard2.0/FTD2XX_NET.dll",
+                "3rdPartyLibraries/FTD2XX_NET_v1.3.4/netstandard2.0/FTD2XX_NET.xml",
+                "CameraInterface/CameraManager.cs",
+                "ClearView/App.xaml",
+                "ClearView/MainWindow.xaml",
+                "ClearView/MainWindow.xaml.cs",
+                "ClearView/Pages/Application/Permissions.xaml",
+                "ClearView/Pages/Application/Permissions.xaml.cs",
+                "ClearView/Pages/Application/Settings.xaml",
+                "ClearView/Pages/Capture/Calibrate.xaml",
+                "ClearView/Pages/Capture/Calibrate.xaml.cs",
+                "ClearView/Pages/Capture/Manage.xaml",
+                "ClearView/Pages/Capture/Scan.xaml",
+                "ClearView/Pages/Capture/Scan.xaml.cs",
+                "ClearView/Pages/Capture/Search.xaml",
+                "ClearView/Pages/Patient/Add.xaml",
+                "ClearView/Pages/Patient/Search.xaml",
+                "ClearView/Themes/Application/Settings.xaml",
+                "ClearView/Themes/Capture/Calibrate.xaml",
+                "ClearView/Themes/Capture/Scan.xaml",
+                "ClearView/Themes/Capture/Search.xaml",
+                "ClearView/Themes/Patient/Add.xaml",
+                "ClearView/Themes/Patient/Search.xaml",
+                "ClearView/Themes/User/Add.xaml",
+                "ClearView/Themes/User/Add.xaml.cs",
+                "ClearView/Utilities/Macros/General.cs",
+                "ClearView/Utilities/Macros/Navigation.cs",
+                "DeviceInterface/DeviceManager.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-17": {
+          "date": "2026-02-17",
+          "heatScore": 15,
+          "linesChanged": 83,
+          "commitCount": 1,
+          "filesEdited": [
+            "ClearView/Pages/User/Add.xaml",
+            "MedicalControls/Controls/User/Add.xaml",
+            "MedicalControls/Controls/User/Add.xaml.cs",
+            "MedicalControls/Themes/Models.cs"
+          ],
+          "commits": [
+            {
+              "hash": "6979b2145d4467c4f467597a232070de3274cdb4",
+              "author": "Brian Cullinan",
+              "date": "2026-02-17T21:51:50.000Z",
+              "message": "ungrouped and uncategorized fields lists",
+              "linesAdded": 58,
+              "linesDeleted": 25,
+              "filesChanged": [
+                "ClearView/Pages/User/Add.xaml",
+                "MedicalControls/Controls/User/Add.xaml",
+                "MedicalControls/Controls/User/Add.xaml.cs",
+                "MedicalControls/Themes/Models.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-16": {
+          "date": "2026-02-16",
+          "heatScore": 52,
+          "linesChanged": 644,
+          "commitCount": 1,
+          "filesEdited": [
+            "CameraInterface/AverageMethod.cs",
+            "CameraInterface/BinMethod.cs",
+            "CameraInterface/CameraManager.cs",
+            "CameraInterface/{ => Interfaces}/EmguGeneric.cs",
+            "CameraInterface/{ => Interfaces}/ICapturable.cs",
+            "CameraInterface/{ => Interfaces}/SensorTechnology/StCam.cs",
+            "CameraInterface/{ => Interfaces}/Sentech.cs",
+            "CameraInterface/{ => Utilities}/FrameCallback.cs",
+            "CameraInterface/{ => Utilities}/Logger.cs",
+            "CameraInterface/Utilities/Rasterizer/AverageMethod.cs",
+            "CameraInterface/Utilities/Rasterizer/BinMethod.cs",
+            "CameraInterface/{ => Utilities/Rasterizer}/Binner.cs",
+            "CameraInterface/{ => Utilities/Rasterizer}/BinningMethod.cs",
+            "CameraInterface/{ => Utilities/Rasterizer}/MaxMethod.cs",
+            "ClearView/Capture/Alerts.xaml",
+            "ClearView/ClearView.csproj",
+            "ClearView/MainWindow.xaml",
+            "ClearView/MainWindow.xaml.cs",
+            "ClearView/Pages/Application/Alerts.xaml",
+            "ClearView/{Capture => Pages/Application}/Alerts.xaml.cs",
+            "ClearView/{User => Pages/Application}/Permissions.xaml",
+            "ClearView/{User => Pages/Application}/Permissions.xaml.cs",
+            "ClearView/{Capture => Pages/Application}/Settings.xaml",
+            "ClearView/{Capture => Pages/Application}/Settings.xaml.cs",
+            "ClearView/{Capture => Pages/Application}/SettingsError.cs",
+            "ClearView/{ => Pages/Application}/Welcome.xaml",
+            "ClearView/{ => Pages/Application}/Welcome.xaml.cs",
+            "ClearView/{ => Pages}/Capture/Calibrate.xaml",
+            "ClearView/{ => Pages}/Capture/Calibrate.xaml.cs",
+            "ClearView/{ => Pages}/Capture/Manage.xaml",
+            "ClearView/{ => Pages}/Capture/Manage.xaml.cs",
+            "ClearView/{ => Pages}/Capture/Scan.xaml",
+            "ClearView/{ => Pages}/Capture/Scan.xaml.cs",
+            "ClearView/{ => Pages}/Capture/Search.xaml",
+            "ClearView/{ => Pages}/Capture/Search.xaml.cs",
+            "ClearView/{ => Pages}/Patient/Add.xaml",
+            "ClearView/{ => Pages}/Patient/Add.xaml.cs",
+            "ClearView/{ => Pages}/Patient/Search.xaml",
+            "ClearView/{ => Pages}/Patient/Search.xaml.cs",
+            "ClearView/{ => Pages}/User/Add.xaml",
+            "ClearView/{ => Pages}/User/Add.xaml.cs",
+            "ClearView/{ => Pages}/User/Login.xaml",
+            "ClearView/{ => Pages}/User/Login.xaml.cs",
+            "ClearView/{ => Pages}/User/Search.xaml",
+            "ClearView/{ => Pages}/User/Search.xaml.cs",
+            "ClearView/RenderedView.png",
+            "ClearView/SplashWindow.xaml.cs",
+            "ClearView/Themes/Application/Alerts.xaml",
+            "ClearView/Utilities/Logging/MessageLogAppender.cs",
+            "ClearView/{ => Utilities}/Macros/Excel.cs",
+            "ClearView/{ => Utilities}/Macros/Export.cs",
+            "ClearView/{ => Utilities}/Macros/General.cs",
+            "ClearView/{ => Utilities}/Macros/Import.cs",
+            "ClearView/{ => Utilities}/Macros/Navigation.cs",
+            "ClearView/{ => Utilities}/Native/AdvApi32.cs",
+            "ClearView/{ => Utilities}/Native/DwmApi.cs",
+            "ClearView/{ => Utilities}/Native/Gdi32.cs",
+            "ClearView/{ => Utilities}/Native/Kernel32.cs",
+            "ClearView/{ => Utilities}/Native/User32.cs",
+            "DataLayer/DataLayer.csproj",
+            "DataLayer/{ => Utilities}/Extensions/EnumExtensions.cs",
+            "DataLayer/{ => Utilities}/Extensions/IEntityExtensions.cs",
+            "DataLayer/{ => Utilities}/Logger.cs",
+            "MedicalControls/{Utilities => Controls/Application}/FormChecker.xaml",
+            "MedicalControls/{Utilities => Controls/Application}/FormChecker.xaml.cs",
+            "MedicalControls/{Utilities => Controls/Application}/LogTextBox.xaml",
+            "MedicalControls/{Utilities => Controls/Application}/LogTextBox.xaml.cs",
+            "MedicalControls/{Utilities => Controls/Application}/OpenWith.xaml",
+            "MedicalControls/{Utilities => Controls/Application}/OpenWith.xaml.cs",
+            "MedicalControls/{Utilities => Controls/Application}/ProgressDialog.xaml",
+            "MedicalControls/{Utilities => Controls/Application}/ProgressDialog.xaml.cs",
+            "MedicalControls/{Utilities => Controls/Application}/SelectEntity.xaml",
+            "MedicalControls/{Utilities => Controls/Application}/SelectEntity.xaml.cs",
+            "MedicalControls/{Utilities => Controls/Application}/ServiceRibbon.xaml",
+            "MedicalControls/{Utilities => Controls/Application}/ServiceRibbon.xaml.cs",
+            "MedicalControls/{ => Controls}/Capture/CalibrationImage.cs",
+            "MedicalControls/{ => Controls}/Capture/CaptureResults.cs",
+            "MedicalControls/{ => Controls}/Capture/FingerImage.cs",
+            "MedicalControls/{ => Controls}/Capture/ProcessingImage.xaml",
+            "MedicalControls/{ => Controls}/Capture/ProcessingImage.xaml.cs",
+            "MedicalControls/{ => Controls}/Capture/States.cs",
+            "MedicalControls/Themes/Application/TabControlStyles.xaml.cs",
+            "MedicalControls/Themes/ClearView.xaml.cs",
+            "MedicalControls/{Utilities => Themes}/GeneralTemplate.xaml",
+            "MedicalControls/{Utilities => Themes}/GeneralTemplate.xaml.cs",
+            "MedicalControls/{ => Utilities}/Extensions/DependencyObjectExtensions.cs",
+            "MedicalControls/{ => Utilities}/Extensions/IconExtensions.cs",
+            "MedicalControls/{ => Utilities}/Extensions/LinqExtensions.cs",
+            "MedicalControls/{ => Utilities}/Macros/Mica.cs",
+            "MedicalControls/{ => Utilities}/Macros/Navigation.cs",
+            "MedicalControls/{ => Utilities}/Native/AdvApi32.cs",
+            "MedicalControls/{ => Utilities}/Native/DwmApi.cs",
+            "MedicalControls/{ => Utilities}/Native/Gdi32.cs",
+            "MedicalControls/{ => Utilities}/Native/Kernel32.cs",
+            "MedicalControls/{ => Utilities}/Native/User32.cs",
+            "MedicalControls/Utilities/Permissions.cs"
+          ],
+          "commits": [
+            {
+              "hash": "f18b460d661ee149fac49fc8f2ec82dc8f291d48",
+              "author": "Brian Cullinan",
+              "date": "2026-02-16T18:13:50.000Z",
+              "message": "big reorg, compiles but buttons navigations by xaml file like \"welcome.xaml\" don't translate, stylized alerts.xaml",
+              "linesAdded": 330,
+              "linesDeleted": 314,
+              "filesChanged": [
+                "CameraInterface/AverageMethod.cs",
+                "CameraInterface/BinMethod.cs",
+                "CameraInterface/CameraManager.cs",
+                "CameraInterface/{ => Interfaces}/EmguGeneric.cs",
+                "CameraInterface/{ => Interfaces}/ICapturable.cs",
+                "CameraInterface/{ => Interfaces}/SensorTechnology/StCam.cs",
+                "CameraInterface/{ => Interfaces}/Sentech.cs",
+                "CameraInterface/{ => Utilities}/FrameCallback.cs",
+                "CameraInterface/{ => Utilities}/Logger.cs",
+                "CameraInterface/Utilities/Rasterizer/AverageMethod.cs",
+                "CameraInterface/Utilities/Rasterizer/BinMethod.cs",
+                "CameraInterface/{ => Utilities/Rasterizer}/Binner.cs",
+                "CameraInterface/{ => Utilities/Rasterizer}/BinningMethod.cs",
+                "CameraInterface/{ => Utilities/Rasterizer}/MaxMethod.cs",
+                "ClearView/Capture/Alerts.xaml",
+                "ClearView/ClearView.csproj",
+                "ClearView/MainWindow.xaml",
+                "ClearView/MainWindow.xaml.cs",
+                "ClearView/Pages/Application/Alerts.xaml",
+                "ClearView/{Capture => Pages/Application}/Alerts.xaml.cs",
+                "ClearView/{User => Pages/Application}/Permissions.xaml",
+                "ClearView/{User => Pages/Application}/Permissions.xaml.cs",
+                "ClearView/{Capture => Pages/Application}/Settings.xaml",
+                "ClearView/{Capture => Pages/Application}/Settings.xaml.cs",
+                "ClearView/{Capture => Pages/Application}/SettingsError.cs",
+                "ClearView/{ => Pages/Application}/Welcome.xaml",
+                "ClearView/{ => Pages/Application}/Welcome.xaml.cs",
+                "ClearView/{ => Pages}/Capture/Calibrate.xaml",
+                "ClearView/{ => Pages}/Capture/Calibrate.xaml.cs",
+                "ClearView/{ => Pages}/Capture/Manage.xaml",
+                "ClearView/{ => Pages}/Capture/Manage.xaml.cs",
+                "ClearView/{ => Pages}/Capture/Scan.xaml",
+                "ClearView/{ => Pages}/Capture/Scan.xaml.cs",
+                "ClearView/{ => Pages}/Capture/Search.xaml",
+                "ClearView/{ => Pages}/Capture/Search.xaml.cs",
+                "ClearView/{ => Pages}/Patient/Add.xaml",
+                "ClearView/{ => Pages}/Patient/Add.xaml.cs",
+                "ClearView/{ => Pages}/Patient/Search.xaml",
+                "ClearView/{ => Pages}/Patient/Search.xaml.cs",
+                "ClearView/{ => Pages}/User/Add.xaml",
+                "ClearView/{ => Pages}/User/Add.xaml.cs",
+                "ClearView/{ => Pages}/User/Login.xaml",
+                "ClearView/{ => Pages}/User/Login.xaml.cs",
+                "ClearView/{ => Pages}/User/Search.xaml",
+                "ClearView/{ => Pages}/User/Search.xaml.cs",
+                "ClearView/RenderedView.png",
+                "ClearView/SplashWindow.xaml.cs",
+                "ClearView/Themes/Application/Alerts.xaml",
+                "ClearView/Utilities/Logging/MessageLogAppender.cs",
+                "ClearView/{ => Utilities}/Macros/Excel.cs",
+                "ClearView/{ => Utilities}/Macros/Export.cs",
+                "ClearView/{ => Utilities}/Macros/General.cs",
+                "ClearView/{ => Utilities}/Macros/Import.cs",
+                "ClearView/{ => Utilities}/Macros/Navigation.cs",
+                "ClearView/{ => Utilities}/Native/AdvApi32.cs",
+                "ClearView/{ => Utilities}/Native/DwmApi.cs",
+                "ClearView/{ => Utilities}/Native/Gdi32.cs",
+                "ClearView/{ => Utilities}/Native/Kernel32.cs",
+                "ClearView/{ => Utilities}/Native/User32.cs",
+                "DataLayer/DataLayer.csproj",
+                "DataLayer/{ => Utilities}/Extensions/EnumExtensions.cs",
+                "DataLayer/{ => Utilities}/Extensions/IEntityExtensions.cs",
+                "DataLayer/{ => Utilities}/Logger.cs",
+                "MedicalControls/{Utilities => Controls/Application}/FormChecker.xaml",
+                "MedicalControls/{Utilities => Controls/Application}/FormChecker.xaml.cs",
+                "MedicalControls/{Utilities => Controls/Application}/LogTextBox.xaml",
+                "MedicalControls/{Utilities => Controls/Application}/LogTextBox.xaml.cs",
+                "MedicalControls/{Utilities => Controls/Application}/OpenWith.xaml",
+                "MedicalControls/{Utilities => Controls/Application}/OpenWith.xaml.cs",
+                "MedicalControls/{Utilities => Controls/Application}/ProgressDialog.xaml",
+                "MedicalControls/{Utilities => Controls/Application}/ProgressDialog.xaml.cs",
+                "MedicalControls/{Utilities => Controls/Application}/SelectEntity.xaml",
+                "MedicalControls/{Utilities => Controls/Application}/SelectEntity.xaml.cs",
+                "MedicalControls/{Utilities => Controls/Application}/ServiceRibbon.xaml",
+                "MedicalControls/{Utilities => Controls/Application}/ServiceRibbon.xaml.cs",
+                "MedicalControls/{ => Controls}/Capture/CalibrationImage.cs",
+                "MedicalControls/{ => Controls}/Capture/CaptureResults.cs",
+                "MedicalControls/{ => Controls}/Capture/FingerImage.cs",
+                "MedicalControls/{ => Controls}/Capture/ProcessingImage.xaml",
+                "MedicalControls/{ => Controls}/Capture/ProcessingImage.xaml.cs",
+                "MedicalControls/{ => Controls}/Capture/States.cs",
+                "MedicalControls/Themes/Application/TabControlStyles.xaml.cs",
+                "MedicalControls/Themes/ClearView.xaml.cs",
+                "MedicalControls/{Utilities => Themes}/GeneralTemplate.xaml",
+                "MedicalControls/{Utilities => Themes}/GeneralTemplate.xaml.cs",
+                "MedicalControls/{ => Utilities}/Extensions/DependencyObjectExtensions.cs",
+                "MedicalControls/{ => Utilities}/Extensions/IconExtensions.cs",
+                "MedicalControls/{ => Utilities}/Extensions/LinqExtensions.cs",
+                "MedicalControls/{ => Utilities}/Macros/Mica.cs",
+                "MedicalControls/{ => Utilities}/Macros/Navigation.cs",
+                "MedicalControls/{ => Utilities}/Native/AdvApi32.cs",
+                "MedicalControls/{ => Utilities}/Native/DwmApi.cs",
+                "MedicalControls/{ => Utilities}/Native/Gdi32.cs",
+                "MedicalControls/{ => Utilities}/Native/Kernel32.cs",
+                "MedicalControls/{ => Utilities}/Native/User32.cs",
+                "MedicalControls/Utilities/Permissions.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-15": {
+          "date": "2026-02-15",
+          "heatScore": 67,
+          "linesChanged": 858,
+          "commitCount": 1,
+          "filesEdited": [
+            "ClearView/ClearView.csproj",
+            "ClearView/Macros/Navigation.cs",
+            "ClearView/MainWindow.xaml",
+            "ClearView/User/Permissions.xaml",
+            "ClearView/User/Permissions.xaml.cs",
+            "DataLayer/Entities/Permission.cs",
+            "MedicalControls/Themes/Application/DataGridStyles.xaml",
+            "MedicalControls/Themes/Application/PermissionStyles.xaml",
+            "MedicalControls/Themes/Application/RibbonMenu.xaml",
+            "MedicalControls/Utilities/GeneralTemplate.xaml",
+            "MedicalControls/Utilities/GeneralTemplate.xaml.cs",
+            "MedicalControls/Utilities/Permissions.cs"
+          ],
+          "commits": [
+            {
+              "hash": "26fdf1ce6f253dbefe2f283a286133e3d1e76e7b",
+              "author": "Brian Cullinan",
+              "date": "2026-02-15T23:47:11.000Z",
+              "message": "fix for ribbon showing stupid menu at the top as if i'm going to give up the standard windows toolbar for their junk and permissions also showing tabs in design mode, needs massive refactor again",
+              "linesAdded": 730,
+              "linesDeleted": 128,
+              "filesChanged": [
+                "ClearView/ClearView.csproj",
+                "ClearView/Macros/Navigation.cs",
+                "ClearView/MainWindow.xaml",
+                "ClearView/User/Permissions.xaml",
+                "ClearView/User/Permissions.xaml.cs",
+                "DataLayer/Entities/Permission.cs",
+                "MedicalControls/Themes/Application/DataGridStyles.xaml",
+                "MedicalControls/Themes/Application/PermissionStyles.xaml",
+                "MedicalControls/Themes/Application/RibbonMenu.xaml",
+                "MedicalControls/Utilities/GeneralTemplate.xaml",
+                "MedicalControls/Utilities/GeneralTemplate.xaml.cs",
+                "MedicalControls/Utilities/Permissions.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-14": {
+          "date": "2026-02-14",
+          "heatScore": 30,
+          "linesChanged": 304,
+          "commitCount": 1,
+          "filesEdited": [
+            "CameraInterface/CameraInterface.csproj",
+            "CameraInterface/CameraManager.cs",
+            "ClearView/Capture/Alerts.xaml",
+            "ClearView/Capture/Alerts.xaml.cs",
+            "ClearView/Capture/Calibrate.xaml.cs",
+            "ClearView/ClearView.csproj",
+            "ClearView/Macros/Mica.cs",
+            "ClearView/MainWindow.xaml",
+            "ClearView/MainWindow.xaml.cs",
+            "ClearView/Native/DwmApi.cs",
+            "ClearView/Native/Gdi32.cs",
+            "ClearView/Native/User32.cs",
+            "ClearView/Welcome.xaml",
+            "ClearView/Welcome.xaml.cs",
+            "DataAnalysis/DataAnalysis.csproj",
+            "DataLayer/DataLayer.csproj",
+            "MedicalControls/MedicalControls.csproj",
+            "MedicalControls/MedicalControls.csproj.user",
+            "MedicalControls/Shaders/InvertColor.fx",
+            "MedicalControls/Shaders/InvertColor.ps",
+            "ClearView/Resources/ribbontabscrollviewer.xaml => MedicalControls/Themes/Application/RibbonTabScrollViewer.xaml",
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "eba4f337b5d3a39b6d4f6f315a8128f9a2d97865",
+              "author": "Brian Cullinan",
+              "date": "2026-02-14T22:57:06.000Z",
+              "message": "translucent window left welcome panel, alerts scroll fix",
+              "linesAdded": 285,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "CameraInterface/CameraInterface.csproj",
+                "CameraInterface/CameraManager.cs",
+                "ClearView/Capture/Alerts.xaml",
+                "ClearView/Capture/Alerts.xaml.cs",
+                "ClearView/Capture/Calibrate.xaml.cs",
+                "ClearView/ClearView.csproj",
+                "ClearView/Macros/Mica.cs",
+                "ClearView/MainWindow.xaml",
+                "ClearView/MainWindow.xaml.cs",
+                "ClearView/Native/DwmApi.cs",
+                "ClearView/Native/Gdi32.cs",
+                "ClearView/Native/User32.cs",
+                "ClearView/Welcome.xaml",
+                "ClearView/Welcome.xaml.cs",
+                "DataAnalysis/DataAnalysis.csproj",
+                "DataLayer/DataLayer.csproj",
+                "MedicalControls/MedicalControls.csproj",
+                "MedicalControls/MedicalControls.csproj.user",
+                "MedicalControls/Shaders/InvertColor.fx",
+                "MedicalControls/Shaders/InvertColor.ps",
+                "ClearView/Resources/ribbontabscrollviewer.xaml => MedicalControls/Themes/Application/RibbonTabScrollViewer.xaml",
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2026-02-13": {
+          "date": "2026-02-13",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataAnalysis/CalibrationAnalysis.ctf",
+            "DataAnalysis/mlformC.ctf"
+          ],
+          "commits": [
+            {
+              "hash": "7b5b6f31f3c0f5392844872ebdfe54c4a1104f29",
+              "author": "Brian Cullinan",
+              "date": "2026-02-13T08:53:56.000Z",
+              "message": "analysis matlab compiled",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "DataAnalysis/CalibrationAnalysis.ctf",
+                "DataAnalysis/mlformC.ctf"
+              ]
+            }
+          ]
+        },
+        "2026-02-12": {
+          "date": "2026-02-12",
+          "heatScore": 100,
+          "linesChanged": 2563,
+          "commitCount": 1,
+          "filesEdited": [
+            "ClearView/Capture/Alerts.xaml",
+            "ClearView/Capture/Alerts.xaml.cs",
+            "ClearView/Capture/Scan.xaml",
+            "ClearView/Capture/Search.xaml",
+            "ClearView/Capture/Search.xaml.cs",
+            "ClearView/ClearView.csproj",
+            "ClearView/MainWindow.xaml",
+            "ClearView/MainWindow.xaml.cs",
+            "ClearView/Patient/Add.xaml",
+            "ClearView/Patient/Search.xaml",
+            "ClearView/Report/Resources/SystemButton.xaml",
+            "ClearView/Themes/Buttons/ToggleButton.xaml",
+            "ClearView/User/Search.xaml",
+            "DataLayer/DataLayer.csproj",
+            "DataLayer/Entities/FingerSet.cs",
+            "DataLayer/TranslationContext.cs"
+          ],
+          "commits": [
+            {
+              "hash": "7f6228a88216444d558b9027a1b733dd502a16f6",
+              "author": "Brian Cullinan",
+              "date": "2026-02-12T21:12:49.000Z",
+              "message": "Working stretchy alerts need to convert into a template structure",
+              "linesAdded": 1405,
+              "linesDeleted": 1158,
+              "filesChanged": [
+                "ClearView/Capture/Alerts.xaml",
+                "ClearView/Capture/Alerts.xaml.cs",
+                "ClearView/Capture/Scan.xaml",
+                "ClearView/Capture/Search.xaml",
+                "ClearView/Capture/Search.xaml.cs",
+                "ClearView/ClearView.csproj",
+                "ClearView/MainWindow.xaml",
+                "ClearView/MainWindow.xaml.cs",
+                "ClearView/Patient/Add.xaml",
+                "ClearView/Patient/Search.xaml",
+                "ClearView/Report/Resources/SystemButton.xaml",
+                "ClearView/Themes/Buttons/ToggleButton.xaml",
+                "ClearView/User/Search.xaml",
+                "DataLayer/DataLayer.csproj",
+                "DataLayer/Entities/FingerSet.cs",
+                "DataLayer/TranslationContext.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-11": {
+          "date": "2026-02-11",
+          "heatScore": 43,
+          "linesChanged": 496,
+          "commitCount": 1,
+          "filesEdited": [
+            "PermissionGenerator/Generate.cs",
+            "PermissionGenerator/PermissionGenerator.csproj",
+            "PermissionGenerator/Properties/launchSettings.json",
+            "PermissionGenerator/Renderer.cs"
+          ],
+          "commits": [
+            {
+              "hash": "3065dceb17e5d186262cc676bb560a21ae274f8c",
+              "author": "Brian Cullinan",
+              "date": "2026-02-11T20:31:19.000Z",
+              "message": "better generation tool showing good results for pulling out permission sets",
+              "linesAdded": 485,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "PermissionGenerator/Generate.cs",
+                "PermissionGenerator/PermissionGenerator.csproj",
+                "PermissionGenerator/Properties/launchSettings.json",
+                "PermissionGenerator/Renderer.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-10": {
+          "date": "2026-02-10",
+          "heatScore": 15,
+          "linesChanged": 83,
+          "commitCount": 1,
+          "filesEdited": [
+            "ClearView/MainWindow.xaml",
+            "ClearView/MainWindow.xaml.cs",
+            "ClearView/SplashWindow.xaml.cs"
+          ],
+          "commits": [
+            {
+              "hash": "dc1bb1e4e9e181ed6e073ef31e38e1430b276c3a",
+              "author": "Brian Cullinan",
+              "date": "2026-02-10T05:05:33.000Z",
+              "message": "working status bar clock",
+              "linesAdded": 68,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "ClearView/MainWindow.xaml",
+                "ClearView/MainWindow.xaml.cs",
+                "ClearView/SplashWindow.xaml.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-09": {
+          "date": "2026-02-09",
+          "heatScore": 100,
+          "linesChanged": 12995,
+          "commitCount": 1,
+          "filesEdited": [
+            "CameraInterface/CameraInterface.csproj",
+            "CameraInterface/CameraManager.cs",
+            "CameraInterface/EmguGeneric.cs",
+            "CameraInterface/ICapturable.cs",
+            "CameraInterface/Logger.cs",
+            "CameraInterface/Sentech.cs",
+            "ClearView/App.xaml.cs",
+            "ClearView/Capture/Alerts.xaml",
+            "ClearView/Capture/Alerts.xaml.cs",
+            "ClearView/Capture/Calibrate.xaml",
+            "ClearView/Capture/Calibrate.xaml.cs",
+            "ClearView/Capture/Scan.xaml",
+            "ClearView/Capture/Scan.xaml.cs",
+            "ClearView/Capture/Search.xaml",
+            "ClearView/Capture/Search.xaml.cs",
+            "ClearView/Capture/Settings.xaml",
+            "ClearView/Capture/Settings.xaml.cs",
+            "ClearView/ClearView.csproj",
+            "ClearView/Logger.cs",
+            "ClearView/MainWindow.xaml",
+            "ClearView/MainWindow.xaml.cs",
+            "ClearView/Resources/language-skill.jpg",
+            "ClearView/SplashWindow.xaml",
+            "ClearView/SplashWindow.xaml.cs",
+            "ClearView/User/Add.xaml",
+            "ClearView/User/Add.xaml.cs",
+            "ClearView/User/Login.xaml.cs",
+            "ClearView/User/Permissions.xaml",
+            "ClearView/User/Permissions.xaml.cs",
+            "ClearView/User/Search.xaml",
+            "ClearView/User/Search.xaml.cs",
+            "ClearView/Utilities/Converters/DoubleAdditionConverter.cs",
+            "ClearView/Utilities/Converters/PermissionBooleanConverter.cs",
+            "ClearView/Utilities/Converters/PermissionHasChildrenFontWeightConverter.cs",
+            "ClearView/Utilities/Converters/PermissionHasChildrenTristateConverter.cs",
+            "ClearView/Utilities/Converters/PermissionVisibilityConverter.cs",
+            "ClearView/Utilities/Converters/ValueConverterGroup.cs",
+            "ClearView/Utilities/IPluggable.cs",
+            "{New ClearView/Resources => ClearView}/clearview.png",
+            "DataLayer/DataLayer.csproj",
+            "DataLayer/Entities/Permission.cs",
+            "DataLayer/Entities/Role.cs",
+            "DataLayer/Entities/User.cs",
+            "LegacyResources/Capture/Capture.Designer.cs",
+            "LegacyResources/Capture/Capture.resources",
+            "LegacyResources/LegacyResources.csproj",
+            "LegacyResources/Patient/Patient.Designer.cs",
+            "LegacyResources/Patient/Patient.resources",
+            "LegacyResources/Properties/Resources.Designer.cs",
+            "LegacyResources/Properties/Resources.resx",
+            "LegacyResources/Resources.Designer.cs",
+            "LegacyResources/Resources.resources",
+            "New ClearView.slnx",
+            "New ClearView/App.config",
+            "New ClearView/App.xaml",
+            "New ClearView/App.xaml.cs",
+            "New ClearView/Capture/Manage.xaml",
+            "New ClearView/Capture/Manage.xaml.cs",
+            "New ClearView/Capture/Settings.xaml",
+            "New ClearView/Capture/Settings.xaml.cs",
+            "New ClearView/Capture/SettingsError.cs",
+            "New ClearView/EPICClearView.csproj",
+            "New ClearView/EPICClearView.csproj.user",
+            "New ClearView/Macros/Navigation.cs",
+            "New ClearView/MainWindow.xaml",
+            "New ClearView/MainWindow.xaml.cs",
+            "New ClearView/Patient/Add.xaml",
+            "New ClearView/Patient/Add.xaml.cs",
+            "New ClearView/Patient/Search.xaml",
+            "New ClearView/Patient/Search.xaml.cs",
+            "New ClearView/Properties/AssemblyInfo.cs",
+            "New ClearView/Properties/Resources.Designer.cs",
+            "New ClearView/Properties/Resources.resx",
+            "New ClearView/Properties/Settings.Designer.cs",
+            "New ClearView/Properties/Settings.settings",
+            "New ClearView/Resources/0002-folder_doc.png",
+            "New ClearView/Resources/0005-time_edit.png",
+            "New ClearView/Resources/0009-doc_search.png",
+            "New ClearView/Resources/0016-cd_search.png",
+            "New ClearView/Resources/0020-options_edit.png",
+            "New ClearView/Resources/0021-options_search.png",
+            "New ClearView/Resources/0025-search.png",
+            "New ClearView/Resources/0040-save.png",
+            "New ClearView/Resources/0063-undo.png",
+            "New ClearView/Resources/0080-doc_ok.png",
+            "New ClearView/Resources/0132-lock.png",
+            "New ClearView/Resources/0135-picture_preview.png",
+            "New ClearView/Resources/0145-task_edit.png",
+            "New ClearView/Resources/0155-keys.png",
+            "New ClearView/Resources/0175-camera.png",
+            "New ClearView/Resources/0176-scaner.png",
+            "New ClearView/Resources/0180-address_book.png",
+            "New ClearView/Resources/0186-refresh.png",
+            "New ClearView/Resources/0197-report.png",
+            "New ClearView/Resources/0204-scroll_search.png",
+            "New ClearView/Resources/1000-ok.png",
+            "New ClearView/Resources/1001-cancel.png",
+            "New ClearView/Resources/1002-add.png",
+            "New ClearView/Resources/1003-delete.png",
+            "New ClearView/Resources/1004-warning.png",
+            "New ClearView/Resources/1005-exit.png",
+            "New ClearView/Resources/2004-arrow_right2.png",
+            "New ClearView/Resources/4502-users.png",
+            "New ClearView/Resources/4504-user_search.png",
+            "New ClearView/Resources/4505-user_add.png",
+            "New ClearView/Resources/5001-web_search.png",
+            "New ClearView/Resources/9012-surgeon.png",
+            "New ClearView/Resources/billing_update.gif",
+            "New ClearView/Resources/calibration_sentech.bmp",
+            "New ClearView/Resources/clearview.ico",
+            "New ClearView/Resources/clearviewbackground.png",
+            "New ClearView/Resources/datagridstyles.xaml",
+            "New ClearView/Resources/dbs.ico",
+            "New ClearView/Resources/member-search-icon.gif",
+            "New ClearView/Resources/permissionstyle.xaml",
+            "New ClearView/Resources/person-add.jpg",
+            "New ClearView/Resources/tabcontrolstyles.xaml",
+            "New ClearView/Resources/windowsstyles.xaml",
+            "New ClearView/Themes/ClearView.xaml.cs",
+            "New ClearView/Themes/clearview.xaml",
+            "New ClearView/User/Add.xaml",
+            "New ClearView/User/Add.xaml.cs",
+            "New ClearView/User/Login.xaml",
+            "New ClearView/User/Login.xaml.cs",
+            "New ClearView/User/Permissions.xaml",
+            "New ClearView/User/Permissions.xaml.cs",
+            "New ClearView/User/Search.xaml",
+            "New ClearView/User/Search.xaml.cs",
+            "New ClearView/Utilities/ClearViewConfiguration.cs",
+            "New ClearView/Utilities/Commands/RelayCommand.cs",
+            "New ClearView/Utilities/Converters/DeviceSettingStringConverter.cs",
+            "New ClearView/Utilities/Converters/EnumDisplayNameConverter.cs",
+            "New ClearView/Utilities/Converters/PermissionVisibilityConverter.cs",
+            "New ClearView/Utilities/Extensions/DependencyObjectExtensions.cs",
+            "New ClearView/Utilities/Extensions/EnumExtensions.cs",
+            "New ClearView/Utilities/Extensions/IconExtensions.cs",
+            "New ClearView/Utilities/Extensions/InteropExtensions.cs",
+            "New ClearView/Utilities/Extensions/LinqExtensions.cs",
+            "New ClearView/Utilities/Extensions/OldWindow.cs",
+            "New ClearView/Utilities/Extensions/QueryableExtensions.cs",
+            "New ClearView/Utilities/Extensions/TypeExtensions.cs",
+            "New ClearView/Utilities/FormChecker.xaml",
+            "New ClearView/Utilities/FormChecker.xaml.cs",
+            "New ClearView/Utilities/StaticEnvironment.cs",
+            "New ClearView/Welcome.xaml",
+            "New ClearView/Welcome.xaml.cs",
+            "New ClearView/packages.config",
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "e36b6b4b584ef5dd4dc81851effaf641d7c2b018",
+              "author": "Brian Cullinan",
+              "date": "2026-02-09T22:00:49.000Z",
+              "message": "working splash screen",
+              "linesAdded": 4449,
+              "linesDeleted": 8546,
+              "filesChanged": [
+                "CameraInterface/CameraInterface.csproj",
+                "CameraInterface/CameraManager.cs",
+                "CameraInterface/EmguGeneric.cs",
+                "CameraInterface/ICapturable.cs",
+                "CameraInterface/Logger.cs",
+                "CameraInterface/Sentech.cs",
+                "ClearView/App.xaml.cs",
+                "ClearView/Capture/Alerts.xaml",
+                "ClearView/Capture/Alerts.xaml.cs",
+                "ClearView/Capture/Calibrate.xaml",
+                "ClearView/Capture/Calibrate.xaml.cs",
+                "ClearView/Capture/Scan.xaml",
+                "ClearView/Capture/Scan.xaml.cs",
+                "ClearView/Capture/Search.xaml",
+                "ClearView/Capture/Search.xaml.cs",
+                "ClearView/Capture/Settings.xaml",
+                "ClearView/Capture/Settings.xaml.cs",
+                "ClearView/ClearView.csproj",
+                "ClearView/Logger.cs",
+                "ClearView/MainWindow.xaml",
+                "ClearView/MainWindow.xaml.cs",
+                "ClearView/Resources/language-skill.jpg",
+                "ClearView/SplashWindow.xaml",
+                "ClearView/SplashWindow.xaml.cs",
+                "ClearView/User/Add.xaml",
+                "ClearView/User/Add.xaml.cs",
+                "ClearView/User/Login.xaml.cs",
+                "ClearView/User/Permissions.xaml",
+                "ClearView/User/Permissions.xaml.cs",
+                "ClearView/User/Search.xaml",
+                "ClearView/User/Search.xaml.cs",
+                "ClearView/Utilities/Converters/DoubleAdditionConverter.cs",
+                "ClearView/Utilities/Converters/PermissionBooleanConverter.cs",
+                "ClearView/Utilities/Converters/PermissionHasChildrenFontWeightConverter.cs",
+                "ClearView/Utilities/Converters/PermissionHasChildrenTristateConverter.cs",
+                "ClearView/Utilities/Converters/PermissionVisibilityConverter.cs",
+                "ClearView/Utilities/Converters/ValueConverterGroup.cs",
+                "ClearView/Utilities/IPluggable.cs",
+                "{New ClearView/Resources => ClearView}/clearview.png",
+                "DataLayer/DataLayer.csproj",
+                "DataLayer/Entities/Permission.cs",
+                "DataLayer/Entities/Role.cs",
+                "DataLayer/Entities/User.cs",
+                "LegacyResources/Capture/Capture.Designer.cs",
+                "LegacyResources/Capture/Capture.resources",
+                "LegacyResources/LegacyResources.csproj",
+                "LegacyResources/Patient/Patient.Designer.cs",
+                "LegacyResources/Patient/Patient.resources",
+                "LegacyResources/Properties/Resources.Designer.cs",
+                "LegacyResources/Properties/Resources.resx",
+                "LegacyResources/Resources.Designer.cs",
+                "LegacyResources/Resources.resources",
+                "New ClearView.slnx",
+                "New ClearView/App.config",
+                "New ClearView/App.xaml",
+                "New ClearView/App.xaml.cs",
+                "New ClearView/Capture/Manage.xaml",
+                "New ClearView/Capture/Manage.xaml.cs",
+                "New ClearView/Capture/Settings.xaml",
+                "New ClearView/Capture/Settings.xaml.cs",
+                "New ClearView/Capture/SettingsError.cs",
+                "New ClearView/EPICClearView.csproj",
+                "New ClearView/EPICClearView.csproj.user",
+                "New ClearView/Macros/Navigation.cs",
+                "New ClearView/MainWindow.xaml",
+                "New ClearView/MainWindow.xaml.cs",
+                "New ClearView/Patient/Add.xaml",
+                "New ClearView/Patient/Add.xaml.cs",
+                "New ClearView/Patient/Search.xaml",
+                "New ClearView/Patient/Search.xaml.cs",
+                "New ClearView/Properties/AssemblyInfo.cs",
+                "New ClearView/Properties/Resources.Designer.cs",
+                "New ClearView/Properties/Resources.resx",
+                "New ClearView/Properties/Settings.Designer.cs",
+                "New ClearView/Properties/Settings.settings",
+                "New ClearView/Resources/0002-folder_doc.png",
+                "New ClearView/Resources/0005-time_edit.png",
+                "New ClearView/Resources/0009-doc_search.png",
+                "New ClearView/Resources/0016-cd_search.png",
+                "New ClearView/Resources/0020-options_edit.png",
+                "New ClearView/Resources/0021-options_search.png",
+                "New ClearView/Resources/0025-search.png",
+                "New ClearView/Resources/0040-save.png",
+                "New ClearView/Resources/0063-undo.png",
+                "New ClearView/Resources/0080-doc_ok.png",
+                "New ClearView/Resources/0132-lock.png",
+                "New ClearView/Resources/0135-picture_preview.png",
+                "New ClearView/Resources/0145-task_edit.png",
+                "New ClearView/Resources/0155-keys.png",
+                "New ClearView/Resources/0175-camera.png",
+                "New ClearView/Resources/0176-scaner.png",
+                "New ClearView/Resources/0180-address_book.png",
+                "New ClearView/Resources/0186-refresh.png",
+                "New ClearView/Resources/0197-report.png",
+                "New ClearView/Resources/0204-scroll_search.png",
+                "New ClearView/Resources/1000-ok.png",
+                "New ClearView/Resources/1001-cancel.png",
+                "New ClearView/Resources/1002-add.png",
+                "New ClearView/Resources/1003-delete.png",
+                "New ClearView/Resources/1004-warning.png",
+                "New ClearView/Resources/1005-exit.png",
+                "New ClearView/Resources/2004-arrow_right2.png",
+                "New ClearView/Resources/4502-users.png",
+                "New ClearView/Resources/4504-user_search.png",
+                "New ClearView/Resources/4505-user_add.png",
+                "New ClearView/Resources/5001-web_search.png",
+                "New ClearView/Resources/9012-surgeon.png",
+                "New ClearView/Resources/billing_update.gif",
+                "New ClearView/Resources/calibration_sentech.bmp",
+                "New ClearView/Resources/clearview.ico",
+                "New ClearView/Resources/clearviewbackground.png",
+                "New ClearView/Resources/datagridstyles.xaml",
+                "New ClearView/Resources/dbs.ico",
+                "New ClearView/Resources/member-search-icon.gif",
+                "New ClearView/Resources/permissionstyle.xaml",
+                "New ClearView/Resources/person-add.jpg",
+                "New ClearView/Resources/tabcontrolstyles.xaml",
+                "New ClearView/Resources/windowsstyles.xaml",
+                "New ClearView/Themes/ClearView.xaml.cs",
+                "New ClearView/Themes/clearview.xaml",
+                "New ClearView/User/Add.xaml",
+                "New ClearView/User/Add.xaml.cs",
+                "New ClearView/User/Login.xaml",
+                "New ClearView/User/Login.xaml.cs",
+                "New ClearView/User/Permissions.xaml",
+                "New ClearView/User/Permissions.xaml.cs",
+                "New ClearView/User/Search.xaml",
+                "New ClearView/User/Search.xaml.cs",
+                "New ClearView/Utilities/ClearViewConfiguration.cs",
+                "New ClearView/Utilities/Commands/RelayCommand.cs",
+                "New ClearView/Utilities/Converters/DeviceSettingStringConverter.cs",
+                "New ClearView/Utilities/Converters/EnumDisplayNameConverter.cs",
+                "New ClearView/Utilities/Converters/PermissionVisibilityConverter.cs",
+                "New ClearView/Utilities/Extensions/DependencyObjectExtensions.cs",
+                "New ClearView/Utilities/Extensions/EnumExtensions.cs",
+                "New ClearView/Utilities/Extensions/IconExtensions.cs",
+                "New ClearView/Utilities/Extensions/InteropExtensions.cs",
+                "New ClearView/Utilities/Extensions/LinqExtensions.cs",
+                "New ClearView/Utilities/Extensions/OldWindow.cs",
+                "New ClearView/Utilities/Extensions/QueryableExtensions.cs",
+                "New ClearView/Utilities/Extensions/TypeExtensions.cs",
+                "New ClearView/Utilities/FormChecker.xaml",
+                "New ClearView/Utilities/FormChecker.xaml.cs",
+                "New ClearView/Utilities/StaticEnvironment.cs",
+                "New ClearView/Welcome.xaml",
+                "New ClearView/Welcome.xaml.cs",
+                "New ClearView/packages.config",
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2026-02-08": {
+          "date": "2026-02-08",
+          "heatScore": 100,
+          "linesChanged": 6251,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            "CalibrationAnalysis.ctf",
+            "DataLayer/App.config",
+            "DataLayer/Capture/Capture.Designer.cs",
+            "DataLayer/Capture/Capture.resx",
+            "DataLayer/Commands/RelayCommand.cs",
+            "DataLayer/Converters/EnumDisplayNameConverter.cs",
+            "DataLayer/Converters/UriTabExistsConverter.cs",
+            "DataLayer/Customization.cs",
+            "DataLayer/DataLayer.csproj",
+            "DataLayer/DataLayer.csproj.user",
+            "DataLayer/Entities/Device.cs",
+            "DataLayer/Entities/DeviceCalibrationSetting.cs",
+            "DataLayer/Entities/DeviceSetting.cs",
+            "DataLayer/{PatientEntity.cs => Entities/Patient.cs}",
+            "DataLayer/Extensions/DependencyObjectExtensions.cs",
+            "DataLayer/Extensions/EnumExtensions.cs",
+            "DataLayer/Helpers.cs",
+            "DataLayer/Macros/Navigation.cs",
+            "DataLayer/packages.config",
+            "LegacyResources/Capture/Capture.Designer.cs",
+            "LegacyResources/Capture/Capture.resources",
+            "LegacyResources/LegacyResources.csproj",
+            "LegacyResources/Patient/Patient.Designer.cs",
+            "LegacyResources/Patient/Patient.resources",
+            "LegacyResources/Properties/Resources.Designer.cs",
+            "LegacyResources/Properties/Resources.resx",
+            "LegacyResources/Resources.Designer.cs",
+            "LegacyResources/Resources.resources",
+            "New ClearView.slnx",
+            "New ClearView/App.xaml",
+            "New ClearView/App.xaml.cs",
+            "New ClearView/Capture/Manage.xaml",
+            "New ClearView/Capture/Manage.xaml.cs",
+            "New ClearView/Capture/Settings.xaml",
+            "New ClearView/Capture/Settings.xaml.cs",
+            "New ClearView/Capture/SettingsError.cs",
+            "New ClearView/EPICClearView.csproj",
+            "New ClearView/Macros/Navigation.cs",
+            "New ClearView/MainWindow.xaml",
+            "New ClearView/MainWindow.xaml.cs",
+            "New ClearView/Patient/Add.xaml",
+            "New ClearView/Patient/Add.xaml.cs",
+            "New ClearView/Patient/Patient.cs",
+            "New ClearView/Patient/Search.xaml",
+            "New ClearView/Patient/Search.xaml.cs",
+            "New ClearView/Properties/AssemblyInfo.cs",
+            "New ClearView/Properties/Resources.Designer.cs",
+            "New ClearView/Properties/Settings.Designer.cs",
+            "New ClearView/Resources/datagridstyles.xaml",
+            "New ClearView/Resources/permissionstyle.xaml",
+            "New ClearView/Resources/tabcontrolstyles.xaml",
+            "New ClearView/Resources/windowsstyles.xaml",
+            "New ClearView/Themes/ClearView.xaml.cs",
+            "New ClearView/Themes/clearview.xaml",
+            "New ClearView/User/Login.xaml",
+            "New ClearView/User/Login.xaml.cs",
+            "New ClearView/Utilities/ClearViewConfiguration.cs",
+            "New ClearView/Utilities/Commands/RelayCommand.cs",
+            "New ClearView/Utilities/Converters/EnumDisplayNameConverter.cs",
+            "New ClearView/Utilities/Converters/PermissionVisibilityConverter.cs",
+            "New ClearView/Utilities/Extensions/DependencyObjectExtensions.cs",
+            "New ClearView/Utilities/Extensions/EnumExtensions.cs",
+            "New ClearView/Utilities/FormChecker.xaml",
+            "New ClearView/Utilities/FormChecker.xaml.cs",
+            "New ClearView/Utilities/StaticEnvironment.cs",
+            "New ClearView/Welcome.xaml",
+            "New ClearView/Welcome.xaml.cs"
+          ],
+          "commits": [
+            {
+              "hash": "8bdba4d7c285c740a378ce22744b276aa5597ecd",
+              "author": "Brian Cullinan",
+              "date": "2026-02-08T23:35:50.000Z",
+              "message": "working settings pane",
+              "linesAdded": 4375,
+              "linesDeleted": 1876,
+              "filesChanged": [
+                ".gitignore",
+                "CalibrationAnalysis.ctf",
+                "DataLayer/App.config",
+                "DataLayer/Capture/Capture.Designer.cs",
+                "DataLayer/Capture/Capture.resx",
+                "DataLayer/Commands/RelayCommand.cs",
+                "DataLayer/Converters/EnumDisplayNameConverter.cs",
+                "DataLayer/Converters/UriTabExistsConverter.cs",
+                "DataLayer/Customization.cs",
+                "DataLayer/DataLayer.csproj",
+                "DataLayer/DataLayer.csproj.user",
+                "DataLayer/Entities/Device.cs",
+                "DataLayer/Entities/DeviceCalibrationSetting.cs",
+                "DataLayer/Entities/DeviceSetting.cs",
+                "DataLayer/{PatientEntity.cs => Entities/Patient.cs}",
+                "DataLayer/Extensions/DependencyObjectExtensions.cs",
+                "DataLayer/Extensions/EnumExtensions.cs",
+                "DataLayer/Helpers.cs",
+                "DataLayer/Macros/Navigation.cs",
+                "DataLayer/packages.config",
+                "LegacyResources/Capture/Capture.Designer.cs",
+                "LegacyResources/Capture/Capture.resources",
+                "LegacyResources/LegacyResources.csproj",
+                "LegacyResources/Patient/Patient.Designer.cs",
+                "LegacyResources/Patient/Patient.resources",
+                "LegacyResources/Properties/Resources.Designer.cs",
+                "LegacyResources/Properties/Resources.resx",
+                "LegacyResources/Resources.Designer.cs",
+                "LegacyResources/Resources.resources",
+                "New ClearView.slnx",
+                "New ClearView/App.xaml",
+                "New ClearView/App.xaml.cs",
+                "New ClearView/Capture/Manage.xaml",
+                "New ClearView/Capture/Manage.xaml.cs",
+                "New ClearView/Capture/Settings.xaml",
+                "New ClearView/Capture/Settings.xaml.cs",
+                "New ClearView/Capture/SettingsError.cs",
+                "New ClearView/EPICClearView.csproj",
+                "New ClearView/Macros/Navigation.cs",
+                "New ClearView/MainWindow.xaml",
+                "New ClearView/MainWindow.xaml.cs",
+                "New ClearView/Patient/Add.xaml",
+                "New ClearView/Patient/Add.xaml.cs",
+                "New ClearView/Patient/Patient.cs",
+                "New ClearView/Patient/Search.xaml",
+                "New ClearView/Patient/Search.xaml.cs",
+                "New ClearView/Properties/AssemblyInfo.cs",
+                "New ClearView/Properties/Resources.Designer.cs",
+                "New ClearView/Properties/Settings.Designer.cs",
+                "New ClearView/Resources/datagridstyles.xaml",
+                "New ClearView/Resources/permissionstyle.xaml",
+                "New ClearView/Resources/tabcontrolstyles.xaml",
+                "New ClearView/Resources/windowsstyles.xaml",
+                "New ClearView/Themes/ClearView.xaml.cs",
+                "New ClearView/Themes/clearview.xaml",
+                "New ClearView/User/Login.xaml",
+                "New ClearView/User/Login.xaml.cs",
+                "New ClearView/Utilities/ClearViewConfiguration.cs",
+                "New ClearView/Utilities/Commands/RelayCommand.cs",
+                "New ClearView/Utilities/Converters/EnumDisplayNameConverter.cs",
+                "New ClearView/Utilities/Converters/PermissionVisibilityConverter.cs",
+                "New ClearView/Utilities/Extensions/DependencyObjectExtensions.cs",
+                "New ClearView/Utilities/Extensions/EnumExtensions.cs",
+                "New ClearView/Utilities/FormChecker.xaml",
+                "New ClearView/Utilities/FormChecker.xaml.cs",
+                "New ClearView/Utilities/StaticEnvironment.cs",
+                "New ClearView/Welcome.xaml",
+                "New ClearView/Welcome.xaml.cs"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-02-20": {
+          "date": "2026-02-20",
+          "heatScore": 32,
+          "linesChanged": 339,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_io.py",
+            "execution.py",
+            "tests/execution/test_execution.py",
+            "tests/execution/testing_nodes/testing-pack/stubs.py"
+          ],
+          "commits": [
+            {
+              "hash": "9a98cdc3895fad7ce6591d1a0416ffe5d78791b3",
+              "author": "bigcat88",
+              "date": "2026-02-20T14:07:09.000Z",
+              "message": "feat: declarative input validation with opt-in runtime enforcement",
+              "linesAdded": 334,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy_api/latest/_io.py",
+                "execution.py",
+                "tests/execution/test_execution.py",
+                "tests/execution/testing_nodes/testing-pack/stubs.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-26": {
+          "date": "2026-02-26",
+          "heatScore": 16,
+          "linesChanged": 102,
+          "commitCount": 1,
+          "filesEdited": [
+            "execution.py",
+            "nodes.py",
+            "tests-unit/execution_test/test_accumulate_merge.py"
+          ],
+          "commits": [
+            {
+              "hash": "a78f700552668d2c296010d03c80a96641486e0f",
+              "author": "bymyself",
+              "date": "2026-02-26T06:56:56.000Z",
+              "message": "feat: add accumulate toggle to SaveImage and PreviewImage nodes",
+              "linesAdded": 99,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "execution.py",
+                "nodes.py",
+                "tests-unit/execution_test/test_accumulate_merge.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-06": {
+          "date": "2026-02-06",
+          "heatScore": 90,
+          "linesChanged": 1212,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_model_merging.py",
+            "comfy_extras/nodes_model_merging_model_specific.py",
+            "comfy_extras/nodes_video_model.py"
+          ],
+          "commits": [
+            {
+              "hash": "f1c07a72c46aa2b6bc83d6c424478f78f53a77e2",
+              "author": "bigcat88",
+              "date": "2026-02-06T13:58:30.000Z",
+              "message": "convert model_merging and video_model nodes to V3 schema",
+              "linesAdded": 720,
+              "linesDeleted": 492,
+              "filesChanged": [
+                "comfy_extras/nodes_model_merging.py",
+                "comfy_extras/nodes_model_merging_model_specific.py",
+                "comfy_extras/nodes_video_model.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-28": {
+          "date": "2026-02-28",
+          "heatScore": 14,
+          "linesChanged": 74,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/nodes_hunyuan3d.py"
+          ],
+          "commits": [
+            {
+              "hash": "1ea727b4bc129d2ceb5fe8ea2423ef0da99845f8",
+              "author": "bigcat88",
+              "date": "2026-02-28T08:49:20.000Z",
+              "message": "support additional solid texture outputs",
+              "linesAdded": 58,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "comfy_api_nodes/nodes_hunyuan3d.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-27": {
+          "date": "2026-02-27",
+          "heatScore": 13,
+          "linesChanged": 46,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/nodes_hunyuan3d.py"
+          ],
+          "commits": [
+            {
+              "hash": "858977ab106ff7ff213e4dd467fbe9a37bf5a270",
+              "author": "bigcat88",
+              "date": "2026-02-27T16:49:21.000Z",
+              "message": "fix(api-nodes): added \"texture_image\" output to TencentTextToModel and TencentImageToModel nodes. Fixed `OBJ` output when it is zipped",
+              "linesAdded": 40,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "comfy_api_nodes/nodes_hunyuan3d.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-25": {
+          "date": "2026-02-25",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "tests-unit/seeder_test/test_seeder.py"
+          ],
+          "commits": [
+            {
+              "hash": "7a54eb33ca0a9988239fcb15688a89182726ee84",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-02-25T02:54:47.000Z",
+              "message": "fix: update test to expect ScanInProgressError when marking missing during active scan",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "tests-unit/seeder_test/test_seeder.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-24": {
+          "date": "2026-02-24",
+          "heatScore": 100,
+          "linesChanged": 2339,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/api/routes.py",
+            "app/assets/scanner.py",
+            "app/assets/seeder.py",
+            "main.py",
+            "server.py",
+            "tests-unit/seeder_test/test_seeder.py"
+          ],
+          "commits": [
+            {
+              "hash": "b98e7275825d5fea04d05a5eb435d390deca8b74",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-02-24T19:59:18.000Z",
+              "message": "feat(assets): async two-phase scanner and background seeder",
+              "linesAdded": 2099,
+              "linesDeleted": 240,
+              "filesChanged": [
+                "app/assets/api/routes.py",
+                "app/assets/scanner.py",
+                "app/assets/seeder.py",
+                "main.py",
+                "server.py",
+                "tests-unit/seeder_test/test_seeder.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-05": {
+          "date": "2026-02-05",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "folder_paths.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "bcaad9f117ab41a5642cd4fc0c62d6480581cbf8",
+              "author": "bymyself",
+              "date": "2026-02-05T07:14:29.000Z",
+              "message": "fix: address code review feedback",
+              "linesAdded": 7,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "folder_paths.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-22": {
+          "date": "2026-02-22",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_post_processing.py",
+            "comfy_extras/nodes_video.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "090c1dd3e6f997a5fe126cacfb5ca14a442370d7",
+              "author": "bymyself",
+              "date": "2026-02-22T03:01:05.000Z",
+              "message": "fix: move essentials_category to correct replacement nodes",
+              "linesAdded": 2,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy_extras/nodes_post_processing.py",
+                "comfy_extras/nodes_video.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-23": {
+          "date": "2026-02-23",
+          "heatScore": 18,
+          "linesChanged": 134,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/api/routes.py",
+            "app/assets/database/queries/asset.py",
+            "app/assets/database/queries/asset_reference.py",
+            "app/assets/seeder.py",
+            "app/assets/services/hashing.py",
+            "app/assets/services/ingest.py",
+            "app/assets/services/path_utils.py",
+            "main.py",
+            "tests-unit/assets_test/helpers.py",
+            "tests-unit/assets_test/services/test_enrich.py"
+          ],
+          "commits": [
+            {
+              "hash": "196959472aec5c6f9a4f72f562f1c7387005f91b",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-02-23T23:58:00.000Z",
+              "message": "Clean up imports, remove section banners, and fix seed endpoint with autoscan disabled",
+              "linesAdded": 44,
+              "linesDeleted": 90,
+              "filesChanged": [
+                "app/assets/api/routes.py",
+                "app/assets/database/queries/asset.py",
+                "app/assets/database/queries/asset_reference.py",
+                "app/assets/seeder.py",
+                "app/assets/services/hashing.py",
+                "app/assets/services/ingest.py",
+                "app/assets/services/path_utils.py",
+                "main.py",
+                "tests-unit/assets_test/helpers.py",
+                "tests-unit/assets_test/services/test_enrich.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-12": {
+          "date": "2026-02-12",
+          "heatScore": 57,
+          "linesChanged": 712,
+          "commitCount": 1,
+          "filesEdited": [
+            "alembic_db/versions/0002_add_is_missing_to_cache_state.py",
+            "alembic_db/versions/0002_merge_to_asset_references.py",
+            "alembic_db/versions/0003_add_enrichment_level.py",
+            "alembic_db/versions/0004_drop_asset_info_unique_constraint.py",
+            "alembic_db/versions/0005_merge_to_asset_references.py"
+          ],
+          "commits": [
+            {
+              "hash": "cdc6c1c143c66d93673352d03d00d50704baccfe",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-02-12T04:13:09.000Z",
+              "message": "refactor(migrations): merge migrations 0002-0005 into single migration",
+              "linesAdded": 177,
+              "linesDeleted": 535,
+              "filesChanged": [
+                "alembic_db/versions/0002_add_is_missing_to_cache_state.py",
+                "alembic_db/versions/0002_merge_to_asset_references.py",
+                "alembic_db/versions/0003_add_enrichment_level.py",
+                "alembic_db/versions/0004_drop_asset_info_unique_constraint.py",
+                "alembic_db/versions/0005_merge_to_asset_references.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-10": {
+          "date": "2026-02-10",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/scanner.py",
+            "app/assets/seeder.py",
+            "app/assets/services/metadata_extract.py",
+            "tests-unit/assets_test/services/test_bulk_ingest.py"
+          ],
+          "commits": [
+            {
+              "hash": "bd17ee3dc9091e3daac14a7000f21e69bd44d054",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-02-10T21:01:25.000Z",
+              "message": "Fix ruff linting issues",
+              "linesAdded": 5,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "app/assets/scanner.py",
+                "app/assets/seeder.py",
+                "app/assets/services/metadata_extract.py",
+                "tests-unit/assets_test/services/test_bulk_ingest.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-07": {
+          "date": "2026-02-07",
+          "heatScore": 14,
+          "linesChanged": 65,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/services/file_utils.py",
+            "tests-unit/assets_test/test_file_utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "e9dc8ab8040d3ec4ca3410261c7d67d019289b9d",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-02-07T23:38:24.000Z",
+              "message": "Skip hidden files and directories in asset scanner",
+              "linesAdded": 64,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "app/assets/services/file_utils.py",
+                "tests-unit/assets_test/test_file_utils.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-04": {
+          "date": "2026-02-04",
+          "heatScore": 12,
+          "linesChanged": 39,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/assets/scanner.py",
+            "app/assets/services/bulk_ingest.py"
+          ],
+          "commits": [
+            {
+              "hash": "275a0b16c94001e46015497bf704aa3d59a0cd46",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-02-04T23:32:26.000Z",
+              "message": "Add TypedDict types to scanner and bulk_ingest",
+              "linesAdded": 33,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "app/assets/scanner.py",
+                "app/assets/services/bulk_ingest.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-03": {
+          "date": "2026-02-03",
+          "heatScore": 12,
+          "linesChanged": 32,
+          "commitCount": 1,
+          "filesEdited": [
+            "tests-unit/assets_test/conftest.py",
+            "tests-unit/assets_test/helpers.py",
+            "tests-unit/assets_test/test_assets_missing_sync.py",
+            "tests-unit/assets_test/test_crud.py",
+            "tests-unit/assets_test/test_downloads.py",
+            "tests-unit/assets_test/test_prune_orphaned_assets.py",
+            "tests-unit/assets_test/{test_tags.py => test_tags_api.py}"
+          ],
+          "commits": [
+            {
+              "hash": "9737daf694c30edc4dfeb468467024fdb7aa7401",
+              "author": "Luke Mino-Altherr",
+              "date": "2026-02-03T22:57:52.000Z",
+              "message": "fix: resolve test import errors and module collision in assets_test",
+              "linesAdded": 21,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "tests-unit/assets_test/conftest.py",
+                "tests-unit/assets_test/helpers.py",
+                "tests-unit/assets_test/test_assets_missing_sync.py",
+                "tests-unit/assets_test/test_crud.py",
+                "tests-unit/assets_test/test_downloads.py",
+                "tests-unit/assets_test/test_prune_orphaned_assets.py",
+                "tests-unit/assets_test/{test_tags.py => test_tags_api.py}"
+              ]
+            }
+          ]
+        },
+        "2026-02-21": {
+          "date": "2026-02-21",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/subgraph_manager.py"
+          ],
+          "commits": [
+            {
+              "hash": "7591d781a7a1cdfd6f8f0a9ec6ecd692495e14b5",
+              "author": "Alexander Brown",
+              "date": "2026-02-21T23:05:00.000Z",
+              "message": "fix: specify UTF-8 encoding when reading subgraph files (#12563)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "app/subgraph_manager.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-18": {
+          "date": "2026-02-18",
+          "heatScore": 12,
+          "linesChanged": 35,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/nodes_hunyuan3d.py",
+            "comfy_api_nodes/nodes_kling.py",
+            "comfy_api_nodes/nodes_openai.py",
+            "comfy_api_nodes/nodes_recraft.py",
+            "comfy_api_nodes/nodes_stability.py",
+            "comfy_extras/nodes_audio.py",
+            "comfy_extras/nodes_images.py",
+            "comfy_extras/nodes_load_3d.py",
+            "comfy_extras/nodes_video.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "583514148afb79bae7b10c920fdc6d8276643cef",
+              "author": "Yourz",
+              "date": "2026-02-18T23:19:25.000Z",
+              "message": "update: display name for essentials tab node",
+              "linesAdded": 18,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "comfy_api_nodes/nodes_hunyuan3d.py",
+                "comfy_api_nodes/nodes_kling.py",
+                "comfy_api_nodes/nodes_openai.py",
+                "comfy_api_nodes/nodes_recraft.py",
+                "comfy_api_nodes/nodes_stability.py",
+                "comfy_extras/nodes_audio.py",
+                "comfy_extras/nodes_images.py",
+                "comfy_extras/nodes_load_3d.py",
+                "comfy_extras/nodes_video.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-19": {
+          "date": "2026-02-19",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/apis/gemini.py",
+            "comfy_api_nodes/nodes_gemini.py"
+          ],
+          "commits": [
+            {
+              "hash": "2687652530128435d5cdcfe2600751c8c4b75b88",
+              "author": "Alexander Piskun",
+              "date": "2026-02-19T12:10:39.000Z",
+              "message": "fix(api-nodes): force Gemini to return uncompressed images (#12516)",
+              "linesAdded": 8,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy_api_nodes/apis/gemini.py",
+                "comfy_api_nodes/nodes_gemini.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-17": {
+          "date": "2026-02-17",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "6c14f129af4fd94c4197644e6950bddbba0c9e51",
+              "author": "Comfy Org PR Bot",
+              "date": "2026-02-17T21:41:34.000Z",
+              "message": "Bump comfyui-frontend-package to 1.39.14 (#12494)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2026-02-16": {
+          "date": "2026-02-16",
+          "heatScore": 15,
+          "linesChanged": 82,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_execution/progress.py",
+            "execution.py",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "3278ff75fd5c267ea4cf1bbe087fdd6f12c3f6b1",
+              "author": "Johnpaul",
+              "date": "2026-02-16T22:53:50.000Z",
+              "message": "feat: replay execution context on WS reconnect",
+              "linesAdded": 64,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "comfy_execution/progress.py",
+                "execution.py",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-15": {
+          "date": "2026-02-15",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_glsl.py"
+          ],
+          "commits": [
+            {
+              "hash": "78d1798655ff826e4731d6fac5418e10b0efecdf",
+              "author": "Hunter Senft-Grupp",
+              "date": "2026-02-15T06:27:30.000Z",
+              "message": "fix: move _initialized flag to end of GLContext.__init__",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy_extras/nodes_glsl.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-01": {
+          "date": "2026-02-01",
+          "heatScore": 11,
+          "linesChanged": 28,
+          "commitCount": 1,
+          "filesEdited": [
+            "blueprints/.glsl/update_blueprints.py"
+          ],
+          "commits": [
+            {
+              "hash": "0ff223bd33c464ba69d50608d4976fe8c9ef373d",
+              "author": "pythongosssss",
+              "date": "2026-02-01T00:43:57.000Z",
+              "message": "print -> logger",
+              "linesAdded": 16,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "blueprints/.glsl/update_blueprints.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-11": {
+          "date": "2026-02-11",
+          "heatScore": 34,
+          "linesChanged": 373,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_io.py",
+            "comfy_extras/nodes_color_balance.py",
+            "comfy_extras/nodes_color_correct.py",
+            "comfy_extras/nodes_color_curves.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "66ecd21e47fc2822782c272f1c0ffe17597b9147",
+              "author": "Terry Jia",
+              "date": "2026-02-11T01:26:54.000Z",
+              "message": "color correct",
+              "linesAdded": 373,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_api/latest/_io.py",
+                "comfy_extras/nodes_color_balance.py",
+                "comfy_extras/nodes_color_correct.py",
+                "comfy_extras/nodes_color_curves.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-14": {
+          "date": "2026-02-14",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "df1e5e85142746a745a56572b705406b273a594c",
+              "author": "Christian Byrne",
+              "date": "2026-02-14T19:01:10.000Z",
+              "message": "Update frontend package to 1.38.14 (#12469)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2026-02-13": {
+          "date": "2026-02-13",
+          "heatScore": 19,
+          "linesChanged": 145,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/controlnet.py",
+            "comfy/ldm/chroma/layers.py",
+            "comfy/ldm/chroma_radiance/layers.py",
+            "comfy/ldm/flux/layers.py",
+            "comfy/ldm/flux/model.py",
+            "comfy/ldm/hunyuan_video/model.py",
+            "comfy/lora_convert.py",
+            "comfy/model_detection.py",
+            "comfy/supported_models.py",
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "e1add563f9e89026e8c4e8825a2b279fbd67d23a",
+              "author": "comfyanonymous",
+              "date": "2026-02-13T20:35:13.000Z",
+              "message": "Use torch RMSNorm for flux models and refactor hunyuan video code. (#12432)",
+              "linesAdded": 75,
+              "linesDeleted": 70,
+              "filesChanged": [
+                "comfy/controlnet.py",
+                "comfy/ldm/chroma/layers.py",
+                "comfy/ldm/chroma_radiance/layers.py",
+                "comfy/ldm/flux/layers.py",
+                "comfy/ldm/flux/model.py",
+                "comfy/ldm/hunyuan_video/model.py",
+                "comfy/lora_convert.py",
+                "comfy/model_detection.py",
+                "comfy/supported_models.py",
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-09": {
+          "date": "2026-02-09",
+          "heatScore": 13,
+          "linesChanged": 55,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py",
+            "comfy/model_patcher.py",
+            "comfy/ops.py",
+            "execution.py",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "62315fbb15861e64b917d0a072dad5dc9a15173c",
+              "author": "rattus",
+              "date": "2026-02-09T21:16:08.000Z",
+              "message": "Dynamic VRAM fixes - Ace 1.5 performance + a VRAM leak (#12368)",
+              "linesAdded": 20,
+              "linesDeleted": 35,
+              "filesChanged": [
+                "comfy/model_management.py",
+                "comfy/model_patcher.py",
+                "comfy/ops.py",
+                "execution.py",
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2026-02-08": {
+          "date": "2026-02-08",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/text_encoders/lt.py"
+          ],
+          "commits": [
+            {
+              "hash": "f350a842611f4d75da7104c2d2965f45989089b9",
+              "author": "comfyanonymous",
+              "date": "2026-02-08T00:16:28.000Z",
+              "message": "Disable prompt weights for ltxv2. (#12354)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/text_encoders/lt.py"
+              ]
+            }
+          ]
+        },
+        "2026-02-02": {
+          "date": "2026-02-02",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py",
+            "comfy/model_patcher.py"
+          ],
+          "commits": [
+            {
+              "hash": "de9ada6a4147f4626f903cd975a5d2c134af3915",
+              "author": "rattus",
+              "date": "2026-02-02T22:35:20.000Z",
+              "message": "Dynamic VRAM unloading fix (#12227)",
+              "linesAdded": 23,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "comfy/model_management.py",
+                "comfy/model_patcher.py"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "studysauce5": {
+      "projectName": "studysauce5",
+      "localPath": "C:\\Users\\megam\\studysauce5",
+      "remoteUrl": "git@github.com:briancullinan2/atrium.git",
+      "lastUpdated": "2026-09-24T02:37:21.403Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-02-28": {
+          "date": "2026-02-28",
+          "heatScore": 35,
+          "linesChanged": 377,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.Shared/Layout/MainLayout.razor.css",
+            "StudySauce.Shared/Layout/NavMenu.razor",
+            "StudySauce.Shared/Layout/NavMenu.razor.css",
+            "StudySauce.Shared/Pages/Admin/Settings.razor",
+            "StudySauce.Shared/Pages/Course/Course.razor",
+            "StudySauce.Shared/Pages/Course/Course.razor.css",
+            "StudySauce.Shared/Pages/Course/Course1Reward.razor",
+            "StudySauce.Shared/Pages/Course/Course2Reward.razor",
+            "StudySauce.Shared/Pages/Course/Course3Reward.razor",
+            "StudySauce.Shared/Pages/Course/CourseInvestment.razor",
+            "StudySauce.Shared/wwwroot/css/awards.css"
+          ],
+          "commits": [
+            {
+              "hash": "e4a5587cf1d15c98879c3238aa5d7f27cd856d74",
+              "author": "Brian Cullinan",
+              "date": "2026-02-28T19:05:10.000Z",
+              "message": "reward and investment tabs in course",
+              "linesAdded": 232,
+              "linesDeleted": 145,
+              "filesChanged": [
+                "StudySauce.Shared/Layout/MainLayout.razor.css",
+                "StudySauce.Shared/Layout/NavMenu.razor",
+                "StudySauce.Shared/Layout/NavMenu.razor.css",
+                "StudySauce.Shared/Pages/Admin/Settings.razor",
+                "StudySauce.Shared/Pages/Course/Course.razor",
+                "StudySauce.Shared/Pages/Course/Course.razor.css",
+                "StudySauce.Shared/Pages/Course/Course1Reward.razor",
+                "StudySauce.Shared/Pages/Course/Course2Reward.razor",
+                "StudySauce.Shared/Pages/Course/Course3Reward.razor",
+                "StudySauce.Shared/Pages/Course/CourseInvestment.razor",
+                "StudySauce.Shared/wwwroot/css/awards.css"
+              ]
+            }
+          ]
+        },
+        "2026-02-27": {
+          "date": "2026-02-27",
+          "heatScore": 35,
+          "linesChanged": 377,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/Customization.cs",
+            "DataLayer/Entities/IEntity.cs",
+            "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+            "StudySauce.Shared/Controls/CardsControl.razor",
+            "StudySauce.Shared/Layout/MainLayout.razor",
+            "StudySauce.Shared/Pages/Course/Course.razor",
+            "StudySauce.Shared/Pages/Shared/Course.razor",
+            "StudySauce.Shared/Services/CourseService.cs",
+            "StudySauce.Shared/Services/JsonService.cs",
+            "StudySauce.Shared/Utilities/Extensions/JsonExtensions.cs",
+            "StudySauce.Web.Client/Program.cs",
+            "StudySauce.Web.Client/Services/StateService.cs",
+            "StudySauce/MauiProgram.cs",
+            "StudySauce/Platforms/Windows/App.xaml.cs"
+          ],
+          "commits": [
+            {
+              "hash": "abf5b671c808de6a2baf0f4cca3d84255bc01c15",
+              "author": "Brian Cullinan",
+              "date": "2026-02-27T23:28:41.000Z",
+              "message": "the most uncredible state transfer replacement",
+              "linesAdded": 334,
+              "linesDeleted": 43,
+              "filesChanged": [
+                "DataLayer/Customization.cs",
+                "DataLayer/Entities/IEntity.cs",
+                "DataLayer/Utilities/Extensions/LinqExtensions.cs",
+                "StudySauce.Shared/Controls/CardsControl.razor",
+                "StudySauce.Shared/Layout/MainLayout.razor",
+                "StudySauce.Shared/Pages/Course/Course.razor",
+                "StudySauce.Shared/Pages/Shared/Course.razor",
+                "StudySauce.Shared/Services/CourseService.cs",
+                "StudySauce.Shared/Services/JsonService.cs",
+                "StudySauce.Shared/Utilities/Extensions/JsonExtensions.cs",
+                "StudySauce.Web.Client/Program.cs",
+                "StudySauce.Web.Client/Services/StateService.cs",
+                "StudySauce/MauiProgram.cs",
+                "StudySauce/Platforms/Windows/App.xaml.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-26": {
+          "date": "2026-02-26",
+          "heatScore": 17,
+          "linesChanged": 114,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.Shared/Layout/MainLayout.razor",
+            "StudySauce.Shared/Layout/MainLayout.razor.css",
+            "StudySauce.Shared/Layout/NavMenu.razor.css",
+            "StudySauce.Shared/Pages/Course/Course.razor.css",
+            "StudySauce.Shared/Pages/Landing/Home.razor",
+            "StudySauce.Shared/Services/MenuService.cs",
+            "StudySauce.Web.Client/Services/TitleService.cs",
+            "StudySauce/Platforms/Windows/App.xaml.cs",
+            "StudySauce/Services/TitleService.cs",
+            "StudySauce/Services/TitleTrackerService.cs"
+          ],
+          "commits": [
+            {
+              "hash": "65fbc668b4dff5e8d7a60f28d6a68de42be28c7e",
+              "author": "Brian Cullinan",
+              "date": "2026-02-26T04:44:28.000Z",
+              "message": "title bar fixes",
+              "linesAdded": 76,
+              "linesDeleted": 38,
+              "filesChanged": [
+                "StudySauce.Shared/Layout/MainLayout.razor",
+                "StudySauce.Shared/Layout/MainLayout.razor.css",
+                "StudySauce.Shared/Layout/NavMenu.razor.css",
+                "StudySauce.Shared/Pages/Course/Course.razor.css",
+                "StudySauce.Shared/Pages/Landing/Home.razor",
+                "StudySauce.Shared/Services/MenuService.cs",
+                "StudySauce.Web.Client/Services/TitleService.cs",
+                "StudySauce/Platforms/Windows/App.xaml.cs",
+                "StudySauce/Services/TitleService.cs",
+                "StudySauce/Services/TitleTrackerService.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-25": {
+          "date": "2026-02-25",
+          "heatScore": 83,
+          "linesChanged": 1099,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/Entities/Course.cs",
+            "DataLayer/Entities/Pack.cs",
+            "DataLayer/Entities/Response.cs",
+            "DataLayer/Generators/Cards.cs",
+            "StudySauce.Shared/Controls/MetadataControl.razor",
+            "StudySauce.Shared/Controls/MetadataControl.razor.css",
+            "StudySauce.Shared/Layout/MainLayout.razor",
+            "StudySauce.Shared/Layout/MainLayout.razor.css",
+            "StudySauce.Shared/Layout/NavMenu.razor",
+            "StudySauce.Shared/Layout/NavMenu.razor.css",
+            "StudySauce.Shared/Layout/SyncedTitle.razor",
+            "StudySauce.Shared/Pages/Counter.razor",
+            "StudySauce.Shared/Pages/Course/ActiveReading.cs",
+            "StudySauce.Shared/Pages/Course/Course.razor",
+            "StudySauce.Shared/Pages/Course/Course.razor.css",
+            "StudySauce.Shared/Pages/Course/Distractions.cs",
+            "StudySauce.Shared/Pages/Course/Introduction.cs",
+            "StudySauce.Shared/Pages/Course/Procrastination.cs",
+            "StudySauce.Shared/Pages/Course/SettingGoals.cs",
+            "StudySauce.Shared/Pages/Landing/Home.razor",
+            "StudySauce.Shared/Pages/Landing/Privacy.razor",
+            "StudySauce.Shared/Pages/Tools/Schedule.razor",
+            "StudySauce.Shared/Pages/Weather.razor",
+            "StudySauce.Shared/Services/ITitleService.cs",
+            "StudySauce.Web.Client/Program.cs",
+            "StudySauce.Web.Client/Services/TitleService.cs",
+            "StudySauce/App.xaml.cs",
+            "StudySauce/MauiProgram.cs",
+            "StudySauce/Platforms/Windows/App.xaml.cs",
+            "StudySauce/Properties/launchSettings.json",
+            "StudySauce/Services/TitleService.cs",
+            "StudySauce/Services/TitleTrackerService.cs"
+          ],
+          "commits": [
+            {
+              "hash": "6f59a869ab061c8e14618924547a920e2df2a4b9",
+              "author": "Brian Cullinan",
+              "date": "2026-02-25T22:47:24.000Z",
+              "message": "god fucking damnit app doesn't even show any more, i fucking hate blazor, zero error messages",
+              "linesAdded": 778,
+              "linesDeleted": 321,
+              "filesChanged": [
+                "DataLayer/Entities/Course.cs",
+                "DataLayer/Entities/Pack.cs",
+                "DataLayer/Entities/Response.cs",
+                "DataLayer/Generators/Cards.cs",
+                "StudySauce.Shared/Controls/MetadataControl.razor",
+                "StudySauce.Shared/Controls/MetadataControl.razor.css",
+                "StudySauce.Shared/Layout/MainLayout.razor",
+                "StudySauce.Shared/Layout/MainLayout.razor.css",
+                "StudySauce.Shared/Layout/NavMenu.razor",
+                "StudySauce.Shared/Layout/NavMenu.razor.css",
+                "StudySauce.Shared/Layout/SyncedTitle.razor",
+                "StudySauce.Shared/Pages/Counter.razor",
+                "StudySauce.Shared/Pages/Course/ActiveReading.cs",
+                "StudySauce.Shared/Pages/Course/Course.razor",
+                "StudySauce.Shared/Pages/Course/Course.razor.css",
+                "StudySauce.Shared/Pages/Course/Distractions.cs",
+                "StudySauce.Shared/Pages/Course/Introduction.cs",
+                "StudySauce.Shared/Pages/Course/Procrastination.cs",
+                "StudySauce.Shared/Pages/Course/SettingGoals.cs",
+                "StudySauce.Shared/Pages/Landing/Home.razor",
+                "StudySauce.Shared/Pages/Landing/Privacy.razor",
+                "StudySauce.Shared/Pages/Tools/Schedule.razor",
+                "StudySauce.Shared/Pages/Weather.razor",
+                "StudySauce.Shared/Services/ITitleService.cs",
+                "StudySauce.Web.Client/Program.cs",
+                "StudySauce.Web.Client/Services/TitleService.cs",
+                "StudySauce/App.xaml.cs",
+                "StudySauce/MauiProgram.cs",
+                "StudySauce/Platforms/Windows/App.xaml.cs",
+                "StudySauce/Properties/launchSettings.json",
+                "StudySauce/Services/TitleService.cs",
+                "StudySauce/Services/TitleTrackerService.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-24": {
+          "date": "2026-02-24",
+          "heatScore": 21,
+          "linesChanged": 179,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.Shared/Pages/Course/Course.razor",
+            "StudySauce.Web.Client/Program.cs",
+            "StudySauce.Web.Client/Services/RemoteQuery.cs"
+          ],
+          "commits": [
+            {
+              "hash": "03801e3adba3001730975e0335456824470bd004",
+              "author": "Brian Cullinan",
+              "date": "2026-02-24T19:42:49.000Z",
+              "message": "round robin trip to query, need to set up decoder endpoint",
+              "linesAdded": 97,
+              "linesDeleted": 82,
+              "filesChanged": [
+                "StudySauce.Shared/Pages/Course/Course.razor",
+                "StudySauce.Web.Client/Program.cs",
+                "StudySauce.Web.Client/Services/RemoteQuery.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-23": {
+          "date": "2026-02-23",
+          "heatScore": 42,
+          "linesChanged": 483,
+          "commitCount": 1,
+          "filesEdited": [
+            "DataLayer/Customization.cs",
+            "DataLayer/Entities/Card.cs",
+            "StudySauce.Shared/Controls/CardControl.razor",
+            "StudySauce.Shared/Controls/CardsControl.razor",
+            "StudySauce.Shared/Controls/MetadataControl.razor",
+            "StudySauce.Shared/Controls/PackControl.razor",
+            "StudySauce.Shared/Layout/CourseMenu.razor",
+            "StudySauce.Shared/Layout/MainLayout.razor.css",
+            "StudySauce.Shared/Layout/NavMenu.razor",
+            "StudySauce.Shared/Layout/NavMenu.razor.css",
+            "StudySauce.Shared/Layout/NavMenuItem.cs",
+            "StudySauce.Shared/Pages/Course/Course.razor",
+            "StudySauce.Shared/Pages/Course/Course.razor.css",
+            "StudySauce.Shared/Pages/Landing/About.razor",
+            "StudySauce.Shared/Pages/Landing/Contact.razor",
+            "StudySauce.Shared/Pages/Shared/Course.razor",
+            "StudySauce.Shared/Pages/Shared/Terms.razor",
+            "StudySauce.Shared/Pages/Tools/Calculator.razor",
+            "StudySauce.Shared/Pages/Tools/Checkin.razor",
+            "StudySauce.Shared/Pages/Tools/Deadlines.razor",
+            "StudySauce.Shared/Pages/Tools/Landing.razor",
+            "StudySauce.Shared/Pages/Tools/Metrics.razor",
+            "StudySauce.Shared/Pages/Tools/Notes.razor",
+            "StudySauce.Shared/Pages/Tools/Partners.razor",
+            "StudySauce.Shared/Pages/Tools/Premium.razor",
+            "StudySauce.Shared/Pages/Tools/Schedule.razor",
+            "StudySauce.Shared/Utilities/Extensions/NavigationExtensions.cs"
+          ],
+          "commits": [
+            {
+              "hash": "a2fc53f9a54a71475c5de97c63265778c7e78cd7",
+              "author": "Brian Cullinan",
+              "date": "2026-02-23T19:28:11.000Z",
+              "message": "strongly types menu links and working on implementing card view",
+              "linesAdded": 333,
+              "linesDeleted": 150,
+              "filesChanged": [
+                "DataLayer/Customization.cs",
+                "DataLayer/Entities/Card.cs",
+                "StudySauce.Shared/Controls/CardControl.razor",
+                "StudySauce.Shared/Controls/CardsControl.razor",
+                "StudySauce.Shared/Controls/MetadataControl.razor",
+                "StudySauce.Shared/Controls/PackControl.razor",
+                "StudySauce.Shared/Layout/CourseMenu.razor",
+                "StudySauce.Shared/Layout/MainLayout.razor.css",
+                "StudySauce.Shared/Layout/NavMenu.razor",
+                "StudySauce.Shared/Layout/NavMenu.razor.css",
+                "StudySauce.Shared/Layout/NavMenuItem.cs",
+                "StudySauce.Shared/Pages/Course/Course.razor",
+                "StudySauce.Shared/Pages/Course/Course.razor.css",
+                "StudySauce.Shared/Pages/Landing/About.razor",
+                "StudySauce.Shared/Pages/Landing/Contact.razor",
+                "StudySauce.Shared/Pages/Shared/Course.razor",
+                "StudySauce.Shared/Pages/Shared/Terms.razor",
+                "StudySauce.Shared/Pages/Tools/Calculator.razor",
+                "StudySauce.Shared/Pages/Tools/Checkin.razor",
+                "StudySauce.Shared/Pages/Tools/Deadlines.razor",
+                "StudySauce.Shared/Pages/Tools/Landing.razor",
+                "StudySauce.Shared/Pages/Tools/Metrics.razor",
+                "StudySauce.Shared/Pages/Tools/Notes.razor",
+                "StudySauce.Shared/Pages/Tools/Partners.razor",
+                "StudySauce.Shared/Pages/Tools/Premium.razor",
+                "StudySauce.Shared/Pages/Tools/Schedule.razor",
+                "StudySauce.Shared/Utilities/Extensions/NavigationExtensions.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-22": {
+          "date": "2026-02-22",
+          "heatScore": 14,
+          "linesChanged": 67,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.Shared/Layout/NavMenu.razor",
+            "StudySauce.Shared/Pages/Course/Course.razor",
+            "StudySauce.Shared/Pages/Landing/Home.razor",
+            "StudySauce.Shared/Pages/Shared/Course.razor",
+            "StudySauce.Shared/Utilities/Extensions/NavigationExtensions.cs",
+            "StudySauce.Shared/Utilities/Extensions/PrimitiveExtensions.cs"
+          ],
+          "commits": [
+            {
+              "hash": "dfc02fb44fc6514a17553825f5d4fd9a751742d6",
+              "author": "Brian Cullinan",
+              "date": "2026-02-22T07:23:13.000Z",
+              "message": "fix for navigation url parameter matching",
+              "linesAdded": 48,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "StudySauce.Shared/Layout/NavMenu.razor",
+                "StudySauce.Shared/Pages/Course/Course.razor",
+                "StudySauce.Shared/Pages/Landing/Home.razor",
+                "StudySauce.Shared/Pages/Shared/Course.razor",
+                "StudySauce.Shared/Utilities/Extensions/NavigationExtensions.cs",
+                "StudySauce.Shared/Utilities/Extensions/PrimitiveExtensions.cs"
+              ]
+            }
+          ]
+        },
+        "2026-02-21": {
+          "date": "2026-02-21",
+          "heatScore": 62,
+          "linesChanged": 784,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.Win/App.xaml",
+            "StudySauce.Win/App.xaml.cs",
+            "StudySauce.Win/Components/Pages/Error.razor",
+            "StudySauce.Win/MainPage.xaml",
+            "StudySauce.Win/MainPage.xaml.cs",
+            "StudySauce.Win/MauiProgram.cs",
+            "StudySauce.Win/Package.appxmanifest",
+            "StudySauce.Win/Program.cs",
+            "StudySauce.Win/Properties/launchSettings.json",
+            "StudySauce.Win/Resources/AppIcon/appicon.svg",
+            "StudySauce.Win/Resources/AppIcon/appiconfg.svg",
+            "StudySauce.Win/Resources/Fonts/OpenSans-Regular.ttf",
+            "StudySauce.Win/Resources/Images/dotnet_bot.svg",
+            "StudySauce.Win/Resources/Raw/AboutAssets.txt",
+            "StudySauce.Win/Resources/Splash/splash.svg",
+            "StudySauce.Win/Services/Elevation.cs",
+            "StudySauce.Win/Services/FormFactor.cs",
+            "StudySauce.Win/Services/LocalServer.cs",
+            "StudySauce.Win/Services/OpenPort.cs",
+            "StudySauce.Win/StudySauce.Win.csproj",
+            "StudySauce.Win/StudySauce.Win.csproj.user",
+            "StudySauce.Win/app.manifest",
+            "StudySauce.Win/appsettings.Development.json",
+            "StudySauce.Win/appsettings.json",
+            "StudySauce.Win/wwwroot/css/app.css",
+            "StudySauce.Win/wwwroot/css/bootstrap-icons/bootstrap-icons.min.css",
+            "StudySauce.Win/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff",
+            "StudySauce.Win/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff2",
+            "StudySauce.Win/wwwroot/index.html",
+            "StudySauce.slnx",
+            "{StudySauce.Win => StudySauce}/Components/App.razor",
+            "StudySauce/Platforms/Windows/App.xaml.cs",
+            "{StudySauce.Win/Components => StudySauce/Platforms/Windows}/_Imports.razor",
+            "StudySauce/StudySauce.csproj"
+          ],
+          "commits": [
+            {
+              "hash": "c2ca7ec575f416cb4345c4c360b2c34e38f61468",
+              "author": "Brian Cullinan",
+              "date": "2026-02-21T15:35:03.000Z",
+              "message": "i think i can delete studysauce.web because it runs inside studysauce primary now as a bootable service. mark my words",
+              "linesAdded": 12,
+              "linesDeleted": 772,
+              "filesChanged": [
+                "StudySauce.Win/App.xaml",
+                "StudySauce.Win/App.xaml.cs",
+                "StudySauce.Win/Components/Pages/Error.razor",
+                "StudySauce.Win/MainPage.xaml",
+                "StudySauce.Win/MainPage.xaml.cs",
+                "StudySauce.Win/MauiProgram.cs",
+                "StudySauce.Win/Package.appxmanifest",
+                "StudySauce.Win/Program.cs",
+                "StudySauce.Win/Properties/launchSettings.json",
+                "StudySauce.Win/Resources/AppIcon/appicon.svg",
+                "StudySauce.Win/Resources/AppIcon/appiconfg.svg",
+                "StudySauce.Win/Resources/Fonts/OpenSans-Regular.ttf",
+                "StudySauce.Win/Resources/Images/dotnet_bot.svg",
+                "StudySauce.Win/Resources/Raw/AboutAssets.txt",
+                "StudySauce.Win/Resources/Splash/splash.svg",
+                "StudySauce.Win/Services/Elevation.cs",
+                "StudySauce.Win/Services/FormFactor.cs",
+                "StudySauce.Win/Services/LocalServer.cs",
+                "StudySauce.Win/Services/OpenPort.cs",
+                "StudySauce.Win/StudySauce.Win.csproj",
+                "StudySauce.Win/StudySauce.Win.csproj.user",
+                "StudySauce.Win/app.manifest",
+                "StudySauce.Win/appsettings.Development.json",
+                "StudySauce.Win/appsettings.json",
+                "StudySauce.Win/wwwroot/css/app.css",
+                "StudySauce.Win/wwwroot/css/bootstrap-icons/bootstrap-icons.min.css",
+                "StudySauce.Win/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff",
+                "StudySauce.Win/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff2",
+                "StudySauce.Win/wwwroot/index.html",
+                "StudySauce.slnx",
+                "{StudySauce.Win => StudySauce}/Components/App.razor",
+                "StudySauce/Platforms/Windows/App.xaml.cs",
+                "{StudySauce.Win/Components => StudySauce/Platforms/Windows}/_Imports.razor",
+                "StudySauce/StudySauce.csproj"
+              ]
+            }
+          ]
+        },
+        "2026-02-20": {
+          "date": "2026-02-20",
+          "heatScore": 65,
+          "linesChanged": 834,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce/StudySauce.Shared/Controls/AccordionSection.razor",
+            "StudySauce/StudySauce.Shared/{Pages/NotFound.razor => Controls/NotFoundControl.razor}",
+            "StudySauce/StudySauce.Shared/Layout/MainLayout.razor",
+            "StudySauce/StudySauce.Shared/Layout/MainLayout.razor.css",
+            "StudySauce/StudySauce.Shared/Layout/NavMenu.razor",
+            "StudySauce/StudySauce.Shared/Layout/NavMenu.razor.css",
+            "StudySauce/StudySauce.Shared/Pages/Course.razor",
+            "StudySauce/StudySauce.Shared/Pages/Home.razor",
+            "StudySauce/StudySauce.Shared/Pages/Landing/Packs.razor",
+            "StudySauce/StudySauce.Shared/Pages/Landing/Privacy.razor",
+            "StudySauce/StudySauce.Shared/Pages/Landing/Terms.razor",
+            "StudySauce/StudySauce.Shared/Pages/Pack.razor",
+            "StudySauce/StudySauce.Shared/Pages/Shared/Terms.razor",
+            "StudySauce/StudySauce.Shared/Routes.razor",
+            "StudySauce/StudySauce.Shared/Services/EnumConstraint.cs",
+            "StudySauce/StudySauce.Shared/Services/PageConstraints.cs",
+            "StudySauce/StudySauce.Shared/StudySauce.Shared.csproj",
+            "StudySauce/StudySauce.Shared/wwwroot/{ => css}/app.css",
+            "StudySauce/StudySauce.Shared/wwwroot/css/bootstrap-icons/bootstrap-icons.min.css",
+            "StudySauce/StudySauce.Shared/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff",
+            "StudySauce/StudySauce.Shared/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff2",
+            "StudySauce/StudySauce.Web.Client/StudySauce.Web.Client.csproj",
+            "StudySauce/StudySauce.Web/Components/App.razor",
+            "StudySauce/StudySauce.Web/Program.cs",
+            "StudySauce/StudySauce/App.xaml",
+            "StudySauce/StudySauce/MainPage.xaml",
+            "StudySauce/StudySauce/MauiProgram.cs",
+            "StudySauce/StudySauce/Platforms/Windows/Elevation.cs",
+            "StudySauce/StudySauce/Platforms/Windows/OpenPort.cs",
+            "StudySauce/StudySauce/wwwroot/{ => css}/app.css",
+            "StudySauce/StudySauce/wwwroot/css/bootstrap-icons/bootstrap-icons.min.css",
+            "StudySauce/StudySauce/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff",
+            "StudySauce/StudySauce/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff2",
+            "StudySauce/StudySauce/wwwroot/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "4d855d1bb4fc5efc13d9537808288bb21958bc09",
+              "author": "Brian Cullinan",
+              "date": "2026-02-20T21:10:05.000Z",
+              "message": "couple more landing pages, learning control structures and adding layout",
+              "linesAdded": 788,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "StudySauce/StudySauce.Shared/Controls/AccordionSection.razor",
+                "StudySauce/StudySauce.Shared/{Pages/NotFound.razor => Controls/NotFoundControl.razor}",
+                "StudySauce/StudySauce.Shared/Layout/MainLayout.razor",
+                "StudySauce/StudySauce.Shared/Layout/MainLayout.razor.css",
+                "StudySauce/StudySauce.Shared/Layout/NavMenu.razor",
+                "StudySauce/StudySauce.Shared/Layout/NavMenu.razor.css",
+                "StudySauce/StudySauce.Shared/Pages/Course.razor",
+                "StudySauce/StudySauce.Shared/Pages/Home.razor",
+                "StudySauce/StudySauce.Shared/Pages/Landing/Packs.razor",
+                "StudySauce/StudySauce.Shared/Pages/Landing/Privacy.razor",
+                "StudySauce/StudySauce.Shared/Pages/Landing/Terms.razor",
+                "StudySauce/StudySauce.Shared/Pages/Pack.razor",
+                "StudySauce/StudySauce.Shared/Pages/Shared/Terms.razor",
+                "StudySauce/StudySauce.Shared/Routes.razor",
+                "StudySauce/StudySauce.Shared/Services/EnumConstraint.cs",
+                "StudySauce/StudySauce.Shared/Services/PageConstraints.cs",
+                "StudySauce/StudySauce.Shared/StudySauce.Shared.csproj",
+                "StudySauce/StudySauce.Shared/wwwroot/{ => css}/app.css",
+                "StudySauce/StudySauce.Shared/wwwroot/css/bootstrap-icons/bootstrap-icons.min.css",
+                "StudySauce/StudySauce.Shared/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff",
+                "StudySauce/StudySauce.Shared/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff2",
+                "StudySauce/StudySauce.Web.Client/StudySauce.Web.Client.csproj",
+                "StudySauce/StudySauce.Web/Components/App.razor",
+                "StudySauce/StudySauce.Web/Program.cs",
+                "StudySauce/StudySauce/App.xaml",
+                "StudySauce/StudySauce/MainPage.xaml",
+                "StudySauce/StudySauce/MauiProgram.cs",
+                "StudySauce/StudySauce/Platforms/Windows/Elevation.cs",
+                "StudySauce/StudySauce/Platforms/Windows/OpenPort.cs",
+                "StudySauce/StudySauce/wwwroot/{ => css}/app.css",
+                "StudySauce/StudySauce/wwwroot/css/bootstrap-icons/bootstrap-icons.min.css",
+                "StudySauce/StudySauce/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff",
+                "StudySauce/StudySauce/wwwroot/css/bootstrap-icons/fonts/bootstrap-icons.woff2",
+                "StudySauce/StudySauce/wwwroot/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

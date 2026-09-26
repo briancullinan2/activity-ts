@@ -2,3 +2,4 @@
 dist/*LICENSE*
 dist/*.js
 dist/*.html
+components/blog/models/*.gguf

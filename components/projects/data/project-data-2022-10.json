@@ -1,0 +1,809 @@
+{
+  "yearMonth": "2022-10",
+  "generatedAt": "2026-09-24T02:37:24.678Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2022-10-31": {
+          "date": "2022-10-31",
+          "heatScore": 16,
+          "linesChanged": 103,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "98563b1c790ab64154c7f0ca0c436d7d812fa596",
+              "author": "Brian Cullinan",
+              "date": "2022-10-31T23:45:01.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 96,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-30": {
+          "date": "2022-10-30",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "8b4864df244d66fa5a91be5ef73d05b559dba5d4",
+              "author": "Brian Cullinan",
+              "date": "2022-10-30T23:44:06.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-29": {
+          "date": "2022-10-29",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "495c47f6d13e70086ab687029c8b355531f3f576",
+              "author": "Brian Cullinan",
+              "date": "2022-10-29T17:52:36.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-28": {
+          "date": "2022-10-28",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "24efa50792a7c682d34718cbeee684d853953e39",
+              "author": "Brian Cullinan",
+              "date": "2022-10-28T23:51:58.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-27": {
+          "date": "2022-10-27",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "3e93e5c19365cafa82b9aa11879f625e38ca0db3",
+              "author": "Brian Cullinan",
+              "date": "2022-10-27T23:51:06.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-26": {
+          "date": "2022-10-26",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "1b694755f2868b9f6c74947030291ce26f7f8c43",
+              "author": "Brian Cullinan",
+              "date": "2022-10-26T23:50:06.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-25": {
+          "date": "2022-10-25",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "a98680f7fa2978748ba21e21f9758abbff506d4f",
+              "author": "Brian Cullinan",
+              "date": "2022-10-25T23:49:07.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-24": {
+          "date": "2022-10-24",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d58237dbf41a64ac73f4d7ad47a9c1fd43c339eb",
+              "author": "Brian Cullinan",
+              "date": "2022-10-24T23:48:06.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-23": {
+          "date": "2022-10-23",
+          "heatScore": 11,
+          "linesChanged": 22,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "75ae8528d165d17b7271fad5d44ad9ec8e4d6edb",
+              "author": "Brian Cullinan",
+              "date": "2022-10-23T23:47:08.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-22": {
+          "date": "2022-10-22",
+          "heatScore": 13,
+          "linesChanged": 57,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "5f6692fa91d31dbf27bb1de433f7f8a4307019fe",
+              "author": "Brian Cullinan",
+              "date": "2022-10-22T23:46:18.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-21": {
+          "date": "2022-10-21",
+          "heatScore": 14,
+          "linesChanged": 63,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ada2ca5435045599ca09081d7e1bfbdf7a3bd215",
+              "author": "Brian Cullinan",
+              "date": "2022-10-21T23:45:27.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 52,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-20": {
+          "date": "2022-10-20",
+          "heatScore": 23,
+          "linesChanged": 207,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "077a80caab90b74998ab44f7da6daa40394cdbce",
+              "author": "Brian Cullinan",
+              "date": "2022-10-20T23:01:14.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 11,
+              "linesDeleted": 196,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-19": {
+          "date": "2022-10-19",
+          "heatScore": 13,
+          "linesChanged": 52,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "712cd1525050f82fc436feab8912ab1b1f037115",
+              "author": "Brian Cullinan",
+              "date": "2022-10-19T23:00:21.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 15,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-18": {
+          "date": "2022-10-18",
+          "heatScore": 25,
+          "linesChanged": 225,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "fbb20e0ebbfb122fbec658c2372f21253c68ad3b",
+              "author": "Brian Cullinan",
+              "date": "2022-10-18T23:19:40.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 194,
+              "linesDeleted": 31,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-17": {
+          "date": "2022-10-17",
+          "heatScore": 27,
+          "linesChanged": 267,
+          "commitCount": 1,
+          "filesEdited": [
+            ".DS_Store",
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d6824df2d83ad01de388ffd50e3bb2c75f1264d2",
+              "author": "Brian Cullinan",
+              "date": "2022-10-17T23:17:59.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 15,
+              "linesDeleted": 252,
+              "filesChanged": [
+                ".DS_Store",
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-16": {
+          "date": "2022-10-16",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            ".DS_Store",
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "28b103cda47945652e3ce42f808740289b44d872",
+              "author": "Brian Cullinan",
+              "date": "2022-10-16T23:17:07.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 16,
+              "linesDeleted": 1,
+              "filesChanged": [
+                ".DS_Store",
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-15": {
+          "date": "2022-10-15",
+          "heatScore": 100,
+          "linesChanged": 51275,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "7a5d92a783b88e91188a68197140d250b5a99e19",
+              "author": "Brian Cullinan",
+              "date": "2022-10-15T23:07:47.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 50748,
+              "linesDeleted": 527,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-14": {
+          "date": "2022-10-14",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "9d6fd4135053bd841584aa4b0444c86a49317ec6",
+              "author": "Brian Cullinan",
+              "date": "2022-10-14T20:01:59.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 16,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-13": {
+          "date": "2022-10-13",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "dd717222f9e065420f6f241ba7635d2861371a50",
+              "author": "Brian Cullinan",
+              "date": "2022-10-13T23:43:29.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 0,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-12": {
+          "date": "2022-10-12",
+          "heatScore": 100,
+          "linesChanged": 3523,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "e21cc4b409a6bc4398bb8f51e2aa5440af42520c",
+              "author": "Brian Cullinan",
+              "date": "2022-10-12T04:31:55.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1071,
+              "linesDeleted": 2452,
+              "filesChanged": [
+                "docs/index.html",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-10": {
+          "date": "2022-10-10",
+          "heatScore": 100,
+          "linesChanged": 3094,
+          "commitCount": 1,
+          "filesEdited": [
+            "calendar.js",
+            "docs/index.html",
+            "docs/resume.css"
+          ],
+          "commits": [
+            {
+              "hash": "b355db134cdd6749ad986c4c6b52d78ba4621ca1",
+              "author": "Brian Cullinan",
+              "date": "2022-10-10T20:46:05.000Z",
+              "message": "betting calendar display, needs color coding",
+              "linesAdded": 1195,
+              "linesDeleted": 1899,
+              "filesChanged": [
+                "calendar.js",
+                "docs/index.html",
+                "docs/resume.css"
+              ]
+            }
+          ]
+        },
+        "2022-10-09": {
+          "date": "2022-10-09",
+          "heatScore": 58,
+          "linesChanged": 732,
+          "commitCount": 1,
+          "filesEdited": [
+            "authorize.js",
+            "calendar.js",
+            "history.js",
+            "index.html",
+            "index.js",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "edf8d04cc08a747b4e1b377e06b9040e7d792225",
+              "author": "Brian Cullinan",
+              "date": "2022-10-09T21:47:16.000Z",
+              "message": "getting closer authenticating calendar",
+              "linesAdded": 693,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "authorize.js",
+                "calendar.js",
+                "history.js",
+                "index.html",
+                "index.js",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2022-10-08": {
+          "date": "2022-10-08",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "2dd3335e3588f55eac3e03e7e18bf95fb3c11a5c",
+              "author": "Brian Cullinan",
+              "date": "2022-10-08T23:10:25.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 9,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-07": {
+          "date": "2022-10-07",
+          "heatScore": 18,
+          "linesChanged": 134,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "bdd41c9256100e21e51e5471b12d1f62b5f79c28",
+              "author": "Brian Cullinan",
+              "date": "2022-10-07T23:04:24.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 121,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-06": {
+          "date": "2022-10-06",
+          "heatScore": 18,
+          "linesChanged": 129,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ed67db852b2eb5eaa07e0472b9b3b5ec9a9597f3",
+              "author": "Brian Cullinan",
+              "date": "2022-10-06T23:54:40.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 28,
+              "linesDeleted": 101,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-05": {
+          "date": "2022-10-05",
+          "heatScore": 20,
+          "linesChanged": 164,
+          "commitCount": 1,
+          "filesEdited": [
+            "bookmarks.js",
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "9633fad4d2f56d5c5677bb455c710aa259e84997",
+              "author": "megamind",
+              "date": "2022-10-05T23:09:34.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 25,
+              "linesDeleted": 139,
+              "filesChanged": [
+                "bookmarks.js",
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-04": {
+          "date": "2022-10-04",
+          "heatScore": 24,
+          "linesChanged": 221,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "f7bf9f6327007cae2a9551c74250a63bc9e7b2a7",
+              "author": "megamind",
+              "date": "2022-10-04T23:20:13.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 170,
+              "linesDeleted": 51,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-03": {
+          "date": "2022-10-03",
+          "heatScore": 64,
+          "linesChanged": 824,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "cecab3a4d2883d74d98b297333a48943aea58e47",
+              "author": "megamind",
+              "date": "2022-10-03T23:38:14.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 103,
+              "linesDeleted": 721,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-02": {
+          "date": "2022-10-02",
+          "heatScore": 100,
+          "linesChanged": 5517,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "ac58bbbda8a823a47d2ca6429b099e74450e7134",
+              "author": "megamind",
+              "date": "2022-10-02T23:42:50.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 3279,
+              "linesDeleted": 2238,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2022-10-01": {
+          "date": "2022-10-01",
+          "heatScore": 14,
+          "linesChanged": 74,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "51501ea0c10cd797b9a3285e88d89acff554c3dc",
+              "author": "megamind",
+              "date": "2022-10-01T23:08:39.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 66,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2022-10-28": {
+          "date": "2022-10-28",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/file-menu/export-image/export-image.vue",
+            "src/utils/document-util.js"
+          ],
+          "commits": [
+            {
+              "hash": "2cfadbad83a9de01609af000163f50eb387e24ea",
+              "author": "Igor Zinken",
+              "date": "2022-10-28T22:20:42.000Z",
+              "message": "Fixed issue where exporting animated layers from a cropped image would respect the layer content size, not the cropped document size",
+              "linesAdded": 11,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "src/components/file-menu/export-image/export-image.vue",
+                "src/utils/document-util.js"
+              ]
+            }
+          ]
+        },
+        "2022-10-03": {
+          "date": "2022-10-03",
+          "heatScore": 14,
+          "linesChanged": 60,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/mixins/cloud-service-connector.js",
+            "src/services/google-drive-service.js"
+          ],
+          "commits": [
+            {
+              "hash": "eedafa76fae657d716bed90d2a1081403fd53752",
+              "author": "Igor Zinken",
+              "date": "2022-10-03T20:03:00.000Z",
+              "message": "Migrated Google Drive login from to be deprecated Google Sign-In platform to Google Identity Services",
+              "linesAdded": 32,
+              "linesDeleted": 28,
+              "filesChanged": [
+                "src/mixins/cloud-service-connector.js",
+                "src/services/google-drive-service.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "Quake3e": {
+      "projectName": "Quake3e",
+      "localPath": "C:\\Users\\megam\\Quake3e",
+      "lastUpdated": "2026-09-24T02:37:19.854Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2022-10-25": {
+          "date": "2022-10-25",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/maps/{baseq3 => demoq3}/pak0.pk3"
+          ],
+          "commits": [
+            {
+              "hash": "65e1dd44c9b31923be90bca5015a210e5c03b97f",
+              "author": "Brian Cullinan",
+              "date": "2022-10-25T05:04:15.000Z",
+              "message": "weird uri bug in js frontend",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/maps/{baseq3 => demoq3}/pak0.pk3"
+              ]
+            }
+          ]
+        },
+        "2022-10-05": {
+          "date": "2022-10-05",
+          "heatScore": 11,
+          "linesChanged": 28,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "53fe6d809f4154e23fdd7e989f44fdd3178255f5",
+              "author": "megamind",
+              "date": "2022-10-05T21:39:48.000Z",
+              "message": "user story",
+              "linesAdded": 16,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

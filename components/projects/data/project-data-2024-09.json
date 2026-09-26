@@ -1,0 +1,2154 @@
+{
+  "yearMonth": "2024-09",
+  "generatedAt": "2026-09-24T02:37:24.613Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-09-30": {
+          "date": "2024-09-30",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "33e3ebe23f1106feea0f04bc88ee2b672cfb0668",
+              "author": "Brian Cullinan",
+              "date": "2024-09-30T23:15:12.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 14,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-29": {
+          "date": "2024-09-29",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "e79fba79c0b4e4a3723139d3e6b1a6614a9bd430",
+              "author": "Brian Cullinan",
+              "date": "2024-09-29T23:55:52.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-28": {
+          "date": "2024-09-28",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "f06c56163cc344981dde37535fe795bc4ac79470",
+              "author": "Brian Cullinan",
+              "date": "2024-09-28T23:39:46.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-27": {
+          "date": "2024-09-27",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "9ba9b183be46cf6cbdd2253e1e9da1f7bc3d45ed",
+              "author": "Brian Cullinan",
+              "date": "2024-09-27T10:14:32.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 4,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-26": {
+          "date": "2024-09-26",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "be58fba6d3040aedbe3702854a8ce4be8e741b98",
+              "author": "Brian Cullinan",
+              "date": "2024-09-26T21:23:39.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-25": {
+          "date": "2024-09-25",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "e6e7f5ddcc02d1a88ca0da008be573256f8ceee2",
+              "author": "Brian Cullinan",
+              "date": "2024-09-25T23:21:48.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 8,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-24": {
+          "date": "2024-09-24",
+          "heatScore": 14,
+          "linesChanged": 60,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d441163cddd714a9a0248fd5db713d0e95bb1015",
+              "author": "Brian Cullinan",
+              "date": "2024-09-24T20:28:59.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 31,
+              "linesDeleted": 29,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-22": {
+          "date": "2024-09-22",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [],
+          "commits": [
+            {
+              "hash": "8e4c422071026e3e9ea22a86c677225f6dc24d09",
+              "author": "Brian Cullinan",
+              "date": "2024-09-22T19:19:46.000Z",
+              "message": "Merge branch 'main' of github.com:briancullinan2/activity",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": []
+            }
+          ]
+        },
+        "2024-09-20": {
+          "date": "2024-09-20",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/CNAME"
+          ],
+          "commits": [
+            {
+              "hash": "fa9fefc64b3aab01dc98e50af2c896916e845fb2",
+              "author": "Brian Cullinan",
+              "date": "2024-09-20T17:57:16.000Z",
+              "message": "Update CNAME",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "docs/CNAME"
+              ]
+            }
+          ]
+        },
+        "2024-09-07": {
+          "date": "2024-09-07",
+          "heatScore": 15,
+          "linesChanged": 80,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "cb7da27115975254c8bf64628a5d20d845e09066",
+              "author": "Brian Cullinan",
+              "date": "2024-09-07T04:47:11.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 56,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-06": {
+          "date": "2024-09-06",
+          "heatScore": 15,
+          "linesChanged": 81,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "65dfc31eb23be23b0f4e5d7407a905df627ef073",
+              "author": "Brian Cullinan",
+              "date": "2024-09-06T23:12:25.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 67,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-05": {
+          "date": "2024-09-05",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "f882a773835dc05372fea6db2dd9852c25a73f1f",
+              "author": "Brian Cullinan",
+              "date": "2024-09-05T23:49:17.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 8,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-04": {
+          "date": "2024-09-04",
+          "heatScore": 14,
+          "linesChanged": 62,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "d454d7adc0530d8224bbadb5790bd4f938108244",
+              "author": "Brian Cullinan",
+              "date": "2024-09-04T23:46:47.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 19,
+              "linesDeleted": 43,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-03": {
+          "date": "2024-09-03",
+          "heatScore": 14,
+          "linesChanged": 65,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "54c1b1235875bd3a1beed164cb5a345b43d8c201",
+              "author": "Brian Cullinan",
+              "date": "2024-09-03T23:01:55.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 25,
+              "linesDeleted": 40,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-02": {
+          "date": "2024-09-02",
+          "heatScore": 14,
+          "linesChanged": 61,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "bbacec9ac30b4142f196d80678906dcf5883f394",
+              "author": "Brian Cullinan",
+              "date": "2024-09-02T23:37:28.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 39,
+              "linesDeleted": 22,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2024-09-01": {
+          "date": "2024-09-01",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "a06622c676ee1f108d2c7dd9820751bcf07e7838",
+              "author": "Brian Cullinan",
+              "date": "2024-09-01T23:40:36.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 18,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-09-30": {
+          "date": "2024-09-30",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/lora.py"
+          ],
+          "commits": [
+            {
+              "hash": "b4626ab93ebac96d87d239432f49f8af44cd0744",
+              "author": "comfyanonymous",
+              "date": "2024-09-30T10:03:27.000Z",
+              "message": "Add simpletuner lycoris format for SD unet.",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/lora.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-29": {
+          "date": "2024-09-29",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/latent_formats.py",
+            "latent_preview.py"
+          ],
+          "commits": [
+            {
+              "hash": "a9e459c2a466c23b56ba8d62d8f3aeffdfb971fc",
+              "author": "comfyanonymous",
+              "date": "2024-09-29T15:13:53.000Z",
+              "message": "Use torch.nn.functional.linear in RGB preview code.",
+              "linesAdded": 13,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/latent_formats.py",
+                "latent_preview.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-28": {
+          "date": "2024-09-28",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_patcher.py"
+          ],
+          "commits": [
+            {
+              "hash": "3bb4dec720bd3be13a6fd381f641929386476efc",
+              "author": "comfyanonymous",
+              "date": "2024-09-28T18:42:14.000Z",
+              "message": "Fix issue with loras, lowvram and --fast fp8.",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_patcher.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-27": {
+          "date": "2024-09-27",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_torch_compile.py"
+          ],
+          "commits": [
+            {
+              "hash": "83b01f960ac7c0f4e0c6da539c522c386472b15a",
+              "author": "comfyanonymous",
+              "date": "2024-09-27T06:12:37.000Z",
+              "message": "Add backend option to TorchCompileModel.",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy_extras/nodes_torch_compile.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-26": {
+          "date": "2024-09-26",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "model_filemanager/download_models.py",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "d72e871cfa9a602680e3074e8bd58e827dd31bcb",
+              "author": "comfyanonymous",
+              "date": "2024-09-26T07:17:52.000Z",
+              "message": "Add a note that the experimental model downloader api will be removed.",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "model_filemanager/download_models.py",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-25": {
+          "date": "2024-09-25",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_model_downscale.py",
+            "comfy_extras/nodes_stable_cascade.py",
+            "comfy_extras/nodes_tomesd.py",
+            "comfy_extras/nodes_video_model.py"
+          ],
+          "commits": [
+            {
+              "hash": "037c3159b62717f4d50e50afff1d0275475e2499",
+              "author": "comfyanonymous",
+              "date": "2024-09-25T07:24:13.000Z",
+              "message": "Move some nodes out of _for_testing.",
+              "linesAdded": 4,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy_extras/nodes_model_downscale.py",
+                "comfy_extras/nodes_stable_cascade.py",
+                "comfy_extras/nodes_tomesd.py",
+                "comfy_extras/nodes_video_model.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-24": {
+          "date": "2024-09-24",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_audio.py"
+          ],
+          "commits": [
+            {
+              "hash": "fdf37566ef7f636387aa5fc887030e454bf2d836",
+              "author": "comfyanonymous",
+              "date": "2024-09-24T08:32:55.000Z",
+              "message": "Add batch size to EmptyLatentAudio.",
+              "linesAdded": 4,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy_extras/nodes_audio.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-23": {
+          "date": "2024-09-23",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py"
+          ],
+          "commits": [
+            {
+              "hash": "3a0eeee32053f6c45c5ad4b3975f4ee229b01fbb",
+              "author": "comfyanonymous",
+              "date": "2024-09-23T08:38:19.000Z",
+              "message": "Make --listen listen on both ipv4 and ipv6 at the same time by default.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/cli_args.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-22": {
+          "date": "2024-09-22",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/test-unit.yml",
+            "tests-unit/folder_paths_test/filter_by_content_types_test.py",
+            "tests-unit/utils/extra_config_test.py"
+          ],
+          "commits": [
+            {
+              "hash": "6ad0ddbae4c71e780f8d447b4d8aa9892f8be164",
+              "author": "Robin Huang",
+              "date": "2024-09-22T09:01:39.000Z",
+              "message": "Run unit tests on Windows/MacOS as well. (#5018)",
+              "linesAdded": 13,
+              "linesDeleted": 6,
+              "filesChanged": [
+                ".github/workflows/test-unit.yml",
+                "tests-unit/folder_paths_test/filter_by_content_types_test.py",
+                "tests-unit/utils/extra_config_test.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-21": {
+          "date": "2024-09-21",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_sd3.py"
+          ],
+          "commits": [
+            {
+              "hash": "364b69e93120b872e78efc2e9626dd23bd232c5c",
+              "author": "comfyanonymous",
+              "date": "2024-09-21T13:12:31.000Z",
+              "message": "Make SD3 empty latent image zeros.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_extras/nodes_sd3.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-13": {
+          "date": "2024-09-13",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/user_manager.py"
+          ],
+          "commits": [
+            {
+              "hash": "38c69080c742fcf1519a7aee4c4332ff7d1cd46c",
+              "author": "huchenlei",
+              "date": "2024-09-13T06:44:32.000Z",
+              "message": "Add docstring",
+              "linesAdded": 23,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "app/user_manager.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-20": {
+          "date": "2024-09-20",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/lora.py"
+          ],
+          "commits": [
+            {
+              "hash": "70a708d72610fe60f4c5760371fb1043248461ba",
+              "author": "comfyanonymous",
+              "date": "2024-09-20T06:31:44.000Z",
+              "message": "Fix model merging issue.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/lora.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-19": {
+          "date": "2024-09-19",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            "api_server/routes/internal/internal_routes.py"
+          ],
+          "commits": [
+            {
+              "hash": "3326bdfd4e9135fc4b5324ddec6561b8c008be0c",
+              "author": "Alex \"mcmonkey\" Goodwin",
+              "date": "2024-09-19T13:52:55.000Z",
+              "message": "add internal /folder_paths route (#4980)",
+              "linesAdded": 8,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "api_server/routes/internal/internal_routes.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-18": {
+          "date": "2024-09-18",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "0bfc7cc99837a883a0c964956927c42cd1851d17",
+              "author": "comfyanonymous",
+              "date": "2024-09-18T13:39:43.000Z",
+              "message": "Create the temp directory on ComfyUI startup instead.",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-17": {
+          "date": "2024-09-17",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "7183fd1665e88c13184a11d7ec06f56307b4fa7f",
+              "author": "Tom",
+              "date": "2024-09-17T08:22:05.000Z",
+              "message": "Add route to list model types (#4846)",
+              "linesAdded": 6,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-16": {
+          "date": "2024-09-16",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_audio.py"
+          ],
+          "commits": [
+            {
+              "hash": "56e8f5e4fd0a048811095f44d2147bce48b02457",
+              "author": "comfyanonymous",
+              "date": "2024-09-16T04:30:36.000Z",
+              "message": "VAEDecodeAudio now does some normalization on the audio.",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_audio.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-15": {
+          "date": "2024-09-15",
+          "heatScore": 13,
+          "linesChanged": 53,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "comfy/sd1_clip.py",
+            "comfy/sdxl_clip.py",
+            "comfy/text_encoders/flux.py",
+            "comfy/text_encoders/long_clipl.py",
+            "comfy/text_encoders/sd3_clip.py"
+          ],
+          "commits": [
+            {
+              "hash": "e813abbb2c27448735d02af819e79f1a036b7212",
+              "author": "comfyanonymous",
+              "date": "2024-09-15T11:59:18.000Z",
+              "message": "Long CLIP L support for SDXL, SD3 and Flux.",
+              "linesAdded": 36,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "comfy/sd.py",
+                "comfy/sd1_clip.py",
+                "comfy/sdxl_clip.py",
+                "comfy/text_encoders/flux.py",
+                "comfy/text_encoders/long_clipl.py",
+                "comfy/text_encoders/sd3_clip.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-14": {
+          "date": "2024-09-14",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_controlnet.py"
+          ],
+          "commits": [
+            {
+              "hash": "ca08597670c180554ab494e9452e12132d9b346a",
+              "author": "comfyanonymous",
+              "date": "2024-09-14T13:17:13.000Z",
+              "message": "Make the inpaint controlnet node work with non inpaint ones.",
+              "linesAdded": 8,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy_extras/nodes_controlnet.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-12": {
+          "date": "2024-09-12",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/user_manager.py",
+            "comfy/cli_args.py",
+            "folder_paths.py",
+            "main.py"
+          ],
+          "commits": [
+            {
+              "hash": "b962db9952d45b0ed8185ce7d18cf7d960f99de4",
+              "author": "Robin Huang",
+              "date": "2024-09-12T12:10:27.000Z",
+              "message": "Add cli arg to override user directory (#4856)",
+              "linesAdded": 23,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "app/user_manager.py",
+                "comfy/cli_args.py",
+                "folder_paths.py",
+                "main.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-11": {
+          "date": "2024-09-11",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py"
+          ],
+          "commits": [
+            {
+              "hash": "9f4daca9d9994c600ef713856e0182d0177b9a1e",
+              "author": "comfyanonymous",
+              "date": "2024-09-11T06:51:36.000Z",
+              "message": "Doesn't really make sense for cfg_pp sampler to call regular one.",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-10": {
+          "date": "2024-09-10",
+          "heatScore": 14,
+          "linesChanged": 66,
+          "commitCount": 1,
+          "filesEdited": [
+            "tests-unit/comfy_test/folder_path_test.py"
+          ],
+          "commits": [
+            {
+              "hash": "81778a7feb233ccba046555d1cc90e7455df93ea",
+              "author": "Yoland Yan",
+              "date": "2024-09-10T04:44:49.000Z",
+              "message": "[🗻 Mount Fuji Commit] Add unit tests for folder path utilities (#4869)",
+              "linesAdded": 66,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "tests-unit/comfy_test/folder_path_test.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-09": {
+          "date": "2024-09-09",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "54fca4a218421b9938e0b09bdf9025d87b50bfae",
+              "author": "comfyanonymous",
+              "date": "2024-09-09T20:23:21.000Z",
+              "message": "If host does not contain a port only compare the hostnames.",
+              "linesAdded": 9,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-08": {
+          "date": "2024-09-08",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "cbaac71bf55c55e0bb4b878708fddece35073122",
+              "author": "comfyanonymous",
+              "date": "2024-09-08T23:35:23.000Z",
+              "message": "Fix issue with last commit.",
+              "linesAdded": 5,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-07": {
+          "date": "2024-09-07",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "bb52934ba4e492459c5d3d01c81a8473a9962687",
+              "author": "Jim Winkens",
+              "date": "2024-09-07T09:28:32.000Z",
+              "message": "Fix import issue (#4815)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-06": {
+          "date": "2024-09-06",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/common_dit.py"
+          ],
+          "commits": [
+            {
+              "hash": "c27ebeb1c2b7f163973f1dc9c57ee035214d6737",
+              "author": "comfyanonymous",
+              "date": "2024-09-06T07:21:52.000Z",
+              "message": "Fix onnx export not working on flux.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/ldm/common_dit.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-05": {
+          "date": "2024-09-05",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_execution/caching.py"
+          ],
+          "commits": [
+            {
+              "hash": "0c7c98a965bff25f9398a4b28dfc274bedad9f6c",
+              "author": "guill",
+              "date": "2024-09-05T23:33:02.000Z",
+              "message": "Nodes using UNIQUE_ID as input are NOT_IDEMPOTENT (#4793)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_execution/caching.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-04": {
+          "date": "2024-09-04",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "c7427375ee27f3a57d9d945d3217436ef43fb53f",
+              "author": "comfyanonymous",
+              "date": "2024-09-04T23:47:32.000Z",
+              "message": "Prioritize freeing partially offloaded models first.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-03": {
+          "date": "2024-09-03",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "latent_preview.py"
+          ],
+          "commits": [
+            {
+              "hash": "f067ad15d139d6e07e44801759f7ccdd9985c636",
+              "author": "Silver",
+              "date": "2024-09-03T23:16:38.000Z",
+              "message": "Make live preview size a configurable launch argument (#4649)",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "latent_preview.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-02": {
+          "date": "2024-09-02",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/lora.py"
+          ],
+          "commits": [
+            {
+              "hash": "d043997d30d91ab057f770d3396c2e288e37b38a",
+              "author": "comfyanonymous",
+              "date": "2024-09-02T12:22:15.000Z",
+              "message": "Flux onetrainer lora.",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/lora.py"
+              ]
+            }
+          ]
+        },
+        "2024-09-01": {
+          "date": "2024-09-01",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/stale-issues.yml"
+          ],
+          "commits": [
+            {
+              "hash": "f1c2301697cb1cd538f8d4190741935548bb6734",
+              "author": "Alex \"mcmonkey\" Goodwin",
+              "date": "2024-09-01T21:44:49.000Z",
+              "message": "fix typo in stale-issues (#4735)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                ".github/workflows/stale-issues.yml"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "multigame-assets": {
+      "projectName": "multigame-assets",
+      "localPath": "C:\\Users\\megam\\multigame-assets",
+      "remoteUrl": "git@github.com:briancullinan2/multigame-assets.git",
+      "lastUpdated": "2026-09-24T02:37:10.512Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-09-14": {
+          "date": "2024-09-14",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "maps/buildings/qsc-medium.bsp"
+          ],
+          "commits": [
+            {
+              "hash": "1108fae035661cf044a6b1eb3e44a32b823e4d0e",
+              "author": "Brian Cullinan",
+              "date": "2024-09-14T21:33:17.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "maps/buildings/qsc-medium.bsp"
+              ]
+            }
+          ]
+        },
+        "2024-09-13": {
+          "date": "2024-09-13",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "maps/fantasy/gultch.bsp",
+            "maps/fantasy/gultch.map"
+          ],
+          "commits": [
+            {
+              "hash": "1aea096e54c0f4010921112ec0f5c4830f975619",
+              "author": "Brian Cullinan",
+              "date": "2024-09-13T23:33:02.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "maps/fantasy/gultch.bsp",
+                "maps/fantasy/gultch.map"
+              ]
+            }
+          ]
+        },
+        "2024-09-12": {
+          "date": "2024-09-12",
+          "heatScore": 100,
+          "linesChanged": 9904,
+          "commitCount": 1,
+          "filesEdited": [
+            "maps/bases/atcs-side.bsp",
+            "maps/bases/atcs-side.lin",
+            "maps/bases/atcs-side.map",
+            "maps/bases/atcs-side.prt",
+            "maps/bases/atcs-side.srf"
+          ],
+          "commits": [
+            {
+              "hash": "b67d64982a972d6fd6e59735d8c87b23baa88c06",
+              "author": "Brian Cullinan",
+              "date": "2024-09-12T19:36:05.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 8571,
+              "linesDeleted": 1333,
+              "filesChanged": [
+                "maps/bases/atcs-side.bsp",
+                "maps/bases/atcs-side.lin",
+                "maps/bases/atcs-side.map",
+                "maps/bases/atcs-side.prt",
+                "maps/bases/atcs-side.srf"
+              ]
+            }
+          ]
+        },
+        "2024-09-11": {
+          "date": "2024-09-11",
+          "heatScore": 20,
+          "linesChanged": 164,
+          "commitCount": 1,
+          "filesEdited": [
+            "maps/bases/atcs-side.map"
+          ],
+          "commits": [
+            {
+              "hash": "28cffed1b44238aad42af67009cb846d32bc10ca",
+              "author": "Brian Cullinan",
+              "date": "2024-09-11T22:35:53.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 82,
+              "linesDeleted": 82,
+              "filesChanged": [
+                "maps/bases/atcs-side.map"
+              ]
+            }
+          ]
+        },
+        "2024-09-10": {
+          "date": "2024-09-10",
+          "heatScore": 100,
+          "linesChanged": 174783,
+          "commitCount": 1,
+          "filesEdited": [
+            "maps/buildings/austria-a.bsp",
+            "maps/buildings/austria-a.lin",
+            "maps/buildings/austria-a.map",
+            "maps/buildings/austria-a.srf",
+            "maps/buildings/austria-b.bsp",
+            "maps/buildings/austria-b.lin",
+            "maps/buildings/austria-b.map",
+            "maps/buildings/austria-b.srf",
+            "maps/buildings/austria-c.bsp",
+            "maps/buildings/austria-c.lin",
+            "maps/buildings/austria-c.map",
+            "maps/buildings/austria-c.srf",
+            "scripts/{shaderlist.txt => shaderlist2.txt}"
+          ],
+          "commits": [
+            {
+              "hash": "d4f94ccdff9677881da1ef7ba861fea6affee96e",
+              "author": "Brian Cullinan",
+              "date": "2024-09-10T20:35:29.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 174783,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "maps/buildings/austria-a.bsp",
+                "maps/buildings/austria-a.lin",
+                "maps/buildings/austria-a.map",
+                "maps/buildings/austria-a.srf",
+                "maps/buildings/austria-b.bsp",
+                "maps/buildings/austria-b.lin",
+                "maps/buildings/austria-b.map",
+                "maps/buildings/austria-b.srf",
+                "maps/buildings/austria-c.bsp",
+                "maps/buildings/austria-c.lin",
+                "maps/buildings/austria-c.map",
+                "maps/buildings/austria-c.srf",
+                "scripts/{shaderlist.txt => shaderlist2.txt}"
+              ]
+            }
+          ]
+        },
+        "2024-09-09": {
+          "date": "2024-09-09",
+          "heatScore": 100,
+          "linesChanged": 5354,
+          "commitCount": 1,
+          "filesEdited": [
+            "maps/fantasy/13yard.bsp",
+            "maps/fantasy/13yard.map",
+            "maps/platforms/13yard-small.bsp",
+            "maps/platforms/13yard-small.lin",
+            "maps/platforms/13yard-small.map",
+            "maps/platforms/13yard-small.prt",
+            "maps/platforms/13yard-small.srf"
+          ],
+          "commits": [
+            {
+              "hash": "6bdfc4d248734190faa77617f6cc4f779ed8469f",
+              "author": "Brian Cullinan",
+              "date": "2024-09-09T23:33:18.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 5303,
+              "linesDeleted": 51,
+              "filesChanged": [
+                "maps/fantasy/13yard.bsp",
+                "maps/fantasy/13yard.map",
+                "maps/platforms/13yard-small.bsp",
+                "maps/platforms/13yard-small.lin",
+                "maps/platforms/13yard-small.map",
+                "maps/platforms/13yard-small.prt",
+                "maps/platforms/13yard-small.srf"
+              ]
+            }
+          ]
+        },
+        "2024-09-08": {
+          "date": "2024-09-08",
+          "heatScore": 16,
+          "linesChanged": 104,
+          "commitCount": 1,
+          "filesEdited": [
+            "maps/terrain/coagulation.bsp",
+            "maps/terrain/coagulation.lin",
+            "maps/terrain/thegrid.map"
+          ],
+          "commits": [
+            {
+              "hash": "b3a60602eb4d1424e098503876d9deb13a20fa9e",
+              "author": "Brian Cullinan",
+              "date": "2024-09-08T23:32:27.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 80,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "maps/terrain/coagulation.bsp",
+                "maps/terrain/coagulation.lin",
+                "maps/terrain/thegrid.map"
+              ]
+            }
+          ]
+        },
+        "2024-09-07": {
+          "date": "2024-09-07",
+          "heatScore": 100,
+          "linesChanged": 121364,
+          "commitCount": 1,
+          "filesEdited": [
+            "maps/bases/atcs-middle.mtl",
+            "maps/bases/atcs-middle.obj",
+            "maps/bases/atcs-side.mtl",
+            "maps/bases/atcs-side.obj",
+            "maps/terrain/coagulation.bsp",
+            "maps/terrain/coagulation.map",
+            "maps/terrain/coagulation.mtl",
+            "maps/terrain/coagulation.obj",
+            "maps/terrain/coagulation.srf"
+          ],
+          "commits": [
+            {
+              "hash": "6f10e235cddb03504c47c141e2017f889d393702",
+              "author": "Brian Cullinan",
+              "date": "2024-09-07T23:31:58.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 115389,
+              "linesDeleted": 5975,
+              "filesChanged": [
+                "maps/bases/atcs-middle.mtl",
+                "maps/bases/atcs-middle.obj",
+                "maps/bases/atcs-side.mtl",
+                "maps/bases/atcs-side.obj",
+                "maps/terrain/coagulation.bsp",
+                "maps/terrain/coagulation.map",
+                "maps/terrain/coagulation.mtl",
+                "maps/terrain/coagulation.obj",
+                "maps/terrain/coagulation.srf"
+              ]
+            }
+          ]
+        },
+        "2024-09-06": {
+          "date": "2024-09-06",
+          "heatScore": 100,
+          "linesChanged": 2115687,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gitignore",
+            "maps/bases/autosave/central.1.map",
+            "maps/bases/autosave/central.2.map",
+            "maps/cities/simpsons-clip.map",
+            "maps/cities/simpsons-clip.mtl",
+            "maps/cities/simpsons-clip.obj",
+            "maps/cities/simpsons-mesh.bsp",
+            "maps/cities/simpsons-mesh.map",
+            "maps/cities/simpsons-mesh.mtl",
+            "maps/cities/simpsons-mesh.obj",
+            "maps/cities/simpsons-mesh.prt",
+            "maps/cities/simpsons-mesh.srf",
+            "maps/cities/simpsons.bsp",
+            "maps/cities/simpsons.map",
+            "maps/cities/simpsons.prt",
+            "maps/cities/simpsons.srf",
+            "maps/cities/toxic-clip.map",
+            "maps/cities/toxic-clip.mtl",
+            "maps/clip/platforms/13yard-blitz.map",
+            "maps/clip/platforms/13yard-blitz.mtl",
+            "maps/clip/platforms/13yard-blitz.obj",
+            "maps/clip/platforms/autosave/13yard-blitz.1-half.md3",
+            "maps/clip/platforms/autosave/13yard-blitz.1-quarter.md3",
+            "maps/clip/platforms/autosave/13yard-blitz.1.bsp",
+            "maps/clip/platforms/autosave/13yard-blitz.1.lin",
+            "maps/clip/platforms/autosave/13yard-blitz.1.map",
+            "maps/clip/platforms/autosave/13yard-blitz.srf",
+            "maps/clip/platforms/autosave/13yard-small.1-half.md3",
+            "maps/clip/platforms/autosave/13yard-small.1-quarter.md3",
+            "maps/clip/platforms/autosave/13yard-small.1.bsp",
+            "maps/clip/platforms/autosave/13yard-small.1.map",
+            "maps/clip/platforms/autosave/13yard-small.2-half.md3",
+            "maps/clip/platforms/autosave/13yard-small.2-quarter.md3",
+            "maps/clip/platforms/autosave/13yard-small.2.bsp",
+            "maps/clip/platforms/autosave/13yard-small.2.map",
+            "maps/clip/platforms/autosave/13yard-small.srf",
+            "maps/clip/portals/autosave/teleporter-tunnel.1.bsp",
+            "maps/clip/portals/autosave/teleporter-tunnel.1.map",
+            "maps/clip/portals/autosave/teleporter-tunnel.srf",
+            "maps/clip/rooms/simpson-blocka.map",
+            "maps/clip/rooms/simpson-blocka.mtl",
+            "maps/clip/rooms/simpson-blocka.obj",
+            "maps/clip/rooms/simpson-blockb.map",
+            "maps/clip/rooms/simpson-blockb.mtl",
+            "maps/clip/rooms/simpson-blockb.obj",
+            "maps/clip/rooms/simpson-blockc.map",
+            "maps/clip/rooms/simpson-blockc.mtl",
+            "maps/clip/rooms/simpson-blockc.obj",
+            "maps/clip/rooms/simpson-bowl.map",
+            "maps/clip/rooms/simpson-central.map",
+            "maps/clip/rooms/simpson-central.mtl",
+            "maps/clip/rooms/simpson-central.obj",
+            "maps/clip/rooms/simpson-house.map",
+            "maps/clip/rooms/simpson-house.mtl",
+            "maps/clip/rooms/simpson-house.obj",
+            "maps/clip/rooms/simpson-kwike.map",
+            "maps/clip/rooms/simpson-kwike.mtl",
+            "maps/clip/rooms/simpson-kwike.obj",
+            "maps/clip/rooms/simpson-moes.map",
+            "maps/clip/rooms/simpson-moes.mtl",
+            "maps/clip/rooms/simpson-moes.obj",
+            "maps/dmeat_sp02b.aas",
+            "maps/dmeat_sp02b.bsp",
+            "maps/dmeat_sp02b.map",
+            "maps/flagstaff.map",
+            "maps/flagstaff.mtl",
+            "maps/flagstaff.obj",
+            "maps/loading-program.bsp",
+            "maps/objects/autosave/tree-small.1.map",
+            "maps/objects/autosave/tree-small.2.map",
+            "maps/objects/autosave/tree-small.3.map",
+            "maps/objects/boxes-a.map",
+            "maps/objects/boxes-a.mtl",
+            "maps/objects/boxes-a.obj",
+            "maps/objects/chair.map",
+            "maps/objects/chair.mtl",
+            "maps/objects/chair.obj",
+            "maps/objects/desk-a.map",
+            "maps/objects/desk-a.mtl",
+            "maps/objects/desk-a.obj",
+            "maps/objects/desk-b.map",
+            "maps/objects/desk-b.mtl",
+            "maps/objects/desk-b.obj",
+            "maps/objects/desk.map",
+            "maps/objects/desk.mtl",
+            "maps/objects/desk.obj",
+            "maps/objects/pump-a.map",
+            "maps/objects/pump-a.mtl",
+            "maps/objects/pump-a.obj",
+            "maps/objects/toxic-tanks.map",
+            "maps/objects/toxic-tanks.mtl",
+            "maps/objects/toxic-tanks.obj",
+            "maps/platforms/13yard-blitz.bsp",
+            "maps/platforms/13yard-blitz.lin",
+            "maps/platforms/13yard-blitz.map",
+            "maps/platforms/13yard-blitz.prt",
+            "maps/platforms/13yard-blitz.srf",
+            "maps/platforms/autosave/13yard-blitz.1-half.md3",
+            "maps/platforms/autosave/13yard-blitz.1-quarter.md3",
+            "maps/platforms/autosave/13yard-blitz.1.map",
+            "maps/portals/autosave/teleporter-tunnel.1.map",
+            "maps/q3sy17ep.aas",
+            "maps/q3sy17ep.bsp",
+            "maps/q3sy17ta.aas",
+            "maps/q3sy17ta.bsp",
+            "maps/q3sy17ta.map",
+            "maps/rooms/simpson-blocka.map",
+            "maps/rooms/simpson-blockb.map",
+            "maps/rooms/simpson-blockc.map",
+            "maps/rooms/simpson-bowl.map",
+            "maps/rooms/simpson-central.map",
+            "maps/rooms/simpson-house.bsp",
+            "maps/rooms/simpson-house.map",
+            "maps/rooms/simpson-house.mtl",
+            "maps/rooms/simpson-house.prt",
+            "maps/rooms/simpson-house.srf",
+            "maps/rooms/simpson-kwike.map",
+            "maps/rooms/simpson-moes.map",
+            "maps/rota3ctf1_4flag.bsp",
+            "maps/simpsons_q3.aas",
+            "maps/simpsons_q3.bsp",
+            "maps/simpsons_q3.map",
+            "maps/space-program.bsp",
+            "maps/space-program.map",
+            "maps/space-program.prt",
+            "maps/space-program.srf",
+            "maps/space-program/lightmap_0000.tga",
+            "maps/toxic_fabric.bsp",
+            "maps/toxic_fabric.map",
+            "maps/toxic_fabric/lm_0000.tga",
+            "maps/toxic_fabric/lm_0001.tga",
+            "maps/toxic_fabric/lm_0002.tga",
+            "maps/toxic_fabric/lm_0003.tga",
+            "maps/toxic_fabric/lm_0004.tga",
+            "maps/toxic_fabric/lm_0005.tga",
+            "maps/toxic_fabric/lm_0006.tga",
+            "maps/wvwq3dm7.map",
+            "maps/wvwq3dm7_converted.map"
+          ],
+          "commits": [
+            {
+              "hash": "5b25804257bf3a35082c4762188bc211d5789494",
+              "author": "Brian Cullinan",
+              "date": "2024-09-06T20:46:38.000Z",
+              "message": "big maps and ignoring autosaves",
+              "linesAdded": 2073041,
+              "linesDeleted": 42646,
+              "filesChanged": [
+                ".gitignore",
+                "maps/bases/autosave/central.1.map",
+                "maps/bases/autosave/central.2.map",
+                "maps/cities/simpsons-clip.map",
+                "maps/cities/simpsons-clip.mtl",
+                "maps/cities/simpsons-clip.obj",
+                "maps/cities/simpsons-mesh.bsp",
+                "maps/cities/simpsons-mesh.map",
+                "maps/cities/simpsons-mesh.mtl",
+                "maps/cities/simpsons-mesh.obj",
+                "maps/cities/simpsons-mesh.prt",
+                "maps/cities/simpsons-mesh.srf",
+                "maps/cities/simpsons.bsp",
+                "maps/cities/simpsons.map",
+                "maps/cities/simpsons.prt",
+                "maps/cities/simpsons.srf",
+                "maps/cities/toxic-clip.map",
+                "maps/cities/toxic-clip.mtl",
+                "maps/clip/platforms/13yard-blitz.map",
+                "maps/clip/platforms/13yard-blitz.mtl",
+                "maps/clip/platforms/13yard-blitz.obj",
+                "maps/clip/platforms/autosave/13yard-blitz.1-half.md3",
+                "maps/clip/platforms/autosave/13yard-blitz.1-quarter.md3",
+                "maps/clip/platforms/autosave/13yard-blitz.1.bsp",
+                "maps/clip/platforms/autosave/13yard-blitz.1.lin",
+                "maps/clip/platforms/autosave/13yard-blitz.1.map",
+                "maps/clip/platforms/autosave/13yard-blitz.srf",
+                "maps/clip/platforms/autosave/13yard-small.1-half.md3",
+                "maps/clip/platforms/autosave/13yard-small.1-quarter.md3",
+                "maps/clip/platforms/autosave/13yard-small.1.bsp",
+                "maps/clip/platforms/autosave/13yard-small.1.map",
+                "maps/clip/platforms/autosave/13yard-small.2-half.md3",
+                "maps/clip/platforms/autosave/13yard-small.2-quarter.md3",
+                "maps/clip/platforms/autosave/13yard-small.2.bsp",
+                "maps/clip/platforms/autosave/13yard-small.2.map",
+                "maps/clip/platforms/autosave/13yard-small.srf",
+                "maps/clip/portals/autosave/teleporter-tunnel.1.bsp",
+                "maps/clip/portals/autosave/teleporter-tunnel.1.map",
+                "maps/clip/portals/autosave/teleporter-tunnel.srf",
+                "maps/clip/rooms/simpson-blocka.map",
+                "maps/clip/rooms/simpson-blocka.mtl",
+                "maps/clip/rooms/simpson-blocka.obj",
+                "maps/clip/rooms/simpson-blockb.map",
+                "maps/clip/rooms/simpson-blockb.mtl",
+                "maps/clip/rooms/simpson-blockb.obj",
+                "maps/clip/rooms/simpson-blockc.map",
+                "maps/clip/rooms/simpson-blockc.mtl",
+                "maps/clip/rooms/simpson-blockc.obj",
+                "maps/clip/rooms/simpson-bowl.map",
+                "maps/clip/rooms/simpson-central.map",
+                "maps/clip/rooms/simpson-central.mtl",
+                "maps/clip/rooms/simpson-central.obj",
+                "maps/clip/rooms/simpson-house.map",
+                "maps/clip/rooms/simpson-house.mtl",
+                "maps/clip/rooms/simpson-house.obj",
+                "maps/clip/rooms/simpson-kwike.map",
+                "maps/clip/rooms/simpson-kwike.mtl",
+                "maps/clip/rooms/simpson-kwike.obj",
+                "maps/clip/rooms/simpson-moes.map",
+                "maps/clip/rooms/simpson-moes.mtl",
+                "maps/clip/rooms/simpson-moes.obj",
+                "maps/dmeat_sp02b.aas",
+                "maps/dmeat_sp02b.bsp",
+                "maps/dmeat_sp02b.map",
+                "maps/flagstaff.map",
+                "maps/flagstaff.mtl",
+                "maps/flagstaff.obj",
+                "maps/loading-program.bsp",
+                "maps/objects/autosave/tree-small.1.map",
+                "maps/objects/autosave/tree-small.2.map",
+                "maps/objects/autosave/tree-small.3.map",
+                "maps/objects/boxes-a.map",
+                "maps/objects/boxes-a.mtl",
+                "maps/objects/boxes-a.obj",
+                "maps/objects/chair.map",
+                "maps/objects/chair.mtl",
+                "maps/objects/chair.obj",
+                "maps/objects/desk-a.map",
+                "maps/objects/desk-a.mtl",
+                "maps/objects/desk-a.obj",
+                "maps/objects/desk-b.map",
+                "maps/objects/desk-b.mtl",
+                "maps/objects/desk-b.obj",
+                "maps/objects/desk.map",
+                "maps/objects/desk.mtl",
+                "maps/objects/desk.obj",
+                "maps/objects/pump-a.map",
+                "maps/objects/pump-a.mtl",
+                "maps/objects/pump-a.obj",
+                "maps/objects/toxic-tanks.map",
+                "maps/objects/toxic-tanks.mtl",
+                "maps/objects/toxic-tanks.obj",
+                "maps/platforms/13yard-blitz.bsp",
+                "maps/platforms/13yard-blitz.lin",
+                "maps/platforms/13yard-blitz.map",
+                "maps/platforms/13yard-blitz.prt",
+                "maps/platforms/13yard-blitz.srf",
+                "maps/platforms/autosave/13yard-blitz.1-half.md3",
+                "maps/platforms/autosave/13yard-blitz.1-quarter.md3",
+                "maps/platforms/autosave/13yard-blitz.1.map",
+                "maps/portals/autosave/teleporter-tunnel.1.map",
+                "maps/q3sy17ep.aas",
+                "maps/q3sy17ep.bsp",
+                "maps/q3sy17ta.aas",
+                "maps/q3sy17ta.bsp",
+                "maps/q3sy17ta.map",
+                "maps/rooms/simpson-blocka.map",
+                "maps/rooms/simpson-blockb.map",
+                "maps/rooms/simpson-blockc.map",
+                "maps/rooms/simpson-bowl.map",
+                "maps/rooms/simpson-central.map",
+                "maps/rooms/simpson-house.bsp",
+                "maps/rooms/simpson-house.map",
+                "maps/rooms/simpson-house.mtl",
+                "maps/rooms/simpson-house.prt",
+                "maps/rooms/simpson-house.srf",
+                "maps/rooms/simpson-kwike.map",
+                "maps/rooms/simpson-moes.map",
+                "maps/rota3ctf1_4flag.bsp",
+                "maps/simpsons_q3.aas",
+                "maps/simpsons_q3.bsp",
+                "maps/simpsons_q3.map",
+                "maps/space-program.bsp",
+                "maps/space-program.map",
+                "maps/space-program.prt",
+                "maps/space-program.srf",
+                "maps/space-program/lightmap_0000.tga",
+                "maps/toxic_fabric.bsp",
+                "maps/toxic_fabric.map",
+                "maps/toxic_fabric/lm_0000.tga",
+                "maps/toxic_fabric/lm_0001.tga",
+                "maps/toxic_fabric/lm_0002.tga",
+                "maps/toxic_fabric/lm_0003.tga",
+                "maps/toxic_fabric/lm_0004.tga",
+                "maps/toxic_fabric/lm_0005.tga",
+                "maps/toxic_fabric/lm_0006.tga",
+                "maps/wvwq3dm7.map",
+                "maps/wvwq3dm7_converted.map"
+              ]
+            }
+          ]
+        },
+        "2024-09-05": {
+          "date": "2024-09-05",
+          "heatScore": 13,
+          "linesChanged": 50,
+          "commitCount": 1,
+          "filesEdited": [
+            "maps/rota3ctf1_4flag.map",
+            "scripts/entities.ent",
+            "scripts/shaderlist.txt"
+          ],
+          "commits": [
+            {
+              "hash": "78317ae0bc7c5500d94f263946f791e33a8cc930",
+              "author": "Brian Cullinan",
+              "date": "2024-09-05T07:17:28.000Z",
+              "message": "more map assets",
+              "linesAdded": 38,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "maps/rota3ctf1_4flag.map",
+                "scripts/entities.ent",
+                "scripts/shaderlist.txt"
+              ]
+            }
+          ]
+        },
+        "2024-09-03": {
+          "date": "2024-09-03",
+          "heatScore": 100,
+          "linesChanged": 227870,
+          "commitCount": 1,
+          "filesEdited": [
+            "env/dm_bk.jpg",
+            "env/dm_dn.jpg",
+            "env/dm_ft.jpg",
+            "env/dm_lf.jpg",
+            "env/dm_rt.jpg",
+            "env/dm_up.jpg",
+            "levelshots/rota3ctf1_4flag.jpg",
+            "maps/objects/autosave/tree-small.2.map",
+            "maps/objects/autosave/tree-small.3.map",
+            "maps/objects/tree-small-eigth.md3",
+            "maps/objects/tree-small-quarter.md3",
+            "maps/objects/tree-small.bsp",
+            "maps/objects/tree-small.map",
+            "maps/platforms/13yard-blitz.bsp",
+            "maps/platforms/13yard-blitz.map",
+            "maps/platforms/13yard-blitz/lightmap_0000.tga",
+            "maps/platforms/13yard-blitz/lightmap_0001.tga",
+            "maps/rooms/weatherford-kitchen-eigth.md3",
+            "maps/rooms/weatherford-kitchen-half.md3",
+            "maps/rooms/weatherford-kitchen-quarter.md3",
+            "maps/rooms/weatherford-kitchen.bsp",
+            "maps/rooms/weatherford-kitchen.map",
+            "maps/rooms/weatherford-kitchen.srf",
+            "maps/rooms/weatherford-rooms-eigth.md3",
+            "maps/rooms/weatherford-rooms-half.md3",
+            "maps/rooms/weatherford-rooms-quarter.md3",
+            "maps/rooms/weatherford-rooms.bsp",
+            "maps/rooms/weatherford-rooms.map",
+            "maps/rooms/weatherford-rooms.srf",
+            "maps/rooms/weatherford-upstairs-eigth.md3",
+            "maps/rooms/weatherford-upstairs-half.md3",
+            "maps/rooms/weatherford-upstairs-quarter.md3",
+            "maps/rooms/weatherford-upstairs.bsp",
+            "maps/rooms/weatherford-upstairs.map",
+            "maps/rooms/weatherford-upstairs.srf",
+            "maps/rota3ctf1_4flag.bsp",
+            "maps/rota3ctf1_4flag.map",
+            "maps/space-program.bsp",
+            "maps/space-program.map",
+            "maps/terrain/weatherford.map",
+            "maps/terrain/weatherford.mtl",
+            "maps/terrain/weatherford.obj",
+            "maps/weatherford.bsp",
+            "maps/weatherford.map",
+            "maps/weatherford.prt",
+            "maps/weatherford.srf",
+            "readme.txt",
+            "scripts/loading-program.shader",
+            "scripts/rota3ctf1_4flag.arena",
+            "scripts/rota3ctf1_f4.shader",
+            "scripts/shaderlist.txt",
+            "textures/liquids/kc_fogcloud32.png",
+            "textures/rota3ctf1_f4/e6strimlight_gold.jpg",
+            "textures/rota3ctf1_f4/e6strimlight_gold_blend.jpg",
+            "textures/rota3ctf1_f4/e6strimlight_green.jpg",
+            "textures/rota3ctf1_f4/e6strimlight_green_blend.jpg",
+            "textures/rota3ctf1_f4/e6strimlight_red.jpg",
+            "textures/rota3ctf1_f4/e6strimlight_red_blend.jpg",
+            "textures/rota3ctf1_f4/r_trim_22j_grey.jpg",
+            "textures/rota3ctf1_f4/r_trim_22l_grey.jpg",
+            "textures/rota3ctf1_f4/rostlina_kapradi.tga",
+            "textures/rota3ctf1_f4/rostlina_trava.tga",
+            "textures/rota3ctf1_f4/rota_gold.jpg",
+            "textures/rota3ctf1_f4/rota_green.jpg",
+            "textures/rota3ctf1_f4/rota_red.jpg",
+            "textures/rota3ctf1_f4/rrota_gold.jpg",
+            "textures/rota3ctf1_f4/rrota_green.jpg",
+            "textures/rota3ctf1_f4/rrota_red.jpg",
+            "textures/rota3ctf1_f4/rrrtt_gold.jpg",
+            "textures/rota3ctf1_f4/rrrtt_green.jpg",
+            "textures/rota3ctf1_f4/rrrtt_red.jpg",
+            "textures/rota3ctf1_f4/spina_2.jpg",
+            "textures/rota3ctf1_f4/spina_5.jpg",
+            "textures/rota3ctf1_f4/tr_gold.jpg",
+            "textures/rota3ctf1_f4/tr_green.jpg",
+            "textures/rota3ctf1_f4/tr_red.jpg",
+            "textures/rota3ctf1_f4/u_floor3_pad_8_gold.jpg",
+            "textures/rota3ctf1_f4/u_floor3_pad_8_gold_blend.jpg",
+            "textures/rota3ctf1_f4/u_floor3_pad_8_green.jpg",
+            "textures/rota3ctf1_f4/u_floor3_pad_8_green_blend.jpg",
+            "textures/rota3ctf1_f4/u_floor3_pad_8_red.jpg",
+            "textures/rota3ctf1_f4/u_floor3_pad_8_red_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamp3_gold.jpg",
+            "textures/rota3ctf1_f4/u_lamp3_gold_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamp3_green.jpg",
+            "textures/rota3ctf1_f4/u_lamp3_green_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamp3_red.jpg",
+            "textures/rota3ctf1_f4/u_lamp3_red_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamp4_blue2.jpg",
+            "textures/rota3ctf1_f4/u_lamp4_blue2_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamp4_gold.jpg",
+            "textures/rota3ctf1_f4/u_lamp4_gold_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamp4_green.jpg",
+            "textures/rota3ctf1_f4/u_lamp4_green_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamp4_red.jpg",
+            "textures/rota3ctf1_f4/u_lamp4_red_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamp5_gold.jpg",
+            "textures/rota3ctf1_f4/u_lamp5_gold_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamp5_green.jpg",
+            "textures/rota3ctf1_f4/u_lamp5_green_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamp5_red.jpg",
+            "textures/rota3ctf1_f4/u_lamp5_red_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamplong1_gold.jpg",
+            "textures/rota3ctf1_f4/u_lamplong1_gold_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamplong1_green.jpg",
+            "textures/rota3ctf1_f4/u_lamplong1_green_blend.jpg",
+            "textures/rota3ctf1_f4/u_lamplong1_red.jpg",
+            "textures/rota3ctf1_f4/u_lamplong1_red_blend.jpg",
+            "textures/rota3ctf1_f4/u_py1_gold.jpg",
+            "textures/rota3ctf1_f4/u_py1_gold_glow.jpg",
+            "textures/rota3ctf1_f4/u_py1_green.jpg",
+            "textures/rota3ctf1_f4/u_py1_green_glow.jpg",
+            "textures/rota3ctf1_f4/u_py1_red.jpg",
+            "textures/rota3ctf1_f4/u_py1_red_glow.jpg",
+            "textures/rota3ctf1_f4/u_thinline1_gold.jpg",
+            "textures/rota3ctf1_f4/u_thinline1_gold_blend.jpg",
+            "textures/rota3ctf1_f4/u_thinline1_green.jpg",
+            "textures/rota3ctf1_f4/u_thinline1_green_blend.jpg",
+            "textures/rota3ctf1_f4/u_thinline1_red.jpg",
+            "textures/rota3ctf1_f4/u_thinline1_red_blend.jpg",
+            "textures/rota3ctf1_f4/u_thinline1b_blue.jpg",
+            "textures/rota3ctf1_f4/u_thinline1b_blue_blend.jpg",
+            "textures/rota3ctf1_f4/u_trlight3_gold.jpg",
+            "textures/rota3ctf1_f4/u_trlight3_gold_blend.jpg",
+            "textures/rota3ctf1_f4/u_trlight3_green.jpg",
+            "textures/rota3ctf1_f4/u_trlight3_green_blend.jpg",
+            "textures/rota3ctf1_f4/u_trlight3_red.jpg",
+            "textures/rota3ctf1_f4/u_trlight3_red_blend.jpg"
+          ],
+          "commits": [
+            {
+              "hash": "d5b2aef6f03452df020bbcba41e67e99d299421f",
+              "author": "Brian Cullinan",
+              "date": "2024-09-03T23:55:41.000Z",
+              "message": "rota_4flag",
+              "linesAdded": 200696,
+              "linesDeleted": 27174,
+              "filesChanged": [
+                "env/dm_bk.jpg",
+                "env/dm_dn.jpg",
+                "env/dm_ft.jpg",
+                "env/dm_lf.jpg",
+                "env/dm_rt.jpg",
+                "env/dm_up.jpg",
+                "levelshots/rota3ctf1_4flag.jpg",
+                "maps/objects/autosave/tree-small.2.map",
+                "maps/objects/autosave/tree-small.3.map",
+                "maps/objects/tree-small-eigth.md3",
+                "maps/objects/tree-small-quarter.md3",
+                "maps/objects/tree-small.bsp",
+                "maps/objects/tree-small.map",
+                "maps/platforms/13yard-blitz.bsp",
+                "maps/platforms/13yard-blitz.map",
+                "maps/platforms/13yard-blitz/lightmap_0000.tga",
+                "maps/platforms/13yard-blitz/lightmap_0001.tga",
+                "maps/rooms/weatherford-kitchen-eigth.md3",
+                "maps/rooms/weatherford-kitchen-half.md3",
+                "maps/rooms/weatherford-kitchen-quarter.md3",
+                "maps/rooms/weatherford-kitchen.bsp",
+                "maps/rooms/weatherford-kitchen.map",
+                "maps/rooms/weatherford-kitchen.srf",
+                "maps/rooms/weatherford-rooms-eigth.md3",
+                "maps/rooms/weatherford-rooms-half.md3",
+                "maps/rooms/weatherford-rooms-quarter.md3",
+                "maps/rooms/weatherford-rooms.bsp",
+                "maps/rooms/weatherford-rooms.map",
+                "maps/rooms/weatherford-rooms.srf",
+                "maps/rooms/weatherford-upstairs-eigth.md3",
+                "maps/rooms/weatherford-upstairs-half.md3",
+                "maps/rooms/weatherford-upstairs-quarter.md3",
+                "maps/rooms/weatherford-upstairs.bsp",
+                "maps/rooms/weatherford-upstairs.map",
+                "maps/rooms/weatherford-upstairs.srf",
+                "maps/rota3ctf1_4flag.bsp",
+                "maps/rota3ctf1_4flag.map",
+                "maps/space-program.bsp",
+                "maps/space-program.map",
+                "maps/terrain/weatherford.map",
+                "maps/terrain/weatherford.mtl",
+                "maps/terrain/weatherford.obj",
+                "maps/weatherford.bsp",
+                "maps/weatherford.map",
+                "maps/weatherford.prt",
+                "maps/weatherford.srf",
+                "readme.txt",
+                "scripts/loading-program.shader",
+                "scripts/rota3ctf1_4flag.arena",
+                "scripts/rota3ctf1_f4.shader",
+                "scripts/shaderlist.txt",
+                "textures/liquids/kc_fogcloud32.png",
+                "textures/rota3ctf1_f4/e6strimlight_gold.jpg",
+                "textures/rota3ctf1_f4/e6strimlight_gold_blend.jpg",
+                "textures/rota3ctf1_f4/e6strimlight_green.jpg",
+                "textures/rota3ctf1_f4/e6strimlight_green_blend.jpg",
+                "textures/rota3ctf1_f4/e6strimlight_red.jpg",
+                "textures/rota3ctf1_f4/e6strimlight_red_blend.jpg",
+                "textures/rota3ctf1_f4/r_trim_22j_grey.jpg",
+                "textures/rota3ctf1_f4/r_trim_22l_grey.jpg",
+                "textures/rota3ctf1_f4/rostlina_kapradi.tga",
+                "textures/rota3ctf1_f4/rostlina_trava.tga",
+                "textures/rota3ctf1_f4/rota_gold.jpg",
+                "textures/rota3ctf1_f4/rota_green.jpg",
+                "textures/rota3ctf1_f4/rota_red.jpg",
+                "textures/rota3ctf1_f4/rrota_gold.jpg",
+                "textures/rota3ctf1_f4/rrota_green.jpg",
+                "textures/rota3ctf1_f4/rrota_red.jpg",
+                "textures/rota3ctf1_f4/rrrtt_gold.jpg",
+                "textures/rota3ctf1_f4/rrrtt_green.jpg",
+                "textures/rota3ctf1_f4/rrrtt_red.jpg",
+                "textures/rota3ctf1_f4/spina_2.jpg",
+                "textures/rota3ctf1_f4/spina_5.jpg",
+                "textures/rota3ctf1_f4/tr_gold.jpg",
+                "textures/rota3ctf1_f4/tr_green.jpg",
+                "textures/rota3ctf1_f4/tr_red.jpg",
+                "textures/rota3ctf1_f4/u_floor3_pad_8_gold.jpg",
+                "textures/rota3ctf1_f4/u_floor3_pad_8_gold_blend.jpg",
+                "textures/rota3ctf1_f4/u_floor3_pad_8_green.jpg",
+                "textures/rota3ctf1_f4/u_floor3_pad_8_green_blend.jpg",
+                "textures/rota3ctf1_f4/u_floor3_pad_8_red.jpg",
+                "textures/rota3ctf1_f4/u_floor3_pad_8_red_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamp3_gold.jpg",
+                "textures/rota3ctf1_f4/u_lamp3_gold_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamp3_green.jpg",
+                "textures/rota3ctf1_f4/u_lamp3_green_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamp3_red.jpg",
+                "textures/rota3ctf1_f4/u_lamp3_red_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamp4_blue2.jpg",
+                "textures/rota3ctf1_f4/u_lamp4_blue2_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamp4_gold.jpg",
+                "textures/rota3ctf1_f4/u_lamp4_gold_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamp4_green.jpg",
+                "textures/rota3ctf1_f4/u_lamp4_green_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamp4_red.jpg",
+                "textures/rota3ctf1_f4/u_lamp4_red_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamp5_gold.jpg",
+                "textures/rota3ctf1_f4/u_lamp5_gold_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamp5_green.jpg",
+                "textures/rota3ctf1_f4/u_lamp5_green_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamp5_red.jpg",
+                "textures/rota3ctf1_f4/u_lamp5_red_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamplong1_gold.jpg",
+                "textures/rota3ctf1_f4/u_lamplong1_gold_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamplong1_green.jpg",
+                "textures/rota3ctf1_f4/u_lamplong1_green_blend.jpg",
+                "textures/rota3ctf1_f4/u_lamplong1_red.jpg",
+                "textures/rota3ctf1_f4/u_lamplong1_red_blend.jpg",
+                "textures/rota3ctf1_f4/u_py1_gold.jpg",
+                "textures/rota3ctf1_f4/u_py1_gold_glow.jpg",
+                "textures/rota3ctf1_f4/u_py1_green.jpg",
+                "textures/rota3ctf1_f4/u_py1_green_glow.jpg",
+                "textures/rota3ctf1_f4/u_py1_red.jpg",
+                "textures/rota3ctf1_f4/u_py1_red_glow.jpg",
+                "textures/rota3ctf1_f4/u_thinline1_gold.jpg",
+                "textures/rota3ctf1_f4/u_thinline1_gold_blend.jpg",
+                "textures/rota3ctf1_f4/u_thinline1_green.jpg",
+                "textures/rota3ctf1_f4/u_thinline1_green_blend.jpg",
+                "textures/rota3ctf1_f4/u_thinline1_red.jpg",
+                "textures/rota3ctf1_f4/u_thinline1_red_blend.jpg",
+                "textures/rota3ctf1_f4/u_thinline1b_blue.jpg",
+                "textures/rota3ctf1_f4/u_thinline1b_blue_blend.jpg",
+                "textures/rota3ctf1_f4/u_trlight3_gold.jpg",
+                "textures/rota3ctf1_f4/u_trlight3_gold_blend.jpg",
+                "textures/rota3ctf1_f4/u_trlight3_green.jpg",
+                "textures/rota3ctf1_f4/u_trlight3_green_blend.jpg",
+                "textures/rota3ctf1_f4/u_trlight3_red.jpg",
+                "textures/rota3ctf1_f4/u_trlight3_red_blend.jpg"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "Quake3e": {
+      "projectName": "Quake3e",
+      "localPath": "C:\\Users\\megam\\Quake3e",
+      "lastUpdated": "2026-09-24T02:37:19.854Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2024-09-22": {
+          "date": "2024-09-22",
+          "heatScore": 11,
+          "linesChanged": 20,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/wasm/sys_in.js",
+            "docs/sys_in.js"
+          ],
+          "commits": [
+            {
+              "hash": "f8f50f8974ac51e3ee928e57744626a5bf3df270",
+              "author": "Brian Cullinan",
+              "date": "2024-09-22T05:30:08.000Z",
+              "message": "fps changes incorrectly",
+              "linesAdded": 10,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "code/wasm/sys_in.js",
+                "docs/sys_in.js"
+              ]
+            }
+          ]
+        },
+        "2024-09-11": {
+          "date": "2024-09-11",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/cm_trace.c"
+          ],
+          "commits": [
+            {
+              "hash": "ec93d16a9ad4b1e48518232ad3a0fbf0e05b6256",
+              "author": "Brian Cullinan",
+              "date": "2024-09-11T20:46:22.000Z",
+              "message": "redundant check",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "code/qcommon/cm_trace.c"
+              ]
+            }
+          ]
+        },
+        "2024-09-10": {
+          "date": "2024-09-10",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/cm_load.c"
+          ],
+          "commits": [
+            {
+              "hash": "e2f6326877276c3ccff2dfe90d88bdede9005449",
+              "author": "Brian Cullinan",
+              "date": "2024-09-10T04:58:41.000Z",
+              "message": "bug causing trace not to work",
+              "linesAdded": 1,
+              "linesDeleted": 40,
+              "filesChanged": [
+                "code/qcommon/cm_load.c"
+              ]
+            }
+          ]
+        },
+        "2024-09-09": {
+          "date": "2024-09-09",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/cm_trace.c"
+          ],
+          "commits": [
+            {
+              "hash": "05786ef279eb99f68c3181cba3aee852cf9f5b23",
+              "author": "Brian Cullinan",
+              "date": "2024-09-09T19:21:01.000Z",
+              "message": "fix for skipping skybox around models in clipmap",
+              "linesAdded": 10,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/qcommon/cm_trace.c"
+              ]
+            }
+          ]
+        },
+        "2024-09-08": {
+          "date": "2024-09-08",
+          "heatScore": 22,
+          "linesChanged": 183,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/cm_load.c",
+            "code/qcommon/cm_local.h",
+            "code/qcommon/q_shared.h",
+            "code/renderer/tr_bsp.c",
+            "code/renderer/tr_main.c",
+            "code/renderer/tr_sky.c",
+            "code/renderer/tr_world.c"
+          ],
+          "commits": [
+            {
+              "hash": "f7669e85c4d8d990edc6f77564520d676cb52abd",
+              "author": "Brian Cullinan",
+              "date": "2024-09-08T22:11:47.000Z",
+              "message": "hack for making terrain appear any shape probably won't work on planes",
+              "linesAdded": 149,
+              "linesDeleted": 34,
+              "filesChanged": [
+                "code/qcommon/cm_load.c",
+                "code/qcommon/cm_local.h",
+                "code/qcommon/q_shared.h",
+                "code/renderer/tr_bsp.c",
+                "code/renderer/tr_main.c",
+                "code/renderer/tr_sky.c",
+                "code/renderer/tr_world.c"
+              ]
+            }
+          ]
+        },
+        "2024-09-07": {
+          "date": "2024-09-07",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/client/cl_cgame.c"
+          ],
+          "commits": [
+            {
+              "hash": "0c7d5d03eae31a4edcdb405c21f367718bff0226",
+              "author": "Brian Cullinan",
+              "date": "2024-09-07T17:58:58.000Z",
+              "message": "reminder to add this feature to client load clipmap when not on the same process as a server",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "code/client/cl_cgame.c"
+              ]
+            }
+          ]
+        },
+        "2024-09-06": {
+          "date": "2024-09-06",
+          "heatScore": 19,
+          "linesChanged": 143,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/cm_load.c",
+            "code/qcommon/cm_public.h",
+            "code/qcommon/cm_trace.c",
+            "code/renderer/tr_bsp.c",
+            "code/renderer/tr_shader.c",
+            "code/server/sv_world.c"
+          ],
+          "commits": [
+            {
+              "hash": "81a5b456eb78d13128d95c133f8c259ccacc5560",
+              "author": "Brian Cullinan",
+              "date": "2024-09-06T16:35:33.000Z",
+              "message": "fix for collissions and lightmap fix it probably lightgrid",
+              "linesAdded": 48,
+              "linesDeleted": 95,
+              "filesChanged": [
+                "code/qcommon/cm_load.c",
+                "code/qcommon/cm_public.h",
+                "code/qcommon/cm_trace.c",
+                "code/renderer/tr_bsp.c",
+                "code/renderer/tr_shader.c",
+                "code/server/sv_world.c"
+              ]
+            }
+          ]
+        },
+        "2024-09-05": {
+          "date": "2024-09-05",
+          "heatScore": 23,
+          "linesChanged": 204,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/cm_load.c",
+            "code/qcommon/cm_local.h",
+            "code/qcommon/cm_public.h",
+            "code/qcommon/cm_trace.c",
+            "code/server/sv_game.c",
+            "code/unix/linux_signals.c"
+          ],
+          "commits": [
+            {
+              "hash": "04b10f8ac2a7828328282464803bd193aa65f60f",
+              "author": "Brian Cullinan",
+              "date": "2024-09-05T06:04:24.000Z",
+              "message": "reset clipmap collisions",
+              "linesAdded": 33,
+              "linesDeleted": 171,
+              "filesChanged": [
+                "code/qcommon/cm_load.c",
+                "code/qcommon/cm_local.h",
+                "code/qcommon/cm_public.h",
+                "code/qcommon/cm_trace.c",
+                "code/server/sv_game.c",
+                "code/unix/linux_signals.c"
+              ]
+            }
+          ]
+        },
+        "2024-09-04": {
+          "date": "2024-09-04",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/renderer/tr_shader.c"
+          ],
+          "commits": [
+            {
+              "hash": "adc934539ff879d626e580c1eaeeb436b5344e99",
+              "author": "Brian Cullinan",
+              "date": "2024-09-04T23:34:59.000Z",
+              "message": "fix for textures, from multiworld mod",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/renderer/tr_shader.c"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

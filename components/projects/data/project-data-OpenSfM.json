@@ -1,0 +1,96 @@
+{
+  "projectName": "OpenSfM",
+  "localPath": "C:\\Users\\megam\\OpenSfM",
+  "remoteUrl": "git@github.com:briancullinan2/OpenSfM.git",
+  "lastUpdated": "2026-09-26T05:13:34.946Z",
+  "screenshots": [
+    {
+      "filename": "trackbar_screenshot.jpg",
+      "relativePath": "vcpkg\\buildtrees\\opencv4\\src\\4.12.0-192d7a7a4d.clean\\doc\\py_tutorials\\py_gui\\py_trackbar\\images\\trackbar_screenshot.jpg",
+      "date": "2025-07-02T07:54:13.000Z",
+      "source": "mtime"
+    }
+  ],
+  "dailyHeat": {
+    "2026-06-23": {
+      "date": "2026-06-23",
+      "heatScore": 64,
+      "linesChanged": 666,
+      "commitCount": 2,
+      "filesEdited": [
+        "opensfm/dataset.py",
+        ".gitignore",
+        "doc/source/building.rst",
+        "opensfm/src/CMakeLists.txt",
+        "opensfm/src/bundle/CMakeLists.txt",
+        "opensfm/src/geometry/CMakeLists.txt",
+        "opensfm/src/robust/CMakeLists.txt",
+        "opensfm/src/sfm/CMakeLists.txt",
+        "opensfm/src/sfm/src/tracks_helpers.cc",
+        "opensfm/src/third_party/gtest/gtest/gtest.h",
+        "opensfm/src/third_party/vlfeat/CMakeLists.txt",
+        "setup.py",
+        "viewer/package-lock.json",
+        "viewer/package.json"
+      ],
+      "commits": [
+        {
+          "hash": "68f6b7bd12b36ff0a4b181bb477df06bd757aa97",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T23:56:44.000Z",
+          "message": "mod fix",
+          "linesAdded": 4,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "opensfm/dataset.py"
+          ]
+        },
+        {
+          "hash": "b7ab852a53b3918e275b2077652c616c05536eee",
+          "author": "Brian Cullinan",
+          "date": "2026-06-23T23:06:59.000Z",
+          "message": "i hate cmake",
+          "linesAdded": 641,
+          "linesDeleted": 21,
+          "filesChanged": [
+            ".gitignore",
+            "doc/source/building.rst",
+            "opensfm/src/CMakeLists.txt",
+            "opensfm/src/bundle/CMakeLists.txt",
+            "opensfm/src/geometry/CMakeLists.txt",
+            "opensfm/src/robust/CMakeLists.txt",
+            "opensfm/src/sfm/CMakeLists.txt",
+            "opensfm/src/sfm/src/tracks_helpers.cc",
+            "opensfm/src/third_party/gtest/gtest/gtest.h",
+            "opensfm/src/third_party/vlfeat/CMakeLists.txt",
+            "setup.py",
+            "viewer/package-lock.json",
+            "viewer/package.json"
+          ]
+        }
+      ]
+    },
+    "2017-09-13": {
+      "date": "2017-09-13",
+      "heatScore": 11,
+      "linesChanged": 15,
+      "commitCount": 1,
+      "filesEdited": [
+        "opensfm/src/cmake/FindSuiteSparse.cmake"
+      ],
+      "commits": [
+        {
+          "hash": "42ab7d850ad4c9f080a8fb96fab31704f6956482",
+          "author": "Brian Holt",
+          "date": "2017-09-13T09:52:00.000Z",
+          "message": "Find libcxsparse and add it to link line",
+          "linesAdded": 15,
+          "linesDeleted": 0,
+          "filesChanged": [
+            "opensfm/src/cmake/FindSuiteSparse.cmake"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "yearMonth": "2020-07",
+  "generatedAt": "2026-09-24T02:37:24.714Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2020-07-20": {
+          "date": "2020-07-20",
+          "heatScore": 14,
+          "linesChanged": 73,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/ai_dmq3.c",
+            "code/game/g_cmds.c",
+            "code/game/g_items.c",
+            "code/game/g_team.c"
+          ],
+          "commits": [
+            {
+              "hash": "8826b686ce61cb3708988fd6356207628a277d86",
+              "author": "Eugene",
+              "date": "2020-07-20T11:28:15.000Z",
+              "message": "Fixed compiler warnings",
+              "linesAdded": 34,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "code/game/ai_dmq3.c",
+                "code/game/g_cmds.c",
+                "code/game/g_items.c",
+                "code/game/g_team.c"
+              ]
+            }
+          ]
+        },
+        "2020-07-18": {
+          "date": "2020-07-18",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_items.c",
+            "code/game/g_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "e567b0e17e8f777846ec8598f1ccbf62c1b9d232",
+              "author": "Eugene",
+              "date": "2020-07-18T13:27:48.000Z",
+              "message": "Reset spawn timers on all teamed entities Use \"random\" key when respawning items at warmup end",
+              "linesAdded": 24,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "code/game/g_items.c",
+                "code/game/g_main.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2020-07-20": {
+          "date": "2020-07-20",
+          "heatScore": 14,
+          "linesChanged": 73,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/ai_dmq3.c",
+            "code/game/g_cmds.c",
+            "code/game/g_items.c",
+            "code/game/g_team.c"
+          ],
+          "commits": [
+            {
+              "hash": "8826b686ce61cb3708988fd6356207628a277d86",
+              "author": "Eugene",
+              "date": "2020-07-20T11:28:15.000Z",
+              "message": "Fixed compiler warnings",
+              "linesAdded": 34,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "code/game/ai_dmq3.c",
+                "code/game/g_cmds.c",
+                "code/game/g_items.c",
+                "code/game/g_team.c"
+              ]
+            }
+          ]
+        },
+        "2020-07-18": {
+          "date": "2020-07-18",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_items.c",
+            "code/game/g_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "e567b0e17e8f777846ec8598f1ccbf62c1b9d232",
+              "author": "Eugene",
+              "date": "2020-07-18T13:27:48.000Z",
+              "message": "Reset spawn timers on all teamed entities Use \"random\" key when respawning items at warmup end",
+              "linesAdded": 24,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "code/game/g_items.c",
+                "code/game/g_main.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2020-07-31": {
+          "date": "2020-07-31",
+          "heatScore": 19,
+          "linesChanged": 144,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/notebook.ipynb",
+            "package-lock.json"
+          ],
+          "commits": [
+            {
+              "hash": "06571e1eacc12a5b6fb688b4d79e362d4149ecb7",
+              "author": "megamind",
+              "date": "2020-07-31T04:16:18.000Z",
+              "message": "adding more commands to discord bot rcon script",
+              "linesAdded": 70,
+              "linesDeleted": 74,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/notebook.ipynb",
+                "package-lock.json"
+              ]
+            }
+          ]
+        },
+        "2020-07-30": {
+          "date": "2020-07-30",
+          "heatScore": 14,
+          "linesChanged": 74,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e5792f804ed73fef1be01ea2963c4a72346cb01b",
+              "author": "megamind",
+              "date": "2020-07-30T06:00:44.000Z",
+              "message": "adding more commands to discord bot rcon script",
+              "linesAdded": 34,
+              "linesDeleted": 40,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-07-29": {
+          "date": "2020-07-29",
+          "heatScore": 55,
+          "linesChanged": 689,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Core/kernels.ipynb",
+            "Games/quake3 server connector.ipynb",
+            "Utilities/wget.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "3a13486ba3940768df64836956244ac314da4dd9",
+              "author": "megamind",
+              "date": "2020-07-29T18:37:36.000Z",
+              "message": "adding more commands to discord bot rcon script",
+              "linesAdded": 303,
+              "linesDeleted": 386,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Core/kernels.ipynb",
+                "Games/quake3 server connector.ipynb",
+                "Utilities/wget.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-07-03": {
+          "date": "2020-07-03",
+          "heatScore": 14,
+          "linesChanged": 71,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1bc36f69858cfa91cbdfadbd7b3ab71d30ae0e49",
+              "author": "megamind",
+              "date": "2020-07-03T02:31:46.000Z",
+              "message": "Regex bug in challenge command",
+              "linesAdded": 37,
+              "linesDeleted": 34,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-07-01": {
+          "date": "2020-07-01",
+          "heatScore": 100,
+          "linesChanged": 2428,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "ad2176923b59748f214f9fdc1a0f9161c12f4c19",
+              "author": "megamind",
+              "date": "2020-07-01T21:56:36.000Z",
+              "message": "remote ssh command",
+              "linesAdded": 292,
+              "linesDeleted": 2136,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

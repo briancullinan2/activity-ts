@@ -1,0 +1,659 @@
+{
+  "yearMonth": "2019-06",
+  "generatedAt": "2026-09-24T02:37:24.727Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-06-27": {
+          "date": "2019-06-27",
+          "heatScore": 14,
+          "linesChanged": 66,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_combat.c",
+            "code/game/g_team.c"
+          ],
+          "commits": [
+            {
+              "hash": "337489a0dc744c6c41c4e320beb95a32ed4efb9f",
+              "author": "Eugene C",
+              "date": "2019-06-27T13:47:56.000Z",
+              "message": "Merge pull request #7 from KuehnhammerTobias/master",
+              "linesAdded": 32,
+              "linesDeleted": 34,
+              "filesChanged": [
+                "code/game/g_combat.c",
+                "code/game/g_team.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-06-27": {
+          "date": "2019-06-27",
+          "heatScore": 14,
+          "linesChanged": 66,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_combat.c",
+            "code/game/g_team.c"
+          ],
+          "commits": [
+            {
+              "hash": "337489a0dc744c6c41c4e320beb95a32ed4efb9f",
+              "author": "Eugene C",
+              "date": "2019-06-27T13:47:56.000Z",
+              "message": "Merge pull request #7 from KuehnhammerTobias/master",
+              "linesAdded": 32,
+              "linesDeleted": 34,
+              "filesChanged": [
+                "code/game/g_combat.c",
+                "code/game/g_team.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2019-06-30": {
+          "date": "2019-06-30",
+          "heatScore": 16,
+          "linesChanged": 102,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/kernels.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "90a683643287fdd807f5ce3e8ac5913755033a13",
+              "author": "Brian Cullinan",
+              "date": "2019-06-30T23:59:55.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 79,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "Core/kernels.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-29": {
+          "date": "2019-06-29",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/kernels.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "8151b86176e1b460727e8373e21c85a2557fbd27",
+              "author": "Brian Cullinan",
+              "date": "2019-06-29T21:51:06.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 21,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "Core/kernels.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-28": {
+          "date": "2019-06-28",
+          "heatScore": 47,
+          "linesChanged": 563,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/kernels.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "33844b0fea1811bbef74273f13a09e937a073d6e",
+              "author": "Brian Cullinan",
+              "date": "2019-06-28T23:49:49.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 325,
+              "linesDeleted": 238,
+              "filesChanged": [
+                "Core/kernels.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-27": {
+          "date": "2019-06-27",
+          "heatScore": 28,
+          "linesChanged": 280,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/kernels.ipynb",
+            "Untitled.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "6fec6802d8ebb9de233b402af022c4ef85546df5",
+              "author": "Brian Cullinan",
+              "date": "2019-06-27T23:51:23.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 136,
+              "linesDeleted": 144,
+              "filesChanged": [
+                "Core/kernels.ipynb",
+                "Untitled.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-26": {
+          "date": "2019-06-26",
+          "heatScore": 45,
+          "linesChanged": 538,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/aspects.ipynb",
+            "Core/files.ipynb",
+            "Core/import.ipynb",
+            "Core/index.js",
+            "Core/notebook.ipynb",
+            "Core/syntax.ipynb",
+            "Frameworks/aspect oriented.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f94f2c03d95fdecfcf6b70539f1d9415b8da630f",
+              "author": "Brian Cullinan",
+              "date": "2019-06-26T06:54:55.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 361,
+              "linesDeleted": 177,
+              "filesChanged": [
+                "Core/aspects.ipynb",
+                "Core/files.ipynb",
+                "Core/import.ipynb",
+                "Core/index.js",
+                "Core/notebook.ipynb",
+                "Core/syntax.ipynb",
+                "Frameworks/aspect oriented.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-25": {
+          "date": "2019-06-25",
+          "heatScore": 11,
+          "linesChanged": 26,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/notebook.ipynb",
+            "Core/syntax.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "798139f3bea9501f8c7309df0cb604a26b2c2b06",
+              "author": "Brian Cullinan",
+              "date": "2019-06-25T21:38:16.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 15,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "Core/notebook.ipynb",
+                "Core/syntax.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-24": {
+          "date": "2019-06-24",
+          "heatScore": 11,
+          "linesChanged": 19,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/interpret all notebooks.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "25bddc7cabefd7de50cc679939a6537619b40095",
+              "author": "Brian Cullinan",
+              "date": "2019-06-24T22:53:28.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 2,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "Core/interpret all notebooks.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-23": {
+          "date": "2019-06-23",
+          "heatScore": 32,
+          "linesChanged": 333,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/documentation.ipynb",
+            "Marketing/study sauce.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "10ce5586b740241a10d9f3726d18a85eeefc3b20",
+              "author": "Brian Cullinan",
+              "date": "2019-06-23T17:30:22.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 309,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "Analytics/documentation.ipynb",
+                "Marketing/study sauce.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-21": {
+          "date": "2019-06-21",
+          "heatScore": 77,
+          "linesChanged": 1014,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/movie database.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Utilities/google sheets.ipynb",
+            "Utilities/levenshtein.ipynb",
+            "Utilities/openssl.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "dea127196b4542e28b24953da3a64416df15c3e5",
+              "author": "Brian Cullinan",
+              "date": "2019-06-21T21:22:42.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 434,
+              "linesDeleted": 580,
+              "filesChanged": [
+                "Analytics/movie database.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Utilities/google sheets.ipynb",
+                "Utilities/levenshtein.ipynb",
+                "Utilities/openssl.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-20": {
+          "date": "2019-06-20",
+          "heatScore": 35,
+          "linesChanged": 385,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/rpc.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Utilities/google sheets.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "a652d7cd1bcca2386fd822cad314cebb0e654da0",
+              "author": "Brian Cullinan",
+              "date": "2019-06-20T00:35:18.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 357,
+              "linesDeleted": 28,
+              "filesChanged": [
+                "Cloud Services/rpc.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Utilities/google sheets.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-06-14": {
+          "date": "2019-06-14",
+          "heatScore": 12,
+          "linesChanged": 32,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "a61d1d5ba508e47b2150a556dabb47cb8bf97a5c",
+              "author": "Brian Cullinan",
+              "date": "2019-06-14T16:19:17.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 19,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-13": {
+          "date": "2019-06-13",
+          "heatScore": 32,
+          "linesChanged": 336,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/movie database.ipynb",
+            "Cloud Services/google rpc.ipynb",
+            "Cloud Services/rpc.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Marketing/study sauce.ipynb",
+            "Utilities/google sheets.ipynb",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "99e6f6c0f03d778063e153455f55f239cc12eb97",
+              "author": "Brian Cullinan",
+              "date": "2019-06-13T19:13:15.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 218,
+              "linesDeleted": 118,
+              "filesChanged": [
+                "Analytics/movie database.ipynb",
+                "Cloud Services/google rpc.ipynb",
+                "Cloud Services/rpc.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Marketing/study sauce.ipynb",
+                "Utilities/google sheets.ipynb",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-06-11": {
+          "date": "2019-06-11",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "9336f837e897ede39923bf101205223febdfe37d",
+              "author": "Brian Cullinan",
+              "date": "2019-06-11T07:08:21.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-10": {
+          "date": "2019-06-10",
+          "heatScore": 100,
+          "linesChanged": 35481,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/movie database.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f1380e4185902f87e70f597697f6439906d6bc57",
+              "author": "Brian Cullinan",
+              "date": "2019-06-10T20:07:14.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 66,
+              "linesDeleted": 35415,
+              "filesChanged": [
+                "Analytics/movie database.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-09": {
+          "date": "2019-06-09",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "Marketing/Convert Spreadsheet.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "6ad7815a86dcd7c714d3094fd54763de406e1414",
+              "author": "Brian Cullinan",
+              "date": "2019-06-09T08:23:32.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 1,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "Marketing/Convert Spreadsheet.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-08": {
+          "date": "2019-06-08",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google storage api.ipynb",
+            "Cloud Services/rpc.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "ce98b4b3c18c2e713015f182dcba564ad1db9a28",
+              "author": "Brian Cullinan",
+              "date": "2019-06-08T22:15:10.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "Cloud Services/google storage api.ipynb",
+                "Cloud Services/rpc.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-07": {
+          "date": "2019-06-07",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/rpc.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "a76716870ba0bc29f9bd49c7e3741a36a5f92b1b",
+              "author": "Brian Cullinan",
+              "date": "2019-06-07T18:08:26.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 11,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "Cloud Services/rpc.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-06": {
+          "date": "2019-06-06",
+          "heatScore": 13,
+          "linesChanged": 45,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/gulp.ipynb",
+            "Utilities/file system.ipynb",
+            "Utilities/notebook.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "450165397bbed4c890061f9320ba410206911a7c",
+              "author": "Brian Cullinan",
+              "date": "2019-06-06T22:04:41.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 21,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "Frameworks/gulp.ipynb",
+                "Utilities/file system.ipynb",
+                "Utilities/notebook.ipynb"
+              ]
+            }
+          ]
+        },
+        "2019-06-05": {
+          "date": "2019-06-05",
+          "heatScore": 63,
+          "linesChanged": 803,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/code analysis.ipynb",
+            "Cloud Services/google rpc.ipynb",
+            "Cloud Services/rpc.ipynb",
+            "Frameworks/de-linting.ipynb",
+            "Frameworks/gulp.ipynb",
+            "Utilities/notebook.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "f0999cce0e0b5b5509d377c62087f7b3ae8bc529",
+              "author": "Brian Cullinan",
+              "date": "2019-06-05T23:45:01.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 612,
+              "linesDeleted": 191,
+              "filesChanged": [
+                "Analytics/code analysis.ipynb",
+                "Cloud Services/google rpc.ipynb",
+                "Cloud Services/rpc.ipynb",
+                "Frameworks/de-linting.ipynb",
+                "Frameworks/gulp.ipynb",
+                "Utilities/notebook.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-06-04": {
+          "date": "2019-06-04",
+          "heatScore": 65,
+          "linesChanged": 834,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/code analysis.ipynb",
+            "Cloud Services/google rpc.ipynb",
+            "Cloud Services/rpc.ipynb",
+            "Frameworks/de-linting.ipynb",
+            "Marketing/Convert Spreadsheet.ipynb",
+            "Selenium/utilities.ipynb",
+            "Utilities/notebook.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "e028d8f24e3269d5f64f35b9d1ffafcd735d334b",
+              "author": "Brian Cullinan",
+              "date": "2019-06-04T23:36:16.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 371,
+              "linesDeleted": 463,
+              "filesChanged": [
+                "Analytics/code analysis.ipynb",
+                "Cloud Services/google rpc.ipynb",
+                "Cloud Services/rpc.ipynb",
+                "Frameworks/de-linting.ipynb",
+                "Marketing/Convert Spreadsheet.ipynb",
+                "Selenium/utilities.ipynb",
+                "Utilities/notebook.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-06-03": {
+          "date": "2019-06-03",
+          "heatScore": 12,
+          "linesChanged": 32,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google rpc.ipynb",
+            "Cloud Services/rpc.ipynb",
+            "Core/import notebook.ipynb",
+            "Core/interpret all notebooks.ipynb",
+            "Utilities/notebook.ipynb",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "d40c20af946d118f618bf24ce05ce4d71574d812",
+              "author": "Brian Cullinan",
+              "date": "2019-06-03T23:04:36.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 17,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "Cloud Services/google rpc.ipynb",
+                "Cloud Services/rpc.ipynb",
+                "Core/import notebook.ipynb",
+                "Core/interpret all notebooks.ipynb",
+                "Utilities/notebook.ipynb",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2019-06-01": {
+          "date": "2019-06-01",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/notebook.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "67372d4429d6c75af6f768c0695c6a01112e1ddd",
+              "author": "Brian Cullinan",
+              "date": "2019-06-01T23:28:17.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "Utilities/notebook.ipynb"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

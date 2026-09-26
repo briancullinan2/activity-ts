@@ -1,0 +1,323 @@
+{
+  "yearMonth": "2018-02",
+  "generatedAt": "2026-09-24T02:37:24.737Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2018-02-28": {
+          "date": "2018-02-28",
+          "heatScore": 16,
+          "linesChanged": 97,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_localents.c"
+          ],
+          "commits": [
+            {
+              "hash": "b1004b4d7c7fc4c1a0abe2aba6c6acc04ed05c60",
+              "author": "ec-",
+              "date": "2018-02-28T12:35:14.000Z",
+              "message": "Emit polyverts for rocket trails and blood trains, should improve performance and release more localentities as well Increase limit of localentities to 2048",
+              "linesAdded": 85,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "code/cgame/cg_localents.c"
+              ]
+            }
+          ]
+        },
+        "2018-02-14": {
+          "date": "2018-02-14",
+          "heatScore": 13,
+          "linesChanged": 45,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/ai_chat.c",
+            "code/game/ai_cmd.c",
+            "code/game/ai_dmq3.c",
+            "code/game/ai_team.c",
+            "code/q3_ui/ui_demo2.c",
+            "code/q3_ui/ui_gameinfo.c",
+            "code/q3_ui/ui_startserver.c"
+          ],
+          "commits": [
+            {
+              "hash": "7ab9050bdb179e980df31383e0b882266a2b58f4",
+              "author": "ec-",
+              "date": "2018-02-14T20:24:10.000Z",
+              "message": "Replaced strncpy() with Q_strncpyz() Increased some UI limits",
+              "linesAdded": 21,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "code/game/ai_chat.c",
+                "code/game/ai_cmd.c",
+                "code/game/ai_dmq3.c",
+                "code/game/ai_team.c",
+                "code/q3_ui/ui_demo2.c",
+                "code/q3_ui/ui_gameinfo.c",
+                "code/q3_ui/ui_startserver.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2018-02-28": {
+          "date": "2018-02-28",
+          "heatScore": 16,
+          "linesChanged": 97,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_localents.c"
+          ],
+          "commits": [
+            {
+              "hash": "b1004b4d7c7fc4c1a0abe2aba6c6acc04ed05c60",
+              "author": "ec-",
+              "date": "2018-02-28T12:35:14.000Z",
+              "message": "Emit polyverts for rocket trails and blood trains, should improve performance and release more localentities as well Increase limit of localentities to 2048",
+              "linesAdded": 85,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "code/cgame/cg_localents.c"
+              ]
+            }
+          ]
+        },
+        "2018-02-14": {
+          "date": "2018-02-14",
+          "heatScore": 13,
+          "linesChanged": 45,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/ai_chat.c",
+            "code/game/ai_cmd.c",
+            "code/game/ai_dmq3.c",
+            "code/game/ai_team.c",
+            "code/q3_ui/ui_demo2.c",
+            "code/q3_ui/ui_gameinfo.c",
+            "code/q3_ui/ui_startserver.c"
+          ],
+          "commits": [
+            {
+              "hash": "7ab9050bdb179e980df31383e0b882266a2b58f4",
+              "author": "ec-",
+              "date": "2018-02-14T20:24:10.000Z",
+              "message": "Replaced strncpy() with Q_strncpyz() Increased some UI limits",
+              "linesAdded": 21,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "code/game/ai_chat.c",
+                "code/game/ai_cmd.c",
+                "code/game/ai_dmq3.c",
+                "code/game/ai_team.c",
+                "code/q3_ui/ui_demo2.c",
+                "code/q3_ui/ui_gameinfo.c",
+                "code/q3_ui/ui_startserver.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "flagstaff-happy": {
+      "projectName": "flagstaff-happy",
+      "localPath": "C:\\Users\\megam\\Documents\\Collections\\flagstaff-happy",
+      "remoteUrl": "git@gist.github.com:13902b17bbf8f77f4a3f889923af787a.git",
+      "lastUpdated": "2026-09-24T02:37:02.354Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2018-02-17": {
+          "date": "2018-02-17",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            ".gistup"
+          ],
+          "commits": [
+            {
+              "hash": "c68a028457248674da6ef754af11c88f05d7cd12",
+              "author": "Brian Cullinan",
+              "date": "2018-02-17T04:24:45.000Z",
+              "message": "Merge branch 'master' of gist.github.com:13902b17bbf8f77f4a3f889923af787a",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                ".gistup"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2018-02-28": {
+          "date": "2018-02-28",
+          "heatScore": 100,
+          "linesChanged": 56046,
+          "commitCount": 1,
+          "filesEdited": [
+            "Frameworks/cached-permissions.json",
+            "Selenium/What is Selenium.ipynb",
+            "Selenium/facebook data.ipynb",
+            "Selenium/webdriver.ipynb",
+            "Utilities/google maps.ipynb",
+            "Utilities/scraping.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c8d0e858b1fe03b94dd48059134ec4df183bd0b6",
+              "author": "Brian Cullinan",
+              "date": "2018-02-28T19:24:31.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 527,
+              "linesDeleted": 55519,
+              "filesChanged": [
+                "Frameworks/cached-permissions.json",
+                "Selenium/What is Selenium.ipynb",
+                "Selenium/facebook data.ipynb",
+                "Selenium/webdriver.ipynb",
+                "Utilities/google maps.ipynb",
+                "Utilities/scraping.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-02-23": {
+          "date": "2018-02-23",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "Selenium/orchestration.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "4398f38f7905098f7ab45b47c10da28b6ffa4b63",
+              "author": "Brian Cullinan",
+              "date": "2018-02-23T21:28:34.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "Selenium/orchestration.ipynb"
+              ]
+            }
+          ]
+        },
+        "2018-02-14": {
+          "date": "2018-02-14",
+          "heatScore": 54,
+          "linesChanged": 666,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/{google.ipynb => firebase.ipynb}",
+            "Frameworks/cached-permissions.json",
+            "Frameworks/d3 dates.ipynb",
+            "Frameworks/fizz buzz.ipynb",
+            "Frameworks/rpc.ipynb",
+            "Selenium/data collection.ipynb",
+            "Utilities/google scheduling.ipynb",
+            "firebase.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "c213605b73e9ecb96c3e48096f110fa0760efd7f",
+              "author": "Brian Cullinan",
+              "date": "2018-02-14T17:48:15.000Z",
+              "message": "\"auto-commit\"",
+              "linesAdded": 259,
+              "linesDeleted": 407,
+              "filesChanged": [
+                "Cloud Services/{google.ipynb => firebase.ipynb}",
+                "Frameworks/cached-permissions.json",
+                "Frameworks/d3 dates.ipynb",
+                "Frameworks/fizz buzz.ipynb",
+                "Frameworks/rpc.ipynb",
+                "Selenium/data collection.ipynb",
+                "Utilities/google scheduling.ipynb",
+                "firebase.json",
+                "package.json"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "three.js": {
+      "projectName": "three.js",
+      "localPath": "C:\\Users\\megam\\three.js",
+      "remoteUrl": "git@github.com:mrdoob/three.js.git",
+      "lastUpdated": "2026-09-24T02:37:22.748Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2018-02-23": {
+          "date": "2018-02-23",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/renderers/webvr/WebVRManager.js"
+          ],
+          "commits": [
+            {
+              "hash": "3ac9c87bd93f11d0fdca9055b187b68b90a5d545",
+              "author": "Brian Peiris",
+              "date": "2018-02-23T20:23:49.000Z",
+              "message": "formatting",
+              "linesAdded": 3,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "src/renderers/webvr/WebVRManager.js"
+              ]
+            }
+          ]
+        },
+        "2018-02-08": {
+          "date": "2018-02-08",
+          "heatScore": 11,
+          "linesChanged": 25,
+          "commitCount": 1,
+          "filesEdited": [
+            "examples/webvr_sandbox.html",
+            "src/renderers/webvr/WebVRManager.js"
+          ],
+          "commits": [
+            {
+              "hash": "59c50e7bac2c71463a95a57960118680d1c16d60",
+              "author": "Brian Peiris",
+              "date": "2018-02-08T22:41:40.000Z",
+              "message": "Fix poseObject transform (#2)",
+              "linesAdded": 18,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "examples/webvr_sandbox.html",
+                "src/renderers/webvr/WebVRManager.js"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

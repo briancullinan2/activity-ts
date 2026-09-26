@@ -1,0 +1,720 @@
+{
+  "yearMonth": "2025-12",
+  "generatedAt": "2026-09-24T02:37:24.786Z",
+  "username": "briancullinan2",
+  "projects": {
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-12-31": {
+          "date": "2025-12-31",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/clip_model.py",
+            "comfy/clip_vision.py"
+          ],
+          "commits": [
+            {
+              "hash": "d622a618749b603531b753cef286a6051dd85565",
+              "author": "comfyanonymous",
+              "date": "2025-12-31T22:38:36.000Z",
+              "message": "Refactor: move clip_preprocess to comfy.clip_model (#11586)",
+              "linesAdded": 21,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "comfy/clip_model.py",
+                "comfy/clip_vision.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-30": {
+          "date": "2025-12-30",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/context_windows.py"
+          ],
+          "commits": [
+            {
+              "hash": "178bdc5e14ec0a55e401c509719e33773cc9b565",
+              "author": "drozbay",
+              "date": "2025-12-30T22:40:42.000Z",
+              "message": "Add handling for vace_context in context windows (#11386)",
+              "linesAdded": 6,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/context_windows.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-29": {
+          "date": "2025-12-29",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "0e6221cc79a3f3cbf0e15a8321bfe75fcffbe667",
+              "author": "comfyanonymous",
+              "date": "2025-12-29T23:26:42.000Z",
+              "message": "Add some warnings for pin and unpin errors. (#11561)",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-27": {
+          "date": "2025-12-27",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "2943093a5310fc96aa010a3c68c04f7c16f58a9e",
+              "author": "comfyanonymous",
+              "date": "2025-12-27T23:54:15.000Z",
+              "message": "Enable async offload by default for AMD. (#11534)",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-26": {
+          "date": "2025-12-26",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "manager_requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "16fb6849d296259fd2bf106a6f894650d9a12072",
+              "author": "Dr.Lt.Data",
+              "date": "2025-12-26T23:55:59.000Z",
+              "message": "bump comfyui_manager version to the 4.0.4 (#11521)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "manager_requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-12-25": {
+          "date": "2025-12-25",
+          "heatScore": 11,
+          "linesChanged": 21,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_custom_sampler.py"
+          ],
+          "commits": [
+            {
+              "hash": "532e2850794c7b497174a0a42ac0cb1fe5b62499",
+              "author": "comfyanonymous",
+              "date": "2025-12-25T00:09:37.000Z",
+              "message": "Add a ManualSigmas node. (#11499)",
+              "linesAdded": 21,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_custom_sampler.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-24": {
+          "date": "2025-12-24",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "4f067b07fb33cc1b61d91aec73ca968ba7d9c29a",
+              "author": "ComfyUI Wiki",
+              "date": "2025-12-24T23:54:21.000Z",
+              "message": "chore: update workflow templates to v0.7.64 (#11496)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-12-23": {
+          "date": "2025-12-23",
+          "heatScore": 11,
+          "linesChanged": 25,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/apis/gemini_api.py",
+            "comfy_api_nodes/nodes_gemini.py"
+          ],
+          "commits": [
+            {
+              "hash": "f4f44bb8073d02597aca61193fec6143292a0b88",
+              "author": "Alexander Piskun",
+              "date": "2025-12-23T20:10:27.000Z",
+              "message": "api-nodes: use new custom endpoint for Nano Banana (#11311)",
+              "linesAdded": 16,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "comfy_api_nodes/apis/gemini_api.py",
+                "comfy_api_nodes/nodes_gemini.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-22": {
+          "date": "2025-12-22",
+          "heatScore": 10,
+          "linesChanged": 12,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_custom_sampler.py"
+          ],
+          "commits": [
+            {
+              "hash": "33aa808713f7c36cd9476c53b8b67c745e9bc107",
+              "author": "comfyanonymous",
+              "date": "2025-12-22T21:43:24.000Z",
+              "message": "Make denoised output on custom sampler nodes work with nested tensors. (#11471)",
+              "linesAdded": 10,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy_extras/nodes_custom_sampler.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-21": {
+          "date": "2025-12-21",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "807538fe6c66bca8c91edbad14414fb4e109cbde",
+              "author": "comfyanonymous",
+              "date": "2025-12-21T01:02:02.000Z",
+              "message": "Core release process. (#11447)",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2025-12-20": {
+          "date": "2025-12-20",
+          "heatScore": 12,
+          "linesChanged": 35,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/nodes_topaz.py"
+          ],
+          "commits": [
+            {
+              "hash": "bbb11e26081977474eec72ce36d12ec778b5a9ea",
+              "author": "Alexander Piskun",
+              "date": "2025-12-20T16:48:28.000Z",
+              "message": "fix(api-nodes): Topaz 4k video upscaling (#11438)",
+              "linesAdded": 28,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "comfy_api_nodes/nodes_topaz.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-19": {
+          "date": "2025-12-19",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "cc4ddba1b68abdc64ef5a701fd0571fcf2faf98d",
+              "author": "BradPepersAMD",
+              "date": "2025-12-19T22:01:50.000Z",
+              "message": "Allow enabling use of MIOpen by setting COMFYUI_ENABLE_MIOPEN=1 as an env var (#11366)",
+              "linesAdded": 5,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-18": {
+          "date": "2025-12-18",
+          "heatScore": 12,
+          "linesChanged": 39,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py",
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "6a2678ac65ff690e24771a4c64ce96f7a9824fa4",
+              "author": "comfyanonymous",
+              "date": "2025-12-18T23:22:38.000Z",
+              "message": "Trim/pad channels in VAE code. (#11406)",
+              "linesAdded": 27,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "comfy/sd.py",
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-17": {
+          "date": "2025-12-17",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/k_diffusion/sampling.py"
+          ],
+          "commits": [
+            {
+              "hash": "5d9ad0c6bf177095aea5026cd872b1faf873669b",
+              "author": "chaObserv",
+              "date": "2025-12-17T18:57:40.000Z",
+              "message": "Fix the last step with non-zero sigma in sa_solver (#11380)",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/k_diffusion/sampling.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-16": {
+          "date": "2025-12-16",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/qwen_image/model.py",
+            "comfy/model_detection.py"
+          ],
+          "commits": [
+            {
+              "hash": "ffdd53b327f7ebd48cf81a1c8b06d846cf354a66",
+              "author": "comfyanonymous",
+              "date": "2025-12-16T22:03:17.000Z",
+              "message": "Check state dict key to auto enable the index_timestep_zero ref method. (#11362)",
+              "linesAdded": 6,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/ldm/qwen_image/model.py",
+                "comfy/model_detection.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-15": {
+          "date": "2025-12-15",
+          "heatScore": 58,
+          "linesChanged": 730,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "execution.py",
+            "latent_preview.py",
+            "tests-unit/execution_test/preview_method_override_test.py",
+            "tests/execution/test_preview_method.py"
+          ],
+          "commits": [
+            {
+              "hash": "dbd330454ada04609c69fda2ae7c002d7ea05f67",
+              "author": "Dr.Lt.Data",
+              "date": "2025-12-15T23:57:39.000Z",
+              "message": "feat(preview): add per-queue live preview method override (#11261)",
+              "linesAdded": 730,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "execution.py",
+                "latent_preview.py",
+                "tests-unit/execution_test/preview_method_override_test.py",
+                "tests/execution/test_preview_method.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-14": {
+          "date": "2025-12-14",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "5ac3b26a7dedb9b13c681abe8733c54f13353273",
+              "author": "comfyanonymous",
+              "date": "2025-12-14T09:02:50.000Z",
+              "message": "Update warning for old pytorch version. (#11319)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-13": {
+          "date": "2025-12-13",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ops.py",
+            "comfy/utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "971cefe7d4ca15c949d5d901a663cb66562a4f10",
+              "author": "comfyanonymous",
+              "date": "2025-12-13T23:45:23.000Z",
+              "message": "Fix pytorch warnings. (#11314)",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/ops.py",
+                "comfy/utils.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-12": {
+          "date": "2025-12-12",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ops.py"
+          ],
+          "commits": [
+            {
+              "hash": "c5a47a16924e1be96241553a1448b298e57e50a1",
+              "author": "comfyanonymous",
+              "date": "2025-12-12T16:49:35.000Z",
+              "message": "Fix bias dtype issue in mixed ops. (#11293)",
+              "linesAdded": 10,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/ops.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-11": {
+          "date": "2025-12-11",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            ".ci/update_windows/update.py"
+          ],
+          "commits": [
+            {
+              "hash": "338d9ae3bbf24a9a06996cdf1c2f228acc65fd96",
+              "author": "comfyanonymous",
+              "date": "2025-12-11T23:56:33.000Z",
+              "message": "Make portable updater work with repos in unmerged state. (#11281)",
+              "linesAdded": 10,
+              "linesDeleted": 0,
+              "filesChanged": [
+                ".ci/update_windows/update.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-10": {
+          "date": "2025-12-10",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_io.py"
+          ],
+          "commits": [
+            {
+              "hash": "36357bbcc3c515e37a742457a2b2ab4b7ccc17a8",
+              "author": "Alexander Piskun",
+              "date": "2025-12-10T19:55:09.000Z",
+              "message": "process the NodeV1 dict results correctly (#11237)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy_api/latest/_io.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-09": {
+          "date": "2025-12-09",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfyui_version.py",
+            "pyproject.toml"
+          ],
+          "commits": [
+            {
+              "hash": "fc657f471a29d07696ca16b566000e8e555d67d1",
+              "author": "comfyanonymous",
+              "date": "2025-12-09T23:22:09.000Z",
+              "message": "ComfyUI version v0.4.0",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfyui_version.py",
+                "pyproject.toml"
+              ]
+            }
+          ]
+        },
+        "2025-12-08": {
+          "date": "2025-12-08",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_patcher.py"
+          ],
+          "commits": [
+            {
+              "hash": "3b0368aa34182fc7c97de92d59b609c77138def2",
+              "author": "comfyanonymous",
+              "date": "2025-12-08T22:38:36.000Z",
+              "message": "Fix regression. (#11194)",
+              "linesAdded": 3,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/model_patcher.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-07": {
+          "date": "2025-12-07",
+          "heatScore": 12,
+          "linesChanged": 42,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/lumina/model.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py"
+          ],
+          "commits": [
+            {
+              "hash": "56fa7dbe380cb5591c5542f8aa51ce2fc26beedf",
+              "author": "comfyanonymous",
+              "date": "2025-12-07T12:44:55.000Z",
+              "message": "Properly load the newbie diffusion model. (#11172)",
+              "linesAdded": 42,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/ldm/lumina/model.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-06": {
+          "date": "2025-12-06",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_patcher.py"
+          ],
+          "commits": [
+            {
+              "hash": "4086acf3c2f0ca3a8861b04f6179fa9f908e3e25",
+              "author": "rattus",
+              "date": "2025-12-06T23:42:09.000Z",
+              "message": "Fix on-load VRAM OOM (#11144)",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/model_patcher.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-05": {
+          "date": "2025-12-05",
+          "heatScore": 11,
+          "linesChanged": 28,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "manager_requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "bed12674a1d2c4bfdfbdd098686390f807996c90",
+              "author": "Dr.Lt.Data",
+              "date": "2025-12-05T23:45:38.000Z",
+              "message": "docs: add ComfyUI-Manager documentation and update to v4.0.3b4 (#11133)",
+              "linesAdded": 27,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md",
+                "manager_requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-12-04": {
+          "date": "2025-12-04",
+          "heatScore": 28,
+          "linesChanged": 281,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/util/__init__.py",
+            "comfy_api_nodes/util/_helpers.py",
+            "comfy_api_nodes/util/client.py",
+            "comfy_api_nodes/util/conversions.py",
+            "comfy_api_nodes/util/download_helpers.py",
+            "comfy_api_nodes/util/request_logger.py",
+            "comfy_api_nodes/util/upload_helpers.py",
+            "comfy_api_nodes/util/validation_utils.py"
+          ],
+          "commits": [
+            {
+              "hash": "3c8456223c5f6a41af7d99219b391c8c58acb552",
+              "author": "Alexander Piskun",
+              "date": "2025-12-04T22:05:28.000Z",
+              "message": "[API Nodes]: fixes and refactor (#11104)",
+              "linesAdded": 146,
+              "linesDeleted": 135,
+              "filesChanged": [
+                "comfy_api_nodes/util/__init__.py",
+                "comfy_api_nodes/util/_helpers.py",
+                "comfy_api_nodes/util/client.py",
+                "comfy_api_nodes/util/conversions.py",
+                "comfy_api_nodes/util/download_helpers.py",
+                "comfy_api_nodes/util/request_logger.py",
+                "comfy_api_nodes/util/upload_helpers.py",
+                "comfy_api_nodes/util/validation_utils.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-03": {
+          "date": "2025-12-03",
+          "heatScore": 19,
+          "linesChanged": 138,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_ui.py",
+            "comfy_extras/nodes_load_3d.py"
+          ],
+          "commits": [
+            {
+              "hash": "440268d3940eb14a01595439bbc05c4aacde9c72",
+              "author": "Alexander Piskun",
+              "date": "2025-12-03T21:52:31.000Z",
+              "message": "convert nodes_load_3d.py to V3 schema (#10990)",
+              "linesAdded": 70,
+              "linesDeleted": 68,
+              "filesChanged": [
+                "comfy_api/latest/_ui.py",
+                "comfy_extras/nodes_load_3d.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-02": {
+          "date": "2025-12-02",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_input_impl/video_types.py",
+            "comfy_extras/nodes_video.py"
+          ],
+          "commits": [
+            {
+              "hash": "028e17dd7a5e54acc8f5417a6faad2eec196f0cc",
+              "author": "Alexander Piskun",
+              "date": "2025-12-02T19:50:13.000Z",
+              "message": "add check for the format arg type in VideoFromComponents.save_to function (#11046)",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy_api/latest/_input_impl/video_types.py",
+                "comfy_extras/nodes_video.py"
+              ]
+            }
+          ]
+        },
+        "2025-12-01": {
+          "date": "2025-12-01",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/text_encoders/qwen25_tokenizer/tokenizer_config.json"
+          ],
+          "commits": [
+            {
+              "hash": "2640acb31ccfddee57ba22d5245bf456e8dffe53",
+              "author": "comfyanonymous",
+              "date": "2025-12-01T22:13:48.000Z",
+              "message": "Update qwen tokenizer to add qwen 3 tokens. (#11029)",
+              "linesAdded": 8,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "comfy/text_encoders/qwen25_tokenizer/tokenizer_config.json"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

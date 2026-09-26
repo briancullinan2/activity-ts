@@ -1,0 +1,202 @@
+{
+  "yearMonth": "2020-06",
+  "generatedAt": "2026-09-24T02:37:24.797Z",
+  "username": "briancullinan2",
+  "projects": {
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2020-06-28": {
+          "date": "2020-06-28",
+          "heatScore": 11,
+          "linesChanged": 29,
+          "commitCount": 1,
+          "filesEdited": [
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "f52b7c77cfbc8c62c995cbd08df92b54f8a6373e",
+              "author": "megamind",
+              "date": "2020-06-28T01:07:12.000Z",
+              "message": "Expanding commands API to control servers from direct message",
+              "linesAdded": 18,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-06-27": {
+          "date": "2020-06-27",
+          "heatScore": 24,
+          "linesChanged": 212,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1e061aadacb530713860b7edcb2cf0ed99ccdadd",
+              "author": "megamind",
+              "date": "2020-06-27T19:22:45.000Z",
+              "message": "bug fixes for discord bot, keeps connections alive",
+              "linesAdded": 146,
+              "linesDeleted": 66,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-06-26": {
+          "date": "2020-06-26",
+          "heatScore": 60,
+          "linesChanged": 762,
+          "commitCount": 1,
+          "filesEdited": [
+            "Cloud Services/google rpc.ipynb",
+            "Core/cache.ipynb",
+            "Core/import.ipynb",
+            "Core/notebook.ipynb",
+            "Core/syntax.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "d1277abeeeba456b82bdabe278138096d757a63a",
+              "author": "megamind",
+              "date": "2020-06-26T23:49:30.000Z",
+              "message": "some export fixes because of switch to wgxpath",
+              "linesAdded": 318,
+              "linesDeleted": 444,
+              "filesChanged": [
+                "Cloud Services/google rpc.ipynb",
+                "Core/cache.ipynb",
+                "Core/import.ipynb",
+                "Core/notebook.ipynb",
+                "Core/syntax.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-06-25": {
+          "date": "2020-06-25",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "214a8f4061ccd7d326282fa7b87c211b0d3e9ac4",
+              "author": "megamind",
+              "date": "2020-06-25T23:36:50.000Z",
+              "message": "updating messaging",
+              "linesAdded": 7,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-06-24": {
+          "date": "2020-06-24",
+          "heatScore": 26,
+          "linesChanged": 249,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake 3 commands.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e3267719f3ebe6836aaefa94cbb4d2da47c2ab6d",
+              "author": "megamind",
+              "date": "2020-06-24T04:24:45.000Z",
+              "message": "trying to read server status",
+              "linesAdded": 205,
+              "linesDeleted": 44,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake 3 commands.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-06-21": {
+          "date": "2020-06-21",
+          "heatScore": 35,
+          "linesChanged": 383,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "32003cad406d3df6626a4cea7e4b948faa5ba76b",
+              "author": "megamind",
+              "date": "2020-06-21T08:03:51.000Z",
+              "message": "added quake 3 server commands, working discord API and message reader",
+              "linesAdded": 342,
+              "linesDeleted": 41,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2020-06-20": {
+          "date": "2020-06-20",
+          "heatScore": 86,
+          "linesChanged": 1142,
+          "commitCount": 1,
+          "filesEdited": [
+            "Analytics/parsing email addresses.ipynb",
+            "Core/cache.ipynb",
+            "Docker/docker demo.ipynb",
+            "Games/quake 3.ipynb",
+            "Games/quake3 server connector.ipynb",
+            "Google/google search api.ipynb",
+            "Google/google sheets.ipynb",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "5d724339c97cb8bdfcbf94b117feca72e896150c",
+              "author": "megamind",
+              "date": "2020-06-20T04:11:29.000Z",
+              "message": "auto",
+              "linesAdded": 1040,
+              "linesDeleted": 102,
+              "filesChanged": [
+                "Analytics/parsing email addresses.ipynb",
+                "Core/cache.ipynb",
+                "Docker/docker demo.ipynb",
+                "Games/quake 3.ipynb",
+                "Games/quake3 server connector.ipynb",
+                "Google/google search api.ipynb",
+                "Google/google sheets.ipynb",
+                "package.json"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

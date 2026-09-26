@@ -1,0 +1,115 @@
+[
+	{
+		"id": "2008-10-30-operating-system-independence",
+		"title": "Operating System Independence: Escaping OS Dogma with Virtualization & Cloud Bloat",
+		"date": "2008-10-30T00:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"General",
+			"Operating Systems",
+			"Virtualization"
+		],
+		"tags": [
+			"windows",
+			"linux",
+			"mac",
+			"virtualization",
+			"cygwin",
+			"cloud-computing",
+			"wine",
+			"mono"
+		],
+		"summary": "Why pledging allegiance to a single OS is a rookie mistake, and how to stay productive across Windows, macOS, and Linux using early virtualization, Cygwin, Wine, and web desktops.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Operating System Independence: Escaping OS Dogma with Virtualization & Cloud Bloat</h1><p class=\"byline\">Published on October 30, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_14300300171228588529\" alt=\"Operating system virtualization software running multiple virtual machines diagram\" class=\"hero-image\"/><p class=\"caption\">Running multiple guest OS instances inside a host hypervisor to break operating system lock-in.</p></div><section class=\"post-body\"><p>Operating system zealots love arguing over Windows vs. Mac vs. Linux. Meanwhile, true power users realized long ago that locking yourself into a single OS ecosystem just destroys your productivity when forced to switch environments.</p><h2>Breaking the Platform Wall</h2><ul><li><strong>GUI Reskinning &amp; Shells:</strong> If you miss the Mac dock or Linux widgets on Windows, Stardock, TweakUI, or Google Desktop can transform your desktop shell. If you miss Unix bash, Cygwin and PowerShell bridge the gap.</li><li><strong>Cross-Platform Web Apps:</strong> Cloud platforms like Google Apps prove that the browser itself is becoming the meta-OS, making the underlying host kernel irrelevant.</li><li><strong>Linux Emulation Warfare:</strong> Running Adobe Creative Suite or .NET software on Linux used to mean wrestling with Wine, MonoDevelop, or paying TransGaming Cedega to translate DirectX calls to OpenGL.</li></ul></section></article>",
+		"modern_insight_2026": "The dream of OS independence back in 2008 meant hacky Wine configs, Mono, and Cygwin wrappers. Today, WSL2, Docker containers, WASM/WASI, and Electron/WebGPU apps have made the underlying desktop OS virtually invisible to software engineers."
+	},
+	{
+		"id": "2008-10-25-making-a-batman-costume-preface",
+		"title": "Engineering a Dark Knight Batsuit: The Preface to 24 lbs of Clay & Regret",
+		"date": "2008-10-25T00:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Hardware",
+			"Cosplay Engineering",
+			"Abandoned Projects"
+		],
+		"tags": [
+			"batman",
+			"dark-knight",
+			"rubber-molding",
+			"clay-sculpting",
+			"defcon",
+			"costume"
+		],
+		"summary": "Announcing a multi-stage, year-long quest to build a movie-accurate Dark Knight suit using custom clay sculpts, plaster molds, and multi-durometer liquid rubber.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Engineering a Dark Knight Batsuit: The Preface to 24 lbs of Clay & Regret</h1><p class=\"byline\">Published on October 25, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_14300300171228588506\" alt=\"Movie accurate Dark Knight Batman suit display\" class=\"hero-image\"/><p class=\"caption\">The Dark Knight suit reference: multi-segment flexible rubber plates mounted over breathable mesh.</p></div><section class=\"post-body\"><p>I decided to blog about this because all my real-life friends are completely exhausted from hearing me talk about it. Luckily, none of them read my blog anyway.</p><h2>The Grand Plan</h2><p>Ever since seeing Christopher Nolan’s <em>The Dark Knight</em> in theaters, I became obsessed with building a screen-accurate suit. After flipping through behind-the-scenes production interviews, I discovered the secret: the armor isn't metal or fiberglass—it's custom molded flexible rubber.</p><p>The roadmap: hand-sculpt every armor segment out of oil-based clay, pour negative plaster molds, and cast varying strengths of liquid rubber plates fitted with mechanical snap buttons onto a silver mesh wetsuit. What could possibly go wrong?</p></section></article>",
+		"modern_insight_2026": "Documenting an over-ambitious year-long hardware build right before it inevitably lands in the 'Abandoned Projects Bucket' is a canon event for every computer science major."
+	},
+	{
+		"id": "2008-10-23-computer-coffee-table",
+		"title": "The $300 PC Coffee Table: Tempered Glass, Sound-Activated Cathodes & Living Room Media Servers",
+		"date": "2008-10-23T00:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Hardware",
+			"Media Server",
+			"DIY"
+		],
+		"tags": [
+			"coffee-table-pc",
+			"cold-cathodes",
+			"tempered-glass",
+			"audigy3",
+			"htpc",
+			"logitech"
+		],
+		"summary": "Building a custom 4x2ft living room coffee table with 3/8-inch tempered glass housing a full HTPC media server, Audigy 3 coax audio, and sound-reactive cold cathode lighting.",
+		"content_html": "<article class=\"blog-post\"><header><h1>The $300 PC Coffee Table: Tempered Glass, Sound-Activated Cathodes & Living Room Media Servers</h1><p class=\"byline\">Published on October 23, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_14300300171228588500\" alt=\"Custom PC built inside a glass top coffee table with lighting\" class=\"hero-image\"/><p class=\"caption\">Custom PC built directly inside a living room coffee table with tempered glass and cold cathode lighting.</p></div><section class=\"post-body\"><p>Why buy a normal coffee table when you can build a 4x2ft custom wooden chassis topped with 3/8-inch tempered glass that houses your entire home media server? Originally budgeted at $100, the project ballooned to $300—and it was worth every penny.</p><h2>Living Room Hardware Rig</h2><ul><li><strong>A/V Output:</strong> Long DVI-to-HDMI cable feeding the receiver, paired with coaxial digital audio driven by a Creative Sound Blaster Audigy card.</li><li><strong>Couch Controls:</strong> Wireless Logitech keyboard and trackball combo.</li><li><strong>Visual Flare:</strong> Internal sound-activated cold cathode tubes that flash to the beat whenever heavy sub-bass plays through the speakers.</li></ul></section></article>",
+		"modern_insight_2026": "In 2008, living room media required a 50lb wooden coffee table equipped with cold cathode neon tubes, DVI converters, and wireless trackballs. Today, a $30 Raspberry Pi or Apple TV running Plex replaces the whole rig silently."
+	},
+	{
+		"id": "2008-10-23-setting-up-a-dns-server",
+		"title": "Self-Hosting BIND9: Glue Records, DNS TLD Hierarchy & Taming Local Zone Files",
+		"date": "2008-10-23T00:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Networking",
+			"Linux",
+			"SysAdmin"
+		],
+		"tags": [
+			"bind9",
+			"dns",
+			"glue-records",
+			"ubuntu",
+			"zone-files",
+			"self-hosted",
+			"tld"
+		],
+		"summary": "Demystifying DNS root servers, TLD resolution, circular glue record resolution, and manually writing BIND9 named.conf zone files on Ubuntu.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Self-Hosting BIND9: Glue Records, DNS TLD Hierarchy & Taming Local Zone Files</h1><p class=\"byline\">Published on October 23, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_14300300171228588523\" alt=\"Domain Name System DNS resolution waterfall hierarchy diagram\" class=\"hero-image\"/><p class=\"caption\">Domain Name System (DNS) resolution hierarchy from root servers down to authoritative name servers.</p></div><section class=\"post-body\"><p>Tired of relying on third-party domain registrars for sub-domain forwarding, I spent the night configuring my own authoritative BIND9 DNS server on Ubuntu.</p><h2>The Circular Glue Record Problem</h2><p>Setting up <code>ns1.bjcullinan.com</code> to serve records for <code>bjcullinan.com</code> creates a classic chicken-and-egg paradox: to resolve the domain, the internet needs to resolve the nameserver, but resolving the nameserver requires querying the domain! The fix? Registering an official <strong>Glue Record</strong> with the TLD registry to map <code>ns1</code> directly to a static IP address.</p><h2>Zone File Anatomy</h2><p>Hand-crafting <code>/etc/bind/zones/bjcullinan.com.db</code> requires setting TTLs, SOA serial dates (which must increment on every edit so external recursive resolvers invalidate cached records), and binding A records directly to host IPs.</p></section></article>",
+		"modern_insight_2026": "Hand-writing BIND9 zone files and fighting with glue records on a residential IP was the classic trial-by-fire for self-hosters in 2008. Today, Cloudflare, Route53, and automated ACME DNS-01 challenges handle domain propagation instantly behind global edge networks."
+	},
+	{
+		"id": "2008-10-14-computer-science-do-it-yourself",
+		"title": "Computer Science Is Not Just Coding: Von Neumann Architectures, Compilers & Stack growth",
+		"date": "2008-10-14T00:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Computer Science",
+			"General",
+			"Academia"
+		],
+		"tags": [
+			"computer-science",
+			"von-neumann",
+			"compilers",
+			"stacks-grow-down",
+			"pokedex",
+			"dijkstra"
+		],
+		"summary": "Reflections on CS education: from building a Visual Basic Pokedex at age 12 to understanding theoretical abstractions, memory management, and writing custom compilers.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Computer Science Is Not Just Coding: Von Neumann Architectures, Compilers & Stack Growth</h1><p class=\"byline\">Published on October 14, 2008 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_14300300171228588522\" alt=\"Call stack memory growth diagram showing stack growing downward\" class=\"hero-image\"/><p class=\"caption\">Computer science fundamentals: inverted data trees and call stacks growing downward toward heap memory.</p></div><section class=\"post-body\"><p>Many people think Computer Science is just writing code or making video games. Programming is actually the easy part—understanding high-level theoretical abstractions, processor pipelines, and algorithmic complexity is the real work.</p><h2>From VB4 Pokedex to Compiler Design</h2><p>My coding journey started at age 12 building a custom Pokédex app in Visual Basic 4. Now in college, I'm writing custom programming languages in Compilers class, analyzing why we still rely on Von Neumann architecture, and learning why call stacks grow downward in memory spaces.</p><p>In an industry that moves at breakneck speeds, CS majors who only learn syntax get filtered out instantly. You have to understand how the underlying machine actually works.</p></section></article>",
+		"modern_insight_2026": "Writing 'memory management is frivolous' in 2008 was a bold take right before mobile hardware constraints and modern WebAssembly / Rust systems brought low-level memory safety and zero-cost abstractions right back to the forefront of computer engineering."
+	}
+]

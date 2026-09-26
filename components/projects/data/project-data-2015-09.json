@@ -1,0 +1,1632 @@
+{
+  "yearMonth": "2015-09",
+  "generatedAt": "2026-09-26T04:31:28.774Z",
+  "username": "briancullinan2",
+  "projects": {
+    "studysauce2": {
+      "projectName": "studysauce2",
+      "localPath": "D:\\studysauce2",
+      "remoteUrl": "https://bjcullinan@bitbucket.org/studysauce/studysauce2",
+      "lastUpdated": "2026-09-26T04:29:50.066Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2015-09-21": {
+          "date": "2015-09-21",
+          "heatScore": 41,
+          "linesChanged": 324,
+          "commitCount": 2,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ResultsController.php",
+            "src/Admin/Bundle/Resources/public/js/activity.js",
+            "src/Admin/Bundle/Resources/public/js/results.js",
+            "src/Course1/Bundle/Resources/views/Shared/layout.html.php",
+            "src/Course2/Bundle/Resources/views/Shared/layout.html.php",
+            "src/Course3/Bundle/Resources/views/Shared/layout.html.php",
+            "src/StudySauce/Bundle/EventListener/InviteListener.php",
+            "src/StudySauce/Bundle/Resources/views/Account/register.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "69dfa769d53f030ff097afcb1654664d8c01ca2b",
+              "author": "bjcullinan",
+              "date": "2015-09-21T23:14:13.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/StudySauce/studysauce2",
+              "linesAdded": 125,
+              "linesDeleted": 102,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ResultsController.php",
+                "src/Admin/Bundle/Resources/public/js/activity.js",
+                "src/Admin/Bundle/Resources/public/js/results.js",
+                "src/Course1/Bundle/Resources/views/Shared/layout.html.php",
+                "src/Course2/Bundle/Resources/views/Shared/layout.html.php",
+                "src/Course3/Bundle/Resources/views/Shared/layout.html.php"
+              ]
+            },
+            {
+              "hash": "8f31f404bbf24577c1e4a7ddcc2b951a29d97ce2",
+              "author": "bjcullinan",
+              "date": "2015-09-21T23:12:41.000Z",
+              "message": "invite fix",
+              "linesAdded": 35,
+              "linesDeleted": 62,
+              "filesChanged": [
+                "src/StudySauce/Bundle/EventListener/InviteListener.php",
+                "src/StudySauce/Bundle/Resources/views/Account/register.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-09-15": {
+          "date": "2015-09-15",
+          "heatScore": 45,
+          "linesChanged": 227,
+          "commitCount": 3,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ResultsController.php",
+            "src/Course1/Bundle/Resources/views/Shared/layout.html.php",
+            "src/Course2/Bundle/Resources/views/Shared/layout.html.php",
+            "src/Course3/Bundle/Resources/views/Shared/layout.html.php",
+            "src/Admin/Bundle/Resources/public/js/activity.js",
+            "src/Admin/Bundle/Resources/public/js/results.js"
+          ],
+          "commits": [
+            {
+              "hash": "94b2524b9ffaff8e0c954bdab828b0e08033fb61",
+              "author": "bjcullinan",
+              "date": "2015-09-16T06:55:46.000Z",
+              "message": "results fix",
+              "linesAdded": 11,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ResultsController.php",
+                "src/Course1/Bundle/Resources/views/Shared/layout.html.php",
+                "src/Course2/Bundle/Resources/views/Shared/layout.html.php",
+                "src/Course3/Bundle/Resources/views/Shared/layout.html.php"
+              ]
+            },
+            {
+              "hash": "0bedcc86501e55cd06521f1d09b07eb499475bc5",
+              "author": "bjcullinan",
+              "date": "2015-09-16T02:32:34.000Z",
+              "message": "activity pausing",
+              "linesAdded": 6,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/js/activity.js"
+              ]
+            },
+            {
+              "hash": "77ef90161e0bbbdf627f9c9c65a37ad12eb82a91",
+              "author": "bjcullinan",
+              "date": "2015-09-16T02:21:43.000Z",
+              "message": "result fixes",
+              "linesAdded": 108,
+              "linesDeleted": 95,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ResultsController.php",
+                "src/Admin/Bundle/Resources/public/js/results.js"
+              ]
+            }
+          ]
+        },
+        "2015-09-14": {
+          "date": "2015-09-14",
+          "heatScore": 23,
+          "linesChanged": 202,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/StudySauce/Bundle/Controller/AccountController.php",
+            "src/StudySauce/Bundle/Resources/public/css/account.css",
+            "src/StudySauce/Bundle/Resources/public/js/login.js",
+            "src/StudySauce/Bundle/Resources/public/js/register.js"
+          ],
+          "commits": [
+            {
+              "hash": "9b63efc392cf0b628bdfa6c0871278ce6fe5bd26",
+              "author": "bjcullinan",
+              "date": "2015-09-14T17:40:50.000Z",
+              "message": "password reset fix",
+              "linesAdded": 117,
+              "linesDeleted": 85,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Controller/AccountController.php",
+                "src/StudySauce/Bundle/Resources/public/css/account.css",
+                "src/StudySauce/Bundle/Resources/public/js/login.js",
+                "src/StudySauce/Bundle/Resources/public/js/register.js"
+              ]
+            }
+          ]
+        },
+        "2015-09-10": {
+          "date": "2015-09-10",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/StudySauce/Bundle/Resources/public/js/plan.js"
+          ],
+          "commits": [
+            {
+              "hash": "087aaee5d234a49328a9bd766a016e5bec9e4964",
+              "author": "bjcullinan",
+              "date": "2015-09-11T00:36:34.000Z",
+              "message": "show connect fix",
+              "linesAdded": 5,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/public/js/plan.js"
+              ]
+            }
+          ]
+        },
+        "2015-09-09": {
+          "date": "2015-09-09",
+          "heatScore": 30,
+          "linesChanged": 13,
+          "commitCount": 3,
+          "filesEdited": [
+            "src/Admin/Bundle/Resources/public/js/import.js",
+            "src/Admin/Bundle/Resources/public/css/import.css",
+            "src/Admin/Bundle/Resources/views/Import/tab.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "2992d18f9c14a8a8526f474e3a540461619bd7e0",
+              "author": "bjcullinan",
+              "date": "2015-09-10T00:05:46.000Z",
+              "message": "click fix",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/js/import.js"
+              ]
+            },
+            {
+              "hash": "12bdd69681b6acb3748ece8814cd56a12faf8323",
+              "author": "bjcullinan",
+              "date": "2015-09-10T00:04:25.000Z",
+              "message": "disable click",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/js/import.js"
+              ]
+            },
+            {
+              "hash": "f3ff5308a48babb99fff807aed0caf43cc8895ed",
+              "author": "bjcullinan",
+              "date": "2015-09-09T23:49:19.000Z",
+              "message": "import register link",
+              "linesAdded": 6,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/css/import.css",
+                "src/Admin/Bundle/Resources/views/Import/tab.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-09-08": {
+          "date": "2015-09-08",
+          "heatScore": 31,
+          "linesChanged": 177,
+          "commitCount": 2,
+          "filesEdited": [
+            "src/Admin/Bundle/Resources/public/js/userlist.js",
+            "src/Admin/Bundle/Resources/views/Adviser/userlist.html.php",
+            "src/Admin/Bundle/Controller/AdminController.php",
+            "src/Admin/Bundle/Controller/ImportController.php",
+            "src/Admin/Bundle/Tests/acceptance/AdviserCest.php",
+            "src/StudySauce/Bundle/Command/CronSauceCommand.php",
+            "src/StudySauce/Bundle/Controller/EmailsController.php",
+            "src/StudySauce/Bundle/Controller/PlanController.php",
+            "src/StudySauce/Bundle/Entity/Deadline.php"
+          ],
+          "commits": [
+            {
+              "hash": "5157caa669d8967fa7322c2b759e056cb2268a82",
+              "author": "bjcullinan",
+              "date": "2015-09-09T05:34:07.000Z",
+              "message": "sort fix",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/js/userlist.js",
+                "src/Admin/Bundle/Resources/views/Adviser/userlist.html.php"
+              ]
+            },
+            {
+              "hash": "e443daf0ca13dab49b04a8ac1db624cd86c5f0d2",
+              "author": "bjcullinan",
+              "date": "2015-09-09T02:07:11.000Z",
+              "message": "new invite reminder email, trim on import, tests, delete user fix",
+              "linesAdded": 133,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/AdminController.php",
+                "src/Admin/Bundle/Controller/ImportController.php",
+                "src/Admin/Bundle/Tests/acceptance/AdviserCest.php",
+                "src/StudySauce/Bundle/Command/CronSauceCommand.php",
+                "src/StudySauce/Bundle/Controller/EmailsController.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "src/StudySauce/Bundle/Entity/Deadline.php"
+              ]
+            }
+          ]
+        },
+        "2015-09-07": {
+          "date": "2015-09-07",
+          "heatScore": 12,
+          "linesChanged": 41,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/StudySauce/Bundle/Resources/public/js/schedule.js"
+          ],
+          "commits": [
+            {
+              "hash": "2eb0df3377f00d36dbdced9905bc7fb973af5930",
+              "author": "bjcullinan",
+              "date": "2015-09-08T01:51:04.000Z",
+              "message": "date picker fix",
+              "linesAdded": 30,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/StudySauce/Bundle/Resources/public/js/schedule.js"
+              ]
+            }
+          ]
+        },
+        "2015-09-04": {
+          "date": "2015-09-04",
+          "heatScore": 70,
+          "linesChanged": 613,
+          "commitCount": 3,
+          "filesEdited": [
+            "app/config/config_dev.yml",
+            "app/config/routing_dev.yml",
+            "src/Admin/Bundle/Controller/ActivityController.php",
+            "src/StudySauce/Bundle/Resources/public/css/menu.css",
+            "src/StudySauce/Bundle/Resources/public/css/account.css",
+            "src/StudySauce/Bundle/Resources/views/Account/login.html.php",
+            "src/Admin/Bundle/Resources/public/js/validation.js",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/StudySauce/Bundle/Command/CronSauceCommand.php",
+            "src/StudySauce/Bundle/Resources/public/css/video.css"
+          ],
+          "commits": [
+            {
+              "hash": "213a1cdae16bbd8be26493a2b8ab793d261355bb",
+              "author": "bjcullinan",
+              "date": "2015-09-04T20:56:06.000Z",
+              "message": "activity",
+              "linesAdded": 11,
+              "linesDeleted": 51,
+              "filesChanged": [
+                "app/config/config_dev.yml",
+                "app/config/routing_dev.yml",
+                "src/Admin/Bundle/Controller/ActivityController.php",
+                "src/StudySauce/Bundle/Resources/public/css/menu.css"
+              ]
+            },
+            {
+              "hash": "b106e2200803964f6ba8bde428a4061ce610c573",
+              "author": "bjcullinan",
+              "date": "2015-09-04T18:45:42.000Z",
+              "message": "social login fix",
+              "linesAdded": 4,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/public/css/account.css",
+                "src/StudySauce/Bundle/Resources/views/Account/login.html.php"
+              ]
+            },
+            {
+              "hash": "6e58e6a2105a0aa99ed6639559a7082db16d60ae",
+              "author": "bjcullinan",
+              "date": "2015-09-04T18:24:45.000Z",
+              "message": "video fix, validation fix, cron speed fix",
+              "linesAdded": 268,
+              "linesDeleted": 276,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/js/validation.js",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/StudySauce/Bundle/Command/CronSauceCommand.php",
+                "src/StudySauce/Bundle/Resources/public/css/video.css"
+              ]
+            }
+          ]
+        },
+        "2015-09-03": {
+          "date": "2015-09-03",
+          "heatScore": 51,
+          "linesChanged": 167,
+          "commitCount": 4,
+          "filesEdited": [
+            "src/StudySauce/Bundle/Security/UserProvider.php",
+            "src/Admin/Bundle/Resources/public/js/activity.js",
+            "src/Admin/Bundle/Resources/public/js/admin.js",
+            "src/StudySauce/Bundle/Command/CronSauceCommand.php",
+            "src/StudySauce/Bundle/Resources/public/js/plan.js",
+            "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php",
+            "src/Admin/Bundle/Controller/ActivityController.php",
+            "src/Admin/Bundle/Resources/public/css/activity.css",
+            "src/Course1/Bundle/Resources/views/Introduction/tab.html.php",
+            "src/StudySauce/Bundle/Resources/views/Landing/parents.html.php",
+            "src/StudySauce/Bundle/Resources/views/Landing/students.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "086e6592f7e3c00bd599432fcf6882d1fd13945f",
+              "author": "bjcullinan",
+              "date": "2015-09-04T02:52:22.000Z",
+              "message": "guest connect error",
+              "linesAdded": 6,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Security/UserProvider.php"
+              ]
+            },
+            {
+              "hash": "1c7396861e209661bf144822eb5be34e0069bc01",
+              "author": "bjcullinan",
+              "date": "2015-09-04T00:55:47.000Z",
+              "message": "plan bug fixes",
+              "linesAdded": 20,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/js/activity.js",
+                "src/Admin/Bundle/Resources/public/js/admin.js",
+                "src/StudySauce/Bundle/Command/CronSauceCommand.php",
+                "src/StudySauce/Bundle/Resources/public/js/plan.js",
+                "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php"
+              ]
+            },
+            {
+              "hash": "0d5c56cf673b8f178686bbe6e0c84a87834dc554",
+              "author": "bjcullinan",
+              "date": "2015-09-03T19:22:46.000Z",
+              "message": "activity mods",
+              "linesAdded": 52,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ActivityController.php",
+                "src/Admin/Bundle/Resources/public/css/activity.css",
+                "src/Admin/Bundle/Resources/public/js/activity.js"
+              ]
+            },
+            {
+              "hash": "b257e37b514784afa35507e92379b185e0a04353",
+              "author": "bjcullinan",
+              "date": "2015-09-03T16:51:25.000Z",
+              "message": "facebook codes",
+              "linesAdded": 52,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "src/Course1/Bundle/Resources/views/Introduction/tab.html.php",
+                "src/StudySauce/Bundle/Resources/views/Landing/parents.html.php",
+                "src/StudySauce/Bundle/Resources/views/Landing/students.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-09-02": {
+          "date": "2015-09-02",
+          "heatScore": 15,
+          "linesChanged": 81,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Resources/public/css/userlist.css",
+            "src/Admin/Bundle/Resources/public/js/validation.js",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/Admin/Bundle/Tests/acceptance/AdviserCest.php",
+            "src/Admin/Bundle/Tests/acceptance/Course1Cest.php",
+            "src/StudySauce/Bundle/EventListener/InviteListener.php",
+            "src/StudySauce/Bundle/Resources/views/Account/register.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "e4a4762c93e36ef3a7252db4af10406c830de592",
+              "author": "bjcullinan",
+              "date": "2015-09-03T03:49:38.000Z",
+              "message": "bug fixes",
+              "linesAdded": 50,
+              "linesDeleted": 31,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/css/userlist.css",
+                "src/Admin/Bundle/Resources/public/js/validation.js",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/Admin/Bundle/Tests/acceptance/AdviserCest.php",
+                "src/Admin/Bundle/Tests/acceptance/Course1Cest.php",
+                "src/StudySauce/Bundle/EventListener/InviteListener.php",
+                "src/StudySauce/Bundle/Resources/views/Account/register.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-09-01": {
+          "date": "2015-09-01",
+          "heatScore": 26,
+          "linesChanged": 98,
+          "commitCount": 2,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/AdminController.php",
+            "src/Admin/Bundle/Controller/AdviserController.php",
+            "src/Admin/Bundle/Resources/views/Results/result.html.php",
+            "src/StudySauce/Bundle/Controller/AccountController.php",
+            "src/StudySauce/Bundle/Controller/MetricsController.php",
+            "src/StudySauce/Bundle/EventListener/AnonymousAuthenticationListener.php",
+            "src/StudySauce/Bundle/EventListener/InviteListener.php",
+            "src/StudySauce/Bundle/Resources/views/Shared/dashboard.html.php",
+            "src/StudySauce/Bundle/Resources/views/Shared/header.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "e84d539775bf2224a99661a8243bcabb45a2e896",
+              "author": "bjcullinan",
+              "date": "2015-09-02T04:46:14.000Z",
+              "message": "paid fix",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/AdminController.php"
+              ]
+            },
+            {
+              "hash": "95de5582d6049c6b94b8cd769c33ea4dd68bd8ad",
+              "author": "bjcullinan",
+              "date": "2015-09-02T04:13:01.000Z",
+              "message": "adviser fixes, results fix",
+              "linesAdded": 50,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/AdminController.php",
+                "src/Admin/Bundle/Controller/AdviserController.php",
+                "src/Admin/Bundle/Resources/views/Results/result.html.php",
+                "src/StudySauce/Bundle/Controller/AccountController.php",
+                "src/StudySauce/Bundle/Controller/MetricsController.php",
+                "src/StudySauce/Bundle/EventListener/AnonymousAuthenticationListener.php",
+                "src/StudySauce/Bundle/EventListener/InviteListener.php",
+                "src/StudySauce/Bundle/Resources/views/Shared/dashboard.html.php",
+                "src/StudySauce/Bundle/Resources/views/Shared/header.html.php"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "studysauce3": {
+      "projectName": "studysauce3",
+      "localPath": "D:\\studysauce3",
+      "remoteUrl": "git@bitbucket.org:StudySauce/studysauce3.git",
+      "lastUpdated": "2026-09-26T04:30:48.213Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2015-09-24": {
+          "date": "2015-09-24",
+          "heatScore": 100,
+          "linesChanged": 2514,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/AppKernel.php",
+            "app/config/config.yml",
+            "app/config/config_dev.yml",
+            "app/config/config_test.yml",
+            "app/config/routing.yml",
+            "app/config/security.yml",
+            "src/Admin/Bundle/Resources/views/Admin/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Adviser/results.html.php",
+            "src/Admin/Bundle/Resources/views/Adviser/userlist.html.php",
+            "src/Admin/Bundle/Resources/views/Deadlines/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Results/tab.html.php",
+            "src/StudySauce/Bundle/Controller/BuyController.php",
+            "src/StudySauce/Bundle/Controller/LandingController.php",
+            "src/StudySauce/Bundle/Entity/Answer.php",
+            "src/StudySauce/Bundle/Entity/Card.php",
+            "src/StudySauce/Bundle/Entity/Coupon.php",
+            "src/StudySauce/Bundle/Entity/File.php",
+            "src/StudySauce/Bundle/Entity/Group.php",
+            "src/StudySauce/Bundle/Entity/Invite.php",
+            "src/StudySauce/Bundle/Entity/Pack.php",
+            "src/StudySauce/Bundle/Entity/Payment.php",
+            "src/StudySauce/Bundle/Entity/Response.php",
+            "src/StudySauce/Bundle/Entity/User.php",
+            "src/StudySauce/Bundle/Resources/config/assets.php",
+            "src/StudySauce/Bundle/Resources/config/routing.php",
+            "src/StudySauce/Bundle/Resources/views/Deadlines/tab.html.php",
+            "src/StudySauce/Bundle/Resources/views/Deadlines/widget.html.php",
+            "src/StudySauce/Bundle/Resources/views/Home/tab.html.php",
+            "src/StudySauce/Bundle/Resources/views/Shared/dashboard.html.php",
+            "src/StudySauce/Bundle/StudySauceBundle.php",
+            "update_dev.sh",
+            "web/app.php"
+          ],
+          "commits": [
+            {
+              "hash": "34949a80f13fdcfab0182e0844a329fde7807606",
+              "author": "bjcullinan",
+              "date": "2015-09-25T06:59:24.000Z",
+              "message": "database fixes, packs and cards download page",
+              "linesAdded": 1520,
+              "linesDeleted": 994,
+              "filesChanged": [
+                "app/AppKernel.php",
+                "app/config/config.yml",
+                "app/config/config_dev.yml",
+                "app/config/config_test.yml",
+                "app/config/routing.yml",
+                "app/config/security.yml",
+                "src/Admin/Bundle/Resources/views/Admin/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Adviser/results.html.php",
+                "src/Admin/Bundle/Resources/views/Adviser/userlist.html.php",
+                "src/Admin/Bundle/Resources/views/Deadlines/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Results/tab.html.php",
+                "src/StudySauce/Bundle/Controller/BuyController.php",
+                "src/StudySauce/Bundle/Controller/LandingController.php",
+                "src/StudySauce/Bundle/Entity/Answer.php",
+                "src/StudySauce/Bundle/Entity/Card.php",
+                "src/StudySauce/Bundle/Entity/Coupon.php",
+                "src/StudySauce/Bundle/Entity/File.php",
+                "src/StudySauce/Bundle/Entity/Group.php",
+                "src/StudySauce/Bundle/Entity/Invite.php",
+                "src/StudySauce/Bundle/Entity/Pack.php",
+                "src/StudySauce/Bundle/Entity/Payment.php",
+                "src/StudySauce/Bundle/Entity/Response.php",
+                "src/StudySauce/Bundle/Entity/User.php",
+                "src/StudySauce/Bundle/Resources/config/assets.php",
+                "src/StudySauce/Bundle/Resources/config/routing.php",
+                "src/StudySauce/Bundle/Resources/views/Deadlines/tab.html.php",
+                "src/StudySauce/Bundle/Resources/views/Deadlines/widget.html.php",
+                "src/StudySauce/Bundle/Resources/views/Home/tab.html.php",
+                "src/StudySauce/Bundle/Resources/views/Shared/dashboard.html.php",
+                "src/StudySauce/Bundle/StudySauceBundle.php",
+                "update_dev.sh",
+                "web/app.php"
+              ]
+            }
+          ]
+        },
+        "2015-09-22": {
+          "date": "2015-09-22",
+          "heatScore": 100,
+          "linesChanged": 2345,
+          "commitCount": 3,
+          "filesEdited": [
+            "app/config/config_dev.yml",
+            "src/Admin/Bundle/Resources/config/routing.php",
+            "src/StudySauce/Bundle/Entity/User.php",
+            "update_dev.sh",
+            "src/StudySauce/Bundle/Entity/Answer.php",
+            "src/StudySauce/Bundle/Entity/Card.php",
+            "src/StudySauce/Bundle/Entity/ContactMessage.php",
+            "src/StudySauce/Bundle/Entity/Coupon.php",
+            "src/StudySauce/Bundle/Entity/File.php",
+            "src/StudySauce/Bundle/Entity/GroupInvite.php",
+            "src/StudySauce/Bundle/Entity/Invite.php",
+            "src/StudySauce/Bundle/Entity/Pack.php",
+            "src/StudySauce/Bundle/Entity/Payment.php",
+            "src/StudySauce/Bundle/Entity/Response.php",
+            "src/Admin/Bundle/Controller/ResultsController.php",
+            "src/Admin/Bundle/Resources/public/js/activity.js",
+            "src/Admin/Bundle/Resources/public/js/results.js",
+            "src/StudySauce/Bundle/Controller/AccountController.php",
+            "src/StudySauce/Bundle/EventListener/InviteListener.php",
+            "src/StudySauce/Bundle/Resources/public/css/account.css",
+            "src/StudySauce/Bundle/Resources/public/js/login.js",
+            "src/StudySauce/Bundle/Resources/public/js/register.js",
+            "src/StudySauce/Bundle/Resources/views/Account/register.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "327b9f20f954d094a8e6303c594d0e2b88484f96",
+              "author": "bjcullinan",
+              "date": "2015-09-22T18:09:05.000Z",
+              "message": "new database design",
+              "linesAdded": 30,
+              "linesDeleted": 563,
+              "filesChanged": [
+                "app/config/config_dev.yml",
+                "src/Admin/Bundle/Resources/config/routing.php",
+                "src/StudySauce/Bundle/Entity/User.php",
+                "update_dev.sh"
+              ]
+            },
+            {
+              "hash": "45a540354dc357c8a48609bf682048c75d55614a",
+              "author": "bjcullinan",
+              "date": "2015-09-22T17:45:08.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/StudySauce/studysauce3",
+              "linesAdded": 632,
+              "linesDeleted": 600,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Entity/Answer.php",
+                "src/StudySauce/Bundle/Entity/Card.php",
+                "src/StudySauce/Bundle/Entity/ContactMessage.php",
+                "src/StudySauce/Bundle/Entity/Coupon.php",
+                "src/StudySauce/Bundle/Entity/File.php",
+                "src/StudySauce/Bundle/Entity/GroupInvite.php",
+                "src/StudySauce/Bundle/Entity/Invite.php",
+                "src/StudySauce/Bundle/Entity/Pack.php",
+                "src/StudySauce/Bundle/Entity/Payment.php",
+                "src/StudySauce/Bundle/Entity/Response.php",
+                "src/StudySauce/Bundle/Entity/User.php"
+              ]
+            },
+            {
+              "hash": "3341a019188ae241372610f113558e93a331dc32",
+              "author": "bjcullinan",
+              "date": "2015-09-22T17:43:57.000Z",
+              "message": "production changes",
+              "linesAdded": 274,
+              "linesDeleted": 246,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ResultsController.php",
+                "src/Admin/Bundle/Resources/public/js/activity.js",
+                "src/Admin/Bundle/Resources/public/js/results.js",
+                "src/StudySauce/Bundle/Controller/AccountController.php",
+                "src/StudySauce/Bundle/EventListener/InviteListener.php",
+                "src/StudySauce/Bundle/Resources/public/css/account.css",
+                "src/StudySauce/Bundle/Resources/public/js/login.js",
+                "src/StudySauce/Bundle/Resources/public/js/register.js",
+                "src/StudySauce/Bundle/Resources/views/Account/register.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-09-21": {
+          "date": "2015-09-21",
+          "heatScore": 92,
+          "linesChanged": 1232,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/StudySauce/Bundle/Entity/Answer.php",
+            "src/StudySauce/Bundle/Entity/Card.php",
+            "src/StudySauce/Bundle/Entity/ContactMessage.php",
+            "src/StudySauce/Bundle/Entity/Coupon.php",
+            "src/StudySauce/Bundle/Entity/File.php",
+            "src/StudySauce/Bundle/Entity/GroupInvite.php",
+            "src/StudySauce/Bundle/Entity/Invite.php",
+            "src/StudySauce/Bundle/Entity/Pack.php",
+            "src/StudySauce/Bundle/Entity/Payment.php",
+            "src/StudySauce/Bundle/Entity/Response.php",
+            "src/StudySauce/Bundle/Entity/User.php"
+          ],
+          "commits": [
+            {
+              "hash": "10c13a5ba80fb9980169e820464a2b7bd1b54af7",
+              "author": "bjcullinan",
+              "date": "2015-09-22T06:10:28.000Z",
+              "message": "new database design",
+              "linesAdded": 632,
+              "linesDeleted": 600,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Entity/Answer.php",
+                "src/StudySauce/Bundle/Entity/Card.php",
+                "src/StudySauce/Bundle/Entity/ContactMessage.php",
+                "src/StudySauce/Bundle/Entity/Coupon.php",
+                "src/StudySauce/Bundle/Entity/File.php",
+                "src/StudySauce/Bundle/Entity/GroupInvite.php",
+                "src/StudySauce/Bundle/Entity/Invite.php",
+                "src/StudySauce/Bundle/Entity/Pack.php",
+                "src/StudySauce/Bundle/Entity/Payment.php",
+                "src/StudySauce/Bundle/Entity/Response.php",
+                "src/StudySauce/Bundle/Entity/User.php"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "studysauceapp": {
+      "projectName": "studysauceapp",
+      "localPath": "D:\\studysauceapp",
+      "remoteUrl": "https://bjcullinan@bitbucket.org/studysauce/studysauceapp",
+      "lastUpdated": "2026-09-26T04:31:17.427Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2015-09-30": {
+          "date": "2015-09-30",
+          "heatScore": 100,
+          "linesChanged": 1632,
+          "commitCount": 6,
+          "filesEdited": [
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AutoSizingTextView.swift",
+            "StudySauce/Card+CoreDataProperties.swift",
+            "StudySauce/CardPromptController.swift",
+            "StudySauce/CardResponseController.swift",
+            "StudySauce/Pack+CoreDataProperties.swift",
+            "StudySauce/Pack.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/Response+CoreDataProperties.swift",
+            "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+            "StudySauce/UIViewController.swift",
+            "StudySauce/User+CoreDataProperties.swift",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/UserPack+CoreDataProperties.swift",
+            "StudySauce/UserRegisterController.swift",
+            "StudySauce/Base.lproj/LaunchScreen.xib"
+          ],
+          "commits": [
+            {
+              "hash": "3fa33fe0890d634fc70d4fc4d57842eaf89b919d",
+              "author": "bjcullinan",
+              "date": "2015-10-01T05:00:38.000Z",
+              "message": "missing width contraint",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "44c1b9c8f0bed09013b1c302f1ccfc180fe3f4af",
+              "author": "bjcullinan",
+              "date": "2015-10-01T04:55:24.000Z",
+              "message": "UI rewire",
+              "linesAdded": 27,
+              "linesDeleted": 92,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "66e250f837a9e845c60303a06d0bbd0fbaf8a518",
+              "author": "bjcullinan",
+              "date": "2015-10-01T04:30:23.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 137,
+              "linesDeleted": 29,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "440391ddb4f86a92271c971f3e2c40c500ae7f83",
+              "author": "bjcullinan",
+              "date": "2015-10-01T04:29:20.000Z",
+              "message": "data model fixes and beginning of user registration",
+              "linesAdded": 250,
+              "linesDeleted": 122,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Card+CoreDataProperties.swift",
+                "StudySauce/CardPromptController.swift",
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/Pack+CoreDataProperties.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/Response+CoreDataProperties.swift",
+                "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/User+CoreDataProperties.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserPack+CoreDataProperties.swift",
+                "StudySauce/UserRegisterController.swift"
+              ]
+            },
+            {
+              "hash": "8c5b6091ca34e9c38763cffd1d54e44f4a0a7b32",
+              "author": "bjcullinan",
+              "date": "2015-09-30T22:32:38.000Z",
+              "message": "autosize textview, reconnect actions and segues to view",
+              "linesAdded": 89,
+              "linesDeleted": 17,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/Base.lproj/LaunchScreen.xib",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardPromptController.swift"
+              ]
+            },
+            {
+              "hash": "340b13ceac1a570f42011a463479b2c5959b7e2b",
+              "author": "bjcullinan",
+              "date": "2015-09-30T17:20:33.000Z",
+              "message": "merged using stephen's",
+              "linesAdded": 525,
+              "linesDeleted": 341,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            }
+          ]
+        },
+        "2015-09-29": {
+          "date": "2015-09-29",
+          "heatScore": 76,
+          "linesChanged": 693,
+          "commitCount": 3,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/Card+CoreDataProperties.swift",
+            "StudySauce/CardPromptController.swift",
+            "StudySauce/CardResponseController.swift",
+            "StudySauce/NSDate.swift",
+            "StudySauce/Pack+CoreDataProperties.swift",
+            "StudySauce/Pack.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/Response+CoreDataProperties.swift",
+            "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+            "StudySauce/User+CoreDataProperties.swift",
+            "StudySauce/User.swift",
+            "StudySauce/UserPack+CoreDataProperties.swift",
+            "StudySauce/UserPack.swift",
+            "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate"
+          ],
+          "commits": [
+            {
+              "hash": "acabfef412359e3ce384dc49c3bdd743757f7796",
+              "author": "bjcullinan",
+              "date": "2015-09-30T05:36:39.000Z",
+              "message": "user model and response fixes",
+              "linesAdded": 457,
+              "linesDeleted": 212,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Card+CoreDataProperties.swift",
+                "StudySauce/CardPromptController.swift",
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/NSDate.swift",
+                "StudySauce/Pack+CoreDataProperties.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/Response+CoreDataProperties.swift",
+                "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+                "StudySauce/User+CoreDataProperties.swift",
+                "StudySauce/User.swift",
+                "StudySauce/UserPack+CoreDataProperties.swift",
+                "StudySauce/UserPack.swift"
+              ]
+            },
+            {
+              "hash": "d71f44b65477a34c51a911dfdcbdb38f7d651f65",
+              "author": "bjcullinan",
+              "date": "2015-09-29T17:04:46.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "a5ac98c3360e9d73dedbeffb866a20024db652d1",
+              "author": "bjcullinan",
+              "date": "2015-09-29T17:03:47.000Z",
+              "message": "minor storyboard tweaks",
+              "linesAdded": 14,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents"
+              ]
+            }
+          ]
+        },
+        "2015-09-28": {
+          "date": "2015-09-28",
+          "heatScore": 98,
+          "linesChanged": 1028,
+          "commitCount": 3,
+          "filesEdited": [
+            "StudySauce/CardResponseController.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/Base.lproj/Main.storyboard",
+            ".gitignore"
+          ],
+          "commits": [
+            {
+              "hash": "3efc651a77175ee84bbfb4689c3cb5a5a2ff6ab0",
+              "author": "bjcullinan",
+              "date": "2015-09-28T19:55:49.000Z",
+              "message": "merge fix",
+              "linesAdded": 35,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/PackResultsController.swift"
+              ]
+            },
+            {
+              "hash": "e76258e523d95457eca2006eaa833a68436ae7e4",
+              "author": "bjcullinan",
+              "date": "2015-09-28T19:11:23.000Z",
+              "message": "project file fix",
+              "linesAdded": 514,
+              "linesDeleted": 473,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "44dd4e0146ab2e02ce5475671ed4cffb4d023651",
+              "author": "bjcullinan",
+              "date": "2015-09-28T19:05:54.000Z",
+              "message": "ignore files",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                ".gitignore"
+              ]
+            }
+          ]
+        },
+        "2015-09-25": {
+          "date": "2015-09-25",
+          "heatScore": 100,
+          "linesChanged": 1072,
+          "commitCount": 10,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardResponseController.swift",
+            "StudySauce/PackResultsController.swift",
+            ".gitignore",
+            "StudySauce.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+            "StudySauce.xcodeproj/project.xcworkspace/xcshareddata/StudySauce.xccheckout",
+            "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+            "StudySauce.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/StudySauce.xcscheme",
+            "StudySauce.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/xcschememanagement.plist",
+            "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/StudySauce.xcscheme",
+            "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/xcschememanagement.plist",
+            "StudySauce/Base.lproj/LaunchScreen.xib",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Card+CoreDataProperties.swift",
+            "StudySauce/Card.swift",
+            "StudySauce/CardPromptController.swift",
+            "StudySauce/Pack+CoreDataProperties.swift",
+            "StudySauce/Pack.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/Response+CoreDataProperties.swift",
+            "StudySauce/Response.swift",
+            "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents"
+          ],
+          "commits": [
+            {
+              "hash": "96ff33e3de3db948aeba6157263721887f6ef78d",
+              "author": "bjcullinan",
+              "date": "2015-09-26T02:40:07.000Z",
+              "message": "score fix",
+              "linesAdded": 61,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/PackResultsController.swift"
+              ]
+            },
+            {
+              "hash": "4c1904ba9987e077e7284f2e99235d470852cb76",
+              "author": "bjcullinan",
+              "date": "2015-09-25T23:19:25.000Z",
+              "message": "ignore user files",
+              "linesAdded": 3,
+              "linesDeleted": 315,
+              "filesChanged": [
+                ".gitignore",
+                "StudySauce.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+                "StudySauce.xcodeproj/project.xcworkspace/xcshareddata/StudySauce.xccheckout",
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/StudySauce.xcscheme",
+                "StudySauce.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/xcschememanagement.plist",
+                "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/StudySauce.xcscheme",
+                "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/xcschememanagement.plist"
+              ]
+            },
+            {
+              "hash": "854e8c4e02e8b6689ce52c1aa036a2f051db83fc",
+              "author": "bjcullinan",
+              "date": "2015-09-25T21:55:50.000Z",
+              "message": "spacing fix",
+              "linesAdded": 19,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "abee3517da8f8c637764e160429b91370243a4dc",
+              "author": "bjcullinan",
+              "date": "2015-09-25T21:29:22.000Z",
+              "message": "project layout",
+              "linesAdded": 39,
+              "linesDeleted": 15,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj"
+              ]
+            },
+            {
+              "hash": "c2d27c8794e64a75280ab545546b886cf5f4eacd",
+              "author": "bjcullinan",
+              "date": "2015-09-25T18:10:09.000Z",
+              "message": "results green button fix",
+              "linesAdded": 13,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/PackResultsController.swift"
+              ]
+            },
+            {
+              "hash": "66266fbeeb0bd70f29767f3ff5396b3808613287",
+              "author": "bjcullinan",
+              "date": "2015-09-25T17:59:53.000Z",
+              "message": "results skip",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "StudySauce/CardResponseController.swift"
+              ]
+            },
+            {
+              "hash": "f5101d37859a29ce22a569dbc78590c1e6300123",
+              "author": "bjcullinan",
+              "date": "2015-09-25T17:12:10.000Z",
+              "message": "working responses",
+              "linesAdded": 56,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardResponseController.swift"
+              ]
+            },
+            {
+              "hash": "5ebc8519e812ef0f7d57f012dccc00049772ac33",
+              "author": "bjcullinan",
+              "date": "2015-09-25T07:18:34.000Z",
+              "message": "storyboard merge",
+              "linesAdded": 2,
+              "linesDeleted": 86,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "338829334d84c0d9cdab4a4198c6df6b53cdabe3",
+              "author": "bjcullinan",
+              "date": "2015-09-25T07:15:37.000Z",
+              "message": "Merge remote-tracking branch 'origin/master'",
+              "linesAdded": 87,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/LaunchScreen.xib",
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "2ef2aafb9c42237d1731757b13cf7578f48ced02",
+              "author": "bjcullinan",
+              "date": "2015-09-25T07:13:35.000Z",
+              "message": "response recording",
+              "linesAdded": 214,
+              "linesDeleted": 122,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Card+CoreDataProperties.swift",
+                "StudySauce/Card.swift",
+                "StudySauce/CardPromptController.swift",
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/Pack+CoreDataProperties.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/Response+CoreDataProperties.swift",
+                "StudySauce/Response.swift",
+                "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents"
+              ]
+            }
+          ]
+        },
+        "2015-09-24": {
+          "date": "2015-09-24",
+          "heatScore": 63,
+          "linesChanged": 504,
+          "commitCount": 3,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+            "StudySauce/Base.lproj/LaunchScreen.xib",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardPromptController.swift",
+            "StudySauce/CardResponseController.swift",
+            "StudySauce/DetailViewController.swift",
+            "StudySauce/PackSummaryCell.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/Images.xcassets/StudySauceLogowithwhitetext.imageset/Contents.json",
+            "StudySauce/Images.xcassets/neural darkened.imageset/Contents.json"
+          ],
+          "commits": [
+            {
+              "hash": "e22f90b16b80bd5afce80adc5b9197b01b4c1a36",
+              "author": "bjcullinan",
+              "date": "2015-09-24T19:37:53.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/LaunchScreen.xib"
+              ]
+            },
+            {
+              "hash": "dc2badf0d8d7a65392609f0e37399cfa009d8e35",
+              "author": "bjcullinan",
+              "date": "2015-09-24T19:31:14.000Z",
+              "message": "cards loaded from server",
+              "linesAdded": 117,
+              "linesDeleted": 159,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardPromptController.swift",
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/DetailViewController.swift",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift"
+              ]
+            },
+            {
+              "hash": "f7dcd7bac7014306b539df2800fdebfb8e362fff",
+              "author": "bjcullinan",
+              "date": "2015-09-24T07:30:16.000Z",
+              "message": "storyboard fixes, segue to card prompt",
+              "linesAdded": 172,
+              "linesDeleted": 50,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardPromptController.swift",
+                "StudySauce/Images.xcassets/StudySauceLogowithwhitetext.imageset/Contents.json",
+                "StudySauce/Images.xcassets/neural darkened.imageset/Contents.json",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-09-23": {
+          "date": "2015-09-23",
+          "heatScore": 100,
+          "linesChanged": 677,
+          "commitCount": 9,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+            "StudySauce/Images.xcassets/StudySauceLogowithwhitetext.imageset/StudySauceLogowithwhitetext.png",
+            "StudySauce/Images.xcassets/neural darkened.imageset/neural darkened.png",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/Images.xcassets/neural.imageset/Contents.json",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Card+CoreDataProperties.swift",
+            "StudySauce/Card.swift",
+            "StudySauce/Pack+CoreDataProperties.swift",
+            "StudySauce/Pack.swift",
+            "StudySauce/PackSummaryCell.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/StudySauce-Bridging-Header.h",
+            "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+            "StudySauce/CardPromptController.swift",
+            "StudySauce/CardResponseController.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/{PackSummaryView.swift => PackSummaryController.swift}",
+            "StudySauce/PackSummaryView.swift"
+          ],
+          "commits": [
+            {
+              "hash": "6b62e2a14b84af3c739afd549c05838b31e4c666",
+              "author": "bjcullinan",
+              "date": "2015-09-24T05:47:57.000Z",
+              "message": "Merge remote-tracking branch 'origin/master'",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Images.xcassets/StudySauceLogowithwhitetext.imageset/StudySauceLogowithwhitetext.png",
+                "StudySauce/Images.xcassets/neural darkened.imageset/neural darkened.png"
+              ]
+            },
+            {
+              "hash": "dcd9bd5ef59e8ab9f3506c32eb3eb41452517871",
+              "author": "bjcullinan",
+              "date": "2015-09-24T05:47:41.000Z",
+              "message": "storyboard",
+              "linesAdded": 21,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "92de08470a1221eb47c58728a28d8bf83affa923",
+              "author": "bjcullinan",
+              "date": "2015-09-24T05:31:54.000Z",
+              "message": "Merge remote-tracking branch 'origin/master'",
+              "linesAdded": 65,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Images.xcassets/neural.imageset/Contents.json"
+              ]
+            },
+            {
+              "hash": "aea46e276ff10b7fd916c2f99018f35abd41c363",
+              "author": "bjcullinan",
+              "date": "2015-09-24T05:23:57.000Z",
+              "message": "update frames",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "860cf89948fedb1b4a67b96eac331c9c97035e7b",
+              "author": "bjcullinan",
+              "date": "2015-09-24T05:23:05.000Z",
+              "message": "persisting pack data",
+              "linesAdded": 342,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Card+CoreDataProperties.swift",
+                "StudySauce/Card.swift",
+                "StudySauce/Pack+CoreDataProperties.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/StudySauce-Bridging-Header.h",
+                "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents"
+              ]
+            },
+            {
+              "hash": "fea08f3fc30d28ba9864b5acbd48aed01e551fa3",
+              "author": "bjcullinan",
+              "date": "2015-09-23T21:50:23.000Z",
+              "message": "controller stubs",
+              "linesAdded": 92,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardPromptController.swift",
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/{PackSummaryView.swift => PackSummaryController.swift}"
+              ]
+            },
+            {
+              "hash": "dae25ed9633066dfeaa22ea17a689b7d810a702c",
+              "author": "bjcullinan",
+              "date": "2015-09-23T21:10:08.000Z",
+              "message": "Merge remote-tracking branch 'origin/master'",
+              "linesAdded": 21,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "6052e63cad4e2618d84935cbf038ac5f408ab81e",
+              "author": "bjcullinan",
+              "date": "2015-09-23T21:09:26.000Z",
+              "message": "grabs list of packs from study sauce server",
+              "linesAdded": 10,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "StudySauce/PackSummaryView.swift"
+              ]
+            },
+            {
+              "hash": "dbb54a6ff3be82a9c0c4f7f0ebc2b233ec2baaea",
+              "author": "bjcullinan",
+              "date": "2015-09-23T20:14:46.000Z",
+              "message": "connection to study sauce packs",
+              "linesAdded": 6,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "StudySauce/PackSummaryView.swift"
+              ]
+            }
+          ]
+        },
+        "2015-09-22": {
+          "date": "2015-09-22",
+          "heatScore": 100,
+          "linesChanged": 1157,
+          "commitCount": 14,
+          "filesEdited": [
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/PackSummaryCell.swift",
+            "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/Base.lproj/LaunchScreen.xib",
+            "StudySauce/Info.plist",
+            "StudySauce/PackSummaryView.swift",
+            "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/StudySauce.xcscheme",
+            "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/xcschememanagement.plist",
+            "StudySauce/{MasterViewController.swift => PackSummaryView.swift}",
+            "StudySauce/Images.xcassets/Great_Hearts_logo.imageset/Great_Hearts_logo.jpg",
+            "StudySauce/Images.xcassets/StudySauceBackArrow.imageset/StudySauceBackArrow.png",
+            "StudySauce/Images.xcassets/StudySauceBackArrow.imageset/Contents.json",
+            "StudySauce/Images.xcassets/Great_Hearts_logo.imageset/Contents.json",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Images.xcassets/Contents.json",
+            "StudySauce.xcodeproj/project.xcworkspace/xcshareddata/StudySauce.xccheckout",
+            "StudySauce/MasterViewController.swift",
+            "StudySauceTests/Info.plist"
+          ],
+          "commits": [
+            {
+              "hash": "8a42d776836c0ad248d423245f2de3b279ee0a55",
+              "author": "bjcullinan",
+              "date": "2015-09-22T23:32:53.000Z",
+              "message": "table view wire",
+              "linesAdded": 38,
+              "linesDeleted": 27,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/PackSummaryCell.swift"
+              ]
+            },
+            {
+              "hash": "fda1b3d061be138f9c6cef2ce302a49fb8b9f151",
+              "author": "bjcullinan",
+              "date": "2015-09-22T23:22:12.000Z",
+              "message": "Merge remote-tracking branch 'origin/master'",
+              "linesAdded": 25,
+              "linesDeleted": 25,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "a5adfff4af58f20cb480254f1c9a47f173d8d8d0",
+              "author": "bjcullinan",
+              "date": "2015-09-22T23:20:19.000Z",
+              "message": "pack summary implementation",
+              "linesAdded": 42,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/LaunchScreen.xib",
+                "StudySauce/Info.plist",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryView.swift"
+              ]
+            },
+            {
+              "hash": "4822a46cd90c4e42011d339401387e6bb605e392",
+              "author": "bjcullinan",
+              "date": "2015-09-22T22:16:04.000Z",
+              "message": "Merge remote-tracking branch 'origin/master'",
+              "linesAdded": 45,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "f7a405c63f00bbee0c2d58054f85a5eb6d9bd752",
+              "author": "bjcullinan",
+              "date": "2015-09-22T22:13:47.000Z",
+              "message": "table view",
+              "linesAdded": 47,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/PackSummaryView.swift"
+              ]
+            },
+            {
+              "hash": "22442c749b1cdbcd15815158b1d07ba00b0dcb46",
+              "author": "bjcullinan",
+              "date": "2015-09-22T19:56:12.000Z",
+              "message": "pack summary template",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "bc2c021accd3e6fbeed26b0a3e4e67296739e22f",
+              "author": "bjcullinan",
+              "date": "2015-09-22T19:43:18.000Z",
+              "message": "Merge remote-tracking branch 'origin/master'",
+              "linesAdded": 279,
+              "linesDeleted": 214,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/StudySauce.xcscheme",
+                "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/xcschememanagement.plist",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/{MasterViewController.swift => PackSummaryView.swift}"
+              ]
+            },
+            {
+              "hash": "3e77731312f8c0b0cd340eed31703042c3423d14",
+              "author": "bjcullinan",
+              "date": "2015-09-22T19:41:34.000Z",
+              "message": "table view beginnings",
+              "linesAdded": 29,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "StudySauce/Base.lproj/LaunchScreen.xib",
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "4b11ac28ceb734caa623fe0a1338f2d844840cdf",
+              "author": "bjcullinan",
+              "date": "2015-09-22T17:16:34.000Z",
+              "message": "Merge remote-tracking branch 'origin/master'",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "StudySauce/Images.xcassets/Great_Hearts_logo.imageset/Great_Hearts_logo.jpg",
+                "StudySauce/Images.xcassets/StudySauceBackArrow.imageset/StudySauceBackArrow.png"
+              ]
+            },
+            {
+              "hash": "aa9326335e480d032db275c8d464c451a552a988",
+              "author": "bjcullinan",
+              "date": "2015-09-22T17:07:15.000Z",
+              "message": "Merge remote-tracking branch 'origin/master'",
+              "linesAdded": 95,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Images.xcassets/StudySauceBackArrow.imageset/Contents.json"
+              ]
+            },
+            {
+              "hash": "5246b134aa6e53b92d882f54b4962a98c27e16bf",
+              "author": "bjcullinan",
+              "date": "2015-09-22T17:07:02.000Z",
+              "message": "image",
+              "linesAdded": 8,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "StudySauce/Images.xcassets/Great_Hearts_logo.imageset/Contents.json"
+              ]
+            },
+            {
+              "hash": "6aed2db693c86d00d5294d8e545a0a74e7b49ca4",
+              "author": "bjcullinan",
+              "date": "2015-09-22T17:01:11.000Z",
+              "message": "storyboard changes",
+              "linesAdded": 33,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "1c769cba73fa4f734edc9441abf81c5d1f69cd67",
+              "author": "bjcullinan",
+              "date": "2015-09-22T17:00:17.000Z",
+              "message": "Merge remote-tracking branch 'origin/master'",
+              "linesAdded": 73,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/LaunchScreen.xib",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Images.xcassets/Contents.json",
+                "StudySauce/Images.xcassets/Great_Hearts_logo.imageset/Contents.json"
+              ]
+            },
+            {
+              "hash": "7165a5762f2c45363cd6af11498d6e1cf80547e7",
+              "author": "bjcullinan",
+              "date": "2015-09-22T16:54:07.000Z",
+              "message": "text area",
+              "linesAdded": 58,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce.xcodeproj/project.xcworkspace/xcshareddata/StudySauce.xccheckout",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Info.plist",
+                "StudySauce/MasterViewController.swift",
+                "StudySauceTests/Info.plist"
+              ]
+            }
+          ]
+        },
+        "2015-09-16": {
+          "date": "2015-09-16",
+          "heatScore": 24,
+          "linesChanged": 211,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/Images.xcassets/AppIcon.appiconset/Contents.json",
+            "StudySauce/Images.xcassets/Image.png",
+            "StudySauce/Images.xcassets/Logo.imageset/Contents.json",
+            "StudySauce/Images.xcassets/Logo.imageset/Image.png",
+            "StudySauce/Images.xcassets/Logo.imageset/logo.pdf",
+            "StudySauce/Images.xcassets/neural.imageset/Contents.json",
+            "StudySauce/Images.xcassets/neural.imageset/neural.jpg"
+          ],
+          "commits": [
+            {
+              "hash": "4f036c4cb522171e9bc2819c7efa687c5c4ce8df",
+              "author": "bjcullinan",
+              "date": "2015-09-16T23:37:18.000Z",
+              "message": "email field, study sauce back button",
+              "linesAdded": 126,
+              "linesDeleted": 85,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Images.xcassets/AppIcon.appiconset/Contents.json",
+                "StudySauce/Images.xcassets/Image.png",
+                "StudySauce/Images.xcassets/Logo.imageset/Contents.json",
+                "StudySauce/Images.xcassets/Logo.imageset/Image.png",
+                "StudySauce/Images.xcassets/Logo.imageset/logo.pdf",
+                "StudySauce/Images.xcassets/neural.imageset/Contents.json",
+                "StudySauce/Images.xcassets/neural.imageset/neural.jpg"
+              ]
+            }
+          ]
+        },
+        "2015-09-12": {
+          "date": "2015-09-12",
+          "heatScore": 10,
+          "linesChanged": 0,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce/Images.xcassets/Image.png"
+          ],
+          "commits": [
+            {
+              "hash": "c65774315e2fde5fc02b34f4f86ecfdfb5e64236",
+              "author": "bjcullinan",
+              "date": "2015-09-13T00:36:34.000Z",
+              "message": "studysauce logo",
+              "linesAdded": 0,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "StudySauce/Images.xcassets/Image.png"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

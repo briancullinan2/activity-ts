@@ -1,0 +1,3141 @@
+{
+  "yearMonth": "2026-04",
+  "generatedAt": "2026-09-24T02:37:24.745Z",
+  "username": "briancullinan2",
+  "projects": {
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-04-26": {
+          "date": "2026-04-26",
+          "heatScore": 14,
+          "linesChanged": 67,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json"
+          ],
+          "commits": [
+            {
+              "hash": "c8d1a2df95017ff0bd14554c979f12cf1458cd0a",
+              "author": "dependabot[bot]",
+              "date": "2026-04-26T10:18:08.000Z",
+              "message": "Bump the npm_and_yarn group across 1 directory with 2 updates (#96)",
+              "linesAdded": 41,
+              "linesDeleted": 26,
+              "filesChanged": [
+                "package-lock.json"
+              ]
+            }
+          ]
+        },
+        "2026-04-25": {
+          "date": "2026-04-25",
+          "heatScore": 10,
+          "linesChanged": 11,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "8e1952f1eb13711c1456b380ab9bf0a4daf70ee5",
+              "author": "dependabot[bot]",
+              "date": "2026-04-25T08:54:06.000Z",
+              "message": "Bump vite in the npm_and_yarn group across 1 directory (#86)",
+              "linesAdded": 6,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2026-04-24": {
+          "date": "2026-04-24",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/actors/layer-renderer.ts"
+          ],
+          "commits": [
+            {
+              "hash": "7029671a7a0d89e3cc294b6b96aafd3f0081060f",
+              "author": "Igor Zinken",
+              "date": "2026-04-24T19:31:52.000Z",
+              "message": "Fix issue with low memory mode paint operations",
+              "linesAdded": 9,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "src/rendering/actors/layer-renderer.ts"
+              ]
+            }
+          ]
+        },
+        "2026-04-22": {
+          "date": "2026-04-22",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/grid-to-layers-window/grid-to-layers-window.vue",
+            "src/components/grid-to-layers-window/messages.json",
+            "src/model/actions/slice-grid-to-layers.ts"
+          ],
+          "commits": [
+            {
+              "hash": "36ee3ba712d3e0f38236fe7c2f91f604d345185b",
+              "author": "Igor Zinken",
+              "date": "2026-04-22T21:05:54.000Z",
+              "message": "Add to-timeline support to grid slicing window",
+              "linesAdded": 33,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "src/components/grid-to-layers-window/grid-to-layers-window.vue",
+                "src/components/grid-to-layers-window/messages.json",
+                "src/model/actions/slice-grid-to-layers.ts"
+              ]
+            }
+          ]
+        },
+        "2026-04-19": {
+          "date": "2026-04-19",
+          "heatScore": 17,
+          "linesChanged": 106,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/file-menu/export-window/export-window.vue",
+            "src/model/factories/document-factory.ts",
+            "src/model/types/document.ts",
+            "tests/unit/model/factories/document-factory.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "a6f67ad7c5b596e8c4e0456d9f133ac876139f92",
+              "author": "Igor Zinken",
+              "date": "2026-04-19T19:28:38.000Z",
+              "message": "Image export settings are now stored inside the Document",
+              "linesAdded": 98,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "src/components/file-menu/export-window/export-window.vue",
+                "src/model/factories/document-factory.ts",
+                "src/model/types/document.ts",
+                "tests/unit/model/factories/document-factory.spec.ts"
+              ]
+            }
+          ]
+        },
+        "2026-04-18": {
+          "date": "2026-04-18",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/file-menu/export-window/export-window.vue"
+          ],
+          "commits": [
+            {
+              "hash": "638dfb4aacca6a5226196990180a7a378b01eb81",
+              "author": "Igor Zinken",
+              "date": "2026-04-18T09:21:58.000Z",
+              "message": "Fix issue where spritesheets exported from timelines would not appear in right tile order",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/components/file-menu/export-window/export-window.vue"
+              ]
+            }
+          ]
+        },
+        "2026-04-12": {
+          "date": "2026-04-12",
+          "heatScore": 26,
+          "linesChanged": 253,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/layer-effects/layer-effects.vue",
+            "src/components/layer-effects/messages.json",
+            "src/definitions/document.ts",
+            "src/factories/filters-factory.ts",
+            "src/rendering/filters/blur.ts",
+            "src/workers/filter.worker.ts",
+            "tests/unit/factories/filters-factory.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "da3ae37dbd727ec268cffb3d0af36ba9def05a2c",
+              "author": "Igor Zinken",
+              "date": "2026-04-12T18:00:55.000Z",
+              "message": "Add blur filter to Layer filters (#90)",
+              "linesAdded": 247,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "src/components/layer-effects/layer-effects.vue",
+                "src/components/layer-effects/messages.json",
+                "src/definitions/document.ts",
+                "src/factories/filters-factory.ts",
+                "src/rendering/filters/blur.ts",
+                "src/workers/filter.worker.ts",
+                "tests/unit/factories/filters-factory.spec.ts"
+              ]
+            }
+          ]
+        },
+        "2026-04-11": {
+          "date": "2026-04-11",
+          "heatScore": 52,
+          "linesChanged": 638,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "src/bitmappery.vue",
+            "src/factories/history-state-factory.ts",
+            "src/store/actions/content-paste.ts",
+            "src/store/modules/document-module.ts",
+            "src/store/modules/history-module.ts",
+            "src/utils/layer-util.ts",
+            "tests/unit/factories/history-state-factory.spec.ts",
+            "tests/unit/store/actions/content-paste.spec.ts",
+            "tests/unit/store/modules/document-module.spec.ts",
+            "tests/unit/store/modules/history-module.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "6eeed8c2bd1c2918c90683f31ba93dbdad53623b",
+              "author": "Igor Zinken",
+              "date": "2026-04-11T10:30:57.000Z",
+              "message": "Add support for unique state history per Document (#88)",
+              "linesAdded": 453,
+              "linesDeleted": 185,
+              "filesChanged": [
+                "README.md",
+                "src/bitmappery.vue",
+                "src/factories/history-state-factory.ts",
+                "src/store/actions/content-paste.ts",
+                "src/store/modules/document-module.ts",
+                "src/store/modules/history-module.ts",
+                "src/utils/layer-util.ts",
+                "tests/unit/factories/history-state-factory.spec.ts",
+                "tests/unit/store/actions/content-paste.spec.ts",
+                "tests/unit/store/modules/document-module.spec.ts",
+                "tests/unit/store/modules/history-module.spec.ts"
+              ]
+            }
+          ]
+        },
+        "2026-04-08": {
+          "date": "2026-04-08",
+          "heatScore": 70,
+          "linesChanged": 905,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/layer-panel/layer-panel.vue",
+            "src/components/menus/header-menu/header-menu.vue",
+            "src/definitions/editor.ts",
+            "src/services/keyboard-service.ts",
+            "src/store/actions/content-cut-layers.ts",
+            "src/store/actions/content-paste.ts",
+            "src/store/actions/selection-delete.ts",
+            "src/store/index.ts",
+            "src/store/modules/copy-module.ts",
+            "src/utils/document-util.ts",
+            "tests/unit/mocks.ts",
+            "tests/unit/store/actions/content-cut-layers.spec.ts",
+            "tests/unit/store/actions/content-paste.spec.ts",
+            "tests/unit/store/modules/copy-module.spec.ts",
+            "tests/unit/store/store.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "6baaaff871c9896b45fab36722f1cdb0a9d5e44b",
+              "author": "Igor Zinken",
+              "date": "2026-04-08T19:39:20.000Z",
+              "message": "Allow copy/cut/paste operations on multiple selected Layers (#87)",
+              "linesAdded": 721,
+              "linesDeleted": 184,
+              "filesChanged": [
+                "src/components/layer-panel/layer-panel.vue",
+                "src/components/menus/header-menu/header-menu.vue",
+                "src/definitions/editor.ts",
+                "src/services/keyboard-service.ts",
+                "src/store/actions/content-cut-layers.ts",
+                "src/store/actions/content-paste.ts",
+                "src/store/actions/selection-delete.ts",
+                "src/store/index.ts",
+                "src/store/modules/copy-module.ts",
+                "src/utils/document-util.ts",
+                "tests/unit/mocks.ts",
+                "tests/unit/store/actions/content-cut-layers.spec.ts",
+                "tests/unit/store/actions/content-paste.spec.ts",
+                "tests/unit/store/modules/copy-module.spec.ts",
+                "tests/unit/store/store.spec.ts"
+              ]
+            }
+          ]
+        },
+        "2026-04-07": {
+          "date": "2026-04-07",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/document-canvas/document-canvas.vue",
+            "src/rendering/actors/layer-renderer.ts"
+          ],
+          "commits": [
+            {
+              "hash": "12bc99687a81cb7da0c42c9265a54534aedf73b8",
+              "author": "Igor Zinken",
+              "date": "2026-04-07T19:50:21.000Z",
+              "message": "Fix issue with outside-initiated drag events leaving brush operations in the wrong state",
+              "linesAdded": 10,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/components/document-canvas/document-canvas.vue",
+                "src/rendering/actors/layer-renderer.ts"
+              ]
+            }
+          ]
+        },
+        "2026-04-04": {
+          "date": "2026-04-04",
+          "heatScore": 13,
+          "linesChanged": 47,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/file-menu/export-window/export-window.vue",
+            "src/components/file-menu/export-window/messages.json"
+          ],
+          "commits": [
+            {
+              "hash": "1faf450c7c43caf8822fc9b84728378d068df5b5",
+              "author": "Igor Zinken",
+              "date": "2026-04-04T11:11:09.000Z",
+              "message": "Fixed issue where export to spritesheet was not always available when switching output file types",
+              "linesAdded": 25,
+              "linesDeleted": 22,
+              "filesChanged": [
+                "src/components/file-menu/export-window/export-window.vue",
+                "src/components/file-menu/export-window/messages.json"
+              ]
+            }
+          ]
+        },
+        "2026-04-03": {
+          "date": "2026-04-03",
+          "heatScore": 13,
+          "linesChanged": 57,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/rendering/actors/interaction-pane.ts",
+            "src/utils/selection-util.ts",
+            "src/utils/shape-util.ts",
+            "tests/unit/utils/selection-util.spec.ts",
+            "tests/unit/utils/shape-util.spec.ts"
+          ],
+          "commits": [
+            {
+              "hash": "c42cd0e66245e92df2dd509aecdd3133794dcc5d",
+              "author": "Igor Zinken",
+              "date": "2026-04-03T19:23:07.000Z",
+              "message": "Round selections in pixel art mode for consistency and more clear draw operations",
+              "linesAdded": 52,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/rendering/actors/interaction-pane.ts",
+                "src/utils/selection-util.ts",
+                "src/utils/shape-util.ts",
+                "tests/unit/utils/selection-util.spec.ts",
+                "tests/unit/utils/shape-util.spec.ts"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2026-04-16": {
+          "date": "2026-04-16",
+          "heatScore": 28,
+          "linesChanged": 282,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/apis/bytedance.py",
+            "comfy_api_nodes/nodes_bytedance.py",
+            "comfy_api_nodes/nodes_elevenlabs.py",
+            "comfy_api_nodes/nodes_kling.py"
+          ],
+          "commits": [
+            {
+              "hash": "7288264c7eadc1294823eb689efde9e8ec5b1eac",
+              "author": "bigcat88",
+              "date": "2026-04-16T12:36:59.000Z",
+              "message": "dev: RemoteComboOptions example",
+              "linesAdded": 245,
+              "linesDeleted": 37,
+              "filesChanged": [
+                "comfy_api_nodes/apis/bytedance.py",
+                "comfy_api_nodes/nodes_bytedance.py",
+                "comfy_api_nodes/nodes_elevenlabs.py",
+                "comfy_api_nodes/nodes_kling.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-30": {
+          "date": "2026-04-30",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/lora.py"
+          ],
+          "commits": [
+            {
+              "hash": "52baf57d683d6c5b043f8bb7128bedda9b38e7c2",
+              "author": "Rainer",
+              "date": "2026-04-30T23:33:41.000Z",
+              "message": "OneTainer ERNIE LoRA support (#13640)",
+              "linesAdded": 6,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/lora.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-22": {
+          "date": "2026-04-22",
+          "heatScore": 15,
+          "linesChanged": 84,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/supported_models.py"
+          ],
+          "commits": [
+            {
+              "hash": "77d7b6126e3e497cd73f2f746ec47ac5bdad64b1",
+              "author": "Talmaj Marinc",
+              "date": "2026-04-22T09:41:03.000Z",
+              "message": "Reformat models variable into multiline array CORE-59",
+              "linesAdded": 82,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/supported_models.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-29": {
+          "date": "2026-04-29",
+          "heatScore": 100,
+          "linesChanged": 5784,
+          "commitCount": 1,
+          "filesEdited": [
+            "tests/isolation/conda_sealed_worker/__init__.py",
+            "tests/isolation/conda_sealed_worker/pyproject.toml",
+            "tests/isolation/internal_probe_host_policy.toml",
+            "tests/isolation/internal_probe_node/__init__.py",
+            "tests/isolation/internal_probe_node/probe_nodes.py",
+            "tests/isolation/singleton_boundary_helpers.py",
+            "tests/isolation/stage_internal_probe_node.py",
+            "tests/isolation/test_client_snapshot.py",
+            "tests/isolation/test_cuda_wheels_and_env_flags.py",
+            "tests/isolation/test_exact_proxy_bootstrap_contract.py",
+            "tests/isolation/test_exact_proxy_relay_matrix.py",
+            "tests/isolation/test_extension_loader_conda.py",
+            "tests/isolation/test_extension_loader_sealed_worker.py",
+            "tests/isolation/test_folder_paths_proxy.py",
+            "tests/isolation/test_host_policy.py",
+            "tests/isolation/test_init.py",
+            "tests/isolation/test_inner_model_state_dict.py",
+            "tests/isolation/test_internal_probe_node_assets.py",
+            "tests/isolation/test_internal_probe_node_loading.py",
+            "tests/isolation/test_manifest_loader_cache.py",
+            "tests/isolation/test_manifest_loader_discovery.py",
+            "tests/isolation/test_model_management_proxy.py",
+            "tests/isolation/test_path_helpers.py",
+            "tests/isolation/test_runtime_helpers_stub_contract.py",
+            "tests/isolation/test_savedimages_serialization.py",
+            "tests/isolation/test_sealed_worker_contract_matrix.py",
+            "tests/isolation/test_shared_model_proxy_contract.py",
+            "tests/isolation/test_singleton_proxy_boundary_matrix.py",
+            "tests/isolation/test_web_directory_handler.py",
+            "tests/isolation/test_web_directory_proxy.py",
+            "tests/isolation/uv_sealed_worker/__init__.py",
+            "tests/isolation/uv_sealed_worker/pyproject.toml",
+            "tests/isolation/workflows/internal_probe_preview_image_audio.json",
+            "tests/isolation/workflows/internal_probe_ui3d.json",
+            "tests/isolation/workflows/isolation_7_uv_sealed_worker.json",
+            "tests/isolation/workflows/isolation_9_conda_sealed_worker.json",
+            "tests/isolation/workflows/quick_6_uv_sealed_worker.json",
+            "tests/isolation/workflows/quick_8_conda_sealed_worker.json",
+            "tests/test_adapter.py"
+          ],
+          "commits": [
+            {
+              "hash": "6148491ad2be7aeb848025d6b842e157d67e49d4",
+              "author": "John Pollock",
+              "date": "2026-04-29T05:23:54.000Z",
+              "message": "test(isolation): process boundary coverage and workflows",
+              "linesAdded": 5784,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "tests/isolation/conda_sealed_worker/__init__.py",
+                "tests/isolation/conda_sealed_worker/pyproject.toml",
+                "tests/isolation/internal_probe_host_policy.toml",
+                "tests/isolation/internal_probe_node/__init__.py",
+                "tests/isolation/internal_probe_node/probe_nodes.py",
+                "tests/isolation/singleton_boundary_helpers.py",
+                "tests/isolation/stage_internal_probe_node.py",
+                "tests/isolation/test_client_snapshot.py",
+                "tests/isolation/test_cuda_wheels_and_env_flags.py",
+                "tests/isolation/test_exact_proxy_bootstrap_contract.py",
+                "tests/isolation/test_exact_proxy_relay_matrix.py",
+                "tests/isolation/test_extension_loader_conda.py",
+                "tests/isolation/test_extension_loader_sealed_worker.py",
+                "tests/isolation/test_folder_paths_proxy.py",
+                "tests/isolation/test_host_policy.py",
+                "tests/isolation/test_init.py",
+                "tests/isolation/test_inner_model_state_dict.py",
+                "tests/isolation/test_internal_probe_node_assets.py",
+                "tests/isolation/test_internal_probe_node_loading.py",
+                "tests/isolation/test_manifest_loader_cache.py",
+                "tests/isolation/test_manifest_loader_discovery.py",
+                "tests/isolation/test_model_management_proxy.py",
+                "tests/isolation/test_path_helpers.py",
+                "tests/isolation/test_runtime_helpers_stub_contract.py",
+                "tests/isolation/test_savedimages_serialization.py",
+                "tests/isolation/test_sealed_worker_contract_matrix.py",
+                "tests/isolation/test_shared_model_proxy_contract.py",
+                "tests/isolation/test_singleton_proxy_boundary_matrix.py",
+                "tests/isolation/test_web_directory_handler.py",
+                "tests/isolation/test_web_directory_proxy.py",
+                "tests/isolation/uv_sealed_worker/__init__.py",
+                "tests/isolation/uv_sealed_worker/pyproject.toml",
+                "tests/isolation/workflows/internal_probe_preview_image_audio.json",
+                "tests/isolation/workflows/internal_probe_ui3d.json",
+                "tests/isolation/workflows/isolation_7_uv_sealed_worker.json",
+                "tests/isolation/workflows/isolation_9_conda_sealed_worker.json",
+                "tests/isolation/workflows/quick_6_uv_sealed_worker.json",
+                "tests/isolation/workflows/quick_8_conda_sealed_worker.json",
+                "tests/test_adapter.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-14": {
+          "date": "2026-04-14",
+          "heatScore": 17,
+          "linesChanged": 119,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/openapi-lint.yml",
+            ".spectral.yaml"
+          ],
+          "commits": [
+            {
+              "hash": "14ada4d29d9a5432ba0d26fb0f24a309f017b2f1",
+              "author": "Matt Miller",
+              "date": "2026-04-14T22:52:22.000Z",
+              "message": "Add Spectral lint CI gate for openapi.yaml",
+              "linesAdded": 119,
+              "linesDeleted": 0,
+              "filesChanged": [
+                ".github/workflows/openapi-lint.yml",
+                ".spectral.yaml"
+              ]
+            }
+          ]
+        },
+        "2026-04-28": {
+          "date": "2026-04-28",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py",
+            "comfy/pinned_memory.py",
+            "comfy_execution/caching.py",
+            "execution.py"
+          ],
+          "commits": [
+            {
+              "hash": "fce0398470fe3ecdb7ab4c5c69555ad0fcbdc09e",
+              "author": "rattus",
+              "date": "2026-04-28T23:15:02.000Z",
+              "message": "dynamicVRAM + --cache-ram 2 (CORE-117) (#13603)",
+              "linesAdded": 9,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "comfy/model_management.py",
+                "comfy/pinned_memory.py",
+                "comfy_execution/caching.py",
+                "execution.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-27": {
+          "date": "2026-04-27",
+          "heatScore": 18,
+          "linesChanged": 133,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_input_impl/video_types.py"
+          ],
+          "commits": [
+            {
+              "hash": "3cbf015578ac04c30b10078887a774a4b4e45fe4",
+              "author": "comfyanonymous",
+              "date": "2026-04-27T23:44:12.000Z",
+              "message": "Read audio and video at the same time in video loader node. (#13591)",
+              "linesAdded": 81,
+              "linesDeleted": 52,
+              "filesChanged": [
+                "comfy_api/latest/_input_impl/video_types.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-26": {
+          "date": "2026-04-26",
+          "heatScore": 100,
+          "linesChanged": 30978,
+          "commitCount": 1,
+          "filesEdited": [
+            "blueprints/Crop Images 2x2.json",
+            "blueprints/Crop Images 3x3.json",
+            "blueprints/Depth to Image (Z-Image-Turbo).json",
+            "blueprints/Depth to Video (ltx 2.0).json",
+            "blueprints/First-Last-Frame to Video (LTX-2.3).json",
+            "blueprints/Image Edit (FireRed Image Edit 1.1).json",
+            "blueprints/Image Edit (Flux.2 Klein 4B).json",
+            "blueprints/Image Edit (LongCat Image Edit).json",
+            "blueprints/Image Inpainting (Flux.1 Fill Dev).json",
+            "blueprints/Image Inpainting (Qwen-image).json",
+            "blueprints/Image Outpainting (Qwen-Image).json",
+            "blueprints/{Image to Layers(Qwen-Image Layered).json => Image to Layers(Qwen-Image-Layered).json}",
+            "blueprints/Image to Video (LTX-2.3).json",
+            "blueprints/Pose to Video (LTX 2.0).json",
+            "blueprints/Text to Image (Flux.1 Dev).json",
+            "blueprints/Text to Image (Flux.1 Krea Dev).json",
+            "blueprints/Text to Image (NetaYume Lumina).json",
+            "blueprints/Text to Image (Qwen-Image 2512).json",
+            "blueprints/Text to Image (Qwen-Image).json",
+            "blueprints/Text to Video (LTX-2.3).json"
+          ],
+          "commits": [
+            {
+              "hash": "7385eb28004a45c723345b132cd4dcd327aabf9a",
+              "author": "Daxiong (Lin)",
+              "date": "2026-04-26T14:59:16.000Z",
+              "message": "Add new ComfyUI blueprints and fix subgraph naming (#13371)",
+              "linesAdded": 29945,
+              "linesDeleted": 1033,
+              "filesChanged": [
+                "blueprints/Crop Images 2x2.json",
+                "blueprints/Crop Images 3x3.json",
+                "blueprints/Depth to Image (Z-Image-Turbo).json",
+                "blueprints/Depth to Video (ltx 2.0).json",
+                "blueprints/First-Last-Frame to Video (LTX-2.3).json",
+                "blueprints/Image Edit (FireRed Image Edit 1.1).json",
+                "blueprints/Image Edit (Flux.2 Klein 4B).json",
+                "blueprints/Image Edit (LongCat Image Edit).json",
+                "blueprints/Image Inpainting (Flux.1 Fill Dev).json",
+                "blueprints/Image Inpainting (Qwen-image).json",
+                "blueprints/Image Outpainting (Qwen-Image).json",
+                "blueprints/{Image to Layers(Qwen-Image Layered).json => Image to Layers(Qwen-Image-Layered).json}",
+                "blueprints/Image to Video (LTX-2.3).json",
+                "blueprints/Pose to Video (LTX 2.0).json",
+                "blueprints/Text to Image (Flux.1 Dev).json",
+                "blueprints/Text to Image (Flux.1 Krea Dev).json",
+                "blueprints/Text to Image (NetaYume Lumina).json",
+                "blueprints/Text to Image (Qwen-Image 2512).json",
+                "blueprints/Text to Image (Qwen-Image).json",
+                "blueprints/Text to Video (LTX-2.3).json"
+              ]
+            }
+          ]
+        },
+        "2026-04-25": {
+          "date": "2026-04-25",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "5e3f15a830ff27d3563ef4b43e9f6a0321ea36cd",
+              "author": "Comfy Org PR Bot",
+              "date": "2026-04-25T00:21:39.000Z",
+              "message": "Bump comfyui-frontend-package to 1.42.15 (#13556)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2026-04-24": {
+          "date": "2026-04-24",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/latest/_input_impl/video_types.py"
+          ],
+          "commits": [
+            {
+              "hash": "4304c15e9b4acb45fa9241e8e1723f8ce6397550",
+              "author": "comfyanonymous",
+              "date": "2026-04-24T20:46:10.000Z",
+              "message": "Properly load higher bit depth videos. (#13542)",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy_api/latest/_input_impl/video_types.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-23": {
+          "date": "2026-04-23",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "47ccecaee009cce148e8c2a5bdc2ecb302cc52ee",
+              "author": "Daxiong (Lin)",
+              "date": "2026-04-23T23:56:13.000Z",
+              "message": "chore: update workflow templates to v0.9.62 (#13539)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2026-04-21": {
+          "date": "2026-04-21",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "ec62a307a2df51cab9fe2e6cd810d2afe5019c4e",
+              "author": "Comfy Org PR Bot",
+              "date": "2026-04-21T18:35:45.000Z",
+              "message": "Bump comfyui-frontend-package to 1.42.14 (#13493)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2026-04-20": {
+          "date": "2026-04-20",
+          "heatScore": 100,
+          "linesChanged": 54055,
+          "commitCount": 1,
+          "filesEdited": [
+            ".ci/windows_intel_base_files/run_intel_gpu.bat",
+            ".github/workflows/release-stable-all.yml",
+            "QUANTIZATION.md",
+            "README.md",
+            "api_server/routes/internal/internal_routes.py",
+            "blueprints/.glsl/Color_Balance_15.frag",
+            "blueprints/.glsl/Color_Curves_8.frag",
+            "blueprints/Brightness and Contrast.json",
+            "blueprints/Canny to Image (Z-Image-Turbo).json",
+            "blueprints/Canny to Video (LTX 2.0).json",
+            "blueprints/Chromatic Aberration.json",
+            "blueprints/Color Adjustment.json",
+            "blueprints/Color Balance.json",
+            "blueprints/Color Curves.json",
+            "blueprints/Depth to Image (Z-Image-Turbo).json",
+            "blueprints/Depth to Video (ltx 2.0).json",
+            "blueprints/Edge-Preserving Blur.json",
+            "blueprints/Film Grain.json",
+            "blueprints/Glow.json",
+            "blueprints/Hue and Saturation.json",
+            "blueprints/Image Blur.json",
+            "blueprints/Image Captioning (gemini).json",
+            "blueprints/Image Channels.json",
+            "blueprints/Image Edit (Flux.2 Klein 4B).json",
+            "blueprints/Image Edit (Qwen 2511).json",
+            "blueprints/Image Inpainting (Qwen-image).json",
+            "blueprints/Image Levels.json",
+            "blueprints/Image Outpainting (Qwen-Image).json",
+            "blueprints/Image Upscale(Z-image-Turbo).json",
+            "blueprints/Image to Depth Map (Lotus).json",
+            "blueprints/Image to Layers(Qwen-Image Layered).json",
+            "blueprints/Image to Model (Hunyuan3d 2.1).json",
+            "blueprints/Image to Video (Wan 2.2).json",
+            "blueprints/Pose to Image (Z-Image-Turbo).json",
+            "blueprints/Pose to Video (LTX 2.0).json",
+            "blueprints/Prompt Enhance.json",
+            "blueprints/Sharpen.json",
+            "blueprints/Text to Audio (ACE-Step 1.5).json",
+            "blueprints/Text to Image (Z-Image-Turbo).json",
+            "blueprints/Text to Video (Wan 2.2).json",
+            "blueprints/Unsharp Mask.json",
+            "blueprints/Video Captioning (Gemini).json",
+            "blueprints/Video Inpaint(Wan2.1 VACE).json",
+            "blueprints/Video Stitch.json",
+            "blueprints/Video Upscale(GAN x4).json",
+            "comfy/cli_args.py",
+            "comfy/ldm/ace/ace_step15.py",
+            "comfy/ldm/ernie/model.py",
+            "comfy/ldm/flux/math.py",
+            "comfy/ldm/models/autoencoder.py",
+            "comfy/ldm/modules/diffusionmodules/openaimodel.py",
+            "comfy/ldm/modules/encoders/noise_aug_modules.py",
+            "comfy/ldm/modules/sdpose.py",
+            "comfy/ldm/rt_detr/rtdetr_v4.py",
+            "comfy/ldm/supir/__init__.py",
+            "comfy/ldm/supir/supir_modules.py",
+            "comfy/ldm/supir/supir_patch.py",
+            "comfy/memory_management.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/model_management.py",
+            "comfy/model_patcher.py",
+            "comfy/ops.py",
+            "comfy/pinned_memory.py",
+            "comfy/sd.py",
+            "comfy/supported_models.py",
+            "comfy/text_encoders/ernie.py",
+            "comfy/text_encoders/flux.py",
+            "comfy/text_encoders/llama.py",
+            "comfy/text_encoders/lt.py",
+            "comfy_api/latest/_io.py",
+            "comfy_api_nodes/apis/bytedance.py",
+            "comfy_api_nodes/apis/wan.py",
+            "comfy_api_nodes/nodes_bytedance.py",
+            "comfy_api_nodes/nodes_gemini.py",
+            "comfy_api_nodes/nodes_grok.py",
+            "comfy_api_nodes/nodes_hunyuan3d.py",
+            "comfy_api_nodes/nodes_quiver.py",
+            "comfy_api_nodes/nodes_sonilo.py",
+            "comfy_api_nodes/nodes_stability.py",
+            "comfy_api_nodes/nodes_topaz.py",
+            "comfy_api_nodes/nodes_wan.py",
+            "comfy_execution/caching.py",
+            "comfy_extras/nodes_ace.py",
+            "comfy_extras/nodes_curve.py",
+            "comfy_extras/nodes_glsl.py",
+            "comfy_extras/nodes_images.py",
+            "comfy_extras/nodes_model_patch.py",
+            "comfy_extras/nodes_painter.py",
+            "comfy_extras/nodes_post_processing.py",
+            "comfy_extras/nodes_preview_any.py",
+            "comfy_extras/nodes_rtdetr.py",
+            "comfy_extras/nodes_sdpose.py",
+            "comfy_extras/nodes_string.py",
+            "comfy_extras/nodes_textgen.py",
+            "comfy_extras/nodes_upscale_model.py",
+            "comfyui_version.py",
+            "execution.py",
+            "main.py",
+            "nodes.py",
+            "pyproject.toml",
+            "requirements.txt",
+            "server.py",
+            "utils/mime_types.py"
+          ],
+          "commits": [
+            {
+              "hash": "f273f6771b24822e979b3f3de0b6120c64853e60",
+              "author": "Deep Mehta",
+              "date": "2026-04-20T23:30:19.000Z",
+              "message": "Merge branch 'master' into deepme987/add-execution-environment-api",
+              "linesAdded": 53561,
+              "linesDeleted": 494,
+              "filesChanged": [
+                ".ci/windows_intel_base_files/run_intel_gpu.bat",
+                ".github/workflows/release-stable-all.yml",
+                "QUANTIZATION.md",
+                "README.md",
+                "api_server/routes/internal/internal_routes.py",
+                "blueprints/.glsl/Color_Balance_15.frag",
+                "blueprints/.glsl/Color_Curves_8.frag",
+                "blueprints/Brightness and Contrast.json",
+                "blueprints/Canny to Image (Z-Image-Turbo).json",
+                "blueprints/Canny to Video (LTX 2.0).json",
+                "blueprints/Chromatic Aberration.json",
+                "blueprints/Color Adjustment.json",
+                "blueprints/Color Balance.json",
+                "blueprints/Color Curves.json",
+                "blueprints/Depth to Image (Z-Image-Turbo).json",
+                "blueprints/Depth to Video (ltx 2.0).json",
+                "blueprints/Edge-Preserving Blur.json",
+                "blueprints/Film Grain.json",
+                "blueprints/Glow.json",
+                "blueprints/Hue and Saturation.json",
+                "blueprints/Image Blur.json",
+                "blueprints/Image Captioning (gemini).json",
+                "blueprints/Image Channels.json",
+                "blueprints/Image Edit (Flux.2 Klein 4B).json",
+                "blueprints/Image Edit (Qwen 2511).json",
+                "blueprints/Image Inpainting (Qwen-image).json",
+                "blueprints/Image Levels.json",
+                "blueprints/Image Outpainting (Qwen-Image).json",
+                "blueprints/Image Upscale(Z-image-Turbo).json",
+                "blueprints/Image to Depth Map (Lotus).json",
+                "blueprints/Image to Layers(Qwen-Image Layered).json",
+                "blueprints/Image to Model (Hunyuan3d 2.1).json",
+                "blueprints/Image to Video (Wan 2.2).json",
+                "blueprints/Pose to Image (Z-Image-Turbo).json",
+                "blueprints/Pose to Video (LTX 2.0).json",
+                "blueprints/Prompt Enhance.json",
+                "blueprints/Sharpen.json",
+                "blueprints/Text to Audio (ACE-Step 1.5).json",
+                "blueprints/Text to Image (Z-Image-Turbo).json",
+                "blueprints/Text to Video (Wan 2.2).json",
+                "blueprints/Unsharp Mask.json",
+                "blueprints/Video Captioning (Gemini).json",
+                "blueprints/Video Inpaint(Wan2.1 VACE).json",
+                "blueprints/Video Stitch.json",
+                "blueprints/Video Upscale(GAN x4).json",
+                "comfy/cli_args.py",
+                "comfy/ldm/ace/ace_step15.py",
+                "comfy/ldm/ernie/model.py",
+                "comfy/ldm/flux/math.py",
+                "comfy/ldm/models/autoencoder.py",
+                "comfy/ldm/modules/diffusionmodules/openaimodel.py",
+                "comfy/ldm/modules/encoders/noise_aug_modules.py",
+                "comfy/ldm/modules/sdpose.py",
+                "comfy/ldm/rt_detr/rtdetr_v4.py",
+                "comfy/ldm/supir/__init__.py",
+                "comfy/ldm/supir/supir_modules.py",
+                "comfy/ldm/supir/supir_patch.py",
+                "comfy/memory_management.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/model_management.py",
+                "comfy/model_patcher.py",
+                "comfy/ops.py",
+                "comfy/pinned_memory.py",
+                "comfy/sd.py",
+                "comfy/supported_models.py",
+                "comfy/text_encoders/ernie.py",
+                "comfy/text_encoders/flux.py",
+                "comfy/text_encoders/llama.py",
+                "comfy/text_encoders/lt.py",
+                "comfy_api/latest/_io.py",
+                "comfy_api_nodes/apis/bytedance.py",
+                "comfy_api_nodes/apis/wan.py",
+                "comfy_api_nodes/nodes_bytedance.py",
+                "comfy_api_nodes/nodes_gemini.py",
+                "comfy_api_nodes/nodes_grok.py",
+                "comfy_api_nodes/nodes_hunyuan3d.py",
+                "comfy_api_nodes/nodes_quiver.py",
+                "comfy_api_nodes/nodes_sonilo.py",
+                "comfy_api_nodes/nodes_stability.py",
+                "comfy_api_nodes/nodes_topaz.py",
+                "comfy_api_nodes/nodes_wan.py",
+                "comfy_execution/caching.py",
+                "comfy_extras/nodes_ace.py",
+                "comfy_extras/nodes_curve.py",
+                "comfy_extras/nodes_glsl.py",
+                "comfy_extras/nodes_images.py",
+                "comfy_extras/nodes_model_patch.py",
+                "comfy_extras/nodes_painter.py",
+                "comfy_extras/nodes_post_processing.py",
+                "comfy_extras/nodes_preview_any.py",
+                "comfy_extras/nodes_rtdetr.py",
+                "comfy_extras/nodes_sdpose.py",
+                "comfy_extras/nodes_string.py",
+                "comfy_extras/nodes_textgen.py",
+                "comfy_extras/nodes_upscale_model.py",
+                "comfyui_version.py",
+                "execution.py",
+                "main.py",
+                "nodes.py",
+                "pyproject.toml",
+                "requirements.txt",
+                "server.py",
+                "utils/mime_types.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-19": {
+          "date": "2026-04-19",
+          "heatScore": 37,
+          "linesChanged": 419,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/util/client.py",
+            "comfy_api_nodes/util/download_helpers.py",
+            "comfy_api_nodes/util/upload_helpers.py",
+            "tests/test_retry_defaults.py"
+          ],
+          "commits": [
+            {
+              "hash": "b9abd21cb7ef255a3a1fe719e1688b186ad05060",
+              "author": "Glary-Bot",
+              "date": "2026-04-19T10:48:48.000Z",
+              "message": "feat: make API node retry parameters configurable via environment variables",
+              "linesAdded": 346,
+              "linesDeleted": 73,
+              "filesChanged": [
+                "comfy_api_nodes/util/client.py",
+                "comfy_api_nodes/util/download_helpers.py",
+                "comfy_api_nodes/util/upload_helpers.py",
+                "tests/test_retry_defaults.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-17": {
+          "date": "2026-04-17",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfyui_version.py",
+            "pyproject.toml"
+          ],
+          "commits": [
+            {
+              "hash": "3086026401180c9216bcb6ace442a4e3587d2c66",
+              "author": "comfyanonymous",
+              "date": "2026-04-17T17:35:01.000Z",
+              "message": "ComfyUI v0.19.3",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfyui_version.py",
+                "pyproject.toml"
+              ]
+            }
+          ]
+        },
+        "2026-04-15": {
+          "date": "2026-04-15",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ops.py"
+          ],
+          "commits": [
+            {
+              "hash": "1de83f91c34a3396c667d764224054ba87027e82",
+              "author": "Jun Yamog",
+              "date": "2026-04-15T09:10:36.000Z",
+              "message": "Fix OOM regression in _apply() for quantized models during inference (#13372)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/ops.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-13": {
+          "date": "2026-04-13",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/ernie/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "402ff1cdb7a266eae58c696dfbce4a62d21070a3",
+              "author": "comfyanonymous",
+              "date": "2026-04-13T20:38:42.000Z",
+              "message": "Fix issue with ernie image. (#13393)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/ldm/ernie/model.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-12": {
+          "date": "2026-04-12",
+          "heatScore": 39,
+          "linesChanged": 436,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/ernie/model.py",
+            "comfy/model_base.py",
+            "comfy/model_detection.py",
+            "comfy/sd.py",
+            "comfy/supported_models.py",
+            "comfy/text_encoders/ernie.py",
+            "comfy/text_encoders/flux.py",
+            "comfy/text_encoders/llama.py"
+          ],
+          "commits": [
+            {
+              "hash": "31283d2892f54caf9bfdf6edb9c98cbfa88c5f0c",
+              "author": "comfyanonymous",
+              "date": "2026-04-12T02:29:31.000Z",
+              "message": "Implement Ernie Image model. (#13369)",
+              "linesAdded": 433,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/ldm/ernie/model.py",
+                "comfy/model_base.py",
+                "comfy/model_detection.py",
+                "comfy/sd.py",
+                "comfy/supported_models.py",
+                "comfy/text_encoders/ernie.py",
+                "comfy/text_encoders/flux.py",
+                "comfy/text_encoders/llama.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-11": {
+          "date": "2026-04-11",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_upscale_model.py"
+          ],
+          "commits": [
+            {
+              "hash": "a2840e75520b7dc40958866b3c4da1345d5cfa9c",
+              "author": "comfyanonymous",
+              "date": "2026-04-11T01:48:26.000Z",
+              "message": "Make ImageUpscaleWithModel node work with intermediate device and dtype. (#13357)",
+              "linesAdded": 5,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy_extras/nodes_upscale_model.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-10": {
+          "date": "2026-04-10",
+          "heatScore": 15,
+          "linesChanged": 82,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/sdpose.py",
+            "comfy_api_nodes/nodes_grok.py",
+            "comfy_extras/nodes_rtdetr.py",
+            "comfy_extras/nodes_sdpose.py",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "ec19f15c9f4420be56b03b6e90debd40a93c4146",
+              "author": "guill",
+              "date": "2026-04-10T23:04:09.000Z",
+              "message": "Merge branch 'master' into fix/glsl-blur-texel-size",
+              "linesAdded": 44,
+              "linesDeleted": 38,
+              "filesChanged": [
+                "comfy/ldm/modules/sdpose.py",
+                "comfy_api_nodes/nodes_grok.py",
+                "comfy_extras/nodes_rtdetr.py",
+                "comfy_extras/nodes_sdpose.py",
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2026-04-09": {
+          "date": "2026-04-09",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "48deb15c0e2b3336de4ca27b3e920954dfde453b",
+              "author": "Jedrzej Kosinski",
+              "date": "2026-04-09T08:15:57.000Z",
+              "message": "Simplify multigpu dispatch: run all devices on pool threads (#13340)",
+              "linesAdded": 5,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-08": {
+          "date": "2026-04-08",
+          "heatScore": 17,
+          "linesChanged": 117,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/multigpu.py",
+            "comfy/sampler_helpers.py",
+            "comfy/samplers.py"
+          ],
+          "commits": [
+            {
+              "hash": "4b93c4360f4d09fa6f3a360fbf74c858c86f091a",
+              "author": "Jedrzej Kosinski",
+              "date": "2026-04-08T12:39:07.000Z",
+              "message": "Implement persistent thread pool for multi-GPU CFG splitting (#13329)",
+              "linesAdded": 106,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "comfy/multigpu.py",
+                "comfy/sampler_helpers.py",
+                "comfy/samplers.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-07": {
+          "date": "2026-04-07",
+          "heatScore": 17,
+          "linesChanged": 112,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api/input/__init__.py",
+            "comfy_api/latest/_input/__init__.py",
+            "comfy_api/latest/_input/range_types.py",
+            "comfy_api/latest/_io.py"
+          ],
+          "commits": [
+            {
+              "hash": "8822627a60efce4a7cd374c63a2514fd226f4820",
+              "author": "Terry Jia",
+              "date": "2026-04-07T14:18:23.000Z",
+              "message": "range type",
+              "linesAdded": 112,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_api/input/__init__.py",
+                "comfy_api/latest/_input/__init__.py",
+                "comfy_api/latest/_input/range_types.py",
+                "comfy_api/latest/_io.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-03": {
+          "date": "2026-04-03",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "blueprints/Color Balance.json",
+            "blueprints/Color Curves.json"
+          ],
+          "commits": [
+            {
+              "hash": "6e831a1ab391d49f82257433079f87443257cea3",
+              "author": "Terry Jia",
+              "date": "2026-04-03T22:11:32.000Z",
+              "message": "feat: add proxyWidgetSelector to subgraph blueprints",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "blueprints/Color Balance.json",
+                "blueprints/Color Curves.json"
+              ]
+            }
+          ]
+        },
+        "2026-04-06": {
+          "date": "2026-04-06",
+          "heatScore": 13,
+          "linesChanged": 54,
+          "commitCount": 1,
+          "filesEdited": [
+            "blueprints/Color Curves.json",
+            "comfy_extras/nodes_curve.py"
+          ],
+          "commits": [
+            {
+              "hash": "7083484a48b97bdcf6263cd0b64c4994364debc3",
+              "author": "Terry Jia",
+              "date": "2026-04-06T21:54:02.000Z",
+              "message": "image histogram node (#13153)",
+              "linesAdded": 52,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "blueprints/Color Curves.json",
+                "comfy_extras/nodes_curve.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-05": {
+          "date": "2026-04-05",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "4b1444fc7a7d1dc542020f509dab2e2b90a4f16a",
+              "author": "comfyanonymous",
+              "date": "2026-04-05T23:37:27.000Z",
+              "message": "Update README.md with new frontend release cycle. (#13301)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2026-04-04": {
+          "date": "2026-04-04",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "13917b388028aee922efce6b4714db96e8cfea36",
+              "author": "comfyanonymous",
+              "date": "2026-04-04T23:02:47.000Z",
+              "message": "Nightly Nvidia pytorch is now cu132 (#13288)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2026-04-02": {
+          "date": "2026-04-02",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "76b75f3ad755ef5ff78b3670abbab549fb080243",
+              "author": "comfyanonymous",
+              "date": "2026-04-02T20:39:34.000Z",
+              "message": "Fix some issue with insecure browsers. (#13261)",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2026-04-01": {
+          "date": "2026-04-01",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "7d437687c260df7772c603658111148e0e863e59",
+              "author": "Daxiong (Lin)",
+              "date": "2026-04-01T03:23:25.000Z",
+              "message": "chore: update workflow templates to v0.9.41 (#13242)",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "studysauce5": {
+      "projectName": "studysauce5",
+      "localPath": "C:\\Users\\megam\\studysauce5",
+      "remoteUrl": "git@github.com:briancullinan2/atrium.git",
+      "lastUpdated": "2026-09-24T02:37:21.403Z",
+      "screenshots": [
+        {
+          "filename": "Screenshot 2026-04-21 121131.png",
+          "relativePath": "Docs\\Screenshot 2026-04-21 121131.png",
+          "date": "2026-04-21T00:00:00.000Z",
+          "source": "filename"
+        }
+      ],
+      "dailyHeat": {
+        "2026-04-26": {
+          "date": "2026-04-26",
+          "heatScore": 24,
+          "linesChanged": 220,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/MainPage.xaml.cs",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Services/ICompositeProvider.cs",
+            "Atrium/Services/TrustedLoader.cs",
+            "Interfacing/Services/IWebBrowser.cs",
+            "Interfacing/Services/InvokableExtensions.cs"
+          ],
+          "commits": [
+            {
+              "hash": "1c4abc768c7d2516027b8d00f4a80019bd927f5b",
+              "author": "Brian Cullinan",
+              "date": "2026-04-26T01:46:57.000Z",
+              "message": "still trying to get something working",
+              "linesAdded": 151,
+              "linesDeleted": 69,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/MainPage.xaml.cs",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Services/ICompositeProvider.cs",
+                "Atrium/Services/TrustedLoader.cs",
+                "Interfacing/Services/IWebBrowser.cs",
+                "Interfacing/Services/InvokableExtensions.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-25": {
+          "date": "2026-04-25",
+          "heatScore": 36,
+          "linesChanged": 399,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Components/PluginsPage.razor",
+            "Atrium/Components/RootComponent.razor",
+            "Atrium/MainPage.xaml.cs",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Services/BrowserInterop.cs",
+            "Atrium/Services/ICompositeProvider.cs",
+            "Atrium/Services/TrustedLoader.cs",
+            "Hosting/Pages/Hosting.razor",
+            "Hosting/Services/FormFactor.cs",
+            "Interfacing/Services/IHasPlugin.cs",
+            "Interfacing/Services/IWebBrowser.cs",
+            "Interfacing/Services/InvokableExtensions.cs",
+            "RazorSharp/Services/MenuService.cs",
+            "WebClient/Program.cs"
+          ],
+          "commits": [
+            {
+              "hash": "3d9e47fc711c881107799283607f041661cbd4ef",
+              "author": "Brian Cullinan",
+              "date": "2026-04-25T21:57:31.000Z",
+              "message": "builds a couple of pages, i'll try to get them displayed",
+              "linesAdded": 205,
+              "linesDeleted": 194,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Components/PluginsPage.razor",
+                "Atrium/Components/RootComponent.razor",
+                "Atrium/MainPage.xaml.cs",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Services/BrowserInterop.cs",
+                "Atrium/Services/ICompositeProvider.cs",
+                "Atrium/Services/TrustedLoader.cs",
+                "Hosting/Pages/Hosting.razor",
+                "Hosting/Services/FormFactor.cs",
+                "Interfacing/Services/IHasPlugin.cs",
+                "Interfacing/Services/IWebBrowser.cs",
+                "Interfacing/Services/InvokableExtensions.cs",
+                "RazorSharp/Services/MenuService.cs",
+                "WebClient/Program.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-24": {
+          "date": "2026-04-24",
+          "heatScore": 16,
+          "linesChanged": 90,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Services/BrowserInterop.cs",
+            "Interfacing/Services/IWebBrowser.cs"
+          ],
+          "commits": [
+            {
+              "hash": "1d666572d5918fb311f4c348935c662880894116",
+              "author": "Brian Cullinan",
+              "date": "2026-04-24T21:29:01.000Z",
+              "message": "little bit more interop code to support a little bit weird types",
+              "linesAdded": 67,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "Atrium/Services/BrowserInterop.cs",
+                "Interfacing/Services/IWebBrowser.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-23": {
+          "date": "2026-04-23",
+          "heatScore": 11,
+          "linesChanged": 24,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Components/PluginsPage.razor",
+            "Atrium/Extensions/ComponentExtensions.cs",
+            "Interfacing/Services/IHasPlugin.cs",
+            "RazorSharp/Extensions/TypeInvokable.cs"
+          ],
+          "commits": [
+            {
+              "hash": "8f7b9313b0b1aa53ba2728e0cf294163d2f990db",
+              "author": "Brian Cullinan",
+              "date": "2026-04-23T13:15:50.000Z",
+              "message": "i hate this , this situation shouldnt even be possible to change service containers and get a different page result",
+              "linesAdded": 12,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Components/PluginsPage.razor",
+                "Atrium/Extensions/ComponentExtensions.cs",
+                "Interfacing/Services/IHasPlugin.cs",
+                "RazorSharp/Extensions/TypeInvokable.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-22": {
+          "date": "2026-04-22",
+          "heatScore": 51,
+          "linesChanged": 629,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Services/PluginActivator.cs",
+            "Atrium/Services/TrustedLoader.cs",
+            "Atrium/Services/WindowManager.cs",
+            "Atrium/wwwroot/app.html",
+            "Hosting/Services/CircuitProvider.cs",
+            "Hosting/Services/CircuitResponders.cs",
+            "Hosting/Services/WebServer.cs",
+            "Interfacing/Services/IHasPlugin.cs",
+            "WebClient/Components/App.razor",
+            "WebClient/Components/Routes.razor",
+            "WebClient/Program.cs",
+            "WebClient/WebClient.csproj",
+            "WebClient/_Imports.razor"
+          ],
+          "commits": [
+            {
+              "hash": "1c9ce642acc165a7e8f8e81652d96d93a6053f94",
+              "author": "Brian Cullinan",
+              "date": "2026-04-22T20:53:39.000Z",
+              "message": "nearly have multiple contexts connected statically",
+              "linesAdded": 167,
+              "linesDeleted": 462,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Services/PluginActivator.cs",
+                "Atrium/Services/TrustedLoader.cs",
+                "Atrium/Services/WindowManager.cs",
+                "Atrium/wwwroot/app.html",
+                "Hosting/Services/CircuitProvider.cs",
+                "Hosting/Services/CircuitResponders.cs",
+                "Hosting/Services/WebServer.cs",
+                "Interfacing/Services/IHasPlugin.cs",
+                "WebClient/Components/App.razor",
+                "WebClient/Components/Routes.razor",
+                "WebClient/Program.cs",
+                "WebClient/WebClient.csproj",
+                "WebClient/_Imports.razor"
+              ]
+            }
+          ]
+        },
+        "2026-04-21": {
+          "date": "2026-04-21",
+          "heatScore": 32,
+          "linesChanged": 331,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Components/PluginsPage.razor",
+            "Atrium/wwwroot/connect.js",
+            "Hosting/Services/WebServer.cs",
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "e1c510a4227ca5046c3b200f74e2cd0b19f1efc4",
+              "author": "Brian Cullinan",
+              "date": "2026-04-21T18:22:49.000Z",
+              "message": "interesting, suddenly popped up again. so it is a pattern to use rendertreebuilder(razor file format), di, and zero life cycle",
+              "linesAdded": 292,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Components/PluginsPage.razor",
+                "Atrium/wwwroot/connect.js",
+                "Hosting/Services/WebServer.cs",
+                "README.md"
+              ]
+            }
+          ]
+        },
+        "2026-04-20": {
+          "date": "2026-04-20",
+          "heatScore": 32,
+          "linesChanged": 341,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Components/PluginsPage.razor",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Services/PageManager.cs",
+            "Atrium/Services/PluginActivator.cs",
+            "Atrium/wwwroot/connect.js",
+            "Interfacing/Services/ICssOutlet.cs",
+            "Interfacing/Services/IHasPlugin.cs",
+            "Interfacing/Services/IRenderState.cs",
+            "RazorSharp/Layout/MainLayout.razor",
+            "RazorSharp/Pages/Landing/Default.razor",
+            "WebClient/Components/Routes.razor"
+          ],
+          "commits": [
+            {
+              "hash": "38128bb3ec4bd0bc9b7ffc3e4feceeda5486b7a8",
+              "author": "Brian Cullinan",
+              "date": "2026-04-20T23:06:51.000Z",
+              "message": "showing something, need to figure out how to make partial updates not interfere with scroll like the virtual scroll",
+              "linesAdded": 200,
+              "linesDeleted": 141,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Components/PluginsPage.razor",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Services/PageManager.cs",
+                "Atrium/Services/PluginActivator.cs",
+                "Atrium/wwwroot/connect.js",
+                "Interfacing/Services/ICssOutlet.cs",
+                "Interfacing/Services/IHasPlugin.cs",
+                "Interfacing/Services/IRenderState.cs",
+                "RazorSharp/Layout/MainLayout.razor",
+                "RazorSharp/Pages/Landing/Default.razor",
+                "WebClient/Components/Routes.razor"
+              ]
+            }
+          ]
+        },
+        "2026-04-19": {
+          "date": "2026-04-19",
+          "heatScore": 15,
+          "linesChanged": 87,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Components/MainLoader.razor.cs",
+            "Atrium/Services/PluginActivator.cs",
+            "Hosting/Services/FormFactor.cs",
+            "Hosting/Services/WebServer.cs",
+            "Interfacing/Services/ICssOutlet.cs",
+            "Interfacing/Services/IFormFactor.cs",
+            "Interfacing/Services/IRenderState.cs",
+            "Interfacing/Services/InvokableExtensions.cs",
+            "RazorSharp/Pages/Landing/Default.razor",
+            "RazorSharp/Pages/Shared/ContextMenu.razor",
+            "RazorSharp/Services/MenuService.cs",
+            "RazorSharp/wwwroot/main.js",
+            "WebClient/Components/Routes.razor"
+          ],
+          "commits": [
+            {
+              "hash": "254b5dda5fa80699dfe7b7f5658bf9298d03b781",
+              "author": "Brian Cullinan",
+              "date": "2026-04-19T17:44:01.000Z",
+              "message": "maybe a fix for context menu? needs more testing",
+              "linesAdded": 64,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Components/MainLoader.razor.cs",
+                "Atrium/Services/PluginActivator.cs",
+                "Hosting/Services/FormFactor.cs",
+                "Hosting/Services/WebServer.cs",
+                "Interfacing/Services/ICssOutlet.cs",
+                "Interfacing/Services/IFormFactor.cs",
+                "Interfacing/Services/IRenderState.cs",
+                "Interfacing/Services/InvokableExtensions.cs",
+                "RazorSharp/Pages/Landing/Default.razor",
+                "RazorSharp/Pages/Shared/ContextMenu.razor",
+                "RazorSharp/Services/MenuService.cs",
+                "RazorSharp/wwwroot/main.js",
+                "WebClient/Components/Routes.razor"
+              ]
+            }
+          ]
+        },
+        "2026-04-18": {
+          "date": "2026-04-18",
+          "heatScore": 25,
+          "linesChanged": 228,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor.cs",
+            "Atrium/Extensions/BuilderExtenions.cs",
+            "Atrium/Services/TrustedLoader.cs",
+            "Atrium/Services/WindowManager.cs",
+            "Extensions/PrometheusTypes/TypeAssemblies.cs",
+            "Hosting/Platforms/Browser/WasmLoader.cs",
+            "Hosting/Services/FormFactor.cs",
+            "Hosting/Services/HostingService.cs",
+            "Interfacing/Services/ICssOutlet.cs",
+            "Interfacing/Services/IFormFactor.cs",
+            "Interfacing/Services/IRenderState.cs",
+            "Interfacing/Services/LostLogger.cs",
+            "RazorSharp/Pages/Landing/Default.razor",
+            "RazorSharp/wwwroot/main.js",
+            "WebClient/Components/Routes.razor",
+            "WebClient/Program.cs"
+          ],
+          "commits": [
+            {
+              "hash": "da482591c073624e18f60f6dbb2998a73739ff25",
+              "author": "Brian Cullinan",
+              "date": "2026-04-18T22:25:19.000Z",
+              "message": "string to type loader doesn't work so well in web assembly apparently, so i fixed that on my side, css states match now",
+              "linesAdded": 151,
+              "linesDeleted": 77,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor.cs",
+                "Atrium/Extensions/BuilderExtenions.cs",
+                "Atrium/Services/TrustedLoader.cs",
+                "Atrium/Services/WindowManager.cs",
+                "Extensions/PrometheusTypes/TypeAssemblies.cs",
+                "Hosting/Platforms/Browser/WasmLoader.cs",
+                "Hosting/Services/FormFactor.cs",
+                "Hosting/Services/HostingService.cs",
+                "Interfacing/Services/ICssOutlet.cs",
+                "Interfacing/Services/IFormFactor.cs",
+                "Interfacing/Services/IRenderState.cs",
+                "Interfacing/Services/LostLogger.cs",
+                "RazorSharp/Pages/Landing/Default.razor",
+                "RazorSharp/wwwroot/main.js",
+                "WebClient/Components/Routes.razor",
+                "WebClient/Program.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-17": {
+          "date": "2026-04-17",
+          "heatScore": 26,
+          "linesChanged": 247,
+          "commitCount": 1,
+          "filesEdited": [
+            "AnkiParser/AnkiParser.Wasm.csproj",
+            "AnkiParser/AnkiParser.csproj",
+            "Atrium/Atrium.Wasm.csproj",
+            "Atrium/Atrium.csproj",
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Components/MainLoader.razor.cs",
+            "Atrium/Components/PluginsPage.razor",
+            "Atrium/Extensions/BuilderExtenions.cs",
+            "Atrium/Extensions/MetaExtensions.cs",
+            "Atrium/Services/TrustedLoader.cs",
+            "Clippy/Clippy.Wasm.csproj",
+            "Clippy/Clippy.csproj",
+            "DataShared/DataShared.csproj",
+            "DataShared/Extensions/DatabaseBuilder.cs",
+            "DataStore/DataStore.Wasm.csproj",
+            "DataStore/DataStore.csproj",
+            "Directory.Build.props",
+            "Extensions/Extensions.csproj",
+            "Extensions/PrometheusTypes/TypeAssemblies.cs",
+            "FlashCard/FlashCard.Wasm.csproj",
+            "FlashCard/FlashCard.csproj",
+            "FlashData/FlashData.csproj",
+            "GameHub/GameHub.Wasm.csproj",
+            "GameHub/GameHub.csproj",
+            "Hosting/Hosting.Wasm.csproj",
+            "Hosting/Hosting.csproj",
+            "Interfacing/Interfacing.csproj",
+            "Interfacing/Services/IRenderState.cs",
+            "LiveTest/LiveTest.Wasm.csproj",
+            "LiveTest/LiveTest.csproj",
+            "Merchantry/Merchantry.Wasm.csproj",
+            "Merchantry/Merchantry.csproj",
+            "Orbb/Orbb.Wasm.csproj",
+            "Orbb/Orbb.csproj",
+            "RazorSharp/Extensions/TypeInvokable.cs",
+            "RazorSharp/Layout/MainLayout.razor",
+            "RazorSharp/RazorSharp.csproj",
+            "RazorSharp/wwwroot/main.js",
+            "Recollect/Recollect.Wasm.csproj",
+            "Recollect/Recollect.csproj",
+            "Retheme/Retheme.Wasm.csproj",
+            "Retheme/Retheme.csproj",
+            "UserData/UserData.csproj",
+            "UserModel/UserModel.Wasm.csproj",
+            "UserModel/UserModel.csproj",
+            "WebClient/Components/App.razor",
+            "WebClient/Components/Routes.razor",
+            "WebClient/Program.cs",
+            "WebClient/WebClient.csproj"
+          ],
+          "commits": [
+            {
+              "hash": "11eae2eed9e1ec1880a064b95d2b03c613547711",
+              "author": "Brian Cullinan",
+              "date": "2026-04-17T23:19:56.000Z",
+              "message": "i'm completely amazing microsoft can load a dll async easier than emscripten",
+              "linesAdded": 143,
+              "linesDeleted": 104,
+              "filesChanged": [
+                "AnkiParser/AnkiParser.Wasm.csproj",
+                "AnkiParser/AnkiParser.csproj",
+                "Atrium/Atrium.Wasm.csproj",
+                "Atrium/Atrium.csproj",
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Components/MainLoader.razor.cs",
+                "Atrium/Components/PluginsPage.razor",
+                "Atrium/Extensions/BuilderExtenions.cs",
+                "Atrium/Extensions/MetaExtensions.cs",
+                "Atrium/Services/TrustedLoader.cs",
+                "Clippy/Clippy.Wasm.csproj",
+                "Clippy/Clippy.csproj",
+                "DataShared/DataShared.csproj",
+                "DataShared/Extensions/DatabaseBuilder.cs",
+                "DataStore/DataStore.Wasm.csproj",
+                "DataStore/DataStore.csproj",
+                "Directory.Build.props",
+                "Extensions/Extensions.csproj",
+                "Extensions/PrometheusTypes/TypeAssemblies.cs",
+                "FlashCard/FlashCard.Wasm.csproj",
+                "FlashCard/FlashCard.csproj",
+                "FlashData/FlashData.csproj",
+                "GameHub/GameHub.Wasm.csproj",
+                "GameHub/GameHub.csproj",
+                "Hosting/Hosting.Wasm.csproj",
+                "Hosting/Hosting.csproj",
+                "Interfacing/Interfacing.csproj",
+                "Interfacing/Services/IRenderState.cs",
+                "LiveTest/LiveTest.Wasm.csproj",
+                "LiveTest/LiveTest.csproj",
+                "Merchantry/Merchantry.Wasm.csproj",
+                "Merchantry/Merchantry.csproj",
+                "Orbb/Orbb.Wasm.csproj",
+                "Orbb/Orbb.csproj",
+                "RazorSharp/Extensions/TypeInvokable.cs",
+                "RazorSharp/Layout/MainLayout.razor",
+                "RazorSharp/RazorSharp.csproj",
+                "RazorSharp/wwwroot/main.js",
+                "Recollect/Recollect.Wasm.csproj",
+                "Recollect/Recollect.csproj",
+                "Retheme/Retheme.Wasm.csproj",
+                "Retheme/Retheme.csproj",
+                "UserData/UserData.csproj",
+                "UserModel/UserModel.Wasm.csproj",
+                "UserModel/UserModel.csproj",
+                "WebClient/Components/App.razor",
+                "WebClient/Components/Routes.razor",
+                "WebClient/Program.cs",
+                "WebClient/WebClient.csproj"
+              ]
+            }
+          ]
+        },
+        "2026-04-16": {
+          "date": "2026-04-16",
+          "heatScore": 14,
+          "linesChanged": 68,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Components/PluginsPage.razor",
+            "Atrium/Services/TrustedLoader.cs"
+          ],
+          "commits": [
+            {
+              "hash": "c3b7c765858402925370b8dbbdb0929413f7414c",
+              "author": "Brian Cullinan",
+              "date": "2026-04-16T19:56:55.000Z",
+              "message": "plugin pages look the same, need to connect their state across multiple service containers",
+              "linesAdded": 44,
+              "linesDeleted": 24,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Components/PluginsPage.razor",
+                "Atrium/Services/TrustedLoader.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-15": {
+          "date": "2026-04-15",
+          "heatScore": 33,
+          "linesChanged": 356,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Components/MainLoader.razor.cs",
+            "FlashCard/Pages/Landing/EditPack.razor",
+            "Hosting/Services/FormFactor.cs",
+            "Hosting/Services/WebServer.cs",
+            "Interfacing/GlobalUsings.cs",
+            "Interfacing/Services/ICssOutlet.cs",
+            "Interfacing/Services/IRenderState.cs",
+            "Merchantry/Pages/Shared/Content.razor",
+            "RazorSharp/Extensions/TypeInvokable.cs",
+            "RazorSharp/Layout/MainLayout.razor",
+            "RazorSharp/Layout/NavMenu.razor",
+            "RazorSharp/Pages/Shared/ContextMenu.razor",
+            "RazorSharp/RazorSharp.csproj",
+            "RazorSharp/Services/MenuService.cs",
+            "RazorSharp/Services/PageManager.cs",
+            "WebClient/Components/Routes.razor"
+          ],
+          "commits": [
+            {
+              "hash": "c8ff36eb58d0e058bf52578821b6aa3a3761370e",
+              "author": "Brian Cullinan",
+              "date": "2026-04-15T23:49:40.000Z",
+              "message": "title working again, got rid of multi threading issues on not found pages, and constructor dependency issues everywhere else",
+              "linesAdded": 243,
+              "linesDeleted": 113,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Components/MainLoader.razor.cs",
+                "FlashCard/Pages/Landing/EditPack.razor",
+                "Hosting/Services/FormFactor.cs",
+                "Hosting/Services/WebServer.cs",
+                "Interfacing/GlobalUsings.cs",
+                "Interfacing/Services/ICssOutlet.cs",
+                "Interfacing/Services/IRenderState.cs",
+                "Merchantry/Pages/Shared/Content.razor",
+                "RazorSharp/Extensions/TypeInvokable.cs",
+                "RazorSharp/Layout/MainLayout.razor",
+                "RazorSharp/Layout/NavMenu.razor",
+                "RazorSharp/Pages/Shared/ContextMenu.razor",
+                "RazorSharp/RazorSharp.csproj",
+                "RazorSharp/Services/MenuService.cs",
+                "RazorSharp/Services/PageManager.cs",
+                "WebClient/Components/Routes.razor"
+              ]
+            }
+          ]
+        },
+        "2026-04-14": {
+          "date": "2026-04-14",
+          "heatScore": 16,
+          "linesChanged": 96,
+          "commitCount": 1,
+          "filesEdited": [
+            "FlashCard/Pages/Landing/Packs.razor",
+            "RazorSharp/Layout/NavMenu.razor",
+            "RazorSharp/Pages/Landing/Default.razor",
+            "WebClient/Components/App.razor",
+            "WebClient/Components/Routes.razor"
+          ],
+          "commits": [
+            {
+              "hash": "e36968f1eea82b3975672aca3ec7d78254a9c352",
+              "author": "Brian Cullinan",
+              "date": "2026-04-14T21:43:10.000Z",
+              "message": "i'm losing my mind",
+              "linesAdded": 55,
+              "linesDeleted": 41,
+              "filesChanged": [
+                "FlashCard/Pages/Landing/Packs.razor",
+                "RazorSharp/Layout/NavMenu.razor",
+                "RazorSharp/Pages/Landing/Default.razor",
+                "WebClient/Components/App.razor",
+                "WebClient/Components/Routes.razor"
+              ]
+            }
+          ]
+        },
+        "2026-04-13": {
+          "date": "2026-04-13",
+          "heatScore": 92,
+          "linesChanged": 1240,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/App.xaml.cs",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Platforms/Windows/Shell32.cs",
+            "Atrium/Platforms/Windows/TrayIcon.cs",
+            "Atrium/Platforms/Windows/User32.cs",
+            "Atrium/Platforms/Windows/UxTheme.cs",
+            "Atrium/Services/TrustedLoader.cs",
+            "Directory.Build.props",
+            "Extensions/PlayfulPlatforms/Windows/AdvApi.cs",
+            "Hosting/Pages/Hosting.razor",
+            "Hosting/Platforms/Browser/BrowserWorker.cs",
+            "Hosting/Platforms/Windows/TrayIcon.cs",
+            "Hosting/Platforms/Windows/WindowsService.cs",
+            "Hosting/Services/CircuitProvider.cs",
+            "Hosting/Services/FileDroppings.cs",
+            "Hosting/Services/FileManager.cs",
+            "Hosting/Services/FormFactor.cs",
+            "Hosting/Services/HostingService.cs",
+            "Hosting/Services/IServiceManager.cs",
+            "Interfacing/Services/IFormFactor.cs"
+          ],
+          "commits": [
+            {
+              "hash": "28885d3aee5f44da3db4e1270b8026f1664550a9",
+              "author": "Brian Cullinan",
+              "date": "2026-04-13T18:37:28.000Z",
+              "message": "working tray and menu and hiding, need to make it a service that looks for user desktops from a logon event",
+              "linesAdded": 1076,
+              "linesDeleted": 164,
+              "filesChanged": [
+                "Atrium/App.xaml.cs",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Platforms/Windows/Shell32.cs",
+                "Atrium/Platforms/Windows/TrayIcon.cs",
+                "Atrium/Platforms/Windows/User32.cs",
+                "Atrium/Platforms/Windows/UxTheme.cs",
+                "Atrium/Services/TrustedLoader.cs",
+                "Directory.Build.props",
+                "Extensions/PlayfulPlatforms/Windows/AdvApi.cs",
+                "Hosting/Pages/Hosting.razor",
+                "Hosting/Platforms/Browser/BrowserWorker.cs",
+                "Hosting/Platforms/Windows/TrayIcon.cs",
+                "Hosting/Platforms/Windows/WindowsService.cs",
+                "Hosting/Services/CircuitProvider.cs",
+                "Hosting/Services/FileDroppings.cs",
+                "Hosting/Services/FileManager.cs",
+                "Hosting/Services/FormFactor.cs",
+                "Hosting/Services/HostingService.cs",
+                "Hosting/Services/IServiceManager.cs",
+                "Interfacing/Services/IFormFactor.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-12": {
+          "date": "2026-04-12",
+          "heatScore": 100,
+          "linesChanged": 1672,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Components/MainLoader.razor.cs",
+            "Atrium/Components/PluginsPage.razor",
+            "Atrium/Logging/Logger.cs",
+            "Atrium/Logging/MessageLogAppender.cs",
+            "Clippy/Layout/ChatMenu.razor",
+            "Clippy/Services/ChatService.cs",
+            "DataShared/ForeignEntity/IDecouplings.cs",
+            "DataStore/Providers/TranslationContext.cs",
+            "DataStore/Services/LocalStore.cs",
+            "DataStore/Services/QueryManager.cs",
+            "Extensions/JsonVoorhees/JsonExtensions.cs",
+            "FlashCard/Pages/Course/Course.razor",
+            "FlashCard/Pages/Landing/Courses.razor",
+            "FlashCard/Pages/Landing/Pack.razor",
+            "FlashCard/Pages/Tools/Calculator.razor",
+            "FlashCard/Pages/Tools/Goals.razor",
+            "FlashCard/Services/StudyService.cs",
+            "Hosting/Services/FormFactor.cs",
+            "Interfacing/Services/IFormFactor.cs",
+            "Interfacing/Services/ILocalStore.cs",
+            "Interfacing/Services/ILog.cs",
+            "Interfacing/Services/{IPageManager.cs => IPageEvents.cs}",
+            "Interfacing/Services/IPageExtensions.cs",
+            "Interfacing/Services/IRenderState.cs",
+            "Interfacing/Services/LostLogger.cs",
+            "Merchantry/Extensions/IPageMetadata.cs",
+            "Merchantry/Pages/Content/Analysis.razor",
+            "Merchantry/Pages/Content/Upload.razor",
+            "RazorSharp/Layout/AnimatedBackground.razor",
+            "RazorSharp/Layout/ErrorPage.razor",
+            "RazorSharp/Layout/MainLayout.razor",
+            "RazorSharp/Layout/NavMenu.razor",
+            "RazorSharp/Pages/Counter.razor",
+            "RazorSharp/Pages/Shared/Console.razor",
+            "RazorSharp/Pages/Weather.razor",
+            "RazorSharp/Services/PageManager.cs",
+            "RazorSharp/Services/SimpleLogger.cs",
+            "Retheme/Pages/Settings.razor",
+            "Retheme/Pages/Shared/JsDetect.razor",
+            "Retheme/Retheme.csproj",
+            "UserModel/Controls/RedirectToLogin.cs",
+            "UserModel/Pages/Admin/Activity.razor",
+            "UserModel/Pages/Admin/Settings.razor",
+            "UserModel/Pages/Admin/Users.razor",
+            "UserModel/Pages/Landing/Login.razor"
+          ],
+          "commits": [
+            {
+              "hash": "8c3e14083d041476e48c672df657e755e27c4e7d",
+              "author": "Brian Cullinan",
+              "date": "2026-04-12T18:47:37.000Z",
+              "message": "more layout cleanup so a couple features can be available even without a main menu like page navigation classes on the wrapper, probably all i did was introduce a bunch of circular dependencies, needs testing",
+              "linesAdded": 962,
+              "linesDeleted": 710,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Components/MainLoader.razor.cs",
+                "Atrium/Components/PluginsPage.razor",
+                "Atrium/Logging/Logger.cs",
+                "Atrium/Logging/MessageLogAppender.cs",
+                "Clippy/Layout/ChatMenu.razor",
+                "Clippy/Services/ChatService.cs",
+                "DataShared/ForeignEntity/IDecouplings.cs",
+                "DataStore/Providers/TranslationContext.cs",
+                "DataStore/Services/LocalStore.cs",
+                "DataStore/Services/QueryManager.cs",
+                "Extensions/JsonVoorhees/JsonExtensions.cs",
+                "FlashCard/Pages/Course/Course.razor",
+                "FlashCard/Pages/Landing/Courses.razor",
+                "FlashCard/Pages/Landing/Pack.razor",
+                "FlashCard/Pages/Tools/Calculator.razor",
+                "FlashCard/Pages/Tools/Goals.razor",
+                "FlashCard/Services/StudyService.cs",
+                "Hosting/Services/FormFactor.cs",
+                "Interfacing/Services/IFormFactor.cs",
+                "Interfacing/Services/ILocalStore.cs",
+                "Interfacing/Services/ILog.cs",
+                "Interfacing/Services/{IPageManager.cs => IPageEvents.cs}",
+                "Interfacing/Services/IPageExtensions.cs",
+                "Interfacing/Services/IRenderState.cs",
+                "Interfacing/Services/LostLogger.cs",
+                "Merchantry/Extensions/IPageMetadata.cs",
+                "Merchantry/Pages/Content/Analysis.razor",
+                "Merchantry/Pages/Content/Upload.razor",
+                "RazorSharp/Layout/AnimatedBackground.razor",
+                "RazorSharp/Layout/ErrorPage.razor",
+                "RazorSharp/Layout/MainLayout.razor",
+                "RazorSharp/Layout/NavMenu.razor",
+                "RazorSharp/Pages/Counter.razor",
+                "RazorSharp/Pages/Shared/Console.razor",
+                "RazorSharp/Pages/Weather.razor",
+                "RazorSharp/Services/PageManager.cs",
+                "RazorSharp/Services/SimpleLogger.cs",
+                "Retheme/Pages/Settings.razor",
+                "Retheme/Pages/Shared/JsDetect.razor",
+                "Retheme/Retheme.csproj",
+                "UserModel/Controls/RedirectToLogin.cs",
+                "UserModel/Pages/Admin/Activity.razor",
+                "UserModel/Pages/Admin/Settings.razor",
+                "UserModel/Pages/Admin/Users.razor",
+                "UserModel/Pages/Landing/Login.razor"
+              ]
+            }
+          ]
+        },
+        "2026-04-11": {
+          "date": "2026-04-11",
+          "heatScore": 23,
+          "linesChanged": 208,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Atrium.csproj",
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Components/MainLoader.razor.cs",
+            "Atrium/wwwroot/app.html",
+            "Hosting/Pages/Hosting.razor",
+            "Interfacing/Services/IHasPlugin.cs"
+          ],
+          "commits": [
+            {
+              "hash": "604808706c43242bc0d0ecb2616c5956cb8e5b7a",
+              "author": "Brian Cullinan",
+              "date": "2026-04-11T19:48:48.000Z",
+              "message": "i think project decoupling is working, mark my words here",
+              "linesAdded": 100,
+              "linesDeleted": 108,
+              "filesChanged": [
+                "Atrium/Atrium.csproj",
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Components/MainLoader.razor.cs",
+                "Atrium/wwwroot/app.html",
+                "Hosting/Pages/Hosting.razor",
+                "Interfacing/Services/IHasPlugin.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-10": {
+          "date": "2026-04-10",
+          "heatScore": 60,
+          "linesChanged": 757,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/MainLoader.razor",
+            "Atrium/Components/MainLoader.razor.cs",
+            "Atrium/Components/PluginsPage.razor",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Services/MetaExtensions.cs",
+            "Atrium/Services/TrustedLoader.cs",
+            "Atrium/wwwroot/app.html",
+            "DataShared/Extensions/TypeMetadata.cs",
+            "DataShared/ForeignEntity/EntityMetadata.cs",
+            "DataShared/ForeignEntity/Predicate.cs",
+            "DataShared/ForeignEntity/PropertyExtensions.cs",
+            "Extensions/AlienVisitors/AggressiveVisitor.cs",
+            "Extensions/JsonVoorhees/JsonExtensions.cs",
+            "Extensions/PrometheusTypes/EnumExtensions.cs",
+            "Extensions/PrometheusTypes/TypeAssemblies.cs",
+            "Extensions/QueryableChaos/BuildType.cs",
+            "Extensions/QueryableChaos/XNodeExtensions.cs",
+            "FlashCard/Services/ContextService.cs",
+            "Hosting/Services/FormFactor.cs",
+            "Interfacing/Services/IHasPlugin.cs",
+            "RazorSharp/Controls/EnumSelect.razor",
+            "RazorSharp/Extensions/RenderExtensions.cs",
+            "RazorSharp/Services/ContextService.cs",
+            "RazorSharp/Services/MenuService.cs",
+            "UserData/Extensions/EnumExtensions.cs",
+            "UserModel/Controls/HasPermission.cs",
+            "UserModel/Services/MenuService.cs"
+          ],
+          "commits": [
+            {
+              "hash": "4178cc1d42b5c5ced5bcd5258ba4bfd653205d69",
+              "author": "Brian Cullinan",
+              "date": "2026-04-10T20:48:55.000Z",
+              "message": "closer to loading a main layout",
+              "linesAdded": 498,
+              "linesDeleted": 259,
+              "filesChanged": [
+                "Atrium/Components/MainLoader.razor",
+                "Atrium/Components/MainLoader.razor.cs",
+                "Atrium/Components/PluginsPage.razor",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Services/MetaExtensions.cs",
+                "Atrium/Services/TrustedLoader.cs",
+                "Atrium/wwwroot/app.html",
+                "DataShared/Extensions/TypeMetadata.cs",
+                "DataShared/ForeignEntity/EntityMetadata.cs",
+                "DataShared/ForeignEntity/Predicate.cs",
+                "DataShared/ForeignEntity/PropertyExtensions.cs",
+                "Extensions/AlienVisitors/AggressiveVisitor.cs",
+                "Extensions/JsonVoorhees/JsonExtensions.cs",
+                "Extensions/PrometheusTypes/EnumExtensions.cs",
+                "Extensions/PrometheusTypes/TypeAssemblies.cs",
+                "Extensions/QueryableChaos/BuildType.cs",
+                "Extensions/QueryableChaos/XNodeExtensions.cs",
+                "FlashCard/Services/ContextService.cs",
+                "Hosting/Services/FormFactor.cs",
+                "Interfacing/Services/IHasPlugin.cs",
+                "RazorSharp/Controls/EnumSelect.razor",
+                "RazorSharp/Extensions/RenderExtensions.cs",
+                "RazorSharp/Services/ContextService.cs",
+                "RazorSharp/Services/MenuService.cs",
+                "UserData/Extensions/EnumExtensions.cs",
+                "UserModel/Controls/HasPermission.cs",
+                "UserModel/Services/MenuService.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-09": {
+          "date": "2026-04-09",
+          "heatScore": 100,
+          "linesChanged": 1406,
+          "commitCount": 1,
+          "filesEdited": [
+            "AnkiParser/AnkiParser.csproj",
+            "AnkiParser/AnkiService.cs",
+            "Atrium/Atrium.csproj",
+            "Atrium/MainLoader.razor",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Services/TrustedLoader.cs",
+            "Atrium/wwwroot/app.html",
+            "Clippy/Clippy.csproj",
+            "Clippy/Services/ChatService.cs",
+            "DataShared/DataShared.csproj",
+            "DataShared/Extensions/TypeMetadata.cs",
+            "DataShared/ForeignEntity/Entry.cs",
+            "DataShared/ForeignEntity/Synchronize.cs",
+            "DataShared/GlobalUsings.cs",
+            "DataStore/DataStore.csproj",
+            "DataStore/Services/LocalStore.cs",
+            "Extensions/AlienVisitors/AggressiveVisitor.cs",
+            "Extensions/ExpressYourself/ToPredicate.cs",
+            "Extensions/Extensions.csproj",
+            "Extensions/GlobalUsings.cs",
+            "Extensions/PrometheusTypes/TypeAssemblies.cs",
+            "Extensions/PrometheusTypes/TypeNavigation.cs",
+            "Extensions/PrometheusTypes/TypeQuestionable.cs",
+            "Extensions/PrometheusTypes/TypeRouting.cs",
+            "Extensions/QueryableChaos/BuildParameters.cs",
+            "Extensions/QueryableChaos/QueryableExtensions.cs",
+            "Extensions/SlenderServices/MetaSupport.cs",
+            "Extensions/SlenderServices/SyncedTitle.cs",
+            "FlashCard/Controls/AnswersControl.razor",
+            "FlashCard/Controls/CardControl.razor",
+            "FlashCard/Controls/CoursesControl.razor",
+            "FlashCard/Controls/EditCardControl.razor",
+            "FlashCard/Controls/PacksControl.razor",
+            "FlashCard/Controls/ResultsCardControl.razor",
+            "FlashCard/GlobalUsings.cs",
+            "FlashCard/Layout/CourseMenuItem.cs",
+            "FlashCard/Pages/Landing/Packs.razor",
+            "FlashCard/Services/ContextService.cs",
+            "FlashCard/Services/StudyService.cs",
+            "FlashCard/_Imports.razor",
+            "Hosting/GlobalUsings.cs",
+            "Hosting/Hosting.csproj",
+            "Hosting/Services/FileDroppings.cs",
+            "Hosting/Services/FormFactor.cs",
+            "Interfacing/Interfacing.csproj",
+            "Interfacing/Services/IAuthService.cs",
+            "Interfacing/Services/IHasPlugin.cs",
+            "Interfacing/Services/IPageManager.cs",
+            "RazorSharp/Controls/EnumSelect.razor",
+            "RazorSharp/Controls/FilesControl.razor",
+            "RazorSharp/Controls/MetadataControl.razor",
+            "{Extensions/SlenderServices => RazorSharp/Controls}/NotFoundControl.cs",
+            "RazorSharp/Controls/StringControl.razor",
+            "RazorSharp/Controls/TypeControl.razor",
+            "RazorSharp/Extensions/RenderExtensions.cs",
+            "{Extensions/PrometheusTypes => RazorSharp/Extensions}/TypeInvokable.cs",
+            "RazorSharp/GlobalUsings.cs",
+            "RazorSharp/Layout/MainLayout.razor",
+            "RazorSharp/Layout/NavMenuItem.cs",
+            "RazorSharp/Pages/Admin/Plugins.razor",
+            "RazorSharp/Pages/Shared/ContextMenu.razor",
+            "RazorSharp/RazorSharp.csproj",
+            "RazorSharp/Routes.razor",
+            "RazorSharp/Services/ContextService.cs",
+            "RazorSharp/Services/PageManager.cs",
+            "RazorSharp/_Imports.razor",
+            "RazorSharp/wwwroot/css/app.css",
+            "RazorSharp/wwwroot/css/forms.css",
+            "Retheme/Retheme.csproj",
+            "UserModel/Controls/GroupsControl.razor",
+            "{Extensions/SlenderServices => UserModel/Controls}/HasPermission.cs",
+            "{Extensions/SlenderServices => UserModel/Controls}/RedirectToLogin.cs",
+            "UserModel/Controls/RolesControl.razor",
+            "UserModel/Controls/UsersControl.razor",
+            "UserModel/GlobalUsings.cs",
+            "UserModel/Pages/Admin/Groups.razor",
+            "UserModel/Pages/Admin/Users.razor",
+            "UserModel/Services/AuthService.cs",
+            "UserModel/Services/LoginService.cs",
+            "UserModel/Services/MenuService.cs",
+            "UserModel/UserModel.csproj"
+          ],
+          "commits": [
+            {
+              "hash": "9a60351f011586615942bcc7d556482610402110",
+              "author": "Brian Cullinan",
+              "date": "2026-04-09T23:23:58.000Z",
+              "message": "bunches of decouplings to get the plugin system to be more entertaining",
+              "linesAdded": 960,
+              "linesDeleted": 446,
+              "filesChanged": [
+                "AnkiParser/AnkiParser.csproj",
+                "AnkiParser/AnkiService.cs",
+                "Atrium/Atrium.csproj",
+                "Atrium/MainLoader.razor",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Services/TrustedLoader.cs",
+                "Atrium/wwwroot/app.html",
+                "Clippy/Clippy.csproj",
+                "Clippy/Services/ChatService.cs",
+                "DataShared/DataShared.csproj",
+                "DataShared/Extensions/TypeMetadata.cs",
+                "DataShared/ForeignEntity/Entry.cs",
+                "DataShared/ForeignEntity/Synchronize.cs",
+                "DataShared/GlobalUsings.cs",
+                "DataStore/DataStore.csproj",
+                "DataStore/Services/LocalStore.cs",
+                "Extensions/AlienVisitors/AggressiveVisitor.cs",
+                "Extensions/ExpressYourself/ToPredicate.cs",
+                "Extensions/Extensions.csproj",
+                "Extensions/GlobalUsings.cs",
+                "Extensions/PrometheusTypes/TypeAssemblies.cs",
+                "Extensions/PrometheusTypes/TypeNavigation.cs",
+                "Extensions/PrometheusTypes/TypeQuestionable.cs",
+                "Extensions/PrometheusTypes/TypeRouting.cs",
+                "Extensions/QueryableChaos/BuildParameters.cs",
+                "Extensions/QueryableChaos/QueryableExtensions.cs",
+                "Extensions/SlenderServices/MetaSupport.cs",
+                "Extensions/SlenderServices/SyncedTitle.cs",
+                "FlashCard/Controls/AnswersControl.razor",
+                "FlashCard/Controls/CardControl.razor",
+                "FlashCard/Controls/CoursesControl.razor",
+                "FlashCard/Controls/EditCardControl.razor",
+                "FlashCard/Controls/PacksControl.razor",
+                "FlashCard/Controls/ResultsCardControl.razor",
+                "FlashCard/GlobalUsings.cs",
+                "FlashCard/Layout/CourseMenuItem.cs",
+                "FlashCard/Pages/Landing/Packs.razor",
+                "FlashCard/Services/ContextService.cs",
+                "FlashCard/Services/StudyService.cs",
+                "FlashCard/_Imports.razor",
+                "Hosting/GlobalUsings.cs",
+                "Hosting/Hosting.csproj",
+                "Hosting/Services/FileDroppings.cs",
+                "Hosting/Services/FormFactor.cs",
+                "Interfacing/Interfacing.csproj",
+                "Interfacing/Services/IAuthService.cs",
+                "Interfacing/Services/IHasPlugin.cs",
+                "Interfacing/Services/IPageManager.cs",
+                "RazorSharp/Controls/EnumSelect.razor",
+                "RazorSharp/Controls/FilesControl.razor",
+                "RazorSharp/Controls/MetadataControl.razor",
+                "{Extensions/SlenderServices => RazorSharp/Controls}/NotFoundControl.cs",
+                "RazorSharp/Controls/StringControl.razor",
+                "RazorSharp/Controls/TypeControl.razor",
+                "RazorSharp/Extensions/RenderExtensions.cs",
+                "{Extensions/PrometheusTypes => RazorSharp/Extensions}/TypeInvokable.cs",
+                "RazorSharp/GlobalUsings.cs",
+                "RazorSharp/Layout/MainLayout.razor",
+                "RazorSharp/Layout/NavMenuItem.cs",
+                "RazorSharp/Pages/Admin/Plugins.razor",
+                "RazorSharp/Pages/Shared/ContextMenu.razor",
+                "RazorSharp/RazorSharp.csproj",
+                "RazorSharp/Routes.razor",
+                "RazorSharp/Services/ContextService.cs",
+                "RazorSharp/Services/PageManager.cs",
+                "RazorSharp/_Imports.razor",
+                "RazorSharp/wwwroot/css/app.css",
+                "RazorSharp/wwwroot/css/forms.css",
+                "Retheme/Retheme.csproj",
+                "UserModel/Controls/GroupsControl.razor",
+                "{Extensions/SlenderServices => UserModel/Controls}/HasPermission.cs",
+                "{Extensions/SlenderServices => UserModel/Controls}/RedirectToLogin.cs",
+                "UserModel/Controls/RolesControl.razor",
+                "UserModel/Controls/UsersControl.razor",
+                "UserModel/GlobalUsings.cs",
+                "UserModel/Pages/Admin/Groups.razor",
+                "UserModel/Pages/Admin/Users.razor",
+                "UserModel/Services/AuthService.cs",
+                "UserModel/Services/LoginService.cs",
+                "UserModel/Services/MenuService.cs",
+                "UserModel/UserModel.csproj"
+              ]
+            }
+          ]
+        },
+        "2026-04-08": {
+          "date": "2026-04-08",
+          "heatScore": 56,
+          "linesChanged": 704,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Atrium.csproj",
+            "Atrium/MainPage.xaml",
+            "Atrium/Platforms/Windows/App.xaml.cs",
+            "Atrium/Resources/AppIcon/triangle.svg",
+            "Atrium/wwwroot/app.html",
+            "DataShared/ForeignEntity/IDecouplings.cs",
+            "Extensions/PrometheusTypes/TypeAssemblies.cs",
+            "Extensions/PrometheusTypes/TypeInvokable.cs",
+            "Extensions/PrometheusTypes/TypeRouting.cs",
+            "Extensions/SlenderServices/HasPermission.cs",
+            "FlashCard/FlashCard.csproj",
+            "FlashCard/wwwroot/css/course.css",
+            "Hosting/Services/FileManager.cs",
+            "Hosting/Services/FileOpenings.cs",
+            "Interfacing/Services/IPageExtensions.cs",
+            "Interfacing/Services/IPageManager.cs",
+            "RazorSharp/Layout/MainLayout.razor",
+            "RazorSharp/Layout/NavMenu.razor",
+            "RazorSharp/Layout/NavMenuItem.cs",
+            "RazorSharp/Pages/Landing/Privacy.razor",
+            "RazorSharp/Pages/Landing/Search.razor",
+            "RazorSharp/Pages/Landing/Terms.razor",
+            "RazorSharp/RazorSharp.csproj",
+            "RazorSharp/Services/MenuService.cs",
+            "RazorSharp/Services/PageManager.cs",
+            "RazorSharp/Services/SharedRegistry.cs",
+            "RazorSharp/wwwroot/css/app.css",
+            "RazorSharp/wwwroot/css/card.css",
+            "RazorSharp/wwwroot/css/forms.css",
+            "RazorSharp/wwwroot/css/menu.css",
+            "RazorSharp/wwwroot/css/style.css",
+            "RazorSharp/wwwroot/favicon.ico",
+            "RazorSharp/wwwroot/triangle.ico",
+            "RazorSharp/wwwroot/triangle.svg",
+            "WebClient/Components/App.razor",
+            "WebClient/wwwroot/service-worker-assets.js"
+          ],
+          "commits": [
+            {
+              "hash": "aa2ca873a13d305306ea7df581cb705e4806f7bb",
+              "author": "Brian Cullinan",
+              "date": "2026-04-08T23:47:59.000Z",
+              "message": "app loading and menu loading dynamically, intending to add a \"first-time\" service to load plugins",
+              "linesAdded": 440,
+              "linesDeleted": 264,
+              "filesChanged": [
+                "Atrium/Atrium.csproj",
+                "Atrium/MainPage.xaml",
+                "Atrium/Platforms/Windows/App.xaml.cs",
+                "Atrium/Resources/AppIcon/triangle.svg",
+                "Atrium/wwwroot/app.html",
+                "DataShared/ForeignEntity/IDecouplings.cs",
+                "Extensions/PrometheusTypes/TypeAssemblies.cs",
+                "Extensions/PrometheusTypes/TypeInvokable.cs",
+                "Extensions/PrometheusTypes/TypeRouting.cs",
+                "Extensions/SlenderServices/HasPermission.cs",
+                "FlashCard/FlashCard.csproj",
+                "FlashCard/wwwroot/css/course.css",
+                "Hosting/Services/FileManager.cs",
+                "Hosting/Services/FileOpenings.cs",
+                "Interfacing/Services/IPageExtensions.cs",
+                "Interfacing/Services/IPageManager.cs",
+                "RazorSharp/Layout/MainLayout.razor",
+                "RazorSharp/Layout/NavMenu.razor",
+                "RazorSharp/Layout/NavMenuItem.cs",
+                "RazorSharp/Pages/Landing/Privacy.razor",
+                "RazorSharp/Pages/Landing/Search.razor",
+                "RazorSharp/Pages/Landing/Terms.razor",
+                "RazorSharp/RazorSharp.csproj",
+                "RazorSharp/Services/MenuService.cs",
+                "RazorSharp/Services/PageManager.cs",
+                "RazorSharp/Services/SharedRegistry.cs",
+                "RazorSharp/wwwroot/css/app.css",
+                "RazorSharp/wwwroot/css/card.css",
+                "RazorSharp/wwwroot/css/forms.css",
+                "RazorSharp/wwwroot/css/menu.css",
+                "RazorSharp/wwwroot/css/style.css",
+                "RazorSharp/wwwroot/favicon.ico",
+                "RazorSharp/wwwroot/triangle.ico",
+                "RazorSharp/wwwroot/triangle.svg",
+                "WebClient/Components/App.razor",
+                "WebClient/wwwroot/service-worker-assets.js"
+              ]
+            }
+          ]
+        },
+        "2026-04-07": {
+          "date": "2026-04-07",
+          "heatScore": 100,
+          "linesChanged": 2552,
+          "commitCount": 1,
+          "filesEdited": [
+            "AnkiParser/AnkiAcquisition.cs",
+            "AnkiParser/AnkiParser.csproj",
+            "AnkiParser/AnkiService.cs",
+            "AnkiParser/GlobalUsings.cs",
+            "AnkiParser/Parser.cs",
+            "AnkiParser/TranslationContext.cs",
+            "Atrium.slnx",
+            "Atrium/Atrium.csproj",
+            "Atrium/GlobalUsings.cs",
+            "Atrium/Logging/Logger.cs",
+            "Atrium/MauiProgram.cs",
+            "Clippy/Clippy.csproj",
+            "Clippy/GlobalUsings.cs",
+            "Clippy/Layout/ChatMenu.razor",
+            "Clippy/Pages/Install.razor",
+            "Clippy/Services/ChatCommands.cs",
+            "Clippy/Services/ChatExecute.cs",
+            "Clippy/Services/ChatResponses.cs",
+            "Clippy/Services/ChatService.cs",
+            "Clippy/Services/ChatSettings.cs",
+            "Clippy/Services/IChatService.cs",
+            "Clippy/Services/LayoutService.cs",
+            "Clippy/Services/LocalService.cs",
+            "Clippy/Services/ServicePresets.cs",
+            "Clippy/_Imports.razor",
+            "DataShared/DataShared.csproj",
+            "DataShared/Extensions/FingerPrint.cs",
+            "DataShared/Extensions/JsonHelper.cs",
+            "DataShared/Extensions/TypeExtensions.cs",
+            "{Extensions => DataShared}/ForeignEntity/Create.cs",
+            "{Extensions => DataShared}/ForeignEntity/DataTablesModels.cs",
+            "Extensions/ForeignEntity/IEntity.cs => DataShared/ForeignEntity/Entity.cs",
+            "{Extensions => DataShared}/ForeignEntity/EntityMetadata.cs",
+            "{Extensions => DataShared}/ForeignEntity/Entry.cs",
+            "{Extensions => DataShared}/ForeignEntity/IAsyncQueryable.cs",
+            "DataShared/ForeignEntity/IDecouplings.cs",
+            "DataShared/ForeignEntity/IEntity.cs",
+            "{Extensions => DataShared}/ForeignEntity/IEntityExtensions.cs",
+            "{Extensions => DataShared}/ForeignEntity/IGenerator.cs",
+            "{Extensions => DataShared}/ForeignEntity/IQueryManager.cs",
+            "{Extensions => DataShared}/ForeignEntity/Predicate.cs",
+            "{Extensions => DataShared}/ForeignEntity/PropertyExtensions.cs",
+            "{Extensions => DataShared}/ForeignEntity/Save.cs",
+            "{Extensions => DataShared}/ForeignEntity/Synchronize.cs",
+            "{Extensions => DataShared}/ForeignEntity/Update.cs",
+            "DataShared/GlobalUsings.cs",
+            "DataStore/Customization.cs",
+            "DataStore/DataStore.csproj",
+            "DataStore/GlobalUsings.cs",
+            "DataStore/Providers/AsyncQueryable.cs",
+            "DataStore/Providers/DataTablesRequestModel.cs",
+            "DataStore/Providers/QueryProvider.cs",
+            "DataStore/Providers/RemoteProvider.cs",
+            "DataStore/Providers/TranslationContext.cs",
+            "DataStore/Services/{ILocalStore.cs => LocalStore.cs}",
+            "DataStore/Services/QueryManager.cs",
+            "DataStore/Services/QueryService.cs",
+            "DataStore/Services/RemoteManager.cs",
+            "Extensions/AlienVisitors/AggressiveVisitor.cs",
+            "Extensions/AlienVisitors/RootReplacementVisitor.cs",
+            "Extensions/ExpressYourself/ExpressionExtensions.cs",
+            "Extensions/ExpressYourself/ToMember.cs",
+            "Extensions/ExpressYourself/ToPredicate.cs",
+            "Extensions/Extensions.csproj",
+            "Extensions/ForeignEntity/Decouplings.cs",
+            "Extensions/GlobalUsings.cs",
+            "Extensions/PlayfulPlatforms/Windows/Elevation.cs",
+            "Extensions/PlayfulPlatforms/Windows/OpenPort.cs",
+            "Extensions/PrometheusTypes/EnumExtensions.cs",
+            "Extensions/PrometheusTypes/TaskDebounce.cs",
+            "Extensions/PrometheusTypes/TaskTimer.cs",
+            "Extensions/PrometheusTypes/TypeAssemblies.cs",
+            "Extensions/PrometheusTypes/TypeExtensions.cs",
+            "Extensions/PrometheusTypes/TypeMetadata.cs",
+            "Extensions/PrometheusTypes/TypeQuestionable.cs",
+            "Extensions/PrometheusTypes/TypeRouting.cs",
+            "Extensions/QueryableChaos/BuildParameters.cs",
+            "Extensions/QueryableChaos/BuildType.cs",
+            "Extensions/QueryableChaos/LinqExtensions.cs",
+            "Extensions/QueryableChaos/QueryableExtensions.cs",
+            "Extensions/QueryableChaos/XNodeExtensions.cs",
+            "Extensions/SlenderServices/DelegateProxy.cs",
+            "Extensions/SlenderServices/HasPermission.cs",
+            "Extensions/SlenderServices/MetaSupport.cs",
+            "Extensions/SlenderServices/ProgressableStream.cs",
+            "Extensions/SlenderServices/RedirectToLogin.cs",
+            "Extensions/SlenderServices/SyncedTitle.cs",
+            "FlashCard/FlashCard.csproj",
+            "FlashCard/GlobalUsings.cs",
+            "FlashCard/Layout/CourseMenu.razor",
+            "FlashCard/Layout/CourseMenuItem.cs",
+            "FlashCard/Pages/Shared/Course.razor",
+            "FlashCard/Pages/Shared/Packs.razor",
+            "FlashCard/Services/ContextService.cs",
+            "FlashCard/Services/StudyService.cs",
+            "FlashData/Entities/Course.cs",
+            "FlashData/Entities/File.cs",
+            "FlashData/Entities/Goal.cs",
+            "FlashData/Entities/Pack.cs",
+            "FlashData/Entities/Payment.cs",
+            "FlashData/Entities/Response.cs",
+            "FlashData/Entities/Schedule.cs",
+            "FlashData/Entities/UserPack.cs",
+            "FlashData/FlashData.csproj",
+            "Hosting/GlobalUsings.cs",
+            "Hosting/Platforms/Browser/BrowserWorker.cs",
+            "Hosting/Platforms/Browser/WasmLoader.cs",
+            "Hosting/Platforms/Windows/WasmLoader.cs",
+            "Hosting/Services/CircuitProvider.cs",
+            "Hosting/Services/FileManager.cs",
+            "Hosting/Services/FormFactor.cs",
+            "Hosting/Services/RenderComponent.cs",
+            "Hosting/Services/WebServer.cs",
+            "Interfacing/GlobalUsings.cs",
+            "Interfacing/Interfacing.csproj",
+            "{Extensions/SlenderServices => Interfacing/Services}/IAnkiService.cs",
+            "{Extensions/SlenderServices => Interfacing/Services}/IAuthService.cs",
+            "Interfacing/Services/IChatService.cs",
+            "{Extensions/SlenderServices => Interfacing/Services}/ICircuitProvider.cs",
+            "{Extensions/SlenderServices => Interfacing/Services}/IFileManager.cs",
+            "{Extensions/SlenderServices => Interfacing/Services}/IFormFactor.cs",
+            "{Extensions/SlenderServices => Interfacing/Services}/IHostingService.cs",
+            "{Extensions/SlenderServices => Interfacing/Services}/ILocalStore.cs",
+            "{Extensions/SlenderServices => Interfacing/Services}/ILoginService.cs",
+            "{Extensions/SlenderServices => Interfacing/Services}/INavMenu.cs",
+            "{Extensions/SlenderServices => Interfacing/Services}/IPageExtensions.cs",
+            "{Extensions/SlenderServices => Interfacing/Services}/IPageManager.cs",
+            "{Extensions/ForeignEntity => Interfacing/Services}/IRenderState.cs",
+            "Merchantry/Extensions/IPageMetadata.cs",
+            "README.md",
+            "RazorSharp/Controls/FilesControl.razor",
+            "RazorSharp/GlobalUsings.cs",
+            "RazorSharp/Layout/MainLayout.razor",
+            "RazorSharp/Layout/NavMenu.razor",
+            "RazorSharp/Pages/Shared/Console.razor",
+            "RazorSharp/Services/ContextService.cs",
+            "RazorSharp/Services/MenuService.cs",
+            "RazorSharp/Services/NavigationTracker.cs",
+            "RazorSharp/Services/PageManager.cs",
+            "RazorSharp/Services/SharedRegistry.cs",
+            "RazorSharp/Services/SimpleLogger.cs",
+            "Retheme/Retheme.cs",
+            "Retheme/Retheme.csproj",
+            "UserData/Entities/Group.cs",
+            "UserData/Entities/User.cs",
+            "UserData/Extensions/EnumExtensions.cs",
+            "UserData/Generators/Groups.cs",
+            "UserData/Generators/Permissions.cs",
+            "UserData/Generators/Roles.cs",
+            "UserData/Generators/Users.cs",
+            "UserData/GlobalUsings.cs",
+            "UserData/Selectors.cs",
+            "UserData/UserData.csproj",
+            "UserModel/Extensions/Providers.cs",
+            "UserModel/Extensions/Scopes.cs",
+            "UserModel/GlobalUsings.cs",
+            "UserModel/Services/AuthService.cs",
+            "UserModel/Services/LoginService.cs",
+            "UserModel/Services/MenuService.cs",
+            "UserModel/Services/ServerAuthService.cs",
+            "WebClient/Program.cs"
+          ],
+          "commits": [
+            {
+              "hash": "a2e17c207622f2e27c14503f220ca9621c412317",
+              "author": "Brian Cullinan",
+              "date": "2026-04-07T23:50:30.000Z",
+              "message": "some projects building some not",
+              "linesAdded": 1373,
+              "linesDeleted": 1179,
+              "filesChanged": [
+                "AnkiParser/AnkiAcquisition.cs",
+                "AnkiParser/AnkiParser.csproj",
+                "AnkiParser/AnkiService.cs",
+                "AnkiParser/GlobalUsings.cs",
+                "AnkiParser/Parser.cs",
+                "AnkiParser/TranslationContext.cs",
+                "Atrium.slnx",
+                "Atrium/Atrium.csproj",
+                "Atrium/GlobalUsings.cs",
+                "Atrium/Logging/Logger.cs",
+                "Atrium/MauiProgram.cs",
+                "Clippy/Clippy.csproj",
+                "Clippy/GlobalUsings.cs",
+                "Clippy/Layout/ChatMenu.razor",
+                "Clippy/Pages/Install.razor",
+                "Clippy/Services/ChatCommands.cs",
+                "Clippy/Services/ChatExecute.cs",
+                "Clippy/Services/ChatResponses.cs",
+                "Clippy/Services/ChatService.cs",
+                "Clippy/Services/ChatSettings.cs",
+                "Clippy/Services/IChatService.cs",
+                "Clippy/Services/LayoutService.cs",
+                "Clippy/Services/LocalService.cs",
+                "Clippy/Services/ServicePresets.cs",
+                "Clippy/_Imports.razor",
+                "DataShared/DataShared.csproj",
+                "DataShared/Extensions/FingerPrint.cs",
+                "DataShared/Extensions/JsonHelper.cs",
+                "DataShared/Extensions/TypeExtensions.cs",
+                "{Extensions => DataShared}/ForeignEntity/Create.cs",
+                "{Extensions => DataShared}/ForeignEntity/DataTablesModels.cs",
+                "Extensions/ForeignEntity/IEntity.cs => DataShared/ForeignEntity/Entity.cs",
+                "{Extensions => DataShared}/ForeignEntity/EntityMetadata.cs",
+                "{Extensions => DataShared}/ForeignEntity/Entry.cs",
+                "{Extensions => DataShared}/ForeignEntity/IAsyncQueryable.cs",
+                "DataShared/ForeignEntity/IDecouplings.cs",
+                "DataShared/ForeignEntity/IEntity.cs",
+                "{Extensions => DataShared}/ForeignEntity/IEntityExtensions.cs",
+                "{Extensions => DataShared}/ForeignEntity/IGenerator.cs",
+                "{Extensions => DataShared}/ForeignEntity/IQueryManager.cs",
+                "{Extensions => DataShared}/ForeignEntity/Predicate.cs",
+                "{Extensions => DataShared}/ForeignEntity/PropertyExtensions.cs",
+                "{Extensions => DataShared}/ForeignEntity/Save.cs",
+                "{Extensions => DataShared}/ForeignEntity/Synchronize.cs",
+                "{Extensions => DataShared}/ForeignEntity/Update.cs",
+                "DataShared/GlobalUsings.cs",
+                "DataStore/Customization.cs",
+                "DataStore/DataStore.csproj",
+                "DataStore/GlobalUsings.cs",
+                "DataStore/Providers/AsyncQueryable.cs",
+                "DataStore/Providers/DataTablesRequestModel.cs",
+                "DataStore/Providers/QueryProvider.cs",
+                "DataStore/Providers/RemoteProvider.cs",
+                "DataStore/Providers/TranslationContext.cs",
+                "DataStore/Services/{ILocalStore.cs => LocalStore.cs}",
+                "DataStore/Services/QueryManager.cs",
+                "DataStore/Services/QueryService.cs",
+                "DataStore/Services/RemoteManager.cs",
+                "Extensions/AlienVisitors/AggressiveVisitor.cs",
+                "Extensions/AlienVisitors/RootReplacementVisitor.cs",
+                "Extensions/ExpressYourself/ExpressionExtensions.cs",
+                "Extensions/ExpressYourself/ToMember.cs",
+                "Extensions/ExpressYourself/ToPredicate.cs",
+                "Extensions/Extensions.csproj",
+                "Extensions/ForeignEntity/Decouplings.cs",
+                "Extensions/GlobalUsings.cs",
+                "Extensions/PlayfulPlatforms/Windows/Elevation.cs",
+                "Extensions/PlayfulPlatforms/Windows/OpenPort.cs",
+                "Extensions/PrometheusTypes/EnumExtensions.cs",
+                "Extensions/PrometheusTypes/TaskDebounce.cs",
+                "Extensions/PrometheusTypes/TaskTimer.cs",
+                "Extensions/PrometheusTypes/TypeAssemblies.cs",
+                "Extensions/PrometheusTypes/TypeExtensions.cs",
+                "Extensions/PrometheusTypes/TypeMetadata.cs",
+                "Extensions/PrometheusTypes/TypeQuestionable.cs",
+                "Extensions/PrometheusTypes/TypeRouting.cs",
+                "Extensions/QueryableChaos/BuildParameters.cs",
+                "Extensions/QueryableChaos/BuildType.cs",
+                "Extensions/QueryableChaos/LinqExtensions.cs",
+                "Extensions/QueryableChaos/QueryableExtensions.cs",
+                "Extensions/QueryableChaos/XNodeExtensions.cs",
+                "Extensions/SlenderServices/DelegateProxy.cs",
+                "Extensions/SlenderServices/HasPermission.cs",
+                "Extensions/SlenderServices/MetaSupport.cs",
+                "Extensions/SlenderServices/ProgressableStream.cs",
+                "Extensions/SlenderServices/RedirectToLogin.cs",
+                "Extensions/SlenderServices/SyncedTitle.cs",
+                "FlashCard/FlashCard.csproj",
+                "FlashCard/GlobalUsings.cs",
+                "FlashCard/Layout/CourseMenu.razor",
+                "FlashCard/Layout/CourseMenuItem.cs",
+                "FlashCard/Pages/Shared/Course.razor",
+                "FlashCard/Pages/Shared/Packs.razor",
+                "FlashCard/Services/ContextService.cs",
+                "FlashCard/Services/StudyService.cs",
+                "FlashData/Entities/Course.cs",
+                "FlashData/Entities/File.cs",
+                "FlashData/Entities/Goal.cs",
+                "FlashData/Entities/Pack.cs",
+                "FlashData/Entities/Payment.cs",
+                "FlashData/Entities/Response.cs",
+                "FlashData/Entities/Schedule.cs",
+                "FlashData/Entities/UserPack.cs",
+                "FlashData/FlashData.csproj",
+                "Hosting/GlobalUsings.cs",
+                "Hosting/Platforms/Browser/BrowserWorker.cs",
+                "Hosting/Platforms/Browser/WasmLoader.cs",
+                "Hosting/Platforms/Windows/WasmLoader.cs",
+                "Hosting/Services/CircuitProvider.cs",
+                "Hosting/Services/FileManager.cs",
+                "Hosting/Services/FormFactor.cs",
+                "Hosting/Services/RenderComponent.cs",
+                "Hosting/Services/WebServer.cs",
+                "Interfacing/GlobalUsings.cs",
+                "Interfacing/Interfacing.csproj",
+                "{Extensions/SlenderServices => Interfacing/Services}/IAnkiService.cs",
+                "{Extensions/SlenderServices => Interfacing/Services}/IAuthService.cs",
+                "Interfacing/Services/IChatService.cs",
+                "{Extensions/SlenderServices => Interfacing/Services}/ICircuitProvider.cs",
+                "{Extensions/SlenderServices => Interfacing/Services}/IFileManager.cs",
+                "{Extensions/SlenderServices => Interfacing/Services}/IFormFactor.cs",
+                "{Extensions/SlenderServices => Interfacing/Services}/IHostingService.cs",
+                "{Extensions/SlenderServices => Interfacing/Services}/ILocalStore.cs",
+                "{Extensions/SlenderServices => Interfacing/Services}/ILoginService.cs",
+                "{Extensions/SlenderServices => Interfacing/Services}/INavMenu.cs",
+                "{Extensions/SlenderServices => Interfacing/Services}/IPageExtensions.cs",
+                "{Extensions/SlenderServices => Interfacing/Services}/IPageManager.cs",
+                "{Extensions/ForeignEntity => Interfacing/Services}/IRenderState.cs",
+                "Merchantry/Extensions/IPageMetadata.cs",
+                "README.md",
+                "RazorSharp/Controls/FilesControl.razor",
+                "RazorSharp/GlobalUsings.cs",
+                "RazorSharp/Layout/MainLayout.razor",
+                "RazorSharp/Layout/NavMenu.razor",
+                "RazorSharp/Pages/Shared/Console.razor",
+                "RazorSharp/Services/ContextService.cs",
+                "RazorSharp/Services/MenuService.cs",
+                "RazorSharp/Services/NavigationTracker.cs",
+                "RazorSharp/Services/PageManager.cs",
+                "RazorSharp/Services/SharedRegistry.cs",
+                "RazorSharp/Services/SimpleLogger.cs",
+                "Retheme/Retheme.cs",
+                "Retheme/Retheme.csproj",
+                "UserData/Entities/Group.cs",
+                "UserData/Entities/User.cs",
+                "UserData/Extensions/EnumExtensions.cs",
+                "UserData/Generators/Groups.cs",
+                "UserData/Generators/Permissions.cs",
+                "UserData/Generators/Roles.cs",
+                "UserData/Generators/Users.cs",
+                "UserData/GlobalUsings.cs",
+                "UserData/Selectors.cs",
+                "UserData/UserData.csproj",
+                "UserModel/Extensions/Providers.cs",
+                "UserModel/Extensions/Scopes.cs",
+                "UserModel/GlobalUsings.cs",
+                "UserModel/Services/AuthService.cs",
+                "UserModel/Services/LoginService.cs",
+                "UserModel/Services/MenuService.cs",
+                "UserModel/Services/ServerAuthService.cs",
+                "WebClient/Program.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-06": {
+          "date": "2026-04-06",
+          "heatScore": 28,
+          "linesChanged": 284,
+          "commitCount": 1,
+          "filesEdited": [
+            "AnkiParser/AnkiParser.csproj",
+            "DataStore/GlobalUsings.cs",
+            "DataStore/Services/ILocalStore.cs",
+            "Extensions/GlobalUsings.cs",
+            "Extensions/PrometheusTypes/TypeInvokable.cs",
+            "Extensions/PrometheusTypes/TypeRouting.cs",
+            "Extensions/SlenderServices/ILocalStore.cs",
+            "Extensions/SlenderServices/ILoginService.cs",
+            "Extensions/SlenderServices/INavMenu.cs",
+            "FlashCard/Pages/Landing/Home.razor",
+            "FlashCard/Pages/Landing/Pack.razor",
+            "FlashCard/Pages/Landing/Packs.razor",
+            "Hosting/Services/CircuitResponders.cs",
+            "Hosting/Services/FileManager.cs",
+            "Hosting/Services/FormFactor.cs",
+            "Merchantry/Pages/Content/Upload.razor",
+            "Merchantry/_Imports.razor",
+            "RazorSharp/GlobalUsings.cs",
+            "RazorSharp/Layout/MainLayout.razor",
+            "RazorSharp/Layout/NavMenu.razor",
+            "RazorSharp/Pages/Landing/Generic.razor",
+            "RazorSharp/Pages/Landing/Privacy.razor",
+            "RazorSharp/Pages/Shared/Generic.razor",
+            "RazorSharp/Services/{IMenuService.cs => MenuService.cs}",
+            "RazorSharp/Services/NavigationTracker.cs",
+            "RazorSharp/Services/SimpleLogger.cs",
+            "UserModel/Services/LoginService.cs"
+          ],
+          "commits": [
+            {
+              "hash": "717e30e981851c7fb530aa2aa4ba2ac6f6c9e130",
+              "author": "Brian Cullinan",
+              "date": "2026-04-06T21:57:32.000Z",
+              "message": "learning to make menus dynamic",
+              "linesAdded": 183,
+              "linesDeleted": 101,
+              "filesChanged": [
+                "AnkiParser/AnkiParser.csproj",
+                "DataStore/GlobalUsings.cs",
+                "DataStore/Services/ILocalStore.cs",
+                "Extensions/GlobalUsings.cs",
+                "Extensions/PrometheusTypes/TypeInvokable.cs",
+                "Extensions/PrometheusTypes/TypeRouting.cs",
+                "Extensions/SlenderServices/ILocalStore.cs",
+                "Extensions/SlenderServices/ILoginService.cs",
+                "Extensions/SlenderServices/INavMenu.cs",
+                "FlashCard/Pages/Landing/Home.razor",
+                "FlashCard/Pages/Landing/Pack.razor",
+                "FlashCard/Pages/Landing/Packs.razor",
+                "Hosting/Services/CircuitResponders.cs",
+                "Hosting/Services/FileManager.cs",
+                "Hosting/Services/FormFactor.cs",
+                "Merchantry/Pages/Content/Upload.razor",
+                "Merchantry/_Imports.razor",
+                "RazorSharp/GlobalUsings.cs",
+                "RazorSharp/Layout/MainLayout.razor",
+                "RazorSharp/Layout/NavMenu.razor",
+                "RazorSharp/Pages/Landing/Generic.razor",
+                "RazorSharp/Pages/Landing/Privacy.razor",
+                "RazorSharp/Pages/Shared/Generic.razor",
+                "RazorSharp/Services/{IMenuService.cs => MenuService.cs}",
+                "RazorSharp/Services/NavigationTracker.cs",
+                "RazorSharp/Services/SimpleLogger.cs",
+                "UserModel/Services/LoginService.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-05": {
+          "date": "2026-04-05",
+          "heatScore": 20,
+          "linesChanged": 150,
+          "commitCount": 1,
+          "filesEdited": [
+            "Extensions/PrometheusTypes/TaskDebounce.cs",
+            "Extensions/PrometheusTypes/TypeAssemblies.cs",
+            "Extensions/PrometheusTypes/TypeRouting.cs",
+            "Extensions/SlenderServices/ICircuitProvider.cs",
+            "Hosting/Services/CircuitProvider.cs"
+          ],
+          "commits": [
+            {
+              "hash": "a3a1f8e72b2c3bcd58fb965c7ab84a17a6180712",
+              "author": "Brian Cullinan",
+              "date": "2026-04-05T20:29:31.000Z",
+              "message": "still trying to get round trip ubiquitous, so i have ubiquitous rpc and ubiquitous data storage in every context",
+              "linesAdded": 104,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "Extensions/PrometheusTypes/TaskDebounce.cs",
+                "Extensions/PrometheusTypes/TypeAssemblies.cs",
+                "Extensions/PrometheusTypes/TypeRouting.cs",
+                "Extensions/SlenderServices/ICircuitProvider.cs",
+                "Hosting/Services/CircuitProvider.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-04": {
+          "date": "2026-04-04",
+          "heatScore": 18,
+          "linesChanged": 134,
+          "commitCount": 1,
+          "filesEdited": [
+            "Hosting/Hosting.csproj",
+            "Hosting/Services/CircuitProvider.cs"
+          ],
+          "commits": [
+            {
+              "hash": "a3732671ddbc4a83b809102461d6edc824b47250",
+              "author": "Brian Cullinan",
+              "date": "2026-04-04T19:08:06.000Z",
+              "message": "fixing server state from client connections",
+              "linesAdded": 53,
+              "linesDeleted": 81,
+              "filesChanged": [
+                "Hosting/Hosting.csproj",
+                "Hosting/Services/CircuitProvider.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-03": {
+          "date": "2026-04-03",
+          "heatScore": 17,
+          "linesChanged": 118,
+          "commitCount": 1,
+          "filesEdited": [
+            "Extensions/AlienVisitors/ClosureEvaluatorVisitor.cs",
+            "Extensions/GlobalUsings.cs",
+            "Extensions/JsonVoorhees/JsonExtensions.cs",
+            "Extensions/JsonVoorhees/JsonHelper.cs",
+            "Extensions/LostLogger.cs",
+            "Extensions/MagicalMaths/FingerPrint.cs",
+            "Extensions/PrometheusTypes/EnumExtensions.cs",
+            "Extensions/PrometheusTypes/StringExtensions.cs",
+            "Extensions/QueryableChaos/BuildConstant.cs",
+            "Extensions/QueryableChaos/BuildExpression.cs",
+            "Extensions/QueryableChaos/BuildLeftRight.cs",
+            "Extensions/QueryableChaos/BuildMember.cs",
+            "Extensions/QueryableChaos/BuildMethod.cs",
+            "Extensions/QueryableChaos/BuildParameters.cs",
+            "Extensions/QueryableChaos/BuildType.cs",
+            "Extensions/QueryableChaos/QueryableExtensions.cs",
+            "Extensions/QueryableChaos/XNodeExtensions.cs"
+          ],
+          "commits": [
+            {
+              "hash": "d2a423b91f3a71ab94c2e32b4e07615881b1edd1",
+              "author": "Brian Cullinan",
+              "date": "2026-04-03T20:02:32.000Z",
+              "message": "more using fixes",
+              "linesAdded": 17,
+              "linesDeleted": 101,
+              "filesChanged": [
+                "Extensions/AlienVisitors/ClosureEvaluatorVisitor.cs",
+                "Extensions/GlobalUsings.cs",
+                "Extensions/JsonVoorhees/JsonExtensions.cs",
+                "Extensions/JsonVoorhees/JsonHelper.cs",
+                "Extensions/LostLogger.cs",
+                "Extensions/MagicalMaths/FingerPrint.cs",
+                "Extensions/PrometheusTypes/EnumExtensions.cs",
+                "Extensions/PrometheusTypes/StringExtensions.cs",
+                "Extensions/QueryableChaos/BuildConstant.cs",
+                "Extensions/QueryableChaos/BuildExpression.cs",
+                "Extensions/QueryableChaos/BuildLeftRight.cs",
+                "Extensions/QueryableChaos/BuildMember.cs",
+                "Extensions/QueryableChaos/BuildMethod.cs",
+                "Extensions/QueryableChaos/BuildParameters.cs",
+                "Extensions/QueryableChaos/BuildType.cs",
+                "Extensions/QueryableChaos/QueryableExtensions.cs",
+                "Extensions/QueryableChaos/XNodeExtensions.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-02": {
+          "date": "2026-04-02",
+          "heatScore": 16,
+          "linesChanged": 96,
+          "commitCount": 1,
+          "filesEdited": [
+            "FlashCard/Controls/RedirectToLogin.razor",
+            "FlashCard/Layout/MainLayout.razor",
+            "FlashCard/Pages/Landing/Login.razor",
+            "FlashCard/Services/LoginService.cs",
+            "FlashCard/Services/PageManager.cs",
+            "FlashCard/Utilities/Extensions/NavigationExtensions.cs"
+          ],
+          "commits": [
+            {
+              "hash": "0796a21e60e975fa16b8ad810705f268ec00628b",
+              "author": "Brian Cullinan",
+              "date": "2026-04-02T22:51:04.000Z",
+              "message": "couple login flow bugs, going through auth, needs a bug fix between browser session and server",
+              "linesAdded": 60,
+              "linesDeleted": 36,
+              "filesChanged": [
+                "FlashCard/Controls/RedirectToLogin.razor",
+                "FlashCard/Layout/MainLayout.razor",
+                "FlashCard/Pages/Landing/Login.razor",
+                "FlashCard/Services/LoginService.cs",
+                "FlashCard/Services/PageManager.cs",
+                "FlashCard/Utilities/Extensions/NavigationExtensions.cs"
+              ]
+            }
+          ]
+        },
+        "2026-04-01": {
+          "date": "2026-04-01",
+          "heatScore": 17,
+          "linesChanged": 107,
+          "commitCount": 1,
+          "filesEdited": [
+            "Atrium/Components/App.razor",
+            "Atrium/MauiProgram.cs",
+            "Atrium/Services/AtriumWebServer.cs",
+            "Atrium/wwwroot/app.html",
+            "DataLayer/Utilities/ILocalStore.cs",
+            "FlashCard/Services/PageManager.cs",
+            "FlashCard/Services/SharedRegistry.cs",
+            "FlashCard/Services/SimpleLogger.cs",
+            "WebClient/Program.cs",
+            "WebClient/wwwroot/service-worker.published.js"
+          ],
+          "commits": [
+            {
+              "hash": "2e1cc1c95b48fdc77a582a9377225c0d468c47e0",
+              "author": "Brian Cullinan",
+              "date": "2026-04-01T21:21:21.000Z",
+              "message": "better local store startup, was making a confusing situation where app is in server mode through web server needs a idb access, getting use to signalr",
+              "linesAdded": 91,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "Atrium/Components/App.razor",
+                "Atrium/MauiProgram.cs",
+                "Atrium/Services/AtriumWebServer.cs",
+                "Atrium/wwwroot/app.html",
+                "DataLayer/Utilities/ILocalStore.cs",
+                "FlashCard/Services/PageManager.cs",
+                "FlashCard/Services/SharedRegistry.cs",
+                "FlashCard/Services/SimpleLogger.cs",
+                "WebClient/Program.cs",
+                "WebClient/wwwroot/service-worker.published.js"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

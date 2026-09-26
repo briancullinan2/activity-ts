@@ -1,0 +1,484 @@
+{
+  "yearMonth": "2009-04",
+  "generatedAt": "2026-09-24T02:37:24.872Z",
+  "username": "briancullinan2",
+  "projects": {
+    "mediaserver": {
+      "projectName": "mediaserver",
+      "localPath": "C:\\Users\\megam\\mediaserver",
+      "remoteUrl": "git@github.com:briancullinan2/mediaserver.git",
+      "lastUpdated": "2026-09-24T02:37:08.908Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2009-04-29": {
+          "date": "2009-04-29",
+          "heatScore": 16,
+          "linesChanged": 95,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "modules/db_archive.php",
+            "modules/db_diskimage.php",
+            "modules/db_movies.php",
+            "templates/live/dragclick.js",
+            "templates/live/header.html",
+            "templates/live/query.html"
+          ],
+          "commits": [
+            {
+              "hash": "683fd6cb15a990a5618eef873237dbe4762055a6",
+              "author": "share",
+              "date": "2009-04-29T19:24:01.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@208 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 47,
+              "linesDeleted": 48,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "modules/db_archive.php",
+                "modules/db_diskimage.php",
+                "modules/db_movies.php",
+                "templates/live/dragclick.js",
+                "templates/live/header.html",
+                "templates/live/query.html"
+              ]
+            }
+          ]
+        },
+        "2009-04-19": {
+          "date": "2009-04-19",
+          "heatScore": 21,
+          "linesChanged": 174,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "templates/live/dragclick.js",
+            "templates/live/footer.html",
+            "templates/live/header.html",
+            "templates/live/images/shadow.gif",
+            "templates/live/images/shadow.png",
+            "templates/live/live.css"
+          ],
+          "commits": [
+            {
+              "hash": "d9dfad83d049b76901af3396a434f5b8a4b06534",
+              "author": "share",
+              "date": "2009-04-19T05:21:44.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@207 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 144,
+              "linesDeleted": 30,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "templates/live/dragclick.js",
+                "templates/live/footer.html",
+                "templates/live/header.html",
+                "templates/live/images/shadow.gif",
+                "templates/live/images/shadow.png",
+                "templates/live/live.css"
+              ]
+            }
+          ]
+        },
+        "2009-04-17": {
+          "date": "2009-04-17",
+          "heatScore": 43,
+          "linesChanged": 497,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "templates/live/dragclick.js",
+            "templates/live/header.html",
+            "templates/live/live.css",
+            "templates/live/query.html"
+          ],
+          "commits": [
+            {
+              "hash": "1e95dd4ffc24c58fadff50f3a9cb5d9e994d14b9",
+              "author": "share",
+              "date": "2009-04-17T23:47:57.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@206 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 489,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "templates/live/dragclick.js",
+                "templates/live/header.html",
+                "templates/live/live.css",
+                "templates/live/query.html"
+              ]
+            }
+          ]
+        },
+        "2009-04-16": {
+          "date": "2009-04-16",
+          "heatScore": 12,
+          "linesChanged": 37,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "admin/reports.php",
+            "plugins/cron.php"
+          ],
+          "commits": [
+            {
+              "hash": "a16e924a95fa0e177533d61b5f48f61624b34cc4",
+              "author": "share",
+              "date": "2009-04-16T14:31:28.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@203 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 34,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "admin/reports.php",
+                "plugins/cron.php"
+              ]
+            }
+          ]
+        },
+        "2009-04-15": {
+          "date": "2009-04-15",
+          "heatScore": 16,
+          "linesChanged": 97,
+          "commitCount": 1,
+          "filesEdited": [
+            "admin/reports.php"
+          ],
+          "commits": [
+            {
+              "hash": "ab874b963770914143dc9e7130adc2e655b05989",
+              "author": "share",
+              "date": "2009-04-15T18:26:15.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@201 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 63,
+              "linesDeleted": 34,
+              "filesChanged": [
+                "admin/reports.php"
+              ]
+            }
+          ]
+        },
+        "2009-04-14": {
+          "date": "2009-04-14",
+          "heatScore": 20,
+          "linesChanged": 159,
+          "commitCount": 1,
+          "filesEdited": [
+            "admin/reports.php",
+            "include/settings.nix.php"
+          ],
+          "commits": [
+            {
+              "hash": "572bab3bc308c5748bf80639bfba5912ddbb09b7",
+              "author": "share",
+              "date": "2009-04-14T17:49:07.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@199 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 148,
+              "linesDeleted": 11,
+              "filesChanged": [
+                "admin/reports.php",
+                "include/settings.nix.php"
+              ]
+            }
+          ]
+        },
+        "2009-04-13": {
+          "date": "2009-04-13",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "modules/db_watch_list.php",
+            "plugins/bt.php",
+            "plugins/convert.php",
+            "plugins/encode.php",
+            "plugins/file.php",
+            "plugins/list.php",
+            "plugins/select.php",
+            "plugins/zip.php"
+          ],
+          "commits": [
+            {
+              "hash": "f1e8fe72c998e09f7ed8a93e539dd031b26e777d",
+              "author": "share",
+              "date": "2009-04-13T16:34:51.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@198 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 8,
+              "linesDeleted": 8,
+              "filesChanged": [
+                "modules/db_watch_list.php",
+                "plugins/bt.php",
+                "plugins/convert.php",
+                "plugins/encode.php",
+                "plugins/file.php",
+                "plugins/list.php",
+                "plugins/select.php",
+                "plugins/zip.php"
+              ]
+            }
+          ]
+        },
+        "2009-04-12": {
+          "date": "2009-04-12",
+          "heatScore": 12,
+          "linesChanged": 33,
+          "commitCount": 1,
+          "filesEdited": [
+            ".htaccess",
+            "plugins/bt.php",
+            "plugins/zip.php",
+            "test.php"
+          ],
+          "commits": [
+            {
+              "hash": "7110d4f516f60284c805071fd73c7790b8647c8c",
+              "author": "share",
+              "date": "2009-04-12T06:33:50.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@196 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 13,
+              "linesDeleted": 20,
+              "filesChanged": [
+                ".htaccess",
+                "plugins/bt.php",
+                "plugins/zip.php",
+                "test.php"
+              ]
+            }
+          ]
+        },
+        "2009-04-10": {
+          "date": "2009-04-10",
+          "heatScore": 11,
+          "linesChanged": 24,
+          "commitCount": 1,
+          "filesEdited": [
+            "player-viral.swf",
+            "plugins/encode.php",
+            "test.php"
+          ],
+          "commits": [
+            {
+              "hash": "a267d87c6032266ce9f51529bb2638394cbd4826",
+              "author": "share",
+              "date": "2009-04-10T17:52:37.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@195 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 18,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "player-viral.swf",
+                "plugins/encode.php",
+                "test.php"
+              ]
+            }
+          ]
+        },
+        "2009-04-09": {
+          "date": "2009-04-09",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "TODO.TXT"
+          ],
+          "commits": [
+            {
+              "hash": "11456dafb83de7977c731ca8e2683c8b9789e949",
+              "author": "share",
+              "date": "2009-04-09T19:06:15.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@192 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 5,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "TODO.TXT"
+              ]
+            }
+          ]
+        },
+        "2009-04-08": {
+          "date": "2009-04-08",
+          "heatScore": 16,
+          "linesChanged": 94,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "include/common.php",
+            "modules/db_archive.php",
+            "modules/db_code.php",
+            "modules/db_playlist.php",
+            "plugins/cron.php"
+          ],
+          "commits": [
+            {
+              "hash": "1a1010db0c07536e632f4d0b6d1a01e85b8ec4f7",
+              "author": "share",
+              "date": "2009-04-08T23:31:37.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@190 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 58,
+              "linesDeleted": 36,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "include/common.php",
+                "modules/db_archive.php",
+                "modules/db_code.php",
+                "modules/db_playlist.php",
+                "plugins/cron.php"
+              ]
+            }
+          ]
+        },
+        "2009-04-07": {
+          "date": "2009-04-07",
+          "heatScore": 40,
+          "linesChanged": 460,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "amazonsearch.php",
+            "include/Text/Highlighter.php",
+            "include/common.php",
+            "modules/db_amazon.php",
+            "modules/db_file.php",
+            "plugins/search.php",
+            "plugins/select.php",
+            "templates/live/header.html",
+            "templates/live/live.css",
+            "templates/live/query.html",
+            "templates/live/search.html"
+          ],
+          "commits": [
+            {
+              "hash": "94cf5130e2f306612c40a858525a4acf1a54600f",
+              "author": "share",
+              "date": "2009-04-07T18:16:03.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@179 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 260,
+              "linesDeleted": 200,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "amazonsearch.php",
+                "include/Text/Highlighter.php",
+                "include/common.php",
+                "modules/db_amazon.php",
+                "modules/db_file.php",
+                "plugins/search.php",
+                "plugins/select.php",
+                "templates/live/header.html",
+                "templates/live/live.css",
+                "templates/live/query.html",
+                "templates/live/search.html"
+              ]
+            }
+          ]
+        },
+        "2009-04-04": {
+          "date": "2009-04-04",
+          "heatScore": 17,
+          "linesChanged": 111,
+          "commitCount": 1,
+          "filesEdited": [
+            "templates/live/header.html",
+            "templates/live/query.html"
+          ],
+          "commits": [
+            {
+              "hash": "14ecfe26d128a0f3bbf914fbada9791cf6a3fee3",
+              "author": "share",
+              "date": "2009-04-04T03:28:48.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@178 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 56,
+              "linesDeleted": 55,
+              "filesChanged": [
+                "templates/live/header.html",
+                "templates/live/query.html"
+              ]
+            }
+          ]
+        },
+        "2009-04-03": {
+          "date": "2009-04-03",
+          "heatScore": 43,
+          "linesChanged": 508,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "index.php",
+            "modules/db_albums.php",
+            "modules/db_artists.php",
+            "templates/live/config.php",
+            "templates/live/footer.html",
+            "templates/live/header.html",
+            "templates/live/live.css",
+            "templates/live/pages.html",
+            "templates/live/query.html",
+            "templates/live/search.html"
+          ],
+          "commits": [
+            {
+              "hash": "ab0a90688c64e9cd8ef996e7e5bbc5eccd8377eb",
+              "author": "share",
+              "date": "2009-04-03T22:19:13.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@177 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 305,
+              "linesDeleted": 203,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "index.php",
+                "modules/db_albums.php",
+                "modules/db_artists.php",
+                "templates/live/config.php",
+                "templates/live/footer.html",
+                "templates/live/header.html",
+                "templates/live/live.css",
+                "templates/live/pages.html",
+                "templates/live/query.html",
+                "templates/live/search.html"
+              ]
+            }
+          ]
+        },
+        "2009-04-01": {
+          "date": "2009-04-01",
+          "heatScore": 17,
+          "linesChanged": 115,
+          "commitCount": 1,
+          "filesEdited": [
+            "CHANGELOG.TXT",
+            "TODO.TXT",
+            "modules/db_archive.php",
+            "modules/db_code.php",
+            "modules/db_diskimage.php",
+            "modules/db_file.php",
+            "modules/db_ids.php",
+            "modules/db_watch_list.php",
+            "plugins/cron.php",
+            "plugins/select.php",
+            "templates/live/config.php"
+          ],
+          "commits": [
+            {
+              "hash": "1a03b60ad7e03d7db80cf41566b767f5a2b75593",
+              "author": "share",
+              "date": "2009-04-01T16:22:32.000Z",
+              "message": "git-svn-id: svn://localhost/Media%20Server@173 cc2d05dc-c430-0410-aecc-8448c616cd3b",
+              "linesAdded": 74,
+              "linesDeleted": 41,
+              "filesChanged": [
+                "CHANGELOG.TXT",
+                "TODO.TXT",
+                "modules/db_archive.php",
+                "modules/db_code.php",
+                "modules/db_diskimage.php",
+                "modules/db_file.php",
+                "modules/db_ids.php",
+                "modules/db_watch_list.php",
+                "plugins/cron.php",
+                "plugins/select.php",
+                "templates/live/config.php"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

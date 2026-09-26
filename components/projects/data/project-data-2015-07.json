@@ -1,0 +1,38 @@
+{
+  "yearMonth": "2015-07",
+  "generatedAt": "2026-09-26T04:05:31.612Z",
+  "username": "briancullinan2",
+  "projects": {
+    "assimp": {
+      "projectName": "assimp",
+      "localPath": "D:\\assimp",
+      "remoteUrl": "git@github.com:assimp/assimp.git",
+      "lastUpdated": "2026-09-26T03:31:53.480Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2015-07-20": {
+          "date": "2015-07-20",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "port/AndroidJNI/AndroidJNIIOSystem.cpp"
+          ],
+          "commits": [
+            {
+              "hash": "bcb0ca3efaf79748ce2b422f89dbaceb4ce2a404",
+              "author": "Brian Schwind",
+              "date": "2015-07-21T02:02:48.000Z",
+              "message": "Include correct headers, fix string length bug - AssimpPCH.h appears to have been removed in #536 - There was a bug where if your model data had a null terminator, AndroidJNIIOSystem would incorrectly calculate the number of bytes it needed to write to the file (since it reads a compressed file from the Android assets, and then writes it to the internalDataPath directory for later importing)",
+              "linesAdded": 5,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "port/AndroidJNI/AndroidJNIIOSystem.cpp"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

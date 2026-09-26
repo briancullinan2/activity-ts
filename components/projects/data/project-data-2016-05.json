@@ -1,0 +1,60 @@
+{
+  "yearMonth": "2016-05",
+  "generatedAt": "2026-09-24T02:37:24.959Z",
+  "username": "briancullinan2",
+  "projects": {
+    "three.js": {
+      "projectName": "three.js",
+      "localPath": "C:\\Users\\megam\\three.js",
+      "remoteUrl": "git@github.com:mrdoob/three.js.git",
+      "lastUpdated": "2026-09-24T02:37:22.748Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2016-05-25": {
+          "date": "2016-05-25",
+          "heatScore": 15,
+          "linesChanged": 82,
+          "commitCount": 1,
+          "filesEdited": [
+            "examples/webgl_buffergeometry_instancing_billboards.html"
+          ],
+          "commits": [
+            {
+              "hash": "4d0e1db0483b43fe162428c7fb00d364b220d831",
+              "author": "Brian",
+              "date": "2016-05-25T01:34:07.000Z",
+              "message": "Webgl BufferGeometry Instance Billboard Example GPU Boost (#8965)",
+              "linesAdded": 27,
+              "linesDeleted": 55,
+              "filesChanged": [
+                "examples/webgl_buffergeometry_instancing_billboards.html"
+              ]
+            }
+          ]
+        },
+        "2016-05-03": {
+          "date": "2016-05-03",
+          "heatScore": 13,
+          "linesChanged": 53,
+          "commitCount": 1,
+          "filesEdited": [
+            "examples/js/effects/VREffect.js"
+          ],
+          "commits": [
+            {
+              "hash": "91f913dc4e1dd7d7998d1ad9e3e2796c0678e8df",
+              "author": "Brian Chirls",
+              "date": "2016-05-03T00:30:15.000Z",
+              "message": "Fix VREffect handling of full screen state (#8788)",
+              "linesAdded": 28,
+              "linesDeleted": 25,
+              "filesChanged": [
+                "examples/js/effects/VREffect.js"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

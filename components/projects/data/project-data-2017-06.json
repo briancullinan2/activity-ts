@@ -1,0 +1,905 @@
+{
+  "yearMonth": "2017-06",
+  "generatedAt": "2026-09-24T02:37:24.690Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-06-16": {
+          "date": "2017-06-16",
+          "heatScore": 11,
+          "linesChanged": 26,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/q3_ui/ui_ingame.c"
+          ],
+          "commits": [
+            {
+              "hash": "2f9de958e682a69a0e1f33251034c0b3034cc3a2",
+              "author": "ToKu",
+              "date": "2017-06-16T19:36:14.000Z",
+              "message": "feat: add \"Change Map\" menu item",
+              "linesAdded": 25,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/q3_ui/ui_ingame.c"
+              ]
+            }
+          ]
+        },
+        "2017-06-30": {
+          "date": "2017-06-30",
+          "heatScore": 26,
+          "linesChanged": 244,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/q_shared.c",
+            "code/game/q_shared.h"
+          ],
+          "commits": [
+            {
+              "hash": "0f6bbb9dca578167b7abba6574686ee12ef47632",
+              "author": "ec-",
+              "date": "2017-06-30T13:28:43.000Z",
+              "message": "Properly handle ';' in vote strings Allow up to 4 commands to be executed in single vote Allow text synonyms to be used for voted g_gametype: ffa, duel, tdm, ctf Check for map existence before accepting map vote",
+              "linesAdded": 178,
+              "linesDeleted": 66,
+              "filesChanged": [
+                "code/game/g_cmds.c",
+                "code/game/g_local.h",
+                "code/game/q_shared.c",
+                "code/game/q_shared.h"
+              ]
+            }
+          ]
+        },
+        "2017-06-27": {
+          "date": "2017-06-27",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "c3c9ac269227790f45e2602ff6d4bd0a1648d6ed",
+              "author": "ec-",
+              "date": "2017-06-27T10:00:39.000Z",
+              "message": "Use \"mapname\" instead of \"sv_mapname\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/game/g_main.c"
+              ]
+            }
+          ]
+        },
+        "2017-06-26": {
+          "date": "2017-06-26",
+          "heatScore": 32,
+          "linesChanged": 336,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "build/linux/Makefile",
+            "build/win32-msvc/game.vcproj",
+            "build/win32-qvm/compile.bat",
+            "build/win32-qvm/game.q3asm",
+            "code/cgame/cg_servercmds.c",
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_svcmds.c",
+            "code/game/q_shared.c",
+            "code/game/q_shared.h"
+          ],
+          "commits": [
+            {
+              "hash": "818bea0ef0703d8b4d64afec4e7df72d4d2432e9",
+              "author": "ec-",
+              "date": "2017-06-26T11:07:34.000Z",
+              "message": "Add simple map rotation system, map rotation file specified by g_rotation game cvar  file format is very simple:  $timelimit = 10; // common value for all maps  $cvarxxx = yyyy; // common value for all maps  ...  mapname1  mapname2 { $timelimit = 20; /* set special value for this map */ ... }  mapname3",
+              "linesAdded": 289,
+              "linesDeleted": 47,
+              "filesChanged": [
+                "README.md",
+                "build/linux/Makefile",
+                "build/win32-msvc/game.vcproj",
+                "build/win32-qvm/compile.bat",
+                "build/win32-qvm/game.q3asm",
+                "code/cgame/cg_servercmds.c",
+                "code/game/g_cmds.c",
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/game/g_svcmds.c",
+                "code/game/q_shared.c",
+                "code/game/q_shared.h"
+              ]
+            }
+          ]
+        },
+        "2017-06-21": {
+          "date": "2017-06-21",
+          "heatScore": 16,
+          "linesChanged": 99,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_active.c",
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "42da31bb47a034e96426b0258cc4f85aa37cbbe5",
+              "author": "ec-",
+              "date": "2017-06-21T18:55:40.000Z",
+              "message": "Do not move to intermission point when stop following other player Move to intermission point on second spectator team request Code cleanup",
+              "linesAdded": 60,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "code/game/g_active.c",
+                "code/game/g_cmds.c",
+                "code/game/g_local.h",
+                "code/game/g_main.c"
+              ]
+            }
+          ]
+        },
+        "2017-06-20": {
+          "date": "2017-06-20",
+          "heatScore": 16,
+          "linesChanged": 93,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_players.c",
+            "code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "ed8565e3f2d4e5520c3d45e12b343a61c47e755f",
+              "author": "ec-",
+              "date": "2017-06-20T11:08:45.000Z",
+              "message": "Centralize dlight parameters Add dlights for PG/BFG projectiles Add dlight for BFG explosion",
+              "linesAdded": 68,
+              "linesDeleted": 25,
+              "filesChanged": [
+                "code/cgame/cg_ents.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_players.c",
+                "code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2017-06-19": {
+          "date": "2017-06-19",
+          "heatScore": 25,
+          "linesChanged": 237,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_drawtools.c",
+            "code/cgame/cg_effects.c",
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_localents.c",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_marks.c",
+            "code/cgame/cg_syscalls.c",
+            "code/cgame/cg_view.c",
+            "code/cgame/cg_weapons.c",
+            "code/cgame/modulus.c",
+            "code/cgame/tr_types.h",
+            "code/game/bg_misc.c",
+            "code/game/bg_public.h",
+            "code/q3_ui/ui_atoms.c",
+            "code/q3_ui/ui_qmenu.c",
+            "code/q3_ui/ui_splevel.c"
+          ],
+          "commits": [
+            {
+              "hash": "aeddd6a205e78e2bb6645c64e1d4e6e4b255c326",
+              "author": "ec-",
+              "date": "2017-06-19T19:44:52.000Z",
+              "message": "Fix renderer animation at high level times (floatfix), use new q3e' extension interface to set integer shader time",
+              "linesAdded": 201,
+              "linesDeleted": 36,
+              "filesChanged": [
+                "README.md",
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_drawtools.c",
+                "code/cgame/cg_effects.c",
+                "code/cgame/cg_ents.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_localents.c",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_marks.c",
+                "code/cgame/cg_syscalls.c",
+                "code/cgame/cg_view.c",
+                "code/cgame/cg_weapons.c",
+                "code/cgame/modulus.c",
+                "code/cgame/tr_types.h",
+                "code/game/bg_misc.c",
+                "code/game/bg_public.h",
+                "code/q3_ui/ui_atoms.c",
+                "code/q3_ui/ui_qmenu.c",
+                "code/q3_ui/ui_splevel.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "champagne": {
+      "projectName": "champagne",
+      "localPath": "C:\\Users\\megam\\champagne",
+      "remoteUrl": "git@github.com:briancullinan2/champagne.git",
+      "lastUpdated": "2026-09-24T02:37:00.448Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-06-30": {
+          "date": "2017-06-30",
+          "heatScore": 26,
+          "linesChanged": 244,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/q_shared.c",
+            "code/game/q_shared.h"
+          ],
+          "commits": [
+            {
+              "hash": "0f6bbb9dca578167b7abba6574686ee12ef47632",
+              "author": "ec-",
+              "date": "2017-06-30T13:28:43.000Z",
+              "message": "Properly handle ';' in vote strings Allow up to 4 commands to be executed in single vote Allow text synonyms to be used for voted g_gametype: ffa, duel, tdm, ctf Check for map existence before accepting map vote",
+              "linesAdded": 178,
+              "linesDeleted": 66,
+              "filesChanged": [
+                "code/game/g_cmds.c",
+                "code/game/g_local.h",
+                "code/game/q_shared.c",
+                "code/game/q_shared.h"
+              ]
+            }
+          ]
+        },
+        "2017-06-27": {
+          "date": "2017-06-27",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "c3c9ac269227790f45e2602ff6d4bd0a1648d6ed",
+              "author": "ec-",
+              "date": "2017-06-27T10:00:39.000Z",
+              "message": "Use \"mapname\" instead of \"sv_mapname\"",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "code/game/g_main.c"
+              ]
+            }
+          ]
+        },
+        "2017-06-26": {
+          "date": "2017-06-26",
+          "heatScore": 32,
+          "linesChanged": 336,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "build/linux/Makefile",
+            "build/win32-msvc/game.vcproj",
+            "build/win32-qvm/compile.bat",
+            "build/win32-qvm/game.q3asm",
+            "code/cgame/cg_servercmds.c",
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c",
+            "code/game/g_svcmds.c",
+            "code/game/q_shared.c",
+            "code/game/q_shared.h"
+          ],
+          "commits": [
+            {
+              "hash": "818bea0ef0703d8b4d64afec4e7df72d4d2432e9",
+              "author": "ec-",
+              "date": "2017-06-26T11:07:34.000Z",
+              "message": "Add simple map rotation system, map rotation file specified by g_rotation game cvar  file format is very simple:  $timelimit = 10; // common value for all maps  $cvarxxx = yyyy; // common value for all maps  ...  mapname1  mapname2 { $timelimit = 20; /* set special value for this map */ ... }  mapname3",
+              "linesAdded": 289,
+              "linesDeleted": 47,
+              "filesChanged": [
+                "README.md",
+                "build/linux/Makefile",
+                "build/win32-msvc/game.vcproj",
+                "build/win32-qvm/compile.bat",
+                "build/win32-qvm/game.q3asm",
+                "code/cgame/cg_servercmds.c",
+                "code/game/g_cmds.c",
+                "code/game/g_local.h",
+                "code/game/g_main.c",
+                "code/game/g_svcmds.c",
+                "code/game/q_shared.c",
+                "code/game/q_shared.h"
+              ]
+            }
+          ]
+        },
+        "2017-06-21": {
+          "date": "2017-06-21",
+          "heatScore": 16,
+          "linesChanged": 99,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/game/g_active.c",
+            "code/game/g_cmds.c",
+            "code/game/g_local.h",
+            "code/game/g_main.c"
+          ],
+          "commits": [
+            {
+              "hash": "42da31bb47a034e96426b0258cc4f85aa37cbbe5",
+              "author": "ec-",
+              "date": "2017-06-21T18:55:40.000Z",
+              "message": "Do not move to intermission point when stop following other player Move to intermission point on second spectator team request Code cleanup",
+              "linesAdded": 60,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "code/game/g_active.c",
+                "code/game/g_cmds.c",
+                "code/game/g_local.h",
+                "code/game/g_main.c"
+              ]
+            }
+          ]
+        },
+        "2017-06-20": {
+          "date": "2017-06-20",
+          "heatScore": 16,
+          "linesChanged": 93,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_players.c",
+            "code/cgame/cg_weapons.c"
+          ],
+          "commits": [
+            {
+              "hash": "ed8565e3f2d4e5520c3d45e12b343a61c47e755f",
+              "author": "ec-",
+              "date": "2017-06-20T11:08:45.000Z",
+              "message": "Centralize dlight parameters Add dlights for PG/BFG projectiles Add dlight for BFG explosion",
+              "linesAdded": 68,
+              "linesDeleted": 25,
+              "filesChanged": [
+                "code/cgame/cg_ents.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_players.c",
+                "code/cgame/cg_weapons.c"
+              ]
+            }
+          ]
+        },
+        "2017-06-19": {
+          "date": "2017-06-19",
+          "heatScore": 25,
+          "linesChanged": 237,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/cgame/cg_draw.c",
+            "code/cgame/cg_drawtools.c",
+            "code/cgame/cg_effects.c",
+            "code/cgame/cg_ents.c",
+            "code/cgame/cg_local.h",
+            "code/cgame/cg_localents.c",
+            "code/cgame/cg_main.c",
+            "code/cgame/cg_marks.c",
+            "code/cgame/cg_syscalls.c",
+            "code/cgame/cg_view.c",
+            "code/cgame/cg_weapons.c",
+            "code/cgame/modulus.c",
+            "code/cgame/tr_types.h",
+            "code/game/bg_misc.c",
+            "code/game/bg_public.h",
+            "code/q3_ui/ui_atoms.c",
+            "code/q3_ui/ui_qmenu.c",
+            "code/q3_ui/ui_splevel.c"
+          ],
+          "commits": [
+            {
+              "hash": "aeddd6a205e78e2bb6645c64e1d4e6e4b255c326",
+              "author": "ec-",
+              "date": "2017-06-19T19:44:52.000Z",
+              "message": "Fix renderer animation at high level times (floatfix), use new q3e' extension interface to set integer shader time",
+              "linesAdded": 201,
+              "linesDeleted": 36,
+              "filesChanged": [
+                "README.md",
+                "code/cgame/cg_draw.c",
+                "code/cgame/cg_drawtools.c",
+                "code/cgame/cg_effects.c",
+                "code/cgame/cg_ents.c",
+                "code/cgame/cg_local.h",
+                "code/cgame/cg_localents.c",
+                "code/cgame/cg_main.c",
+                "code/cgame/cg_marks.c",
+                "code/cgame/cg_syscalls.c",
+                "code/cgame/cg_view.c",
+                "code/cgame/cg_weapons.c",
+                "code/cgame/modulus.c",
+                "code/cgame/tr_types.h",
+                "code/game/bg_misc.c",
+                "code/game/bg_public.h",
+                "code/q3_ui/ui_atoms.c",
+                "code/q3_ui/ui_qmenu.c",
+                "code/q3_ui/ui_splevel.c"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2017-06-25": {
+          "date": "2017-06-25",
+          "heatScore": 36,
+          "linesChanged": 393,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/What are some common date uses.ipynb",
+            "Utilities/What are some common filesystem uses.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "84e7a14ba293fb85c698f2c0d7642bfb585f3ea3",
+              "author": "Brian Cullinan",
+              "date": "2017-06-25T02:43:08.000Z",
+              "message": "no message",
+              "linesAdded": 380,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "Utilities/What are some common date uses.ipynb",
+                "Utilities/What are some common filesystem uses.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-06-22": {
+          "date": "2017-06-22",
+          "heatScore": 13,
+          "linesChanged": 48,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/What are some common filesystem uses.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "011c0475ac54bbafd9fa520c9934273ad10eab27",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-06-22T22:04:31.000Z",
+              "message": "no message",
+              "linesAdded": 13,
+              "linesDeleted": 35,
+              "filesChanged": [
+                "Utilities/What are some common filesystem uses.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-06-21": {
+          "date": "2017-06-21",
+          "heatScore": 44,
+          "linesChanged": 514,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/What are some common filesystem uses.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "15ea2d198a48c7248dbb9722307548119143b334",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-06-21T22:26:51.000Z",
+              "message": "no message",
+              "linesAdded": 500,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "Utilities/What are some common filesystem uses.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-06-19": {
+          "date": "2017-06-19",
+          "heatScore": 28,
+          "linesChanged": 283,
+          "commitCount": 1,
+          "filesEdited": [
+            "Utilities/How to use Git.ipynb",
+            "Utilities/What are some common filesystem uses.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "d6cd5221f63fcb2ebdfa4a043ace6464fd1ccbeb",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-06-19T16:39:43.000Z",
+              "message": "no message",
+              "linesAdded": 281,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "Utilities/How to use Git.ipynb",
+                "Utilities/What are some common filesystem uses.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2017-06-15": {
+          "date": "2017-06-15",
+          "heatScore": 100,
+          "linesChanged": 3968,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/How to interpret all notebooks.ipynb",
+            "Selenium/What is Selenium.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "555a8a8fb568dd3d3725de2ebb235f48499d9494",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-06-15T18:10:29.000Z",
+              "message": "no message",
+              "linesAdded": 3733,
+              "linesDeleted": 235,
+              "filesChanged": [
+                "Core/How to interpret all notebooks.ipynb",
+                "Selenium/What is Selenium.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-06-12": {
+          "date": "2017-06-12",
+          "heatScore": 100,
+          "linesChanged": 22132,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/How to import a notebook.ipynb",
+            "Core/How to import all notebooks.ipynb",
+            "Core/How to interpret all notebooks.ipynb",
+            "Core/How to interpret questions.ipynb",
+            "Core/How to test import.ipynb",
+            "Core/index.js",
+            "Selenium/What is Selenium.ipynb",
+            "Utilities/What is VNC.ipynb",
+            "Where to start.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "af58130ec5a1e40b0dc55662d8bc31ca163800dd",
+              "author": "Brian Cullinan",
+              "date": "2017-06-12T05:50:54.000Z",
+              "message": "no message",
+              "linesAdded": 15840,
+              "linesDeleted": 6292,
+              "filesChanged": [
+                "Core/How to import a notebook.ipynb",
+                "Core/How to import all notebooks.ipynb",
+                "Core/How to interpret all notebooks.ipynb",
+                "Core/How to interpret questions.ipynb",
+                "Core/How to test import.ipynb",
+                "Core/index.js",
+                "Selenium/What is Selenium.ipynb",
+                "Utilities/What is VNC.ipynb",
+                "Where to start.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-06-08": {
+          "date": "2017-06-08",
+          "heatScore": 12,
+          "linesChanged": 30,
+          "commitCount": 1,
+          "filesEdited": [
+            "Docker/How to install Docker on Windows.ipynb",
+            "Utilities/How to use Git.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "8a721beb1b6daa88b592d660787afa943508cc07",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-06-08T22:43:28.000Z",
+              "message": "no message",
+              "linesAdded": 29,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "Docker/How to install Docker on Windows.ipynb",
+                "Utilities/How to use Git.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-06-07": {
+          "date": "2017-06-07",
+          "heatScore": 100,
+          "linesChanged": 5418,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/{How to find answers.ipynb => How to import a notebook.ipynb}",
+            "Core/How to interpret questions.ipynb",
+            "Core/index.js",
+            "Docker/How to use Docker.ipynb",
+            "Docker/What is Docker.ipynb",
+            "Frameworks/How to install node on Linux.ipynb",
+            "Frameworks/What repositories do we need.ipynb",
+            "Selenium/Selenium Automation.ipynb",
+            "Selenium/What is Selenium.ipynb",
+            "Utilities/What is VNC.ipynb",
+            "Where to start.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "8d7e0a1cb72b9b9a5ffd17429480d2bf7a1e31f6",
+              "author": "Brian Cullinan",
+              "date": "2017-06-07T05:09:59.000Z",
+              "message": "no message",
+              "linesAdded": 3841,
+              "linesDeleted": 1577,
+              "filesChanged": [
+                "Core/{How to find answers.ipynb => How to import a notebook.ipynb}",
+                "Core/How to interpret questions.ipynb",
+                "Core/index.js",
+                "Docker/How to use Docker.ipynb",
+                "Docker/What is Docker.ipynb",
+                "Frameworks/How to install node on Linux.ipynb",
+                "Frameworks/What repositories do we need.ipynb",
+                "Selenium/Selenium Automation.ipynb",
+                "Selenium/What is Selenium.ipynb",
+                "Utilities/What is VNC.ipynb",
+                "Where to start.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-06-06": {
+          "date": "2017-06-06",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "Readme.md"
+          ],
+          "commits": [
+            {
+              "hash": "ae67eaa6303dd229a6b6562e5568c562863f6455",
+              "author": "Brian Cullinan",
+              "date": "2017-06-06T15:24:26.000Z",
+              "message": "Update Readme.md",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "Readme.md"
+              ]
+            }
+          ]
+        },
+        "2017-06-05": {
+          "date": "2017-06-05",
+          "heatScore": 100,
+          "linesChanged": 2840,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/How to find answers.ipynb",
+            "Core/How to import all notebooks.ipynb",
+            "Core/How to interpret questions.ipynb",
+            "Core/index.js",
+            "Docker/How to use Docker.ipynb",
+            "Docker/What is Docker.ipynb",
+            "Frameworks/How to use JSON web tokens in CSharp.ipynb",
+            "Frameworks/Jupyter language kernels.ipynb",
+            "Utilities/How to install jupter kernels.ipynb",
+            "Where to start.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e3a3eb3903e0e57c8b2076f91bae3537c26a041f",
+              "author": "Brian Cullinan",
+              "date": "2017-06-05T05:07:21.000Z",
+              "message": "no message",
+              "linesAdded": 825,
+              "linesDeleted": 2015,
+              "filesChanged": [
+                "Core/How to find answers.ipynb",
+                "Core/How to import all notebooks.ipynb",
+                "Core/How to interpret questions.ipynb",
+                "Core/index.js",
+                "Docker/How to use Docker.ipynb",
+                "Docker/What is Docker.ipynb",
+                "Frameworks/How to use JSON web tokens in CSharp.ipynb",
+                "Frameworks/Jupyter language kernels.ipynb",
+                "Utilities/How to install jupter kernels.ipynb",
+                "Where to start.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-06-04": {
+          "date": "2017-06-04",
+          "heatScore": 58,
+          "linesChanged": 729,
+          "commitCount": 1,
+          "filesEdited": [
+            "How to find answers.ipynb => Core/How to find answers.ipynb",
+            "Core/How to import all notebooks.ipynb",
+            "How to interpret questions.ipynb => Core/How to interpret questions.ipynb",
+            "How to test import.ipynb => Core/How to test import.ipynb",
+            "Core/index.js",
+            "How to install Docker on Mac.ipynb => Docker/How to install Docker on Mac.ipynb",
+            "How to install Docker on Windows.ipynb => Docker/How to install Docker on Windows.ipynb",
+            "What is Docker.ipynb => Docker/What is Docker.ipynb",
+            "How should code look.ipynb => Frameworks/How should code look.ipynb",
+            "How to use express.ipynb => Frameworks/How to use express.ipynb",
+            "How to use simple-imap.ipynb => Frameworks/How to use simple-imap.ipynb",
+            "What is Angular 2.ipynb => Frameworks/What is Angular 2.ipynb",
+            "What repositories do we need.ipynb => Frameworks/What repositories do we need.ipynb",
+            "How to import all notebooks.ipynb",
+            "2017 Update.ipynb => Marketing/2017 Update.ipynb",
+            "ECommerce.ipynb => Marketing/ECommerce.ipynb",
+            "Good UX Intro.ipynb => Marketing/Good UX Intro.ipynb",
+            "Landing Pages.ipynb => Marketing/Landing Pages.ipynb",
+            "Wireframing.ipynb => Marketing/Wireframing.ipynb",
+            "Selenium Automation.ipynb => Selenium/Selenium Automation.ipynb",
+            "What is Selenium.ipynb => Selenium/What is Selenium.ipynb",
+            "Untitled.ipynb",
+            "Untitled1.ipynb",
+            "What are some common date uses.ipynb => Utilities/What are some common date uses.ipynb",
+            "Where to start.ipynb",
+            "index.js"
+          ],
+          "commits": [
+            {
+              "hash": "a9272cc6e519c228c9fd94bec16a723efc753ef4",
+              "author": "Brian Cullinan",
+              "date": "2017-06-04T05:55:09.000Z",
+              "message": "Organization.",
+              "linesAdded": 295,
+              "linesDeleted": 434,
+              "filesChanged": [
+                "How to find answers.ipynb => Core/How to find answers.ipynb",
+                "Core/How to import all notebooks.ipynb",
+                "How to interpret questions.ipynb => Core/How to interpret questions.ipynb",
+                "How to test import.ipynb => Core/How to test import.ipynb",
+                "Core/index.js",
+                "How to install Docker on Mac.ipynb => Docker/How to install Docker on Mac.ipynb",
+                "How to install Docker on Windows.ipynb => Docker/How to install Docker on Windows.ipynb",
+                "What is Docker.ipynb => Docker/What is Docker.ipynb",
+                "How should code look.ipynb => Frameworks/How should code look.ipynb",
+                "How to use express.ipynb => Frameworks/How to use express.ipynb",
+                "How to use simple-imap.ipynb => Frameworks/How to use simple-imap.ipynb",
+                "What is Angular 2.ipynb => Frameworks/What is Angular 2.ipynb",
+                "What repositories do we need.ipynb => Frameworks/What repositories do we need.ipynb",
+                "How to import all notebooks.ipynb",
+                "2017 Update.ipynb => Marketing/2017 Update.ipynb",
+                "ECommerce.ipynb => Marketing/ECommerce.ipynb",
+                "Good UX Intro.ipynb => Marketing/Good UX Intro.ipynb",
+                "Landing Pages.ipynb => Marketing/Landing Pages.ipynb",
+                "Wireframing.ipynb => Marketing/Wireframing.ipynb",
+                "Selenium Automation.ipynb => Selenium/Selenium Automation.ipynb",
+                "What is Selenium.ipynb => Selenium/What is Selenium.ipynb",
+                "Untitled.ipynb",
+                "Untitled1.ipynb",
+                "What are some common date uses.ipynb => Utilities/What are some common date uses.ipynb",
+                "Where to start.ipynb",
+                "index.js"
+              ]
+            }
+          ]
+        },
+        "2017-06-03": {
+          "date": "2017-06-03",
+          "heatScore": 18,
+          "linesChanged": 124,
+          "commitCount": 1,
+          "filesEdited": [
+            "How to import all notebooks.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "3d5489094a96eb61a15ba132c1b9608a122a8322",
+              "author": "Brian Cullinan",
+              "date": "2017-06-03T19:31:43.000Z",
+              "message": "no message",
+              "linesAdded": 79,
+              "linesDeleted": 45,
+              "filesChanged": [
+                "How to import all notebooks.ipynb"
+              ]
+            }
+          ]
+        },
+        "2017-06-02": {
+          "date": "2017-06-02",
+          "heatScore": 38,
+          "linesChanged": 433,
+          "commitCount": 1,
+          "filesEdited": [
+            "How to find answers.ipynb",
+            "How to interpret questions.ipynb",
+            "index.js"
+          ],
+          "commits": [
+            {
+              "hash": "d73e17b2c7a78655de7d9a39840e5861443b97f7",
+              "author": "Brian Cullinan",
+              "date": "2017-06-02T23:49:36.000Z",
+              "message": "Work code search with fuse.js",
+              "linesAdded": 297,
+              "linesDeleted": 136,
+              "filesChanged": [
+                "How to find answers.ipynb",
+                "How to interpret questions.ipynb",
+                "index.js"
+              ]
+            }
+          ]
+        },
+        "2017-06-01": {
+          "date": "2017-06-01",
+          "heatScore": 39,
+          "linesChanged": 441,
+          "commitCount": 1,
+          "filesEdited": [
+            "How to find answers.ipynb",
+            "How to interpret questions.ipynb",
+            "package-lock.json",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "0c75311768b58f51b9e22237c81418c6c52a81f1",
+              "author": "SWIFTPAGE\\Brian.Cullinan",
+              "date": "2017-06-01T22:42:09.000Z",
+              "message": "no message",
+              "linesAdded": 156,
+              "linesDeleted": 285,
+              "filesChanged": [
+                "How to find answers.ipynb",
+                "How to interpret questions.ipynb",
+                "package-lock.json",
+                "package.json"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

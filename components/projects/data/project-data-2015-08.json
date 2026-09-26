@@ -1,0 +1,1530 @@
+{
+  "yearMonth": "2015-08",
+  "generatedAt": "2026-09-26T04:31:28.775Z",
+  "username": "briancullinan2",
+  "projects": {
+    "studysauce2": {
+      "projectName": "studysauce2",
+      "localPath": "D:\\studysauce2",
+      "remoteUrl": "https://bjcullinan@bitbucket.org/studysauce/studysauce2",
+      "lastUpdated": "2026-09-26T04:29:50.066Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2015-08-30": {
+          "date": "2015-08-30",
+          "heatScore": 10,
+          "linesChanged": 5,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ImportController.php",
+            "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+          ],
+          "commits": [
+            {
+              "hash": "3ed0d86167e1d8e90d74e262d4613484f5152c19",
+              "author": "bjcullinan",
+              "date": "2015-08-31T03:05:08.000Z",
+              "message": "bigger instance and no time limit for imports",
+              "linesAdded": 4,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ImportController.php",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-29": {
+          "date": "2015-08-29",
+          "heatScore": 72,
+          "linesChanged": 35,
+          "commitCount": 7,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ImportController.php",
+            "src/Admin/Bundle/Resources/public/js/import.js",
+            "src/StudySauce/Bundle/Controller/PlanController.php",
+            "src/StudySauce/Bundle/Command/CronSauceCommand.php",
+            "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+            "src/StudySauce/Bundle/Resources/public/css/plan.css"
+          ],
+          "commits": [
+            {
+              "hash": "37a806ab8466b10d3489eabe0c55e4273db0f8a9",
+              "author": "bjcullinan",
+              "date": "2015-08-29T20:07:23.000Z",
+              "message": "import fix",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ImportController.php",
+                "src/Admin/Bundle/Resources/public/js/import.js"
+              ]
+            },
+            {
+              "hash": "f47a700b6764f01aa45796fba5482fa295791774",
+              "author": "bjcullinan",
+              "date": "2015-08-29T19:34:25.000Z",
+              "message": "plan sync fix",
+              "linesAdded": 0,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Controller/PlanController.php"
+              ]
+            },
+            {
+              "hash": "e37904ca234cfee23ce6b7cd911c9b205c01d70f",
+              "author": "bjcullinan",
+              "date": "2015-08-29T19:09:46.000Z",
+              "message": "sync fix",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Controller/PlanController.php"
+              ]
+            },
+            {
+              "hash": "0f2020b4f0d232d93532c823e688ba1349192f38",
+              "author": "bjcullinan",
+              "date": "2015-08-29T18:57:51.000Z",
+              "message": "cron sync fix",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Controller/PlanController.php"
+              ]
+            },
+            {
+              "hash": "e5a6e03811e4eb9bfb9e33eb855819ec76a67d7c",
+              "author": "bjcullinan",
+              "date": "2015-08-29T18:39:56.000Z",
+              "message": "sync issue",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Controller/PlanController.php"
+              ]
+            },
+            {
+              "hash": "9eb68788932656e620fe37eae3412a03c1a215c6",
+              "author": "bjcullinan",
+              "date": "2015-08-29T18:36:43.000Z",
+              "message": "cron fix",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Command/CronSauceCommand.php"
+              ]
+            },
+            {
+              "hash": "dab6484c04ba4f1431754c79fa555a4772711e1a",
+              "author": "bjcullinan",
+              "date": "2015-08-29T18:29:00.000Z",
+              "message": "bug fixes",
+              "linesAdded": 8,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "src/StudySauce/Bundle/Resources/public/css/plan.css"
+              ]
+            }
+          ]
+        },
+        "2015-08-28": {
+          "date": "2015-08-28",
+          "heatScore": 100,
+          "linesChanged": 1043,
+          "commitCount": 4,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ActivityController.php",
+            "src/StudySauce/Bundle/Controller/NotesController.php",
+            "src/StudySauce/Bundle/Controller/PlanController.php",
+            "src/Admin/Bundle/Controller/ValidationController.php",
+            "src/Admin/Bundle/Resources/public/js/validation.js",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/Admin/Bundle/Tests/acceptance/AcceptanceTester.php",
+            "src/StudySauce/Bundle/Controller/ScheduleController.php",
+            "src/StudySauce/Bundle/Resources/public/js/plan.js",
+            "src/Admin/Bundle/Controller/ImportController.php",
+            "src/Admin/Bundle/Resources/config/routing.php",
+            "src/Admin/Bundle/Resources/public/css/validation.css",
+            "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+            "src/Admin/Bundle/Tests/acceptance/AdviserCest.php",
+            "src/Admin/Bundle/Tests/acceptance/Course2Cest.php",
+            "src/Admin/Bundle/Tests/acceptance/Course3Cest.php",
+            "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+            "src/StudySauce/Bundle/Controller/DeadlinesController.php"
+          ],
+          "commits": [
+            {
+              "hash": "9dde1f60d3b2c4c8c8db1f03bb8daa46235a4149",
+              "author": "bjcullinan",
+              "date": "2015-08-29T02:53:01.000Z",
+              "message": "first time evernote connect fix",
+              "linesAdded": 12,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ActivityController.php",
+                "src/StudySauce/Bundle/Controller/NotesController.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php"
+              ]
+            },
+            {
+              "hash": "c011861a4c592f45535aacf02d18d2eb93f42d1f",
+              "author": "bjcullinan",
+              "date": "2015-08-29T01:30:51.000Z",
+              "message": "validation test name fix",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php"
+              ]
+            },
+            {
+              "hash": "390e6b39638981a06fea7fbbca3ee51c0d1a0ee5",
+              "author": "bjcullinan",
+              "date": "2015-08-28T21:32:14.000Z",
+              "message": "duplication on reconnect fix, plan setup only reappears when classes change",
+              "linesAdded": 672,
+              "linesDeleted": 28,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/js/validation.js",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/Admin/Bundle/Tests/acceptance/AcceptanceTester.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "src/StudySauce/Bundle/Controller/ScheduleController.php",
+                "src/StudySauce/Bundle/Resources/public/js/plan.js"
+              ]
+            },
+            {
+              "hash": "32fdede2801160cd79d9fbb174ac25d3cb53657a",
+              "author": "bjcullinan",
+              "date": "2015-08-28T16:53:56.000Z",
+              "message": "new validation tests, fixes to many test sequencing and recovering from different states, plan fix",
+              "linesAdded": 234,
+              "linesDeleted": 90,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ImportController.php",
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/Admin/Bundle/Resources/config/routing.php",
+                "src/Admin/Bundle/Resources/public/css/validation.css",
+                "src/Admin/Bundle/Resources/public/js/validation.js",
+                "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/Admin/Bundle/Tests/acceptance/AdviserCest.php",
+                "src/Admin/Bundle/Tests/acceptance/Course2Cest.php",
+                "src/Admin/Bundle/Tests/acceptance/Course3Cest.php",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/StudySauce/Bundle/Controller/DeadlinesController.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "src/StudySauce/Bundle/Resources/public/js/plan.js"
+              ]
+            }
+          ]
+        },
+        "2015-08-26": {
+          "date": "2015-08-26",
+          "heatScore": 100,
+          "linesChanged": 67138,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ValidationController.php",
+            "src/Admin/Bundle/Resources/config/routing.php",
+            "src/Admin/Bundle/Resources/public/css/validation.css",
+            "src/Admin/Bundle/Resources/public/js/README.md",
+            "src/Admin/Bundle/Resources/public/js/dagre.core.js",
+            "src/Admin/Bundle/Resources/public/js/dagre.core.min.js",
+            "src/Admin/Bundle/Resources/public/js/dagre.js",
+            "src/Admin/Bundle/Resources/public/js/dagre.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins.js",
+            "src/Admin/Bundle/Resources/public/js/plugins.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.gexf.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.gexf.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.spreadsheet.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.spreadsheet.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.svg.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.svg.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.xlsx.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.xlsx.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.helpers.graph.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.helpers.graph.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.dagre.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.dagre.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.forceAtlas2.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.forceAtlas2.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.forceLink.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.forceLink.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.fruchtermanReingold.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.fruchtermanReingold.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.cypher.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.cypher.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.gexf.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.gexf.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.json.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.json.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.pathfinding.astar.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.pathfinding.astar.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.activeState.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.activeState.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.animate.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.animate.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.colorbrewer.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.colorbrewer.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.design.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.design.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.dragNodes.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.dragNodes.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.edgeSiblings.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.edgeSiblings.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.filter.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.filter.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.fullScreen.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.fullScreen.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.generators.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.generators.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.image.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.image.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.keyboard.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.keyboard.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.lasso.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.lasso.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.locate.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.locate.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.neighborhoods.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.neighborhoods.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.poweredBy.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.poweredBy.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.relativeSize.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.relativeSize.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.select.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.select.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.tooltips.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.tooltips.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.customEdgeShapes.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.customEdgeShapes.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.customShapes.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.edgeLabels.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.edgeLabels.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.glyphs.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.glyphs.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.halo.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.halo.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.linkurious.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.linkurious.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.parallelEdges.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.parallelEdges.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.statistics.HITS.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.statistics.HITS.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.statistics.louvain.min.js",
+            "src/Admin/Bundle/Resources/public/js/plugins/sigma.statistics.louvain.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/sigma.js",
+            "src/Admin/Bundle/Resources/public/js/sigma.min.js",
+            "src/Admin/Bundle/Resources/public/js/sigma.min.js.map",
+            "src/Admin/Bundle/Resources/public/js/sigma.require.js",
+            "src/Admin/Bundle/Resources/public/js/validation.js",
+            "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+            "src/Admin/Bundle/Tests/acceptance.suite.yml",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/Admin/Bundle/Tests/acceptance/AcceptanceTester.php",
+            "src/Admin/Bundle/Tests/functional/EmailCest.php",
+            "src/StudySauce/Bundle/Controller/PlanController.php"
+          ],
+          "commits": [
+            {
+              "hash": "c7a981342f7c1b3fcdb466c5078d6af8e83d7628",
+              "author": "bjcullinan",
+              "date": "2015-08-26T08:44:48.000Z",
+              "message": "new test suite design",
+              "linesAdded": 66822,
+              "linesDeleted": 316,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/Admin/Bundle/Resources/config/routing.php",
+                "src/Admin/Bundle/Resources/public/css/validation.css",
+                "src/Admin/Bundle/Resources/public/js/README.md",
+                "src/Admin/Bundle/Resources/public/js/dagre.core.js",
+                "src/Admin/Bundle/Resources/public/js/dagre.core.min.js",
+                "src/Admin/Bundle/Resources/public/js/dagre.js",
+                "src/Admin/Bundle/Resources/public/js/dagre.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins.js",
+                "src/Admin/Bundle/Resources/public/js/plugins.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.gexf.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.gexf.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.spreadsheet.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.spreadsheet.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.svg.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.svg.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.xlsx.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.exporters.xlsx.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.helpers.graph.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.helpers.graph.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.dagre.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.dagre.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.forceAtlas2.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.forceAtlas2.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.forceLink.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.forceLink.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.fruchtermanReingold.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.layout.fruchtermanReingold.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.cypher.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.cypher.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.gexf.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.gexf.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.json.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.parsers.json.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.pathfinding.astar.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.pathfinding.astar.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.activeState.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.activeState.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.animate.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.animate.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.colorbrewer.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.colorbrewer.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.design.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.design.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.dragNodes.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.dragNodes.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.edgeSiblings.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.edgeSiblings.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.filter.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.filter.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.fullScreen.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.fullScreen.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.generators.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.generators.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.image.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.image.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.keyboard.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.keyboard.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.lasso.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.lasso.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.locate.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.locate.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.neighborhoods.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.neighborhoods.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.poweredBy.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.poweredBy.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.relativeSize.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.relativeSize.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.select.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.select.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.tooltips.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.plugins.tooltips.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.customEdgeShapes.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.customEdgeShapes.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.customShapes.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.edgeLabels.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.edgeLabels.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.glyphs.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.glyphs.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.halo.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.halo.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.linkurious.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.linkurious.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.parallelEdges.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.renderers.parallelEdges.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.statistics.HITS.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.statistics.HITS.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.statistics.louvain.min.js",
+                "src/Admin/Bundle/Resources/public/js/plugins/sigma.statistics.louvain.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/sigma.js",
+                "src/Admin/Bundle/Resources/public/js/sigma.min.js",
+                "src/Admin/Bundle/Resources/public/js/sigma.min.js.map",
+                "src/Admin/Bundle/Resources/public/js/sigma.require.js",
+                "src/Admin/Bundle/Resources/public/js/validation.js",
+                "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+                "src/Admin/Bundle/Tests/acceptance.suite.yml",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/Admin/Bundle/Tests/acceptance/AcceptanceTester.php",
+                "src/Admin/Bundle/Tests/functional/EmailCest.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-25": {
+          "date": "2015-08-25",
+          "heatScore": 17,
+          "linesChanged": 109,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/StudySauce/Bundle/Controller/ConnectController.php",
+            "src/StudySauce/Bundle/Controller/PlanController.php",
+            "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+            "src/StudySauce/Bundle/Resources/public/js/plan.js"
+          ],
+          "commits": [
+            {
+              "hash": "d84e15eb655a5580bc402f9f41f5aa45e15b4ac9",
+              "author": "bjcullinan",
+              "date": "2015-08-25T07:21:10.000Z",
+              "message": "new tests, mobile video player margins fix, cancel connect fix.",
+              "linesAdded": 83,
+              "linesDeleted": 26,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/StudySauce/Bundle/Controller/ConnectController.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+                "src/StudySauce/Bundle/Resources/public/js/plan.js"
+              ]
+            }
+          ]
+        },
+        "2015-08-23": {
+          "date": "2015-08-23",
+          "heatScore": 13,
+          "linesChanged": 46,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/StudySauce/Bundle/Controller/GoalsController.php",
+            "src/StudySauce/Bundle/Controller/PlanController.php",
+            "src/StudySauce/Bundle/Controller/ScheduleController.php",
+            "src/StudySauce/Bundle/Resources/public/js/plan.js"
+          ],
+          "commits": [
+            {
+              "hash": "b7daa5804e2c4ed3b31df066368a05b3f8e97c7b",
+              "author": "bjcullinan",
+              "date": "2015-08-24T04:52:31.000Z",
+              "message": "csrf token fix",
+              "linesAdded": 26,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/StudySauce/Bundle/Controller/GoalsController.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "src/StudySauce/Bundle/Controller/ScheduleController.php",
+                "src/StudySauce/Bundle/Resources/public/js/plan.js"
+              ]
+            }
+          ]
+        },
+        "2015-08-22": {
+          "date": "2015-08-22",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+            "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+          ],
+          "commits": [
+            {
+              "hash": "b2b4f025cb2575a5d1039fcb2c37084d7d4352d1",
+              "author": "bjcullinan",
+              "date": "2015-08-22T07:26:53.000Z",
+              "message": "install and import fix",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-21": {
+          "date": "2015-08-21",
+          "heatScore": 100,
+          "linesChanged": 332,
+          "commitCount": 11,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ImportController.php",
+            "src/StudySauce/Bundle/Resources/public/images/classes.png",
+            "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+            "src/StudySauce/Bundle/Controller/EmailsController.php",
+            "src/StudySauce/Bundle/Resources/public/css/checkin.css",
+            "src/StudySauce/Bundle/Resources/public/images/classes_textured.png",
+            "src/StudySauce/Bundle/Controller/PlanController.php",
+            "src/StudySauce/Bundle/Resources/views/Emails/adviser-invite.html.php",
+            "src/StudySauce/Bundle/Resources/views/Emails/group-invite.html.php",
+            "src/StudySauce/Bundle/Resources/views/Exception/error403.html.php",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/StudySauce/Bundle/Resources/public/css/plan.css",
+            "src/StudySauce/Bundle/Controller/AccountController.php",
+            "src/StudySauce/Bundle/Resources/views/Plan/tab.html.php",
+            "src/StudySauce/Bundle/Resources/public/js/plan.js",
+            "src/StudySauce/Bundle/Resources/views/Account/tab.html.php",
+            "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "cae6984d050b6797df9d9bcc5fed3c17e4415440",
+              "author": "bjcullinan",
+              "date": "2015-08-21T23:57:16.000Z",
+              "message": "adviser import fix",
+              "linesAdded": 19,
+              "linesDeleted": 21,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ImportController.php",
+                "src/StudySauce/Bundle/Resources/public/images/classes.png"
+              ]
+            },
+            {
+              "hash": "c7fea9052c6fc5cc7bd5cb036d3b26e9c1001969",
+              "author": "bjcullinan",
+              "date": "2015-08-21T23:25:23.000Z",
+              "message": "email and checkin fixes",
+              "linesAdded": 12,
+              "linesDeleted": 210,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/StudySauce/Bundle/Controller/EmailsController.php",
+                "src/StudySauce/Bundle/Resources/public/css/checkin.css",
+                "src/StudySauce/Bundle/Resources/public/images/classes.png",
+                "src/StudySauce/Bundle/Resources/public/images/classes_textured.png"
+              ]
+            },
+            {
+              "hash": "44748f3999e7c20ad81d07ebc63c0f11c4a7594c",
+              "author": "bjcullinan",
+              "date": "2015-08-21T22:56:56.000Z",
+              "message": "email fixes",
+              "linesAdded": 11,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ImportController.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "src/StudySauce/Bundle/Resources/views/Emails/adviser-invite.html.php",
+                "src/StudySauce/Bundle/Resources/views/Emails/group-invite.html.php",
+                "src/StudySauce/Bundle/Resources/views/Exception/error403.html.php"
+              ]
+            },
+            {
+              "hash": "1f3bb94c27c365d1747d8b2be0f7a0363d0826b9",
+              "author": "bjcullinan",
+              "date": "2015-08-21T21:46:22.000Z",
+              "message": "google connected fixes",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/StudySauce/Bundle/Resources/public/css/plan.css"
+              ]
+            },
+            {
+              "hash": "580d2763b0c3b6663c424845b835c41ccdab22c5",
+              "author": "bjcullinan",
+              "date": "2015-08-21T21:35:07.000Z",
+              "message": "connected dialog fix",
+              "linesAdded": 2,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Controller/AccountController.php",
+                "src/StudySauce/Bundle/Resources/views/Plan/tab.html.php"
+              ]
+            },
+            {
+              "hash": "1666ac9336216ef118f4be3cd9ba85abef254fdc",
+              "author": "bjcullinan",
+              "date": "2015-08-21T19:21:29.000Z",
+              "message": "plan fix for dragging",
+              "linesAdded": 5,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/public/js/plan.js"
+              ]
+            },
+            {
+              "hash": "fea314d1a5ee659592c3f574317258a132e2f613",
+              "author": "bjcullinan",
+              "date": "2015-08-21T19:10:08.000Z",
+              "message": "install fix for cron",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            },
+            {
+              "hash": "3d62108c5beec556ede285ee06328edb56e93635",
+              "author": "bjcullinan",
+              "date": "2015-08-21T18:49:17.000Z",
+              "message": "plan google connected confirmation",
+              "linesAdded": 6,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/public/js/plan.js",
+                "src/StudySauce/Bundle/Resources/views/Plan/tab.html.php"
+              ]
+            },
+            {
+              "hash": "0f701cdc142a4fb80cf3f06c75089f551840c847",
+              "author": "bjcullinan",
+              "date": "2015-08-21T15:25:25.000Z",
+              "message": "coupon fix",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/views/Account/tab.html.php"
+              ]
+            },
+            {
+              "hash": "7e71ee3878c950d74ed5cccff0320467b9aeca55",
+              "author": "bjcullinan",
+              "date": "2015-08-21T15:24:48.000Z",
+              "message": "torch coupon fix",
+              "linesAdded": 4,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/views/Account/tab.html.php"
+              ]
+            },
+            {
+              "hash": "d1a9362fb7235d17616b1ee147f17e664f4493b0",
+              "author": "bjcullinan",
+              "date": "2015-08-21T15:21:20.000Z",
+              "message": "account coupon, pdf multi-line heading fix, cron execute permission fix",
+              "linesAdded": 7,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/StudySauce/Bundle/Resources/views/Account/tab.html.php",
+                "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-20": {
+          "date": "2015-08-20",
+          "heatScore": 48,
+          "linesChanged": 274,
+          "commitCount": 3,
+          "filesEdited": [
+            "src/StudySauce/Bundle/Controller/PlanController.php",
+            "update_prod.sh",
+            "src/Admin/Bundle/Tests/acceptance/AdviserCest.php",
+            "src/Admin/Bundle/Controller/ValidationController.php",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+            "src/Course1/Bundle/Resources/public/js/course1.js",
+            "src/Course2/Bundle/Resources/public/js/course2.js",
+            "src/StudySauce/Bundle/Controller/AccountController.php",
+            "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+            "src/StudySauce/Bundle/Resources/public/css/menu.css",
+            "src/StudySauce/Bundle/Resources/public/css/plan.css",
+            "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+            "src/StudySauce/Bundle/Resources/public/css/schedule.css",
+            "src/StudySauce/Bundle/Resources/public/images/plan-noise-2.png",
+            "src/StudySauce/Bundle/Resources/public/images/plan-noise.png",
+            "src/StudySauce/Bundle/Resources/public/js/metrics.js",
+            "src/StudySauce/Bundle/Resources/public/js/plan.js",
+            "src/StudySauce/Bundle/Resources/views/Dialogs/plan-step-0.html.php",
+            "src/StudySauce/Bundle/Resources/views/Dialogs/plan-step-6-3.html.php",
+            "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php",
+            "src/StudySauce/Bundle/Resources/views/Plan/tab.html.php",
+            "src/StudySauce/Bundle/Resources/views/Schedule/tab.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "91094bfdb20193441193876f2c2e8d4c8fafcffb",
+              "author": "bjcullinan",
+              "date": "2015-08-21T05:13:29.000Z",
+              "message": "switch to centos and plan download fix",
+              "linesAdded": 4,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "update_prod.sh"
+              ]
+            },
+            {
+              "hash": "e05484e2d65f048a7f66f015d666ab397cda0bd8",
+              "author": "bjcullinan",
+              "date": "2015-08-21T02:56:21.000Z",
+              "message": "adviser",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/AdviserCest.php"
+              ]
+            },
+            {
+              "hash": "2dc8ce721f7ccd14f415d5adfe1e3c9da5e31841",
+              "author": "bjcullinan",
+              "date": "2015-08-21T02:14:17.000Z",
+              "message": "test fixes, menu icons, new colors, event shading, text updates, google sync dialog",
+              "linesAdded": 231,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/Course1/Bundle/Resources/public/js/course1.js",
+                "src/Course2/Bundle/Resources/public/js/course2.js",
+                "src/StudySauce/Bundle/Controller/AccountController.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+                "src/StudySauce/Bundle/Resources/public/css/menu.css",
+                "src/StudySauce/Bundle/Resources/public/css/plan.css",
+                "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+                "src/StudySauce/Bundle/Resources/public/css/schedule.css",
+                "src/StudySauce/Bundle/Resources/public/images/plan-noise-2.png",
+                "src/StudySauce/Bundle/Resources/public/images/plan-noise.png",
+                "src/StudySauce/Bundle/Resources/public/js/metrics.js",
+                "src/StudySauce/Bundle/Resources/public/js/plan.js",
+                "src/StudySauce/Bundle/Resources/views/Dialogs/plan-step-0.html.php",
+                "src/StudySauce/Bundle/Resources/views/Dialogs/plan-step-6-3.html.php",
+                "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php",
+                "src/StudySauce/Bundle/Resources/views/Plan/tab.html.php",
+                "src/StudySauce/Bundle/Resources/views/Schedule/tab.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-19": {
+          "date": "2015-08-19",
+          "heatScore": 100,
+          "linesChanged": 19500,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Resources/views/Emails/template.html.php",
+            "src/StudySauce/Bundle/Entity/Course.php",
+            "src/StudySauce/Bundle/Resources/config/assets.php",
+            "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+            "src/StudySauce/Bundle/Resources/public/css/jquery-ui.css",
+            "src/StudySauce/Bundle/Resources/public/css/jquery-ui.min.css",
+            "src/StudySauce/Bundle/Resources/public/css/jquery-ui.structure.css",
+            "src/StudySauce/Bundle/Resources/public/css/jquery-ui.structure.min.css",
+            "src/StudySauce/Bundle/Resources/public/css/normalize.css",
+            "src/StudySauce/Bundle/Resources/public/css/plan.css",
+            "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+            "src/StudySauce/Bundle/Resources/public/js/bootstrap.js",
+            "src/StudySauce/Bundle/Resources/public/js/dashboard.js",
+            "src/StudySauce/Bundle/Resources/public/js/jquery-2.1.1.min.js",
+            "src/StudySauce/Bundle/Resources/public/js/jquery-2.1.1.min.map",
+            "src/StudySauce/Bundle/Resources/public/js/{jquery-2.1.1.js => jquery-2.1.4.js}",
+            "src/StudySauce/Bundle/Resources/public/js/jquery-2.1.4.min.js",
+            "src/StudySauce/Bundle/Resources/public/js/jquery-2.1.4.min.map",
+            "src/StudySauce/Bundle/Resources/public/js/jquery-ui.js",
+            "src/StudySauce/Bundle/Resources/public/js/jquery-ui.min.js",
+            "src/StudySauce/Bundle/Resources/public/js/jquery.timeentry.js",
+            "src/StudySauce/Bundle/Resources/public/js/jquery.tipsy.js",
+            "src/StudySauce/Bundle/Resources/public/js/metrics.js",
+            "src/StudySauce/Bundle/Resources/public/js/plan.js",
+            "src/StudySauce/Bundle/Resources/public/js/sauce.js"
+          ],
+          "commits": [
+            {
+              "hash": "aa2551e513a46a59067b9e36a49275339c28fd6e",
+              "author": "bjcullinan",
+              "date": "2015-08-19T07:22:00.000Z",
+              "message": "plan fixes, library updates, new tooltips",
+              "linesAdded": 18208,
+              "linesDeleted": 1292,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/views/Emails/template.html.php",
+                "src/StudySauce/Bundle/Entity/Course.php",
+                "src/StudySauce/Bundle/Resources/config/assets.php",
+                "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+                "src/StudySauce/Bundle/Resources/public/css/jquery-ui.css",
+                "src/StudySauce/Bundle/Resources/public/css/jquery-ui.min.css",
+                "src/StudySauce/Bundle/Resources/public/css/jquery-ui.structure.css",
+                "src/StudySauce/Bundle/Resources/public/css/jquery-ui.structure.min.css",
+                "src/StudySauce/Bundle/Resources/public/css/normalize.css",
+                "src/StudySauce/Bundle/Resources/public/css/plan.css",
+                "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+                "src/StudySauce/Bundle/Resources/public/js/bootstrap.js",
+                "src/StudySauce/Bundle/Resources/public/js/dashboard.js",
+                "src/StudySauce/Bundle/Resources/public/js/jquery-2.1.1.min.js",
+                "src/StudySauce/Bundle/Resources/public/js/jquery-2.1.1.min.map",
+                "src/StudySauce/Bundle/Resources/public/js/{jquery-2.1.1.js => jquery-2.1.4.js}",
+                "src/StudySauce/Bundle/Resources/public/js/jquery-2.1.4.min.js",
+                "src/StudySauce/Bundle/Resources/public/js/jquery-2.1.4.min.map",
+                "src/StudySauce/Bundle/Resources/public/js/jquery-ui.js",
+                "src/StudySauce/Bundle/Resources/public/js/jquery-ui.min.js",
+                "src/StudySauce/Bundle/Resources/public/js/jquery.timeentry.js",
+                "src/StudySauce/Bundle/Resources/public/js/jquery.tipsy.js",
+                "src/StudySauce/Bundle/Resources/public/js/metrics.js",
+                "src/StudySauce/Bundle/Resources/public/js/plan.js",
+                "src/StudySauce/Bundle/Resources/public/js/sauce.js"
+              ]
+            }
+          ]
+        },
+        "2015-08-17": {
+          "date": "2015-08-17",
+          "heatScore": 37,
+          "linesChanged": 106,
+          "commitCount": 3,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ValidationController.php",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+            "src/StudySauce/Bundle/Controller/PlanController.php",
+            "src/StudySauce/Bundle/Resources/config/assets.php",
+            "src/StudySauce/Bundle/Resources/public/js/dashboard.js",
+            "src/StudySauce/Bundle/Resources/public/js/sauce.js",
+            "src/Admin/Bundle/Resources/views/Emails/tab.html.php",
+            "src/StudySauce/Bundle/Resources/views/Dialogs/what-if.html.php",
+            "src/StudySauce/Bundle/Controller/DeadlinesController.php",
+            "src/StudySauce/Bundle/Resources/views/Calc/tab.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "72fbd6ba5477510ad63c6fd9f11fdd9c26bd8172",
+              "author": "bjcullinan",
+              "date": "2015-08-18T05:22:03.000Z",
+              "message": "text fixes",
+              "linesAdded": 43,
+              "linesDeleted": 43,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "src/StudySauce/Bundle/Resources/config/assets.php",
+                "src/StudySauce/Bundle/Resources/public/js/dashboard.js",
+                "src/StudySauce/Bundle/Resources/public/js/sauce.js"
+              ]
+            },
+            {
+              "hash": "f07e8a7f262328d337a1ac32c9243808d5607129",
+              "author": "bjcullinan",
+              "date": "2015-08-17T19:35:54.000Z",
+              "message": "php codeblock fixes",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/views/Emails/tab.html.php",
+                "src/StudySauce/Bundle/Resources/views/Dialogs/what-if.html.php"
+              ]
+            },
+            {
+              "hash": "d84ee9479924ec6e29419b0169fd2215e2fd8016",
+              "author": "bjcullinan",
+              "date": "2015-08-17T19:32:12.000Z",
+              "message": "deadlines, install, and calc fix",
+              "linesAdded": 7,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/StudySauce/Bundle/Controller/DeadlinesController.php",
+                "src/StudySauce/Bundle/Resources/views/Calc/tab.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-15": {
+          "date": "2015-08-15",
+          "heatScore": 20,
+          "linesChanged": 158,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ValidationController.php",
+            "src/Admin/Bundle/Resources/public/css/validation.css",
+            "src/Admin/Bundle/Resources/public/js/validation.js",
+            "src/Admin/Bundle/Tests/acceptance.suite.yml",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/Admin/Bundle/Tests/acceptance/AdviserCest.php",
+            "src/Admin/Bundle/Tests/acceptance/EmailsCest.php",
+            "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+            "src/StudySauce/Bundle/Resources/public/js/notes.js",
+            "src/StudySauce/Bundle/Resources/views/Notes/tab.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "c2727ecb399a1999280b582366378df77878704f",
+              "author": "bjcullinan",
+              "date": "2015-08-16T06:18:55.000Z",
+              "message": "test fixes",
+              "linesAdded": 112,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/Admin/Bundle/Resources/public/css/validation.css",
+                "src/Admin/Bundle/Resources/public/js/validation.js",
+                "src/Admin/Bundle/Tests/acceptance.suite.yml",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/Admin/Bundle/Tests/acceptance/AdviserCest.php",
+                "src/Admin/Bundle/Tests/acceptance/EmailsCest.php",
+                "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+                "src/StudySauce/Bundle/Resources/public/js/notes.js",
+                "src/StudySauce/Bundle/Resources/views/Notes/tab.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-14": {
+          "date": "2015-08-14",
+          "heatScore": 41,
+          "linesChanged": 177,
+          "commitCount": 3,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ValidationController.php",
+            "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+            "src/Admin/Bundle/Resources/public/css/validation.css",
+            "src/Admin/Bundle/Resources/public/js/validation.js",
+            "src/Admin/Bundle/Resources/views/Validation/results.html.php",
+            "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+            "src/StudySauce/Bundle/Resources/config/assets.php"
+          ],
+          "commits": [
+            {
+              "hash": "7de7beaf9716c923542a2eb8bc85c30d5921251d",
+              "author": "bjcullinan",
+              "date": "2015-08-14T18:52:07.000Z",
+              "message": "full error message",
+              "linesAdded": 2,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            },
+            {
+              "hash": "5401d4229516b06dc14d5fd55d3bec046bf0afe8",
+              "author": "bjcullinan",
+              "date": "2015-08-14T18:27:05.000Z",
+              "message": "margin fix",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ValidationController.php"
+              ]
+            },
+            {
+              "hash": "0efcf9e94acbb2c59325b4a4f4a7a398446e1476",
+              "author": "bjcullinan",
+              "date": "2015-08-14T08:03:19.000Z",
+              "message": "saving tests",
+              "linesAdded": 120,
+              "linesDeleted": 52,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/Admin/Bundle/Resources/public/css/validation.css",
+                "src/Admin/Bundle/Resources/public/js/validation.js",
+                "src/Admin/Bundle/Resources/views/Validation/results.html.php",
+                "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+                "src/StudySauce/Bundle/Resources/config/assets.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-13": {
+          "date": "2015-08-13",
+          "heatScore": 100,
+          "linesChanged": 522,
+          "commitCount": 11,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ValidationController.php",
+            "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+            "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+            "src/Admin/Bundle/Tests/acceptance.suite.yml",
+            "vendor/facebook/webdriver/lib/remote/HttpCommandExecutor.php",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "update_dev.sh",
+            "update_prod.sh",
+            "update_test.sh",
+            "src/StudySauce/Bundle/Resources/views/Account/login.html.php",
+            "src/StudySauce/Bundle/Resources/views/Dialogs/account-not-found.html.php",
+            "cron.sh",
+            "cron_dev.sh",
+            "cron_test.sh"
+          ],
+          "commits": [
+            {
+              "hash": "4101d51ebdde00124439cda7fd9a93c3b2361b38",
+              "author": "bjcullinan",
+              "date": "2015-08-14T03:42:34.000Z",
+              "message": "test fix",
+              "linesAdded": 7,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            },
+            {
+              "hash": "1ed7b3943cf38f127b9a7f126d7d3172f1c7960d",
+              "author": "bjcullinan",
+              "date": "2015-08-14T02:51:35.000Z",
+              "message": "test fixes",
+              "linesAdded": 280,
+              "linesDeleted": 78,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+                "src/Admin/Bundle/Tests/acceptance.suite.yml",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "vendor/facebook/webdriver/lib/remote/HttpCommandExecutor.php"
+              ]
+            },
+            {
+              "hash": "5e4862f79f8e31b31326d26993b29e42707effb4",
+              "author": "bjcullinan",
+              "date": "2015-08-13T22:39:05.000Z",
+              "message": "tests",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+                "src/Admin/Bundle/Tests/acceptance.suite.yml"
+              ]
+            },
+            {
+              "hash": "1089c23d7b58d3c0b1dfbff38fe54d8127c09f0b",
+              "author": "bjcullinan",
+              "date": "2015-08-13T20:48:17.000Z",
+              "message": "text fixes",
+              "linesAdded": 10,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php"
+              ]
+            },
+            {
+              "hash": "822ce568639e51396649238103a2d70acff3de43",
+              "author": "bjcullinan",
+              "date": "2015-08-13T17:52:27.000Z",
+              "message": "test fixes",
+              "linesAdded": 25,
+              "linesDeleted": 25,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "update_dev.sh",
+                "update_prod.sh"
+              ]
+            },
+            {
+              "hash": "ee195c37ab61a81adad4cc4b718e71f592ed98b8",
+              "author": "bjcullinan",
+              "date": "2015-08-13T17:40:11.000Z",
+              "message": "test fixes",
+              "linesAdded": 5,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "update_dev.sh",
+                "update_prod.sh",
+                "update_test.sh"
+              ]
+            },
+            {
+              "hash": "ce0a70d154fd2828e6254dac9033b46edfe6c568",
+              "author": "bjcullinan",
+              "date": "2015-08-13T17:07:27.000Z",
+              "message": "test fix",
+              "linesAdded": 1,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php"
+              ]
+            },
+            {
+              "hash": "d76d286a413fe63d11a86c4aad80526fdd5781f5",
+              "author": "bjcullinan",
+              "date": "2015-08-13T17:04:18.000Z",
+              "message": "login fixes",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/StudySauce/Bundle/Resources/views/Account/login.html.php",
+                "src/StudySauce/Bundle/Resources/views/Dialogs/account-not-found.html.php"
+              ]
+            },
+            {
+              "hash": "40003732562ab2de7961eb50a7d0c1bf30125991",
+              "author": "bjcullinan",
+              "date": "2015-08-13T16:38:28.000Z",
+              "message": "play youtube fix",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php"
+              ]
+            },
+            {
+              "hash": "237ac2490bc8e36524fd3d4538f198d9e261a21a",
+              "author": "bjcullinan",
+              "date": "2015-08-13T16:22:54.000Z",
+              "message": "cron fix",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "cron.sh"
+              ]
+            },
+            {
+              "hash": "e7c1674a8ad47c329aefa453e46fb7a9db7e54c7",
+              "author": "bjcullinan",
+              "date": "2015-08-13T16:21:18.000Z",
+              "message": "test fixes",
+              "linesAdded": 33,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "cron.sh",
+                "cron_dev.sh",
+                "cron_test.sh",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-12": {
+          "date": "2015-08-12",
+          "heatScore": 100,
+          "linesChanged": 986,
+          "commitCount": 13,
+          "filesEdited": [
+            "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+            "cron_dev.sh",
+            "cron_test.sh",
+            "src/Admin/Bundle/Tests/functional/EmailCest.php",
+            "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/Admin/Bundle/Tests/acceptance/AcceptanceTester.php",
+            "src/Admin/Bundle/Tests/acceptance/{AdvisterCest.php => AdviserCest.php}",
+            "src/Admin/Bundle/Tests/acceptance/EmailsCest.php",
+            "src/Admin/Bundle/codeception.yml",
+            "src/StudySauce/Bundle/Controller/PlanController.php",
+            "update_dev.sh",
+            "update_prod.sh",
+            "update_test.sh",
+            "src/StudySauce/Bundle/Resources/public/css/plan.css",
+            "app/config/config_dev.yml",
+            "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+            "src/StudySauce/Bundle/Resources/public/js/plan.js",
+            "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php",
+            "src/StudySauce/Bundle/Controller/DeadlinesController.php",
+            "web/app.php"
+          ],
+          "commits": [
+            {
+              "hash": "21c2f99479094149cbefa711a2ac9f452b803656",
+              "author": "bjcullinan",
+              "date": "2015-08-13T05:49:59.000Z",
+              "message": "install fix",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            },
+            {
+              "hash": "4b1300a1f1640fdb95a0edc290a72eb1e37a8dbf",
+              "author": "bjcullinan",
+              "date": "2015-08-13T05:47:49.000Z",
+              "message": "test fix, added cron",
+              "linesAdded": 13,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "cron_dev.sh",
+                "cron_test.sh",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            },
+            {
+              "hash": "acd2b26f919427311fc63d1854e0d9ff03549d34",
+              "author": "bjcullinan",
+              "date": "2015-08-13T05:15:38.000Z",
+              "message": "deploy",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            },
+            {
+              "hash": "ee4658bcf5c5e55ddd5763ed97a5a989d616e382",
+              "author": "bjcullinan",
+              "date": "2015-08-13T05:08:57.000Z",
+              "message": "test fix",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            },
+            {
+              "hash": "c72f46e36c5add5d9b95805ddeac6b15f7c5ceaa",
+              "author": "bjcullinan",
+              "date": "2015-08-13T05:03:34.000Z",
+              "message": "email fix",
+              "linesAdded": 10,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/Admin/Bundle/Tests/functional/EmailCest.php"
+              ]
+            },
+            {
+              "hash": "06843ca20ad54bf1f80742ef96231ec6cbb6dc81",
+              "author": "bjcullinan",
+              "date": "2015-08-13T04:56:22.000Z",
+              "message": "test bug fixes",
+              "linesAdded": 255,
+              "linesDeleted": 366,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/Admin/Bundle/Tests/acceptance/AcceptanceTester.php",
+                "src/Admin/Bundle/Tests/acceptance/{AdvisterCest.php => AdviserCest.php}",
+                "src/Admin/Bundle/Tests/acceptance/EmailsCest.php",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/Admin/Bundle/codeception.yml",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "update_dev.sh",
+                "update_prod.sh",
+                "update_test.sh"
+              ]
+            },
+            {
+              "hash": "93d5c86ab687e13e63a5f2b943befa318285a502",
+              "author": "bjcullinan",
+              "date": "2015-08-12T23:12:29.000Z",
+              "message": "cert fix",
+              "linesAdded": 140,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            },
+            {
+              "hash": "a0a9759e43009b54451b9ea8e2710e70dc606920",
+              "author": "bjcullinan",
+              "date": "2015-08-12T22:51:10.000Z",
+              "message": "install certificate",
+              "linesAdded": 7,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/StudySauce/Bundle/Resources/public/css/plan.css"
+              ]
+            },
+            {
+              "hash": "61f602fb4637d3b3a7eb295bf407c3afe3a1acef",
+              "author": "bjcullinan",
+              "date": "2015-08-12T18:42:22.000Z",
+              "message": "plan fixes",
+              "linesAdded": 51,
+              "linesDeleted": 52,
+              "filesChanged": [
+                "app/config/config_dev.yml",
+                "src/StudySauce/Bundle/Resources/public/css/plan.css",
+                "src/StudySauce/Bundle/Resources/public/css/sauce.css"
+              ]
+            },
+            {
+              "hash": "f8b1b9b2098142cfa01cec9e2cfdfa5fbf1a8b3b",
+              "author": "bjcullinan",
+              "date": "2015-08-12T17:44:15.000Z",
+              "message": "bug fixes",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/public/js/plan.js",
+                "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php"
+              ]
+            },
+            {
+              "hash": "f798f545f384cef4deaa4682cacda4e3b6c169fd",
+              "author": "bjcullinan",
+              "date": "2015-08-12T17:38:36.000Z",
+              "message": "bug fixes",
+              "linesAdded": 6,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Controller/DeadlinesController.php",
+                "src/StudySauce/Bundle/Resources/public/js/plan.js",
+                "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php"
+              ]
+            },
+            {
+              "hash": "c64b04ec3b5b2eda4804aef3d8a2e1ead3bdace7",
+              "author": "bjcullinan",
+              "date": "2015-08-12T07:52:15.000Z",
+              "message": "script fix",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php"
+              ]
+            },
+            {
+              "hash": "0fec07d26cd5fb0e65b28dc5f7bb131545f9f07f",
+              "author": "bjcullinan",
+              "date": "2015-08-12T07:31:26.000Z",
+              "message": "test fixes",
+              "linesAdded": 28,
+              "linesDeleted": 30,
+              "filesChanged": [
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "update_test.sh",
+                "web/app.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-11": {
+          "date": "2015-08-11",
+          "heatScore": 56,
+          "linesChanged": 696,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/config/config_dev.yml",
+            "app/config/config_prod.yml",
+            "app/config/config_test.yml",
+            "src/Admin/Bundle/Controller/AdviserController.php",
+            "src/Admin/Bundle/Controller/ImportController.php",
+            "src/Admin/Bundle/Resources/public/css/admin.css",
+            "src/{StudySauce => Admin}/Bundle/Resources/public/css/import.css",
+            "src/Admin/Bundle/Resources/public/css/menu.css",
+            "src/Admin/Bundle/Resources/public/css/userlist.css",
+            "src/{StudySauce => Admin}/Bundle/Resources/public/js/import.js",
+            "src/Admin/Bundle/Resources/views/Adviser/userlist.html.php",
+            "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+            "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+            "src/StudySauce/Bundle/Controller/PlanController.php",
+            "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+            "src/StudySauce/Bundle/Resources/public/css/menu.css",
+            "src/StudySauce/Bundle/Resources/public/images/menu_new.png",
+            "src/StudySauce/Bundle/Resources/public/images/menu_new_compressed.png",
+            "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php",
+            "update_dev.sh",
+            "update.sh => update_prod.sh",
+            "update_test.sh",
+            "web/app.php"
+          ],
+          "commits": [
+            {
+              "hash": "d7310563022df2d99745badc233eb60214c9128d",
+              "author": "bjcullinan",
+              "date": "2015-08-12T05:21:43.000Z",
+              "message": "adviser updates, new installation test",
+              "linesAdded": 524,
+              "linesDeleted": 172,
+              "filesChanged": [
+                "app/config/config_dev.yml",
+                "app/config/config_prod.yml",
+                "app/config/config_test.yml",
+                "src/Admin/Bundle/Controller/AdviserController.php",
+                "src/Admin/Bundle/Controller/ImportController.php",
+                "src/Admin/Bundle/Resources/public/css/admin.css",
+                "src/{StudySauce => Admin}/Bundle/Resources/public/css/import.css",
+                "src/Admin/Bundle/Resources/public/css/menu.css",
+                "src/Admin/Bundle/Resources/public/css/userlist.css",
+                "src/{StudySauce => Admin}/Bundle/Resources/public/js/import.js",
+                "src/Admin/Bundle/Resources/views/Adviser/userlist.html.php",
+                "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+                "src/Admin/Bundle/Tests/acceptance/InstallationCest.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+                "src/StudySauce/Bundle/Resources/public/css/menu.css",
+                "src/StudySauce/Bundle/Resources/public/images/menu_new.png",
+                "src/StudySauce/Bundle/Resources/public/images/menu_new_compressed.png",
+                "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php",
+                "update_dev.sh",
+                "update.sh => update_prod.sh",
+                "update_test.sh",
+                "web/app.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-05": {
+          "date": "2015-08-05",
+          "heatScore": 30,
+          "linesChanged": 301,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Resources/public/css/userlist.css",
+            "src/Admin/Bundle/Resources/public/js/userlist.js",
+            "src/Admin/Bundle/Resources/views/Adviser/userlist.html.php",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/StudySauce/Bundle/Entity/User.php",
+            "src/StudySauce/Bundle/Resources/public/js/plan.js",
+            "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "594e187d74480677376d03c111fc7e82626a9a90",
+              "author": "bjcullinan",
+              "date": "2015-08-06T05:44:25.000Z",
+              "message": "new tab when downloading pdf, adviser reorder",
+              "linesAdded": 182,
+              "linesDeleted": 119,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/css/userlist.css",
+                "src/Admin/Bundle/Resources/public/js/userlist.js",
+                "src/Admin/Bundle/Resources/views/Adviser/userlist.html.php",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/StudySauce/Bundle/Entity/User.php",
+                "src/StudySauce/Bundle/Resources/public/js/plan.js",
+                "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-08-04": {
+          "date": "2015-08-04",
+          "heatScore": 84,
+          "linesChanged": 1123,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/config/security.yml",
+            "src/Admin/Bundle/Controller/ActivityController.php",
+            "src/Admin/Bundle/Controller/AdminController.php",
+            "src/Admin/Bundle/Controller/AdviserController.php",
+            "src/Admin/Bundle/Controller/ResultsController.php",
+            "src/Admin/Bundle/Resources/public/js/admin.js",
+            "src/Admin/Bundle/Resources/views/Admin/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Adviser/userlist.html.php",
+            "src/StudySauce/Bundle/Controller/PlanController.php",
+            "src/StudySauce/Bundle/Entity/User.php",
+            "src/StudySauce/Bundle/Entity/Visit.php",
+            "src/StudySauce/Bundle/EventListener/PageTracker.php",
+            "src/StudySauce/Bundle/Resources/config/routing.php",
+            "src/StudySauce/Bundle/Resources/public/css/plan.css",
+            "src/StudySauce/Bundle/Resources/public/images/Study_Sauce_Logo_small.png",
+            "src/StudySauce/Bundle/Resources/public/images/menu_new.png",
+            "src/StudySauce/Bundle/Resources/public/images/menu_new_compressed.png",
+            "src/StudySauce/Bundle/Resources/public/js/plan.js",
+            "src/StudySauce/Bundle/Resources/views/Partner/plan.html.php",
+            "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "8d37bad42ed73709b7fe2b473ef05b348db0962a",
+              "author": "bjcullinan",
+              "date": "2015-08-05T05:25:41.000Z",
+              "message": "download-able plan",
+              "linesAdded": 958,
+              "linesDeleted": 165,
+              "filesChanged": [
+                "app/config/security.yml",
+                "src/Admin/Bundle/Controller/ActivityController.php",
+                "src/Admin/Bundle/Controller/AdminController.php",
+                "src/Admin/Bundle/Controller/AdviserController.php",
+                "src/Admin/Bundle/Controller/ResultsController.php",
+                "src/Admin/Bundle/Resources/public/js/admin.js",
+                "src/Admin/Bundle/Resources/views/Admin/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Adviser/userlist.html.php",
+                "src/StudySauce/Bundle/Controller/PlanController.php",
+                "src/StudySauce/Bundle/Entity/User.php",
+                "src/StudySauce/Bundle/Entity/Visit.php",
+                "src/StudySauce/Bundle/EventListener/PageTracker.php",
+                "src/StudySauce/Bundle/Resources/config/routing.php",
+                "src/StudySauce/Bundle/Resources/public/css/plan.css",
+                "src/StudySauce/Bundle/Resources/public/images/Study_Sauce_Logo_small.png",
+                "src/StudySauce/Bundle/Resources/public/images/menu_new.png",
+                "src/StudySauce/Bundle/Resources/public/images/menu_new_compressed.png",
+                "src/StudySauce/Bundle/Resources/public/js/plan.js",
+                "src/StudySauce/Bundle/Resources/views/Partner/plan.html.php",
+                "src/StudySauce/Bundle/Resources/views/Plan/pdf.html.php"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

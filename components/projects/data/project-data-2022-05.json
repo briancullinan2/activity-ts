@@ -1,0 +1,821 @@
+{
+  "yearMonth": "2022-05",
+  "generatedAt": "2026-09-24T02:37:24.747Z",
+  "username": "briancullinan2",
+  "projects": {
+    "bitmappery": {
+      "projectName": "bitmappery",
+      "localPath": "C:\\Users\\megam\\bitmappery",
+      "remoteUrl": "git@github.com:igorski/bitmappery.git",
+      "lastUpdated": "2026-09-24T02:37:00.117Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2022-05-27": {
+          "date": "2022-05-27",
+          "heatScore": 14,
+          "linesChanged": 71,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/components/dialog-window/dialog-window.vue",
+            "src/components/layer-panel/layer-panel.vue",
+            "src/services/keyboard-service.js"
+          ],
+          "commits": [
+            {
+              "hash": "18d1514ca53f54b48214de6cb97af6775788e179",
+              "author": "Igor Zinken",
+              "date": "2022-05-27T14:52:26.000Z",
+              "message": "Added keyboard control to focused layer panel",
+              "linesAdded": 66,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/components/dialog-window/dialog-window.vue",
+                "src/components/layer-panel/layer-panel.vue",
+                "src/services/keyboard-service.js"
+              ]
+            }
+          ]
+        },
+        "2022-05-26": {
+          "date": "2022-05-26",
+          "heatScore": 23,
+          "linesChanged": 208,
+          "commitCount": 1,
+          "filesEdited": [
+            "package-lock.json",
+            "src/rendering/canvas-elements/interaction-pane.js",
+            "src/rendering/canvas-elements/zoomable-canvas.js"
+          ],
+          "commits": [
+            {
+              "hash": "4bfe07da66d879438ad8158808965124e308fef9",
+              "author": "Igor Zinken",
+              "date": "2022-05-26T20:06:50.000Z",
+              "message": "Addressed issue where using spacebar and drag to pan document viewport would jump after a window resize",
+              "linesAdded": 149,
+              "linesDeleted": 59,
+              "filesChanged": [
+                "package-lock.json",
+                "src/rendering/canvas-elements/interaction-pane.js",
+                "src/rendering/canvas-elements/zoomable-canvas.js"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "morpheus": {
+      "projectName": "morpheus",
+      "localPath": "C:\\Users\\megam\\morpheus",
+      "remoteUrl": "git@github.com:briancullinan2/morpheus.git",
+      "lastUpdated": "2026-09-24T02:37:09.619Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2022-05-15": {
+          "date": "2022-05-15",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "library/utilities/parse.js"
+          ],
+          "commits": [
+            {
+              "hash": "6f47dee72fb00c0c8c0f9bad3beb593a28da90b8",
+              "author": "megamind",
+              "date": "2022-05-15T01:34:00.000Z",
+              "message": "better attribute specification",
+              "linesAdded": 16,
+              "linesDeleted": 22,
+              "filesChanged": [
+                "library/utilities/parse.js"
+              ]
+            }
+          ]
+        },
+        "2022-05-14": {
+          "date": "2022-05-14",
+          "heatScore": 17,
+          "linesChanged": 112,
+          "commitCount": 1,
+          "filesEdited": [
+            "library/utilities/parse.js",
+            "library/utilities/template.js"
+          ],
+          "commits": [
+            {
+              "hash": "95668768d6398d5302ada4398c83fe9f320ebe50",
+              "author": "megamind",
+              "date": "2022-05-14T22:52:15.000Z",
+              "message": "lol I think it might be working",
+              "linesAdded": 69,
+              "linesDeleted": 43,
+              "filesChanged": [
+                "library/utilities/parse.js",
+                "library/utilities/template.js"
+              ]
+            }
+          ]
+        },
+        "2022-05-13": {
+          "date": "2022-05-13",
+          "heatScore": 20,
+          "linesChanged": 150,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/library/cache.js",
+            "driver/library/index.js",
+            "driver/library/quine.js",
+            "driver/library/repl/attrib.js",
+            "driver/library/template.js"
+          ],
+          "commits": [
+            {
+              "hash": "0421640ffd955b64cfc5b5056715c8711dc66905",
+              "author": "megamind",
+              "date": "2022-05-13T21:13:26.000Z",
+              "message": "one more working function",
+              "linesAdded": 93,
+              "linesDeleted": 57,
+              "filesChanged": [
+                "driver/library/cache.js",
+                "driver/library/index.js",
+                "driver/library/quine.js",
+                "driver/library/repl/attrib.js",
+                "driver/library/template.js"
+              ]
+            }
+          ]
+        },
+        "2022-05-12": {
+          "date": "2022-05-12",
+          "heatScore": 41,
+          "linesChanged": 478,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/library/index.js",
+            "driver/library/repl/attrib.js",
+            "driver/library/repl/eval.js"
+          ],
+          "commits": [
+            {
+              "hash": "afd64c4907ccbcf62ae0a98bd83068b24ac16aa8",
+              "author": "megamind",
+              "date": "2022-05-12T22:13:16.000Z",
+              "message": "possibly loading attributes",
+              "linesAdded": 285,
+              "linesDeleted": 193,
+              "filesChanged": [
+                "driver/library/index.js",
+                "driver/library/repl/attrib.js",
+                "driver/library/repl/eval.js"
+              ]
+            }
+          ]
+        },
+        "2022-05-11": {
+          "date": "2022-05-11",
+          "heatScore": 20,
+          "linesChanged": 164,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/library/cerebro/finalcut.js",
+            "driver/library/index.js"
+          ],
+          "commits": [
+            {
+              "hash": "bd401d36b95aba7e2f7853c548f18f52893edb87",
+              "author": "megamind",
+              "date": "2022-05-11T23:28:48.000Z",
+              "message": "more information on the bootstrap sysem.",
+              "linesAdded": 159,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "driver/library/cerebro/finalcut.js",
+                "driver/library/index.js"
+              ]
+            }
+          ]
+        },
+        "2022-05-10": {
+          "date": "2022-05-10",
+          "heatScore": 35,
+          "linesChanged": 375,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/library/cache.js",
+            "driver/library/env.js",
+            "driver/library/index.js",
+            "driver/library/quine.js",
+            "driver/library/repl/env.js",
+            "package.json"
+          ],
+          "commits": [
+            {
+              "hash": "5c9adc8bce7c47e0f6126086a906eadb907f86e7",
+              "author": "megamind",
+              "date": "2022-05-10T20:57:32.000Z",
+              "message": "trying to get cache system working",
+              "linesAdded": 184,
+              "linesDeleted": 191,
+              "filesChanged": [
+                "driver/library/cache.js",
+                "driver/library/env.js",
+                "driver/library/index.js",
+                "driver/library/quine.js",
+                "driver/library/repl/env.js",
+                "package.json"
+              ]
+            }
+          ]
+        },
+        "2022-05-09": {
+          "date": "2022-05-09",
+          "heatScore": 24,
+          "linesChanged": 217,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/library/quine.js"
+          ],
+          "commits": [
+            {
+              "hash": "97decac9bdd2375c454f76c386b1b98775a3c3e5",
+              "author": "megamind",
+              "date": "2022-05-09T23:08:00.000Z",
+              "message": "basic template working, need to use that to load REPL",
+              "linesAdded": 190,
+              "linesDeleted": 27,
+              "filesChanged": [
+                "driver/library/quine.js"
+              ]
+            }
+          ]
+        },
+        "2022-05-08": {
+          "date": "2022-05-08",
+          "heatScore": 20,
+          "linesChanged": 157,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/library/quine.js",
+            "driver/library/repl/repl.js",
+            "driver/library/stacks/cloud.js"
+          ],
+          "commits": [
+            {
+              "hash": "509fa7a82a90434ba2b7b24284716926186c900a",
+              "author": "megamind",
+              "date": "2022-05-08T22:13:07.000Z",
+              "message": "finally reorganizing for multienvironment deployment",
+              "linesAdded": 92,
+              "linesDeleted": 65,
+              "filesChanged": [
+                "driver/library/quine.js",
+                "driver/library/repl/repl.js",
+                "driver/library/stacks/cloud.js"
+              ]
+            }
+          ]
+        },
+        "2022-05-07": {
+          "date": "2022-05-07",
+          "heatScore": 22,
+          "linesChanged": 185,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/library/eval/attrib.js",
+            "driver/library/eval/eval.js",
+            "driver/library/repl.js",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "193cbdf63a8bd83530bb32a75306cbbd4e8edb1c",
+              "author": "megamind",
+              "date": "2022-05-07T22:40:42.000Z",
+              "message": "better isolation",
+              "linesAdded": 115,
+              "linesDeleted": 70,
+              "filesChanged": [
+                "driver/library/eval/attrib.js",
+                "driver/library/eval/eval.js",
+                "driver/library/repl.js",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2022-05-06": {
+          "date": "2022-05-06",
+          "heatScore": 42,
+          "linesChanged": 483,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/library/docs/{ => common}/api.md",
+            "driver/library/docs/common/aspect.md",
+            "driver/library/docs/{ => common}/boostrap.md",
+            "driver/library/docs/common/object.md",
+            "driver/library/docs/common/rpc.md",
+            "driver/library/docs/compilers/live.md",
+            "driver/library/docs/darkarts/authentic.md",
+            "driver/library/docs/darkarts/authority.md",
+            "driver/library/docs/darkarts/blackbox.md",
+            "driver/library/docs/darkarts/injection.md",
+            "driver/library/docs/darkarts/sink.md",
+            "driver/library/docs/darkarts/whitebox.md",
+            "driver/library/docs/darkarts/xss.md",
+            "driver/library/docs/eval/attrib.md",
+            "driver/library/docs/eval/parallel.md",
+            "driver/library/docs/eval/poll.md",
+            "driver/library/docs/eval/push.md",
+            "driver/library/docs/eval/serial.md",
+            "driver/library/docs/eval/syms.md",
+            "driver/library/docs/middleware.md",
+            "driver/library/docs/study/distraction.md",
+            "driver/library/docs/study/goals.md",
+            "driver/library/docs/study/index.md",
+            "driver/library/docs/study/procrastinate.md",
+            "driver/library/eval/eval.js",
+            "driver/library/landing/{cookooclock.html => cookoo.html}",
+            "driver/library/repl.js",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "c76362138840c60d5f7d24c95a2a930ddba1f35f",
+              "author": "megamind",
+              "date": "2022-05-06T22:24:46.000Z",
+              "message": "playing with call frame minipulation",
+              "linesAdded": 406,
+              "linesDeleted": 77,
+              "filesChanged": [
+                "driver/library/docs/{ => common}/api.md",
+                "driver/library/docs/common/aspect.md",
+                "driver/library/docs/{ => common}/boostrap.md",
+                "driver/library/docs/common/object.md",
+                "driver/library/docs/common/rpc.md",
+                "driver/library/docs/compilers/live.md",
+                "driver/library/docs/darkarts/authentic.md",
+                "driver/library/docs/darkarts/authority.md",
+                "driver/library/docs/darkarts/blackbox.md",
+                "driver/library/docs/darkarts/injection.md",
+                "driver/library/docs/darkarts/sink.md",
+                "driver/library/docs/darkarts/whitebox.md",
+                "driver/library/docs/darkarts/xss.md",
+                "driver/library/docs/eval/attrib.md",
+                "driver/library/docs/eval/parallel.md",
+                "driver/library/docs/eval/poll.md",
+                "driver/library/docs/eval/push.md",
+                "driver/library/docs/eval/serial.md",
+                "driver/library/docs/eval/syms.md",
+                "driver/library/docs/middleware.md",
+                "driver/library/docs/study/distraction.md",
+                "driver/library/docs/study/goals.md",
+                "driver/library/docs/study/index.md",
+                "driver/library/docs/study/procrastinate.md",
+                "driver/library/eval/eval.js",
+                "driver/library/landing/{cookooclock.html => cookoo.html}",
+                "driver/library/repl.js",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2022-05-05": {
+          "date": "2022-05-05",
+          "heatScore": 65,
+          "linesChanged": 833,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/library/eval/eval.js",
+            "driver/library/quine.js",
+            "driver/library/repl.js",
+            "index.html",
+            "make/Makefile.ded",
+            "make/Makefile.index"
+          ],
+          "commits": [
+            {
+              "hash": "d091be3a123b4c4c527f9847d47217e60abca982",
+              "author": "megamind",
+              "date": "2022-05-05T21:57:41.000Z",
+              "message": "rewriting repl to be single promise",
+              "linesAdded": 477,
+              "linesDeleted": 356,
+              "filesChanged": [
+                "driver/library/eval/eval.js",
+                "driver/library/quine.js",
+                "driver/library/repl.js",
+                "index.html",
+                "make/Makefile.ded",
+                "make/Makefile.index"
+              ]
+            }
+          ]
+        },
+        "2022-05-04": {
+          "date": "2022-05-04",
+          "heatScore": 26,
+          "linesChanged": 245,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/library/docs/api.md",
+            "driver/library/docs/boostrap.md",
+            "driver/library/docs/compilers/antlr.md",
+            "driver/library/docs/compilers/dfa.md",
+            "driver/library/docs/compilers/jit.md",
+            "driver/library/docs/compilers/lexer.md",
+            "driver/library/docs/compilers/parser.md",
+            "driver/library/docs/compilers/runner.md",
+            "driver/library/docs/compilers/tokens.md",
+            "driver/library/docs/compilers/visitor.md",
+            "driver/library/docs/eval/body.md",
+            "driver/library/docs/eval/prim.md",
+            "driver/library/docs/{ => eval}/repl.md",
+            "driver/library/docs/ide.md",
+            "driver/library/docs/mock.md",
+            "driver/library/dom.js",
+            "driver/library/eval/vars.js",
+            "driver/library/quine.js",
+            "driver/library/repl.js",
+            "driver/library/sidebar.js",
+            "engine/wasm/bin/make.js",
+            "engine/wasm/sys_idbfs.js",
+            "index.html",
+            "make/Makefile.ded",
+            "make/Makefile.engine"
+          ],
+          "commits": [
+            {
+              "hash": "9aa30cdae754849277aa5c42622d03b8bbea7388",
+              "author": "megamind",
+              "date": "2022-05-04T23:45:31.000Z",
+              "message": "getting closer on 2way renderering",
+              "linesAdded": 199,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "driver/library/docs/api.md",
+                "driver/library/docs/boostrap.md",
+                "driver/library/docs/compilers/antlr.md",
+                "driver/library/docs/compilers/dfa.md",
+                "driver/library/docs/compilers/jit.md",
+                "driver/library/docs/compilers/lexer.md",
+                "driver/library/docs/compilers/parser.md",
+                "driver/library/docs/compilers/runner.md",
+                "driver/library/docs/compilers/tokens.md",
+                "driver/library/docs/compilers/visitor.md",
+                "driver/library/docs/eval/body.md",
+                "driver/library/docs/eval/prim.md",
+                "driver/library/docs/{ => eval}/repl.md",
+                "driver/library/docs/ide.md",
+                "driver/library/docs/mock.md",
+                "driver/library/dom.js",
+                "driver/library/eval/vars.js",
+                "driver/library/quine.js",
+                "driver/library/repl.js",
+                "driver/library/sidebar.js",
+                "engine/wasm/bin/make.js",
+                "engine/wasm/sys_idbfs.js",
+                "index.html",
+                "make/Makefile.ded",
+                "make/Makefile.engine"
+              ]
+            }
+          ]
+        },
+        "2022-05-03": {
+          "date": "2022-05-03",
+          "heatScore": 48,
+          "linesChanged": 573,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/library/eval/body.js",
+            "driver/library/eval/call.js",
+            "driver/library/eval/prim.js",
+            "driver/library/eval/vars.js",
+            "driver/library/quine.js",
+            "driver/library/repl.js",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "4d1bbd437567ef1dc5c262bb8a72c97356e03e91",
+              "author": "megamind",
+              "date": "2022-05-03T23:02:47.000Z",
+              "message": "lol setInterval for worker from frontend",
+              "linesAdded": 327,
+              "linesDeleted": 246,
+              "filesChanged": [
+                "driver/library/eval/body.js",
+                "driver/library/eval/call.js",
+                "driver/library/eval/prim.js",
+                "driver/library/eval/vars.js",
+                "driver/library/quine.js",
+                "driver/library/repl.js",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2022-05-02": {
+          "date": "2022-05-02",
+          "heatScore": 20,
+          "linesChanged": 155,
+          "commitCount": 1,
+          "filesEdited": [
+            "driver/eval/body.js",
+            "driver/library/orchestration.js",
+            "driver/repl/backend-api.js",
+            "driver/repl/backend-auth.js",
+            "driver/repl/backend-plugin.js",
+            "driver/repl/backend-worker.js",
+            "engine/wasm/bin/wasm-cli.js",
+            "engine/wasm/sys_std.js",
+            "engine/wasm/sys_wasm.js",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "60551ae2d852cd09a34006d6c7d68930cc4a1b32",
+              "author": "megamind",
+              "date": "2022-05-02T15:01:23.000Z",
+              "message": "getting closer to working ded server runner in a worker",
+              "linesAdded": 95,
+              "linesDeleted": 60,
+              "filesChanged": [
+                "driver/eval/body.js",
+                "driver/library/orchestration.js",
+                "driver/repl/backend-api.js",
+                "driver/repl/backend-auth.js",
+                "driver/repl/backend-plugin.js",
+                "driver/repl/backend-worker.js",
+                "engine/wasm/bin/wasm-cli.js",
+                "engine/wasm/sys_std.js",
+                "engine/wasm/sys_wasm.js",
+                "index.html"
+              ]
+            }
+          ]
+        },
+        "2022-05-01": {
+          "date": "2022-05-01",
+          "heatScore": 100,
+          "linesChanged": 3571,
+          "commitCount": 1,
+          "filesEdited": [
+            ".vscode/configurationCache.log",
+            ".vscode/dryrun.log",
+            ".vscode/targets.log",
+            "Makefile",
+            "driver/landing/lvlworld.html",
+            "engine/wasm/bin/web.js",
+            "engine/wasm/http/server-worker.js",
+            "engine/wasm/sys_main.c",
+            "engine/wasm/{sdl_snd.c => sys_snd.c}",
+            "engine/wasm/sys_std.js",
+            "engine/wasm/sys_wasm.js",
+            "engine/wasm/sys_web.js",
+            "engine/wasm/sys_worker.js",
+            "index.html"
+          ],
+          "commits": [
+            {
+              "hash": "38cb2187186283d73d6cecc3ef2563815453f22c",
+              "author": "megamind",
+              "date": "2022-05-01T23:22:14.000Z",
+              "message": "adding dedicated worker server",
+              "linesAdded": 2430,
+              "linesDeleted": 1141,
+              "filesChanged": [
+                ".vscode/configurationCache.log",
+                ".vscode/dryrun.log",
+                ".vscode/targets.log",
+                "Makefile",
+                "driver/landing/lvlworld.html",
+                "engine/wasm/bin/web.js",
+                "engine/wasm/http/server-worker.js",
+                "engine/wasm/sys_main.c",
+                "engine/wasm/{sdl_snd.c => sys_snd.c}",
+                "engine/wasm/sys_std.js",
+                "engine/wasm/sys_wasm.js",
+                "engine/wasm/sys_web.js",
+                "engine/wasm/sys_worker.js",
+                "index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "Quake3e": {
+      "projectName": "Quake3e",
+      "localPath": "C:\\Users\\megam\\Quake3e",
+      "lastUpdated": "2026-09-24T02:37:19.854Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2022-05-20": {
+          "date": "2022-05-20",
+          "heatScore": 53,
+          "linesChanged": 657,
+          "commitCount": 1,
+          "filesEdited": [
+            "CMakeLists.txt",
+            "README.md",
+            "code/client/cl_avi.c",
+            "code/client/cl_main.c",
+            "code/client/client.h",
+            "code/renderer/tr_image.c",
+            "code/renderervk/tr_image.c",
+            "code/renderervk/vk.c",
+            "code/renderervk/vk.h",
+            "code/sdl/sdl_input.c"
+          ],
+          "commits": [
+            {
+              "hash": "53eb7cdb6f56cff15f4ebf117aa4d2f37ca43549",
+              "author": "Brian Cullinan",
+              "date": "2022-05-20T18:24:54.000Z",
+              "message": "Merge pull request #3 from ec-/master",
+              "linesAdded": 366,
+              "linesDeleted": 291,
+              "filesChanged": [
+                "CMakeLists.txt",
+                "README.md",
+                "code/client/cl_avi.c",
+                "code/client/cl_main.c",
+                "code/client/client.h",
+                "code/renderer/tr_image.c",
+                "code/renderervk/tr_image.c",
+                "code/renderervk/vk.c",
+                "code/renderervk/vk.h",
+                "code/sdl/sdl_input.c"
+              ]
+            }
+          ]
+        },
+        "2022-05-01": {
+          "date": "2022-05-01",
+          "heatScore": 100,
+          "linesChanged": 13418,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/botlib/be_ai_chat.c",
+            "code/botlib/l_struct.c",
+            "code/client/cl_keys.c",
+            "code/client/cl_main.c",
+            "code/client/snd_main.c",
+            "code/qcommon/common.c",
+            "code/qcommon/files.c",
+            "code/qcommon/files_async.c",
+            "code/qcommon/net_ip.c",
+            "code/qcommon/q_shared.h",
+            "code/qcommon/qcommon.h",
+            "code/renderer2/tr_cmds.c",
+            "code/renderer2/tr_local.h",
+            "code/sdl/sdl_snd.c",
+            "code/server/sv_main.c",
+            "code/wasm/bin/make.js",
+            "code/wasm/bin/web.js",
+            "code/wasm/bits/alltypes.h",
+            "code/wasm/bits/dirent.h",
+            "code/wasm/bits/errno.h",
+            "code/wasm/bits/fcntl.h",
+            "code/wasm/bits/float.h",
+            "code/wasm/bits/ioctl.h",
+            "code/wasm/bits/ioctl_fix.h",
+            "code/wasm/bits/limits.h",
+            "code/wasm/bits/mman.h",
+            "code/wasm/bits/poll.h",
+            "code/wasm/bits/posix.h",
+            "code/wasm/bits/resource.h",
+            "code/wasm/bits/setjmp.h",
+            "code/wasm/bits/signal.h",
+            "code/wasm/bits/socket.h",
+            "code/wasm/bits/stat.h",
+            "code/wasm/bits/stdint.h",
+            "code/wasm/bits/syscall.h",
+            "code/wasm/bits/termios.h",
+            "code/wasm/dlmalloc.c",
+            "code/wasm/emscripten/emscripten.h",
+            "code/wasm/http/ace.html",
+            "code/wasm/http/ace.js",
+            "code/wasm/http/quake3e.js",
+            "code/wasm/http/sys_fs.js",
+            "code/wasm/http/sys_std.js",
+            "code/wasm/http/sys_wasm.js",
+            "code/wasm/{http => }/nipplejs.js",
+            "code/wasm/{http => old-research}/sys_em.js",
+            "code/wasm/{http => old-research}/sys_empost.js",
+            "code/wasm/sbrk.c",
+            "code/wasm/setjmp.h",
+            "code/wasm/{http => }/sys_emgl.js",
+            "code/wasm/sys_fs.js",
+            "code/wasm/sys_idbfs.js",
+            "code/wasm/{http => }/sys_in.js",
+            "code/wasm/sys_main.c",
+            "code/wasm/{http => }/sys_net.js",
+            "code/wasm/sys_overrides.h",
+            "code/wasm/sys_snd.c",
+            "code/wasm/sys_std.js",
+            "code/wasm/sys_wasm.js",
+            "code/wasm/sys_web.js",
+            "code/wasm/syscall_arch.h",
+            "code/wasm/wasm.syms",
+            "libs/SDL2-2.0.14/include/SDL_stdinc.h",
+            "libs/SDL2-2.0.14/src/audio/SDL_audiocvt.c",
+            "libs/SDL2-2.0.14/src/audio/emscripten/SDL_emscriptenaudio.c",
+            "libs/SDL2-2.0.14/src/timer/unix/SDL_systimer.c",
+            "make/build_client.make",
+            "make/build_package.make",
+            "make/lib_q3map2.make",
+            "make/platform_wasm.make"
+          ],
+          "commits": [
+            {
+              "hash": "fee96113e373f73853ef02ffb1e2d179fccb0195",
+              "author": "megamind",
+              "date": "2022-05-01T21:56:21.000Z",
+              "message": "starting to see weird bugs from wasm compile, this is why I stopped working on wasm, impossible to debug, too long to load a 35MB unoptimized file",
+              "linesAdded": 2910,
+              "linesDeleted": 10508,
+              "filesChanged": [
+                "README.md",
+                "code/botlib/be_ai_chat.c",
+                "code/botlib/l_struct.c",
+                "code/client/cl_keys.c",
+                "code/client/cl_main.c",
+                "code/client/snd_main.c",
+                "code/qcommon/common.c",
+                "code/qcommon/files.c",
+                "code/qcommon/files_async.c",
+                "code/qcommon/net_ip.c",
+                "code/qcommon/q_shared.h",
+                "code/qcommon/qcommon.h",
+                "code/renderer2/tr_cmds.c",
+                "code/renderer2/tr_local.h",
+                "code/sdl/sdl_snd.c",
+                "code/server/sv_main.c",
+                "code/wasm/bin/make.js",
+                "code/wasm/bin/web.js",
+                "code/wasm/bits/alltypes.h",
+                "code/wasm/bits/dirent.h",
+                "code/wasm/bits/errno.h",
+                "code/wasm/bits/fcntl.h",
+                "code/wasm/bits/float.h",
+                "code/wasm/bits/ioctl.h",
+                "code/wasm/bits/ioctl_fix.h",
+                "code/wasm/bits/limits.h",
+                "code/wasm/bits/mman.h",
+                "code/wasm/bits/poll.h",
+                "code/wasm/bits/posix.h",
+                "code/wasm/bits/resource.h",
+                "code/wasm/bits/setjmp.h",
+                "code/wasm/bits/signal.h",
+                "code/wasm/bits/socket.h",
+                "code/wasm/bits/stat.h",
+                "code/wasm/bits/stdint.h",
+                "code/wasm/bits/syscall.h",
+                "code/wasm/bits/termios.h",
+                "code/wasm/dlmalloc.c",
+                "code/wasm/emscripten/emscripten.h",
+                "code/wasm/http/ace.html",
+                "code/wasm/http/ace.js",
+                "code/wasm/http/quake3e.js",
+                "code/wasm/http/sys_fs.js",
+                "code/wasm/http/sys_std.js",
+                "code/wasm/http/sys_wasm.js",
+                "code/wasm/{http => }/nipplejs.js",
+                "code/wasm/{http => old-research}/sys_em.js",
+                "code/wasm/{http => old-research}/sys_empost.js",
+                "code/wasm/sbrk.c",
+                "code/wasm/setjmp.h",
+                "code/wasm/{http => }/sys_emgl.js",
+                "code/wasm/sys_fs.js",
+                "code/wasm/sys_idbfs.js",
+                "code/wasm/{http => }/sys_in.js",
+                "code/wasm/sys_main.c",
+                "code/wasm/{http => }/sys_net.js",
+                "code/wasm/sys_overrides.h",
+                "code/wasm/sys_snd.c",
+                "code/wasm/sys_std.js",
+                "code/wasm/sys_wasm.js",
+                "code/wasm/sys_web.js",
+                "code/wasm/syscall_arch.h",
+                "code/wasm/wasm.syms",
+                "libs/SDL2-2.0.14/include/SDL_stdinc.h",
+                "libs/SDL2-2.0.14/src/audio/SDL_audiocvt.c",
+                "libs/SDL2-2.0.14/src/audio/emscripten/SDL_emscriptenaudio.c",
+                "libs/SDL2-2.0.14/src/timer/unix/SDL_systimer.c",
+                "make/build_client.make",
+                "make/build_package.make",
+                "make/lib_q3map2.make",
+                "make/platform_wasm.make"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

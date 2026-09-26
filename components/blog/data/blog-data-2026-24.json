@@ -1,0 +1,117 @@
+[
+	{
+		"id": "2010-12-27-academia",
+		"title": "Academia Sucks: Institutional Inertia & Misplaced Authority",
+		"date": "2010-12-27T01:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Academia",
+			"Hacking",
+			"Personal",
+			"Engineering"
+		],
+		"tags": [
+			"nau",
+			"academia",
+			"security",
+			"rfid",
+			"bureaucracy",
+			"moodle",
+			"blackboard"
+		],
+		"summary": "Reflections on 5.5 years inside higher education support, detailing systemic administrative friction, software procurement blunders, and the pushback against student security research.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Academia Sucks: Institutional Inertia & Misplaced Authority</h1><p class=\"byline\">Published on December 27, 2010 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_10529643214702414859\" alt=\"Northern Arizona University campus during winter\" class=\"hero-image\"/><p class=\"caption\">Northern Arizona University campus, where technical ambitions frequently collide with institutional bureaucracy.</p></div><section class=\"post-body\"><p>I have spent the entire duration of my college career—a mere 5.5 years—working for various campus technical groups while completing my degree in Computer Science. Starting out at ResNet providing student computer support, moving on to the local ACM chapter, and eventually settling into the Engineering IT help desk, my day-to-day involved debugging hardware, configuring shared drives, and sifting through support queues.</p><h2>The Bureaucracy Engine</h2><p>In my experience, academic IT infrastructure suffers from severe structural apathy. Central ITS routinely opts for bloatware contracts like Blackboard rather than leveraging open-source platforms like Moodle—where the Computer Science department could directly contribute, inspect security models, and extend functionality for free. Instead, intuitive proposals like unifying campus feeds via API integrations get discarded in favor of proprietary, underutilized student portal software.</p><h2>The Blockade of Misplaced Authority</h2><p>Systemic roadblocks exist purely through institutional inertia:</p><ul><li><strong>Arbitrary Overrides:</strong> Dedicated student leaders managing campus infrastructure (such as rebuilding the KJAK radio station hardware from scratch) regularly face bureaucratic denials for course overrides signed off by department heads.</li><li><strong>Degree Deadlocks:</strong> Students attempting to accelerate graduation timelines encounter missing class substitutions, unresponsive advisors on leave, and administrative deadlocks that enforce delay over flexibility.</li></ul><h2>Security Research & Uncomfortable Truths</h2><p>Preparing technical talks on computer security, RFID vulnerability surfaces, and network exploits revealed a fundamental cultural divide. Academic institutions often restrict student-led security research until it is validated by major external conferences like DEF CON, viewing internal vulnerability disclosure as a liability rather than an educational asset.</p></section></article>",
+		"modern_insight_2026": "Looking back from 2026, this early frustration with monolithic university IT directly predicted the shift toward decentralized open-source platforms, local-first computing, and modern AppSec disclosure paradigms. Today's ecosystem favors zero-trust architectures and student-driven open source contributions over proprietary walled gardens."
+	},
+	{
+		"id": "2009-11-12-drupal-glory",
+		"title": "The Glory of Drupal: Modular Architecture & Community Driven Security",
+		"date": "2009-11-12T12:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Web Dev",
+			"Drupal",
+			"CMS"
+		],
+		"tags": [
+			"drupal",
+			"php",
+			"ldap",
+			"cas",
+			"modules",
+			"pathauto",
+			"wysiwyg",
+			"views"
+		],
+		"summary": "A deep dive into why Drupal's modular hook ecosystem, structured API layers, and enterprise authentication integration outperform contemporary alternatives like WordPress and Joomla.",
+		"content_html": "<article class=\"blog-post\"><header><h1>The Glory of Drupal: Modular Architecture & Community Driven Security</h1><p class=\"byline\">Published on November 12, 2009 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_10529643214702412517\" alt=\"Drupal open source CMS logo display\" class=\"hero-image\"/><p class=\"caption\">Drupal's hook-based architectural model provided unprecedented control for university portal customization.</p></div><section class=\"post-body\"><p>Drupal stands out among Content Management Systems due to its strict separation of core execution, modular extensibility, and community-driven security review. Unlike monolithic web platforms, Drupal's module architecture enforces clean isolation across runtime features.</p><h2>Core Modular Mechanics</h2><p>Extending functional capabilities requires simply placing module trees into designated runtime directories. Key operational modules include:</p><ul><li><strong>Views:</strong> Query builder and template engine for extracting and presenting node collections dynamically based on route parameters.</li><li><strong>CAS & LDAP:</strong> Seamless single sign-on integration mapping university credentials directly to local Drupal roles without requiring manual user registration pipelines.</li><li><strong>FeedAPI:</strong> Dynamic ingestion layer used to synchronize external Google Calendars directly into site-wide event displays.</li><li><strong>PathAuto:</strong> Automated URI generation utilizing tokenized node titles for clean, SEO-friendly routing.</li></ul><h2>Architectural Flexibility</h2><p>By leveraging sub-theming environments like the Zen Suite, structural layout is fully decoupled from content generation, relying heavily on modular CSS overrides rather than hardcoded inline presentation styles.</p></section></article>",
+		"modern_insight_2026": "While monolithic PHP CMS platforms dominated the late 2000s, the underlying concepts—modular API hooks, dynamic route parameter generation, and central SSO integrations—laid the foundation for modern headless CMS engines, Jamstack deployments, and component-driven web architectures."
+	},
+	{
+		"id": "2009-11-10-autofill-sso",
+		"title": "Autofill & Federated Identity: Eliminating Repetitive Data Entry",
+		"date": "2009-11-10T15:30:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Web Dev",
+			"Software Architecture",
+			"Security"
+		],
+		"tags": [
+			"cas",
+			"ldap",
+			"sso",
+			"identity",
+			"autofill",
+			"apis",
+			"ux"
+		],
+		"summary": "Exploring LDAP directory queries, Central Authentication Services (CAS), and remote user profile synchronization to design zero-friction form prefilling.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Autofill & Federated Identity: Eliminating Repetitive Data Entry</h1><p class=\"byline\">Published on November 10, 2009 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_10529643214702411934\" alt=\"Cybersecurity network infrastructure diagram\" class=\"hero-image\"/><p class=\"caption\">Federated authentication allows secure directory lookups, automating repetitive user data input.</p></div><section class=\"post-body\"><p>Administrative web interfaces frequently demand that logged-in users manually enter institutional record details—such as phone numbers, department affiliations, and official addresses—despite those data points already residing within active directory services.</p><h2>The Intelligent Design Solution</h2><p>Instead of forcing manual re-entry, intelligent application pipelines should integrate single-sign-on (SSO) authentication with active LDAP query resolution:</p><ol><li>Authenticate the user via Central Authentication Service (CAS).</li><li>Execute a background LDAP lookup against the user's primary identifier.</li><li>Pre-populate standard directory fields onto the client form automatically.</li><li>Require the user only to review accuracy and append domain-specific payload fields before submission.</li></ol><h2>Cross-Platform Profile Syncing</h2><p>Managing disparate professional profiles across platforms (LinkedIn, Google, GitHub) introduces data redundancy. Web applications should leverage authorized OAuth profile APIs to sync public bio metrics and contact information automatically rather than asking users to maintain isolated data silos.</p></section></article>",
+		"modern_insight_2026": "This analysis anticipated modern OAuth2 / OpenID Connect (OIDC) identity providers and browser-level passkey autofill standards. Today's identity architectures rely on tokenized JWT payloads to pass authenticated user claims across distinct service boundaries seamlessly."
+	},
+	{
+		"id": "2009-11-10-automatic-updates",
+		"title": "Automatic Updates: Designing Non-Intrusive Background Maintenance",
+		"date": "2009-11-10T10:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Software Architecture",
+			"UX Design",
+			"Operating Systems"
+		],
+		"tags": [
+			"ux",
+			"updates",
+			"windows",
+			"firefox",
+			"itunes",
+			"background-jobs"
+		],
+		"summary": "A critique of intrusive software update loops in legacy desktop operating systems versus seamless background state preservation models.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Automatic Updates: Designing Non-Intrusive Background Maintenance</h1><p class=\"byline\">Published on November 10, 2009 by <strong>Brian Cullinan</strong></p></header><section class=\"post-body\"><p>Modern software systems are layered stacks running interconnected executables. To patch vulnerabilities and roll out features, automated update mechanisms are essential. However, user experience design often fails when updates interrupt active workflows.</p><h2>The Bad: Aggressive Restart Prompts</h2><p>Legacy system updaters, such as older Windows restart dialogs or background media service updaters, disrupt users with repeated modal overlays, force immediate system reboots, or spawn tray popups despite user configuration overrides. Worse, updaters that fail to detect active file handles often fail silently after lengthy download processes.</p><h2>The Ideal Model: Firefox Process Deferral</h2><p>Firefox implemented the gold standard for background application updates:</p><ul><li>Fetch binary packages silently in background threads.</li><li>Stage installation payloads without locking active runtime memory.</li><li>Defer application replacement until the user naturally terminates or explicitly restarts the browser.</li><li>Preserve session state (open tabs, scroll positions, form data) seamlessly upon restart.</li></ul><h2>Engineering Best Practices</h2><p>Software update systems must run quietly in background system trays, avoid stealing OS focus, defer mandatory reboots until natural system idle times occur, and automatically restore application execution context upon restart.</p></section></article>",
+		"modern_insight_2026": "Firefox's non-disruptive update pattern eventually evolved into modern atomic OS deployment strategies (such as OSTree/Flatpak containerized updates, ChromeOS dual-boot partition swapping, and web service worker caching APIs), where client software updates in place without killing state."
+	},
+	{
+		"id": "2009-11-05-batman-costume",
+		"title": "Engineering a Movie-Accurate Tactical Batman Suit: Armor Molding & Materials",
+		"date": "2009-11-05T18:00:00Z",
+		"author": "Brian Cullinan",
+		"categories": [
+			"Hardware",
+			"Cosplay Engineering",
+			"Abandoned Projects"
+		],
+		"tags": [
+			"batman",
+			"armor",
+			"molding",
+			"silicone",
+			"wetsuit",
+			"materials-science"
+		],
+		"summary": "A technical design blueprint for constructing a flexible, modular Batman suit using sculpted clay prototypes, plaster negative molds, poured rubber plates, and snap-fastened mesh sub-layers.",
+		"content_html": "<article class=\"blog-post\"><header><h1>Engineering a Movie-Accurate Tactical Batman Suit: Armor Molding & Materials</h1><p class=\"byline\">Published on November 5, 2009 by <strong>Brian Cullinan</strong></p></header><div class=\"post-media\"><img src=\"image_agent_tag_10529643214702413688\" alt=\"Movie accurate Dark Knight Batman armor suit display\" class=\"hero-image\"/><p class=\"caption\">Tactical armor suit assembly combining flexible undersuits with rigid polyurethane outer plating.</p></div><section class=\"post-body\"><p>Designing a screen-accurate tactical Batsuit requires balancing structural flexibility, armor rigidity, and thermal ventilation. The proposed architectural spec relies on a multi-tier modular construction.</p><h2>Material & Assembly Specification</h2><ul><li><strong>Base Layer:</strong> Neoprene wetsuit encased within a tight-fitting metallic silver mesh to match film production texturing.</li><li><strong>Armor Plating:</strong> Custom-molded high-density rubber/polyurethane plates attached to the neoprene sub-layer via reinforced mechanical snap buttons, enabling easy removal for cleaning and suit maintenance.</li><li><strong>Headpiece & Accessories:</strong> Multi-piece snap-interlocking hard rubber helmet paired with hand-crafted armored gauntlets and a cast rubber utility belt finished in metallic bronze/gold coating.</li></ul><h2>Fabrication Workflow</h2><ol><li>Sculpt 24 lbs of oil-based sulfur-free clay into precise anatomical armor plates.</li><li>Cast negative impressions using high-strength plaster/matrix molds.</li><li>Embed heavy-duty fabric backing with female snap hardware directly into the plaster cavity during rubber compound pouring.</li><li>Cure flexible urethane elastomer to yield impact-resistant, modular armor segments.</li></ol><h2>Project Economics & Pause</h2><p>Estimated material costs (~$400 for liquid silicone/urethane elastomers, $200 for base suit and mesh, plus specialized casting supplies) totaled ~$1,000 alongside hundreds of manual sculpting hours. Due to initial mold failures and time constraints, raw materials (24 lbs of clay and precision carving gouges) were shelved into the abandoned projects log for future iteration.</p></section></article>",
+		"modern_insight_2026": "The 2009 approach of manual clay sculpting and plaster casting has been completely revolutionized by 3D scanning, parametric CAD modeling, and direct additive manufacturing using flexible TPU filaments—drastically lowering prototyping iteration costs and weight."
+	}
+]

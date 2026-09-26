@@ -1,0 +1,829 @@
+{
+  "yearMonth": "2023-08",
+  "generatedAt": "2026-09-24T02:37:24.649Z",
+  "username": "briancullinan2",
+  "projects": {
+    "activity": {
+      "projectName": "activity",
+      "localPath": "C:\\Users\\megam\\activity",
+      "remoteUrl": "git@github.com:briancullinan2/activity.git",
+      "lastUpdated": "2026-09-24T02:36:58.701Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-08-31": {
+          "date": "2023-08-31",
+          "heatScore": 18,
+          "linesChanged": 124,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "3d5802e6e121a6c53eca0325188def71bf25ac92",
+              "author": "Brian Cullinan",
+              "date": "2023-08-31T03:36:46.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 59,
+              "linesDeleted": 65,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-08-21": {
+          "date": "2023-08-21",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "83877c1618462f4239ee665beab120becb942f0d",
+              "author": "Brian Cullinan",
+              "date": "2023-08-21T03:36:09.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 5,
+              "linesDeleted": 9,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-08-14": {
+          "date": "2023-08-14",
+          "heatScore": 16,
+          "linesChanged": 91,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "b0ed820e3cd1e3fe38cbf35b2eb6311fe3553146",
+              "author": "Brian Cullinan",
+              "date": "2023-08-14T17:22:49.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 7,
+              "linesDeleted": 84,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-08-11": {
+          "date": "2023-08-11",
+          "heatScore": 26,
+          "linesChanged": 254,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "e00b5bb78f81d7d179a17e76397a7c9cafe7f6e4",
+              "author": "Brian Cullinan",
+              "date": "2023-08-11T20:02:14.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 167,
+              "linesDeleted": 87,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        },
+        "2023-08-03": {
+          "date": "2023-08-03",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "docs/index.html"
+          ],
+          "commits": [
+            {
+              "hash": "86b23b92b5297948229e767157673a94a68f13ba",
+              "author": "Brian Cullinan",
+              "date": "2023-08-03T22:32:52.000Z",
+              "message": "\"auto-update\"",
+              "linesAdded": 1,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "docs/index.html"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2023-08-23": {
+          "date": "2023-08-23",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "folder_paths.py"
+          ],
+          "commits": [
+            {
+              "hash": "3e00fa433216335a874bd408de421f9d65432daf",
+              "author": "Michael Poutre",
+              "date": "2023-08-23T23:50:41.000Z",
+              "message": "feat: Exclude .git when retrieving filename lists",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "folder_paths.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-04": {
+          "date": "2023-08-04",
+          "heatScore": 13,
+          "linesChanged": 52,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/widgetInputs.js",
+            "web/scripts/app.js"
+          ],
+          "commits": [
+            {
+              "hash": "9a7a52f8b5321e9a67fab18d4f256d2cd6bc338f",
+              "author": "Michael Poutre",
+              "date": "2023-08-04T02:49:52.000Z",
+              "message": "refactor/fix: Treat forceInput widgets as standard widgets",
+              "linesAdded": 34,
+              "linesDeleted": 18,
+              "filesChanged": [
+                "web/extensions/core/widgetInputs.js",
+                "web/scripts/app.js"
+              ]
+            }
+          ]
+        },
+        "2023-08-31": {
+          "date": "2023-08-31",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/controlnet.py"
+          ],
+          "commits": [
+            {
+              "hash": "cfe1c54de88e7525ec7e4189a8a3294dfc3cd4c0",
+              "author": "comfyanonymous",
+              "date": "2023-08-31T19:16:58.000Z",
+              "message": "Fix controlnet issue.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/controlnet.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-30": {
+          "date": "2023-08-30",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "2cd3980199ea1769ea3007009c516683b472337b",
+              "author": "Ridan Vandenbergh",
+              "date": "2023-08-30T18:46:53.000Z",
+              "message": "Remove forced lowercase on embeddings endpoint",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-29": {
+          "date": "2023-08-29",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_canny.py"
+          ],
+          "commits": [
+            {
+              "hash": "d70b0bc43c2d1d0a2212e9493926ddf231c80a41",
+              "author": "comfyanonymous",
+              "date": "2023-08-29T21:58:40.000Z",
+              "message": "Use the GPU for the canny preprocessor when available.",
+              "linesAdded": 3,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy_extras/nodes_canny.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-28": {
+          "date": "2023-08-28",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/controlnet.py"
+          ],
+          "commits": [
+            {
+              "hash": "65cae62c7149048951fc70d601fc9c0d5434f69c",
+              "author": "comfyanonymous",
+              "date": "2023-08-28T20:49:06.000Z",
+              "message": "No need to check filename extensions to detect shuffle controlnet.",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/controlnet.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-27": {
+          "date": "2023-08-27",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "412596d3251ae01c58df07d1dd36742f63e6b3ce",
+              "author": "comfyanonymous",
+              "date": "2023-08-27T17:12:39.000Z",
+              "message": "Merge branch 'increase_client_max_size' of https://github.com/ramyma/ComfyUI",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-26": {
+          "date": "2023-08-26",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "0b6cf7a5589351f677f76a6504850d5702c40d08",
+              "author": "ramyma",
+              "date": "2023-08-26T16:48:20.000Z",
+              "message": "Increase client_max_size to allow bigger request bodies",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-25": {
+          "date": "2023-08-25",
+          "heatScore": 10,
+          "linesChanged": 3,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "f72780a7e3634de1400bc3dd13207c463884dcb9",
+              "author": "comfyanonymous",
+              "date": "2023-08-25T22:02:15.000Z",
+              "message": "The new smart memory management makes this unnecessary.",
+              "linesAdded": 0,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-24": {
+          "date": "2023-08-24",
+          "heatScore": 10,
+          "linesChanged": 13,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "30eb92c3cbe0e0dfa442d452b5f1187c654e572e",
+              "author": "comfyanonymous",
+              "date": "2023-08-24T23:39:18.000Z",
+              "message": "Code cleanups.",
+              "linesAdded": 6,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-22": {
+          "date": "2023-08-22",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py",
+            "web/extensions/core/uploadImage.js"
+          ],
+          "commits": [
+            {
+              "hash": "d7b3b0f8c11c6261d0d8b859ea98f2d818b7e67d",
+              "author": "comfyanonymous",
+              "date": "2023-08-22T23:41:49.000Z",
+              "message": "Don't hardcode node names for image upload widget.",
+              "linesAdded": 4,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "nodes.py",
+                "web/extensions/core/uploadImage.js"
+              ]
+            }
+          ]
+        },
+        "2023-08-21": {
+          "date": "2023-08-21",
+          "heatScore": 12,
+          "linesChanged": 33,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "bc76b3829f5fbba7c5a439c7833d313a3ca87398",
+              "author": "comfyanonymous",
+              "date": "2023-08-21T04:58:38.000Z",
+              "message": "Merge branch 'custom-node-js' of https://github.com/pythongosssss/ComfyUI",
+              "linesAdded": 31,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "nodes.py",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-20": {
+          "date": "2023-08-20",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "cdaf65ceb134918d6be174a8231d112b5661e316",
+              "author": "pythongosssss",
+              "date": "2023-08-20T19:01:25.000Z",
+              "message": "remove log",
+              "linesAdded": 0,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-17": {
+          "date": "2023-08-17",
+          "heatScore": 11,
+          "linesChanged": 26,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/cli_args.py",
+            "comfy/model_management.py"
+          ],
+          "commits": [
+            {
+              "hash": "2c096e4260a25b739e144d7aadd8d1a38f183993",
+              "author": "Simon Lui",
+              "date": "2023-08-17T10:12:17.000Z",
+              "message": "Add ipex optimize and other enhancements for Intel GPUs based on recent memory changes.",
+              "linesAdded": 21,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy/cli_args.py",
+                "comfy/model_management.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-19": {
+          "date": "2023-08-19",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "c9b562aed153cb35d4ce4126caf86995b0c63b12",
+              "author": "comfyanonymous",
+              "date": "2023-08-19T16:13:13.000Z",
+              "message": "Free more memory before VAE encode/decode.",
+              "linesAdded": 2,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-18": {
+          "date": "2023-08-18",
+          "heatScore": 11,
+          "linesChanged": 26,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/attention.py",
+            "comfy/ldm/modules/diffusionmodules/openaimodel.py"
+          ],
+          "commits": [
+            {
+              "hash": "b80c3276dce510973c24d1c9b7fb48be36292396",
+              "author": "comfyanonymous",
+              "date": "2023-08-18T20:32:23.000Z",
+              "message": "Fix issue with gligen.",
+              "linesAdded": 14,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "comfy/ldm/modules/attention.py",
+                "comfy/ldm/modules/diffusionmodules/openaimodel.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-16": {
+          "date": "2023-08-16",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/model_detection.py"
+          ],
+          "commits": [
+            {
+              "hash": "2c97c30256a00e71e93f11130012a5da0b726c17",
+              "author": "comfyanonymous",
+              "date": "2023-08-16T16:45:13.000Z",
+              "message": "Support small diffusers controlnet so both types are now supported.",
+              "linesAdded": 8,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "comfy/model_detection.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-15": {
+          "date": "2023-08-15",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "nodes.py"
+          ],
+          "commits": [
+            {
+              "hash": "27b87c25a11927850dba00cb89c7974ab72e6f6d",
+              "author": "comfyanonymous",
+              "date": "2023-08-15T21:53:10.000Z",
+              "message": "Add an EmptyImage node.",
+              "linesAdded": 23,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "nodes.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-14": {
+          "date": "2023-08-14",
+          "heatScore": 10,
+          "linesChanged": 9,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/windows_release_cu118_dependencies_2.yml"
+          ],
+          "commits": [
+            {
+              "hash": "d4380f3aa339a984f08bac3b872d446c552fbc7a",
+              "author": "comfyanonymous",
+              "date": "2023-08-14T22:13:11.000Z",
+              "message": "Add option to use different xformers version in the github workflow.",
+              "linesAdded": 8,
+              "linesDeleted": 1,
+              "filesChanged": [
+                ".github/workflows/windows_release_cu118_dependencies_2.yml"
+              ]
+            }
+          ]
+        },
+        "2023-08-13": {
+          "date": "2023-08-13",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "cuda_malloc.py"
+          ],
+          "commits": [
+            {
+              "hash": "192ca0676c5c118fc1bf736f13c73aa742a7a9cb",
+              "author": "comfyanonymous",
+              "date": "2023-08-13T20:08:11.000Z",
+              "message": "Add some more cards to the cuda malloc blacklist.",
+              "linesAdded": 3,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "cuda_malloc.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-12": {
+          "date": "2023-08-12",
+          "heatScore": 15,
+          "linesChanged": 79,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_mask.py"
+          ],
+          "commits": [
+            {
+              "hash": "8c730dc4a7225b2b103497ea1c2f67e48db145ab",
+              "author": "comfyanonymous",
+              "date": "2023-08-12T05:01:49.000Z",
+              "message": "Add an ImageCompositeMasked node.",
+              "linesAdded": 52,
+              "linesDeleted": 27,
+              "filesChanged": [
+                "comfy_extras/nodes_mask.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-11": {
+          "date": "2023-08-11",
+          "heatScore": 11,
+          "linesChanged": 15,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "c8a23ce9e81ce976b0e8637593d33e0790d3d95a",
+              "author": "comfyanonymous",
+              "date": "2023-08-11T17:04:21.000Z",
+              "message": "Support for yet another lora type based on diffusers.",
+              "linesAdded": 9,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-10": {
+          "date": "2023-08-10",
+          "heatScore": 11,
+          "linesChanged": 16,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/sd.py"
+          ],
+          "commits": [
+            {
+              "hash": "c20583286fca8a55324ee7d60cebd3b511b16c91",
+              "author": "comfyanonymous",
+              "date": "2023-08-10T23:44:46.000Z",
+              "message": "Support diffuser text encoder loras.",
+              "linesAdded": 15,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/sd.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-09": {
+          "date": "2023-08-09",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "5ac96897e9782805cd5e8fe85bd98ad03eae2b6f",
+              "author": "comfyanonymous",
+              "date": "2023-08-09T15:31:27.000Z",
+              "message": "Images can now be uploaded by dragging from another window in chromium.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        },
+        "2023-08-08": {
+          "date": "2023-08-08",
+          "heatScore": 10,
+          "linesChanged": 1,
+          "commitCount": 1,
+          "filesEdited": [
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "a5599ed42cef7a8aa77fa9409ab2ce95492bf914",
+              "author": "comfyanonymous",
+              "date": "2023-08-08T14:45:35.000Z",
+              "message": "Add missing direct dep that gets pulled in by another.",
+              "linesAdded": 1,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2023-08-07": {
+          "date": "2023-08-07",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/linkRenderMode.js"
+          ],
+          "commits": [
+            {
+              "hash": "5e2b4893da62dec1c9ee4d0167f6b62e3b11fbef",
+              "author": "comfyanonymous",
+              "date": "2023-08-07T23:29:36.000Z",
+              "message": "Fix path issue.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/extensions/core/linkRenderMode.js"
+              ]
+            }
+          ]
+        },
+        "2023-08-06": {
+          "date": "2023-08-06",
+          "heatScore": 10,
+          "linesChanged": 8,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/lib/litegraph.core.js"
+          ],
+          "commits": [
+            {
+              "hash": "0ce8a540cefa0b61705134b1eb4f1d67c6f3f4ba",
+              "author": "comfyanonymous",
+              "date": "2023-08-06T18:36:43.000Z",
+              "message": "Update litegraph to latest.",
+              "linesAdded": 6,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "web/lib/litegraph.core.js"
+              ]
+            }
+          ]
+        },
+        "2023-08-05": {
+          "date": "2023-08-05",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "notebooks/comfyui_colab.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c9ef919e29cc2454419eb3454e334b7a4c7814a6",
+              "author": "comfyanonymous",
+              "date": "2023-08-05T21:20:35.000Z",
+              "message": "Formatting issue.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "notebooks/comfyui_colab.ipynb"
+              ]
+            }
+          ]
+        },
+        "2023-08-03": {
+          "date": "2023-08-03",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/extensions/core/contextMenuFilter.js"
+          ],
+          "commits": [
+            {
+              "hash": "d1347544bcb66bd87618164af13d9d300aefa200",
+              "author": "comfyanonymous",
+              "date": "2023-08-03T20:51:37.000Z",
+              "message": "Make context menu filter import from relative path.",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "web/extensions/core/contextMenuFilter.js"
+              ]
+            }
+          ]
+        },
+        "2023-08-02": {
+          "date": "2023-08-02",
+          "heatScore": 11,
+          "linesChanged": 17,
+          "commitCount": 1,
+          "filesEdited": [
+            "execution.py"
+          ],
+          "commits": [
+            {
+              "hash": "9ccc9658998fb2b327067aad16141af52ad6bdfc",
+              "author": "comfyanonymous",
+              "date": "2023-08-02T19:06:09.000Z",
+              "message": "Merge branch 'fix/no-required-input' of https://github.com/M1kep/ComfyUI into prs",
+              "linesAdded": 12,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "execution.py"
+              ]
+            }
+          ]
+        },
+        "2023-08-01": {
+          "date": "2023-08-01",
+          "heatScore": 11,
+          "linesChanged": 26,
+          "commitCount": 1,
+          "filesEdited": [
+            "web/scripts/ui.js",
+            "web/scripts/widgets.js"
+          ],
+          "commits": [
+            {
+              "hash": "e4a3e9e54cb2c153be91b804a86b87ad344249e4",
+              "author": "comfyanonymous",
+              "date": "2023-08-01T22:50:06.000Z",
+              "message": "Add an option in the UI to disable sliders.",
+              "linesAdded": 19,
+              "linesDeleted": 7,
+              "filesChanged": [
+                "web/scripts/ui.js",
+                "web/scripts/widgets.js"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

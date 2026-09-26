@@ -1,0 +1,1676 @@
+{
+  "yearMonth": "2015-10",
+  "generatedAt": "2026-09-26T04:31:28.772Z",
+  "username": "briancullinan2",
+  "projects": {
+    "studysauce2": {
+      "projectName": "studysauce2",
+      "localPath": "D:\\studysauce2",
+      "remoteUrl": "https://bjcullinan@bitbucket.org/studysauce/studysauce2",
+      "lastUpdated": "2026-09-26T04:29:50.066Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2015-10-20": {
+          "date": "2015-10-20",
+          "heatScore": 43,
+          "linesChanged": 51,
+          "commitCount": 4,
+          "filesEdited": [
+            "src/StudySauce/Bundle/Resources/public/css/menu.css"
+          ],
+          "commits": [
+            {
+              "hash": "4e66a5b5ed9af7e3232f5a6dc6c4576c3b54a73a",
+              "author": "bjcullinan",
+              "date": "2015-10-20T23:23:38.000Z",
+              "message": "menu fix",
+              "linesAdded": 12,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/public/css/menu.css"
+              ]
+            },
+            {
+              "hash": "6183298a20281c6d63da8c73fd010655aa028025",
+              "author": "bjcullinan",
+              "date": "2015-10-20T23:19:08.000Z",
+              "message": "menu icon fix",
+              "linesAdded": 6,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/public/css/menu.css"
+              ]
+            },
+            {
+              "hash": "1160cc5042c5a774e126a15c67bbd11c989e84ee",
+              "author": "bjcullinan",
+              "date": "2015-10-20T23:14:15.000Z",
+              "message": "icon fixes",
+              "linesAdded": 6,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/public/css/menu.css"
+              ]
+            },
+            {
+              "hash": "d249cd34da49e86511950d0197ba383c0fc96e9d",
+              "author": "bjcullinan",
+              "date": "2015-10-20T23:05:08.000Z",
+              "message": "notes icon fix",
+              "linesAdded": 21,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "src/StudySauce/Bundle/Resources/public/css/menu.css"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "studysauce3": {
+      "projectName": "studysauce3",
+      "localPath": "D:\\studysauce3",
+      "remoteUrl": "git@bitbucket.org:StudySauce/studysauce3.git",
+      "lastUpdated": "2026-09-26T04:30:48.213Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2015-10-28": {
+          "date": "2015-10-28",
+          "heatScore": 61,
+          "linesChanged": 772,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Resources/public/js/admin.js",
+            "src/Admin/Bundle/Resources/public/js/import.js",
+            "src/StudySauce/Bundle/Controller/PacksController.php",
+            "src/StudySauce/Bundle/Entity/Answer.php",
+            "src/StudySauce/Bundle/EventListener/InviteListener.php",
+            "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+            "src/StudySauce/Bundle/Resources/public/css/packs.css",
+            "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+            "src/StudySauce/Bundle/Resources/public/js/account.js",
+            "src/StudySauce/Bundle/Resources/public/js/packs.js",
+            "src/StudySauce/Bundle/Resources/views/Packs/tab.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "71024517dfd1de5e478881c14c82dcb5e3013fab",
+              "author": "bjcullinan",
+              "date": "2015-10-28T23:01:51.000Z",
+              "message": "new import process",
+              "linesAdded": 477,
+              "linesDeleted": 295,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/js/admin.js",
+                "src/Admin/Bundle/Resources/public/js/import.js",
+                "src/StudySauce/Bundle/Controller/PacksController.php",
+                "src/StudySauce/Bundle/Entity/Answer.php",
+                "src/StudySauce/Bundle/EventListener/InviteListener.php",
+                "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+                "src/StudySauce/Bundle/Resources/public/css/packs.css",
+                "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+                "src/StudySauce/Bundle/Resources/public/js/account.js",
+                "src/StudySauce/Bundle/Resources/public/js/packs.js",
+                "src/StudySauce/Bundle/Resources/views/Packs/tab.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-10-23": {
+          "date": "2015-10-23",
+          "heatScore": 100,
+          "linesChanged": 2841,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/config/security.yml",
+            "src/Admin/Bundle/Resources/config/routing.php",
+            "src/Admin/Bundle/Resources/public/css/admin.css",
+            "src/Admin/Bundle/Resources/public/css/deadlines.css",
+            "src/Admin/Bundle/Resources/public/css/emails.css",
+            "src/Admin/Bundle/Resources/public/css/import.css",
+            "src/Admin/Bundle/Resources/public/css/menu.css",
+            "src/Admin/Bundle/Resources/public/css/results.css",
+            "src/Admin/Bundle/Resources/public/css/validation.css",
+            "src/Admin/Bundle/Resources/public/js/admin.js",
+            "src/Admin/Bundle/Resources/public/js/emails.js",
+            "src/Admin/Bundle/Resources/public/js/import.js",
+            "src/Admin/Bundle/Resources/public/js/results.js",
+            "src/Admin/Bundle/Resources/views/Admin/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Dialogs/group-manager.html.php",
+            "src/Admin/Bundle/Resources/views/Emails/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Emails/template.html.php",
+            "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Results/result.html.php",
+            "src/Admin/Bundle/Resources/views/Results/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Shared/menu.html.php",
+            "src/Admin/Bundle/Resources/views/Shared/paginate.html.php",
+            "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+            "src/StudySauce/Bundle/Resources/public/css/dialog.css",
+            "src/StudySauce/Bundle/Resources/public/css/footer.css",
+            "src/StudySauce/Bundle/Resources/public/css/menu.css",
+            "src/StudySauce/Bundle/Resources/public/css/packs.css",
+            "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+            "src/StudySauce/Bundle/Resources/public/js/dashboard.js",
+            "src/StudySauce/Bundle/Resources/public/js/packs.js",
+            "src/StudySauce/Bundle/Resources/public/js/sauce.js",
+            "src/StudySauce/Bundle/Resources/views/Exception/error403.html.php",
+            "src/StudySauce/Bundle/Resources/views/Packs/tab.html.php",
+            "src/StudySauce/Bundle/Resources/views/Shared/footer.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "393e0cbda6f773d3701a338076cad5f45b5e2b2a",
+              "author": "bjcullinan",
+              "date": "2015-10-24T05:58:38.000Z",
+              "message": "new packs editor, design changes",
+              "linesAdded": 1076,
+              "linesDeleted": 1765,
+              "filesChanged": [
+                "app/config/security.yml",
+                "src/Admin/Bundle/Resources/config/routing.php",
+                "src/Admin/Bundle/Resources/public/css/admin.css",
+                "src/Admin/Bundle/Resources/public/css/deadlines.css",
+                "src/Admin/Bundle/Resources/public/css/emails.css",
+                "src/Admin/Bundle/Resources/public/css/import.css",
+                "src/Admin/Bundle/Resources/public/css/menu.css",
+                "src/Admin/Bundle/Resources/public/css/results.css",
+                "src/Admin/Bundle/Resources/public/css/validation.css",
+                "src/Admin/Bundle/Resources/public/js/admin.js",
+                "src/Admin/Bundle/Resources/public/js/emails.js",
+                "src/Admin/Bundle/Resources/public/js/import.js",
+                "src/Admin/Bundle/Resources/public/js/results.js",
+                "src/Admin/Bundle/Resources/views/Admin/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Dialogs/group-manager.html.php",
+                "src/Admin/Bundle/Resources/views/Emails/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Emails/template.html.php",
+                "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Results/result.html.php",
+                "src/Admin/Bundle/Resources/views/Results/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Shared/menu.html.php",
+                "src/Admin/Bundle/Resources/views/Shared/paginate.html.php",
+                "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+                "src/StudySauce/Bundle/Resources/public/css/dialog.css",
+                "src/StudySauce/Bundle/Resources/public/css/footer.css",
+                "src/StudySauce/Bundle/Resources/public/css/menu.css",
+                "src/StudySauce/Bundle/Resources/public/css/packs.css",
+                "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+                "src/StudySauce/Bundle/Resources/public/js/dashboard.js",
+                "src/StudySauce/Bundle/Resources/public/js/packs.js",
+                "src/StudySauce/Bundle/Resources/public/js/sauce.js",
+                "src/StudySauce/Bundle/Resources/views/Exception/error403.html.php",
+                "src/StudySauce/Bundle/Resources/views/Packs/tab.html.php",
+                "src/StudySauce/Bundle/Resources/views/Shared/footer.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-10-22": {
+          "date": "2015-10-22",
+          "heatScore": 39,
+          "linesChanged": 449,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Resources/public/css/admin.css",
+            "src/Admin/Bundle/Resources/public/css/import.css",
+            "src/Admin/Bundle/Resources/public/js/admin.js",
+            "src/Admin/Bundle/Resources/public/js/import.js",
+            "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+            "src/StudySauce/Bundle/Resources/config/routing.php",
+            "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+            "src/StudySauce/Bundle/Resources/public/css/packs.css",
+            "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+            "src/StudySauce/Bundle/Resources/public/js/packs.js",
+            "src/StudySauce/Bundle/Resources/public/js/sauce.js",
+            "src/StudySauce/Bundle/Resources/views/Packs/tab.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "f8ec6816e2db6aa6e3c879ab7433e2cd48493e20",
+              "author": "bjcullinan",
+              "date": "2015-10-23T06:52:57.000Z",
+              "message": "Question types, editing cards",
+              "linesAdded": 284,
+              "linesDeleted": 165,
+              "filesChanged": [
+                "src/Admin/Bundle/Resources/public/css/admin.css",
+                "src/Admin/Bundle/Resources/public/css/import.css",
+                "src/Admin/Bundle/Resources/public/js/admin.js",
+                "src/Admin/Bundle/Resources/public/js/import.js",
+                "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+                "src/StudySauce/Bundle/Resources/config/routing.php",
+                "src/StudySauce/Bundle/Resources/public/css/dashboard.css",
+                "src/StudySauce/Bundle/Resources/public/css/packs.css",
+                "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+                "src/StudySauce/Bundle/Resources/public/js/packs.js",
+                "src/StudySauce/Bundle/Resources/public/js/sauce.js",
+                "src/StudySauce/Bundle/Resources/views/Packs/tab.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-10-21": {
+          "date": "2015-10-21",
+          "heatScore": 100,
+          "linesChanged": 11978,
+          "commitCount": 1,
+          "filesEdited": [
+            "src/Admin/Bundle/Controller/ResultsController.php",
+            "src/Admin/Bundle/Controller/ValidationController.php",
+            "src/Admin/Bundle/Resources/config/routing.php",
+            "src/Admin/Bundle/Resources/public/css/admin.css",
+            "src/Admin/Bundle/Resources/public/css/emails.css",
+            "src/Admin/Bundle/Resources/public/css/import.css",
+            "src/Admin/Bundle/Resources/public/css/results.css",
+            "src/Admin/Bundle/Resources/public/js/admin.js",
+            "src/Admin/Bundle/Resources/public/js/emails.js",
+            "src/Admin/Bundle/Resources/public/js/import.js",
+            "src/Admin/Bundle/Resources/public/js/results.js",
+            "src/Admin/Bundle/Resources/views/Activity/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Admin/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Adviser/results.html.php",
+            "src/Admin/Bundle/Resources/views/Emails/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Results/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Shared/menu.html.php",
+            "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+            "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+            "src/Admin/Bundle/Tests/acceptance/AdviserCest.php",
+            "src/Admin/Bundle/Tests/acceptance/Course1Cest.php",
+            "src/Admin/Bundle/Tests/acceptance/Course2Cest.php",
+            "src/Admin/Bundle/Tests/acceptance/Course3Cest.php",
+            "src/Admin/Bundle/Tests/acceptance/EmailsCest.php",
+            "src/StudySauce/Bundle/Controller/AccountController.php",
+            "src/StudySauce/Bundle/Controller/EmailsController.php",
+            "src/StudySauce/Bundle/Controller/HomeController.php",
+            "src/StudySauce/Bundle/Controller/PacksController.php",
+            "src/StudySauce/Bundle/Entity/Pack.php",
+            "src/StudySauce/Bundle/Entity/User.php",
+            "src/StudySauce/Bundle/Entity/UserPack.php",
+            "src/StudySauce/Bundle/Resources/config/assets.php",
+            "src/StudySauce/Bundle/Resources/config/routing.php",
+            "src/StudySauce/Bundle/Resources/public/css/bootstrap.css",
+            "src/StudySauce/Bundle/Resources/public/css/bootstrap.css.map",
+            "src/StudySauce/Bundle/Resources/public/css/bootstrap.min.css",
+            "src/StudySauce/Bundle/Resources/public/css/packs.css",
+            "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+            "src/StudySauce/Bundle/Resources/public/js/bootstrap.js",
+            "src/StudySauce/Bundle/Resources/public/js/bootstrap.min.js",
+            "src/StudySauce/Bundle/Resources/public/js/dashboard.js",
+            "src/StudySauce/Bundle/Resources/public/js/keymaster.js",
+            "src/StudySauce/Bundle/Resources/public/js/packs.js",
+            "src/StudySauce/Bundle/Resources/public/js/sauce.js",
+            "src/StudySauce/Bundle/Resources/views/Account/tab.html.php",
+            "src/StudySauce/Bundle/Resources/views/Packs/tab.html.php",
+            "src/StudySauce/Bundle/Resources/views/Shared/dashboard.html.php",
+            "src/StudySauce/Bundle/Resources/views/Shared/layout.html.php",
+            "src/StudySauce/Bundle/Resources/views/Shared/menu.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "695e67025adaafdedfa339d8b9759138d9bd0d1f",
+              "author": "bjcullinan",
+              "date": "2015-10-22T05:44:10.000Z",
+              "message": "results tab, new tests, new packs tab",
+              "linesAdded": 2047,
+              "linesDeleted": 9931,
+              "filesChanged": [
+                "src/Admin/Bundle/Controller/ResultsController.php",
+                "src/Admin/Bundle/Controller/ValidationController.php",
+                "src/Admin/Bundle/Resources/config/routing.php",
+                "src/Admin/Bundle/Resources/public/css/admin.css",
+                "src/Admin/Bundle/Resources/public/css/emails.css",
+                "src/Admin/Bundle/Resources/public/css/import.css",
+                "src/Admin/Bundle/Resources/public/css/results.css",
+                "src/Admin/Bundle/Resources/public/js/admin.js",
+                "src/Admin/Bundle/Resources/public/js/emails.js",
+                "src/Admin/Bundle/Resources/public/js/import.js",
+                "src/Admin/Bundle/Resources/public/js/results.js",
+                "src/Admin/Bundle/Resources/views/Activity/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Admin/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Adviser/results.html.php",
+                "src/Admin/Bundle/Resources/views/Emails/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Results/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Shared/menu.html.php",
+                "src/Admin/Bundle/Resources/views/Validation/tab.html.php",
+                "src/Admin/Bundle/Tests/acceptance/0PageLoaderCest.php",
+                "src/Admin/Bundle/Tests/acceptance/AdviserCest.php",
+                "src/Admin/Bundle/Tests/acceptance/Course1Cest.php",
+                "src/Admin/Bundle/Tests/acceptance/Course2Cest.php",
+                "src/Admin/Bundle/Tests/acceptance/Course3Cest.php",
+                "src/Admin/Bundle/Tests/acceptance/EmailsCest.php",
+                "src/StudySauce/Bundle/Controller/AccountController.php",
+                "src/StudySauce/Bundle/Controller/EmailsController.php",
+                "src/StudySauce/Bundle/Controller/HomeController.php",
+                "src/StudySauce/Bundle/Controller/PacksController.php",
+                "src/StudySauce/Bundle/Entity/Pack.php",
+                "src/StudySauce/Bundle/Entity/User.php",
+                "src/StudySauce/Bundle/Entity/UserPack.php",
+                "src/StudySauce/Bundle/Resources/config/assets.php",
+                "src/StudySauce/Bundle/Resources/config/routing.php",
+                "src/StudySauce/Bundle/Resources/public/css/bootstrap.css",
+                "src/StudySauce/Bundle/Resources/public/css/bootstrap.css.map",
+                "src/StudySauce/Bundle/Resources/public/css/bootstrap.min.css",
+                "src/StudySauce/Bundle/Resources/public/css/packs.css",
+                "src/StudySauce/Bundle/Resources/public/css/sauce.css",
+                "src/StudySauce/Bundle/Resources/public/js/bootstrap.js",
+                "src/StudySauce/Bundle/Resources/public/js/bootstrap.min.js",
+                "src/StudySauce/Bundle/Resources/public/js/dashboard.js",
+                "src/StudySauce/Bundle/Resources/public/js/keymaster.js",
+                "src/StudySauce/Bundle/Resources/public/js/packs.js",
+                "src/StudySauce/Bundle/Resources/public/js/sauce.js",
+                "src/StudySauce/Bundle/Resources/views/Account/tab.html.php",
+                "src/StudySauce/Bundle/Resources/views/Packs/tab.html.php",
+                "src/StudySauce/Bundle/Resources/views/Shared/dashboard.html.php",
+                "src/StudySauce/Bundle/Resources/views/Shared/layout.html.php",
+                "src/StudySauce/Bundle/Resources/views/Shared/menu.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-10-15": {
+          "date": "2015-10-15",
+          "heatScore": 33,
+          "linesChanged": 358,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/config/security.yml",
+            "src/Admin/Bundle/Resources/public/css/results.css",
+            "src/Admin/Bundle/Resources/public/js/results.js",
+            "src/Admin/Bundle/Resources/views/Results/tab.html.php",
+            "src/StudySauce/Bundle/Controller/DialogsController.php",
+            "src/StudySauce/Bundle/Controller/PacksController.php",
+            "src/StudySauce/Bundle/Entity/Card.php",
+            "src/StudySauce/Bundle/Entity/Response.php",
+            "src/StudySauce/Bundle/Resources/config/routing.php",
+            "src/StudySauce/Bundle/Resources/views/Dialogs/schedule-demo.html.php",
+            "src/StudySauce/Bundle/Resources/views/Home/tab.html.php",
+            "src/StudySauce/Bundle/Resources/views/Landing/contact.html.php",
+            "src/StudySauce/Bundle/Resources/views/Shared/dashboard.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "8161042f4f6ee328133c54da4cf311de8a14e202",
+              "author": "bjcullinan",
+              "date": "2015-10-15T08:02:38.000Z",
+              "message": "Results tab fixes and response to database persistence.",
+              "linesAdded": 263,
+              "linesDeleted": 95,
+              "filesChanged": [
+                "app/config/security.yml",
+                "src/Admin/Bundle/Resources/public/css/results.css",
+                "src/Admin/Bundle/Resources/public/js/results.js",
+                "src/Admin/Bundle/Resources/views/Results/tab.html.php",
+                "src/StudySauce/Bundle/Controller/DialogsController.php",
+                "src/StudySauce/Bundle/Controller/PacksController.php",
+                "src/StudySauce/Bundle/Entity/Card.php",
+                "src/StudySauce/Bundle/Entity/Response.php",
+                "src/StudySauce/Bundle/Resources/config/routing.php",
+                "src/StudySauce/Bundle/Resources/views/Dialogs/schedule-demo.html.php",
+                "src/StudySauce/Bundle/Resources/views/Home/tab.html.php",
+                "src/StudySauce/Bundle/Resources/views/Landing/contact.html.php",
+                "src/StudySauce/Bundle/Resources/views/Shared/dashboard.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-10-14": {
+          "date": "2015-10-14",
+          "heatScore": 70,
+          "linesChanged": 901,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/config/config.yml",
+            "src/Admin/Bundle/Controller/ResultsController.php",
+            "src/Admin/Bundle/Resources/views/Results/result.html.php",
+            "src/Admin/Bundle/Resources/views/Results/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Shared/menu.html.php",
+            "src/StudySauce/Bundle/Controller/AccountController.php",
+            "src/StudySauce/Bundle/Controller/DialogsController.php",
+            "src/StudySauce/Bundle/Controller/EmailsController.php",
+            "src/StudySauce/Bundle/Controller/HomeController.php",
+            "src/StudySauce/Bundle/Controller/PacksController.php",
+            "src/StudySauce/Bundle/Entity/Pack.php",
+            "src/StudySauce/Bundle/Entity/User.php",
+            "src/StudySauce/Bundle/EventListener/AnonymousAuthenticationListener.php",
+            "src/StudySauce/Bundle/EventListener/RedirectListener.php",
+            "src/StudySauce/Bundle/Resources/config/routing.php",
+            "src/StudySauce/Bundle/Resources/public/js/sauce.js",
+            "src/StudySauce/Bundle/Resources/views/Account/reset.html.php",
+            "src/StudySauce/Bundle/Resources/views/Emails/contact-message.html.php",
+            "src/StudySauce/Bundle/Resources/views/Home/tab.html.php",
+            "src/StudySauce/Bundle/Resources/views/Shared/header.html.php",
+            "src/StudySauce/Bundle/Resources/views/Shared/layout.html.php",
+            "src/StudySauce/Bundle/Resources/views/Shared/menu.html.php"
+          ],
+          "commits": [
+            {
+              "hash": "e721ee0b0d7830f19d946a9d8c6c3208d6ca9f42",
+              "author": "bjcullinan",
+              "date": "2015-10-14T08:02:08.000Z",
+              "message": "results page, email, home, and reset fixes",
+              "linesAdded": 155,
+              "linesDeleted": 746,
+              "filesChanged": [
+                "app/config/config.yml",
+                "src/Admin/Bundle/Controller/ResultsController.php",
+                "src/Admin/Bundle/Resources/views/Results/result.html.php",
+                "src/Admin/Bundle/Resources/views/Results/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Shared/menu.html.php",
+                "src/StudySauce/Bundle/Controller/AccountController.php",
+                "src/StudySauce/Bundle/Controller/DialogsController.php",
+                "src/StudySauce/Bundle/Controller/EmailsController.php",
+                "src/StudySauce/Bundle/Controller/HomeController.php",
+                "src/StudySauce/Bundle/Controller/PacksController.php",
+                "src/StudySauce/Bundle/Entity/Pack.php",
+                "src/StudySauce/Bundle/Entity/User.php",
+                "src/StudySauce/Bundle/EventListener/AnonymousAuthenticationListener.php",
+                "src/StudySauce/Bundle/EventListener/RedirectListener.php",
+                "src/StudySauce/Bundle/Resources/config/routing.php",
+                "src/StudySauce/Bundle/Resources/public/js/sauce.js",
+                "src/StudySauce/Bundle/Resources/views/Account/reset.html.php",
+                "src/StudySauce/Bundle/Resources/views/Emails/contact-message.html.php",
+                "src/StudySauce/Bundle/Resources/views/Home/tab.html.php",
+                "src/StudySauce/Bundle/Resources/views/Shared/header.html.php",
+                "src/StudySauce/Bundle/Resources/views/Shared/layout.html.php",
+                "src/StudySauce/Bundle/Resources/views/Shared/menu.html.php"
+              ]
+            }
+          ]
+        },
+        "2015-10-01": {
+          "date": "2015-10-01",
+          "heatScore": 100,
+          "linesChanged": 18903,
+          "commitCount": 2,
+          "filesEdited": [
+            "app/config/security.yml",
+            "src/Admin/Bundle/Controller/ActivityController.php",
+            "src/Admin/Bundle/Controller/ImportController.php",
+            "src/StudySauce/Bundle/Controller/AccountController.php",
+            "src/StudySauce/Bundle/Controller/BuyController.php",
+            "src/StudySauce/Bundle/Controller/HomeController.php",
+            "src/StudySauce/Bundle/EventListener/RedirectListener.php",
+            "src/StudySauce/Bundle/Resources/config/routing.php",
+            "src/StudySauce/Bundle/Resources/public/js/login.js",
+            "src/StudySauce/Bundle/Resources/views/Account/login.html.php",
+            "src/StudySauce/Bundle/Resources/views/Account/register.html.php",
+            "src/Admin/Bundle/Controller/AdminController.php",
+            "src/Admin/Bundle/Resources/views/Admin/tab.html.php",
+            "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+            "src/StudySauce/Bundle/Command/CronSauceCommand.php",
+            "src/StudySauce/Bundle/Controller/EmailsController.php",
+            "src/StudySauce/Bundle/Controller/PacksController.php",
+            "src/StudySauce/Bundle/Entity/Group.php",
+            "src/StudySauce/Bundle/Entity/Pack.php",
+            "src/StudySauce/Bundle/Entity/User.php",
+            "src/StudySauce/Bundle/Entity/UserPack.php",
+            "src/StudySauce/Bundle/EventListener/InviteListener.php",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/examples/custom.html",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/examples/dump.php",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/examples/events.html",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/examples/jquery/all_runtimes.html",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/examples/jquery/jquery_ui_widget.html",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/examples/jquery/queue_widget.html",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/examples/jquery/s3.php",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/examples/upload.php",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/Moxie.swf",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/Moxie.xap",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ar.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/az.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/bs.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/cs.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/cy.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/da.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/de.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/el.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/en.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/es.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/et.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/fa.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/fi.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/fr.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/he.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/hr.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/hu.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/hy.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/id.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/it.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ja.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ka.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/kk.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/km.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ko.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/lt.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/lv.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/mn.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ms.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/nl.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/pl.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/pt_BR.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ro.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ru.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/sk.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/sq.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/sr.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/sr_RS.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/sv.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/th_TH.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/tr.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/uk_UA.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/zh_CN.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/zh_TW.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/css/jquery.plupload.queue.css",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/backgrounds.gif",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/buttons-disabled.png",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/buttons.png",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/delete.gif",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/done.gif",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/error.gif",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/throbber.gif",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/transp50.png",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/jquery.plupload.queue.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/jquery.plupload.queue.min.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.ui.plupload/css/jquery.ui.plupload.css",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.ui.plupload/img/loading.gif",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.ui.plupload/img/plupload.png",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.ui.plupload/jquery.ui.plupload.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.ui.plupload/jquery.ui.plupload.min.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/moxie.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/moxie.min.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/plupload.dev.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/plupload.full.min.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/js/plupload.min.js",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/license.txt",
+            "src/StudySauce/Bundle/Resources/public/js/plupload/readme.md",
+            "src/StudySauce/Bundle/Resources/views/Shared/header.html.php",
+            "web/app.php"
+          ],
+          "commits": [
+            {
+              "hash": "c588e9ea5d5f0bcf0bd85d845a40b8bfb6cdf9ab",
+              "author": "bjcullinan",
+              "date": "2015-10-02T02:58:23.000Z",
+              "message": "json login and registration, bug fixes",
+              "linesAdded": 155,
+              "linesDeleted": 175,
+              "filesChanged": [
+                "app/config/security.yml",
+                "src/Admin/Bundle/Controller/ActivityController.php",
+                "src/Admin/Bundle/Controller/ImportController.php",
+                "src/StudySauce/Bundle/Controller/AccountController.php",
+                "src/StudySauce/Bundle/Controller/BuyController.php",
+                "src/StudySauce/Bundle/Controller/HomeController.php",
+                "src/StudySauce/Bundle/EventListener/RedirectListener.php",
+                "src/StudySauce/Bundle/Resources/config/routing.php",
+                "src/StudySauce/Bundle/Resources/public/js/login.js",
+                "src/StudySauce/Bundle/Resources/views/Account/login.html.php",
+                "src/StudySauce/Bundle/Resources/views/Account/register.html.php"
+              ]
+            },
+            {
+              "hash": "c8d8f67751c71d996a3149c6f167f3bb7a26b4b4",
+              "author": "bjcullinan",
+              "date": "2015-10-01T07:45:48.000Z",
+              "message": "user pack data model, registration and invite process",
+              "linesAdded": 17453,
+              "linesDeleted": 1120,
+              "filesChanged": [
+                "app/config/security.yml",
+                "src/Admin/Bundle/Controller/AdminController.php",
+                "src/Admin/Bundle/Controller/ImportController.php",
+                "src/Admin/Bundle/Resources/views/Admin/tab.html.php",
+                "src/Admin/Bundle/Resources/views/Import/tab.html.php",
+                "src/StudySauce/Bundle/Command/CronSauceCommand.php",
+                "src/StudySauce/Bundle/Controller/AccountController.php",
+                "src/StudySauce/Bundle/Controller/BuyController.php",
+                "src/StudySauce/Bundle/Controller/EmailsController.php",
+                "src/StudySauce/Bundle/Controller/PacksController.php",
+                "src/StudySauce/Bundle/Entity/Group.php",
+                "src/StudySauce/Bundle/Entity/Pack.php",
+                "src/StudySauce/Bundle/Entity/User.php",
+                "src/StudySauce/Bundle/Entity/UserPack.php",
+                "src/StudySauce/Bundle/EventListener/InviteListener.php",
+                "src/StudySauce/Bundle/Resources/config/routing.php",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/examples/custom.html",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/examples/dump.php",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/examples/events.html",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/examples/jquery/all_runtimes.html",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/examples/jquery/jquery_ui_widget.html",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/examples/jquery/queue_widget.html",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/examples/jquery/s3.php",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/examples/upload.php",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/Moxie.swf",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/Moxie.xap",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ar.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/az.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/bs.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/cs.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/cy.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/da.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/de.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/el.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/en.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/es.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/et.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/fa.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/fi.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/fr.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/he.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/hr.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/hu.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/hy.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/id.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/it.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ja.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ka.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/kk.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/km.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ko.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/lt.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/lv.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/mn.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ms.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/nl.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/pl.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/pt_BR.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ro.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/ru.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/sk.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/sq.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/sr.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/sr_RS.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/sv.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/th_TH.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/tr.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/uk_UA.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/zh_CN.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/i18n/zh_TW.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/css/jquery.plupload.queue.css",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/backgrounds.gif",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/buttons-disabled.png",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/buttons.png",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/delete.gif",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/done.gif",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/error.gif",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/throbber.gif",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/img/transp50.png",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/jquery.plupload.queue.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.plupload.queue/jquery.plupload.queue.min.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.ui.plupload/css/jquery.ui.plupload.css",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.ui.plupload/img/loading.gif",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.ui.plupload/img/plupload.png",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.ui.plupload/jquery.ui.plupload.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/jquery.ui.plupload/jquery.ui.plupload.min.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/moxie.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/moxie.min.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/plupload.dev.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/plupload.full.min.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/js/plupload.min.js",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/license.txt",
+                "src/StudySauce/Bundle/Resources/public/js/plupload/readme.md",
+                "src/StudySauce/Bundle/Resources/views/Shared/header.html.php",
+                "web/app.php"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "studysauceapp": {
+      "projectName": "studysauceapp",
+      "localPath": "D:\\studysauceapp",
+      "remoteUrl": "https://bjcullinan@bitbucket.org/studysauce/studysauceapp",
+      "lastUpdated": "2026-09-26T04:31:17.427Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2015-10-30": {
+          "date": "2015-10-30",
+          "heatScore": 53,
+          "linesChanged": 647,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardController.swift",
+            "StudySauce/CardMultipleController.swift",
+            "StudySauce/CardSegue.swift",
+            "StudySauce/CardSelfController.swift",
+            "StudySauce/CardTransitionManager.swift",
+            "StudySauce/CardTrueFalseController.swift",
+            "StudySauce/UIColor.swift"
+          ],
+          "commits": [
+            {
+              "hash": "32dc7c7a088f1df4eb8aa167743e842700f4acab",
+              "author": "bjcullinan",
+              "date": "2015-10-31T06:13:22.000Z",
+              "message": "animations",
+              "linesAdded": 385,
+              "linesDeleted": 262,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardController.swift",
+                "StudySauce/CardMultipleController.swift",
+                "StudySauce/CardSegue.swift",
+                "StudySauce/CardSelfController.swift",
+                "StudySauce/CardTransitionManager.swift",
+                "StudySauce/CardTrueFalseController.swift",
+                "StudySauce/UIColor.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-29": {
+          "date": "2015-10-29",
+          "heatScore": 45,
+          "linesChanged": 235,
+          "commitCount": 3,
+          "filesEdited": [
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/UserLoginController.swift",
+            "StudySauce/AutoSizingTextView.swift",
+            "StudySauce/CardMultipleController.swift",
+            "StudySauce/ContactUsController.swift",
+            "StudySauce/Pack+CoreDataProperties.swift",
+            "StudySauce/Pack.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents"
+          ],
+          "commits": [
+            {
+              "hash": "3c8bfe8220b80083205719d237e8b1cb0279c059",
+              "author": "bjcullinan",
+              "date": "2015-10-29T17:10:34.000Z",
+              "message": "removed logo from results, text alignment",
+              "linesAdded": 11,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/PackResultsController.swift"
+              ]
+            },
+            {
+              "hash": "3578600212721a7232c08f535a1343b416533d80",
+              "author": "bjcullinan",
+              "date": "2015-10-29T17:03:42.000Z",
+              "message": "user login fix",
+              "linesAdded": 3,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/UserLoginController.swift"
+              ]
+            },
+            {
+              "hash": "3f3e9ad62d1747dfa36bcd12465f96b74d8d85bb",
+              "author": "bjcullinan",
+              "date": "2015-10-29T16:51:15.000Z",
+              "message": "UI tweaks",
+              "linesAdded": 107,
+              "linesDeleted": 93,
+              "filesChanged": [
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardMultipleController.swift",
+                "StudySauce/ContactUsController.swift",
+                "StudySauce/Pack+CoreDataProperties.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+                "StudySauce/UserLoginController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-28": {
+          "date": "2015-10-28",
+          "heatScore": 100,
+          "linesChanged": 1591,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/Answer+CoreDataProperties.swift",
+            "StudySauce/Answer.swift",
+            "StudySauce/AutoSizingTextView.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/BetaSignupController.swift",
+            "StudySauce/Card+CoreDataProperties.swift",
+            "StudySauce/Card.swift",
+            "StudySauce/CardBlankController.swift",
+            "StudySauce/CardController.swift",
+            "StudySauce/CardMultipleController.swift",
+            "StudySauce/CardPromptController.swift",
+            "StudySauce/CardResponseController.swift",
+            "StudySauce/CardSegue.swift",
+            "StudySauce/CardSelfController.swift",
+            "StudySauce/CardTrueFalseController.swift",
+            "StudySauce/ContactUsController.swift",
+            "StudySauce/Pack+CoreDataProperties.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/Response+CoreDataProperties.swift",
+            "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+            "StudySauce/UIViewController.swift",
+            "StudySauce/User+CoreDataProperties.swift",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/UserLoginController.swift",
+            "StudySauce/UserPack+CoreDataProperties.swift",
+            "StudySauce/UserRegisterController.swift",
+            "StudySauce/UserResetController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "71d5b05fceefde2e99bce1ba9b61cee27d64a4d5",
+              "author": "bjcullinan",
+              "date": "2015-10-28T23:02:10.000Z",
+              "message": "new question types",
+              "linesAdded": 1269,
+              "linesDeleted": 322,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Answer+CoreDataProperties.swift",
+                "StudySauce/Answer.swift",
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/BetaSignupController.swift",
+                "StudySauce/Card+CoreDataProperties.swift",
+                "StudySauce/Card.swift",
+                "StudySauce/CardBlankController.swift",
+                "StudySauce/CardController.swift",
+                "StudySauce/CardMultipleController.swift",
+                "StudySauce/CardPromptController.swift",
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/CardSegue.swift",
+                "StudySauce/CardSelfController.swift",
+                "StudySauce/CardTrueFalseController.swift",
+                "StudySauce/ContactUsController.swift",
+                "StudySauce/Pack+CoreDataProperties.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/Response+CoreDataProperties.swift",
+                "StudySauce/StudySauce.xcdatamodeld/StudySauce.xcdatamodel/contents",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/User+CoreDataProperties.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserPack+CoreDataProperties.swift",
+                "StudySauce/UserRegisterController.swift",
+                "StudySauce/UserResetController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-21": {
+          "date": "2015-10-21",
+          "heatScore": 27,
+          "linesChanged": 264,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardPromptController.swift",
+            "StudySauce/CardResponseController.swift",
+            "StudySauce/Pack.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/PackSummaryCell.swift",
+            "StudySauce/PackSummaryController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "987f3827eed5789b8a23956f061eca130932c433",
+              "author": "bjcullinan",
+              "date": "2015-10-22T05:46:02.000Z",
+              "message": "card counts, new format for pack summary",
+              "linesAdded": 159,
+              "linesDeleted": 105,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardPromptController.swift",
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-19": {
+          "date": "2015-10-19",
+          "heatScore": 33,
+          "linesChanged": 47,
+          "commitCount": 3,
+          "filesEdited": [
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/UserLoginController.swift",
+            "StudySauce/PackSummaryCell.swift"
+          ],
+          "commits": [
+            {
+              "hash": "40f08103e40ee3e6aa300e89b947096e2036a870",
+              "author": "bjcullinan",
+              "date": "2015-10-19T19:41:52.000Z",
+              "message": "icon fix",
+              "linesAdded": 6,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "b32c37fcbfe59a5192622be45cc6e330fa6b443a",
+              "author": "bjcullinan",
+              "date": "2015-10-19T16:44:16.000Z",
+              "message": "incorrect password fix",
+              "linesAdded": 3,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "StudySauce/UserLoginController.swift"
+              ]
+            },
+            {
+              "hash": "b4f88cceac720ce4a58f1dd79f3100df6f062eb1",
+              "author": "bjcullinan",
+              "date": "2015-10-19T16:32:25.000Z",
+              "message": "hiding modified label",
+              "linesAdded": 8,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/PackSummaryCell.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-15": {
+          "date": "2015-10-15",
+          "heatScore": 14,
+          "linesChanged": 66,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce/AutoSizingTextView.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/CardResponseController.swift",
+            "StudySauce/PackSummaryController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "fed2aa53e0b8ae80fbea93ef096662d23a3a4b7c",
+              "author": "bjcullinan",
+              "date": "2015-10-15T08:03:41.000Z",
+              "message": "Response callback",
+              "linesAdded": 43,
+              "linesDeleted": 23,
+              "filesChanged": [
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/PackSummaryController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-14": {
+          "date": "2015-10-14",
+          "heatScore": 62,
+          "linesChanged": 782,
+          "commitCount": 1,
+          "filesEdited": [
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/AutoSizingTextView.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/Card.swift",
+            "StudySauce/CardPromptController.swift",
+            "StudySauce/CardResponseController.swift",
+            "StudySauce/Info.plist",
+            "StudySauce/NSDate.swift",
+            "StudySauce/NSUrl.swift",
+            "StudySauce/Pack.swift",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/PackSummaryCell.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/UIViewController.swift",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/UserResetController.swift",
+            "StudySauce/UserSettingsController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "218f89a768a3316b9ac54d14ca1a6693ffe06fe7",
+              "author": "bjcullinan",
+              "date": "2015-10-14T08:00:24.000Z",
+              "message": "password reset wiring, card timing fixes, invite fixes",
+              "linesAdded": 558,
+              "linesDeleted": 224,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Card.swift",
+                "StudySauce/CardPromptController.swift",
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/Info.plist",
+                "StudySauce/NSDate.swift",
+                "StudySauce/NSUrl.swift",
+                "StudySauce/Pack.swift",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserResetController.swift",
+                "StudySauce/UserSettingsController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-09": {
+          "date": "2015-10-09",
+          "heatScore": 38,
+          "linesChanged": 284,
+          "commitCount": 2,
+          "filesEdited": [
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/BetaSignupController.swift",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/UserLoginController.swift",
+            "StudySauce/UserRegisterController.swift",
+            "StudySauce/UserResetController.swift",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/ContactUsController.swift",
+            "StudySauce/UIViewController.swift",
+            "StudySauce/UserSettingsController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "78dc4fac914a32c45bb01dd9625a760d69a97431",
+              "author": "bjcullinan",
+              "date": "2015-10-10T00:42:04.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 63,
+              "linesDeleted": 35,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/BetaSignupController.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserRegisterController.swift",
+                "StudySauce/UserResetController.swift"
+              ]
+            },
+            {
+              "hash": "6debf7603fccfd2999a211a490a5a30dc0e29684",
+              "author": "bjcullinan",
+              "date": "2015-10-10T00:33:09.000Z",
+              "message": "offline users, hidden reset cache function, tap first name 10 times within 20 seconds to log out.",
+              "linesAdded": 133,
+              "linesDeleted": 53,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/ContactUsController.swift",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserSettingsController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-08": {
+          "date": "2015-10-08",
+          "heatScore": 100,
+          "linesChanged": 1326,
+          "commitCount": 3,
+          "filesEdited": [
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/ContactUsController.swift",
+            "StudySauce/UIViewController.swift",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/UserLoginController.swift",
+            "StudySauce/UserRegisterController.swift",
+            "StudySauce/UserResetController.swift",
+            "StudySauce/BetaSignupController.swift",
+            "StudySauce/DialogController.swift",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/String.swift",
+            "StudySauce/UserSettingsContainerController.swift",
+            "StudySauce/UserSettingsController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "a50e935d37eef3a0ff59bb0e03fafe905ebd8277",
+              "author": "bjcullinan",
+              "date": "2015-10-09T06:51:36.000Z",
+              "message": "goHome() tool for controllers",
+              "linesAdded": 76,
+              "linesDeleted": 65,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/ContactUsController.swift",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserRegisterController.swift",
+                "StudySauce/UserResetController.swift"
+              ]
+            },
+            {
+              "hash": "753beae41230ee73bce2a585e1e935c14d316ce1",
+              "author": "bjcullinan",
+              "date": "2015-10-09T05:44:30.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 131,
+              "linesDeleted": 129,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/BetaSignupController.swift",
+                "StudySauce/ContactUsController.swift",
+                "StudySauce/DialogController.swift",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserRegisterController.swift",
+                "StudySauce/UserResetController.swift"
+              ]
+            },
+            {
+              "hash": "240380ff212e286cf8814cacb1b7c3924880910f",
+              "author": "bjcullinan",
+              "date": "2015-10-09T03:21:54.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 434,
+              "linesDeleted": 491,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/BetaSignupController.swift",
+                "StudySauce/ContactUsController.swift",
+                "StudySauce/DialogController.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/String.swift",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserRegisterController.swift",
+                "StudySauce/UserResetController.swift",
+                "StudySauce/UserSettingsContainerController.swift",
+                "StudySauce/UserSettingsController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-07": {
+          "date": "2015-10-07",
+          "heatScore": 100,
+          "linesChanged": 989,
+          "commitCount": 6,
+          "filesEdited": [
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/Images.xcassets/StudySauce Sketch.imageset/Contents.json",
+            "StudySauce/UserSettingsContainerController.swift",
+            "StudySauce/UserSettingsController.swift",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Info.plist",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/ContactUsController.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/SaucyButton.swift",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/UserRegisterController.swift",
+            "StudySauce/UserResetController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "84696df226cf93125584e5cdf458e48c1544f56f",
+              "author": "bjcullinan",
+              "date": "2015-10-08T00:59:14.000Z",
+              "message": "edit settings wiring",
+              "linesAdded": 108,
+              "linesDeleted": 35,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Images.xcassets/StudySauce Sketch.imageset/Contents.json",
+                "StudySauce/UserSettingsContainerController.swift",
+                "StudySauce/UserSettingsController.swift"
+              ]
+            },
+            {
+              "hash": "80cd10987bfe453fb9f4eeca7bde78e3d9622f85",
+              "author": "bjcullinan",
+              "date": "2015-10-07T22:35:09.000Z",
+              "message": "initial view controller fix",
+              "linesAdded": 36,
+              "linesDeleted": 32,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Info.plist"
+              ]
+            },
+            {
+              "hash": "ff794875a0d5a02bc39c929a53f85b678e89ac89",
+              "author": "bjcullinan",
+              "date": "2015-10-07T22:15:58.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 253,
+              "linesDeleted": 19,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/ContactUsController.swift"
+              ]
+            },
+            {
+              "hash": "f1ea0f6c0ceb68869dbbfd6b8a0b016d6ba7331b",
+              "author": "bjcullinan",
+              "date": "2015-10-07T22:13:25.000Z",
+              "message": "settings wiring",
+              "linesAdded": 94,
+              "linesDeleted": 81,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/UserSettingsContainerController.swift",
+                "StudySauce/UserSettingsController.swift"
+              ]
+            },
+            {
+              "hash": "089df9f3786a4d5f0ff5130cc0b7d5e30f06f5a0",
+              "author": "bjcullinan",
+              "date": "2015-10-07T20:11:51.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 29,
+              "linesDeleted": 28,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/PackSummaryController.swift"
+              ]
+            },
+            {
+              "hash": "3d8b754372225618d2138e3a352485154150ff60",
+              "author": "bjcullinan",
+              "date": "2015-10-07T20:02:07.000Z",
+              "message": "password reset",
+              "linesAdded": 186,
+              "linesDeleted": 88,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/SaucyButton.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserRegisterController.swift",
+                "StudySauce/UserResetController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-06": {
+          "date": "2015-10-06",
+          "heatScore": 46,
+          "linesChanged": 101,
+          "commitCount": 4,
+          "filesEdited": [
+            "StudySauce/PackSummaryCell.swift",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/AutoSizingTextView.swift",
+            "StudySauce/UserLoginController.swift",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/NSDate.swift",
+            "StudySauce/NSDateFormatter.swift"
+          ],
+          "commits": [
+            {
+              "hash": "1b861be13cc03bfee4acadccd60bbe384fc474b4",
+              "author": "bjcullinan",
+              "date": "2015-10-07T06:55:59.000Z",
+              "message": "cell and loading fix for pack summary",
+              "linesAdded": 5,
+              "linesDeleted": 2,
+              "filesChanged": [
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift"
+              ]
+            },
+            {
+              "hash": "b5527d75958a1313f3eb5e3baac0617b5d4c1550",
+              "author": "bjcullinan",
+              "date": "2015-10-06T21:37:08.000Z",
+              "message": "login fix, initial view fix, text size fix",
+              "linesAdded": 20,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/AutoSizingTextView.swift",
+                "StudySauce/UserLoginController.swift"
+              ]
+            },
+            {
+              "hash": "ade767b72c24670ae830eed7426494b9533dd7a4",
+              "author": "bjcullinan",
+              "date": "2015-10-06T18:48:55.000Z",
+              "message": "moved date parsing",
+              "linesAdded": 17,
+              "linesDeleted": 33,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/NSDate.swift",
+                "StudySauce/NSDateFormatter.swift",
+                "StudySauce/PackSummaryController.swift"
+              ]
+            },
+            {
+              "hash": "7d238658c0cd2b703a0b89d8784a83916c0ff925",
+              "author": "bjcullinan",
+              "date": "2015-10-06T18:10:16.000Z",
+              "message": "pack summary fix removed date",
+              "linesAdded": 4,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "StudySauce/PackSummaryCell.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-05": {
+          "date": "2015-10-05",
+          "heatScore": 100,
+          "linesChanged": 1091,
+          "commitCount": 6,
+          "filesEdited": [
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/UserSettingsController.swift",
+            "StudySauce/NSDateFormatter.swift",
+            "StudySauce/PackSummaryCell.swift",
+            "StudySauce/AppDelegate.swift",
+            "StudySauce/Base.lproj/LaunchScreen.xib",
+            "StudySauce/CardPromptController.swift",
+            "StudySauce/CardResponseController.swift",
+            "StudySauce/Info.plist",
+            "StudySauce/PackResultsController.swift",
+            "StudySauce/UIViewController.swift",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/UserLoginController.swift",
+            "StudySauce/UserRegisterController.swift"
+          ],
+          "commits": [
+            {
+              "hash": "6a121347ef5f011b076228cbc0911edcee81aff0",
+              "author": "bjcullinan",
+              "date": "2015-10-06T04:48:55.000Z",
+              "message": "home selection",
+              "linesAdded": 14,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "e3b63239ee63fabab032859c1641e5ad8d202593",
+              "author": "bjcullinan",
+              "date": "2015-10-06T00:10:48.000Z",
+              "message": "view move",
+              "linesAdded": 19,
+              "linesDeleted": 30,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "f8426765369d67d297702e7da3a1739facd3df0e",
+              "author": "bjcullinan",
+              "date": "2015-10-06T00:09:20.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 57,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/UserSettingsController.swift"
+              ]
+            },
+            {
+              "hash": "f757e801b2a4523155ca283dff24b78ee2c24905",
+              "author": "bjcullinan",
+              "date": "2015-10-06T00:08:06.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 206,
+              "linesDeleted": 235,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/NSDateFormatter.swift",
+                "StudySauce/PackSummaryCell.swift",
+                "StudySauce/PackSummaryController.swift"
+              ]
+            },
+            {
+              "hash": "0de510801d3dd8517c5d4d3cf43d7642867d9235",
+              "author": "bjcullinan",
+              "date": "2015-10-05T17:39:26.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 315,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "a56f9e75f9e322f73823a71f96a89b78d885027d",
+              "author": "bjcullinan",
+              "date": "2015-10-05T17:37:30.000Z",
+              "message": "user registration fixes, user database created",
+              "linesAdded": 109,
+              "linesDeleted": 75,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/AppDelegate.swift",
+                "StudySauce/Base.lproj/LaunchScreen.xib",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/CardPromptController.swift",
+                "StudySauce/CardResponseController.swift",
+                "StudySauce/Info.plist",
+                "StudySauce/PackResultsController.swift",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/UIViewController.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserRegisterController.swift"
+              ]
+            }
+          ]
+        },
+        "2015-10-01": {
+          "date": "2015-10-01",
+          "heatScore": 100,
+          "linesChanged": 6828,
+          "commitCount": 11,
+          "filesEdited": [
+            ".gitignore",
+            "StudySauce/Base.lproj/Main.storyboard.orig",
+            "StudySauce.xcodeproj/project.pbxproj",
+            "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+            "StudySauce.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/StudySauce.xcscheme",
+            "StudySauce.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/xcschememanagement.plist",
+            "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/StudySauce.xcscheme",
+            "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/xcschememanagement.plist",
+            "StudySauce/Base.lproj/Main.storyboard",
+            "StudySauce/PackSummaryController.swift",
+            "StudySauce/UserInviteController.swift",
+            "StudySauce/UserLoginController.swift",
+            "StudySauce/UserRegisterController.swift",
+            "StudySauce/DismissSegue.swift",
+            "StudySauce/Base.lproj/LaunchScreen.xib"
+          ],
+          "commits": [
+            {
+              "hash": "eadbdf02f048789127c4fd6f3c565d9e057278b7",
+              "author": "bjcullinan",
+              "date": "2015-10-02T03:02:16.000Z",
+              "message": "ignore fixes",
+              "linesAdded": 3,
+              "linesDeleted": 1416,
+              "filesChanged": [
+                ".gitignore",
+                "StudySauce/Base.lproj/Main.storyboard.orig"
+              ]
+            },
+            {
+              "hash": "637536502d85e49542cbddc11121f7ed0c5b2671",
+              "author": "bjcullinan",
+              "date": "2015-10-02T03:00:50.000Z",
+              "message": "registration process",
+              "linesAdded": 1618,
+              "linesDeleted": 407,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/StudySauce.xcscheme",
+                "StudySauce.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/xcschememanagement.plist",
+                "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/StudySauce.xcscheme",
+                "StudySauce.xcodeproj/xcuserdata/stephenhoughton.xcuserdatad/xcschemes/xcschememanagement.plist",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Base.lproj/Main.storyboard.orig",
+                "StudySauce/PackSummaryController.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserLoginController.swift",
+                "StudySauce/UserRegisterController.swift"
+              ]
+            },
+            {
+              "hash": "54fe641ad6d1f33163e787e975f81f61d9578f28",
+              "author": "bjcullinan",
+              "date": "2015-10-01T23:11:33.000Z",
+              "message": "storyboard fix",
+              "linesAdded": 6,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "61979b8bca5f7578a04fe189b1f04b6fb35fc598",
+              "author": "bjcullinan",
+              "date": "2015-10-01T23:09:00.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 116,
+              "linesDeleted": 1287,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Base.lproj/Main.storyboard.orig"
+              ]
+            },
+            {
+              "hash": "a1e263f03bda4a54390dc1ee7491bf06278c4bff",
+              "author": "bjcullinan",
+              "date": "2015-10-01T23:07:13.000Z",
+              "message": "dismiss segue, registration and invite code wiring",
+              "linesAdded": 1446,
+              "linesDeleted": 48,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.pbxproj",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/Base.lproj/Main.storyboard.orig",
+                "StudySauce/DismissSegue.swift",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserRegisterController.swift"
+              ]
+            },
+            {
+              "hash": "f2e8cfb83dffdb741527e8a067b715452efabed9",
+              "author": "bjcullinan",
+              "date": "2015-10-01T18:42:40.000Z",
+              "message": "submit code",
+              "linesAdded": 6,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "b95bc8a7463d7e72db2eba8cc49bc15882eff222",
+              "author": "bjcullinan",
+              "date": "2015-10-01T18:34:32.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 27,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/LaunchScreen.xib",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/UserRegisterController.swift"
+              ]
+            },
+            {
+              "hash": "92f77da6afeb09f5583eac47644a55487f2d22be",
+              "author": "bjcullinan",
+              "date": "2015-10-01T18:25:36.000Z",
+              "message": "Merge branch 'master' of https://bitbucket.org/studysauce/studysauceapp",
+              "linesAdded": 249,
+              "linesDeleted": 26,
+              "filesChanged": [
+                "StudySauce.xcodeproj/project.xcworkspace/xcuserdata/stephenhoughton.xcuserdatad/UserInterfaceState.xcuserstate",
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "e53221d0cf055f09eba2be9dcacacbafa176c554",
+              "author": "bjcullinan",
+              "date": "2015-10-01T18:22:41.000Z",
+              "message": "layout tweaks",
+              "linesAdded": 6,
+              "linesDeleted": 6,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard"
+              ]
+            },
+            {
+              "hash": "c1ea473fdf687cb73dd96328c60957b090f4a94d",
+              "author": "bjcullinan",
+              "date": "2015-10-01T16:26:49.000Z",
+              "message": "path change",
+              "linesAdded": 12,
+              "linesDeleted": 12,
+              "filesChanged": [
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/PackSummaryController.swift"
+              ]
+            },
+            {
+              "hash": "770a7c691bf9424273df549b5030ccbf00b88d39",
+              "author": "bjcullinan",
+              "date": "2015-10-01T07:42:47.000Z",
+              "message": "autofill wiring for invite codes",
+              "linesAdded": 79,
+              "linesDeleted": 39,
+              "filesChanged": [
+                "StudySauce/Base.lproj/LaunchScreen.xib",
+                "StudySauce/Base.lproj/Main.storyboard",
+                "StudySauce/UserInviteController.swift",
+                "StudySauce/UserRegisterController.swift"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

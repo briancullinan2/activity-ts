@@ -1,0 +1,1003 @@
+{
+  "yearMonth": "2025-09",
+  "generatedAt": "2026-09-24T02:37:24.696Z",
+  "username": "briancullinan2",
+  "projects": {
+    "baseq3a": {
+      "projectName": "baseq3a",
+      "localPath": "C:\\Users\\megam\\baseq3a",
+      "lastUpdated": "2026-09-24T02:36:59.832Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-09-13": {
+          "date": "2025-09-13",
+          "heatScore": 11,
+          "linesChanged": 23,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "code/game/g_combat.c",
+            "code/game/g_cvar.h"
+          ],
+          "commits": [
+            {
+              "hash": "ad81db1b27e669c7c59aca8b1c22e6c552d1a2ac",
+              "author": "WofWca",
+              "date": "2025-09-13T14:56:45.000Z",
+              "message": "fix: shotgun not gibbing unless aiming at feet",
+              "linesAdded": 22,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "README.md",
+                "code/game/g_combat.c",
+                "code/game/g_cvar.h"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ComfyUI": {
+      "projectName": "ComfyUI",
+      "localPath": "C:\\Users\\megam\\ComfyUI",
+      "remoteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "lastUpdated": "2026-09-24T02:37:01.292Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-09-30": {
+          "date": "2025-09-30",
+          "heatScore": 10,
+          "linesChanged": 14,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md",
+            "comfy_api_nodes/nodes_bytedance.py",
+            "comfy_api_nodes/nodes_rodin.py",
+            "comfyui_version.py",
+            "pyproject.toml"
+          ],
+          "commits": [
+            {
+              "hash": "12f2b592841da63bd3a0f428b4c182ee30f241f6",
+              "author": "Dr.Lt.Data",
+              "date": "2025-09-30T22:17:25.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 10,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "README.md",
+                "comfy_api_nodes/nodes_bytedance.py",
+                "comfy_api_nodes/nodes_rodin.py",
+                "comfyui_version.py",
+                "pyproject.toml"
+              ]
+            }
+          ]
+        },
+        "2025-09-29": {
+          "date": "2025-09-29",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            ".ci/{windows_base_files/run_nvidia_gpu.bat => windows_amd_base_files/run_amd_gpu.bat}",
+            ".ci/{windows_base_files => windows_nvidia_base_files}/README_VERY_IMPORTANT.txt",
+            ".ci/{windows_base_files => windows_nvidia_base_files}/run_cpu.bat",
+            ".ci/windows_nvidia_base_files/run_nvidia_gpu.bat",
+            ".ci/{windows_base_files => windows_nvidia_base_files}/run_nvidia_gpu_fast_fp16_accumulation.bat",
+            ".github/workflows/windows_release_nightly_pytorch.yml",
+            ".github/workflows/windows_release_package.yml"
+          ],
+          "commits": [
+            {
+              "hash": "375884842314a2234ddc29132b03c741ce81443b",
+              "author": "comfyanonymous",
+              "date": "2025-09-29T23:54:37.000Z",
+              "message": "Different base files for nvidia and amd portables. (#10105)",
+              "linesAdded": 4,
+              "linesDeleted": 2,
+              "filesChanged": [
+                ".ci/{windows_base_files/run_nvidia_gpu.bat => windows_amd_base_files/run_amd_gpu.bat}",
+                ".ci/{windows_base_files => windows_nvidia_base_files}/README_VERY_IMPORTANT.txt",
+                ".ci/{windows_base_files => windows_nvidia_base_files}/run_cpu.bat",
+                ".ci/windows_nvidia_base_files/run_nvidia_gpu.bat",
+                ".ci/{windows_base_files => windows_nvidia_base_files}/run_nvidia_gpu_fast_fp16_accumulation.bat",
+                ".github/workflows/windows_release_nightly_pytorch.yml",
+                ".github/workflows/windows_release_package.yml"
+              ]
+            }
+          ]
+        },
+        "2025-09-28": {
+          "date": "2025-09-28",
+          "heatScore": 100,
+          "linesChanged": 3349,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/stable-release.yml",
+            ".github/workflows/test-unit.yml",
+            ".github/workflows/windows_release_dependencies.yml",
+            "CODEOWNERS",
+            "README.md",
+            "app/frontend_management.py",
+            "comfy/ldm/flux/math.py",
+            "comfy/ldm/wan/model.py",
+            "comfy/samplers.py",
+            "comfy/text_encoders/hunyuan_image.py",
+            "comfy/text_encoders/qwen_image.py",
+            "comfy_api_nodes/nodes_bfl.py",
+            "comfy_api_nodes/nodes_luma.py",
+            "comfy_extras/nodes_clip_sdxl.py",
+            "comfy_extras/nodes_fresca.py",
+            "comfy_extras/nodes_hidream.py",
+            "comfy_extras/nodes_hypertile.py",
+            "comfy_extras/nodes_lotus.py",
+            "comfy_extras/nodes_lumina2.py",
+            "comfy_extras/nodes_photomaker.py",
+            "comfy_extras/nodes_pixart.py",
+            "comfy_extras/nodes_post_processing.py",
+            "comfy_extras/nodes_qwen.py",
+            "comfy_extras/nodes_rebatch.py",
+            "comfy_extras/nodes_sag.py",
+            "comfy_extras/nodes_sdupscale.py",
+            "comfy_extras/nodes_tcfg.py",
+            "main.py",
+            "requirements.txt",
+            "server.py",
+            "tests-unit/app_test/frontend_manager_test.py"
+          ],
+          "commits": [
+            {
+              "hash": "20ac0052f824a10d845802e8cdd5691c7a6299f4",
+              "author": "Dr.Lt.Data",
+              "date": "2025-09-28T21:58:35.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 1786,
+              "linesDeleted": 1563,
+              "filesChanged": [
+                ".github/workflows/stable-release.yml",
+                ".github/workflows/test-unit.yml",
+                ".github/workflows/windows_release_dependencies.yml",
+                "CODEOWNERS",
+                "README.md",
+                "app/frontend_management.py",
+                "comfy/ldm/flux/math.py",
+                "comfy/ldm/wan/model.py",
+                "comfy/samplers.py",
+                "comfy/text_encoders/hunyuan_image.py",
+                "comfy/text_encoders/qwen_image.py",
+                "comfy_api_nodes/nodes_bfl.py",
+                "comfy_api_nodes/nodes_luma.py",
+                "comfy_extras/nodes_clip_sdxl.py",
+                "comfy_extras/nodes_fresca.py",
+                "comfy_extras/nodes_hidream.py",
+                "comfy_extras/nodes_hypertile.py",
+                "comfy_extras/nodes_lotus.py",
+                "comfy_extras/nodes_lumina2.py",
+                "comfy_extras/nodes_photomaker.py",
+                "comfy_extras/nodes_pixart.py",
+                "comfy_extras/nodes_post_processing.py",
+                "comfy_extras/nodes_qwen.py",
+                "comfy_extras/nodes_rebatch.py",
+                "comfy_extras/nodes_sag.py",
+                "comfy_extras/nodes_sdupscale.py",
+                "comfy_extras/nodes_tcfg.py",
+                "main.py",
+                "requirements.txt",
+                "server.py",
+                "tests-unit/app_test/frontend_manager_test.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-27": {
+          "date": "2025-09-27",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/flux/math.py",
+            "comfy/ldm/wan/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "653ceab4148a9fbc050ebceb674acef760792b77",
+              "author": "rattus128",
+              "date": "2025-09-27T22:14:16.000Z",
+              "message": "Reduce Peak WAN inference VRAM usage - part II (#10062)",
+              "linesAdded": 5,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "comfy/ldm/flux/math.py",
+                "comfy/ldm/wan/model.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-26": {
+          "date": "2025-09-26",
+          "heatScore": 13,
+          "linesChanged": 56,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/text_encoders/hunyuan_image.py",
+            "comfy/text_encoders/qwen_image.py"
+          ],
+          "commits": [
+            {
+              "hash": "1e098d61327e1c02c1a47b2626514474aa8e3c7e",
+              "author": "comfyanonymous",
+              "date": "2025-09-26T22:34:17.000Z",
+              "message": "Don't add template to qwen2.5vl when template is in prompt. (#10043)",
+              "linesAdded": 36,
+              "linesDeleted": 20,
+              "filesChanged": [
+                "comfy/text_encoders/hunyuan_image.py",
+                "comfy/text_encoders/qwen_image.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-25": {
+          "date": "2025-09-25",
+          "heatScore": 13,
+          "linesChanged": 52,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/flipflop_transformer.py"
+          ],
+          "commits": [
+            {
+              "hash": "f083720eb4b8de9ad56f42545a5d549ae03ca12c",
+              "author": "Jedrzej Kosinski",
+              "date": "2025-09-25T23:16:51.000Z",
+              "message": "Refactored FlipFlopTransformer.__call__ to fully separate out actions between flip and flop",
+              "linesAdded": 52,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/ldm/flipflop_transformer.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-24": {
+          "date": "2025-09-24",
+          "heatScore": 24,
+          "linesChanged": 223,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_audio.py"
+          ],
+          "commits": [
+            {
+              "hash": "fd79d32f38fd24adca5a6e8214f05050f287c9db",
+              "author": "Jukka Seppänen",
+              "date": "2025-09-24T22:59:29.000Z",
+              "message": "Add new audio nodes (#9908)",
+              "linesAdded": 223,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy_extras/nodes_audio.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-23": {
+          "date": "2025-09-23",
+          "heatScore": 50,
+          "linesChanged": 609,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/nodes_wan.py",
+            "comfyui_version.py",
+            "nodes.py",
+            "pyproject.toml",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "581059a83d4b54eb5d7f66cd64e7b4d800ff3143",
+              "author": "Dr.Lt.Data",
+              "date": "2025-09-23T22:24:19.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 606,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy_api_nodes/nodes_wan.py",
+                "comfyui_version.py",
+                "nodes.py",
+                "pyproject.toml",
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-09-22": {
+          "date": "2025-09-22",
+          "heatScore": 22,
+          "linesChanged": 189,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/text_encoders/llama.py",
+            "comfy_extras/nodes_qwen.py",
+            "comfy_extras/nodes_wan.py",
+            "server.py",
+            "tests/execution/test_execution.py"
+          ],
+          "commits": [
+            {
+              "hash": "74c1a58566f8d6731e4940dd90da3402cebd6818",
+              "author": "Dr.Lt.Data",
+              "date": "2025-09-22T22:28:52.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 179,
+              "linesDeleted": 10,
+              "filesChanged": [
+                "comfy/text_encoders/llama.py",
+                "comfy_extras/nodes_qwen.py",
+                "comfy_extras/nodes_wan.py",
+                "server.py",
+                "tests/execution/test_execution.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-21": {
+          "date": "2025-09-21",
+          "heatScore": 10,
+          "linesChanged": 4,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_wan.py"
+          ],
+          "commits": [
+            {
+              "hash": "27bc181c49249f11da2d8a14f84f3bdb58a0615f",
+              "author": "comfyanonymous",
+              "date": "2025-09-21T23:48:31.000Z",
+              "message": "Set some wan nodes as no longer experimental. (#9976)",
+              "linesAdded": 0,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy_extras/nodes_wan.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-20": {
+          "date": "2025-09-20",
+          "heatScore": 12,
+          "linesChanged": 38,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_extras/nodes_wan.py"
+          ],
+          "commits": [
+            {
+              "hash": "66241cef31f21247ec8b450d699250fd83b3ff7c",
+              "author": "comfyanonymous",
+              "date": "2025-09-20T06:24:10.000Z",
+              "message": "Add inputs for character replacement to the WanAnimateToVideo node. (#9960)",
+              "linesAdded": 33,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "comfy_extras/nodes_wan.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-19": {
+          "date": "2025-09-19",
+          "heatScore": 14,
+          "linesChanged": 61,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/wan/model_animate.py",
+            "comfy_extras/nodes_wan.py"
+          ],
+          "commits": [
+            {
+              "hash": "e8df53b764c7dfce1a9235f6ee70a17cfdece3ff",
+              "author": "comfyanonymous",
+              "date": "2025-09-19T22:48:56.000Z",
+              "message": "Update WanAnimateToVideo to more easily extend videos. (#9959)",
+              "linesAdded": 45,
+              "linesDeleted": 16,
+              "filesChanged": [
+                "comfy/ldm/wan/model_animate.py",
+                "comfy_extras/nodes_wan.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-18": {
+          "date": "2025-09-18",
+          "heatScore": 10,
+          "linesChanged": 7,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/wan/model.py",
+            "comfy_extras/nodes_wan.py"
+          ],
+          "commits": [
+            {
+              "hash": "24b0fce099c56d18ceb1f4f6b9455fee55e154ce",
+              "author": "comfyanonymous",
+              "date": "2025-09-18T23:54:16.000Z",
+              "message": "Do padding of audio embed in model for humo for more flexibility. (#9935)",
+              "linesAdded": 3,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/ldm/wan/model.py",
+                "comfy_extras/nodes_wan.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-17": {
+          "date": "2025-09-17",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/wan/model.py",
+            "comfy/model_base.py"
+          ],
+          "commits": [
+            {
+              "hash": "dd611a7700956f45f393dee32fb8505de176dc66",
+              "author": "comfyanonymous",
+              "date": "2025-09-17T22:39:24.000Z",
+              "message": "Support the HuMo 17B model. (#9912)",
+              "linesAdded": 27,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy/ldm/wan/model.py",
+                "comfy/model_base.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-16": {
+          "date": "2025-09-16",
+          "heatScore": 12,
+          "linesChanged": 31,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/flux/math.py",
+            "comfy/ldm/wan/model.py"
+          ],
+          "commits": [
+            {
+              "hash": "e42682b24ef033a93001ba27cc5c5aa461a61d8d",
+              "author": "rattus128",
+              "date": "2025-09-16T23:21:14.000Z",
+              "message": "Reduce Peak WAN inference VRAM usage (#9898)",
+              "linesAdded": 17,
+              "linesDeleted": 14,
+              "filesChanged": [
+                "comfy/ldm/flux/math.py",
+                "comfy/ldm/wan/model.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-15": {
+          "date": "2025-09-15",
+          "heatScore": 10,
+          "linesChanged": 6,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/lora.py"
+          ],
+          "commits": [
+            {
+              "hash": "47a9cde5d3045c42f20baafb9855fb96959124f0",
+              "author": "comfyanonymous",
+              "date": "2025-09-15T22:10:55.000Z",
+              "message": "Support the omnigen2 umo lora. (#9886)",
+              "linesAdded": 6,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/lora.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-14": {
+          "date": "2025-09-14",
+          "heatScore": 10,
+          "linesChanged": 10,
+          "commitCount": 1,
+          "filesEdited": [
+            "tests-assets/conftest.py",
+            "tests-assets/test_scans.py"
+          ],
+          "commits": [
+            {
+              "hash": "7becb84341887933cec0f8d9efde25ed6efdb62e",
+              "author": "bigcat88",
+              "date": "2025-09-14T19:19:00.000Z",
+              "message": "fixed tests on SQLite file",
+              "linesAdded": 5,
+              "linesDeleted": 5,
+              "filesChanged": [
+                "tests-assets/conftest.py",
+                "tests-assets/test_scans.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-13": {
+          "date": "2025-09-13",
+          "heatScore": 49,
+          "linesChanged": 591,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/__init__.py",
+            "app/database/services/content.py",
+            "tests-assets/conftest.py",
+            "tests-assets/test_assets_missing_sync.py",
+            "tests-assets/test_crud.py",
+            "tests-assets/test_downloads.py",
+            "tests-assets/test_metadata_filters.py",
+            "tests-assets/test_scans.py",
+            "tests-assets/test_tags.py"
+          ],
+          "commits": [
+            {
+              "hash": "4a713654cd6be098ae104daf5c2a731520e031ca",
+              "author": "bigcat88",
+              "date": "2025-09-13T18:12:33.000Z",
+              "message": "added more tests for the Assets logic",
+              "linesAdded": 558,
+              "linesDeleted": 33,
+              "filesChanged": [
+                "app/__init__.py",
+                "app/database/services/content.py",
+                "tests-assets/conftest.py",
+                "tests-assets/test_assets_missing_sync.py",
+                "tests-assets/test_crud.py",
+                "tests-assets/test_downloads.py",
+                "tests-assets/test_metadata_filters.py",
+                "tests-assets/test_scans.py",
+                "tests-assets/test_tags.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-12": {
+          "date": "2025-09-12",
+          "heatScore": 100,
+          "linesChanged": 4298,
+          "commitCount": 1,
+          "filesEdited": [
+            "alembic_db/versions/0001_assets.py",
+            "app/__init__.py",
+            "app/_assets_helpers.py",
+            "app/api/assets_routes.py",
+            "app/api/schemas_in.py",
+            "app/api/schemas_out.py",
+            "app/assets_manager.py",
+            "app/assets_scanner.py",
+            "app/database/_helpers.py",
+            "app/database/db.py",
+            "app/database/helpers/__init__.py",
+            "app/database/helpers/filters.py",
+            "app/database/helpers/ownership.py",
+            "app/database/helpers/projection.py",
+            "app/database/helpers/tags.py",
+            "app/database/models.py",
+            "app/database/services.py",
+            "app/database/services/__init__.py",
+            "app/database/services/content.py",
+            "app/database/services/info.py",
+            "app/database/services/queries.py",
+            "comfy/cli_args.py",
+            "main.py",
+            "server.py",
+            "tests-assets/test_crud.py",
+            "tests-assets/test_tags.py",
+            "tests-assets/test_uploads.py"
+          ],
+          "commits": [
+            {
+              "hash": "bb9ed04758369aa4c452d788d64ea7fed6a0dc68",
+              "author": "bigcat88",
+              "date": "2025-09-12T15:14:52.000Z",
+              "message": "global refactoring; add support for Assets without the computed hash",
+              "linesAdded": 2374,
+              "linesDeleted": 1924,
+              "filesChanged": [
+                "alembic_db/versions/0001_assets.py",
+                "app/__init__.py",
+                "app/_assets_helpers.py",
+                "app/api/assets_routes.py",
+                "app/api/schemas_in.py",
+                "app/api/schemas_out.py",
+                "app/assets_manager.py",
+                "app/assets_scanner.py",
+                "app/database/_helpers.py",
+                "app/database/db.py",
+                "app/database/helpers/__init__.py",
+                "app/database/helpers/filters.py",
+                "app/database/helpers/ownership.py",
+                "app/database/helpers/projection.py",
+                "app/database/helpers/tags.py",
+                "app/database/models.py",
+                "app/database/services.py",
+                "app/database/services/__init__.py",
+                "app/database/services/content.py",
+                "app/database/services/info.py",
+                "app/database/services/queries.py",
+                "comfy/cli_args.py",
+                "main.py",
+                "server.py",
+                "tests-assets/test_crud.py",
+                "tests-assets/test_tags.py",
+                "tests-assets/test_uploads.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-11": {
+          "date": "2025-09-11",
+          "heatScore": 14,
+          "linesChanged": 68,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/latent_formats.py"
+          ],
+          "commits": [
+            {
+              "hash": "18de0b28305fd8bf002d74e91c0630bd76b01d6b",
+              "author": "comfyanonymous",
+              "date": "2025-09-11T23:33:02.000Z",
+              "message": "Fast preview for hunyuan image. (#9814)",
+              "linesAdded": 68,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "comfy/latent_formats.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-10": {
+          "date": "2025-09-10",
+          "heatScore": 24,
+          "linesChanged": 214,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/nodes_bytedance.py",
+            "comfyui_version.py",
+            "pyproject.toml",
+            "requirements.txt"
+          ],
+          "commits": [
+            {
+              "hash": "f9cfea0f2e0ccea6f04296dba296911cb0e62a23",
+              "author": "Dr.Lt.Data",
+              "date": "2025-09-10T21:51:11.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 210,
+              "linesDeleted": 4,
+              "filesChanged": [
+                "comfy_api_nodes/nodes_bytedance.py",
+                "comfyui_version.py",
+                "pyproject.toml",
+                "requirements.txt"
+              ]
+            }
+          ]
+        },
+        "2025-09-09": {
+          "date": "2025-09-09",
+          "heatScore": 56,
+          "linesChanged": 701,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/modules/diffusionmodules/model.py",
+            "comfy_api_nodes/nodes_bytedance.py"
+          ],
+          "commits": [
+            {
+              "hash": "c7f04234c63b7770a969fbe6d3f4d20fe7f857d2",
+              "author": "Dr.Lt.Data",
+              "date": "2025-09-09T22:11:31.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 688,
+              "linesDeleted": 13,
+              "filesChanged": [
+                "comfy/ldm/modules/diffusionmodules/model.py",
+                "comfy_api_nodes/nodes_bytedance.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-08": {
+          "date": "2025-09-08",
+          "heatScore": 35,
+          "linesChanged": 383,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/api/assets_routes.py",
+            "app/assets_manager.py",
+            "app/database/services.py",
+            "tests-assets/conftest.py",
+            "tests-assets/test_assets.py",
+            "tests-assets/test_tags.py",
+            "tests-assets/test_uploads.py"
+          ],
+          "commits": [
+            {
+              "hash": "dfb5703d40ef03713038e821106939dcbc2c4445",
+              "author": "bigcat88",
+              "date": "2025-09-08T19:37:39.000Z",
+              "message": "feat: remove Asset when there is no references left + bugfixes + more tests",
+              "linesAdded": 332,
+              "linesDeleted": 51,
+              "filesChanged": [
+                "app/api/assets_routes.py",
+                "app/assets_manager.py",
+                "app/database/services.py",
+                "tests-assets/conftest.py",
+                "tests-assets/test_assets.py",
+                "tests-assets/test_tags.py",
+                "tests-assets/test_uploads.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-07": {
+          "date": "2025-09-07",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "d4cb177414a7256e2cb5a2c8ec369b2ff865c44c",
+              "author": "Dr.Lt.Data",
+              "date": "2025-09-07T22:50:53.000Z",
+              "message": "Merge pull request #2 from viva-jinyi/fix/system-os",
+              "linesAdded": 1,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-06": {
+          "date": "2025-09-06",
+          "heatScore": 21,
+          "linesChanged": 178,
+          "commitCount": 1,
+          "filesEdited": [
+            "alembic_db/versions/0001_assets.py",
+            "app/_assets_helpers.py",
+            "app/assets_fetcher.py",
+            "app/assets_scanner.py",
+            "app/database/models.py",
+            "app/database/services.py"
+          ],
+          "commits": [
+            {
+              "hash": "2d9be462d3e0bd66f36906b9c596b8f44445f915",
+              "author": "bigcat88",
+              "date": "2025-09-06T16:22:51.000Z",
+              "message": "add support for assets duplicates",
+              "linesAdded": 116,
+              "linesDeleted": 62,
+              "filesChanged": [
+                "alembic_db/versions/0001_assets.py",
+                "app/_assets_helpers.py",
+                "app/assets_fetcher.py",
+                "app/assets_scanner.py",
+                "app/database/models.py",
+                "app/database/services.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-05": {
+          "date": "2025-09-05",
+          "heatScore": 23,
+          "linesChanged": 198,
+          "commitCount": 1,
+          "filesEdited": [
+            "app/model_manager.py",
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "84384ca0b49004f0435ac66105fe5407c963d066",
+              "author": "bigcat88",
+              "date": "2025-09-05T20:02:26.000Z",
+              "message": "temporary restore ModelManager",
+              "linesAdded": 198,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "app/model_manager.py",
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-04": {
+          "date": "2025-09-04",
+          "heatScore": 31,
+          "linesChanged": 319,
+          "commitCount": 1,
+          "filesEdited": [
+            ".github/workflows/test-execution.yml",
+            "comfy_execution/progress.py",
+            "comfyui_version.py",
+            "pyproject.toml",
+            "requirements.txt",
+            "tests/conftest.py",
+            "tests/{inference => execution}/extra_model_paths.yaml",
+            "tests/{inference => execution}/test_async_nodes.py",
+            "tests/{inference => execution}/test_execution.py",
+            "tests/execution/test_progress_isolation.py",
+            "tests/{inference => execution}/testing_nodes/testing-pack/__init__.py",
+            "tests/{inference => execution}/testing_nodes/testing-pack/api_test_nodes.py",
+            "tests/{inference => execution}/testing_nodes/testing-pack/async_test_nodes.py",
+            "tests/{inference => execution}/testing_nodes/testing-pack/conditions.py",
+            "tests/{inference => execution}/testing_nodes/testing-pack/flow_control.py",
+            "tests/{inference => execution}/testing_nodes/testing-pack/specific_tests.py",
+            "tests/{inference => execution}/testing_nodes/testing-pack/stubs.py",
+            "tests/{inference => execution}/testing_nodes/testing-pack/tools.py",
+            "tests/{inference => execution}/testing_nodes/testing-pack/util.py"
+          ],
+          "commits": [
+            {
+              "hash": "6a1f95caa01f350c605987ca7a4c3e2849c8eaaa",
+              "author": "Dr.Lt.Data",
+              "date": "2025-09-04T23:14:53.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 298,
+              "linesDeleted": 21,
+              "filesChanged": [
+                ".github/workflows/test-execution.yml",
+                "comfy_execution/progress.py",
+                "comfyui_version.py",
+                "pyproject.toml",
+                "requirements.txt",
+                "tests/conftest.py",
+                "tests/{inference => execution}/extra_model_paths.yaml",
+                "tests/{inference => execution}/test_async_nodes.py",
+                "tests/{inference => execution}/test_execution.py",
+                "tests/execution/test_progress_isolation.py",
+                "tests/{inference => execution}/testing_nodes/testing-pack/__init__.py",
+                "tests/{inference => execution}/testing_nodes/testing-pack/api_test_nodes.py",
+                "tests/{inference => execution}/testing_nodes/testing-pack/async_test_nodes.py",
+                "tests/{inference => execution}/testing_nodes/testing-pack/conditions.py",
+                "tests/{inference => execution}/testing_nodes/testing-pack/flow_control.py",
+                "tests/{inference => execution}/testing_nodes/testing-pack/specific_tests.py",
+                "tests/{inference => execution}/testing_nodes/testing-pack/stubs.py",
+                "tests/{inference => execution}/testing_nodes/testing-pack/tools.py",
+                "tests/{inference => execution}/testing_nodes/testing-pack/util.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-03": {
+          "date": "2025-09-03",
+          "heatScore": 86,
+          "linesChanged": 1148,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy_api_nodes/apis/__init__.py",
+            "comfy_api_nodes/nodes_bytedance.py",
+            "comfy_api_nodes/nodes_ideogram.py",
+            "comfy_api_nodes/nodes_runway.py",
+            "nodes.py",
+            "script_examples/basic_api_example.py"
+          ],
+          "commits": [
+            {
+              "hash": "e0f111c6eb9fd71586efdc6d426de59bfcea9752",
+              "author": "Dr.Lt.Data",
+              "date": "2025-09-03T23:30:56.000Z",
+              "message": "Merge branch 'master' into dr-support-pip-cm",
+              "linesAdded": 767,
+              "linesDeleted": 381,
+              "filesChanged": [
+                "comfy_api_nodes/apis/__init__.py",
+                "comfy_api_nodes/nodes_bytedance.py",
+                "comfy_api_nodes/nodes_ideogram.py",
+                "comfy_api_nodes/nodes_runway.py",
+                "nodes.py",
+                "script_examples/basic_api_example.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-02": {
+          "date": "2025-09-02",
+          "heatScore": 11,
+          "linesChanged": 29,
+          "commitCount": 1,
+          "filesEdited": [
+            "server.py"
+          ],
+          "commits": [
+            {
+              "hash": "464ba1d6140eda6a0173703ac00c69f7fddab6ba",
+              "author": "Deep Roy",
+              "date": "2025-09-02T23:41:10.000Z",
+              "message": "Accept prompt_id in interrupt handler (#9607)",
+              "linesAdded": 28,
+              "linesDeleted": 1,
+              "filesChanged": [
+                "server.py"
+              ]
+            }
+          ]
+        },
+        "2025-09-01": {
+          "date": "2025-09-01",
+          "heatScore": 12,
+          "linesChanged": 35,
+          "commitCount": 1,
+          "filesEdited": [
+            "comfy/ldm/flux/model.py",
+            "comfy/lora.py",
+            "comfy/lora_convert.py",
+            "comfy_extras/nodes_flux.py"
+          ],
+          "commits": [
+            {
+              "hash": "27e067ce505c102fd0f2be0f1242016c59a6816f",
+              "author": "comfyanonymous",
+              "date": "2025-09-01T22:54:02.000Z",
+              "message": "Implement the USO subject identity lora. (#9674)",
+              "linesAdded": 32,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "comfy/ldm/flux/model.py",
+                "comfy/lora.py",
+                "comfy/lora_convert.py",
+                "comfy_extras/nodes_flux.py"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "dataset_banana": {
+      "projectName": "dataset_banana",
+      "localPath": "C:\\Users\\megam\\dataset_banana",
+      "remoteUrl": "git@github.com:briancullinan2/dataset_banana.git",
+      "lastUpdated": "2026-09-24T02:37:01.657Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2025-09-15": {
+          "date": "2025-09-15",
+          "heatScore": 10,
+          "linesChanged": 2,
+          "commitCount": 1,
+          "filesEdited": [
+            "README.md"
+          ],
+          "commits": [
+            {
+              "hash": "2778294e4a73aec8f37747e0d2edfc4cb38b23a6",
+              "author": "Piero Toffanin",
+              "date": "2025-09-15T21:26:51.000Z",
+              "message": "Add link to banana inception in README",
+              "linesAdded": 2,
+              "linesDeleted": 0,
+              "filesChanged": [
+                "README.md"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

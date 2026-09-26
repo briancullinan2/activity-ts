@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "event-c9j3ieb26hhj4b9lc5h66b9kc5ijab9p69hj4bb46sr62e1m6kr3cc9k64@google.com",
+    "category": "events",
+    "timestamp": "2020-01-01T07:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-01T07:30:00.000Z",
+      "end": "2020-01-01T08:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cko68e32c9ij6b9h60rj8b9kccsjeb9o74pj6b9p68o3gpb4c5h6adpk70@google.com",
+    "category": "events",
+    "timestamp": "2020-01-01T08:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-01T08:00:00.000Z",
+      "end": "2020-01-01T09:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ccr3ce9l60p36b9j75ijab9k64oj0b9o68sj4b9l75h34c316dj62pj460@google.com",
+    "category": "events",
+    "timestamp": "2020-01-01T08:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-01T08:30:00.000Z",
+      "end": "2020-01-01T09:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6osm6or3chhjabb3c8ojgb9kc8p30b9o68o3gb9k61i6ad3664o66dj3c4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-01T09:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-01T09:30:00.000Z",
+      "end": "2020-01-01T10:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-chhmceb46krj0b9n6dh3eb9k65h3eb9p69hjcb9mcpi6ccpgckq34o9l74@google.com",
+    "category": "events",
+    "timestamp": "2020-01-01T10:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-01T10:30:00.000Z",
+      "end": "2020-01-01T11:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-75hj8cpocoo62bb661gm2b9k6cpj2b9p6ss36b9n6so38opkcph68eb36g@google.com",
+    "category": "events",
+    "timestamp": "2020-01-01T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-01T15:00:00.000Z",
+      "end": "2020-01-01T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6os34pj460oj0b9ncdgm2b9k70oj2bb271j62b9gc9i6ao9n60sm2c36cg@google.com",
+    "category": "events",
+    "timestamp": "2020-01-01T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-01T16:00:00.000Z",
+      "end": "2020-01-01T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7qnqq9duor87s7pv92534b4nj1@google.com",
+    "category": "events",
+    "timestamp": "2020-01-01T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-01T18:00:00.000Z",
+      "end": "2020-01-01T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6ripfpnbld5np986g2qsnkqu18@google.com",
+    "category": "events",
+    "timestamp": "2020-01-01T19:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-01T19:00:00.000Z",
+      "end": "2020-01-01T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c8p3gphn6lj38b9nc4q34b9k6hi66bb275imabb6c4o6aob3cos36e36c8@google.com",
+    "category": "events",
+    "timestamp": "2020-01-02T00:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-02T00:00:00.000Z",
+      "end": "2020-01-02T01:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70qmaphoc4om2bb26dgj0b9kc5ij0b9pcph62b9icos64d36cdh3ed9l6o@google.com",
+    "category": "events",
+    "timestamp": "2020-01-02T07:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-02T07:00:00.000Z",
+      "end": "2020-01-02T08:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6kr62dj4ckq3eb9jcdi3ab9k68ojeb9o74sm6bb168sjgd9icopjaphncc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-02T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-02T18:00:00.000Z",
+      "end": "2020-01-02T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-62qlh7bjet8lv5sgjfiormr0nt@google.com",
+    "category": "events",
+    "timestamp": "2020-01-02T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-02T22:00:00.000Z",
+      "end": "2020-01-02T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5sh7tnhreu7q2l0ae4hs4r693v@google.com",
+    "category": "events",
+    "timestamp": "2020-01-02T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-02T22:00:00.000Z",
+      "end": "2020-01-02T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0pr7l77rqfstlor3mfgunr35i2@google.com",
+    "category": "events",
+    "timestamp": "2020-01-02T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-02T23:00:00.000Z",
+      "end": "2020-01-03T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-chgj8cb26hhjcb9kcoo3eb9kcoq36bb2cdhj6b9p6osjgp1h6li66p1lco@google.com",
+    "category": "events",
+    "timestamp": "2020-01-03T03:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-03T03:00:00.000Z",
+      "end": "2020-01-03T04:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-64om4e1oc8sjcbb2c8p68b9k64oj4bb270r64b9h6so3ichl75h30cb46g@google.com",
+    "category": "events",
+    "timestamp": "2020-01-03T04:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-03T04:00:00.000Z",
+      "end": "2020-01-03T05:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c4o3cpb66pj34b9mc8pj4b9k65gj6bb26os6ab9k6kr6aor4cgs62cpn6o@google.com",
+    "category": "events",
+    "timestamp": "2020-01-03T07:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-03T07:30:00.000Z",
+      "end": "2020-01-03T08:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cph62d326gsjgbb4cdh34b9kcgrjebb1coqj0b9g65h3achl6hhj2o9j64@google.com",
+    "category": "events",
+    "timestamp": "2020-01-03T09:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-03T09:00:00.000Z",
+      "end": "2020-01-03T10:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-61j3gp3474s3ib9j69gj4b9k64omcb9p69imcb9j6gr64phmckq3gp9j60@google.com",
+    "category": "events",
+    "timestamp": "2020-01-03T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-03T15:00:00.000Z",
+      "end": "2020-01-03T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-75gj4p36cph36bb560om8b9kcdijcb9occqm2bb361gjce9h68qm2d9gcc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-03T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-03T18:00:00.000Z",
+      "end": "2020-01-03T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cq66d9hchh62b9iccsmab9kc9h3eb9p75gjgb9j69hjcphjc8o32p9m60@google.com",
+    "category": "events",
+    "timestamp": "2020-01-03T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-03T21:00:00.000Z",
+      "end": "2020-01-03T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cdi66ob46gq66bb36kq36b9k6oo3ab9ockp36b9lc5i36o9o6krjip1l60@google.com",
+    "category": "events",
+    "timestamp": "2020-01-03T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-03T22:00:00.000Z",
+      "end": "2020-01-03T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-61i3aohm71hj2b9l75j6ab9k70sm2bb175i3gbb5cos62cb2c4sjadr2c4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-03T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-03T23:00:00.000Z",
+      "end": "2020-01-04T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6co32pb370o62bb66krmab9kccpm6bb2ckqjab9g68q3ee34cgr64e9g74@google.com",
+    "category": "events",
+    "timestamp": "2020-01-04T07:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-04T07:00:00.000Z",
+      "end": "2020-01-04T08:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7brg7qbqtvk7vosu66f0o4oab7@google.com",
+    "category": "events",
+    "timestamp": "2020-01-04T16:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-04T16:00:00.000Z",
+      "end": "2020-01-04T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cqjcdr174qm6bb171j6ab9k6dhj0bb165j68b9h6kp64eb160r3cob66g@google.com",
+    "category": "events",
+    "timestamp": "2020-01-04T17:00:00.000Z",
+    "title": "[Revelation] Realized Olena puts olive oil in the trumpet on purpose to disable it.",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Realized Olena puts olive oil in the trumpet on purpose to disable it.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-04T17:00:00.000Z",
+      "end": "2020-01-04T18:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-5k8i0tdi5cbrmihrohjaarn6pu@google.com",
+    "category": "events",
+    "timestamp": "2020-01-04T18:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-04T18:30:00.000Z",
+      "end": "2020-01-04T19:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cco34cb1ckqmcb9iclj3ab9kcdi68b9o64r62bb36li6cp9n74q34cj170@google.com",
+    "category": "events",
+    "timestamp": "2020-01-04T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-04T20:00:00.000Z",
+      "end": "2020-01-04T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6kp38cr2ccqj6b9i6tij0b9k6srj0b9ocpij6b9mchij4cb1ckpmcc1jck@google.com",
+    "category": "events",
+    "timestamp": "2020-01-04T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-04T20:00:00.000Z",
+      "end": "2020-01-04T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-74q3gohi6cpj8bb5ccqmab9kcdgmabb260q30bb564omcp9g71j34phh74@google.com",
+    "category": "events",
+    "timestamp": "2020-01-04T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-04T21:00:00.000Z",
+      "end": "2020-01-04T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cop30e1g6sr66b9hcgsjeb9kccqjibb26sr38b9g68p3gp316somcc1k60@google.com",
+    "category": "events",
+    "timestamp": "2020-01-04T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-04T22:00:00.000Z",
+      "end": "2020-01-04T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-60ojadb1coq3cbb6cgrm8b9k74o3abb2cks34b9o68s64d9lcgpjce9n70@google.com",
+    "category": "events",
+    "timestamp": "2020-01-05T01:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-05T01:00:00.000Z",
+      "end": "2020-01-05T02:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-74sm6dr6cks38b9nc4p66b9k68p36b9p70p3gbb368pm2db5cco6aopicc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-05T02:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-05T02:00:00.000Z",
+      "end": "2020-01-05T03:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6gs6acppcgom4b9l64sjab9k6so6ab9oc4pjebb3c9h3gd9o75hjaopo68@google.com",
+    "category": "events",
+    "timestamp": "2020-01-05T03:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-05T03:00:00.000Z",
+      "end": "2020-01-05T04:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6go32d9m6phjgb9jclij4b9k70o6cb9p6osm8bb2c5i68pb26gr3aoj16c@google.com",
+    "category": "events",
+    "timestamp": "2020-01-05T04:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-05T04:00:00.000Z",
+      "end": "2020-01-05T05:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-75h32d9jccr6cbb56gq3ab9kcks6ab9p6ksj0b9i6di3ao9i6grjcp1kc4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-05T05:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-05T05:30:00.000Z",
+      "end": "2020-01-05T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6krj4p9mc9j32b9nc9im6b9k68qm4bb268o66b9oc8q3echg71i66o9n6k@google.com",
+    "category": "events",
+    "timestamp": "2020-01-05T17:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-05T17:30:00.000Z",
+      "end": "2020-01-05T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70rjecb46ph34bb261j38b9k60s34bb1c9h6ab9n6gr64dpj6di3aohg70@google.com",
+    "category": "events",
+    "timestamp": "2020-01-05T22:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-05T22:00:00.000Z",
+      "end": "2020-01-05T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckqj2ohncpi34b9i60qm4b9kcosjibb2cli3ib9k64sj8db1c5gjeohi60@google.com",
+    "category": "events",
+    "timestamp": "2020-01-06T04:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-06T04:30:00.000Z",
+      "end": "2020-01-06T05:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-64pm8ohic8q68b9nccs68b9k6gq3ibb1ckoj6b9pc5h3coj26hh34p9p6g@google.com",
+    "category": "events",
+    "timestamp": "2020-01-06T10:30:00.000Z",
+    "title": "[Predictions] Dream stole stuff from scary Russians or something sleeping in a house in third floor or hotel or something and he found us afraid of dying, thought I woke up on a crashing plane.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream stole stuff from scary Russians or something sleeping in a house in third floor or hotel or something and he found us afraid of dying, thought I woke up on a crashing plane.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-06T10:30:00.000Z",
+      "end": "2020-01-06T11:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-61hmcd9o6tijgb9pc4p66b9kcks3eb9ockr36bb26gom8dr46spmacpo74@google.com",
+    "category": "events",
+    "timestamp": "2020-01-06T14:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-06T14:30:00.000Z",
+      "end": "2020-01-06T15:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-68q68dhl6gs3ab9i6osjgb9k64pjcb9p6spmab9g68s3ad1kc8q68d1m74@google.com",
+    "category": "events",
+    "timestamp": "2020-01-06T15:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-06T15:30:00.000Z",
+      "end": "2020-01-06T16:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-71hjep36cpgm8b9l60r6ab9k6oqjgbb261h30b9pclhj0o9g6kp3ce35co@google.com",
+    "category": "events",
+    "timestamp": "2020-01-06T16:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-06T16:30:00.000Z",
+      "end": "2020-01-06T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ccrm6pb2ckpj4bb66dhmcb9k68s3ebb16grmcb9j71hmaor56hhj2e1i74@google.com",
+    "category": "events",
+    "timestamp": "2020-01-06T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-06T18:00:00.000Z",
+      "end": "2020-01-06T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cksjad1o6osm6b9k69im8b9k6gpjcbb16him8b9kcgojgd3171h3ap9l6o@google.com",
+    "category": "events",
+    "timestamp": "2020-01-06T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-06T19:00:00.000Z",
+      "end": "2020-01-06T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0oq9mmhvmq07hmifbresppb0tl@google.com",
+    "category": "events",
+    "timestamp": "2020-01-06T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-06T20:00:00.000Z",
+      "end": "2020-01-06T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-64pjid33ckqjeb9i6hhj4b9k64sj8bb1c8sm2bb164q3ae1n6oqjgo9o6k@google.com",
+    "category": "events",
+    "timestamp": "2020-01-07T01:00:00.000Z",
+    "title": "[Revelation] Depressed, Iga turned off location sharing",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "Depressed, Iga turned off location sharing",
+      "description": "Was afraid she was cheating on me because of my experiences with ex-girlfriends and promiscuity outside of marriage, realized 2 years later, it doesn't really matter because I trust her, and I would forgive her anyways. She can do what she wants as long as she is safe. Fear and lust isn't a reason to get divorced like my parents.",
+      "location": "",
+      "start": "2020-01-07T01:00:00.000Z",
+      "end": "2020-01-07T02:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-75i3eoj2c9j30b9pckq3gb9k6dj3abb16cpjab9hchh3ceb1c4s66dpn6g@google.com",
+    "category": "events",
+    "timestamp": "2020-01-07T15:00:00.000Z",
+    "title": "[Predictions] Dream, afraid of something",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, afraid of something",
+      "description": "",
+      "location": "",
+      "start": "2020-01-07T15:00:00.000Z",
+      "end": "2020-01-07T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6oq3ad326gr30bb16cqm8b9kccojab9pcgsjab9ochh3aohk6soj8c1mc8@google.com",
+    "category": "events",
+    "timestamp": "2020-01-07T19:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-07T19:30:00.000Z",
+      "end": "2020-01-07T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6orm4chkcoo62b9k74s36b9k6gq36b9p71h3gb9i74rj0d1m70p38ohh68@google.com",
+    "category": "events",
+    "timestamp": "2020-01-08T14:00:00.000Z",
+    "title": "[Predictions] Dream about some sort of wedding party AJ and Jessica and Jessie were all there, Jim and Olena, meeting in a hotel after hanging out in a fancy rental house smoking weed.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream about some sort of wedding party AJ and Jessica and Jessie were all there, Jim and Olena, meeting in a hotel after hanging out in a fancy rental house smoking weed.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-08T14:00:00.000Z",
+      "end": "2020-01-08T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-7lfpqn0dqjcgouva03i4tja8m4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-08T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-08T17:00:00.000Z",
+      "end": "2020-01-08T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cpjid9m6gom8b9h6ti34b9kcdh32bb1cgo3ibb175i66phmc4sjep1mco@google.com",
+    "category": "events",
+    "timestamp": "2020-01-08T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-08T21:00:00.000Z",
+      "end": "2020-01-08T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c8o32c9o64sjcb9hc4r6ab9kc4p66bb1ccom2b9k70pmaopg68qjceb668@google.com",
+    "category": "events",
+    "timestamp": "2020-01-08T21:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-08T21:30:00.000Z",
+      "end": "2020-01-08T22:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-71i3achl6osj4bb16hhj6b9k68rj8bb165j66b9lcgrm6dhh6gsm8cb46k@google.com",
+    "category": "events",
+    "timestamp": "2020-01-08T22:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-08T22:30:00.000Z",
+      "end": "2020-01-08T23:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4lmov83sruprgvh0mkkaapn1n8@google.com",
+    "category": "events",
+    "timestamp": "2020-01-08T23:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-08T23:30:00.000Z",
+      "end": "2020-01-09T00:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-1fl71spf5sj76eg3e45o4mrorb@google.com",
+    "category": "events",
+    "timestamp": "2020-01-09T00:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-09T00:30:00.000Z",
+      "end": "2020-01-09T01:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6gs3adb1c4r6cb9o69im2b9kc5ij4bb26cs32b9pcoq6ac35cdimcohkcc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-09T12:00:00.000Z",
+    "title": "[Predictions] Dream in a house with it's and bimbos speaker system making noise all over with voices, couldn't sleep",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream in a house with it's and bimbos speaker system making noise all over with voices, couldn't sleep",
+      "description": "",
+      "location": "",
+      "start": "2020-01-09T12:00:00.000Z",
+      "end": "2020-01-09T13:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-65ijae1pckoj2b9h64oj2b9k64r34b9ocdj34bb5cdhjcoj171gjed9gcc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-09T13:00:00.000Z",
+    "title": "[Predictions] Dream, Sneaking past my dad, scared. Trying to turn off sound and join my wife in the bedroom.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Sneaking past my dad, scared. Trying to turn off sound and join my wife in the bedroom.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-09T13:00:00.000Z",
+      "end": "2020-01-09T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-69gm2d1jc4q3gb9h65i36b9kcks38bb26dimab9kcoo30cphcdim2d9h6o@google.com",
+    "category": "events",
+    "timestamp": "2020-01-09T14:00:00.000Z",
+    "title": "[Predictions] Dream multiple girls one crying",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream multiple girls one crying",
+      "description": "",
+      "location": "",
+      "start": "2020-01-09T14:00:00.000Z",
+      "end": "2020-01-09T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cop62phickqjabb4ckpjgb9kcpj6cbb2cphm8b9i6sp38p1o6cqj2c35cc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-09T17:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-09T17:30:00.000Z",
+      "end": "2020-01-09T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cosjcc9oc8s64b9l6dj66b9kc4r3ib9o60o3gb9m6dj3ec346cpj2phn60@google.com",
+    "category": "events",
+    "timestamp": "2020-01-09T21:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-09T21:00:00.000Z",
+      "end": "2020-01-09T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-clh36chn6lhmcb9i74o68b9kcpi3ib9p70pm2b9h6lim4dhl61hjidhg60@google.com",
+    "category": "events",
+    "timestamp": "2020-01-09T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-09T22:00:00.000Z",
+      "end": "2020-01-09T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7t2teod718dmp1c8mrg8k1gkjr@google.com",
+    "category": "events",
+    "timestamp": "2020-01-09T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-09T23:00:00.000Z",
+      "end": "2020-01-10T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cos36e3160qjeb9i6crj0b9k6csm4bb265gj8bb56dh68opicop38pb6cg@google.com",
+    "category": "events",
+    "timestamp": "2020-01-10T05:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-10T05:30:00.000Z",
+      "end": "2020-01-10T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6so30c1i6cr3ab9jc8oj0b9kclh62bb161h64bb46ko62ohp70p3ac1o6k@google.com",
+    "category": "events",
+    "timestamp": "2020-01-10T14:00:00.000Z",
+    "title": "[Predictions] Dream, barely remember, positive feeling though",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, barely remember, positive feeling though",
+      "description": "",
+      "location": "",
+      "start": "2020-01-10T14:00:00.000Z",
+      "end": "2020-01-10T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-0nelm43u0ovmc0394fbivd0b39@google.com",
+    "category": "events",
+    "timestamp": "2020-01-10T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-10T15:00:00.000Z",
+      "end": "2020-01-10T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6pgj0p9pccs62b9m69j3ab9k68pm2bb271ij8bb1cpi3aob374q32dr6cc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-10T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-10T15:00:00.000Z",
+      "end": "2020-01-10T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c8qj8d1h74s66b9l64qj0b9kcdi3gbb16go3ab9iclj36p9i69h32e1n6s@google.com",
+    "category": "events",
+    "timestamp": "2020-01-10T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-10T18:00:00.000Z",
+      "end": "2020-01-10T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7h0k0pdp7ojnad073iukg5dug0@google.com",
+    "category": "events",
+    "timestamp": "2020-01-11T14:00:00.000Z",
+    "title": "[Predictions] Dream, barely remember, feeling was ok, positive, maybe traveling with my dad",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, barely remember, feeling was ok, positive, maybe traveling with my dad",
+      "description": "",
+      "location": "",
+      "start": "2020-01-11T14:00:00.000Z",
+      "end": "2020-01-11T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-5bo0rjt333a1l3n91csoujd4dl@google.com",
+    "category": "events",
+    "timestamp": "2020-01-11T15:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-11T15:00:00.000Z",
+      "end": "2020-01-11T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6gr34cj4ckq3cb9icphjcb9k6com4bb1cosj6bb66op62eb460rm2c9h6g@google.com",
+    "category": "events",
+    "timestamp": "2020-01-11T16:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-11T16:00:00.000Z",
+      "end": "2020-01-11T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7lu0kbtmc1337aijpmqf2bgq8q@google.com",
+    "category": "events",
+    "timestamp": "2020-01-11T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-11T17:30:00.000Z",
+      "end": "2020-01-11T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cpm8p9o6di34bb460qj8b9kcoq6cbb2ccrj0b9nc9hj6phl6ks32o9oc4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-12T15:00:00.000Z",
+    "title": "[Predictions] Dream, in a specific house, a but older, lots of wood maybe, laying low? Can't remember what I was doing only what I saw, abusing a cat. Flying a plane, partly in a thunderstorm landing, handing off controls to friends, having fun flying.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, in a specific house, a but older, lots of wood maybe, laying low? Can't remember what I was doing only what I saw, abusing a cat. Flying a plane, partly in a thunderstorm landing, handing off controls to friends, having fun flying.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-12T15:00:00.000Z",
+      "end": "2020-01-12T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-60rmacpk69gmabb3clj36b9k6oojebb261ij2b9g6th66d366ks34opg60@google.com",
+    "category": "events",
+    "timestamp": "2020-01-12T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-12T16:00:00.000Z",
+      "end": "2020-01-12T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-09p4r1als0pp97rll0k9g8kq3d@google.com",
+    "category": "events",
+    "timestamp": "2020-01-12T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-12T17:00:00.000Z",
+      "end": "2020-01-12T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-65j3ec326dh3ab9pcko38b9kccp6cb9p74qjcb9l71j68e9hcdgjgphi6o@google.com",
+    "category": "events",
+    "timestamp": "2020-01-13T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-13T06:00:00.000Z",
+      "end": "2020-01-13T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cqm4c1i6orjebb26th6ab9k64q3ibb1c9gj0b9kcoo38c9l68o36dr5cg@google.com",
+    "category": "events",
+    "timestamp": "2020-01-13T14:00:00.000Z",
+    "title": "[Predictions] Dream, on a beach with fake Bugatti, lots of military showing up, Jim wouldnt let me drive, went to house and locked myself up in bedroom with Iga trying to sleep, Jim making fun of me and making us do things we didn't like. Feeling angry",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, on a beach with fake Bugatti, lots of military showing up, Jim wouldnt let me drive, went to house and locked myself up in bedroom with Iga trying to sleep, Jim making fun of me and making us do things we didn't like. Feeling angry",
+      "description": "",
+      "location": "",
+      "start": "2020-01-13T14:00:00.000Z",
+      "end": "2020-01-13T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-5q60q1m5u8410268suef7tl1u1@google.com",
+    "category": "events",
+    "timestamp": "2020-01-13T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-13T18:00:00.000Z",
+      "end": "2020-01-13T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6opj6d316comab9icopj6b9k75ij0bb2clj3abb5c4p62opj61h3cdj160@google.com",
+    "category": "events",
+    "timestamp": "2020-01-14T12:00:00.000Z",
+    "title": "[Predictions] Dream, giant restaurant like a cruise ship, movie theater and bedrooms, water a garden outside, almost forgot to turn off water, trying to sit with a bunch of family and Kevin and Nate, went to visit Chris's with s huge 2 story glass window in the back, crumbling drywall/curtain. Open house like trying to sell the place, lots of strangers walking around.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, giant restaurant like a cruise ship, movie theater and bedrooms, water a garden outside, almost forgot to turn off water, trying to sit with a bunch of family and Kevin and Nate, went to visit Chris's with s huge 2 story glass window in the back, crumbling drywall/curtain. Open house like trying to sell the place, lots of strangers walking around.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-14T12:00:00.000Z",
+      "end": "2020-01-14T13:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ckq30ob1cgrjgbb570qj8b9k70rjab9p64qm6bb56sq64opl61hj2p1k6o@google.com",
+    "category": "events",
+    "timestamp": "2020-01-14T15:00:00.000Z",
+    "title": "[Predictions] Dream can't remember, angry Iga leaves door open wtih cold air",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream can't remember, angry Iga leaves door open wtih cold air",
+      "description": "",
+      "location": "",
+      "start": "2020-01-14T15:00:00.000Z",
+      "end": "2020-01-14T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-74o36cplcgr32b9mcdi68b9kcpim6b9pcdijib9kccq3acj3cdhjidb2c4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-14T17:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-14T17:30:00.000Z",
+      "end": "2020-01-14T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6th34ob670p3ib9nc4om2b9kc8pjcbb16cp3gb9k61h36cr164r3ed33co@google.com",
+    "category": "events",
+    "timestamp": "2020-01-14T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-14T19:00:00.000Z",
+      "end": "2020-01-14T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-65im4dhh75j34b9pccq6cb9k6sqm6bb26lh3ebb56gsj8p1h6kpjcp9nc4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-15T15:00:00.000Z",
+    "title": "[Predictions] Dream about trying to work for a tech company, angry, playing video game doom style",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream about trying to work for a tech company, angry, playing video game doom style",
+      "description": "",
+      "location": "",
+      "start": "2020-01-15T15:00:00.000Z",
+      "end": "2020-01-15T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ckp34d336opjab9hc8rj2b9kclh38bb2ccr6cb9l6srmae1pc8r3coj4cg@google.com",
+    "category": "events",
+    "timestamp": "2020-01-15T16:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-15T16:00:00.000Z",
+      "end": "2020-01-15T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2m98c7u4r5eqo26ritg7kfqoft@google.com",
+    "category": "events",
+    "timestamp": "2020-01-15T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-15T22:00:00.000Z",
+      "end": "2020-01-15T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-60q3ior1c4o68b9i6krmab9kchi32b9p69gm6b9k61j34c1h75hj0oph68@google.com",
+    "category": "events",
+    "timestamp": "2020-01-15T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-15T23:00:00.000Z",
+      "end": "2020-01-16T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cdhjccr36di6cbb56sqmcb9k6grjcb9ocgo64bb6c5ij6ob56dgj2dppcc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-16T14:00:00.000Z",
+    "title": "[Predictions] Dream of racing around in sports car with w bunch of people and mountains and farms, school with beautiful food court with Robert",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream of racing around in sports car with w bunch of people and mountains and farms, school with beautiful food court with Robert",
+      "description": "",
+      "location": "",
+      "start": "2020-01-16T14:00:00.000Z",
+      "end": "2020-01-16T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6oqmcdb275ijcb9pcdhm4b9kcgo3ebb264pmabb461ij2pb26cr62ob16s@google.com",
+    "category": "events",
+    "timestamp": "2020-01-16T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-16T23:00:00.000Z",
+      "end": "2020-01-17T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cpi68c1nckojebb6cgpjib9kccq6ab9ocgp3gb9j74s38opic4s30d35cg@google.com",
+    "category": "events",
+    "timestamp": "2020-01-17T00:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-17T00:30:00.000Z",
+      "end": "2020-01-17T01:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6k7tb9qnq73luahv6m0uvok4mn@google.com",
+    "category": "events",
+    "timestamp": "2020-01-17T05:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-17T05:00:00.000Z",
+      "end": "2020-01-17T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c8r64p9k74s32b9g6oo3ib9k70s3abb26or30b9m6lj34pb5cph3idb16g@google.com",
+    "category": "events",
+    "timestamp": "2020-01-17T15:00:00.000Z",
+    "title": "[Predictions] Dream I Europe with Iga, Using car to go to a restaurant with a bunch of family. In a hotel room with a recliner, bed, and chair, large TV screen in the same room, one room.  Driving fancy car around the corner, worried about missing a plane flight and getting arrested for killing someone.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream I Europe with Iga, Using car to go to a restaurant with a bunch of family. In a hotel room with a recliner, bed, and chair, large TV screen in the same room, one room.  Driving fancy car around the corner, worried about missing a plane flight and getting arrested for killing someone.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-17T15:00:00.000Z",
+      "end": "2020-01-17T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c4rj2p1p6ksj8bb36cqjib9kcko66b9p6li6ab9k6tijae9gc8rj2pj4c4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-17T16:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-17T16:00:00.000Z",
+      "end": "2020-01-17T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-4ooajkb622qi8svhkoakhnkucu@google.com",
+    "category": "events",
+    "timestamp": "2020-01-17T21:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-17T21:00:00.000Z",
+      "end": "2020-01-17T22:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-65gmcc3161hj2bb26gpjab9kccomcb9p6oq6ab9mc8q64c9n6kojichg6s@google.com",
+    "category": "events",
+    "timestamp": "2020-01-18T02:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-18T02:00:00.000Z",
+      "end": "2020-01-18T03:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-70rjgopjcgpjeb9l6pj3ab9kcpgjebb26li36bb3ckr68chp71hmcc1o70@google.com",
+    "category": "events",
+    "timestamp": "2020-01-18T03:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-18T03:30:00.000Z",
+      "end": "2020-01-18T04:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cojgdpl71hjeb9ockrjab9kc8p32b9o68sj0b9o74p34dpg75j68oppcc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-18T07:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-18T07:30:00.000Z",
+      "end": "2020-01-18T08:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6dj38chmccqjgb9kc4p6cb9k74rj6b9o60rj8bb664qjgdb3ckr30cpp74@google.com",
+    "category": "events",
+    "timestamp": "2020-01-18T13:30:00.000Z",
+    "title": "[Predictions] Dream on a jet flying over a concrete area 51 like. Buried flying saucer, dinner with Stephen wife and baby, stopped at some sort of bunker, kept accelerating and changing altitude, flying low to the ground, ariel view of a strange world, some sort of arena or model world, refused to share game code",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream on a jet flying over a concrete area 51 like. Buried flying saucer, dinner with Stephen wife and baby, stopped at some sort of bunker, kept accelerating and changing altitude, flying low to the ground, ariel view of a strange world, some sort of arena or model world, refused to share game code",
+      "description": "",
+      "location": "",
+      "start": "2020-01-18T13:30:00.000Z",
+      "end": "2020-01-18T14:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-cdhj0opl71h38b9m74q3gb9k6dgmabb164o38bb174o6ap1jccqj4p34c4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-18T18:15:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-18T18:15:00.000Z",
+      "end": "2020-01-18T19:15:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-5qsdnm3gtki4n16n8rlk527i5i@google.com",
+    "category": "events",
+    "timestamp": "2020-01-18T20:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-18T20:00:00.000Z",
+      "end": "2020-01-18T21:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7hrg3cbiq5qo0m2ghta6hpbnch@google.com",
+    "category": "events",
+    "timestamp": "2020-01-18T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-18T22:00:00.000Z",
+      "end": "2020-01-18T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6dia2nokbt94kg10p9dplt9ov7@google.com",
+    "category": "events",
+    "timestamp": "2020-01-18T23:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-18T23:00:00.000Z",
+      "end": "2020-01-19T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-68o3ccr56lhm8bb5cko64b9k6cqj8b9p69j66b9i6thm4p9k74rm8phl64@google.com",
+    "category": "events",
+    "timestamp": "2020-01-19T00:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-19T00:30:00.000Z",
+      "end": "2020-01-19T01:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-ckpm8d316kq34bb2c5im2b9kc9hjgb9ochimcbb161i3ge9mccsj0cr1c8@google.com",
+    "category": "events",
+    "timestamp": "2020-01-19T13:00:00.000Z",
+    "title": "[Predictions] Dream on a hill facing gangsters trying to leave with family",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream on a hill facing gangsters trying to leave with family",
+      "description": "",
+      "location": "",
+      "start": "2020-01-19T13:00:00.000Z",
+      "end": "2020-01-19T14:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-chhmad1o60p3gb9o6dimab9kcpim8bb26hijgb9m75h38phpcksm8pj374@google.com",
+    "category": "events",
+    "timestamp": "2020-01-19T14:00:00.000Z",
+    "title": "[Predictions] Dream dad's house looked mixed up Sean and Chris crawling through secret crawl space, cleaners coming in and out, went back for our laptops, down the street new house Iga and I and Corinne hanging out, had to run between them a little park in between. Jim said the owner of the house is coming back and we have to stay out of sight.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream dad's house looked mixed up Sean and Chris crawling through secret crawl space, cleaners coming in and out, went back for our laptops, down the street new house Iga and I and Corinne hanging out, had to run between them a little park in between. Jim said the owner of the house is coming back and we have to stay out of sight.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-19T14:00:00.000Z",
+      "end": "2020-01-19T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6pij0dr4cco32bb5clj30b9k60rmcbb2coom2b9ic5ijgdb661hjee9g74@google.com",
+    "category": "events",
+    "timestamp": "2020-01-19T15:00:00.000Z",
+    "title": "[Predictions] Dream, Jim showed up and said the house was no longer ours, felt bad for not spending more time with my sister when she was young, bedroom covered in candy wrappers, not in good health",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Jim showed up and said the house was no longer ours, felt bad for not spending more time with my sister when she was young, bedroom covered in candy wrappers, not in good health",
+      "description": "",
+      "location": "",
+      "start": "2020-01-19T15:00:00.000Z",
+      "end": "2020-01-19T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-0babe0hcdbr49dn666amss1m14@google.com",
+    "category": "events",
+    "timestamp": "2020-01-19T21:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-19T21:30:00.000Z",
+      "end": "2020-01-19T22:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6pgj6d9n6sq30bb160p30b9k6cq30bb265i3cbb46hhj2c9g74o6ce3374@google.com",
+    "category": "events",
+    "timestamp": "2020-01-20T14:00:00.000Z",
+    "title": "[Predictions] Dream trying to convince people to work on my game, burning down a tree in the back yard, ordering at a nice cafe restaurant, Michael was there",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream trying to convince people to work on my game, burning down a tree in the back yard, ordering at a nice cafe restaurant, Michael was there",
+      "description": "",
+      "location": "",
+      "start": "2020-01-20T14:00:00.000Z",
+      "end": "2020-01-20T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-61j36dpicor3abb46hgmab9kcgr6ab9pckp3ib9pcks68dhlc4pj6or36c@google.com",
+    "category": "events",
+    "timestamp": "2020-01-20T15:00:00.000Z",
+    "title": "[Predictions] Dream my videos from Marcin were automatically shared with other people, made a joke about staring at cheer leaders to other people in the group.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream my videos from Marcin were automatically shared with other people, made a joke about staring at cheer leaders to other people in the group.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-20T15:00:00.000Z",
+      "end": "2020-01-20T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-ccq64cj66lj38b9jc8ojgb9kcos3gb9p60rj4bb4cor3ie33cosj2p1gcc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-21T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-21T06:00:00.000Z",
+      "end": "2020-01-21T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cgom8cb4ckq6cbb370r32b9kcdh3cb9p6lhm6b9ncopj8c1n60s66d1k6o@google.com",
+    "category": "events",
+    "timestamp": "2020-01-21T08:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-21T08:00:00.000Z",
+      "end": "2020-01-21T09:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cdgjep9mc5h6cbb368sm4b9k6ssm8bb269h3cb9m70omcp326oo3edhoc4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-21T09:00:00.000Z",
+    "title": "[Predictions] Dream some sort of tent structure crawling on to roof patio from a new house, cats might of have been around",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream some sort of tent structure crawling on to roof patio from a new house, cats might of have been around",
+      "description": "",
+      "location": "",
+      "start": "2020-01-21T09:00:00.000Z",
+      "end": "2020-01-21T10:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6op66ob46lij8bb370oj8b9kcgqjab9p69gmab9g6dij8p9l6ti32pb66s@google.com",
+    "category": "events",
+    "timestamp": "2020-01-22T14:30:00.000Z",
+    "title": "[Predictions] Dream staying in an Airbnb downtown, present like spectating over a computer but someone could come in and scared someone will come in at night, with Dawid",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream staying in an Airbnb downtown, present like spectating over a computer but someone could come in and scared someone will come in at night, with Dawid",
+      "description": "",
+      "location": "",
+      "start": "2020-01-22T14:30:00.000Z",
+      "end": "2020-01-22T15:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6cr6ce1l60qjcbb5cor36b9kcop68bb170smab9ocoq38oj370pjgdj4cc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-22T23:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-22T23:30:00.000Z",
+      "end": "2020-01-23T00:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6kp34or26hhjcb9g6ti62b9k70qmcbb16pgj6b9gcgpmadhhc4r68phpc8@google.com",
+    "category": "events",
+    "timestamp": "2020-01-23T02:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-23T02:30:00.000Z",
+      "end": "2020-01-23T03:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-clh3epj660pjab9p6gqj6b9k6sq38bb164pmcbb66hhjcdr174q66dhi68@google.com",
+    "category": "events",
+    "timestamp": "2020-01-23T12:00:00.000Z",
+    "title": "[Predictions] Dream about Airbnb, Steve Michael Ryan tyler rus, some kind of light show Rus really loved all over city got lost at different times",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream about Airbnb, Steve Michael Ryan tyler rus, some kind of light show Rus really loved all over city got lost at different times",
+      "description": "",
+      "location": "",
+      "start": "2020-01-23T12:00:00.000Z",
+      "end": "2020-01-23T13:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6gs38cpp6hgjebb16or38b9k6sqm4bb26lhm2b9l6ksm4e35c9imcd1j60@google.com",
+    "category": "events",
+    "timestamp": "2020-01-23T15:00:00.000Z",
+    "title": "[Predictions] Dream I was back at epic in a bigger office with more people, Andrea interrogating me, switch office TV's from a movie to a video game competition",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream I was back at epic in a bigger office with more people, Andrea interrogating me, switch office TV's from a movie to a video game competition",
+      "description": "",
+      "location": "",
+      "start": "2020-01-23T15:00:00.000Z",
+      "end": "2020-01-23T16:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-64rj2chk60r38bb470rjgb9kc5gj4b9o6limcbb5cphmcpb4ccq6ccb3ck@google.com",
+    "category": "events",
+    "timestamp": "2020-01-23T16:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-23T16:30:00.000Z",
+      "end": "2020-01-23T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-65i34eb660r66b9l6kqjgb9k6lhmabb1clij6bb66com2pb4c8qjccj4cc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-24T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-24T05:30:00.000Z",
+      "end": "2020-01-24T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6gq30e9g60p3eb9lc4r3ib9k6oo3gbb1c8qm8b9n61hjac9o6oojgphk74@google.com",
+    "category": "events",
+    "timestamp": "2020-01-24T14:00:00.000Z",
+    "title": "[Predictions] Dream, underground mall underneath lush office buldings with Jeffrey, in front of our house with weed vaporizer with many cartridges, cops outside neighborhood questioning people",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, underground mall underneath lush office buldings with Jeffrey, in front of our house with weed vaporizer with many cartridges, cops outside neighborhood questioning people",
+      "description": "",
+      "location": "",
+      "start": "2020-01-24T14:00:00.000Z",
+      "end": "2020-01-24T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-69i3eoj46ssj4b9h75i3ib9kcco68bb1c8q30bb668s66cr468sjic9k70@google.com",
+    "category": "events",
+    "timestamp": "2020-01-24T15:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-24T15:30:00.000Z",
+      "end": "2020-01-24T16:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cdgj2e1m6cr68b9j75ijcb9k70sj6b9p6crjib9kchi34db16dhm8dhjcc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-24T17:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-24T17:30:00.000Z",
+      "end": "2020-01-24T18:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6ss3go9o6cpj0b9h6go66b9kc9i36b9p6co3eb9mc4p3epj3c4sj8e9m64@google.com",
+    "category": "events",
+    "timestamp": "2020-01-24T19:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-24T19:30:00.000Z",
+      "end": "2020-01-24T20:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cgsj8pb5c8r36bb169h3eb9k61hj0bb2cgr3cbb16cp30or174o68chpc8@google.com",
+    "category": "events",
+    "timestamp": "2020-01-25T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-25T05:30:00.000Z",
+      "end": "2020-01-25T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cr62pj3ckojibb364r68b9kcph6ab9ocpi6cb9n60o36oj36tj36chm6o@google.com",
+    "category": "events",
+    "timestamp": "2020-01-25T14:30:00.000Z",
+    "title": "[Predictions] Dream travelling in another town trying to meet up at a sandwich place with Linda, drove to wrong part of town, crazy driver like Matt disbrow or someone, in a hotel complex, weird elevator, sneaking around a board meeting, on a school like campus with a lake behind hotel",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream travelling in another town trying to meet up at a sandwich place with Linda, drove to wrong part of town, crazy driver like Matt disbrow or someone, in a hotel complex, weird elevator, sneaking around a board meeting, on a school like campus with a lake behind hotel",
+      "description": "",
+      "location": "",
+      "start": "2020-01-25T14:30:00.000Z",
+      "end": "2020-01-25T15:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c8q64d9g6dhmab9i6kpjgb9kcgsjcbb1c9gj8b9hckq66p9h70rj8cplc4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-25T16:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-25T16:00:00.000Z",
+      "end": "2020-01-25T17:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-chhjip9g61gjcb9i6dj68b9k6kr3gb9p6gp3ibb2ckpj2p9jc4qj0cpo6o@google.com",
+    "category": "events",
+    "timestamp": "2020-01-25T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-25T18:00:00.000Z",
+      "end": "2020-01-25T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-c5im6e9jckpj8b9l71gj6b9k6cs32bb260pj0b9gc5ijcoj468ojepj4cc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-26T05:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-26T05:00:00.000Z",
+      "end": "2020-01-26T06:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6pj3cpj4c4r34b9m60sm6b9k6sr3abb26oq3cb9m60omae32c9gj2dpj6c@google.com",
+    "category": "events",
+    "timestamp": "2020-01-26T14:00:00.000Z",
+    "title": "[Robot do] Dream, putting tools in a storage truck in front of house that is locked up, driveways with iron benches next to them, before that sneaking in to an observatory that is under ground and getting caught by am employee, took a bag with a computer like me robot and coming out and down the hill like it was built in to a mountain.",
+    "detail": {
+      "calendar": "Robot do",
+      "summary": "Dream, putting tools in a storage truck in front of house that is locked up, driveways with iron benches next to them, before that sneaking in to an observatory that is under ground and getting caught by am employee, took a bag with a computer like me robot and coming out and down the hill like it was built in to a mountain.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-26T14:00:00.000Z",
+      "end": "2020-01-26T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-chh32ob568p64bb66grj2b9kcoqm4b9p6cp32b9g6cs6aohnc8sjid1icg@google.com",
+    "category": "events",
+    "timestamp": "2020-01-26T15:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-26T15:30:00.000Z",
+      "end": "2020-01-26T16:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6sr38oj360p64b9lc8o3gb9kckqj8bb16dh3ib9occsj6p1gc8s30c3370@google.com",
+    "category": "events",
+    "timestamp": "2020-01-26T19:00:00.000Z",
+    "title": "[Robot do] Emotional, crying over Mr robot robinhooding",
+    "detail": {
+      "calendar": "Robot do",
+      "summary": "Emotional, crying over Mr robot robinhooding",
+      "description": "",
+      "location": "",
+      "start": "2020-01-26T19:00:00.000Z",
+      "end": "2020-01-26T20:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-71ij8o9hckrmab9pcdhm2b9k6gqj0b9o64om8bb164ojcp3269h34e9nc8@google.com",
+    "category": "events",
+    "timestamp": "2020-01-27T04:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-27T04:00:00.000Z",
+      "end": "2020-01-27T05:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6orj6e1nc8s3gb9nchi3ab9k6sq3eb9p6kp38b9o69i32cplc5gjgdb3cc@google.com",
+    "category": "events",
+    "timestamp": "2020-01-27T05:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-27T05:30:00.000Z",
+      "end": "2020-01-27T06:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6dhj2p1ockomcb9nc8qjib9k6lh3ib9o60q3cb9l60p68p9l65gjgpj274@google.com",
+    "category": "events",
+    "timestamp": "2020-01-27T12:30:00.000Z",
+    "title": "[Predictions] Dream, Trump insult website, Trying to get my code to work, meeting a neighbor around the corner, therapy with Steve",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, Trump insult website, Trying to get my code to work, meeting a neighbor around the corner, therapy with Steve",
+      "description": "",
+      "location": "",
+      "start": "2020-01-27T12:30:00.000Z",
+      "end": "2020-01-27T13:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c4s3gdhkchi3ab9nc5j32b9k6op62bb16orjibb66csj8dhm60sj0d9n60@google.com",
+    "category": "events",
+    "timestamp": "2020-01-27T17:30:00.000Z",
+    "title": "[Predictions] Dream hotel, trying to get laid, moving, packing, weird feelings",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream hotel, trying to get laid, moving, packing, weird feelings",
+      "description": "",
+      "location": "",
+      "start": "2020-01-27T17:30:00.000Z",
+      "end": "2020-01-27T18:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6di68opg69gm2bb468qjab9k6gr3ibb2ckr3ib9g71hmae336sr6ce316k@google.com",
+    "category": "events",
+    "timestamp": "2020-01-27T20:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-27T20:30:00.000Z",
+      "end": "2020-01-27T21:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-3inqfeiqffq9kr3jtkljf6bk43@google.com",
+    "category": "events",
+    "timestamp": "2020-01-27T23:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-27T23:00:00.000Z",
+      "end": "2020-01-28T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6lgm8cb370p3gbb4ccq3ib9k6li3eb9p74r3cb9h69h34c1h60rjadpmc8@google.com",
+    "category": "events",
+    "timestamp": "2020-01-28T14:00:00.000Z",
+    "title": "[Predictions] Nightmare, Eddie spending night with Grandpa, bruised, blue, bleeding, sun burnt, crying, then at a school buried deep in a warehouse, surrounded by junkies, trying to leave, stopped by security",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Nightmare, Eddie spending night with Grandpa, bruised, blue, bleeding, sun burnt, crying, then at a school buried deep in a warehouse, surrounded by junkies, trying to leave, stopped by security",
+      "description": "",
+      "location": "",
+      "start": "2020-01-28T14:00:00.000Z",
+      "end": "2020-01-28T15:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-68q66pb374o34b9o75hm8b9kcgp66b9p68ojib9j6dim6c1p69i38db6co@google.com",
+    "category": "events",
+    "timestamp": "2020-01-28T16:30:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-28T16:30:00.000Z",
+      "end": "2020-01-28T17:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6cq66d1kc5gjcb9oc8sjcb9kc5hm2bb26thm2b9g6dhj0e9k6oq3iphj68@google.com",
+    "category": "events",
+    "timestamp": "2020-01-28T22:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-28T22:00:00.000Z",
+      "end": "2020-01-28T23:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6thj6c3570omcb9mc8q68b9kcdhmabb170q38bb3cdijcd346gqmcp1lck@google.com",
+    "category": "events",
+    "timestamp": "2020-01-29T12:30:00.000Z",
+    "title": "[Predictions] Dream, some sort of training exercise diving in to water to save someone drowning",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, some sort of training exercise diving in to water to save someone drowning",
+      "description": "",
+      "location": "",
+      "start": "2020-01-29T12:30:00.000Z",
+      "end": "2020-01-29T13:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-65hj6e9k65h6cb9m64r62b9kc5im6b9o6pijibb365h64phg74qjcphnc4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-29T13:30:00.000Z",
+    "title": "[Predictions] Dream fancy restaurant with Jim, some weirdo sitting behind him wouldn't move to her own table, teaching Corinne how to hack in to hotel, some sort of warm lodge with conference room",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream fancy restaurant with Jim, some weirdo sitting behind him wouldn't move to her own table, teaching Corinne how to hack in to hotel, some sort of warm lodge with conference room",
+      "description": "",
+      "location": "",
+      "start": "2020-01-29T13:30:00.000Z",
+      "end": "2020-01-29T14:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-coo34cpo71ij8b9gcgrjcb9k70ojab9o6pijib9n69hm2e1o64pj8cpo70@google.com",
+    "category": "events",
+    "timestamp": "2020-01-29T14:30:00.000Z",
+    "title": "[Predictions] Dream skeptical chemist with a group, talking to two off duty cops about one of his kids committing suicide because of too much horror on the internet, what it takes to become a cop, told them I've seen an entrails video online like every year for the last 10 years.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream skeptical chemist with a group, talking to two off duty cops about one of his kids committing suicide because of too much horror on the internet, what it takes to become a cop, told them I've seen an entrails video online like every year for the last 10 years.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-29T14:30:00.000Z",
+      "end": "2020-01-29T15:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-69ij6ohn70oj0b9ocdh36b9k6os36b9occom4b9k6sq3gchj68om8dj368@google.com",
+    "category": "events",
+    "timestamp": "2020-01-29T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-29T17:00:00.000Z",
+      "end": "2020-01-29T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-cgom4e9h70om4b9p6dj6ab9k6ko64bb1c9gjcbb46cqj6e1l70rj2c34c4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-29T18:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-29T18:00:00.000Z",
+      "end": "2020-01-29T19:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6gr66ohj6cs6ab9l6ph6ab9k64s3abb26dh68b9lcdj62dj3cgsm6cb46c@google.com",
+    "category": "events",
+    "timestamp": "2020-01-29T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-29T19:00:00.000Z",
+      "end": "2020-01-29T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6pi3cpb2c4pj0bb5clhmcb9k6lj6ab9o68o6cbb6cpj66p9h6dhjid1nc4@google.com",
+    "category": "events",
+    "timestamp": "2020-01-29T23:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-29T23:00:00.000Z",
+      "end": "2020-01-30T00:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6go64p9h65i3gb9lcpgj0b9kcoq64b9pc4r64b9kcgp66e9lccrmcc1g6c@google.com",
+    "category": "events",
+    "timestamp": "2020-01-30T16:00:00.000Z",
+    "title": "[Predictions] Dream Virtual reality game with a 4 wheeled bmx bike the trying to take a car to airport to go to Scotland, didn't have any horsepower when I press power, didn't move when the pedal is pressed.",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream Virtual reality game with a 4 wheeled bmx bike the trying to take a car to airport to go to Scotland, didn't have any horsepower when I press power, didn't move when the pedal is pressed.",
+      "description": "",
+      "location": "",
+      "start": "2020-01-30T16:00:00.000Z",
+      "end": "2020-01-30T17:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-6gq32oj5cor30bb5cpj32b9kc4qjgb9o6kq68b9iclgjae3560o64dph74@google.com",
+    "category": "events",
+    "timestamp": "2020-01-30T17:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-30T17:00:00.000Z",
+      "end": "2020-01-30T18:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7gnve2bi6kmhgidtiorbbvgfdb@google.com",
+    "category": "events",
+    "timestamp": "2020-01-30T19:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-30T19:00:00.000Z",
+      "end": "2020-01-30T20:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-2rs3sbcefbd48q1ck4hd5oa0bk@google.com",
+    "category": "events",
+    "timestamp": "2020-01-30T20:30:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-30T20:30:00.000Z",
+      "end": "2020-01-30T21:30:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-74sjad346goj8bb66sq3ab9k6lim6b9p75ijcb9hcgp6copl6gs62c1l6g@google.com",
+    "category": "events",
+    "timestamp": "2020-01-31T11:00:00.000Z",
+    "title": "[Predictions] Dream, long shaped house in the desert popping in an out of different entrances, and ASTs",
+    "detail": {
+      "calendar": "Predictions",
+      "summary": "Dream, long shaped house in the desert popping in an out of different entrances, and ASTs",
+      "description": "",
+      "location": "",
+      "start": "2020-01-31T11:00:00.000Z",
+      "end": "2020-01-31T12:00:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-c8s6cdb56th68bb1corj0b9k61h62bb260pm2b9k70ojcor170p3acpj74@google.com",
+    "category": "events",
+    "timestamp": "2020-01-31T15:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-01-31T15:00:00.000Z",
+      "end": "2020-01-31T16:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-6csmad336opjcb9m6gp3gb9k64pjeb9p6sp6abb274p6adhgcksm6oj4c8@google.com",
+    "category": "events",
+    "timestamp": "2020-02-01T06:00:00.000Z",
+    "title": "[Iga] Iga",
+    "detail": {
+      "calendar": "Iga",
+      "summary": "Iga",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2020-02-01T06:00:00.000Z",
+      "end": "2020-02-01T07:00:00.000Z",
+      "isPublic": false
+    }
+  }
+]

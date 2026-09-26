@@ -1,0 +1,47 @@
+[
+  {
+    "id": "event-48s7jakb3t71ukh96j6a62bbrk@google.com",
+    "category": "events",
+    "timestamp": "2015-11-05T07:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "",
+      "start": "2015-11-05T07:00:00.000Z",
+      "end": "2015-11-06T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7kukuqrfedlm2f9t7634vc0bem8v59v0ldain5o80j3jshodk4p49mb9idj5qglka1hg",
+    "category": "events",
+    "timestamp": "2015-11-13T00:45:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "Spiga Cucina Italiana",
+      "start": "2015-11-13T00:45:00.000Z",
+      "end": "2015-11-13T01:45:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-0jf6ind05uvajd0oit6ajrscc9@google.com",
+    "category": "events",
+    "timestamp": "2015-11-13T01:30:00.000Z",
+    "title": "[Revelation] REV 1:1 - Realized I am a genius, everyone calls me brilliant and I finally start believing them, before synaptic pruning happens",
+    "detail": {
+      "calendar": "Revelation",
+      "summary": "REV 1:1 - Realized I am a genius, everyone calls me brilliant and I finally start believing them, before synaptic pruning happens",
+      "description": "<a href=\"https://www.google.com/url?q=https%3A%2F%2Fwww.livescience.com%2F16911-scientific-breakthroughs-genius-aging.html&amp;sa=D&amp;usd=2&amp;usg=AFQjCNF5zKmpiF7UuoZBHD6kbSx7I3RuOQ\" target=\"_blank\">https://www.livescience.com/16911-scientific-breakthroughs-genius-aging.html</a><br><br><a href=\"https://www.google.com/url?q=http%3A%2F%2Fwww.geniusintelligence.com%2Fwhymindsetiseverything.htm&amp;sa=D&amp;usd=2&amp;usg=AFQjCNEvO8P4mCYSCUpHyGUFiGnrJAZuzA\" target=\"_blank\">http://www.geniusintelligence.com/whymindsetiseverything.htm</a><br><br><a href=\"https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSynaptic_pruning%23Pruning_in_the_maturing_brain&amp;sa=D&amp;usd=2&amp;usg=AFQjCNFTDQLyu6n_HbUXveLLA39a55CSQQ\" target=\"_blank\">https://en.wikipedia.org/wiki/Synaptic_pruning#Pruning_in_the_maturing_brain</a><br><br>https://www.newscientist.com/article/dn20803-brains-synaptic-pruning-continues-into-your-20s/",
+      "location": "",
+      "start": "2015-11-13T01:30:00.000Z",
+      "end": "2015-11-13T02:30:00.000Z",
+      "isPublic": true
+    }
+  }
+]

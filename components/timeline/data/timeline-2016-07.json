@@ -1,0 +1,32 @@
+[
+  {
+    "id": "event-7kukuqrfedlm2f9trmo8b9u4aa3q86sd37e508ggauu49id474fdctdpdq7vopt58e80",
+    "category": "events",
+    "timestamp": "2016-07-21T07:00:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "Hotel Dix",
+      "start": "2016-07-21T07:00:00.000Z",
+      "end": "2016-07-25T07:00:00.000Z",
+      "isPublic": false
+    }
+  },
+  {
+    "id": "event-7kukuqrfedlm2f9tcetlsh3m9erblgicuhna97kmgn1udiuee52cnttc0tbg6m12ega0",
+    "category": "events",
+    "timestamp": "2016-07-21T21:55:00.000Z",
+    "title": "[Emotions] Emotions",
+    "detail": {
+      "calendar": "Emotions",
+      "summary": "Emotions",
+      "description": "Private Calendar Event",
+      "location": "Atlanta ATL",
+      "start": "2016-07-21T21:55:00.000Z",
+      "end": "2016-07-22T02:28:00.000Z",
+      "isPublic": false
+    }
+  }
+]

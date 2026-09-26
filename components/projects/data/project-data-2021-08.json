@@ -1,0 +1,446 @@
+{
+  "yearMonth": "2021-08",
+  "generatedAt": "2026-09-24T02:37:24.795Z",
+  "username": "briancullinan2",
+  "projects": {
+    "jupyter_ops": {
+      "projectName": "jupyter_ops",
+      "localPath": "C:\\Users\\megam\\jupyter_ops",
+      "remoteUrl": "git@github.com:briancullinan2/jupyter_ops.git",
+      "lastUpdated": "2026-09-24T02:37:07.335Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-08-24": {
+          "date": "2021-08-24",
+          "heatScore": 37,
+          "linesChanged": 418,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "5518c4891e962d64f2fe281d8dd50e7c1e63b89a",
+              "author": "megamind",
+              "date": "2021-08-24T05:52:00.000Z",
+              "message": "weird queuing issues with discord commands, servers lists not updating threads and all under general",
+              "linesAdded": 271,
+              "linesDeleted": 147,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-23": {
+          "date": "2021-08-23",
+          "heatScore": 27,
+          "linesChanged": 255,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "39cd8c228ea0b904f6103d3509c47698a61a9f6e",
+              "author": "megamind",
+              "date": "2021-08-23T18:40:20.000Z",
+              "message": "working channel organization for chat threads",
+              "linesAdded": 162,
+              "linesDeleted": 93,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-21": {
+          "date": "2021-08-21",
+          "heatScore": 17,
+          "linesChanged": 109,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "eec82ac75a1c55765e5ca5ee2b73c85c8ed5b13e",
+              "author": "megamind",
+              "date": "2021-08-21T21:27:32.000Z",
+              "message": "connect and active spectator working, need to listen for events and chat messages",
+              "linesAdded": 64,
+              "linesDeleted": 45,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-19": {
+          "date": "2021-08-19",
+          "heatScore": 23,
+          "linesChanged": 207,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "ec5b5b4ae9cc63ce474abe191e361666abe97ecd",
+              "author": "megamind",
+              "date": "2021-08-19T18:00:09.000Z",
+              "message": "fix for working entity deltas, need to send checksum to pure servers then reading to spectate",
+              "linesAdded": 161,
+              "linesDeleted": 46,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-18": {
+          "date": "2021-08-18",
+          "heatScore": 19,
+          "linesChanged": 146,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "c8d414dc1e9bbf885110306590572e16ee1e71a2",
+              "author": "megamind",
+              "date": "2021-08-18T19:48:19.000Z",
+              "message": "receiving server commands, but probably not sending them properly from writeBits offset",
+              "linesAdded": 101,
+              "linesDeleted": 45,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-17": {
+          "date": "2021-08-17",
+          "heatScore": 17,
+          "linesChanged": 109,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "e409fc7b36480484054edc0f6d2da9aa944606a6",
+              "author": "megamind",
+              "date": "2021-08-17T16:17:52.000Z",
+              "message": "successfully tramsitting mock cl_input after every snapshot and receiving a gamestate, need to decode",
+              "linesAdded": 61,
+              "linesDeleted": 48,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-16": {
+          "date": "2021-08-16",
+          "heatScore": 36,
+          "linesChanged": 404,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "8fe26837ddf8fb75045b1bbc6726e38b7bdaafaa",
+              "author": "megamind",
+              "date": "2021-08-16T17:44:36.000Z",
+              "message": "closer reading channel messages from client",
+              "linesAdded": 253,
+              "linesDeleted": 151,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-12": {
+          "date": "2021-08-12",
+          "heatScore": 32,
+          "linesChanged": 331,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "2270f0e4743ed228c67fc635a50fa4d1cbd5f955",
+              "author": "megamind",
+              "date": "2021-08-12T02:23:11.000Z",
+              "message": "probably working snapshot messages, need to send input acknowledges to get a gamestate",
+              "linesAdded": 271,
+              "linesDeleted": 60,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-11": {
+          "date": "2021-08-11",
+          "heatScore": 21,
+          "linesChanged": 166,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "8c315dbe9aa9bcdd290accafaf226c201a94221e",
+              "author": "megamind",
+              "date": "2021-08-11T02:18:56.000Z",
+              "message": "working connect message, need to accept challenge and snapshots",
+              "linesAdded": 107,
+              "linesDeleted": 59,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-10": {
+          "date": "2021-08-10",
+          "heatScore": 14,
+          "linesChanged": 66,
+          "commitCount": 1,
+          "filesEdited": [
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "dc143bc5ea403d1de10f726178fa9b9996029148",
+              "author": "megamind",
+              "date": "2021-08-10T05:26:00.000Z",
+              "message": "adding message compression to nodejs bot",
+              "linesAdded": 63,
+              "linesDeleted": 3,
+              "filesChanged": [
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-08": {
+          "date": "2021-08-08",
+          "heatScore": 30,
+          "linesChanged": 302,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "7dba0159098598ac16edc2974868991d3aa861e0",
+              "author": "megamind",
+              "date": "2021-08-08T05:31:13.000Z",
+              "message": "adding nodejs spectator for discord chat connector",
+              "linesAdded": 247,
+              "linesDeleted": 55,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-07": {
+          "date": "2021-08-07",
+          "heatScore": 21,
+          "linesChanged": 170,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "1d22e3ee36b4f6661b1cf7664a1226396086181d",
+              "author": "megamind",
+              "date": "2021-08-07T19:44:45.000Z",
+              "message": "working rcon discord command and better formatting",
+              "linesAdded": 115,
+              "linesDeleted": 55,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-06": {
+          "date": "2021-08-06",
+          "heatScore": 23,
+          "linesChanged": 206,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb"
+          ],
+          "commits": [
+            {
+              "hash": "acabcf3d3c9b6f469e581d3c5656c1e9e7f140fd",
+              "author": "megamind",
+              "date": "2021-08-06T05:16:47.000Z",
+              "message": "trying to get a master list of servers to create threads when someone is online",
+              "linesAdded": 155,
+              "linesDeleted": 51,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb"
+              ]
+            }
+          ]
+        },
+        "2021-08-05": {
+          "date": "2021-08-05",
+          "heatScore": 33,
+          "linesChanged": 351,
+          "commitCount": 1,
+          "filesEdited": [
+            "Core/cache.ipynb",
+            "Games/quake3 server connector.ipynb",
+            "Google/google maps.ipynb",
+            "image.png"
+          ],
+          "commits": [
+            {
+              "hash": "d8602929187ac83fc16c913384daa2071fd05c52",
+              "author": "megamind",
+              "date": "2021-08-05T04:05:33.000Z",
+              "message": "adding interactions and formal commands to discord bot, need to add thread manager",
+              "linesAdded": 262,
+              "linesDeleted": 89,
+              "filesChanged": [
+                "Core/cache.ipynb",
+                "Games/quake3 server connector.ipynb",
+                "Google/google maps.ipynb",
+                "image.png"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "Quake3e": {
+      "projectName": "Quake3e",
+      "localPath": "C:\\Users\\megam\\Quake3e",
+      "lastUpdated": "2026-09-24T02:37:19.854Z",
+      "screenshots": [],
+      "dailyHeat": {
+        "2021-08-12": {
+          "date": "2021-08-12",
+          "heatScore": 79,
+          "linesChanged": 1039,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/huffman_static.c",
+            "code/wasm/lib/huffman.c"
+          ],
+          "commits": [
+            {
+              "hash": "9b1af9e3e3a156d951483bc5278ca73295a4e7b4",
+              "author": "megamind",
+              "date": "2021-08-12T02:23:49.000Z",
+              "message": "better huffman decoder built directly from sources",
+              "linesAdded": 2,
+              "linesDeleted": 1037,
+              "filesChanged": [
+                "code/qcommon/huffman_static.c",
+                "code/wasm/lib/huffman.c"
+              ]
+            }
+          ]
+        },
+        "2021-08-11": {
+          "date": "2021-08-11",
+          "heatScore": 17,
+          "linesChanged": 109,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/qcommon/huffman.c",
+            "code/qcommon/huffman_static.c",
+            "code/server/sv_bsp.c",
+            "code/server/sv_client.c",
+            "code/server/sv_init.c",
+            "code/wasm/lib/huffman.c",
+            "code/wasm/lib/huffman_import.js",
+            "make/lib_huffman.make",
+            "make/platform_wasm.make"
+          ],
+          "commits": [
+            {
+              "hash": "c48c285058d4a24c42e66761ba7faebd0d249b98",
+              "author": "megamind",
+              "date": "2021-08-11T02:19:36.000Z",
+              "message": "better huffman building",
+              "linesAdded": 87,
+              "linesDeleted": 22,
+              "filesChanged": [
+                "code/qcommon/huffman.c",
+                "code/qcommon/huffman_static.c",
+                "code/server/sv_bsp.c",
+                "code/server/sv_client.c",
+                "code/server/sv_init.c",
+                "code/wasm/lib/huffman.c",
+                "code/wasm/lib/huffman_import.js",
+                "make/lib_huffman.make",
+                "make/platform_wasm.make"
+              ]
+            }
+          ]
+        },
+        "2021-08-03": {
+          "date": "2021-08-03",
+          "heatScore": 17,
+          "linesChanged": 118,
+          "commitCount": 1,
+          "filesEdited": [
+            "code/server/sv_bsp.c"
+          ],
+          "commits": [
+            {
+              "hash": "334955ea310adcb89f490799a2275461f0658228",
+              "author": "megamind",
+              "date": "2021-08-03T05:18:39.000Z",
+              "message": "nearly working water sphere",
+              "linesAdded": 59,
+              "linesDeleted": 59,
+              "filesChanged": [
+                "code/server/sv_bsp.c"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}
