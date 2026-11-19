@@ -1,0 +1,47 @@
+[
+  {
+    "id": "event-4983A205-6A98-4511-AD53-F924F8AB78C3",
+    "category": "events",
+    "timestamp": "2013-10-09T20:30:00.000Z",
+    "title": "[Calendar] Meet Cecilia Nieto",
+    "detail": {
+      "calendar": "Calendar",
+      "summary": "Meet Cecilia Nieto",
+      "description": "",
+      "location": "BAC Starbucks",
+      "start": "2013-10-09T20:30:00.000Z",
+      "end": "2013-10-09T21:30:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-E4A5410C-D53B-4155-AA4C-AB3A1784D86D",
+    "category": "events",
+    "timestamp": "2013-10-09T21:45:00.000Z",
+    "title": "[Calendar] Meet with Haley",
+    "detail": {
+      "calendar": "Calendar",
+      "summary": "Meet with Haley",
+      "description": "",
+      "location": "Starbucks at BAC",
+      "start": "2013-10-09T21:45:00.000Z",
+      "end": "2013-10-09T22:45:00.000Z",
+      "isPublic": true
+    }
+  },
+  {
+    "id": "event-44E41F59-C74C-46D0-9324-D6E880393585",
+    "category": "events",
+    "timestamp": "2013-10-21T22:30:00.000Z",
+    "title": "[Calendar] Call with Pam to discuss results",
+    "detail": {
+      "calendar": "Calendar",
+      "summary": "Call with Pam to discuss results",
+      "description": "",
+      "location": "Call",
+      "start": "2013-10-21T22:30:00.000Z",
+      "end": "2013-10-21T23:30:00.000Z",
+      "isPublic": true
+    }
+  }
+]

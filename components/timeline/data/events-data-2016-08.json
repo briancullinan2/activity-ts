@@ -1,32 +1,17 @@
 [
   {
-    "id": "event-35tk25oiqiokoc01661dfr1euq@google.com",
-    "category": "events",
-    "timestamp": "2016-08-12T21:00:00.000Z",
-    "title": "[Emotions] Emotions",
-    "detail": {
-      "calendar": "Emotions",
-      "summary": "Emotions",
-      "description": "Private Calendar Event",
-      "location": "",
-      "start": "2016-08-12T21:00:00.000Z",
-      "end": "2016-08-12T22:00:00.000Z",
-      "isPublic": false
-    }
-  },
-  {
     "id": "event-03r28qkt8i2rf6ofbh73ngorfc@google.com",
     "category": "events",
     "timestamp": "2016-08-17T07:00:00.000Z",
-    "title": "[Emotions] Emotions",
+    "title": "[Calendar] Reconnected with Michael",
     "detail": {
-      "calendar": "Emotions",
-      "summary": "Emotions",
-      "description": "Private Calendar Event",
+      "calendar": "Calendar",
+      "summary": "Reconnected with Michael",
+      "description": "Asked Stephen about his love for new baby so he could tell me everything is a waste of time?\nTrying to identify here I heard or read \"waste of time\"\nhttps://mail.google.com/mail/u/2/#search/waste+of+time/15702ff92434ef88\nMight be related:\nhttps://mail.google.com/mail/u/1/#search/everything/1569addf8c3d99cf\nPhone call with Stephen about \"everything is a waste of time\"\nCan michael find the day of the exact quote?",
       "location": "",
       "start": "2016-08-17T07:00:00.000Z",
       "end": "2016-08-18T07:00:00.000Z",
-      "isPublic": false
+      "isPublic": true
     }
   }
 ]

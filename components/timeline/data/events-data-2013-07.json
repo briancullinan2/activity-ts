@@ -1,17 +1,17 @@
 [
   {
-    "id": "event-8qpoo2l0ervqatbmimnf32ss1s@google.com",
+    "id": "event-A20AF119-9643-4C90-98DE-51CD09E327B1",
     "category": "events",
-    "timestamp": "2013-07-01T22:30:00.000Z",
-    "title": "[Iga] Iga",
+    "timestamp": "2013-07-18T19:00:00.000Z",
+    "title": "[Calendar] Face to face interview with John Deitz/Pinnacle Cart",
     "detail": {
-      "calendar": "Iga",
-      "summary": "Iga",
-      "description": "Private Calendar Event",
-      "location": "",
-      "start": "2013-07-01T22:30:00.000Z",
-      "end": "2013-07-01T23:30:00.000Z",
-      "isPublic": false
+      "calendar": "Calendar",
+      "summary": "Face to face interview with John Deitz/Pinnacle Cart",
+      "description": "When: Thursday, July 18, 2013 12:00 PM-2:00 PM. (UTC-07:00) Arizona\nWhere: 7227 N. 16th Street, Phoenix  85020\n\n*~*~*~*~*~*~*~*~*~*\n\n\nBrian,\n\nI set this up for 2 hours however I have seen these last a little longer.\n\nI have copied Mark on this simply to keep him looped in, he will not be attending the interview.\n\nGood luck, I know you will do great.\n\n\nT\n",
+      "location": "7227 N. 16th Street, Phoenix  85020",
+      "start": "2013-07-18T19:00:00.000Z",
+      "end": "2013-07-18T21:00:00.000Z",
+      "isPublic": true
     }
   }
 ]

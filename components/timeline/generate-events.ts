@@ -8,12 +8,12 @@ import type { ITimelineItem } from './generate';
 const HOMEPATH = process.env.HOME || process.env.HOMEPATH || process.env.USERPROFILE || '';
 
 const CALENDAR_NAMES = [
-	'Diet', 'Emotions', 'General', 'Iga',
+	'Calendar', 'Diet', 'Emotions', 'General', 'Iga',
 	'Predictions', 'Revelation', 'Robot do'
 ];
 
 const PUBLIC_CALENDARS = [
-	'Diet', 'General', 'Revelation', 'Robot do', 'Predictions'
+	'Calendar', 'Diet', 'General', 'Revelation', 'Robot do', 'Predictions'
 ];
 
 /**
@@ -58,6 +58,7 @@ export async function generateEventsData(calendarDir?: string): Promise<ITimelin
 		})
 		.map(fname => path.join(targetDir, fname));
 
+	console.log(fs.readdirSync(targetDir));
 	if(calendarFiles.length === 0)
 	{
 		console.warn('[-] No matching .ics calendar files located.');

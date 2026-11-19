@@ -3,30 +3,30 @@
     "id": "event-0gh08ehfeabogptrisaun07iqc@google.com",
     "category": "events",
     "timestamp": "2016-05-22T07:00:00.000Z",
-    "title": "[Emotions] Emotions",
+    "title": "[Calendar] Sacred number",
     "detail": {
-      "calendar": "Emotions",
-      "summary": "Emotions",
-      "description": "Private Calendar Event",
+      "calendar": "Calendar",
+      "summary": "Sacred number",
+      "description": "3/22/16\nBadself\nbelfast?",
       "location": "",
       "start": "2016-05-22T07:00:00.000Z",
       "end": "2016-05-23T07:00:00.000Z",
-      "isPublic": false
+      "isPublic": true
     }
   },
   {
     "id": "event-7kukuqrfedlm2f9tde7givvl17rbg0k627udp75cfbn4e5gla4s32o0ej02inlpann10",
     "category": "events",
     "timestamp": "2016-05-27T01:30:00.000Z",
-    "title": "[Emotions] Emotions",
+    "title": "[Calendar] Reservation at Posh",
     "detail": {
-      "calendar": "Emotions",
-      "summary": "Emotions",
-      "description": "Private Calendar Event",
+      "calendar": "Calendar",
+      "summary": "Reservation at Posh",
+      "description": "Posh\n7167 East Rancho Vista Drive, Unit 111, Scottsdale, AZ 85251\n+1 480-663-7674",
       "location": "Posh",
       "start": "2016-05-27T01:30:00.000Z",
       "end": "2016-05-27T02:30:00.000Z",
-      "isPublic": false
+      "isPublic": true
     }
   }
 ]

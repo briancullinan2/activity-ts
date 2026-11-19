@@ -1,0 +1,17 @@
+[
+  {
+    "id": "event-568823A4-04E5-4F64-8B42-5D983FE64434",
+    "category": "events",
+    "timestamp": "2009-08-25T01:00:00.000Z",
+    "title": "[Calendar] ACM Officer Meeting",
+    "detail": {
+      "calendar": "Calendar",
+      "summary": "ACM Officer Meeting",
+      "description": "",
+      "location": "Egr 105",
+      "start": "2009-08-25T01:00:00.000Z",
+      "end": "2009-08-25T04:00:00.000Z",
+      "isPublic": true
+    }
+  }
+]
